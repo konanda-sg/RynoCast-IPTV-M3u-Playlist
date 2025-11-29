@@ -15,7 +15,12 @@ jobs:
 
     - name: Merge all
       run: |
-        rm -f MERGED_VOD*.m3u
+        shopt -s nullglob
+        files=(MERGED_VOD*.m3u)
+        if [ ${#files[@]} -gt 0 ]; then
+          rm -f MERGED_VOD*.m3u
+        fi
+
         mkdir -p merged_tmp
         echo -n > merged_tmp/combined-playlist.m3u
 
