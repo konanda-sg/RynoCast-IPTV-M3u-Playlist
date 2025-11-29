@@ -15,10 +15,11 @@ jobs:
 
     - name: Merge all
       run: |
+        rm -f MERGED_VOD*.m3u
         mkdir -p merged_tmp
         echo -n > merged_tmp/combined-playlist.m3u
 
-        find . -type f -name "*live.m3u" ! -path "./merged_tmp/*" ! -name "combined-playlist.m3u" | while read file; do
+        find . -type f -name "*vod.m3u" ! -path "./merged_tmp/*" ! -name "combined-playlist.m3u" | while read file; do
           base=$(basename "$file" .m3u)
           awk -v grp="$base" '
             NR == 1 && $0 == "#EXTM3U" { next }
@@ -38,15 +39,31 @@ jobs:
         done
 
         sed -i '1i #EXTM3U' merged_tmp/combined-playlist.m3u
-
-        mv merged_tmp/combined-playlist.m3u MERGED_LIVE.m3u
+        mv merged_tmp/combined-playlist.m3u MERGED_VOD.m3u
         rm -rf merged_tmp
+
+        MAX_SIZE=$((100 * 1024 * 1024))
+        FILE_SIZE=$(stat -c%s "MERGED_VOD.m3u")
+
+        if [ "$FILE_SIZE" -le "$MAX_SIZE" ]; then
+          echo "File size below 100MB, no split needed."
+        else
+          i=1
+          split -b 100M -d --additional-suffix=.m3u MERGED_VOD.m3u MERGED_VOD
+          for f in MERGED_VOD*; do
+            mv "$f" "MERGED_VOD${i}.m3u"
+            i=$((i+1))
+          done
+          rm MERGED_VOD.m3u
+        fi
 
     - name: Commit and push merged playlist
       run: |
         git config user.name "${{ secrets.GIT_U }}"
         git config user.email "${{ secrets.GIT_E }}"
-        git add MERGED_LIVE.m3u
+
+        git add MERGED_VOD*.m3u
+
         if ! git diff --cached --quiet; then
           git commit -m "Auto-merged m3u playlists $(date -u +"%Y-%m-%d %H:%M UTC")"
           git push
