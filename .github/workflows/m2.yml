@@ -1,4 +1,4 @@
-mame: Merge M3Ux
+name: Merge M3Uxx
 
 on:
   schedule:
@@ -13,12 +13,12 @@ jobs:
     - name: Checkout repo
       uses: actions/checkout@v3
 
-    - name: Merge all l playlists
+    - name: Merge all VOD playlists
       run: |
         mkdir -p merged_tmp
         echo -n > merged_tmp/combined-playlist.m3u
 
-        find . -type f -name "*live.m3u" ! -path "./merged_tmp/*" ! -name "combined-playlist.m3u" | while read file; do
+        find . -type f -name "*vod.m3u" ! -path "./merged_tmp/*" ! -name "combined-playlist.m3u" | while read file; do
           base=$(basename "$file" .m3u)
           awk -v grp="$base" '
             NR == 1 && $0 == "#EXTM3U" { next }
@@ -38,7 +38,7 @@ jobs:
         done
 
         sed -i '1i #EXTM3U' merged_tmp/combined-playlist.m3u
-        mv merged_tmp/combined-playlist.m3u MERGED_LIVE.m3u
+        mv merged_tmp/combined-playlist.m3u MERGED_VOD.m3u
         rm -rf merged_tmp
 
     - name: Commit and push merged playlist (max 98 MB)
@@ -47,14 +47,14 @@ jobs:
         git config user.email "${{ secrets.GIT_E }}"
 
         MAX_SIZE=$((98 * 1024 * 1024))
-        FILE_SIZE=$(stat -c%s "MERGED_LIVE.m3u")
+        FILE_SIZE=$(stat -c%s "MERGED_VOD.m3u")
 
         if [ $FILE_SIZE -le $MAX_SIZE ]; then
-          git add MERGED_LIVE.m3u
+          git add MERGED_VOD.m3u
         else
-          split -b $MAX_SIZE MERGED_LIVE.m3u MERGED_LIVE_PART_
-          mv MERGED_LIVE_PART_aa MERGED_LIVE.m3u
-          git add MERGED_LIVE.m3u
+          split -b $MAX_SIZE MERGED_VOD.m3u MERGED_VOD_PART_
+          mv MERGED_VOD_PART_aa MERGED_VOD.m3u
+          git add MERGED_VOD.m3u
         fi
 
         if ! git diff --cached --quiet; then
