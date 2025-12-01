@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nisay.xyz:8080
-# Generated: 2025-12-01 07:15:10
+# Generated: 2025-12-01 18:34:02
 # Expires: 2026-10-04
 # Family Safe Edition
 # ==============================================
@@ -7717,7 +7717,9 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1116.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: DOKUMANTARE",DE: Planet der Liebe
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1117.mp4
 
-# --- Movies | DE: FILME 2021 (491) ---
+# --- Movies | DE: FILME 2021 (492) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jj04zZ5HYCtqOqVSFmo75iEIrrt.jpg" group-title="Movies | DE: FILME 2021",DE: Wrong Turn - The Foundation (2021)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/158886.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/otj6cxt1ho0KG6nmpQaBxjL6Ocz.jpg" group-title="Movies | DE: FILME 2021",DE: Arisaka (2021)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/158151.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPhNB63EsHebwc6FwHM35pdw1vE.jpg" group-title="Movies | DE: FILME 2021",DE: Furioza (2021)
@@ -11369,7 +11371,11 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/112211.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYWdLZCS9W1Xli9bynzFSddLx02.jpg" group-title="Movies | DE: FILME 2023",DE: Dog Gone 2023
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/112207.mkv
 
-# --- Movies | DE: FILME 2024 (575) ---
+# --- Movies | DE: FILME 2024 (577) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXl594xhkpqCQij6GFfmvA9hol0.jpg" group-title="Movies | DE: FILME 2024",DE: Thomas und Marco (2024)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/158887.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Al5mTuxjCAsEmTFwAmc446wzzxv.jpg" group-title="Movies | DE: FILME 2024",DE: Wenn der Herbst naht (2024)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/158888.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cJaBmgIf57qE56S5zxm7xws2lZP.jpg" group-title="Movies | DE: FILME 2024",DE: What Lurks Beneath (2024)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/158742.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8xjOFXj0CHy5Mp6Wfsr2iIXTtZ5.jpg" group-title="Movies | DE: FILME 2024",DE: Frankie Freako (2024)
@@ -12521,7 +12527,17 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/139884.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5y0hFRhfx34Be04B7GGqg5TMTM0.jpg" group-title="Movies | DE: FILME 2024",DE: City Hunter (2024)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/139885.mp4
 
-# --- Movies | DE: FILME 2025 (323) ---
+# --- Movies | DE: FILME 2025 (328) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/waU3o5qRPNA9bIC59DIsDppll11.jpg" group-title="Movies | DE: FILME 2025",DE: The Unholy Trinity (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/158881.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/srxRI7kWP6AUO0vvOxmjyeqQRUF.jpg" group-title="Movies | DE: FILME 2025",DE: Cannibal Mukbang (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/158882.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t3XQoKYPFRwzL4249NVrZtrJUrN.jpg" group-title="Movies | DE: FILME 2025",DE: Das Leben der Wünsche (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/158883.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mTM5BC89WEIoBdmFE4xGtebWnGa.jpg" group-title="Movies | DE: FILME 2025",DE: Der Hochstapler - Roofman (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/158884.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9LU1uvxf0BZxfPGX0oInpYxZX0.jpg" group-title="Movies | DE: FILME 2025",DE: The Creeps (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/158885.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxvRZxq6ACTeJYJZKsHQAhz76yF.jpg" group-title="Movies | DE: FILME 2025",DE: 825 Forest Road (2025)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/158732.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aEk9jLbiKTVssdATbrF879NvyyJ.jpg" group-title="Movies | DE: FILME 2025",DE: The Strangers: Chapter 2 (2025)
@@ -13463,7 +13479,7 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1606.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: PARAMOUNT+",DE: Playing Gracie Darling
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1712.mp4
 
-# --- Movies | DIGER SERILER (65) ---
+# --- Movies | DIGER SERILER (66) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DIGER SERILER",The Passage - FOX
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/90.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DIGER SERILER",Supernatural - The CW
@@ -13594,6 +13610,8 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1730.mp4
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1772.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DIGER SERILER",The Rainmaker
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1794.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DIGER SERILER",Talamasca: The Secret Order
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1810.mp4
 
 # --- Movies | DISNEY+ (138) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DISNEY+",Vikingler
@@ -15127,7 +15145,7 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/101615.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/go70h8uby3OfECZEiIGDQETPnzV.jpg" group-title="Movies | GERMANY WESTERN FILME",DE: Ich, Tom Horn 1980
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/138508.mp4
 
-# --- Movies | GUNCEL DIZI (25) ---
+# --- Movies | GUNCEL DIZI (24) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Lh8xbSr43ZVl3cI5Lu0hdW2ckW.jpg" group-title="Movies | GUNCEL DIZI",DIZI: ARKA SOKAKLAR (SON BOLUM)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/24076.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5HkjNXxhYNDsrJDPd9DEjk7wDqT.jpg" group-title="Movies | GUNCEL DIZI",DIZI: AYNADAKI YABANCI ( FiNAL BOLUM )
@@ -15136,8 +15154,6 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/157055.mkv
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/137496.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1mPhUUEGZFZdlLHUtPHENZae91g.jpg" group-title="Movies | GUNCEL DIZI",DIZI: BEN LEMAN ( SON BOLUM )
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/157056.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/31zn3jriMaSAx9oflfn3ER5JRbn.jpg" group-title="Movies | GUNCEL DIZI",DIZI: BEREKETLI TOPRAKLAR ( SON BOLUM )
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/157829.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vxyhUSVOh9RYsdVynVWKIRGGGg7.jpg" group-title="Movies | GUNCEL DIZI",DIZI: CARPINTI( SON BOLUM )
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/155303.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b6QGAQBiAWXVPQvc9um8o9Q90jY.jpg" group-title="Movies | GUNCEL DIZI",DIZI: CENNETIN COCUKLARI ( SON BOLUM )
@@ -16771,7 +16787,9 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/138221.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbA3OJWaIL8PKp1IX9ETcZo5trv.jpg" group-title="Movies | SERI FILMLER",Muzede Bir Gece 2006
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/138220.mkv
 
-# --- Movies | SON EKLENEN 300 FILM (361) ---
+# --- Movies | SON EKLENEN 300 FILM (362) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vqBmyAj0Xm9LnS1xe1MSlMAJyHq.jpg" group-title="Movies | SON EKLENEN 300 FILM",F1 Filmi (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/158880.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/O7REXWPANWXvX2jhQydHjAq2DV.jpg" group-title="Movies | SON EKLENEN 300 FILM",Gunslingers (2025)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/158854.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmW3OY1W1wwjpYEWZu1jJlOcZ56.jpg" group-title="Movies | SON EKLENEN 300 FILM",LEGO Frozen: Operation Puffins (2025)
@@ -17609,7 +17627,7 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/278.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TALK SHOW",BKM Mutfak Stand-Up
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/340.mp4
 
-# --- Movies | TURK DIZILERI (101) ---
+# --- Movies | TURK DIZILERI (100) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TURK DIZILERI",Yasak Elma(FiNAL)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/6.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TURK DIZILERI",Eşkıya Dünyaya Hükümdar Olmaz (FİNAL)
@@ -17808,8 +17826,6 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1715.mp4
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1721.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TURK DIZILERI",Kuruluş: Orhan
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1743.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | TURK DIZILERI",Bereketli Topraklar
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1751.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TURK DIZILERI",Sakıncalı
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1798.mp4
 
@@ -19079,7 +19095,7 @@ http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1679
 #EXTINF:-1 tvg-logo="" group-title="Series | DE: KINDER SERIES",DE: Die Gangster Gang: Aller Anfang ist böse
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1760
 
-# --- Series | GERMANY SERIES (127) ---
+# --- Series | GERMANY SERIES (128) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | GERMANY SERIES",DE: Westworld
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/112
 #EXTINF:-1 tvg-logo="" group-title="Series | GERMANY SERIES",DE: Chernobyl
@@ -19334,6 +19350,8 @@ http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1780
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1805
 #EXTINF:-1 tvg-logo="" group-title="Series | GERMANY SERIES",DE: Icebreaker - Killer an Bord
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1806
+#EXTINF:-1 tvg-logo="" group-title="Series | GERMANY SERIES",DE: The Iris Affair
+http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1811
 
 # --- Series | GERMANY SERIES FILME (90) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8o3MlFkqI9O8PXRXDApyoN4HNPc.jpg" group-title="Series | GERMANY SERIES FILME",DE: Die Tribute von Panem - The Hunger Games (2012)
@@ -19533,4 +19551,4 @@ http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1503
 #EXTINF:-1 tvg-logo="" group-title="Series | TR ALTYAZI SERIES",Pluribus
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1803
 
-# Total: 9699
+# Total: 9708

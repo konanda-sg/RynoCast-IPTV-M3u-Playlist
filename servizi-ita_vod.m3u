@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: servizi-ita.com:8080
-# Generated: 2025-12-01 07:13:01
+# Generated: 2025-12-01 18:28:21
 # Expires: 2026-10-28
 # Family Safe Edition
 # ==============================================
@@ -9973,9 +9973,11 @@ http://servizi-ita.com:8080/movie/tvy3Nfu6SK/OUOPveuHP3/1613.mkv
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | NETFLIX AMAZON DOCUMENTARI",Zanetti Story
 http://servizi-ita.com:8080/movie/tvy3Nfu6SK/OUOPveuHP3/1761.mkv
 
-# --- Movies | NETFLIX AMAZON DRAMMATICO (1524) ---
+# --- Movies | NETFLIX AMAZON DRAMMATICO (1525) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",====NETFLIX DRAMMATICO====
 http://servizi-ita.com:8080/movie/tvy3Nfu6SK/OUOPveuHP3/1662.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/ae5e6276d2088421e05e5b84aaa677b4.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Train Dreams (2025)
+http://servizi-ita.com:8080/movie/tvy3Nfu6SK/OUOPveuHP3/85816.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/f2e168fdaf52adaddbaca03f5584e358.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Bad Genius (2024)
 http://servizi-ita.com:8080/movie/tvy3Nfu6SK/OUOPveuHP3/85766.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/2414a37c75d34e7ef7e8b3a020480c0a.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Il figlio di mille uomini (2025)
@@ -20953,9 +20955,11 @@ http://servizi-ita.com:8080/movie/tvy3Nfu6SK/OUOPveuHP3/64844.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/4ecf8d9b6b9928c4f10b15a456b0fc0b.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA 15 Le indagini di Melchiorre lo speziale  Il fantasma della torre (2022)
 http://servizi-ita.com:8080/movie/tvy3Nfu6SK/OUOPveuHP3/78910.mkv
 
-# --- Movies | SALA NATALE (75) ---
+# --- Movies | SALA NATALE (76) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | SALA NATALE",==== SALA NATALE====
 http://servizi-ita.com:8080/movie/tvy3Nfu6SK/OUOPveuHP3/79646.mp4
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/098682a9b8708f65c76cd4b0709022c4.jpg" group-title="Movies | SALA NATALE",Natale senza Babbo (2025)
+http://servizi-ita.com:8080/movie/tvy3Nfu6SK/OUOPveuHP3/85815.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/87051b387d651a89398d577d215e4c0a.jpg" group-title="Movies | SALA NATALE",Babbo Natale cercasi (2017)
 http://servizi-ita.com:8080/movie/tvy3Nfu6SK/OUOPveuHP3/85620.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/2ad7b3b77f5fd47f2d728d3f369457ce.jpg" group-title="Movies | SALA NATALE",Buon Natal-ex (2025)
@@ -32607,4 +32611,4 @@ http://servizi-ita.com:8080/movie/tvy3Nfu6SK/OUOPveuHP3/2669.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | SerieTV",Timeless.S01E01 german
 http://servizi-ita.com:8080/movie/tvy3Nfu6SK/OUOPveuHP3/20654.mkv
 
-# Total: 16272
+# Total: 16274

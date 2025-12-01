@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: bazaruto.top:8000
-# Generated: 2025-12-01 07:22:25
+# Generated: 2025-12-01 18:33:45
 # Expires: 2026-11-15
 # Family Safe Edition
 # ==============================================
@@ -476,7 +476,7 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/297.m3u8
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/298.m3u8
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/VIASAT_EXPLORE_HD..png" group-title="DOKUMENTARNI",Viasat Explore
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/124.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DOKUMENTARNI",Da Vinci Learning
+#EXTINF:-1 tvg-logo="" group-title="DOKUMENTARNI",Da Vinci
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/1438.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DOKUMENTARNI",24 Kitchen
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/122.m3u8
@@ -490,7 +490,7 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/343.m3u8
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/3526.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DOKUMENTARNI",TLC
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/130.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DOKUMENTARNI",FLN
+#EXTINF:-1 tvg-logo="" group-title="DOKUMENTARNI",TravelXP
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/131.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DOKUMENTARNI",Planet Earth
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/3398.m3u8
@@ -506,7 +506,7 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/304.m3u8
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/375.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DOKUMENTARNI",Comedy Central Extra
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/423.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DOKUMENTARNI",Doku TV
+#EXTINF:-1 tvg-logo="" group-title="DOKUMENTARNI",DOXTV
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/3397.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DOKUMENTARNI",DokuBox
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/16929.m3u8
@@ -2633,7 +2633,7 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/1356.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ITALIJA",Top Crime  IT
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/1358.m3u8
 
-# --- MAKEDONIJA (41) ---
+# --- MAKEDONIJA (40) ---
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/MPT_1_HD_(MK).png" group-title="MAKEDONIJA",MRT  1
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/30.m3u8
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/MPT_1_HD_(MK).png" group-title="MAKEDONIJA",MRT 1 HD
@@ -2714,8 +2714,6 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/360.m3u8
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/669.m3u8
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/VIASAT_EXPLORE_HD..png" group-title="MAKEDONIJA",Viasat explore MK
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/47193.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MAKEDONIJA",TravelXP MK
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/58300.m3u8
 
 # --- MUZIKA (40) ---
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/GRAND_NOSTALGIJA_HD_.png" group-title="MUZIKA",Grand TV
@@ -3995,4 +3993,4 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/53504.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURCIJA",TR: Outside TV HD US
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/53505.m3u8
 
-# Total: 1970
+# Total: 1969

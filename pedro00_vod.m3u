@@ -1,11 +1,19 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: pedro00.net:88
-# Generated: 2025-12-01 07:12:50
+# Generated: 2025-12-01 18:29:47
 # Expires: 2027-02-10
 # Family Safe Edition
 # ==============================================
 
+
+# --- Movies | Unknown (3) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Unknown",|| MULTI || Divorce
+http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/19054.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Unknown",|| MULTI || Love Alarm
+http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/19081.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Unknown",|| MULTI || The Mess You Leave Behind
+http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/19200.mp4
 
 # --- Movies | | DOCUMENTARY | OSN (20) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1FxdWbBvVZPsf9oFwnTnddS8aUx.jpg" group-title="Movies | | DOCUMENTARY | OSN",Air Jaws: The Hunt for Colossus (2025)
@@ -2864,13 +2872,5 @@ http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/1333489.mkv
 # --- Movies | |VOD| DOCUMENTARY (1) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bAAdoOyCm3DqrOyj0h2icPpeHHw.jpg" group-title="Movies | |VOD| DOCUMENTARY",| MULTI | Being Eddie ( 2025)
 http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/1301099.mkv
-
-# --- Series | |SERIES| MULTILANGUAGE (3) ---
-#EXTINF:-1 tvg-logo="" group-title="Series | |SERIES| MULTILANGUAGE",|| MULTI || Divorce
-http://pedro00.net:88/series/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/19054
-#EXTINF:-1 tvg-logo="" group-title="Series | |SERIES| MULTILANGUAGE",|| MULTI || Love Alarm
-http://pedro00.net:88/series/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/19081
-#EXTINF:-1 tvg-logo="" group-title="Series | |SERIES| MULTILANGUAGE",|| MULTI || The Mess You Leave Behind
-http://pedro00.net:88/series/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/19200
 
 # Total: 1419

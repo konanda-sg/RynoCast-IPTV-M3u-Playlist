@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: play.tecnomolly.com:8080
-# Generated: 2025-12-01 07:18:19
+# Generated: 2025-12-01 18:28:18
 # Expires: 2026-07-14
 # Family Safe Edition
 # ==============================================
@@ -837,59 +837,15 @@ http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509423.m3u8
 #EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/ligaarco.jpg" group-title="Liga Arco 30/11/2025",18:10 Tucson vs Yaquis
 http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509424.m3u8
 
-# --- Live Soccer Domingo (26) ---
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/serieA.jpg" group-title="Live Soccer Domingo",05:30 Lecce vs Torino
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509402.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/premierleague.jpg" group-title="Live Soccer Domingo",06:00 Crystal Palace vs Manchester United
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509393.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/laligaesp.jpg" group-title="Live Soccer Domingo",07:00 Real Sociedad vs Villarreal
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509398.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/serieA.jpg" group-title="Live Soccer Domingo",08:00 Pisa vs Inter
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509403.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/ligue1.jpg" group-title="Live Soccer Domingo",08:00 Strasbourg vs Brest
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509409.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/premierleague.jpg" group-title="Live Soccer Domingo",08:05 Aston Villa vs Wolverhampton
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509395.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/premierleague.jpg" group-title="Live Soccer Domingo",08:05 Nottingham Forest vs Brighton & Hove
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509394.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/premierleague.jpg" group-title="Live Soccer Domingo",08:05 West Ham vs Liverpool
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509396.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/bundesliga.jpg" group-title="Live Soccer Domingo",08:30 Hamburger vs Stuttgart
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509406.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/laligaesp.jpg" group-title="Live Soccer Domingo",09:15 Sevilla vs Real Betis
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509399.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/ligue1.jpg" group-title="Live Soccer Domingo",10:15 Angers vs Lens
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509410.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/ligue1.jpg" group-title="Live Soccer Domingo",10:15 Le Havre vs Lille
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509412.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/ligue1.jpg" group-title="Live Soccer Domingo",10:15 Lorient vs Nice
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509411.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/premierleague.jpg" group-title="Live Soccer Domingo",10:30 Chelsea vs Arsenal
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509397.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/bundesliga.jpg" group-title="Live Soccer Domingo",10:30 E. Frankfurt vs Wolfsburg
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509407.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/serieA.jpg" group-title="Live Soccer Domingo",11:00 Atalanta vs Fiorentina
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509404.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/proamerica.jpg" group-title="Live Soccer Domingo",11:00 Cartagines vs Alajuelense
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509416.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/laligaesp.jpg" group-title="Live Soccer Domingo",11:30 Celta vs Espanyol
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509400.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/bundesliga.jpg" group-title="Live Soccer Domingo",12:30 Freiburg vs Mainz 05
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509408.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/ligue1.jpg" group-title="Live Soccer Domingo",13:45 Lyon vs Nantes
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509413.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/serieA.jpg" group-title="Live Soccer Domingo",13:45 Roma vs Napoli
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509405.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/laligaesp.jpg" group-title="Live Soccer Domingo",14:00 Girona vs Real Madrid
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509401.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/superligaarg.jpg" group-title="Live Soccer Domingo",15:30 Boca Juniors vs Argentinos Juniors
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509415.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/proamerica.jpg" group-title="Live Soccer Domingo",16:00 Deportivo Saprissa vs Municipal Liberia
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509417.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/proamerica.jpg" group-title="Live Soccer Domingo",17:00 Puntarenas vs Sporting San Jose
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509418.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/laligamx.jpg" group-title="Live Soccer Domingo",19:00 Cruz Azul vs Chivas
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509414.m3u8
+# --- Live Soccer Lunes (4) ---
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/laligaesp.jpg" group-title="Live Soccer Lunes",14:00 Rayo Vallecano vs Valencia
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509425.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/serieA.jpg" group-title="Live Soccer Lunes",13:45 Bologna vs Cremonese
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509426.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/superligaarg.jpg" group-title="Live Soccer Lunes",14:00 Barracas Central vs Gimnasia la plata
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509427.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/superligaarg.jpg" group-title="Live Soccer Lunes",18:30 Racing Club vs Tigre
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509428.m3u8
 
 # --- Movies (47) ---
 #EXTINF:-1 tvg-logo="http://sunset-app.com/picons/movies/fxmoviechann.jpg" group-title="Movies",USA | FX Movie Channel
@@ -1067,15 +1023,13 @@ http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/508568.m3u8
 #EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/sports/football/nfl/events/401547416.png?templateId=espn.com.share.1" group-title="NFL 30/11/25 (presiona boton update)",19:20 Broncos vs Commanders
 http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/508569.m3u8
 
-# --- NHL 30/11/25 (presiona boton update) (4) ---
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/nhl.jpg" group-title="NHL 30/11/25 (presiona boton update)",12:00 Capitals vs Islanders
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509187.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/nhl.jpg" group-title="NHL 30/11/25 (presiona boton update)",17:00 Senators vs Stars
+# --- NHL 01/12/25 (presiona boton update) (3) ---
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/nhl.jpg" group-title="NHL 01/12/25 (presiona boton update)",19:00 Penguins vs Flyers
 http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509188.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/nhl.jpg" group-title="NHL 30/11/25 (presiona boton update)",16:00 Flames vs Hurricanes
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/nhl.jpg" group-title="NHL 01/12/25 (presiona boton update)",19:30 Jets vs Sabres
 http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509192.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/nhl.jpg" group-title="NHL 30/11/25 (presiona boton update)",14:30 Ducks vs Blackhawks
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509195.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/nhl.jpg" group-title="NHL 01/12/25 (presiona boton update)",22:00 Mammoth vs Sharks
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509430.m3u8
 
 # --- Networks USA (82) ---
 #EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/nbcsanantonio.jpg" group-title="Networks USA",USA | NBC San Antonio
@@ -1819,4 +1773,4 @@ http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/279047.m3u8
 #EXTINF:-1 tvg-logo="http://valetv.info/wp-content/uploads/2019/10/LOGO-VALE-TV-1.jpg" group-title="Venezuela",VE | Vale tv
 http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/279058.m3u8
 
-# Total: 851
+# Total: 828

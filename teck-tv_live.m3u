@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: teck-tv.com
-# Generated: 2025-12-01 07:14:09
+# Generated: 2025-12-01 18:41:40
 # Expires: 2026-07-14
 # Family Safe Edition
 # ==============================================
@@ -2323,90 +2323,92 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1280679.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AM | BRAZIL",BR - TERRA VIVA
 http://teck-tv.com/live/2605201443100597/C655BF416768/1280680.m3u8
 
-# --- AM | CA | DAZN PPV (100) ---
+# --- AM | CA | DAZN PPV (101) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/CANADA/Canada_flag.png" group-title="AM | CA | DAZN PPV",##### DAZN PPV #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285500.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 02 : LECCE VS TORINO – 6:30 AM ET / 11:30 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 01 : KOREA REPUBLIC VS CHINA PR – 5:00 AM ET / 10:00 AM UK
+http://teck-tv.com/live/2605201443100597/C655BF416768/1285504.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 02 : CHINESE TAIPEI VS JAPAN – 6:00 AM ET / 11:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285505.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 03 : CRYSTAL PALACE VS MAN UNITED – 7:00 AM ET / 12:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 03 : PHILIPPINES VS GUAM – 6:30 AM ET / 11:30 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285506.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 04 : INDIA VS SAUDI ARABIA – 7:30 AM ET / 12:30 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 04 : FINLAND VS FRANCE – 11:30 AM ET / 4:30 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285507.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 05 : CLUB BRUGGE VS ANTWERP – 7:30 AM ET / 12:30 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 05 : CYPRUS VS GERMANY – 12:00 PM ET / 5:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285508.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 06 : LIBYA VS CAPE VERDE – 8:00 AM ET / 1:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 06 : SWEDEN VS SLOVENIA – 1:00 PM ET / 6:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285509.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 07 : PISA VS INTER – 9:00 AM ET / 2:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 07 : ESTONIA VS CZECHIA – 1:00 PM ET / 6:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285510.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 08 : IRAQ VS IRAN – 9:00 AM ET / 2:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 08 : NETHERLANDS VS POLAND – 1:30 PM ET / 6:30 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285511.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 09 : WEST HAM VS LIVERPOOL – 9:05 AM ET / 2:05 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 09 : INSIDE THE RING – 2:00 PM ET / 7:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285512.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 10 : ASTON VILLA VS WOLVES – 9:05 AM ET / 2:05 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 10 : ISRAEL VS CROATIA – 2:00 PM ET / 7:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285513.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 11 : NOTTINGHAM FOREST VS BRIGHTON – 9:05 AM ET / 2:05 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 11 : AUSTRIA VS LATVIA – 2:20 PM ET / 7:20 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285514.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 12 : HAMBURG VS STUTTGART – 9:30 AM ET / 2:30 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 12 : BELGIUM VS HUNGARY – 2:30 PM ET / 7:30 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285515.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 13 : SYRIA VS JORDAN – 10:00 AM ET / 3:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 13 : BOLOGNA VS CREMONESE – 2:45 PM ET / 7:45 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285516.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 14 : SWITZERLAND VS TURKIYE – 11:00 AM ET / 4:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 14 : BIRMINGHAM VS WATFORD – 3:00 PM ET / 8:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285517.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 15 : URSU VS AMOS – 11:00 AM ET / 4:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 15 : ARGENTINA VS CUBA – 5:00 PM ET / 10:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285518.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 16 : GUINEA VS TUNISIA – 11:00 AM ET / 4:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 16 : PUERTO RICO VS JAMAICA – 7:10 PM ET / 12:10 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285519.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 17 : CHELSEA VS ARSENAL – 11:30 AM ET / 4:30 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 17 : UNITED STATES VS NICARAGUA – 7:10 PM ET / 12:10 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285520.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 18 : FRANKFURT VS WOLFSBURG – 11:30 AM ET / 4:30 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 18 : DOMINICAN REPUBLIC VS MEXICO – 7:10 PM ET / 12:10 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285521.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 19 : LITHUANIA VS ITALY – 11:30 AM ET / 4:30 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 19 : MANNINGCAST MNF PEYTON AND ELI GIANTS VS PATRIOTS – 8:00 PM ET / 1:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285522.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 20 : ICELAND VS GREAT BRITAIN – 11:45 AM ET / 4:45 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 20 : GIANTS VS PATRIOTS – 8:15 PM ET / 1:15 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285523.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 21 : ATALANTA VS FIORENTINA – 12:00 PM ET / 5:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 21 : GIANTS VS PATRIOTS FRENCH – 8:15 PM ET / 1:15 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285524.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 22 : UKRAINE VS DENMARK – 12:00 PM ET / 5:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 22 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285525.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 23 : PORTUGAL VS GREECE – 12:00 PM ET / 5:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 23 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285526.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 24 : ROMANIA VS MONTENEGRO – 12:00 PM ET / 5:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 24 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285527.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 25 : ANDERLECHT VS UNION SAINT GILLOISE – 12:30 PM ET / 5:30 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 25 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285528.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 26 : RAMS VS PANTHERS – 1:00 PM ET / 6:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 26 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285529.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 27 : HARTLEPOOL VS TRURO – 10:00 AM ET / 3:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 27 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285603.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 28 : ALTRINCHAM VS SCUNTHORPE – 10:01 AM ET / 3:01 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 28 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285604.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 29 : SAINTS VS DOLPHINS – 1:00 PM ET / 6:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 29 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285530.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 30 : FALCONS VS JETS – 1:00 PM ET / 6:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 30 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285531.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 31 : CARDINALS VS BUCCANEERS – 1:00 PM ET / 6:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 31 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285532.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 32 : JAGUARS VS TITANS – 1:00 PM ET / 6:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 32 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285533.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 33 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285534.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 34 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285535.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 35 : ARI VS TB SF VS CLE ATL VS NYJ NO VS MIA – 1:00 PM ET / 6:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 35 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285536.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 36 : ARI VS TB LAR VS CAR ATL VS NYJ JAX VS TEN – 1:00 PM ET / 6:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 36 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285537.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 37 : HOU VS IND ATL VS NYJ JAX VS TEN NO VS MIA – 1:00 PM ET / 6:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 37 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285538.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 38 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285539.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 39 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285540.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 40 : HOU VS IND ARI VS TB LAR VS CAR SF VS CLE – 1:01 PM ET / 6:01 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 40 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285541.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 41 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285542.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 42 : ARI VS TB LAR VS CAR JAX VS TEN NO VS MIA – 1:01 PM ET / 6:01 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 42 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285543.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 43 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285544.m3u8
@@ -2414,39 +2416,39 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1285544.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285545.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 45 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285546.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 46 : FREIBURG VS MAINZ – 1:30 PM ET / 6:30 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 46 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285547.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 47 : SPAIN VS GEORGIA – 1:45 PM ET / 6:45 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 47 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285548.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 48 : LEBANON VS QATAR – 2:00 PM ET / 7:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 48 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285549.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 49 : BOSNIA HERZEGOVINA VS SERBIA – 2:00 PM ET / 7:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 49 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285550.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 50 : NIGERIA VS RWANDA – 2:00 PM ET / 7:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 50 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285551.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 51 : XAVIER VS UCONN – 2:30 PM ET / 7:30 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 51 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285552.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 52 : ROMA VS NAPOLI – 2:45 PM ET / 7:45 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 52 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285553.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 53 : VIKINGS VS SEAHAWKS – 4:05 PM ET / 9:05 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 53 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285554.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 54 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285555.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 55 : RAIDERS VS CHARGERS – 4:25 PM ET / 9:25 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 55 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285556.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 56 : BILLS VS STEELERS – 4:25 PM ET / 9:25 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 56 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285557.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 57 : VENEZUELA VS COLOMBIA – 5:10 PM ET / 10:10 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 57 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285558.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 58 : BRAZIL VS CHILE – 5:10 PM ET / 10:10 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 58 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285559.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 59 : URUGUAY VS PANAMA – 7:40 PM ET / 12:40 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 59 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285560.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 60 : BRONCOS VS COMMANDERS – 8:20 PM ET / 1:20 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 60 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285561.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 61 : BRONCOS VS COMMANDERS IN FRENCH – 8:20 PM ET / 1:20 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 61 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285562.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 62 : NEW ZEALAND VS AUSTRALIA – 1:00 AM ET / 6:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 62 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285563.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 63 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285564.m3u8
@@ -4125,38 +4127,38 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/458865.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/CANADA/SPORTSNET.png" group-title="AM | CA | TSN & SN",CA - SPORTSNET ONTARIO ◉
 http://teck-tv.com/live/2605201443100597/C655BF416768/458864.m3u8
 
-# --- AM | CA | TSN+ & SN+ (215) ---
+# --- AM | CA | TSN+ & SN+ (219) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/CANADA/Canada_flag.png" group-title="AM | CA | TSN+ & SN+",##### SPORTSNET+ #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1255836.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SN+ 1 : SPORTSNET CENTRAL NOV 29 – 5:00 AM ET / 10:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SN+ 1 : SPORTSNET CENTRAL NOV 30 – 5:00 AM ET / 10:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119288.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SN+ 2 : PSV EINDHOVEN VS FC VOLENDAM – 6:05 AM ET / 11:05 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SN+ 2 : HALFORD AND BROUGH DEC 1 – 9:00 AM ET / 2:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119289.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SN+ 3 : TELSTAR VS FEYENOORD – 8:20 AM ET / 1:20 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SN+ 3 : THE JD BUNKIS PODCAST DEC 1 – 9:00 AM ET / 2:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119290.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SN+ 4 : SARACENS VS BATH RUGBY – 9:50 AM ET / 2:50 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SN+ 4 : THE RAPTORS SHOW DEC 1 – 11:00 AM ET / 4:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119291.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SN+ 5 : FC TWENTE VS AZ ALKMAAR – 10:35 AM ET / 3:35 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SN+ 5 : THE FAN HOCKEY SHOW DEC 1 – 12:00 PM ET / 5:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119292.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SN+ 6 : WASHINGTON VS NEW YORK ISLANDERS – 1:00 PM ET / 6:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SN+ 6 : REAL KYPER AND BOURNE DEC 1 – 4:00 PM ET / 9:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119293.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SN+ 7 : AFC AJAX VS FC GRONINGEN – 1:50 PM ET / 6:50 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SN+ 7 : THE FAN PREGAME DEC 1 – 6:00 PM ET / 11:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119294.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SN+ 8 : ANAHEIM VS CHICAGO – 3:30 PM ET / 8:30 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SN+ 8 : NHL COLUMBUS VS NEW JERSEY – 7:00 PM ET / 12:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119295.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SN+ 9 : CALGARY VS CAROLINA – 5:00 PM ET / 10:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SN+ 9 : NHL PITTSBURGH VS PHILADELPHIA – 7:00 PM ET / 12:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119296.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SN+ 10 : OTTAWA VS DALLAS AVAILABLE OUTSIDE SENATORS REGION – 6:00 PM ET / 11:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SN+ 10 : NBA ATLANTA VS DETROIT – 7:00 PM ET / 12:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119297.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SN+ 11 : OKLAHOMA CITY VS PORTLAND – 6:00 PM ET / 11:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SN+ 11 : NBA LOS ANGELES CLIPPERS VS MIAMI – 7:30 PM ET / 12:30 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119298.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SN+ 12 : FRENCH LANGUAGE BROADCAST OTTAWA VS DALLAS AVAILABLE OUTSIDE SENATORS REGION – 6:00 PM ET / 11:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SN+ 12 : NHL ANAHEIM VS ST LOUIS – 8:00 PM ET / 1:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119299.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SN+ 13 : SAN ANTONIO VS MINNESOTA – 7:00 PM ET / 12:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SN+ 13 : NBA DALLAS VS DENVER – 9:00 PM ET / 2:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119300.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SN+ 14 : NEW ORLEANS VS LOS ANGELES LAKERS – 9:30 PM ET / 2:30 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SN+ 14 : NHL UTAH VS SAN JOSE – 10:00 PM ET / 3:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119301.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SN+ 15 : SPORTSNET CENTRAL NOV 30 – 5:00 AM ET / 10:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SN+ 15 : SPORTSNET CENTRAL DEC 1 – 5:00 AM ET / 10:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119302.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SN+ 16 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119303.m3u8
@@ -4330,39 +4332,47 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1119386.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119387.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/CANADA/Canada_flag.png" group-title="AM | CA | TSN+ & SN+",##### THE SPORTS NETWORK + #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1255837.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+ & SN+",CA - TSN+ 01 : HSBC RUGBY SVNS DUBAI DAY TWO SEMIFINALS – 4:05 AM ET / 9:05 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+ & SN+",CA - TSN+ 01 : THE PAT MCAFEE SHOW – 12:00 PM ET / 5:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119188.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+ & SN+",CA - TSN+ 02 : FORMULA 2 FEATURE RACE LUSAIL – 6:55 AM ET / 11:55 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+ & SN+",CA - TSN+ 02 : LALIGA RAYO VALLECANO VS VALENCIA – 2:48 PM ET / 7:48 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119189.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+ & SN+",CA - TSN+ 03 : LALIGA REAL SOCIEDAD VS VILLARREAL – 7:48 AM ET / 12:48 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+ & SN+",CA - TSN+ 03 : FIBA BASKETBALL WC QUALIFIER CANADA VS BAHAMAS – 7:00 PM ET / 12:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119190.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+ & SN+",CA - TSN+ 04 : HSBC RUGBY SVNS DUBAI DAY TWO FINALS – 9:30 AM ET / 2:30 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+ & SN+",CA - TSN+ 04 : MONDAY NIGHT FOOTBALL WITH PEYTON AND ELI GIANTS VS PATRIOTS – 8:15 PM ET / 1:15 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119191.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+ & SN+",CA - TSN+ 05 : NFL FANTASY FOOTBALL NOW – 10:00 AM ET / 3:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+ & SN+",CA - TSN+ 05 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119192.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+ & SN+",CA - TSN+ 06 : LALIGA SEVILLA VS REAL BETIS – 10:03 AM ET / 3:03 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+ & SN+",CA - TSN+ 06 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119193.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+ & SN+",CA - TSN+ 07 : LALIGA 2 RACING SANTANDER VS SD EIBAR – 10:03 AM ET / 3:03 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+ & SN+",CA - TSN+ 07 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119194.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+ & SN+",CA - TSN+ 08 : FORMULA 1 DRIVER TRACKER QATAR GRAND PRIX – 10:30 AM ET / 3:30 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+ & SN+",CA - TSN+ 08 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119195.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+ & SN+",CA - TSN+ 09 : FORMULA 1 TIMING CHANNEL QATAR GRAND PRIX – 10:30 AM ET / 3:30 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+ & SN+",CA - TSN+ 09 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119196.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+ & SN+",CA - TSN+ 12 : FORMULA 1 PIT LANE QATAR GRAND PRIX – 10:30 AM ET / 3:30 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+ & SN+",CA - TSN+ 10 :
+http://teck-tv.com/live/2605201443100597/C655BF416768/1119197.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+ & SN+",CA - TSN+ 11 :
+http://teck-tv.com/live/2605201443100597/C655BF416768/1119198.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+ & SN+",CA - TSN+ 12 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119199.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+ & SN+",CA - TSN+ 15 : LALIGA CELTA VS ESPANYOL – 12:18 PM ET / 5:18 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+ & SN+",CA - TSN+ 13 :
+http://teck-tv.com/live/2605201443100597/C655BF416768/1119200.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+ & SN+",CA - TSN+ 14 :
+http://teck-tv.com/live/2605201443100597/C655BF416768/1119201.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+ & SN+",CA - TSN+ 15 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119202.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+ & SN+",CA - TSN+ 16 : NFL JAGUARS VS TITANS – 1:00 PM ET / 6:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+ & SN+",CA - TSN+ 16 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119203.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+ & SN+",CA - TSN+ 17 : NFL REDZONE – 1:00 PM ET / 6:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+ & SN+",CA - TSN+ 17 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119204.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+ & SN+",CA - TSN+ 18 : NCAA WOMENS HOCKEY ASSUMPTION VS MERRIMACK – 2:00 PM ET / 7:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+ & SN+",CA - TSN+ 18 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119205.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+ & SN+",CA - TSN+ 19 : LALIGA GIRONA VS REAL MADRID – 2:30 PM ET / 7:30 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+ & SN+",CA - TSN+ 19 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119206.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+ & SN+",CA - TSN+ 20 : NCAA WOMENS VOLLEYBALL SELECTION SPECIAL – 6:00 PM ET / 11:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+ & SN+",CA - TSN+ 20 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119207.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+ & SN+",CA - TSN+ 21 : NBA HAWKS VS 76ERS – 6:00 PM ET / 11:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+ & SN+",CA - TSN+ 21 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119208.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+ & SN+",CA - TSN+ 22 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119209.m3u8
@@ -4524,33 +4534,33 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1119286.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119287.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/CANADA/Canada_flag.png" group-title="AM | CA | TSN+ & SN+",##### SPORTSNET EVENTS #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1255835.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SPORTSNET - EVENT 01 : SPORTSNET CENTRAL – 5:00 AM ET / 10:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SPORTSNET - EVENT 01 : SPORTSNET CENTRAL NOV 30 – 5:00 AM ET / 10:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1257476.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SPORTSNET - EVENT 02 : EREDIVISIE PSV EINDHOVEN VS FC VOLENDAM – 6:05 AM ET / 11:05 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SPORTSNET - EVENT 02 : HALFORD AND BROUGH DEC 1 – 9:00 AM ET / 2:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1255166.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SPORTSNET - EVENT 03 : EREDIVISIE TELSTAR VS FEYENOORD – 8:20 AM ET / 1:20 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SPORTSNET - EVENT 03 : THE JD BUNKIS PODCAST DEC 1 – 9:00 AM ET / 2:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1257474.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SPORTSNET - EVENT 04 : SARACENS VS BATH RUGBY – 9:50 AM ET / 2:50 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SPORTSNET - EVENT 04 : THE RAPTORS SHOW DEC 1 – 11:00 AM ET / 4:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1255164.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SPORTSNET - EVENT 05 : EREDIVISIE FC TWENTE VS AZ ALKMAAR – 10:35 AM ET / 3:35 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SPORTSNET - EVENT 05 : THE FAN HOCKEY SHOW DEC 1 – 12:00 PM ET / 5:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1255163.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SPORTSNET - EVENT 06 : NHL WASHINGTON VS NEW YORK ISLANDERS – 1:00 PM ET / 6:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SPORTSNET - EVENT 06 : REAL KYPER AND BOURNE DEC 1 – 4:00 PM ET / 9:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1255162.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SPORTSNET - EVENT 07 : EREDIVISIE AFC AJAX VS FC GRONINGEN – 1:50 PM ET / 6:50 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SPORTSNET - EVENT 07 : THE FAN PREGAME DEC 1 – 6:00 PM ET / 11:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1255161.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SPORTSNET - EVENT 08 : NHL ANAHEIM VS CHICAGO – 3:30 PM ET / 8:30 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SPORTSNET - EVENT 08 : NHL PITTSBURGH VS PHILADELPHIA – 7:00 PM ET / 12:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1255160.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SPORTSNET - EVENT 09 : NHL CALGARY VS CAROLINA – 5:00 PM ET / 10:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SPORTSNET - EVENT 09 : NHL COLUMBUS VS NEW JERSEY – 7:00 PM ET / 12:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1255159.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SPORTSNET - EVENT 10 : NHL FRENCH LANGUAGE BROADCAST OTTAWA VS DALLAS AVAILABLE OUTSIDE SENATORS REGION – 6:00 PM ET / 11:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SPORTSNET - EVENT 10 : NBA ATLANTA VS DETROIT – 7:00 PM ET / 12:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1255152.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SPORTSNET - EVENT 11 : NHL OTTAWA VS DALLAS AVAILABLE OUTSIDE SENATORS REGION – 6:00 PM ET / 11:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SPORTSNET - EVENT 11 : NBA LOS ANGELES CLIPPERS VS MIAMI – 7:30 PM ET / 12:30 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1255157.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SPORTSNET - EVENT 12 : NBA OKLAHOMA CITY VS PORTLAND – 6:00 PM ET / 11:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SPORTSNET - EVENT 12 : NHL ANAHEIM VS ST LOUIS – 8:00 PM ET / 1:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1255156.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SPORTSNET - EVENT 13 : NBA SAN ANTONIO VS MINNESOTA – 7:00 PM ET / 12:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SPORTSNET - EVENT 13 : NBA DALLAS VS DENVER – 9:00 PM ET / 2:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1255155.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SPORTSNET - EVENT 14 : NBA NEW ORLEANS VS LOS ANGELES LAKERS – 9:30 PM ET / 2:30 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SPORTSNET - EVENT 14 : NHL UTAH VS SAN JOSE – 10:00 PM ET / 3:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1255154.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | TSN+ & SN+",CA - SPORTSNET - EVENT 15 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1255153.m3u8
@@ -10580,39 +10590,39 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1045087.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/79429.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN FHD
 http://teck-tv.com/live/2605201443100597/C655BF416768/973127.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 01 : EN ESPANOL PSV VS FC VOLENDAM – 6:00 AM ET / 11:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 01 : FP RIVIERA MAYA VS MUNICIPAL POAS MENS GROUP C – 9:55 AM ET / 2:55 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234277.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 02 : PSV VS FC VOLENDAM – 6:10 AM ET / 11:10 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 02 : CLINTON AND FRIENDS – 10:00 AM ET / 3:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234278.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 03 : EN ESPANOL FORMULA 2 QATAR FEATURE RACE – 6:50 AM ET / 11:50 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 03 : UTSA WOMENS BASKETBALL PRESSER – 11:00 AM ET / 4:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234279.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 04 : FORMULA 2 QATAR FEATURE RACE – 7:00 AM ET / 12:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 04 : CALI BSC VS FP RIVIERA MAYA WOMENS GROUP C – 11:10 AM ET / 4:10 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234280.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 05 : SG DYNAMO DRESDEN VS FORTUNA DUSSELDORF – 7:25 AM ET / 12:25 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 05 : JAPAN VS CROATIA PRELIMINARY ROUND – 12:00 PM ET / 5:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234281.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 06 : ARMINIA BIELEFELD VS PREUSSEN MUNSTER – 7:25 AM ET / 12:25 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 06 : THE RICH EISEN SHOW – 12:00 PM ET / 5:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234282.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 07 : SV ELVERSBERG VS SV DARMSTADT 98 – 7:25 AM ET / 12:25 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 07 : LOUISIANA CHRISTIAN VS NICHOLLS – 12:00 PM ET / 5:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234283.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 08 : REAL SOCIEDAD VS VILLARREAL – 7:50 AM ET / 12:50 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 08 : CZECHIA VS CUBA PRELIMINARY ROUND – 12:00 PM ET / 5:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234284.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 09 : EN ESPANOL REAL SOCIEDAD VS VILLARREAL – 7:55 AM ET / 12:55 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 09 : SOUTH KOREA VS KAZAKHSTAN PRELIMINARY ROUND – 12:00 PM ET / 5:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234285.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 10 : EN ESPANOL TELSTAR VS FEYENOORD – 8:15 AM ET / 1:15 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 10 : THE PAT MCAFEE SHOW – 12:00 PM ET / 5:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234286.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 11 : TELSTAR VS FEYENOORD – 8:25 AM ET / 1:25 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 11 : ARCOS FC VS CRUZN MENS GROUP C – 12:25 PM ET / 5:25 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234287.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 12 : HAMBURGER SV VS VFB STUTTGART – 9:20 AM ET / 2:20 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 12 : COWBOY FOOTBALL PRESS CONFERENCE – 1:00 PM ET / 6:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234288.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 13 : ICELAND VS URUGUAY – 9:30 AM ET / 2:30 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 13 : BARRA DE SANTIAGO VS NASSAU BSC WOMENS GROUP D – 1:40 PM ET / 6:40 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234289.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 14 : FAROE ISLANDS VS PARAGUAY – 9:30 AM ET / 2:30 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 14 : DENMARK VS ROMANIA PRELIMINARY ROUND – 2:30 PM ET / 7:30 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234290.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 15 : EN ESPANOL SEVILLA VS REAL BETIS – 10:00 AM ET / 3:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 15 : NORWAY VS ANGOLA PRELIMINARY ROUND – 2:30 PM ET / 7:30 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234291.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 16 : RACING SANTANDER VS SD EIBAR – 10:05 AM ET / 3:05 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 16 : SWEDEN VS BRAZIL PRELIMINARY ROUND – 2:30 PM ET / 7:30 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234292.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 17 : EN ESPANOL RACING SANTANDER VS SD EIBAR – 10:05 AM ET / 3:05 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 17 : RAYO VALLECANO VS VALENCIA – 2:50 PM ET / 7:50 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234293.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 18 : SEVILLA VS REAL BETIS – 10:05 AM ET / 3:05 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234294.m3u8
@@ -14928,7 +14938,7 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/71984.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1009486.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/cover/super.jpg" group-title="AM | USA | NFL",REPLAY - SUPER BOWL CHAMPION SHIP 2024
 http://teck-tv.com/live/2605201443100597/C655BF416768/685415.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/nfl.png" group-title="AM | USA | NFL",US - NFL GAME 01 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/nfl.png" group-title="AM | USA | NFL",US - NFL GAME 01 : GIANTS VS PATRIOTS – 8:15 PM ET / 1:15 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/79450.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/nfl.png" group-title="AM | USA | NFL",US - NFL GAME 02 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/79451.m3u8
@@ -14936,27 +14946,27 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/79451.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/79452.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/nfl.png" group-title="AM | USA | NFL",US - NFL GAME 04 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/79453.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/nfl.png" group-title="AM | USA | NFL",US - NFL GAME 05 : 49ERS VS BROWNS – 1:00 PM ET / 6:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/nfl.png" group-title="AM | USA | NFL",US - NFL GAME 05 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/79454.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/nfl.png" group-title="AM | USA | NFL",US - NFL GAME 06 : JAGUARS VS TITANS – 1:00 PM ET / 6:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/nfl.png" group-title="AM | USA | NFL",US - NFL GAME 06 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/79455.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/nfl.png" group-title="AM | USA | NFL",US - NFL GAME 07 : TEXANS VS COLTS – 1:00 PM ET / 6:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/nfl.png" group-title="AM | USA | NFL",US - NFL GAME 07 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/79456.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/nfl.png" group-title="AM | USA | NFL",US - NFL GAME 08 : SAINTS VS DOLPHINS – 1:00 PM ET / 6:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/nfl.png" group-title="AM | USA | NFL",US - NFL GAME 08 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/79457.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/nfl.png" group-title="AM | USA | NFL",US - NFL GAME 09 : FALCONS VS JETS – 1:00 PM ET / 6:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/nfl.png" group-title="AM | USA | NFL",US - NFL GAME 09 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/79458.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/nfl.png" group-title="AM | USA | NFL",US - NFL GAME 10 : CARDINALS VS BUCCANEERS – 1:00 PM ET / 6:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/nfl.png" group-title="AM | USA | NFL",US - NFL GAME 10 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/79459.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/nfl.png" group-title="AM | USA | NFL",US - NFL GAME 11 : RAMS VS PANTHERS – 1:00 PM ET / 6:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/nfl.png" group-title="AM | USA | NFL",US - NFL GAME 11 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/79460.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/nfl.png" group-title="AM | USA | NFL",US - NFL GAME 12 : VIKINGS VS SEAHAWKS – 4:05 PM ET / 9:05 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/nfl.png" group-title="AM | USA | NFL",US - NFL GAME 12 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/79461.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/nfl.png" group-title="AM | USA | NFL",US - NFL GAME 13 : BILLS VS STEELERS – 4:25 PM ET / 9:25 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/nfl.png" group-title="AM | USA | NFL",US - NFL GAME 13 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/79462.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/nfl.png" group-title="AM | USA | NFL",US - NFL GAME 14 : RAIDERS VS CHARGERS – 4:25 PM ET / 9:25 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/nfl.png" group-title="AM | USA | NFL",US - NFL GAME 14 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/79463.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/nfl.png" group-title="AM | USA | NFL",US - NFL GAME 15 : BRONCOS VS COMMANDERS – 8:20 PM ET / 1:20 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/nfl.png" group-title="AM | USA | NFL",US - NFL GAME 15 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/79464.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/nfl.png" group-title="AM | USA | NFL",US - NFL GAME 16 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/79465.m3u8
@@ -15210,17 +15220,17 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1044058.m3u8
 # --- AM | USA | PARAMOUNT+ (101) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/USA.png" group-title="AM | USA | PARAMOUNT+",##### PARAMOUNT #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1312528.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/para.png" group-title="AM | USA | PARAMOUNT+",US - PARAMOUNT 01 : HSBC SVNS DUBAI FINAL DAY – 2:30 AM ET / 7:30 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/para.png" group-title="AM | USA | PARAMOUNT+",US - PARAMOUNT 01 : SERIE A BOLOGNA VS CREMONESE – 3:35 PM ET / 8:35 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1312091.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/para.png" group-title="AM | USA | PARAMOUNT+",US - PARAMOUNT 02 : SERIE A LECCE VS TORINO – 7:20 AM ET / 12:20 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/para.png" group-title="AM | USA | PARAMOUNT+",US - PARAMOUNT 02 : ENGLISH FOOTBALL LEAGUE BIRMINGHAM CITY VS WATFORD – 3:50 PM ET / 8:50 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1312092.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/para.png" group-title="AM | USA | PARAMOUNT+",US - PARAMOUNT 03 : SERIE A PISA VS INTER – 9:50 AM ET / 2:50 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/para.png" group-title="AM | USA | PARAMOUNT+",US - PARAMOUNT 03 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1312093.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/para.png" group-title="AM | USA | PARAMOUNT+",US - PARAMOUNT 04 : SERIE A ATALANTA VS FIORENTINA – 12:00 PM ET / 5:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/para.png" group-title="AM | USA | PARAMOUNT+",US - PARAMOUNT 04 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1312094.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/para.png" group-title="AM | USA | PARAMOUNT+",US - PARAMOUNT 05 : SERIE A ROMA VS NAPOLI – 3:00 PM ET / 8:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/para.png" group-title="AM | USA | PARAMOUNT+",US - PARAMOUNT 05 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1312095.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/para.png" group-title="AM | USA | PARAMOUNT+",US - PARAMOUNT 06 : NFL LAS VEGAS VS LA CHARGERS – 5:25 PM ET / 10:25 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/para.png" group-title="AM | USA | PARAMOUNT+",US - PARAMOUNT 06 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1312096.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/para.png" group-title="AM | USA | PARAMOUNT+",US - PARAMOUNT 07 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1312097.m3u8
@@ -15630,27 +15640,27 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/456065.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/456069.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | PEACOCK",US - PEACOCK WWE
 http://teck-tv.com/live/2605201443100597/C655BF416768/456068.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/PEACOK.png" group-title="AM | USA | PEACOCK",US - PEACOCK 01 : ST WORLD TOUR DORDRECHT 2 – 7:35 AM ET / 12:35 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/PEACOK.png" group-title="AM | USA | PEACOCK",US - PEACOCK 01 : USA VS ITALY ESPANOL – 6:30 PM ET / 11:30 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1326107.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/PEACOK.png" group-title="AM | USA | PEACOCK",US - PEACOCK 02 : WEST HAM VS LIVERPOOL – 8:55 AM ET / 1:55 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/PEACOK.png" group-title="AM | USA | PEACOCK",US - PEACOCK 02 : PERFORMANCE VIEW CHI VS ORL – 7:00 PM ET / 12:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1326108.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/PEACOK.png" group-title="AM | USA | PEACOCK",US - PEACOCK 03 : NOTTM FOREST VS BRIGHTON – 8:55 AM ET / 1:55 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/PEACOK.png" group-title="AM | USA | PEACOCK",US - PEACOCK 03 : BULLS VS MAGIC – 7:00 PM ET / 12:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1326109.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/PEACOK.png" group-title="AM | USA | PEACOCK",US - PEACOCK 04 : FANTASY FOOTBALL PREGAME – 11:00 AM ET / 4:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/PEACOK.png" group-title="AM | USA | PEACOCK",US - PEACOCK 04 : PERFORMANCE VIEW PHX VS LAL – 10:00 PM ET / 3:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1326110.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/PEACOK.png" group-title="AM | USA | PEACOCK",US - PEACOCK 05 : PREMIER LEAGUE LIVE – 11:05 AM ET / 4:05 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/PEACOK.png" group-title="AM | USA | PEACOCK",US - PEACOCK 05 : SUNS VS LAKERS – 10:00 PM ET / 3:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1326111.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/PEACOK.png" group-title="AM | USA | PEACOCK",US - PEACOCK 06 : W GIANT SLALOM SLALOM – 1:00 PM ET / 6:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/PEACOK.png" group-title="AM | USA | PEACOCK",US - PEACOCK 06 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1326112.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/PEACOK.png" group-title="AM | USA | PEACOCK",US - PEACOCK 07 : MENS GIANT SLALOM – 2:00 PM ET / 7:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/PEACOK.png" group-title="AM | USA | PEACOCK",US - PEACOCK 07 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1326113.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/PEACOK.png" group-title="AM | USA | PEACOCK",US - PEACOCK 08 : 2025 NATIONAL CHAMPIONSHIP FINAL – 3:00 PM ET / 8:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/PEACOK.png" group-title="AM | USA | PEACOCK",US - PEACOCK 08 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1326114.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/PEACOK.png" group-title="AM | USA | PEACOCK",US - PEACOCK 09 : BRONCOS VS COMMANDERS – 7:00 PM ET / 12:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/PEACOK.png" group-title="AM | USA | PEACOCK",US - PEACOCK 09 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1326115.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/PEACOK.png" group-title="AM | USA | PEACOCK",US - PEACOCK 10 : BRONCOS VS COMMANDERS ESPANOL – 8:00 PM ET / 1:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/PEACOK.png" group-title="AM | USA | PEACOCK",US - PEACOCK 10 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1326116.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/PEACOK.png" group-title="AM | USA | PEACOCK",US - PEACOCK 11 : SUNDAY NIGHT FOOTBALL FINAL – 11:30 PM ET / 4:30 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/PEACOK.png" group-title="AM | USA | PEACOCK",US - PEACOCK 11 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1326117.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/PEACOK.png" group-title="AM | USA | PEACOCK",US - PEACOCK 12 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1326118.m3u8
@@ -26774,6 +26784,42 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1311463.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/427467.m3u8
 
 # --- VIP | GOLDEN EVENTS (37) ---
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="VIP | GOLDEN EVENTS",##### FR - ARAB CUP #####
+http://teck-tv.com/live/2605201443100597/C655BF416768/1018100.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",FR - TUNISIA VS SYRIA 15:00 CET
+http://teck-tv.com/live/2605201443100597/C655BF416768/1150145.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",FR - QATAR VS PALESTINE 17:45 CET
+http://teck-tv.com/live/2605201443100597/C655BF416768/1123346.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",FR - NO MATCH
+http://teck-tv.com/live/2605201443100597/C655BF416768/1123334.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",FR - NO MATCH
+http://teck-tv.com/live/2605201443100597/C655BF416768/1123278.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",FR - NO MATCH
+http://teck-tv.com/live/2605201443100597/C655BF416768/1123277.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",FR - NO MATCH
+http://teck-tv.com/live/2605201443100597/C655BF416768/1123276.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",FR - NO MATCH
+http://teck-tv.com/live/2605201443100597/C655BF416768/1024490.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",FR - NO MATCH
+http://teck-tv.com/live/2605201443100597/C655BF416768/1024487.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="VIP | GOLDEN EVENTS",##### AR - ARAB CUP #####
+http://teck-tv.com/live/2605201443100597/C655BF416768/1018107.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - TUNISIA VS SYRIA 15:00 CET
+http://teck-tv.com/live/2605201443100597/C655BF416768/1150144.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - QATAR VS PALESTINE 17:45 CET
+http://teck-tv.com/live/2605201443100597/C655BF416768/1123275.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - NO MATCH
+http://teck-tv.com/live/2605201443100597/C655BF416768/1123274.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - NO MATCH
+http://teck-tv.com/live/2605201443100597/C655BF416768/1039934.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - NO MATCH
+http://teck-tv.com/live/2605201443100597/C655BF416768/1039920.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - NO MATCH
+http://teck-tv.com/live/2605201443100597/C655BF416768/1039905.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - NO MATCH
+http://teck-tv.com/live/2605201443100597/C655BF416768/1024486.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - NO MATCH
+http://teck-tv.com/live/2605201443100597/C655BF416768/1024476.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",##### CONFERENCE LEAGUE #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/682950.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - NO MATCH
@@ -26812,42 +26858,6 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/682953.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/682952.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/682951.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="VIP | GOLDEN EVENTS",##### ENGLISH #####
-http://teck-tv.com/live/2605201443100597/C655BF416768/1018100.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",EN - NO MATCH
-http://teck-tv.com/live/2605201443100597/C655BF416768/1150145.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",EN - NO MATCH
-http://teck-tv.com/live/2605201443100597/C655BF416768/1123346.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",EN - NO MATCH
-http://teck-tv.com/live/2605201443100597/C655BF416768/1123334.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",EN - NO MATCH
-http://teck-tv.com/live/2605201443100597/C655BF416768/1123278.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",EN - NO MATCH
-http://teck-tv.com/live/2605201443100597/C655BF416768/1123277.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",EN - NO MATCH
-http://teck-tv.com/live/2605201443100597/C655BF416768/1123276.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",EN - NO MATCH
-http://teck-tv.com/live/2605201443100597/C655BF416768/1024490.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",EN - NO MATCH
-http://teck-tv.com/live/2605201443100597/C655BF416768/1024487.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="VIP | GOLDEN EVENTS",##### ARABIC #####
-http://teck-tv.com/live/2605201443100597/C655BF416768/1018107.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - NO MATCH
-http://teck-tv.com/live/2605201443100597/C655BF416768/1150144.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - NO MATCH
-http://teck-tv.com/live/2605201443100597/C655BF416768/1123275.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - NO MATCH
-http://teck-tv.com/live/2605201443100597/C655BF416768/1123274.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - NO MATCH
-http://teck-tv.com/live/2605201443100597/C655BF416768/1039934.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - NO MATCH
-http://teck-tv.com/live/2605201443100597/C655BF416768/1039920.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - NO MATCH
-http://teck-tv.com/live/2605201443100597/C655BF416768/1039905.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - NO MATCH
-http://teck-tv.com/live/2605201443100597/C655BF416768/1024486.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - NO MATCH
-http://teck-tv.com/live/2605201443100597/C655BF416768/1024476.m3u8
 
 # --- VIP | LA LIGA (56) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/flag_france.png" group-title="VIP | LA LIGA",##### FRENCH #####
@@ -26966,11 +26976,11 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1001755.m3u8
 # --- VIP | LIGA PORTUGAL BETCLIC (10) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/PORTUGAL.png" group-title="VIP | LIGA PORTUGAL BETCLIC",#### PORTUGAL ####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1032044.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - RIO AVE VS SANTA CLARA 16:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - Arouca vs Sporting Braga 21:15 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100839.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - SPORTING CP VS ESTRELA 19:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100840.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - PORTO VS ESTORIL 21:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100841.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1127869.m3u8
@@ -27288,13 +27298,13 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1024113.m3u8
 # --- VIP | SERIE A (27) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/ITALY.png" group-title="VIP | SERIE A",##### ITALY #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018093.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - LECCE VS TORINO 12:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - Bologna vs Cremonese 20:45 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100791.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - PISA VS INTERNAZIONALE 15:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1033757.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - ATALANTA VS FIORENTINA 18:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1033756.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - ROMA VS NAPOLI 20:45 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018106.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018105.m3u8
@@ -27308,11 +27318,11 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1018103.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1001778.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - Bologna vs Cremonese 20:45 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100792.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - PISA VS INTERNAZIONALE 15:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100790.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - ATALANTA VS FIORENTINA 18:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1028898.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - ROMA VS NAPOLI 20:45 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1028731.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1028730.m3u8
@@ -27328,13 +27338,13 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1018094.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018095.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="VIP | SERIE A",##### ARABIC #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1001752.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - Bologna vs Cremonese
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - Bologna vs Cremonese 20:45 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018113.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - PISA VS INTERNAZIONALE 15:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018112.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - ATALANTA VS FIORENTINA 18:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018111.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - ROMA VS NAPOLI 20:45 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018110.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018109.m3u8
@@ -27617,4 +27627,4 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/682939.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",ES - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/682941.m3u8
 
-# Total: 13657
+# Total: 13662

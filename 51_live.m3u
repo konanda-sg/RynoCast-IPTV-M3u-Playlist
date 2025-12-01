@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2025-12-01 07:12:10
+# Generated: 2025-12-01 18:35:47
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -1073,71 +1073,7 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/170928.m3u8
 
-# --- DE-DAZN EVENT (129) ---
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1lmukpvual3d619p08cano59kw_image-header_pDach_1759740613000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Ursu vs. Amos (2025-11-30 16:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171274.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/c03wdfimizoeqb7vt8o7rx5hz_image-header_pDach_1759312883000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Eintracht Frankfurt - VfL Wolfsburg (2025-11-30 16:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171275.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/56pdi9h675eunl2kdgox91ukd_image-header_pDach_1759927648000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Angers - Lens (2025-11-30 16:15:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171276.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6cyv8n47o0t0mfyc1oxsuxys7_image-header_pDach_1761349056000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Lorient - Nizza (2025-11-30 16:15:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171277.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4edkobbb9xslzo3c3o74so6qx_image-header_pDach_1725527995000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Le Havre - Lille (2025-11-30 16:15:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171278.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cgkszdmu27apzlq02lm3oqtqk_image-header_pDach_1761910990000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Atalanta - Fiorentina (italienischer Kommentar) (2025-11-30 17:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171279.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2v5qzhh5ny9sk89ppcu6ayfy3_image-header_pDach_1761910990000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Atalanta - Fiorentina (2025-11-30 17:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171280.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1glm9fu70owdzdo93zp7c634z_image-header_pDach_1762941378000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",NFL Konferenz | Week 13 (2025-11-30 17:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171281.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8tapafg88evyc4wd1r1uznuaw_image-header_pDach_1759968585000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Celta Vigo - Espanyol (2025-11-30 17:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171282.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/91zv1hl52iriqzwqb56lo2ety_image-header_pDach_1762938702000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Anderlecht - Saint-Gilloise (2025-11-30 17:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171283.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1gannd5kqg7or1qx9kuh06g179_image-header_pDach_1751967477000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",49ers @ Browns (2025-11-30 18:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171284.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3es9cdllanlog8r26a9uvjmvs_image-header_pDach_1759313516000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",SC Freiburg - 1. FSV Mainz 05 (2025-11-30 18:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171285.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1nslo9y8224n11ojb9miw0eszv_image-header_pDach_1751967477000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Texans @ Colts (2025-11-30 18:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171286.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6im0bqevd8uv1kdwgmogmv1nw_image-header_pDach_1751731714000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Rams @ Panthers (2025-11-30 18:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171287.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/xa2sz1fcaa6n1gtay7cmsc8a4_image-header_pDach_1751967477000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Falcons @ Jets (2025-11-30 18:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171288.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/czgeeqifhr0q1vetzl7opezru_image-header_pDach_1751967477000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Jaguars @ Titans (2025-11-30 18:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171289.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ngffgtsv7no41538p3cs2la8s_image-header_pDach_1724327650000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",RedZone | Week 13 (2025-11-30 18:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171290.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/apq6gq9iqg18jqcrvv84jon1d_image-header_pDach_1748442209000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",NFL RedZone | Week 13 (2025-11-30 18:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171291.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/a86w8c8axvcp1bz1qpc9gb0d3_image-header_pDach_1751967477000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Saints @ Dolphins (2025-11-30 18:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171292.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/zvl44ucqytvh1hk3zdcspzjnw_image-header_pDach_1751967477000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Cardinals @ Buccaneers (2025-11-30 18:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171293.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1d98l0xefeel410cvrbjh17vc2_image-header_pDach_1763739053000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Xavier @ UConn (2025-11-30 19:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171294.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8105moa10wvxb6hc8rzpcdgbp_image-header_pDach_1761899565000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",AS Rom - Neapel (2025-11-30 19:45:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171295.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4c9le4bt5nqgq1qxlivenj8c_image-header_pDach_1761899565000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",AS Rom - Neapel (italienischer Kommentar) (2025-11-30 19:45:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171296.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6bj4d4w7n6pfaf76pdbey2bqr_image-header_pDach_1726651746000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Lyon - Nantes (2025-11-30 19:45:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171297.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/afnwx2dpjrpz59lzmps0uc613_image-header_pDach_1760058326000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Girona - Real Madrid (2025-11-30 20:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171298.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/exoiyyvkv9muiq4rvpdcvraaq_image-header_pDach_1762948008000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Porto - Estoril (2025-11-30 20:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171299.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1nd6sn25bppyi15by06d6j91f9_image-header_pDach_1751967477000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Vikings @ Seahawks (2025-11-30 21:05:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171300.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1b3ru7pfvyxiz1sg5z8gjhu10z_image-header_pDach_1751967477000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Bills @ Steelers (2025-11-30 21:25:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171301.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1v5dphwlq0w791xg23s77gfi1g_image-header_pDach_1751967477000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Raiders @ Chargers (2025-11-30 21:25:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171302.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1ftbmul1kseuo19ty7pk44bggi_image-header_pDach_1763807988000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Brazil - Chile (2025-11-30 22:10:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171303.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1ttqyrsaw41v1a829e2xh32jc_image-header_pDach_1763808878000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Venezuela - Colombia (2025-11-30 22:10:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171304.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/u1qkbdsdszay11jmjpecamjq9_image-header_pDach_1762792819000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Senators @ Stars (2025-11-30 23:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171305.m3u8
+# --- DE-DAZN EVENT (97) ---
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/pkyhvtvi8fi51nfbi24mzxj1s_image-header_pDach_1763808878000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Uruguay - Panama (2025-12-01 00:40:00)
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171306.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7i7xu7n0qitjfhuq9pf0nvc0j_image-header_pDach_1762869142000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Broncos @ Commanders (deutscher Kommentar) (2025-12-01 01:20:00)
@@ -6417,7 +6353,7 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/10779.m3u8
 #EXTINF:-1 tvg-logo="http://icon.sporcpu.com/muzik/dreamturk.png" group-title="TR | ULTRA HD (YUKSEK HIZ/TR SPOR)",TR: DREAM TURK FHD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/10780.m3u8
 
-# --- TR | ULUSAL (4K) (24) ---
+# --- TR | ULUSAL (4K) (23) ---
 #EXTINF:-1 tvg-logo="http://147.135.221.50/img/turkey.png" group-title="TR | ULUSAL (4K)",##### TURK ULUSAL PAKETI (4K) #####
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/36211.m3u8
 #EXTINF:-1 tvg-logo="http://icon.sporcpu.com/ulusal/trt1.png" group-title="TR | ULUSAL (4K)",ULTHD: TRT 1 4K
@@ -6434,8 +6370,6 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/157186.m3u8
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/10792.m3u8
 #EXTINF:-1 tvg-logo="http://icon.sporcpu.com/ulusal/nowtv.png" group-title="TR | ULUSAL (4K)",ULTHD: NOW TV 4K
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/10794.m3u8
-#EXTINF:-1 tvg-logo="http://icon.sporcpu.com/ulusal/nowtv.png" group-title="TR | ULUSAL (4K)",ULTHD: NOW PLAY HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/167911.m3u8
 #EXTINF:-1 tvg-logo="http://icon.sporcpu.com/ulusal/tv8.png" group-title="TR | ULUSAL (4K)",ULTHD: TV 8 4K
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/10789.m3u8
 #EXTINF:-1 tvg-logo="http://icon.sporcpu.com/ulusal/tv8.5.png" group-title="TR | ULUSAL (4K)",ULTHD: TV 8.5 4K
@@ -6983,4 +6917,4 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165820.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JEtHjJs.png" group-title="WORLD SPORTS",Sky Sport Action HD [UK]
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165884.m3u8
 
-# Total: 3431
+# Total: 3398

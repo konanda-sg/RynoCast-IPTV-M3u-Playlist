@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: siptvs.com:8080
-# Generated: 2025-12-01 07:15:34
+# Generated: 2025-12-01 18:41:08
 # Expires: 2026-05-16
 # Family Safe Edition
 # ==============================================
@@ -22101,7 +22101,7 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/2066.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| SPANSKE SERIJE",Scars of Beauty (2025)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/2138.mp4
 
-# --- Movies | |EXYU| STRANE SERIJE (832) ---
+# --- Movies | |EXYU| STRANE SERIJE (836) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| STRANE SERIJE",YOU
 http://siptvs.com:8080/movie/Biljana12/Biljana12/22.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| STRANE SERIJE",Breaking Bad
@@ -23766,6 +23766,14 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/2251.mp4
 http://siptvs.com:8080/movie/Biljana12/Biljana12/2255.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| STRANE SERIJE",Pluribus (2025)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/2256.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| STRANE SERIJE",Marianne (2019)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/2262.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| STRANE SERIJE",Penny Dreadful: City of Angels (2020)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/2263.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| STRANE SERIJE",The Beast in Me (2025)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/2264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| STRANE SERIJE",Malice (2025)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/2265.mp4
 
 # --- Movies | |EXYU| STRANI 2022 (351) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cwIZp4fVMGK6GZVAM5SU5ZHXSoU.jpg" group-title="Movies | |EXYU| STRANI 2022",Amandla (2022)
@@ -32321,4 +32329,4 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/179055.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c44zM4fWJ55ImcEnqf7UL4dsCSB.jpg" group-title="Movies | |MU| MUSIC/CONCERTE",Avicii - Mein letztes Konzert (2024)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/181880.mkv
 
-# Total: 16097
+# Total: 16101

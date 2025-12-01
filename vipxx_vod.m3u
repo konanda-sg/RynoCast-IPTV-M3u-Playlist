@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: vipxx.p-0101.pw:80
-# Generated: 2025-12-01 07:12:09
+# Generated: 2025-12-01 18:41:44
 # Expires: 2026-08-12
 # Family Safe Edition
 # ==============================================
@@ -10285,11 +10285,13 @@ http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/726.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR|DİZİ • Netflix Yetişkin  TR Dublaj",Bonding
 http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/1122.mp4
 
-# --- Movies | TR|DİZİ • Pazar Dizileri (4) ---
+# --- Movies | TR|DİZİ • Pazar Dizileri (5) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fV7UwkvyxpNFeFe9HQqjY7Idzj.jpg" group-title="Movies | TR|DİZİ • Pazar Dizileri",Teşkilat
 http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/250280.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vxyhUSVOh9RYsdVynVWKIRGGGg7.jpg" group-title="Movies | TR|DİZİ • Pazar Dizileri",Çarpıntı
 http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/304291.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/Adjn7rsb1picDMUcYNjEDobhvAk.jpg" group-title="Movies | TR|DİZİ • Pazar Dizileri",Bahar
+http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/366097.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zgVgcthDQ8pYgBkKzi1AaXmmeFO.jpg" group-title="Movies | TR|DİZİ • Pazar Dizileri",Sahtekarlar
 http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/367675.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/31zn3jriMaSAx9oflfn3ER5JRbn.jpg" group-title="Movies | TR|DİZİ • Pazar Dizileri",Bereketli Topraklar FINAL
@@ -10309,13 +10311,11 @@ http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/366589.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5AsAnZWVQ6clW8IM4cL9XgnoFY6.jpg" group-title="Movies | TR|DİZİ • Perşembe Dizileri",Çok Güzel Hareketler 2
 http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/368352.mp4
 
-# --- Movies | TR|DİZİ • Salı Dizileri (5) ---
+# --- Movies | TR|DİZİ • Salı Dizileri (4) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vFmQa8yyuirssDatMME4FQtoG65.jpg" group-title="Movies | TR|DİZİ • Salı Dizileri",Gözleri Karadeniz
 http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/312218.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/u0kk5PUB850OlrVA1w7hgc41E9T.jpg" group-title="Movies | TR|DİZİ • Salı Dizileri",Kral Kaybederse
 http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/366096.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/Adjn7rsb1picDMUcYNjEDobhvAk.jpg" group-title="Movies | TR|DİZİ • Salı Dizileri",Bahar
-http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/366097.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/herjCgzFTKF3tCN8bW9cNfrvKjW.jpg" group-title="Movies | TR|DİZİ • Salı Dizileri",Kıskanmak
 http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/366499.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gLGXHS3o0BuJhd3wDTTYddrRsxZ.jpg" group-title="Movies | TR|DİZİ • Salı Dizileri",Mehmed: Fetihler Sultanı

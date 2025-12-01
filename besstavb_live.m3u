@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: besstavb.fans:8000
-# Generated: 2025-12-01 07:15:48
+# Generated: 2025-12-01 18:29:42
 # Expires: 2025-12-06
 # Family Safe Edition
 # ==============================================
@@ -1453,7 +1453,7 @@ http://besstavb.fans:8000/live/AlexandraMihaela/17up7azEyen/544407.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="FRANTA",FR: A La Carte 10
 http://besstavb.fans:8000/live/AlexandraMihaela/17up7azEyen/544406.m3u8
 
-# --- GERMANIA (184) ---
+# --- GERMANIA (182) ---
 #EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="GERMANIA",DE: Yu-Gi-Oh!
 http://besstavb.fans:8000/live/AlexandraMihaela/17up7azEyen/544821.m3u8
 #EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="GERMANIA",DE: Wings Die Überflieger
@@ -1648,10 +1648,6 @@ http://besstavb.fans:8000/live/AlexandraMihaela/17up7azEyen/544726.m3u8
 http://besstavb.fans:8000/live/AlexandraMihaela/17up7azEyen/544725.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/3c8f31273655e63d632fab9163a318c8.png" group-title="GERMANIA",DE: OK Merseburg
 http://besstavb.fans:8000/live/AlexandraMihaela/17up7azEyen/544724.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/c91a1328cb28b1c4eba308b32361ba19.png" group-title="GERMANIA",DE: OK Kassel
-http://besstavb.fans:8000/live/AlexandraMihaela/17up7azEyen/544723.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/6a703eca0d877a52bff2485a10ab365a.png" group-title="GERMANIA",DE: OK Kaiserslautern
-http://besstavb.fans:8000/live/AlexandraMihaela/17up7azEyen/544722.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/7c046ade2548fadefb245ac991ce6dc0.png" group-title="GERMANIA",DE: OK 54
 http://besstavb.fans:8000/live/AlexandraMihaela/17up7azEyen/544721.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GERMANIA",DE: KINO BOX 9
@@ -2209,7 +2205,7 @@ http://besstavb.fans:8000/live/AlexandraMihaela/17up7azEyen/544211.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f788bcac32ac0fa2c85d6174ac269779.png" group-title="GRECIA",GR: Baby TV
 http://besstavb.fans:8000/live/AlexandraMihaela/17up7azEyen/544210.m3u8
 
-# --- ITALIA (308) ---
+# --- ITALIA (306) ---
 #EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="ITALIA",IT: Yu-Gi-Oh! Italy
 http://besstavb.fans:8000/live/AlexandraMihaela/17up7azEyen/544179.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/60609cb2b41d68f6915265893f8053c3.jpg" group-title="ITALIA",IT: WWE Channel
@@ -2804,16 +2800,12 @@ http://besstavb.fans:8000/live/AlexandraMihaela/17up7azEyen/543876.m3u8
 http://besstavb.fans:8000/live/AlexandraMihaela/17up7azEyen/543875.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/ccf258996cb23590191ae1acbb2fac5d.png" group-title="ITALIA",IT: Rai Gulp
 http://besstavb.fans:8000/live/AlexandraMihaela/17up7azEyen/543874.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/72cb0a1d6a5f7dee07f5230a23cb515d.png" group-title="ITALIA",IT: nickelodeon
-http://besstavb.fans:8000/live/AlexandraMihaela/17up7azEyen/543873.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/a6a4a28d9a8eb7f6231181ac3c9a7932.jpg" group-title="ITALIA",IT: Nick Jr
 http://besstavb.fans:8000/live/AlexandraMihaela/17up7azEyen/543872.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/c7cac8a4959f5ad2ee1097c047c94f61.png" group-title="ITALIA",IT: K2
 http://besstavb.fans:8000/live/AlexandraMihaela/17up7azEyen/543871.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/85cf457c27a8043633909e8c38d08527.png" group-title="ITALIA",IT: Frisbee
 http://besstavb.fans:8000/live/AlexandraMihaela/17up7azEyen/543870.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/fb50a384f85db6919c67afb48373edb4.png" group-title="ITALIA",IT: Disney junior
-http://besstavb.fans:8000/live/AlexandraMihaela/17up7azEyen/543869.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/592daf9d882f1fcb84bf8c072e9e463d.png" group-title="ITALIA",IT: Cartoonito
 http://besstavb.fans:8000/live/AlexandraMihaela/17up7azEyen/543868.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/ae8686643287877d73369cf9257e066a.png" group-title="ITALIA",IT: Cartoon Network
@@ -8641,4 +8633,4 @@ http://besstavb.fans:8000/live/AlexandraMihaela/17up7azEyen/287446.m3u8
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/a7tv.png" group-title="⚜️ROMANIA TV⚜️",A7 TV
 http://besstavb.fans:8000/live/AlexandraMihaela/17up7azEyen/331258.m3u8
 
-# Total: 4300
+# Total: 4296

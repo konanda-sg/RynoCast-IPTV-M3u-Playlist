@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 206.212.244.71:8080
-# Generated: 2025-12-01 07:18:41
+# Generated: 2025-12-01 18:38:53
 # Expires: 2025-12-21
 # Family Safe Edition
 # ==============================================
@@ -27633,7 +27633,7 @@ http://206.212.244.71:8080/series/randy1/randy1/2323
 #EXTINF:-1 tvg-logo="" group-title="Series | 2024 TV Series",Doctor Odyssey
 http://206.212.244.71:8080/series/randy1/randy1/2332
 
-# --- Series | 2025 TV Series (16) ---
+# --- Series | 2025 TV Series (17) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | 2025 TV Series",Watson
 http://206.212.244.71:8080/series/randy1/randy1/2320
 #EXTINF:-1 tvg-logo="" group-title="Series | 2025 TV Series",Prime Target
@@ -27666,6 +27666,8 @@ http://206.212.244.71:8080/series/randy1/randy1/2336
 http://206.212.244.71:8080/series/randy1/randy1/2337
 #EXTINF:-1 tvg-logo="" group-title="Series | 2025 TV Series",MobLand
 http://206.212.244.71:8080/series/randy1/randy1/2338
+#EXTINF:-1 tvg-logo="" group-title="Series | 2025 TV Series",Your Friends & Neighbors
+http://206.212.244.71:8080/series/randy1/randy1/2341
 
 # --- Series | All Series (330) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Black Mirror
@@ -28329,4 +28331,4 @@ http://206.212.244.71:8080/series/randy1/randy1/2306
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Black Sails
 http://206.212.244.71:8080/series/randy1/randy1/2319
 
-# Total: 14107
+# Total: 14108

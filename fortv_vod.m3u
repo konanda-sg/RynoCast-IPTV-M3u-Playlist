@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: fortv.cc:8080
-# Generated: 2025-12-01 07:23:51
+# Generated: 2025-12-01 18:30:17
 # Expires: 2025-12-10
 # Family Safe Edition
 # ==============================================
@@ -27633,7 +27633,7 @@ http://fortv.cc:8080/series/k4rGMRc/hh2m6S1xW6/2323
 #EXTINF:-1 tvg-logo="" group-title="Series | 2024 TV Series",Doctor Odyssey
 http://fortv.cc:8080/series/k4rGMRc/hh2m6S1xW6/2332
 
-# --- Series | 2025 TV Series (16) ---
+# --- Series | 2025 TV Series (17) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | 2025 TV Series",Watson
 http://fortv.cc:8080/series/k4rGMRc/hh2m6S1xW6/2320
 #EXTINF:-1 tvg-logo="" group-title="Series | 2025 TV Series",Prime Target
@@ -27666,6 +27666,8 @@ http://fortv.cc:8080/series/k4rGMRc/hh2m6S1xW6/2336
 http://fortv.cc:8080/series/k4rGMRc/hh2m6S1xW6/2337
 #EXTINF:-1 tvg-logo="" group-title="Series | 2025 TV Series",MobLand
 http://fortv.cc:8080/series/k4rGMRc/hh2m6S1xW6/2338
+#EXTINF:-1 tvg-logo="" group-title="Series | 2025 TV Series",Your Friends & Neighbors
+http://fortv.cc:8080/series/k4rGMRc/hh2m6S1xW6/2341
 
 # --- Series | All Series (330) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Black Mirror
@@ -28329,4 +28331,4 @@ http://fortv.cc:8080/series/k4rGMRc/hh2m6S1xW6/2306
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Black Sails
 http://fortv.cc:8080/series/k4rGMRc/hh2m6S1xW6/2319
 
-# Total: 14107
+# Total: 14108
