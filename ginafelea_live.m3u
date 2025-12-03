@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: ginafelea.ddns.net:8008
-# Generated: 2025-12-02 18:32:58
+# Generated: 2025-12-03 07:08:14
 # Expires: 2025-12-15
 # Family Safe Edition
 # ==============================================
@@ -510,6 +510,8 @@ http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/522246.m3u8
 http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/522245.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/905sKxtk/Whats-App-Image-2025-11-04-at-14-38-43-149ec173.jpg" group-title="⚜️ROMANIA TV⚜️",TELE MOLDOVA PLUS
 http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/498938.m3u8
+#EXTINF:-1 tvg-logo="http://135.125.239.110/icon/892301.png" group-title="⚜️ROMANIA TV⚜️",ALEPH NEWS
+http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/526873.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/alfaomega2.png" group-title="⚜️ROMANIA TV⚜️",ALFA OMEGA TV
 http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/522171.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/t_M87iJW56pyZtYl6ZSj0aNAACh3Ppzlc1dhTDWEj5UXceEm6wQ3wMzks1HpvyEMsd_GnpwVDAFpcIA-RV3pRcZBVZvNZGXD1uwKGIGqcL6CyGrcT0jkvc4B" group-title="⚜️ROMANIA TV⚜️",CREDO TV HD
@@ -1194,7 +1196,5 @@ http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/296307.m3u8
 http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/296306.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1Xsq73b1/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FLY AVENTURA ᶠᴴᴰ
 http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/296305.m3u8
-#EXTINF:-1 tvg-logo="http://135.125.239.110/icon/892301.png" group-title="⚜️ROMANIA TV⚜️",ALEPH NEWS
-http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/526873.m3u8
 
 # Total: 594

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: sv1.casahd.com
-# Generated: 2025-12-02 18:33:13
+# Generated: 2025-12-03 07:08:22
 # Expires: 2026-05-02
 # Family Safe Edition
 # ==============================================
@@ -34901,7 +34901,7 @@ http://sv1.casahd.com/series/528398/824141/53065
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Globoplay",Poderosas do Cerrado
 http://sv1.casahd.com/series/528398/824141/53091
 
-# --- Series | Series | Legendadas (1153) ---
+# --- Series | Series | Legendadas (1154) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",007 Estrada para o Milhao [L]
 http://sv1.casahd.com/series/528398/824141/49501
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",100 Coisas para Fazer Antes de Virar Zumbi [L]
@@ -37208,6 +37208,8 @@ http://sv1.casahd.com/series/528398/824141/53220
 http://sv1.casahd.com/series/528398/824141/53221
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Tokusatsu GaGaGa [L]
 http://sv1.casahd.com/series/528398/824141/53222
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Snowfall [L]
+http://sv1.casahd.com/series/528398/824141/53226
 
 # --- Series | Series | Lionsgate (7) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Lionsgate",Da Vinci's Demons
@@ -41047,7 +41049,7 @@ http://sv1.casahd.com/series/528398/824141/53215
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Platonico
 http://sv1.casahd.com/series/528398/824141/53219
 
-# --- Series | Series | Outras Produtoras (696) ---
+# --- Series | Series | Outras Produtoras (699) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Outras Produtoras",100 Days Wild
 http://sv1.casahd.com/series/528398/824141/46823
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Outras Produtoras",100-man no Inochi no Ue ni Ore wa Tatte Iru
@@ -42440,6 +42442,12 @@ http://sv1.casahd.com/series/528398/824141/53209
 http://sv1.casahd.com/series/528398/824141/53210
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Outras Produtoras",MasterChef Celebridades
 http://sv1.casahd.com/series/528398/824141/53213
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Outras Produtoras",Guerra Sombra e Agua Fresca
+http://sv1.casahd.com/series/528398/824141/53223
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Outras Produtoras",Investigacao Paranormal
+http://sv1.casahd.com/series/528398/824141/53224
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Outras Produtoras",Tudo e Justo
+http://sv1.casahd.com/series/528398/824141/53225
 
 # --- Series | Series | Paramount (166) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Paramount",100 Code
@@ -43125,4 +43133,4 @@ http://sv1.casahd.com/series/528398/824141/52667
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Univer",O Senhor e a Serva
 http://sv1.casahd.com/series/528398/824141/52936
 
-# Total: 21514
+# Total: 21518

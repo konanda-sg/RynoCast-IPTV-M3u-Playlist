@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: no1.no1turk.com:2086
-# Generated: 2025-12-02 18:41:13
+# Generated: 2025-12-03 07:03:03
 # Expires: 2026-09-21
 # Family Safe Edition
 # ==============================================
@@ -1073,9 +1073,7 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/170928.m3u8
 
-# --- DE-DAZN EVENT (82) ---
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/d77hl0b6fa03cbpns921uifak_image-header_pDach_1760612804000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",SG Flensburg-Handewitt - Irun (2025-12-02 17:45:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171323.m3u8
+# --- DE-DAZN EVENT (81) ---
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/blt30ksmp2ceiqc2f9h4xqzsn_image-header_pDach_1760604513000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",THW Kiel - Montpellier (2025-12-02 19:45:00)
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171324.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/batrkobbbrtipnpn7f0gjqxb4_image-header_pDach_1762426488000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Juventus - Udinese (2025-12-02 20:00:00)
@@ -6887,4 +6885,4 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165820.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JEtHjJs.png" group-title="WORLD SPORTS",Sky Sport Action HD [UK]
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165884.m3u8
 
-# Total: 3383
+# Total: 3382

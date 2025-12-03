@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nisay.xyz:8080
-# Generated: 2025-12-02 18:35:03
+# Generated: 2025-12-03 07:03:51
 # Expires: 2026-10-04
 # Family Safe Edition
 # ==============================================
@@ -16787,7 +16787,9 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/138221.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbA3OJWaIL8PKp1IX9ETcZo5trv.jpg" group-title="Movies | SERI FILMLER",Muzede Bir Gece 2006
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/138220.mkv
 
-# --- Movies | SON EKLENEN 300 FILM (362) ---
+# --- Movies | SON EKLENEN 300 FILM (363) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chpWmskl3aKm1aTZqUHRCtviwPy.jpg" group-title="Movies | SON EKLENEN 300 FILM",TRON: Ares (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/158946.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vqBmyAj0Xm9LnS1xe1MSlMAJyHq.jpg" group-title="Movies | SON EKLENEN 300 FILM",F1 Filmi (2025)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/158880.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/O7REXWPANWXvX2jhQydHjAq2DV.jpg" group-title="Movies | SON EKLENEN 300 FILM",Gunslingers (2025)
@@ -19353,7 +19355,11 @@ http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1806
 #EXTINF:-1 tvg-logo="" group-title="Series | GERMANY SERIES",DE: The Iris Affair
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1811
 
-# --- Series | GERMANY SERIES FILME (90) ---
+# --- Series | GERMANY SERIES FILME (92) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bXzmoW96LElKeNEEZElVlDAC1wF.jpg" group-title="Series | GERMANY SERIES FILME",DE: Shazam! Fury of the Gods (2023)
+http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/158947
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCAM08vM6DDSMImdf6ECitEhV0u.jpg" group-title="Series | GERMANY SERIES FILME",DE: Shazam! (2019)
+http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/158948
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8o3MlFkqI9O8PXRXDApyoN4HNPc.jpg" group-title="Series | GERMANY SERIES FILME",DE: Die Tribute von Panem - The Hunger Games (2012)
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/145002
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/goLUaKDwTip1fikpCHDA6oCIfkV.jpg" group-title="Series | GERMANY SERIES FILME",DE: Die Tribute von Panem - Catching Fire (2013)
@@ -19551,4 +19557,4 @@ http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1503
 #EXTINF:-1 tvg-logo="" group-title="Series | TR ALTYAZI SERIES",Pluribus
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1803
 
-# Total: 9708
+# Total: 9711

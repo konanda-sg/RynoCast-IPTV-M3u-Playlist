@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: awsxcore.uk:8080
-# Generated: 2025-12-02 18:28:57
+# Generated: 2025-12-03 07:02:52
 # Expires: 2026-11-18
 # Family Safe Edition
 # ==============================================
@@ -7117,7 +7117,7 @@ http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/204770.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sx86KHWwWbW5ZckPEQh39J0Fio3.jpg" group-title="Movies | ⭐FILME 2024",That Christmas (2024)
 http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/204771.mp4
 
-# --- Movies | ⭐FILME 2025 (759) ---
+# --- Movies | ⭐FILME 2025 (763) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xqBSapk1nC35WlZ6PraMjOVMQBy.jpg" group-title="Movies | ⭐FILME 2025",Ad Vitam (2025)
 http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/205013.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/v313aUGmMNj6yNveaiQXysBmjVS.jpg" group-title="Movies | ⭐FILME 2025",Alarum (2025)
@@ -8636,6 +8636,14 @@ http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/209426.mp4
 http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/209496.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/h893ImjM6Fsv5DFhKJdlZFZIJno.jpg" group-title="Movies | ⭐FILME 2025",Wildcat (2025)
 http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/209497.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/chpWmskl3aKm1aTZqUHRCtviwPy.jpg" group-title="Movies | ⭐FILME 2025",TRON: Ares (2025)
+http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/209500.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/p6xAExLNFbHcLfvSuvLPoM8aqZU.jpg" group-title="Movies | ⭐FILME 2025",Troll 2 (2025)
+http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/209501.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4C2tFZAOaABQfMwvc7Zpiw66f12.jpg" group-title="Movies | ⭐FILME 2025",Pacientul (2025)
+http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/209502.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mvaYpCYZwPkvDW7jIePMaj8xeTE.jpg" group-title="Movies | ⭐FILME 2025",Zăpadă, Ceai și Dragoste III: ...și Noroc (2025)
+http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/209503.mp4
 
 # --- Movies | ⭐FILME ACTIUNE (1704) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uTTGRvnqCI9ZC7WkyP9u7XRiOaA.jpg" group-title="Movies | ⭐FILME ACTIUNE",Mindhunters (2004)
@@ -21601,4 +21609,4 @@ http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/590.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ⭐TURCESTI",Ömer
 http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/595.mp4
 
-# Total: 10751
+# Total: 10755

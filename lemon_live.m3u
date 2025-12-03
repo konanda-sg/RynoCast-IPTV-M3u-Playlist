@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: lemon.catchmeifyo.com:8000
-# Generated: 2025-12-02 18:34:46
+# Generated: 2025-12-03 07:05:35
 # Expires: 2026-04-05
 # Family Safe Edition
 # ==============================================
@@ -3345,7 +3345,7 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/38753.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Belgique (Wallonië)",BE: Radio Contact
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/38760.m3u8
 
-# --- Belgium Sports (10) ---
+# --- Belgium Sports (9) ---
 #EXTINF:-1 tvg-logo="http://silvertv.net:1997/images/BELGIUM/play-sports-1.png" group-title="Belgium Sports",BE: PLAY SPORTS 1 FHD
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/16858.m3u8
 #EXTINF:-1 tvg-logo="http://silvertv.net:1997/images/BELGIUM/play-sports-2.png" group-title="Belgium Sports",BE: PLAY SPORTS 2 ¹⁰⁸⁰ᵖ
@@ -3356,10 +3356,8 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/60567.m3u8
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/150113.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Belgium Sports",BE: Eleven Sports 1 NL
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/186373.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgium Sports",2025-11-30 13:30: DAZN nr. 1 - Club Brugge - Royal Antwerp FC
+#EXTINF:-1 tvg-logo="" group-title="Belgium Sports",2025-12-02 20:30: DAZN nr. 1 - FC Dender - Standard de Liège
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/186374.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgium Sports",2025-11-30 16:00: DAZN nr. 2 - KRC Genk - OH Leuven
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/186375.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Belgium Sports",2025-11-30 18:30: DAZN nr. 3 - RSC Anderlecht - Union SG
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/186380.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Belgium Sports",2025-11-30 19:15: DAZN nr. 4 - KAA Gent - STVV
@@ -5793,20 +5791,26 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/143293.m3u8
 #EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon/73787234201.png" group-title="Frans / French SPORTS",Star Sports Select 1 FHD
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/137278.m3u8
 
-# --- GAMEPASS NHL/NFL/MLB/NBA (LIVE) (92) ---
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 2 - 2025-12-02 01:00: - Penguins @ Flyers
+# --- GAMEPASS NHL/NFL/MLB/NBA (LIVE) (95) ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 1 - 2025-12-03 01:00: - Stars @ Rangers
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/16825.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 2 - 2025-12-03 01:00: - Lightning @ Islanders
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/16826.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 3 - 2025-12-02 01:30: - Jets @ Sabres
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 3 - 2025-12-03 01:00: - Senators @ Canadiens
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/16827.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 5 - 2025-12-02 04:00: - Mammoth @ Sharks
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 4 - 2025-12-03 01:00: - Bruins @ Red Wings
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/16828.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 5 - 2025-12-03 01:30: - Maple Leafs @ Panthers
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/16829.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 6 - 2025-11-30 01:00: - Maple Leafs @ Penguins
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 6 - 2025-12-03 02:00: - Flames @ Predators
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/16830.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 7 - 2025-11-30 01:00: - Jets @ Predators
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 7 - 2025-12-03 03:00: - Wild @ Oilers
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/16831.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 9 - 2025-11-30 02:00: - Sabres @ Wild
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 8 - 2025-12-03 03:00: - Canucks @ Avalanche
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/16832.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 9 - 2025-12-03 04:00: - Blackhawks @ Golden Knights
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/16833.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 10 - 2025-11-30 04:00: - Sharks @ Golden Knights
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 10 - 2025-12-03 04:30: - Capitals @ Kings
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/16834.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 11 - 2025-11-30 04:00: - Canucks @ Kings
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/16835.m3u8
@@ -5914,31 +5918,31 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/119328.m3u8
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/119329.m3u8
 #EXTINF:-1 tvg-logo="https://wpcdn.us-east-1.vip.tn-cloud.net/www.abc6.com/content/uploads/2020/05/nfl-logo-newer-1.jpg" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2025-01-06 01:00 - NFL Gamepass 15: Vikings @ Lions
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/119330.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2025-12-02 00:50 - NBA Gamepass 1 : Hawks @ Pistons - FEED: Pistons (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2025-12-03 00:50 - NBA Gamepass 1 : Wizards @ 76ers - FEED: Sixers (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139163.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2025-12-02 00:50 - NBA Gamepass 2 : Hawks @ Pistons - FEED: Hawks (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2025-12-03 00:50 - NBA Gamepass 2 : Wizards @ 76ers - FEED: Wizards (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139164.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2025-12-02 00:50 - NBA Gamepass 3 : Cavaliers @ Pacers - FEED: Pacers (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2025-12-03 01:20 - NBA Gamepass 3 : Trail Blazers @ Raptors - FEED: Raptors (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139165.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2025-12-02 00:50 - NBA Gamepass 4 : Cavaliers @ Pacers - FEED: Cavaliers (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2025-12-03 01:20 - NBA Gamepass 4 : Trail Blazers @ Raptors - FEED: Trail Blazers (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139166.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2025-12-02 00:50 - NBA Gamepass 5 : Bucks @ Wizards - FEED: Wizards (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2025-12-03 01:50 - NBA Gamepass 5 : Knicks @ Celtics - FEED: NBC (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139167.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2025-12-02 00:50 - NBA Gamepass 6 : Bucks @ Wizards - FEED: Bucks (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2025-12-03 01:50 - NBA Gamepass 6 : Knicks @ Celtics - FEED: Knicks (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139168.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2025-12-02 01:20 - NBA Gamepass 7 : Hornets @ Nets - FEED: Nets (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2025-12-03 01:50 - NBA Gamepass 7 : Timberwolves @ Pelicans - FEED: Pelicans (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139169.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2025-12-02 01:20 - NBA Gamepass 8 : Hornets @ Nets - FEED: Hornets (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2025-12-03 01:50 - NBA Gamepass 8 : Timberwolves @ Pelicans - FEED: Timberwolves (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139170.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2025-12-02 01:20 - NBA Gamepass 9 : Clippers @ Heat - FEED: Heat (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2025-12-03 01:50 - NBA Gamepass 9 : Grizzlies @ Spurs - FEED: Spurs (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139171.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2025-12-02 01:20 - NBA Gamepass 10 : Clippers @ Heat - FEED: Clippers (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2025-12-03 01:50 - NBA Gamepass 10 : Grizzlies @ Spurs - FEED: Grizzlies (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139172.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2025-12-02 01:20 - NBA Gamepass 11 : Bulls @ Magic - FEED: Peacock (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2025-12-03 04:50 - NBA Gamepass 11 : Thunder @ Warriors - FEED: NBC (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139183.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2025-12-02 01:20 - NBA Gamepass 12 : Bulls @ Magic - FEED: Magic (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2025-12-03 04:50 - NBA Gamepass 12 : Thunder @ Warriors - FEED: Warriors (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139184.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2025-12-02 02:50 - NBA Gamepass 13 : Mavericks @ Nuggets - FEED: Nuggets (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2025-12-03 04:50 - NBA Gamepass 13 : Thunder @ Warriors - FEED: Thunder (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139185.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2025-12-02 02:50 - NBA Gamepass 14 : Mavericks @ Nuggets - FEED: Mavericks (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139186.m3u8
@@ -7695,4 +7699,4 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/37632.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Zuid Afrika / South Afrika",ZA: SuperSport Golf
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/37635.m3u8
 
-# Total: 3820
+# Total: 3822

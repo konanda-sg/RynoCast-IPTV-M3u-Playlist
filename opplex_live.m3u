@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: opplex.to
-# Generated: 2025-12-02 18:37:17
+# Generated: 2025-12-03 07:12:16
 # Expires: 2025-12-16
 # Family Safe Edition
 # ==============================================
@@ -1221,443 +1221,529 @@ http://opplex.to/live/926329344/57543788/347415.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/80b161a8f0a50131795595980c269f23.png" group-title="Afghanistan",AFG: Zhwandoon TV
 http://opplex.to/live/926329344/57543788/347416.m3u8
 
-# --- Africa (218) ---
+# --- Africa (261) ---
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/c7eecc6ff94c2e0cb0f82e88c3dbe56c.png" group-title="Africa",AF: Zap Viva
+http://opplex.to/live/926329344/57543788/419499.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/6b277c959ab9445ca23b4a96d376f3dc.png" group-title="Africa",AF: Vox TV
+http://opplex.to/live/926329344/57543788/419498.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/3cd60c8679d68154c3f6317b01a69a1c.png" group-title="Africa",AF: Vox Africa Europe
+http://opplex.to/live/926329344/57543788/419497.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/0095d9c625c9db5ae2c9bfeced99ac42.png" group-title="Africa",AF: Universal TV
+http://opplex.to/live/926329344/57543788/419494.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-09/f3c4cd0380eb4789a676f176b5d71e3f.png" group-title="Africa",AF: TVT (TV TOGO)
+http://opplex.to/live/926329344/57543788/419493.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/0e1c6eb183a0edd7aee9492daabdc095.png" group-title="Africa",AF: TVM Internacional
+http://opplex.to/live/926329344/57543788/419492.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/7482a5150f2bf298dd9a20db4ebb5e45.png" group-title="Africa",AF: TVM
+http://opplex.to/live/926329344/57543788/419491.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/5f84ce4d2e48d98712d0dd1f031836ae.png" group-title="Africa",AF: TVC News
+http://opplex.to/live/926329344/57543788/419490.m3u8
+#EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="Africa",AF: TVC Entertainement
+http://opplex.to/live/926329344/57543788/419489.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/9fa3694d271c4e713f0c79012012b026.png" group-title="Africa",AF: TVC Benin
+http://opplex.to/live/926329344/57543788/419488.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c50210c76bee685e5db15dd8219cf401.png" group-title="Africa",AF: TV1
+http://opplex.to/live/926329344/57543788/419487.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/136a17375584b8aef5f4a02dc3fed5a0.png" group-title="Africa",AF: TV Zimbo
+http://opplex.to/live/926329344/57543788/419486.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/926b2ae2d4b6092c7f3f1fb0e4fdd4c3.png" group-title="Africa",AF: TV West
+http://opplex.to/live/926329344/57543788/419485.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/a3815e6751e963455d7ad4ff92d62a55.webp" group-title="Africa",AF: TV Mauritanie
+http://opplex.to/live/926329344/57543788/419484.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/0037b439481920a22aa69c3dfb5e4e0c.png" group-title="Africa",AF: TV Francophonie
+http://opplex.to/live/926329344/57543788/419482.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1cd905deadb6baaabc9c976f7a48eb4d.png" group-title="Africa",AF: TV Continental
+http://opplex.to/live/926329344/57543788/419481.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-09/3b3c165544244aa73ccef22308bbe112.png" group-title="Africa",AF: TV BRICS Africa
+http://opplex.to/live/926329344/57543788/419480.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/709fccb06601fad1fcc60a8c0f7ed99e.png" group-title="Africa",AF: TPA International
+http://opplex.to/live/926329344/57543788/419479.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-06/8e9ecbf4084cb5e16263d4aaf5dba98d.png" group-title="Africa",AF: TPA 1
+http://opplex.to/live/926329344/57543788/419478.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/62e3ea77f2be118d3bf83c8920be813a.png" group-title="Africa",AF: TM1
+http://opplex.to/live/926329344/57543788/419477.m3u8
+#EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="Africa",AF: TFM
+http://opplex.to/live/926329344/57543788/419476.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/ff274ab9bc091e70b03816dd1e1d6c31.jpg" group-title="Africa",AF: Tele Sahel
+http://opplex.to/live/926329344/57543788/419474.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/9b2d676a1a07884d8fa48d1d55351dc8.png" group-title="Africa",AF: Tele Africa
+http://opplex.to/live/926329344/57543788/419472.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/c62195167f16e1632802f0c59134e2bd.png" group-title="Africa",AF: Tele 50
+http://opplex.to/live/926329344/57543788/419471.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-06/2fbe47377b699ea245f3d0d6e9c28c6a.png" group-title="Africa",AF: TCV Internacional
+http://opplex.to/live/926329344/57543788/419470.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f07d595241ba7ef358663ab2fc77757e.png" group-title="Africa",AF: TBN Africa
+http://opplex.to/live/926329344/57543788/419469.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/a048a041d1704bdd45b6ebb0f60bd694.png" group-title="Africa",AF: STV
+http://opplex.to/live/926329344/57543788/419468.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/8fe48f89d402d8166f3048e0d96b2109.png" group-title="Africa",AF: Studio 1 TV
+http://opplex.to/live/926329344/57543788/419467.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/8f7575ff73f470f111c518b45c583f11.png" group-title="Africa",AF: Spark TV
+http://opplex.to/live/926329344/57543788/419466.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/bad58bb2ec621f16f26cacd26adeee9a.jpg" group-title="Africa",AF: Somaliland National TV
+http://opplex.to/live/926329344/57543788/419465.m3u8
+#EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="Africa",AF: Smash Radio
+http://opplex.to/live/926329344/57543788/419464.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/f67003f17e5c74e9b0e5acb409e8a70f.png" group-title="Africa",AF: Shalom TV
+http://opplex.to/live/926329344/57543788/419463.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/7bd5a4db17b53d1b1a290628c98832b8.png" group-title="Africa",AF: Salam TV
+http://opplex.to/live/926329344/57543788/419462.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/ad0d06984760148e289144b931c054e2.png" group-title="Africa",AF: Rwanda TV (Rwanda)
+http://opplex.to/live/926329344/57543788/419461.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/c7832e16c22742b33cfe23147148d356.png" group-title="Africa",AF: RTNC
+http://opplex.to/live/926329344/57543788/419460.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/6dfc904872b8ddbdb3908d740d308626.png" group-title="Africa",AF: RTI 2
+http://opplex.to/live/926329344/57543788/419459.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-06/6ee008591c2cecc71129692f7aeacbbb.png" group-title="Africa",AF: RTI 1
+http://opplex.to/live/926329344/57543788/419458.m3u8
+#EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="Africa",AF: RTG Guinee
+http://opplex.to/live/926329344/57543788/419457.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-06/f6634a5c9920697a7d06dda54d3c8ed9.png" group-title="Africa",AF: RTG
+http://opplex.to/live/926329344/57543788/419456.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/938a1b23c2f0bb62775187042541aa55.png" group-title="Africa",AF: RTD (Djibouti)
+http://opplex.to/live/926329344/57543788/419455.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/c230a98fa91ba2e3a0b654347da6e8df.png" group-title="Africa",AF: RTB
+http://opplex.to/live/926329344/57543788/419454.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-06/182d7339557fd4e384e9887e4c7b779e.png" group-title="Africa",AF: Resurrection TV
+http://opplex.to/live/926329344/57543788/419453.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/75e9188d14fd7002355a7be08bcfd5ad.jpeg" group-title="Africa",AF: Ramogi TV
+http://opplex.to/live/926329344/57543788/419452.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-12/88b9089dd7da15440a816998b0fdfaf4.png" group-title="Africa",AF: QTV Gambia
+http://opplex.to/live/926329344/57543788/419451.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Africa",AF: QTV
+http://opplex.to/live/926329344/57543788/419450.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/e14c4082d1c0ce6cabb52db649a0cbf4.jpg" group-title="Africa",AF: Play TV
+http://opplex.to/live/926329344/57543788/419449.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/89aa2d80bee7d67f7d5d47463226876e.jpg" group-title="Africa",AF: Peace TV
+http://opplex.to/live/926329344/57543788/419448.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-12/d9d5c797e90834f96fedcfde0fd9923d.png" group-title="Africa",AF: Paradise TV Gambia
+http://opplex.to/live/926329344/57543788/419447.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-06/028d499b76bdefa89573b79c8fe3f6b6.png" group-title="Africa",AF: ORTB
+http://opplex.to/live/926329344/57543788/419444.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/4e18913a8bbdade08ddfeef56189a479.png" group-title="Africa",AF: Omega TV
+http://opplex.to/live/926329344/57543788/419443.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/cc977a5d47bf29177cb9b75c09a7f57a.jpg" group-title="Africa",AF: OCN TV
+http://opplex.to/live/926329344/57543788/419442.m3u8
+#EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="Africa",AF: NTV
+http://opplex.to/live/926329344/57543788/419439.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/2347c62b862d30af2d3668656159363c.png" group-title="Africa",AF: Notre TV
+http://opplex.to/live/926329344/57543788/419438.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/57bfa61b7a1c97f5e789687c1f880684.png" group-title="Africa",AF: Nollywood TV
+http://opplex.to/live/926329344/57543788/419437.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/68e1af9c408a028b5581741b174e3e99.png" group-title="Africa",AF: Nollywood Epic
+http://opplex.to/live/926329344/57543788/419436.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/11d1f375d21ed1dff5945b2104f5b0c5.png" group-title="Africa",AF: Nieta TV
+http://opplex.to/live/926329344/57543788/419435.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Africa",AF: Nago TV
+http://opplex.to/live/926329344/57543788/419434.m3u8
+#EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="Africa",AF: Muzangala TV
+http://opplex.to/live/926329344/57543788/419433.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-11/fc0d71f840acd9377052163124c12ecf.svg" group-title="Africa",AF: MTV Base
+http://opplex.to/live/926329344/57543788/419432.m3u8
+#EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="Africa",AF: MTV
+http://opplex.to/live/926329344/57543788/419431.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-05/9a1f222684cac724ec6010a11a8faa43.svg" group-title="Africa",AF: MTA 2 Africa
+http://opplex.to/live/926329344/57543788/419430.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/d82cf5dbced5374af6bcd9902dc16cbe.jpg" group-title="Africa",AF: Mourchid TV
+http://opplex.to/live/926329344/57543788/419429.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/eb63d907e888e2faa319b436d4f4af6a.png" group-title="Africa",AF: Mishapi
+http://opplex.to/live/926329344/57543788/419428.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/4c9211580bb4cfbd7282a9d3b89c6863.png" group-title="Africa",AF: Mikuba TV
+http://opplex.to/live/926329344/57543788/419427.m3u8
+#EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="Africa",AF: Metanoia TV
+http://opplex.to/live/926329344/57543788/419426.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/d7ba818de92cc26853bb100a004bf683.jpg" group-title="Africa",AF: Loveworld Plus
+http://opplex.to/live/926329344/57543788/419425.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/f714f7a2d4fd6e6bcc21f4f292c8173e.png" group-title="Africa",AF: Loveworld
+http://opplex.to/live/926329344/57543788/419424.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/226d264495aa22db551f1ce0e7698f9c.png" group-title="Africa",AF: LMTV
+http://opplex.to/live/926329344/57543788/419423.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-06/79ab95b5cad4066e8e9e284280ead74a.png" group-title="Africa",AF: Lagos TV
+http://opplex.to/live/926329344/57543788/419422.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/7b7afbd4813b04cc365454c59908876d.png" group-title="Africa",AF: KTN News
+http://opplex.to/live/926329344/57543788/419421.m3u8
+#EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="Africa",AF: KKTV (Angola)
+http://opplex.to/live/926329344/57543788/419420.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/dcc4649fb5fee02adf19161087d0a0a0.png" group-title="Africa",AF: KC2
+http://opplex.to/live/926329344/57543788/419419.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/7f7aedfdbe57f21f1e0f5fd6a8d65b48.png" group-title="Africa",AF: Kalac TV
+http://opplex.to/live/926329344/57543788/419418.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/4dbdde1bda010a7a760e664f45b587c2.png" group-title="Africa",AF: K24
+http://opplex.to/live/926329344/57543788/419417.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/65839abd4c09882f04b930f2b4a98ff9.png" group-title="Africa",AF: Joy prime
+http://opplex.to/live/926329344/57543788/419416.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-06/3a1bc163267ec9c68611a1d4de77402c.png" group-title="Africa",AF: Joy News
+http://opplex.to/live/926329344/57543788/419415.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/1c01e585c860e16c02cd8d7920b32f41.png" group-title="Africa",AF: Ivoire Channel
+http://opplex.to/live/926329344/57543788/419414.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/4407f5e350d0205fd9e1c9b165c38885.png" group-title="Africa",AF: Isango TV
+http://opplex.to/live/926329344/57543788/419413.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-06/2b6cafee8ab19a16cf08ca294e854dfc.png" group-title="Africa",AF: Inooro TV
+http://opplex.to/live/926329344/57543788/419412.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ccc99f2fcd8157c649e04ae56702ed5a.png" group-title="Africa",AF: IBN TV Africa
+http://opplex.to/live/926329344/57543788/419411.m3u8
+#EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="Africa",AF: IBN TV
+http://opplex.to/live/926329344/57543788/419410.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/fa32052312ce5bf1e362cccdac8c59a5.jpg" group-title="Africa",AF: Hope Channel
+http://opplex.to/live/926329344/57543788/419409.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/a3a8a00faf668d30e8fefcf7eed221d4.png" group-title="Africa",AF: Guyana Learning Channel Discover (Guyana)
+http://opplex.to/live/926329344/57543788/419408.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/d3767742f6e4b4d35318f46d9104a766.png" group-title="Africa",AF: Guinee TV 1
+http://opplex.to/live/926329344/57543788/419407.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-12/dfaff630a89874943d1222738acb90c3.png" group-title="Africa",AF: GRTS TV Gambia
+http://opplex.to/live/926329344/57543788/419406.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/b7156414915d766cefcc6c1d8a2f5bff.png" group-title="Africa",AF: God TV
+http://opplex.to/live/926329344/57543788/419405.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/e61bd9d18b74b6ad817383fff4ca7a39.png" group-title="Africa",AF: GH Canada TV
+http://opplex.to/live/926329344/57543788/419404.m3u8
+#EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="Africa",AF: Geopolis TV
+http://opplex.to/live/926329344/57543788/419403.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/4fec9f7e47db6c7fa39047f27eb88049.png" group-title="Africa",AF: Fana TV
+http://opplex.to/live/926329344/57543788/419402.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/9f1eb08c8601f27df8c4bc9ec74220df.png" group-title="Africa",AF: Faith World TV
+http://opplex.to/live/926329344/57543788/419401.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/58c2e6b83c81fe0ae5d724e0b1e3b360.png" group-title="Africa",AF: Faith TV
+http://opplex.to/live/926329344/57543788/419400.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-05/6e01b968836912c908b1d13b57f4d021.png" group-title="Africa",AF: EWTN Africa Asia
+http://opplex.to/live/926329344/57543788/419399.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-06/3584f2d627bcc44791bb8a14b8f0c89f.png" group-title="Africa",AF: EVI TV
+http://opplex.to/live/926329344/57543788/419398.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/ffb23f1fb356bef9e93bde824ef75da2.png" group-title="Africa",AF: Espace TV
+http://opplex.to/live/926329344/57543788/419397.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-10/a7873bc5d8ab7d6ef0a489304a065680.png" group-title="Africa",AF: EriSat
+http://opplex.to/live/926329344/57543788/419396.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-06/b5362471a0b74c6bcca792e23b18dff8.png" group-title="Africa",AF: ERI TV
+http://opplex.to/live/926329344/57543788/419395.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/54910dd025693a08aeb08a0ca13bfe70.png" group-title="Africa",AF: Equinoxe
+http://opplex.to/live/926329344/57543788/419394.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-06/af785e76b2be83123d43e4a1988fed4e.png" group-title="Africa",AF: Emmanuel TV
+http://opplex.to/live/926329344/57543788/419393.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-04/f8fd89d4ec9c2e27877780044a8090b9.png" group-title="Africa",AF: Eden TV
+http://opplex.to/live/926329344/57543788/419392.m3u8
+#EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="Africa",AF: Dodoma TV
+http://opplex.to/live/926329344/57543788/419391.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/afd23c2409d464c5ada924a11e03456c.png" group-title="Africa",AF: Divin Amour TV
+http://opplex.to/live/926329344/57543788/419390.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/9d7ba672988e6cc6cd68fa2ea7558f8d.png" group-title="Africa",AF: Digital Congo TV
+http://opplex.to/live/926329344/57543788/419389.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-09/f07fdd40065d729d6cddcdb1b3080ad6.png" group-title="Africa",AF: Digital Black Music (DBM)
+http://opplex.to/live/926329344/57543788/419388.m3u8
+#EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="Africa",AF: Diaspora Channel
+http://opplex.to/live/926329344/57543788/419387.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/bec6bbd39f356093bcaab35395528478.png" group-title="Africa",AF: CVK
+http://opplex.to/live/926329344/57543788/419386.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Africa",AF: CTV Afrique (FR)
+http://opplex.to/live/926329344/57543788/419385.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-11/76cc83c632838a14c49c8ca4e186b401.png" group-title="Africa",AF: CRTV News
+http://opplex.to/live/926329344/57543788/419384.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/917b30beabbd0233fff713ac97c9be29.png" group-title="Africa",AF: CRTV
+http://opplex.to/live/926329344/57543788/419383.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/752de91cca3e443e222789f8c63d9a58.png" group-title="Africa",AF: CNBC Africa
+http://opplex.to/live/926329344/57543788/419382.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-06/ed770caab22bd8e258cf24a63674b828.png" group-title="Africa",AF: Citizen TV
+http://opplex.to/live/926329344/57543788/419381.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/83b9cc14c300af09264696430c06431b.jpg" group-title="Africa",AF: Citizen Extra
+http://opplex.to/live/926329344/57543788/419380.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/595a2349d2ca608737486337ee5bdfe9.png" group-title="Africa",AF: CIS TV
+http://opplex.to/live/926329344/57543788/419379.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/f9d92750dcfe2594415e81443de825ca.png" group-title="Africa",AF: Cherifla TV
+http://opplex.to/live/926329344/57543788/419378.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/3e17d74d7ca5a6f9915b322e29f773c9.png" group-title="Africa",AF: Channels 24
+http://opplex.to/live/926329344/57543788/419377.m3u8
+#EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="Africa",AF: CCPV TV
+http://opplex.to/live/926329344/57543788/419376.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-11/77a57d2db2f8b0d28b00fa387c9053a0.png" group-title="Africa",AF: Catholic TV
+http://opplex.to/live/926329344/57543788/419375.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-06/c365eb0f007b28c688e0835b5d07a2e5.png" group-title="Africa",AF: Cable
+http://opplex.to/live/926329344/57543788/419372.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/78d2b0ba4aca9f81df935f9f475f36de.png" group-title="Africa",AF: Burkina Info
+http://opplex.to/live/926329344/57543788/419371.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/c1b4d5060a968dba169c6882931be47e.png" group-title="Africa",AF: BTN TV
+http://opplex.to/live/926329344/57543788/419370.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/17d24bbcf08a0a971fdd709d774a3617.png" group-title="Africa",AF: Boom TV
+http://opplex.to/live/926329344/57543788/419369.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/4e723806ae0034fe39545f3b791a0e9e.png" group-title="Africa",AF: Biafra TV
+http://opplex.to/live/926329344/57543788/419368.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/05d261bbe43c8fe44e07d34360c87842.png" group-title="Africa",AF: Benie TV
+http://opplex.to/live/926329344/57543788/419367.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/0d48c35a052efbe463e63f8a77a782bb.jpg" group-title="Africa",AF: BCS Starcross
+http://opplex.to/live/926329344/57543788/419366.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/81f60d64b91e8cc9a8725797c341ec93.png" group-title="Africa",AF: BBS TV
+http://opplex.to/live/926329344/57543788/419365.m3u8
+#EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="Africa",AF: Bblack Africa
+http://opplex.to/live/926329344/57543788/419364.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/4c2ce2774ab64de9582f65eb1b40f8a7.png" group-title="Africa",AF: Bantamba TV
+http://opplex.to/live/926329344/57543788/419363.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/0b580d8f44fc50d0ee39fb5d83942b94.png" group-title="Africa",AF: B-One
+http://opplex.to/live/926329344/57543788/419362.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-07/22d6c8148a644d2ac5893f4de40eb267.png" group-title="Africa",AF: Azam Two
+http://opplex.to/live/926329344/57543788/419361.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-05/f1226b46ee53885da48c14d080c9ffc5.png" group-title="Africa",AF: Azam Sport 4
+http://opplex.to/live/926329344/57543788/419360.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-05/16c6d4b731244fb2ad2e82df4a613690.png" group-title="Africa",AF: Azam Sport 3
+http://opplex.to/live/926329344/57543788/419359.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-05/f948a69baf7880b0a4e07a8a28264d12.png" group-title="Africa",AF: Azam Sport 2
+http://opplex.to/live/926329344/57543788/419358.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-05/779cc26b8c4042770b74a0fa0a647928.png" group-title="Africa",AF: Azam Sport 1
+http://opplex.to/live/926329344/57543788/419357.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-07/2af55c52cad6ab2e4b97e0a7683024cb.png" group-title="Africa",AF: Azam One
+http://opplex.to/live/926329344/57543788/419356.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/b09c92a79f36ce87c0fabc5c5c02602e.png" group-title="Africa",AF: Asfiyahi TV
+http://opplex.to/live/926329344/57543788/419355.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/53c00632f92ecb30e54fbedb4afb581b.png" group-title="Africa",AF: Arise News
+http://opplex.to/live/926329344/57543788/419354.m3u8
+#EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="Africa",AF: ALPHA & OMEGA TV
+http://opplex.to/live/926329344/57543788/419353.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/6552c28de22b49d991343456004c7d92.png" group-title="Africa",AF: Al Jazeera
+http://opplex.to/live/926329344/57543788/419352.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/3aeff7bf0ae3117441a28dc7e5d91bd7.png" group-title="Africa",AF: Al Bayane
+http://opplex.to/live/926329344/57543788/419351.m3u8
+#EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="Africa",AF: Afroland TV
+http://opplex.to/live/926329344/57543788/419350.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-06/7b2c2ca2ac47f20a1f2d5d991e3c1d5c.png" group-title="Africa",AF: Afrique Media
+http://opplex.to/live/926329344/57543788/419348.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/e722aac4dfc6e23736faa895b7ffa8bf.png" group-title="Africa",AF: Africa News (FR)
+http://opplex.to/live/926329344/57543788/419347.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/17cd794f8d56fd21f805b566767663d2.jpg" group-title="Africa",AF: Africable
+http://opplex.to/live/926329344/57543788/419346.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-09/3c56d05a37510694810996ff69188c03.png" group-title="Africa",AF: Africa 7 TV
+http://opplex.to/live/926329344/57543788/419345.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/31b0c3a83dc8affcb91a839b7399b33e.png" group-title="Africa",AF: Addis
+http://opplex.to/live/926329344/57543788/419342.m3u8
+#EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="Africa",AF: ABN Africa
+http://opplex.to/live/926329344/57543788/419341.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/880467876530060f7dadcc9f8480df2a.jpg" group-title="Africa",AF: A2I Religion
+http://opplex.to/live/926329344/57543788/419340.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-09/f6550300e14e031280493f278ad3fdd5.png" group-title="Africa",AF: A2I Naija
+http://opplex.to/live/926329344/57543788/419339.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ef2a9d188fb3662eb43a9de63b90c147.jpg" group-title="Africa",AF: A2I
+http://opplex.to/live/926329344/57543788/419338.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/b5d54b8ad1bb124ba4cec707bbaf0f55.png" group-title="Africa",AF: A+ Ivoire
+http://opplex.to/live/926329344/57543788/419337.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/33afee982225429f580dd69448faff8c.png" group-title="Africa",AF: A+
+http://opplex.to/live/926329344/57543788/419336.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-06/b03bf02a7917e9672ca0017abcbf8686.png" group-title="Africa",AF: 3ABN International
+http://opplex.to/live/926329344/57543788/419335.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/38f708593b4bb640a75a734204cba59b.png" group-title="Africa",AF: 3ABN Francais
+http://opplex.to/live/926329344/57543788/419334.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-06/20ffdbf700321e06af19b0e414af4322.png" group-title="Africa",AF: 2S TV
+http://opplex.to/live/926329344/57543788/419333.m3u8
+#EXTINF:-1 tvg-logo="https://www.centraltv.fr/wp-content/uploads/rtj-tv.jpg" group-title="Africa",AF: RTJ
+http://opplex.to/live/926329344/57543788/419332.m3u8
+#EXTINF:-1 tvg-logo="https://www.centraltv.fr/wp-content/uploads/congo-planete-tv2_logo.jpg" group-title="Africa",AF: CONGO PLANETE TV
+http://opplex.to/live/926329344/57543788/419331.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_985858831.png" group-title="Africa",AF: AFOREVO
+http://opplex.to/live/926329344/57543788/419330.m3u8
+#EXTINF:-1 tvg-logo="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_200/https://telepack.net/wp-content/uploads/2020/11/Louga-Tv.jpg" group-title="Africa",AF: LOUGA TV
+http://opplex.to/live/926329344/57543788/419329.m3u8
+#EXTINF:-1 tvg-logo="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_200/https://telepack.net/wp-content/uploads/2021/09/Dash-TV-Sport-and-Entertainment.png" group-title="Africa",AF: DASH TV
+http://opplex.to/live/926329344/57543788/419328.m3u8
+#EXTINF:-1 tvg-logo="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_200/https://telepack.net/wp-content/uploads/2021/09/dash-tv.jpeg" group-title="Africa",AF: DASH TV NEWS
+http://opplex.to/live/926329344/57543788/419327.m3u8
+#EXTINF:-1 tvg-logo="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_124,h_124/https://telepack.net/wp-content/uploads/2020/04/telepack_siteweb_img_logo_vision4.png" group-title="Africa",AF: VISION 4 TV
+http://opplex.to/live/926329344/57543788/419326.m3u8
+#EXTINF:-1 tvg-logo="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_124,h_115/https://telepack.net/wp-content/uploads/2020/04/AFRO-CULTURE-LOGO-4-e1588182885292.png" group-title="Africa",AF: AFROCULTURE TV
+http://opplex.to/live/926329344/57543788/419325.m3u8
+#EXTINF:-1 tvg-logo="https://server4ip.ath.cx/logo/tv/nn/novela_tv_pl.png" group-title="Africa",AF: NOVELA CHANNEL
+http://opplex.to/live/926329344/57543788/419324.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Iaey8k5.jpg" group-title="Africa",AF: AFROBEATS
+http://opplex.to/live/926329344/57543788/419323.m3u8
+#EXTINF:-1 tvg-logo="https://www.znbc.co.zm/wp-content/uploads/2018/10/cropped-ZNBC-logo-192x192.png" group-title="Africa",AF: TV4 (Zambia)
+http://opplex.to/live/926329344/57543788/419322.m3u8
+#EXTINF:-1 tvg-logo="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_200/https://telepack.net/wp-content/uploads/2020/07/deftv.jpg" group-title="Africa",AF: DEF TV
+http://opplex.to/live/926329344/57543788/419321.m3u8
+#EXTINF:-1 tvg-logo="https://server4ip.ath.cx/logo/tv/vv/voxafrica_afrique.png" group-title="Africa",AF: VOX AFRICA
+http://opplex.to/live/926329344/57543788/419319.m3u8
+#EXTINF:-1 tvg-logo="https://server4ip.ath.cx/logo/tv/tt/tpa_internacional.png" group-title="Africa",AF: TPA (ANGOLA)
+http://opplex.to/live/926329344/57543788/419318.m3u8
+#EXTINF:-1 tvg-logo="http://www.centraltv.fr/wp-content/uploads/tm2.jpg" group-title="Africa",AF: TM2 (MALI)
+http://opplex.to/live/926329344/57543788/419317.m3u8
+#EXTINF:-1 tvg-logo="https://server4ip.ath.cx/logo/tv/tt/tele_sud_fr.png" group-title="Africa",AF: TELESUD
+http://opplex.to/live/926329344/57543788/419316.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Africa",AF: RTV NEWS
+http://opplex.to/live/926329344/57543788/419315.m3u8
+#EXTINF:-1 tvg-logo="http://ulango.tv/uploads/channels/3781669/logo_rtv.png" group-title="Africa",AF: RTV (RWANDA)
+http://opplex.to/live/926329344/57543788/419314.m3u8
+#EXTINF:-1 tvg-logo="http://thedronemedia.ug/wp-content/uploads/2017/07/salt.png" group-title="Africa",AF: SALT (UGANDA)
+http://opplex.to/live/926329344/57543788/419313.m3u8
+#EXTINF:-1 tvg-logo="https://server4ip.ath.cx/logo/tv/kk/kbc_tv1.png" group-title="Africa",AF: KBC1
+http://opplex.to/live/926329344/57543788/419311.m3u8
+#EXTINF:-1 tvg-logo="https://server4ip.ath.cx/logo/tv/ff/francophonie.jpg" group-title="Africa",AF: FRANCOPHONIE24
+http://opplex.to/live/926329344/57543788/419310.m3u8
+#EXTINF:-1 tvg-logo="https://server4ip.ath.cx/logo/tv/tt/tvm_mz_1.png" group-title="Africa",AF: TVM HD (MOZAMBIQUE)
+http://opplex.to/live/926329344/57543788/419309.m3u8
+#EXTINF:-1 tvg-logo="https://server4ip.ath.cx/logo/tv/ii/impac_tv_bf.png" group-title="Africa",AF: IMPACT TV (BURKINA FASO)
+http://opplex.to/live/926329344/57543788/419308.m3u8
+#EXTINF:-1 tvg-logo="https://kenyatv.tech/wp-content/uploads/2021/04/GBS-TV-1.jpg" group-title="Africa",AF: GBS TV (KENYA)
+http://opplex.to/live/926329344/57543788/419306.m3u8
+#EXTINF:-1 tvg-logo="https://kenyatv.tech/wp-content/uploads/2021/04/InooroTV-1.jpg" group-title="Africa",AF: INOORO TV (KENYA)
+http://opplex.to/live/926329344/57543788/419305.m3u8
+#EXTINF:-1 tvg-logo="https://kenyatv.tech/wp-content/uploads/2020/11/ke-kameme-tv-1383.jpg" group-title="Africa",AF: KAMEME TV (KENYA)
+http://opplex.to/live/926329344/57543788/419304.m3u8
+#EXTINF:-1 tvg-logo="https://kenyatv.tech/wp-content/uploads/2020/11/download-1.jpg" group-title="Africa",AF: EBRU TV (KENYA)
+http://opplex.to/live/926329344/57543788/419303.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1114426448557891584/RXBpmswe_400x400.jpg" group-title="Africa",AF: UTV (KENYA)
+http://opplex.to/live/926329344/57543788/419302.m3u8
+#EXTINF:-1 tvg-logo="https://kenyatv.tech/wp-content/uploads/2021/04/KBC-1.jpg" group-title="Africa",AF: KBC (KENYA)
+http://opplex.to/live/926329344/57543788/419301.m3u8
+#EXTINF:-1 tvg-logo="https://kenyatv.tech/wp-content/uploads/2021/04/K24-1.jpg" group-title="Africa",AF: K24 (KENYA)
+http://opplex.to/live/926329344/57543788/419300.m3u8
+#EXTINF:-1 tvg-logo="https://server4ip.ath.cx/logo/tv/nn/ntv_ug.png" group-title="Africa",AF: NTV (KENYA)
+http://opplex.to/live/926329344/57543788/419299.m3u8
+#EXTINF:-1 tvg-logo="https://server4ip.ath.cx/logo/tv/kk/ktn_news_ke.png" group-title="Africa",AF: KTN NEWS (KENYA)
+http://opplex.to/live/926329344/57543788/419298.m3u8
+#EXTINF:-1 tvg-logo="https://server4ip.ath.cx/logo/tv/kk/kass_tv_ke.png" group-title="Africa",AF: KASS TV (KENYA)
+http://opplex.to/live/926329344/57543788/419297.m3u8
+#EXTINF:-1 tvg-logo="https://server4ip.ath.cx/logo/tv/cc/channel24_bd.png" group-title="Africa",AF: CHANNELS 24 TV
+http://opplex.to/live/926329344/57543788/419296.m3u8
+#EXTINF:-1 tvg-logo="https://server4ip.ath.cx/logo/tv/aa/africanews.png" group-title="Africa",AF: AFRICA NEWS
+http://opplex.to/live/926329344/57543788/419295.m3u8
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/ab/f8/abf8bdb69b1d3fada3db9b3f2aaaa493.jpg" group-title="Africa",AF: JOY NEWS (GHANA)
+http://opplex.to/live/926329344/57543788/419294.m3u8
+#EXTINF:-1 tvg-logo="http://ghonetv.com/wp-content/uploads/2017/07/GhOneTV_Logo.jpg" group-title="Africa",AF: GH ONE TV (GHANA)
+http://opplex.to/live/926329344/57543788/419293.m3u8
+#EXTINF:-1 tvg-logo="http://www.ghanatvlive.net/images/gtv.gif" group-title="Africa",AF: GTV SPORTS (GHANA)
+http://opplex.to/live/926329344/57543788/419292.m3u8
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/e8/92/e892d3c86e85471ef4987a1ca29c8eac.jpg" group-title="Africa",AF: ADOM TV (GHANA)
+http://opplex.to/live/926329344/57543788/419291.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.ghanaguardian.com/2018/01/ressurection.jpg" group-title="Africa",AF: RTV (GHANA)
+http://opplex.to/live/926329344/57543788/419290.m3u8
+#EXTINF:-1 tvg-logo="https://server4ip.ath.cx/logo/tv/aa/africa_tv_sd.png" group-title="Africa",AF: TV AFRICA
+http://opplex.to/live/926329344/57543788/419289.m3u8
+#EXTINF:-1 tvg-logo="http://www.centraltv.fr/wp-content/uploads/diaspora_24_senegal.jpg" group-title="Africa",AF: DIASPORA24 TV (GHANA)
+http://opplex.to/live/926329344/57543788/419288.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-ux1OGGwSyBU/VQFmdCdbtnI/AAAAAAAAABs/fRLDok3w3To/s70-p/logo%2Bb%2Bonee.png" group-title="Africa",AF: BE-ONE TV (CONGO)
+http://opplex.to/live/926329344/57543788/419287.m3u8
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-EIJ0pf4b2mI/WCyBKTgWvCI/AAAAAAAAAQ4/rMbbH4P-1Q8QaTyCQTc2Yd7FuE3r5W-7ACLcB/s70-p/Snapshot_1450.jpeg" group-title="Africa",AF: RTNC (CONGO)
+http://opplex.to/live/926329344/57543788/419286.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rjLxSfx.png" group-title="Africa",AF: LAGOS TV (NIGERIA)
+http://opplex.to/live/926329344/57543788/419285.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JEkjEza.png" group-title="Africa",AF: HI-IMPACT TV (NIGERIA)
+http://opplex.to/live/926329344/57543788/419284.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KYJP7gT.png" group-title="Africa",AF: ITV (NIGERIA)
+http://opplex.to/live/926329344/57543788/419283.m3u8
+#EXTINF:-1 tvg-logo="https://server4ip.ath.cx/logo/tv/tt/tv_continental_ng_entertainment.png" group-title="Africa",AF: TV CONTINENTAL (NIGERIA)
+http://opplex.to/live/926329344/57543788/419282.m3u8
+#EXTINF:-1 tvg-logo="https://server4ip.ath.cx/logo/tv/rr/rok_ng.png" group-title="Africa",AF: ROCK TV (NIGERIA)
+http://opplex.to/live/926329344/57543788/419281.m3u8
+#EXTINF:-1 tvg-logo="https://server4ip.ath.cx/logo/tv/nn/nta_news_24_ng.png" group-title="Africa",AF: NTAI (NIGERIA)
+http://opplex.to/live/926329344/57543788/419280.m3u8
+#EXTINF:-1 tvg-logo="http://somaliiptv.com/wp-content/uploads/2018/08/rtn-somali-tv-1-300x225.jpg" group-title="Africa",AF: RTN TV (SOMALI)
+http://opplex.to/live/926329344/57543788/419279.m3u8
+#EXTINF:-1 tvg-logo="http://shaashada.com/images/horncable.png" group-title="Africa",AF: HORN CABLE (SOMALI)
+http://opplex.to/live/926329344/57543788/419278.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AeCpDw4.png" group-title="Africa",AF: DACWA TV (SOMALI)
+http://opplex.to/live/926329344/57543788/419277.m3u8
+#EXTINF:-1 tvg-logo="http://shaashada.com/images/universal.png" group-title="Africa",AF: SAAB TV (SOMALI)
+http://opplex.to/live/926329344/57543788/419276.m3u8
+#EXTINF:-1 tvg-logo="http://shaashada.com/images/somalicable.png" group-title="Africa",AF: SOMALI CABLE
+http://opplex.to/live/926329344/57543788/419275.m3u8
+#EXTINF:-1 tvg-logo="http://www.toostv.com/wp-content/uploads/2017/03/sntv-qaranka.png" group-title="Africa",AF: SNTV (SOMALI)
+http://opplex.to/live/926329344/57543788/419274.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q6o33hr.png" group-title="Africa",AF: PUNTLAND TV (SOMALI)
+http://opplex.to/live/926329344/57543788/419273.m3u8
+#EXTINF:-1 tvg-logo="http://shaashada.com/images/saabtv.png" group-title="Africa",AF: SLNTV (SOMALI)
+http://opplex.to/live/926329344/57543788/419272.m3u8
+#EXTINF:-1 tvg-logo="https://www.saabtv.com/wp-content/uploads/2018/02/SaabTV_191x180transparent.png" group-title="Africa",AF: SBC TV (SOMALI)
+http://opplex.to/live/926329344/57543788/419271.m3u8
+#EXTINF:-1 tvg-logo="http://shaashada.com/images/puntland.png" group-title="Africa",AF: KALSAN TV (SOMALI)
+http://opplex.to/live/926329344/57543788/419270.m3u8
+#EXTINF:-1 tvg-logo="https://www.universaltvsomali.net/themes/tvuniversal/images/logo_badge.png" group-title="Africa",AF: SOUMALIAN TV (SOMALI)
+http://opplex.to/live/926329344/57543788/419269.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOUfFUa2AdSHck0dv6UuGJE-Gyei_43B6onw&s" group-title="Africa",AF: Azam Sport 4 HD (TZ)
+http://opplex.to/live/926329344/57543788/419268.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOUfFUa2AdSHck0dv6UuGJE-Gyei_43B6onw&s" group-title="Africa",AF: Azam Sport 3 FHD (TZ)
+http://opplex.to/live/926329344/57543788/419267.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOUfFUa2AdSHck0dv6UuGJE-Gyei_43B6onw&s" group-title="Africa",AF: Azam Sport 2 FHD (TZ)
+http://opplex.to/live/926329344/57543788/419266.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOUfFUa2AdSHck0dv6UuGJE-Gyei_43B6onw&s" group-title="Africa",AF: Azam Sport 1 FHD (TZ)
+http://opplex.to/live/926329344/57543788/419265.m3u8
+#EXTINF:-1 tvg-logo="https://tanzania.mom-gmr.org/uploads/tx_lfrogmom/media/14514-1508_import.png" group-title="Africa",AF: Azam Two HD (TZ)
+http://opplex.to/live/926329344/57543788/419264.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/azam_tz_one.png" group-title="Africa",AF: Azam One HD (TZ)
+http://opplex.to/live/926329344/57543788/419263.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Africa",AF: ABN TV
+http://opplex.to/live/926329344/57543788/419262.m3u8
+#EXTINF:-1 tvg-logo="https://server4ip.ath.cx/logo/tv/aa/africa24.png" group-title="Africa",AF: AFRICA 24
+http://opplex.to/live/926329344/57543788/419261.m3u8
+#EXTINF:-1 tvg-logo="https://server4ip.ath.cx/logo/tv/aa/ait_international.png" group-title="Africa",AF: AIT INT'L
+http://opplex.to/live/926329344/57543788/419260.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Africa",AF: TELE TCHAD
+http://opplex.to/live/926329344/57543788/419257.m3u8
+#EXTINF:-1 tvg-logo="https://server4ip.ath.cx/logo/tv/ss/sikka_tv_fr.png" group-title="Africa",AF: SIKKA TV
+http://opplex.to/live/926329344/57543788/419255.m3u8
+#EXTINF:-1 tvg-logo="https://server4ip.ath.cx/logo/tv/aa/africa24.png" group-title="Africa",AF: AFRIQUE MEDIA TV
+http://opplex.to/live/926329344/57543788/419254.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/ortm-2-ml.png" group-title="Africa",AF: ORTM 2
+http://opplex.to/live/926329344/57543788/419253.m3u8
+#EXTINF:-1 tvg-logo="https://server4ip.ath.cx/logo/tv/oo/ortm_ml.png" group-title="Africa",AF: ORTM 1
+http://opplex.to/live/926329344/57543788/419252.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Africa",AF: AFRO MUSIC
+http://opplex.to/live/926329344/57543788/419251.m3u8
+#EXTINF:-1 tvg-logo="https://server4ip.ath.cx/logo/tv/tt/tele_congo.png" group-title="Africa",AF: TELE CONGO
+http://opplex.to/live/926329344/57543788/419250.m3u8
+#EXTINF:-1 tvg-logo="https://server4ip.ath.cx/logo/tv/nn/nollywood_tv_fr.png" group-title="Africa",AF: NOLLYWOOD FRENCH
+http://opplex.to/live/926329344/57543788/419249.m3u8
+#EXTINF:-1 tvg-logo="https://server4ip.ath.cx/logo/tv/nn/nollywood_movies_uk.png" group-title="Africa",AF: NOLLYWOOD MOVIES
+http://opplex.to/live/926329344/57543788/419248.m3u8
+#EXTINF:-1 tvg-logo="https://server4ip.ath.cx/logo/tv/rr/rtg_conakry.png" group-title="Africa",AF: RTG (Guiniea)
+http://opplex.to/live/926329344/57543788/419247.m3u8
+#EXTINF:-1 tvg-logo="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_200/https://telepack.net/wp-content/uploads/2020/04/A12-Telepack.jpg" group-title="Africa",AF: A12 (COTE D'IVOIRE)
+http://opplex.to/live/926329344/57543788/419246.m3u8
+#EXTINF:-1 tvg-logo="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_225/https://telepack.net/wp-content/uploads/2020/04/ivoire-channel-1.png" group-title="Africa",AF: IVOIRE CHANNEL (COTE D'IVOIRE)
+http://opplex.to/live/926329344/57543788/419245.m3u8
+#EXTINF:-1 tvg-logo="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_249,h_168/https://telepack.net/wp-content/uploads/2020/04/NTV-co%CC%82te-d%E2%80%99Ivoire.jpg" group-title="Africa",AF: NTV (COTE D'IVOIRE)
+http://opplex.to/live/926329344/57543788/419244.m3u8
+#EXTINF:-1 tvg-logo="https://server4ip.ath.cx/logo/tv/rr/rti_tv2_ci.png" group-title="Africa",AF: RTI2 (Cote D'ivoire)
+http://opplex.to/live/926329344/57543788/419243.m3u8
+#EXTINF:-1 tvg-logo="https://server4ip.ath.cx/logo/tv/rr/rti_tv1_ci.png" group-title="Africa",AF: RTI1 (Cote D'ivoire)
+http://opplex.to/live/926329344/57543788/419242.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Africa",AF: AFRO CINEMA
+http://opplex.to/live/926329344/57543788/419241.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xh617Xa.jpg" group-title="Africa",AF: TMS
+http://opplex.to/live/926329344/57543788/419240.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jV1IyRU.jp" group-title="Africa",AF: MOURIDE TV
+http://opplex.to/live/926329344/57543788/419239.m3u8
+#EXTINF:-1 tvg-logo="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_200/https://telepack.net/wp-content/uploads/2020/05/obosso-tv-1.png" group-title="Africa",AF: OBOSSO TV
+http://opplex.to/live/926329344/57543788/419238.m3u8
+#EXTINF:-1 tvg-logo="https://www.yamatele.sn/wp-content/uploads/2017/05/bichritv-logo.png" group-title="Africa",AF: BICHRI TV
+http://opplex.to/live/926329344/57543788/419237.m3u8
+#EXTINF:-1 tvg-logo="https://www.xalimasn.com/wp-content/uploads/2019/07/026ba320-4931-11e8-b0f8-bd01943c5a68.png" group-title="Africa",AF: 7TV SENEGAL
+http://opplex.to/live/926329344/57543788/419236.m3u8
+#EXTINF:-1 tvg-logo="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_200/https://telepack.net/wp-content/uploads/2020/07/Chabiba-tv.jpeg" group-title="Africa",AF: CHABIBA TV
+http://opplex.to/live/926329344/57543788/419235.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tH7EZL4.jpg" group-title="Africa",AF: A2i MUSIC
+http://opplex.to/live/926329344/57543788/419233.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/RTD-LOGO2013.png" group-title="Africa",AF: A2i TV (Senegal)
+http://opplex.to/live/926329344/57543788/419232.m3u8
+#EXTINF:-1 tvg-logo="http://www.centraltv.fr/wp-content/uploads/dtv-senegal_se.png" group-title="Africa",AF: DTV SENEGAL
+http://opplex.to/live/926329344/57543788/419231.m3u8
+#EXTINF:-1 tvg-logo="https://server4ip.ath.cx/logo/tv/mm/music%20box.gif" group-title="Africa",AF: MUSIC TV (Senegal)
+http://opplex.to/live/926329344/57543788/419230.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Africa",AF: LAMP FALL TV (Senegal)
+http://opplex.to/live/926329344/57543788/419229.m3u8
+#EXTINF:-1 tvg-logo="https://server4ip.ath.cx/logo/tv/ss/sen_tv_sn.png" group-title="Africa",AF: SEN TV
+http://opplex.to/live/926329344/57543788/419228.m3u8
+#EXTINF:-1 tvg-logo="https://server4ip.ath.cx/logo/tv/tt/tfm_sn.png" group-title="Africa",AF: TFM RELIGIONS
+http://opplex.to/live/926329344/57543788/419227.m3u8
+#EXTINF:-1 tvg-logo="https://server4ip.ath.cx/logo/tv/aa/africa_tv_sd.png" group-title="Africa",AF: AFRICA 3 TV
+http://opplex.to/live/926329344/57543788/419226.m3u8
+#EXTINF:-1 tvg-logo="https://server4ip.ath.cx/logo/tv/aa/africa_tv_sd.png" group-title="Africa",AF: AFRICA 2 TV
+http://opplex.to/live/926329344/57543788/419225.m3u8
+#EXTINF:-1 tvg-logo="https://www.leral.net/photo/art/default/4165457-6322048.jpg" group-title="Africa",AF: AFRICA 1 TV
+http://opplex.to/live/926329344/57543788/419224.m3u8
+#EXTINF:-1 tvg-logo="https://server4ip.ath.cx/logo/tv/tt/tfm_sn.png" group-title="Africa",AF: TFM SENEGAL
+http://opplex.to/live/926329344/57543788/419223.m3u8
+#EXTINF:-1 tvg-logo="https://s1-ssl.dmcdn.net/l_C_Y/x1080-xiK.jpg" group-title="Africa",AF: WALF TV
+http://opplex.to/live/926329344/57543788/419222.m3u8
+#EXTINF:-1 tvg-logo="https://static.sangatv.com/images/channels/logo/2ac479e0-b995-11e7-87ca-8b2d5674d67f.png" group-title="Africa",AF: RTS2
+http://opplex.to/live/926329344/57543788/419220.m3u8
+#EXTINF:-1 tvg-logo="https://server4ip.ath.cx/logo/tv/rr/rts_sn_tv_1.png" group-title="Africa",AF: RTS1
+http://opplex.to/live/926329344/57543788/419219.m3u8
+#EXTINF:-1 tvg-logo="https://server4ip.ath.cx/logo/tv/aa/africa-flags.jpg" group-title="Africa",======== AFRICA ========
+http://opplex.to/live/926329344/57543788/419218.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/992/181/png-transparent-graphy-welcome-text-photography-logo-thumbnail.png" group-title="Africa",•●★--- Welcome ----★●•
 http://opplex.to/live/926329344/57543788/347417.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d0ae30703b4d45f9ce7e31afe5dd3700.png" group-title="Africa",AF: 7 TV
-http://opplex.to/live/926329344/57543788/347418.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/20ffdbf700321e06af19b0e414af4322.png" group-title="Africa",AF: 2S TV
-http://opplex.to/live/926329344/57543788/347419.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/b03bf02a7917e9672ca0017abcbf8686.png" group-title="Africa",AF: 3ABN International
-http://opplex.to/live/926329344/57543788/347420.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/355ffa10334e24728483e54a63f0ee05.png" group-title="Africa",AF: 3TV
-http://opplex.to/live/926329344/57543788/347421.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/33afee982225429f580dd69448faff8c.png" group-title="Africa",AF: A+
-http://opplex.to/live/926329344/57543788/347422.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/b5d54b8ad1bb124ba4cec707bbaf0f55.png" group-title="Africa",AF: A+ Ivoire
-http://opplex.to/live/926329344/57543788/347423.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ef2a9d188fb3662eb43a9de63b90c147.jpg" group-title="Africa",AF: A2I
-http://opplex.to/live/926329344/57543788/347424.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/1e88129dd14453e104bda85e89b85a88.jpg" group-title="Africa",AF: A2I Music
-http://opplex.to/live/926329344/57543788/347425.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/880467876530060f7dadcc9f8480df2a.jpg" group-title="Africa",AF: A2I Religion
-http://opplex.to/live/926329344/57543788/347426.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-11/8d80cb56f9aa649612d0116eae016c3c.png" group-title="Africa",AF: ACNN
-http://opplex.to/live/926329344/57543788/347427.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/31b0c3a83dc8affcb91a839b7399b33e.png" group-title="Africa",AF: Addis
-http://opplex.to/live/926329344/57543788/347428.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/a188558b7f36d423effa8c8e0ffe6635.png" group-title="Africa",AF: Adom TV
-http://opplex.to/live/926329344/57543788/347429.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/3c56d05a37510694810996ff69188c03.png" group-title="Africa",AF: Africa 7 TV
-http://opplex.to/live/926329344/57543788/347430.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/850a7d11ee6d28682eced569be3a92f1.png" group-title="Africa",AF: Africa 24
-http://opplex.to/live/926329344/57543788/347431.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/17cd794f8d56fd21f805b566767663d2.jpg" group-title="Africa",AF: Africable
-http://opplex.to/live/926329344/57543788/347432.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/bde86516977e149e3c7593356b783c8e.png" group-title="Africa",AF: AfricaNews (EN)
-http://opplex.to/live/926329344/57543788/347433.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/e722aac4dfc6e23736faa895b7ffa8bf.png" group-title="Africa",AF: Africanews (FR)
-http://opplex.to/live/926329344/57543788/347434.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/7b2c2ca2ac47f20a1f2d5d991e3c1d5c.png" group-title="Africa",AF: Afrique Media
-http://opplex.to/live/926329344/57543788/347435.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/3aeff7bf0ae3117441a28dc7e5d91bd7.png" group-title="Africa",AF: Al Bayane
-http://opplex.to/live/926329344/57543788/347436.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/3025a2f92c45a8a751c27fd34f5d43db.png" group-title="Africa",AF: Alafia TV
-http://opplex.to/live/926329344/57543788/347437.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/d961c72e1aca675c9087bf9f7c06ac27.png" group-title="Africa",AF: Antenne A
-http://opplex.to/live/926329344/57543788/347438.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-11/84d9ca6f18baba4690794631b9a918bd.png" group-title="Africa",AF: Arewa 24
-http://opplex.to/live/926329344/57543788/347439.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/53c00632f92ecb30e54fbedb4afb581b.png" group-title="Africa",AF: Arise News
-http://opplex.to/live/926329344/57543788/347440.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/b09c92a79f36ce87c0fabc5c5c02602e.png" group-title="Africa",AF: Asfiyahi TV
-http://opplex.to/live/926329344/57543788/347441.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/6b472f7e4dc4dfa5e940a8d99dfe18d0.png" group-title="Africa",AF: Authentic TV
-http://opplex.to/live/926329344/57543788/347442.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/fea32c1d59077b6499f8c36f953ee677.jpg" group-title="Africa",AF: AYV TV
-http://opplex.to/live/926329344/57543788/347443.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/0b580d8f44fc50d0ee39fb5d83942b94.png" group-title="Africa",AF: B-One
-http://opplex.to/live/926329344/57543788/347444.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/4c2ce2774ab64de9582f65eb1b40f8a7.png" group-title="Africa",AF: Bantamba TV
-http://opplex.to/live/926329344/57543788/347445.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Africa",AF: Bblack Africa
-http://opplex.to/live/926329344/57543788/347446.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/81f60d64b91e8cc9a8725797c341ec93.png" group-title="Africa",AF: BBS TV
-http://opplex.to/live/926329344/57543788/347447.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/05d261bbe43c8fe44e07d34360c87842.png" group-title="Africa",AF: Benie TV
-http://opplex.to/live/926329344/57543788/347448.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/a9ddeb5cf8dfb07405307f91135b863a.jfif" group-title="Africa",AF: Better Life TV
-http://opplex.to/live/926329344/57543788/347449.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/b9ec8ed5e418dece5ba11a78e362b455.png" group-title="Africa",AF: BF1
-http://opplex.to/live/926329344/57543788/347450.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/4e723806ae0034fe39545f3b791a0e9e.png" group-title="Africa",AF: Biafra TV
-http://opplex.to/live/926329344/57543788/347451.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/7054199b135a7000ff87970047dfdd5e.jfif" group-title="Africa",AF: Bichri TV
-http://opplex.to/live/926329344/57543788/347452.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/7e840a6211481c1777cb6e82656c0a5a.png" group-title="Africa",AF: Bonferey
-http://opplex.to/live/926329344/57543788/347453.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/17d24bbcf08a0a971fdd709d774a3617.png" group-title="Africa",AF: Boom TV
-http://opplex.to/live/926329344/57543788/347454.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/a64de44709ad6dad99d300ed0b5f971f.png" group-title="Africa",AF: Bride TV
-http://opplex.to/live/926329344/57543788/347455.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/c1b4d5060a968dba169c6882931be47e.png" group-title="Africa",AF: BTN TV
-http://opplex.to/live/926329344/57543788/347456.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/78d2b0ba4aca9f81df935f9f475f36de.png" group-title="Africa",AF: Burkina Info
-http://opplex.to/live/926329344/57543788/347457.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/c365eb0f007b28c688e0835b5d07a2e5.png" group-title="Africa",AF: Cable
-http://opplex.to/live/926329344/57543788/347458.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-11/77a57d2db2f8b0d28b00fa387c9053a0.png" group-title="Africa",AF: Catholic TV
-http://opplex.to/live/926329344/57543788/347463.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/da718f8d089cb836a0272cf7379adf22.png" group-title="Africa",AF: CGTN
-http://opplex.to/live/926329344/57543788/347464.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/3e17d74d7ca5a6f9915b322e29f773c9.png" group-title="Africa",AF: Channels 24
-http://opplex.to/live/926329344/57543788/347465.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/f9d92750dcfe2594415e81443de825ca.png" group-title="Africa",AF: Cherifla TV
-http://opplex.to/live/926329344/57543788/347466.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/595a2349d2ca608737486337ee5bdfe9.png" group-title="Africa",AF: CIS TV
-http://opplex.to/live/926329344/57543788/347467.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/4f7b14c5be3ca2f4a3f84b21c11b1ed8.png" group-title="Africa",AF: Clouds Plus
-http://opplex.to/live/926329344/57543788/347468.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/752de91cca3e443e222789f8c63d9a58.png" group-title="Africa",AF: CNBC Africa
-http://opplex.to/live/926329344/57543788/347469.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/d34bed416f59191c0b686a9786ee12c5.jpg" group-title="Africa",AF: Congo Planete TV
-http://opplex.to/live/926329344/57543788/347470.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/917b30beabbd0233fff713ac97c9be29.png" group-title="Africa",AF: CRTV
-http://opplex.to/live/926329344/57543788/347471.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-11/76cc83c632838a14c49c8ca4e186b401.png" group-title="Africa",AF: CRTV News
-http://opplex.to/live/926329344/57543788/347472.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-11/bfd9bf73928c54ad0d99b21d32630884.png" group-title="Africa",AF: CRTV Sports
-http://opplex.to/live/926329344/57543788/347473.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/919594d188a27ea965a2f86b9a78c263.png" group-title="Africa",AF: Cuisines
-http://opplex.to/live/926329344/57543788/347474.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/bec6bbd39f356093bcaab35395528478.png" group-title="Africa",AF: CVK
-http://opplex.to/live/926329344/57543788/347475.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-11/598d6b2a5da32d83341ddd41d654fa02.png" group-title="Africa",AF: D5 TV
-http://opplex.to/live/926329344/57543788/347476.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/ebf0846655effe64195441c8688093c3.jpg" group-title="Africa",AF: Dacwa TV
-http://opplex.to/live/926329344/57543788/347477.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/1e621ac6de104a93749bf01abb3ba579.svg" group-title="Africa",AF: Dare to Dream
-http://opplex.to/live/926329344/57543788/347478.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/9d7ba672988e6cc6cd68fa2ea7558f8d.png" group-title="Africa",AF: Digital Congo TV
-http://opplex.to/live/926329344/57543788/347479.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/6fea0df11cdc649ac927a9eb2b8e86a0.png" group-title="Africa",AF: Djoma TV
-http://opplex.to/live/926329344/57543788/347480.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/df5ec1597311cc72662bb9eda4603fee.png" group-title="Africa",AF: Dounia
-http://opplex.to/live/926329344/57543788/347481.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/b05e3c5d9ac34c8358ade1809e32e0c0.png" group-title="Africa",AF: Dove TV
-http://opplex.to/live/926329344/57543788/347482.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/872b67d7dd65bdef8334b0ccfdbd7e8e.png" group-title="Africa",AF: DRTV
-http://opplex.to/live/926329344/57543788/347483.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-11/60f4e5a3479eca6844f3525aabb38405.png" group-title="Africa",AF: Dunamis TV
-http://opplex.to/live/926329344/57543788/347484.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/7b0670142cb6a8b4633febd08c3252e5.jpg" group-title="Africa",AF: Ecclesia TV
-http://opplex.to/live/926329344/57543788/347485.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/203cd7ce12683053707646b205937b62.png" group-title="Africa",AF: Eden
-http://opplex.to/live/926329344/57543788/347486.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/3b1e5ebae2d82d2459bdedae10528c3e.png" group-title="Africa",AF: EDU Channel
-http://opplex.to/live/926329344/57543788/347487.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/8e21d56b146f1cac3c7a6c7061250395.png" group-title="Africa",AF: Electron
-http://opplex.to/live/926329344/57543788/347488.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/1a3708feefbf44226507d39af529189d.png" group-title="Africa",AF: EMCI TV
-http://opplex.to/live/926329344/57543788/347489.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/af785e76b2be83123d43e4a1988fed4e.png" group-title="Africa",AF: Emmanuel TV
-http://opplex.to/live/926329344/57543788/347490.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/54910dd025693a08aeb08a0ca13bfe70.png" group-title="Africa",AF: Equinoxe
-http://opplex.to/live/926329344/57543788/347491.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/b5362471a0b74c6bcca792e23b18dff8.png" group-title="Africa",AF: ERI TV
-http://opplex.to/live/926329344/57543788/347492.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/ffb23f1fb356bef9e93bde824ef75da2.png" group-title="Africa",AF: Espace TV
-http://opplex.to/live/926329344/57543788/347493.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/8cbc180d26162d722ea68f649f64302f.png" group-title="Africa",AF: Etele
-http://opplex.to/live/926329344/57543788/347494.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Africa",AF: eTV
-http://opplex.to/live/926329344/57543788/347495.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/58c2e6b83c81fe0ae5d724e0b1e3b360.png" group-title="Africa",AF: Faith TV
-http://opplex.to/live/926329344/57543788/347496.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/9f1eb08c8601f27df8c4bc9ec74220df.png" group-title="Africa",AF: Faith World TV
-http://opplex.to/live/926329344/57543788/347497.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/5c972f7030c45e4db0e33e9037752ff3.png" group-title="Africa",AF: Farin Wata
-http://opplex.to/live/926329344/57543788/347498.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/1567437c6277a4f36d4fdd62102ab47e.png" group-title="Africa",AF: FashionTV
-http://opplex.to/live/926329344/57543788/347499.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/35b914eeeb3579426c3da4527cef4169.png" group-title="Africa",AF: Gabon 1ère
-http://opplex.to/live/926329344/57543788/347500.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/5ea7d87eec5cae2675bf87540a3838ee.png" group-title="Africa",AF: Gabon 24
-http://opplex.to/live/926329344/57543788/347501.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/d782f5495d39c8e7a1b3f84dd9cb3615.png" group-title="Africa",AF: Genesis
-http://opplex.to/live/926329344/57543788/347502.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/b7156414915d766cefcc6c1d8a2f5bff.png" group-title="Africa",AF: God TV
-http://opplex.to/live/926329344/57543788/347503.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d3767742f6e4b4d35318f46d9104a766.png" group-title="Africa",AF: Guinee TV 1
-http://opplex.to/live/926329344/57543788/347504.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/b88e9c416a00a3a729527a2eede60292.png" group-title="Africa",AF: Hope Channel
-http://opplex.to/live/926329344/57543788/347505.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ccc99f2fcd8157c649e04ae56702ed5a.png" group-title="Africa",AF: IBN TV Africa
-http://opplex.to/live/926329344/57543788/347506.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/4407f5e350d0205fd9e1c9b165c38885.png" group-title="Africa",AF: Isango TV
-http://opplex.to/live/926329344/57543788/347507.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/1c01e585c860e16c02cd8d7920b32f41.png" group-title="Africa",AF: Ivoire Channel
-http://opplex.to/live/926329344/57543788/347508.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/8afd5a3a281c9a0ca9aa5a16f0774eff.png" group-title="Africa",AF: Ivoire TV Music
-http://opplex.to/live/926329344/57543788/347509.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/27fc9e75f153f0f2da95345ae07a5dc0.png" group-title="Africa",AF: Joliba
-http://opplex.to/live/926329344/57543788/347510.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/3a1bc163267ec9c68611a1d4de77402c.png" group-title="Africa",AF: Joy News
-http://opplex.to/live/926329344/57543788/347511.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/65839abd4c09882f04b930f2b4a98ff9.png" group-title="Africa",AF: Joy prime
-http://opplex.to/live/926329344/57543788/347512.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/8281a7d1e839b08e8fd5b1a17aaf2514.png" group-title="Africa",AF: Jubbaland TV
-http://opplex.to/live/926329344/57543788/347513.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/4dbdde1bda010a7a760e664f45b587c2.png" group-title="Africa",AF: K24
-http://opplex.to/live/926329344/57543788/347514.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/7f7aedfdbe57f21f1e0f5fd6a8d65b48.png" group-title="Africa",AF: Kalac TV
-http://opplex.to/live/926329344/57543788/347515.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/df9b7a0649b3dc5a1cc91953a915365a.png" group-title="Africa",AF: Kalsan TV
-http://opplex.to/live/926329344/57543788/347516.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/d2cd389352bbd1fea0aaa8d71107fb60.png" group-title="Africa",AF: Kass TV
-http://opplex.to/live/926329344/57543788/347517.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/dcc4649fb5fee02adf19161087d0a0a0.png" group-title="Africa",AF: KC2
-http://opplex.to/live/926329344/57543788/347518.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4ff8a8bd13fcf7d4a172cb06d97b4b4e.jpg" group-title="Africa",AF: La Nouvelle Chaine Ivorienne
-http://opplex.to/live/926329344/57543788/347519.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/79ab95b5cad4066e8e9e284280ead74a.png" group-title="Africa",AF: Lagos TV
-http://opplex.to/live/926329344/57543788/347520.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/d68bb04838aac9f724f0c6ad7fc95e2e.png" group-title="Africa",AF: Lamp Fall TV
-http://opplex.to/live/926329344/57543788/347521.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/b822701177084cdcbade21f9ef28e7a2.png" group-title="Africa",AF: Ledjely TV
-http://opplex.to/live/926329344/57543788/347522.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/2f56f0e462138acad2fcd97adf395558.png" group-title="Africa",AF: Lesotho
-http://opplex.to/live/926329344/57543788/347523.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Africa",AF: Light TV
-http://opplex.to/live/926329344/57543788/347524.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/2436079173e9ac988b6fcb5411e7181f.png" group-title="Africa",AF: LMTV
-http://opplex.to/live/926329344/57543788/347525.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/bc370fb76a9a9eea6093b22ef131176d.png" group-title="Africa",AF: Lobs TV
-http://opplex.to/live/926329344/57543788/347526.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/c21257c3e37beabef7c7d001436fe8b9.png" group-title="Africa",AF: Madi TV
-http://opplex.to/live/926329344/57543788/347527.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/b1b0a3150e16ba3c90faff8a36bad270.png" group-title="Africa",AF: Mande TV
-http://opplex.to/live/926329344/57543788/347528.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/91521c5f7cb5b065bfcde8c39e654904.png" group-title="Africa",AF: MCR TV
-http://opplex.to/live/926329344/57543788/347529.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/96f4cc91f4e5f92eb90c807930973583.png" group-title="Africa",AF: Media Prime
-http://opplex.to/live/926329344/57543788/347530.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/4c9211580bb4cfbd7282a9d3b89c6863.png" group-title="Africa",AF: Mikuba TV
-http://opplex.to/live/926329344/57543788/347531.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/eb63d907e888e2faa319b436d4f4af6a.png" group-title="Africa",AF: Mishapi
-http://opplex.to/live/926329344/57543788/347532.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/0b98def9bc4b3f5df2fdae21197e9058.png" group-title="Africa",AF: Moliere TV
-http://opplex.to/live/926329344/57543788/347533.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/cfbcb26074caa70bbfb054d811ef2ea8.png" group-title="Africa",AF: More Grace
-http://opplex.to/live/926329344/57543788/347534.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/c8db9bc76909796ae0e45aa6fade76cc.png" group-title="Africa",AF: My TV
-http://opplex.to/live/926329344/57543788/347535.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/0f471f6da63b2bcb0427711fc73137a3.png" group-title="Africa",AF: Nahoo TV
-http://opplex.to/live/926329344/57543788/347536.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/602044371c8e713cd6e31caa5f483914.png" group-title="Africa",AF: Nathan TV
-http://opplex.to/live/926329344/57543788/347537.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/99b54ff4a7db9792ec1131a1315901cd.png" group-title="Africa",AF: NBS TV
-http://opplex.to/live/926329344/57543788/347538.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/11d1f375d21ed1dff5945b2104f5b0c5.png" group-title="Africa",AF: Nieta TV
-http://opplex.to/live/926329344/57543788/347539.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/a74455bd480003d5143ba0d3b7b09737.png" group-title="Africa",AF: Nolly Africa
-http://opplex.to/live/926329344/57543788/347540.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/68e1af9c408a028b5581741b174e3e99.png" group-title="Africa",AF: Nollywood Epic
-http://opplex.to/live/926329344/57543788/347541.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/b8ebc539ed7d72c5618990c1f7f2711f.svg" group-title="Africa",AF: Nollywood TV
-http://opplex.to/live/926329344/57543788/347542.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/2347c62b862d30af2d3668656159363c.png" group-title="Africa",AF: Notre TV
-http://opplex.to/live/926329344/57543788/347543.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/af5a64ad6070e0b2c6aa303b78305e96.png" group-title="Africa",AF: NTA
-http://opplex.to/live/926329344/57543788/347544.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/206dcf707407150436eb9ea563f1c3e1.png" group-title="Africa",AF: NTV Uganda
-http://opplex.to/live/926329344/57543788/347545.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/ac39b39c40bb6ebb82ed818d37d3fa92.png" group-title="Africa",AF: Nyota
-http://opplex.to/live/926329344/57543788/347546.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/08d7543c92a52230693c2d34ddbc974f.jpg" group-title="Africa",AF: Obosso TV
-http://opplex.to/live/926329344/57543788/347547.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/4e18913a8bbdade08ddfeef56189a479.png" group-title="Africa",AF: Omega TV
-http://opplex.to/live/926329344/57543788/347548.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/028d499b76bdefa89573b79c8fe3f6b6.png" group-title="Africa",AF: ORTB
-http://opplex.to/live/926329344/57543788/347549.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/93cffa404815f6875e52444808499341.png" group-title="Africa",AF: ORTM 1
-http://opplex.to/live/926329344/57543788/347550.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/038e6c100edc8ce645e7db81db4f2d77.png" group-title="Africa",AF: ORTM 2
-http://opplex.to/live/926329344/57543788/347551.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/d84c21c9a813b20c439d45fee47318a9.png" group-title="Africa",AF: Our TV
-http://opplex.to/live/926329344/57543788/347552.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/72e80ee3ac57772af0dab866ddac8c37.png" group-title="Africa",AF: Pacis
-http://opplex.to/live/926329344/57543788/347553.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/89aa2d80bee7d67f7d5d47463226876e.jpg" group-title="Africa",AF: Peace TV
-http://opplex.to/live/926329344/57543788/347554.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/e14c4082d1c0ce6cabb52db649a0cbf4.jpg" group-title="Africa",AF: Play TV
-http://opplex.to/live/926329344/57543788/347555.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/664fdd57c99b5c5c4e2c9b70f8c8b8e0.png" group-title="Africa",AF: Plex TV
-http://opplex.to/live/926329344/57543788/347556.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/e6686a7c03b06b62b567034906aa21f7.png" group-title="Africa",AF: PSTV
-http://opplex.to/live/926329344/57543788/347557.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2c96103085c6cdb2361b7fe162bc2ea1.png" group-title="Africa",AF: Puntland TV
-http://opplex.to/live/926329344/57543788/347558.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/c381dd3149bfb1ece1eba3f4f138ba05.png" group-title="Africa",AF: Ratelki
-http://opplex.to/live/926329344/57543788/347559.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/9ab5cb86fb4eab992d4ced48dda4b0a7.png" group-title="Africa",AF: Rave TV
-http://opplex.to/live/926329344/57543788/347560.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/4a1b7eae23b4e5257df7ff7b438763b5.png" group-title="Africa",AF: Renouveau
-http://opplex.to/live/926329344/57543788/347561.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/182d7339557fd4e384e9887e4c7b779e.png" group-title="Africa",AF: Resurrection TV
-http://opplex.to/live/926329344/57543788/347562.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/00c472fd273a5b50b6eab0051bfc64ba.png" group-title="Africa",AF: ROK
-http://opplex.to/live/926329344/57543788/347563.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/c230a98fa91ba2e3a0b654347da6e8df.png" group-title="Africa",AF: RTB
-http://opplex.to/live/926329344/57543788/347564.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/938a1b23c2f0bb62775187042541aa55.png" group-title="Africa",AF: RTD Djibouti
-http://opplex.to/live/926329344/57543788/347565.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/25158b14aa013f96d120c5059978bf2b.png" group-title="Africa",AF: RTDS
-http://opplex.to/live/926329344/57543788/347566.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-11/8cd28989f3a73fd737ef0137a9631e0c.jpeg" group-title="Africa",AF: RTF
-http://opplex.to/live/926329344/57543788/347567.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/f6634a5c9920697a7d06dda54d3c8ed9.png" group-title="Africa",AF: RTG
-http://opplex.to/live/926329344/57543788/347568.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/6ee008591c2cecc71129692f7aeacbbb.png" group-title="Africa",AF: RTI 1
-http://opplex.to/live/926329344/57543788/347569.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/6dfc904872b8ddbdb3908d740d308626.png" group-title="Africa",AF: RTI 2
-http://opplex.to/live/926329344/57543788/347570.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/ac6e4c35bfe1d90a74f6184f029672ed.png" group-title="Africa",AF: RTNB
-http://opplex.to/live/926329344/57543788/347571.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/c7832e16c22742b33cfe23147148d356.png" group-title="Africa",AF: RTNC
-http://opplex.to/live/926329344/57543788/347572.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/ad0d06984760148e289144b931c054e2.png" group-title="Africa",AF: Rwanda TV
-http://opplex.to/live/926329344/57543788/347573.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/80d5305d5a70b3afef05fe4bb5b49bf2.png" group-title="Africa",AF: Saab TV
-http://opplex.to/live/926329344/57543788/347574.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/1cc9e8279a5d46e201e2ba32b4d84a6f.png" group-title="Africa",AF: Savane TV
-http://opplex.to/live/926329344/57543788/347575.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/ebaf2a678f747a2017b572cecc2e48ca.png" group-title="Africa",AF: SBC TV
-http://opplex.to/live/926329344/57543788/347576.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/4cc0b5b70d2c64f42eddb94deeb52e98.png" group-title="Africa",AF: Somali National TV
-http://opplex.to/live/926329344/57543788/347577.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/bad58bb2ec621f16f26cacd26adeee9a.jpg" group-title="Africa",AF: Somaliland National TV
-http://opplex.to/live/926329344/57543788/347578.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/a9c7d710cda72f6327d8c913f8df0723.png" group-title="Africa",AF: SOS Docteur TV
-http://opplex.to/live/926329344/57543788/347579.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/8bb038dd77f71384772e7c5044f9cdb9.png" group-title="Africa",AF: Soundcity
-http://opplex.to/live/926329344/57543788/347580.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/b3891055d49735dcb43cc38ac15c349a.png" group-title="Africa",AF: Spydar TV
-http://opplex.to/live/926329344/57543788/347581.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/a048a041d1704bdd45b6ebb0f60bd694.png" group-title="Africa",AF: STV
-http://opplex.to/live/926329344/57543788/347582.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/d030560a0042c32a8b1e69a463c8a6d1.png" group-title="Africa",AF: Sud1ère
-http://opplex.to/live/926329344/57543788/347583.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/17211681ad9650bd286517888f3839b5.png" group-title="Africa",AF: Tambarin Hausa TV
-http://opplex.to/live/926329344/57543788/347584.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f07d595241ba7ef358663ab2fc77757e.png" group-title="Africa",AF: TBN Africa
-http://opplex.to/live/926329344/57543788/347585.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/2fbe47377b699ea245f3d0d6e9c28c6a.png" group-title="Africa",AF: TCV Internacional
-http://opplex.to/live/926329344/57543788/347586.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/c62195167f16e1632802f0c59134e2bd.png" group-title="Africa",AF: Tele 50
-http://opplex.to/live/926329344/57543788/347587.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/9b2d676a1a07884d8fa48d1d55351dc8.png" group-title="Africa",AF: Tele Africa
-http://opplex.to/live/926329344/57543788/347588.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/aeb63591e270173f79b8c36467258cee.png" group-title="Africa",AF: Tele Congo
-http://opplex.to/live/926329344/57543788/347589.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/ff274ab9bc091e70b03816dd1e1d6c31.jpg" group-title="Africa",AF: Tele Sahel
-http://opplex.to/live/926329344/57543788/347590.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/924eb5d66d882a66e7a7ca0357991da4.jpg" group-title="Africa",AF: Tele Tchad
-http://opplex.to/live/926329344/57543788/347591.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Africa",AF: TIVI 5
-http://opplex.to/live/926329344/57543788/347592.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/62e3ea77f2be118d3bf83c8920be813a.png" group-title="Africa",AF: TM1
-http://opplex.to/live/926329344/57543788/347593.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/cde5a00f55a4e01ba4edc07fa34f6e49.png" group-title="Africa",AF: Tozali TV
-http://opplex.to/live/926329344/57543788/347594.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/8e9ecbf4084cb5e16263d4aaf5dba98d.png" group-title="Africa",AF: TPA 1
-http://opplex.to/live/926329344/57543788/347595.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/0037b439481920a22aa69c3dfb5e4e0c.png" group-title="Africa",AF: TV Francophonie
-http://opplex.to/live/926329344/57543788/347596.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/a3815e6751e963455d7ad4ff92d62a55.webp" group-title="Africa",AF: TV Mauritanie
-http://opplex.to/live/926329344/57543788/347598.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/926b2ae2d4b6092c7f3f1fb0e4fdd4c3.png" group-title="Africa",AF: TV West
-http://opplex.to/live/926329344/57543788/347599.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/c50210c76bee685e5db15dd8219cf401.png" group-title="Africa",AF: TV1
-http://opplex.to/live/926329344/57543788/347600.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/9a1546f43cab0085874777b3acd690f7.png" group-title="Africa",AF: TV10
-http://opplex.to/live/926329344/57543788/347601.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/6265d055eeca7bf7093d72020d8c3bdf.png" group-title="Africa",AF: TV7
-http://opplex.to/live/926329344/57543788/347602.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9fa3694d271c4e713f0c79012012b026.png" group-title="Africa",AF: TVC Benin
-http://opplex.to/live/926329344/57543788/347603.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/5f84ce4d2e48d98712d0dd1f031836ae.png" group-title="Africa",AF: TVC News
-http://opplex.to/live/926329344/57543788/347604.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/7b96f0b45ea5379b3fe2152f934e5907.png" group-title="Africa",AF: TVGE
-http://opplex.to/live/926329344/57543788/347605.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/df1bbc80d52f8b762913609d9bdf0f53.jpg" group-title="Africa",AF: TVM
-http://opplex.to/live/926329344/57543788/347606.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/f3c4cd0380eb4789a676f176b5d71e3f.png" group-title="Africa",AF: TVT (TV TOGO)
-http://opplex.to/live/926329344/57543788/347607.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/0095d9c625c9db5ae2c9bfeced99ac42.png" group-title="Africa",AF: Universal TV
-http://opplex.to/live/926329344/57543788/347608.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/a3a49f67588ca43314ad0e5dac485e3c.png" group-title="Africa",AF: Vision 4 TV
-http://opplex.to/live/926329344/57543788/347609.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/2207dc191ed7a75d73bb67b899bfcd4d.png" group-title="Africa",AF: VOIR+
-http://opplex.to/live/926329344/57543788/347610.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/f9feb90f6ce99f55806bfd57d7b2bc51.png" group-title="Africa",AF: Vox Africa
-http://opplex.to/live/926329344/57543788/347611.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/3cd60c8679d68154c3f6317b01a69a1c.png" group-title="Africa",AF: Vox Africa Europe
-http://opplex.to/live/926329344/57543788/347612.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/6b277c959ab9445ca23b4a96d376f3dc.png" group-title="Africa",AF: Vox TV
-http://opplex.to/live/926329344/57543788/347613.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/aa34dc75d9837bcab667b831ffec9a8b.png" group-title="Africa",AF: Zanzibar TV
-http://opplex.to/live/926329344/57543788/347614.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c7eecc6ff94c2e0cb0f82e88c3dbe56c.png" group-title="Africa",AF: Zap Viva
-http://opplex.to/live/926329344/57543788/347615.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/ed770caab22bd8e258cf24a63674b828.png" group-title="Africa",AF: Citizen TV
-http://opplex.to/live/926329344/57543788/347616.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/2b6cafee8ab19a16cf08ca294e854dfc.png" group-title="Africa",AF: Inooro TV
-http://opplex.to/live/926329344/57543788/347617.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/7b7afbd4813b04cc365454c59908876d.png" group-title="Africa",AF: KTN News
-http://opplex.to/live/926329344/57543788/347618.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/03edc8fa3c17eb0eb8f0a591e49994f3.png" group-title="Africa",AF: NTV
-http://opplex.to/live/926329344/57543788/347619.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-11/25b5ed9eb61580f7b02fac494febca33.png" group-title="Africa",AF: Ebru TV
-http://opplex.to/live/926329344/57543788/347620.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/5e452664a2964024d7a992eb02285466.png" group-title="Africa",AF: Digital News
-http://opplex.to/live/926329344/57543788/347621.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/2d2b69004898fe2335805d7afe3916cc.jpeg" group-title="Africa",AF: Azimio TV
-http://opplex.to/live/926329344/57543788/347622.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/54ed02f3d974ed79fb1fce6cc9f7030a.jpeg" group-title="Africa",AF: Mutembei TV
-http://opplex.to/live/926329344/57543788/347623.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/75e9188d14fd7002355a7be08bcfd5ad.jpeg" group-title="Africa",AF: Ramogi TV
-http://opplex.to/live/926329344/57543788/347624.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/3922fcd0f1303fb4a6dc05e011a7ae06.png" group-title="Africa",AF: KBCTV
-http://opplex.to/live/926329344/57543788/347625.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Africa",SO: UNIVERSEL SOMALI TV
-http://opplex.to/live/926329344/57543788/347626.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/f47188fd023290e5a0bba4148b40d77f.png" group-title="Africa",AF: TFM
-http://opplex.to/live/926329344/57543788/347627.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/975ccd969ce74e8e7461ccc0953c466d.png" group-title="Africa",AF: SEN TV
-http://opplex.to/live/926329344/57543788/347628.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/e179d0dce73f4ea08c0a3d960b78e199.png" group-title="Africa",AF: RTS 2
-http://opplex.to/live/926329344/57543788/347629.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/f78a9e6c4d0d59cf1dba371be4e47e0c.png" group-title="Africa",AF: RTS 1
-http://opplex.to/live/926329344/57543788/347630.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/000e097faf6a1a21a02b8562336a2a71.png" group-title="Africa",AF: Walf TV
-http://opplex.to/live/926329344/57543788/347631.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/f12dd4986927b13a9fa863a2a02abc43.png" group-title="Africa",AF: Mouride TV
-http://opplex.to/live/926329344/57543788/347632.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/601f5d6c29a660efe06f731bbb004f10.png" group-title="Africa",AF: Touba TV
-http://opplex.to/live/926329344/57543788/347633.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/0df5659f927360bcbb503ce58d330bbe.png" group-title="Africa",AF: RDV
-http://opplex.to/live/926329344/57543788/347634.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d4123c23eb70f931faa47b06344bf524.png" group-title="Africa",AF: DTV
-http://opplex.to/live/926329344/57543788/347635.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/b6136745c0fda93bacbdc1cc38b5800c.jpg" group-title="Africa",AF: Louga TV
-http://opplex.to/live/926329344/57543788/347636.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/817d313817f3211ae7339053340cedd5.png" group-title="Africa",AF: SSM TV
-http://opplex.to/live/926329344/57543788/347637.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/7cbfbda4fdb636410d9bb960aa0a4dab.png" group-title="Africa",AF: Sunu Yeuf
-http://opplex.to/live/926329344/57543788/347638.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/8ff68318140db98ee11cdd78282c2e15.png" group-title="Africa",AF: ITV
-http://opplex.to/live/926329344/57543788/347639.m3u8
 
 # --- Albania (139) ---
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/992/181/png-transparent-graphy-welcome-text-photography-logo-thumbnail.png" group-title="Albania",•●★--- Welcome ----★●•
@@ -15295,11 +15381,67 @@ http://opplex.to/live/926329344/57543788/352411.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/992/181/png-transparent-graphy-welcome-text-photography-logo-thumbnail.png" group-title="Nicaragua",•●★--- Welcome ----★●•
 http://opplex.to/live/926329344/57543788/352451.m3u8
 
-# --- Nigeria (2) ---
+# --- Nigeria (30) ---
+#EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="Nigeria",NG: Whole Word TV
+http://opplex.to/live/926329344/57543788/419528.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-11/f16eea5f9db393d9c38c0a24d6a90083.png" group-title="Nigeria",NG: Wap TV
+http://opplex.to/live/926329344/57543788/419527.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-11/767a8e7432444913a3209793b682572c.jpeg" group-title="Nigeria",NG: TVI Africa
+http://opplex.to/live/926329344/57543788/419526.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/8651453b423b2b0eae668e883b0c9b4f.png" group-title="Nigeria",NG: TVC News
+http://opplex.to/live/926329344/57543788/419525.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-11/7f0028630868b01f4fb15977cc56547d.png" group-title="Nigeria",NG: TV Fidelité
+http://opplex.to/live/926329344/57543788/419524.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-11/726c4692aba0e64d846bf41003d0d2b7.png" group-title="Nigeria",NG: TV 360 Nigeria
+http://opplex.to/live/926329344/57543788/419523.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-11/e55db2de2206f717c4ff5ed77b2f6f97.png" group-title="Nigeria",NG: Ténéré TV
+http://opplex.to/live/926329344/57543788/419522.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-11/16d3a653e186897f7037fada3702515c.png" group-title="Nigeria",NG: Tele Sahel
+http://opplex.to/live/926329344/57543788/419521.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-11/8bd363b398ed6facd475fa145503b180.png" group-title="Nigeria",NG: Tambara TV
+http://opplex.to/live/926329344/57543788/419520.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-11/252536739b27728e3af34d430d94683f.png" group-title="Nigeria",NG: Tal TV
+http://opplex.to/live/926329344/57543788/419519.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-11/9a87050aa51d04abef0256dc843b8ae4.png" group-title="Nigeria",NG: Superscreen TV
+http://opplex.to/live/926329344/57543788/419518.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-11/be3d2050b0ed724e60f64d0eebce9a13.png" group-title="Nigeria",NG: Saraounia TV
+http://opplex.to/live/926329344/57543788/419517.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-11/b1463ff4c6b985f7dd80f13cbcb7b025.png" group-title="Nigeria",NG: Rhema TV
+http://opplex.to/live/926329344/57543788/419516.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-06/9ab5cb86fb4eab992d4ced48dda4b0a7.png" group-title="Nigeria",NG: Rave TV
+http://opplex.to/live/926329344/57543788/419515.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-11/8ab9c3d78678ca32c4412ac14eb228f2.png" group-title="Nigeria",NG: Qausain TV
+http://opplex.to/live/926329344/57543788/419514.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-11/9735641cf133161afd1a0e3c948b5af8.png" group-title="Nigeria",NG: Niger 24
+http://opplex.to/live/926329344/57543788/419513.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-11/8b5eb8c15df599eca6d7af203f4af641.png" group-title="Nigeria",NG: LoveWorld Asia
+http://opplex.to/live/926329344/57543788/419512.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/bb2464f18c06159162c962095d5221a6.png" group-title="Nigeria",NG: Liptako TV
+http://opplex.to/live/926329344/57543788/419511.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-11/9a92c2784960af6ec33b7769823f8c24.png" group-title="Nigeria",NG: Labari TV
+http://opplex.to/live/926329344/57543788/419510.m3u8
+#EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="Nigeria",NG: Kingsview TV
+http://opplex.to/live/926329344/57543788/419509.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-11/c0282383731a748cf38d39b0d091a072.png" group-title="Nigeria",NG: Espérance TV
+http://opplex.to/live/926329344/57543788/419508.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-11/60f4e5a3479eca6844f3525aabb38405.png" group-title="Nigeria",NG: Dunamis TV
+http://opplex.to/live/926329344/57543788/419507.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-06/b05e3c5d9ac34c8358ade1809e32e0c0.png" group-title="Nigeria",NG: Dove TV
+http://opplex.to/live/926329344/57543788/419506.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/df5ec1597311cc72662bb9eda4603fee.png" group-title="Nigeria",NG: Dounia
+http://opplex.to/live/926329344/57543788/419505.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-11/51cd17066af3a4d6f4d37a3faa772f50.png" group-title="Nigeria",NG: CNBC Africa
+http://opplex.to/live/926329344/57543788/419504.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-06/5fee007b4e54984c4ea3207780558644.png" group-title="Nigeria",NG: Channels 24
+http://opplex.to/live/926329344/57543788/419503.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/7e840a6211481c1777cb6e82656c0a5a.png" group-title="Nigeria",NG: Bonferey
+http://opplex.to/live/926329344/57543788/419502.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-11/04932418b5871f40aad1462b8dccddad.png" group-title="Nigeria",NG: Anfani TV
+http://opplex.to/live/926329344/57543788/419501.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-11/727e227e72730cdf01bc05436d631882.png" group-title="Nigeria",NG: Africa 24 English
+http://opplex.to/live/926329344/57543788/419500.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/992/181/png-transparent-graphy-welcome-text-photography-logo-thumbnail.png" group-title="Nigeria",•●★--- Welcome ----★●•
 http://opplex.to/live/926329344/57543788/352458.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/5fee007b4e54984c4ea3207780558644.png" group-title="Nigeria",NG: Channels 24
-http://opplex.to/live/926329344/57543788/352459.m3u8
 
 # --- Norway (4) ---
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/992/181/png-transparent-graphy-welcome-text-photography-logo-thumbnail.png" group-title="Norway",•●★--- Welcome ----★●•
@@ -24183,4 +24325,4 @@ http://opplex.to/live/926329344/57543788/355197.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/f9fc99a62ad17a325e8d0127fb787b0b.png" group-title="Yemen",YE: Yemen TV
 http://opplex.to/live/926329344/57543788/355198.m3u8
 
-# Total: 11700
+# Total: 11771

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: supjaa.xyz
-# Generated: 2025-12-02 18:41:08
+# Generated: 2025-12-03 07:13:09
 # Expires: 2025-12-12
 # Family Safe Edition
 # ==============================================
@@ -5451,7 +5451,7 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1324253.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="EU | ES | DAZN PPV",ES - DAZN PPV 27 HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1324254.m3u8
 
-# --- EU | ES | DEPORTES (69) ---
+# --- EU | ES | DEPORTES (72) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/SPAIN.png" group-title="EU | ES | DEPORTES",##### ES - M. DEPORTES #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1325123.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DEPORTES.png" group-title="EU | ES | DEPORTES",ES - M. DEPORTES 1 FHD
@@ -5536,6 +5536,12 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/975900.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1027116.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/HYPERMOTION.png" group-title="EU | ES | DEPORTES",ES - LALIGA HYPERMOTION 3 FHD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/975901.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/SPAIN.png" group-title="EU | ES | DEPORTES",##### ES - MOVISTAR COPA DEL REY #####
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1345911.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/copadelrey.png" group-title="EU | ES | DEPORTES",ES - MOVISTAR COPA DEL REY FHD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1345897.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/copadelrey.png" group-title="EU | ES | DEPORTES",ES - MOVISTAR COPA DEL REY HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1345898.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/SPAIN.png" group-title="EU | ES | DEPORTES",##### ES - DEPORTES #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/21322.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/SPORTS.png" group-title="EU | ES | DEPORTES",ES - BEIN SPORTS Ñ FHD
@@ -7301,7 +7307,7 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/57025.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/USHUAIA_FHD.png" group-title="EU | FRANCE DOCUMENTAIRE",FR - USHUAIA SD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/56881.m3u8
 
-# --- EU | FRANCE ENTERTAINMENT (87) ---
+# --- EU | FRANCE ENTERTAINMENT (88) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/frlog.png" group-title="EU | FRANCE ENTERTAINMENT",##### FRANCE  ENTERTAINMENT FHD #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/57098.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/E_ENTERTAINMENT.png" group-title="EU | FRANCE ENTERTAINMENT",FR - E! ENTERTAINMENT FHD
@@ -7476,6 +7482,8 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1044102.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/427660.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/INULTRA_4K_HDR.png" group-title="EU | FRANCE ENTERTAINMENT",FR - INULTRA 4K HDR
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1044105.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/FINLAND/Discovery_Science.png" group-title="EU | FRANCE ENTERTAINMENT",FR - DISCOVERY SCIENCE HEVC
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1345964.m3u8
 
 # --- EU | FRANCE GENERAL (142) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/frlog.png" group-title="EU | FRANCE GENERAL",##### FRANCE GENERAL FHD #####
@@ -8396,19 +8404,19 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/349600.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/349603.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/FLAGS/IRELAND2.png" group-title="EU | IRELAND",##### IE - CLUBBER #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1304805.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/IRELAND/Clubber.png" group-title="EU | IRELAND",IE - CLUBBER 01 : ST BRIGIDS VS TULLAROAN – 11:00 AM UK / 06:00 AM ET
+#EXTINF:-1 tvg-logo="https://go4.pw/IRELAND/Clubber.png" group-title="EU | IRELAND",IE - CLUBBER 01 : NAAS CBS VS ST MELS COLLEGE – UK TUE 2 DEC 1:00PM / ET TUE 2 DEC 8:00AM
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/640936.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/IRELAND/Clubber.png" group-title="EU | IRELAND",IE - CLUBBER 02 : BORRISILEIGH VS TOOMEVARA – 12:00 PM UK / 07:00 AM ET
+#EXTINF:-1 tvg-logo="https://go4.pw/IRELAND/Clubber.png" group-title="EU | IRELAND",IE - CLUBBER 02 :
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/640935.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/IRELAND/Clubber.png" group-title="EU | IRELAND",IE - CLUBBER 03 : THURLES SARSFIELDS VS BOHERLAHANDUALLA – 12:00 PM UK / 07:00 AM ET
+#EXTINF:-1 tvg-logo="https://go4.pw/IRELAND/Clubber.png" group-title="EU | IRELAND",IE - CLUBBER 03 :
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/640934.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/IRELAND/Clubber.png" group-title="EU | IRELAND",IE - CLUBBER 04 : SILVERMINES VS BALLINA – 12:00 PM UK / 07:00 AM ET
+#EXTINF:-1 tvg-logo="https://go4.pw/IRELAND/Clubber.png" group-title="EU | IRELAND",IE - CLUBBER 04 :
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/640933.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/IRELAND/Clubber.png" group-title="EU | IRELAND",IE - CLUBBER 05 : CASTLEMARTYR VS ST PATRICKS – 13:00 PM UK / 08:00 AM ET
+#EXTINF:-1 tvg-logo="https://go4.pw/IRELAND/Clubber.png" group-title="EU | IRELAND",IE - CLUBBER 05 :
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/640932.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/IRELAND/Clubber.png" group-title="EU | IRELAND",IE - CLUBBER 06 : SALLINS VS CLARA – 14:00 PM UK / 09:00 AM ET
+#EXTINF:-1 tvg-logo="https://go4.pw/IRELAND/Clubber.png" group-title="EU | IRELAND",IE - CLUBBER 06 :
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/640931.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/IRELAND/Clubber.png" group-title="EU | IRELAND",IE - CLUBBER 07 : DICKSBORO VS GRAIGUE BALLYCALLAN – 14:00 PM UK / 09:00 AM ET
+#EXTINF:-1 tvg-logo="https://go4.pw/IRELAND/Clubber.png" group-title="EU | IRELAND",IE - CLUBBER 07 :
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/640930.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/IRELAND/Clubber.png" group-title="EU | IRELAND",IE - CLUBBER 08 :
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/640929.m3u8
@@ -11346,11 +11354,11 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/427467.m3u8
 # --- VIP | GOLDEN EVENTS (37) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="VIP | GOLDEN EVENTS",##### FR - ARAB CUP #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1018100.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",FR - MOROCCO VS COMOROS 14:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",FR - ALGERIA VS SUDAN 14:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1150145.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",FR - EGYPT VS KUWAIT 16:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",FR - IRAQ VS BAHRAIN 16:30 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1123346.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",FR - SAUDI ARABIA VS OMAN 19:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",FR - JORDAN VS UNITED ARAB EMIRATES 19:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1123334.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",FR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1123278.m3u8
@@ -11364,11 +11372,11 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1024490.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1024487.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="VIP | GOLDEN EVENTS",##### AR - ARAB CUP #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1018107.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - MOROCCO VS COMOROS 14:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - ALGERIA VS SUDAN 14:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1150144.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - EGYPT VS KUWAIT 16:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - IRAQ VS BAHRAIN 16:30 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1123275.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - SAUDI ARABIA VS OMAN 19:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - JORDAN VS UNITED ARAB EMIRATES 19:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1123274.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1039934.m3u8
@@ -11769,18 +11777,20 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1125008.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/stin-cou.png" group-title="VIP | MUSIC CONCERTS",VIP - STINGRAY COUNTRY CLASSICS
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1291998.m3u8
 
-# --- VIP | PREMIER LEAGUE (38) ---
+# --- VIP | PREMIER LEAGUE (42) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="VIP | PREMIER LEAGUE",##### ENGLISH #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1020754.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - AFC BOURNEMOUTH VS EVERTON 21:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - BURNLEY VS CRYSTAL PALACE 21:30 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1100811.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - FULHAM VS MANCHESTER CITY 21:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - BRIGHTON & HOVE ALBION VS ASTON VILLA 21:30 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1100810.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - ARSENAL VS BRENTFORD 21:30 CET
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015554.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - WOLVERHAMPTON WANDERERS VS NOTTINGHAM FOREST 21:30 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015553.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - LIVERPOOL VS SUNDERLAND 22:15 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015552.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - LEEDS UNITED VS CHELSEA 22:15 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015551.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015550.m3u8
@@ -11792,15 +11802,17 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015548.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015547.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/flag_france.png" group-title="VIP | PREMIER LEAGUE",##### FRENCH #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1020753.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - AFC BOURNEMOUTH VS EVERTON 21:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - BURNLEY VS CRYSTAL PALACE 21:30 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1100813.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - FULHAM VS MANCHESTER CITY 21:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - BRIGHTON & HOVE ALBION VS ASTON VILLA 21:30 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1100812.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - ARSENAL VS BRENTFORD 21:30 CET
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015546.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - WOLVERHAMPTON WANDERERS VS NOTTINGHAM FOREST 21:30 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015545.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - LIVERPOOL VS SUNDERLAND 22:15 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015544.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - LEEDS UNITED VS CHELSEA 22:15 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015543.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015542.m3u8
@@ -11812,15 +11824,17 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015541.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015540.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="VIP | PREMIER LEAGUE",##### ARABIC #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1020752.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - AFC BOURNEMOUTH VS EVERTON 21:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - BURNLEY VS CRYSTAL PALACE 21:30 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1100815.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - FULHAM VS MANCHESTER CITY 21:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - BRIGHTON & HOVE ALBION VS ASTON VILLA 21:30 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1100814.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - ARSENAL VS BRENTFORD 21:30 CET
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015562.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - WOLVERHAMPTON WANDERERS VS NOTTINGHAM FOREST 21:30 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015561.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - LIVERPOOL VS SUNDERLAND 22:15 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015560.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - LEEDS UNITED VS CHELSEA 22:15 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015559.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015558.m3u8
@@ -11832,15 +11846,17 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015555.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015556.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/ALBANIA.png" group-title="VIP | PREMIER LEAGUE",##### ALBANIAN #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1024114.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - AFC BOURNEMOUTH VS EVERTON 21:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - BURNLEY VS CRYSTAL PALACE 21:30 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1225673.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - FULHAM VS MANCHESTER CITY 21:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - BRIGHTON & HOVE ALBION VS ASTON VILLA 21:30 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1182487.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - ARSENAL VS BRENTFORD 21:30 CET
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1039828.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - WOLVERHAMPTON WANDERERS VS NOTTINGHAM FOREST 21:30 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1039819.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - LIVERPOOL VS SUNDERLAND 22:15 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1024335.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - LEEDS UNITED VS CHELSEA 22:15 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1024118.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1024115.m3u8
@@ -12179,4 +12195,4 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/682939.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",ES - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/682941.m3u8
 
-# Total: 5993
+# Total: 6001

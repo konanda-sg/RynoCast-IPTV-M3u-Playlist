@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: world-service.us:8080
-# Generated: 2025-12-02 18:29:09
+# Generated: 2025-12-03 07:14:59
 # Expires: 2026-02-19
 # Family Safe Edition
 # ==============================================
@@ -1847,9 +1847,11 @@ http://world-service.us:8080/movie/giovanmer/merante/2034.mkv
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | NAPOLI",Tradimento
 http://world-service.us:8080/movie/giovanmer/merante/2046.mkv
 
-# --- Movies | NETFLIX AMAZON AZIONE (1419) ---
+# --- Movies | NETFLIX AMAZON AZIONE (1420) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",==== NETFLIX AZIONE ====
 http://world-service.us:8080/movie/giovanmer/merante/62556.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/c8e14847a7e837cde0677c79128cd095.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Troll 2 (2025)
+http://world-service.us:8080/movie/giovanmer/merante/85830.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/ed9dda5e1a26c15d72ebff03ca19f235.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Double Impact - La vendetta finale (1991)
 http://world-service.us:8080/movie/giovanmer/merante/85801.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/f0f288ab3fad430e0aa59b6f553f0c2e.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Lionheart - Scommessa vincente (1990)
@@ -4687,9 +4689,11 @@ http://world-service.us:8080/movie/giovanmer/merante/35312.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2r3Z9Th1eplDoIQAtC14WONMrpI.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Thor: The Dark World (2013)
 http://world-service.us:8080/movie/giovanmer/merante/6011.mkv
 
-# --- Movies | NETFLIX AMAZON BAMBINI (1415) ---
+# --- Movies | NETFLIX AMAZON BAMBINI (1416) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON BAMBINI",====NETFLIX CARTONI BAMBINI====
 http://world-service.us:8080/movie/giovanmer/merante/1658.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/0dca8d1166912ffa67e61128bb1ca414.jpg" group-title="Movies | NETFLIX AMAZON BAMBINI",Zootropolis 2 (2025)
+http://world-service.us:8080/movie/giovanmer/merante/85831.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/19c173e4c85289ba2b0ff3649bd780e4.jpg" group-title="Movies | NETFLIX AMAZON BAMBINI",Gli snicci (2025)
 http://world-service.us:8080/movie/giovanmer/merante/85800.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/8f1f5fdf69cde1add6bf8dd61c0a7325.jpg" group-title="Movies | NETFLIX AMAZON BAMBINI",Demon Slayer - Il treno Mugen (2020)
@@ -7969,9 +7973,19 @@ http://world-service.us:8080/movie/giovanmer/merante/18135.mkv
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | NETFLIX AMAZON COMICO",Made in Sud  I Gomorroidi con Salvatore Conte   Made in Sud 12042017
 http://world-service.us:8080/movie/giovanmer/merante/18158.mkv
 
-# --- Movies | NETFLIX AMAZON COMMEDIA (955) ---
+# --- Movies | NETFLIX AMAZON COMMEDIA (960) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",====NETFLIX  COMMEDIA====
 http://world-service.us:8080/movie/giovanmer/merante/1659.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/f77f9d6313d7adc5bd0a86110d2b9a40.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Amore a prima vista (1999)
+http://world-service.us:8080/movie/giovanmer/merante/85826.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/d110552b8af2447733cbc4e8c8e24605.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Carosello in Love
+http://world-service.us:8080/movie/giovanmer/merante/85827.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/c0682d2c5f3207f9d2533292525c4612.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Cose da pazzi (2005)
+http://world-service.us:8080/movie/giovanmer/merante/85828.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/416c9ef020733fd71072a9e85999ba2a.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",SMS Sotto Mentite Spoglie (2007)
+http://world-service.us:8080/movie/giovanmer/merante/85829.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/2273bbf48c03bbcf1ebf4007b96eea36.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Con tutto il Cuore (2021)
+http://world-service.us:8080/movie/giovanmer/merante/85832.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/e6dbc3755da29f303803557a41da343b.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",E fuori nevica! (2014)
 http://world-service.us:8080/movie/giovanmer/merante/85817.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/42b335d023266bb7b4f468d3698ea46a.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",L'amico del cuore (1998)
@@ -19607,7 +19621,7 @@ http://world-service.us:8080/movie/giovanmer/merante/46163.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/abb4cfb2e854c34820508bc95e63bd8e.jpg" group-title="Movies | NETFLIX AMAZON-Serie-Tv",The Protector 04x07
 http://world-service.us:8080/movie/giovanmer/merante/46164.mkv
 
-# --- Movies | NETFLIX-AMAZON-SERIE (633) ---
+# --- Movies | NETFLIX-AMAZON-SERIE (634) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",Celebrity Hunted: Caccia all'uomo
 http://world-service.us:8080/movie/giovanmer/merante/4.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",ZeroZeroZero
@@ -20874,6 +20888,8 @@ http://world-service.us:8080/movie/giovanmer/merante/1556.mp4
 http://world-service.us:8080/movie/giovanmer/merante/1558.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",Terrazza Sentimento
 http://world-service.us:8080/movie/giovanmer/merante/1561.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",Sandokan
+http://world-service.us:8080/movie/giovanmer/merante/1568.mp4
 
 # --- Movies | PRIMAFILA (9) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/2624638709dfb2624cdb24718c200256.jpg" group-title="Movies | PRIMAFILA",PRIMAFILA 1HD Una battaglia dopo l altra (2025)
@@ -22135,7 +22151,7 @@ http://world-service.us:8080/movie/giovanmer/merante/1565.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Jean-Claude Van Johnson
 http://world-service.us:8080/movie/giovanmer/merante/1567.mp4
 
-# --- Movies | SERIE-TV-ITALIA (138) ---
+# --- Movies | SERIE-TV-ITALIA (139) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Capri
 http://world-service.us:8080/movie/giovanmer/merante/19.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",1994
@@ -22412,6 +22428,8 @@ http://world-service.us:8080/movie/giovanmer/merante/1530.mp4
 http://world-service.us:8080/movie/giovanmer/merante/1541.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",The Traitors  Italia
 http://world-service.us:8080/movie/giovanmer/merante/1545.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",La linea della palma
+http://world-service.us:8080/movie/giovanmer/merante/1569.mp4
 
 # --- Movies | Serie-Tv-Ita (1231) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | Serie-Tv-Ita",==== Serie Tv Italia ====
@@ -32617,4 +32635,4 @@ http://world-service.us:8080/movie/giovanmer/merante/2669.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | SerieTV",Timeless.S01E01 german
 http://world-service.us:8080/movie/giovanmer/merante/20654.mkv
 
-# Total: 16277
+# Total: 16286

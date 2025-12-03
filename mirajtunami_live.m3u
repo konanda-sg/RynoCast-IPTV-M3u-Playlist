@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: mirajtunami.gotdns.ch:8008
-# Generated: 2025-12-02 18:28:58
+# Generated: 2025-12-03 07:13:25
 # Expires: 2025-12-07
 # Family Safe Edition
 # ==============================================
@@ -510,6 +510,8 @@ http://mirajtunami.gotdns.ch:8008/live/PANTIRU_IULIANA/aMRDD26n5Z/522246.m3u8
 http://mirajtunami.gotdns.ch:8008/live/PANTIRU_IULIANA/aMRDD26n5Z/522245.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/905sKxtk/Whats-App-Image-2025-11-04-at-14-38-43-149ec173.jpg" group-title="⚜️ROMANIA TV⚜️",TELE MOLDOVA PLUS
 http://mirajtunami.gotdns.ch:8008/live/PANTIRU_IULIANA/aMRDD26n5Z/498938.m3u8
+#EXTINF:-1 tvg-logo="http://135.125.239.110/icon/892301.png" group-title="⚜️ROMANIA TV⚜️",ALEPH NEWS
+http://mirajtunami.gotdns.ch:8008/live/PANTIRU_IULIANA/aMRDD26n5Z/526873.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/alfaomega2.png" group-title="⚜️ROMANIA TV⚜️",ALFA OMEGA TV
 http://mirajtunami.gotdns.ch:8008/live/PANTIRU_IULIANA/aMRDD26n5Z/522171.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/t_M87iJW56pyZtYl6ZSj0aNAACh3Ppzlc1dhTDWEj5UXceEm6wQ3wMzks1HpvyEMsd_GnpwVDAFpcIA-RV3pRcZBVZvNZGXD1uwKGIGqcL6CyGrcT0jkvc4B" group-title="⚜️ROMANIA TV⚜️",CREDO TV HD
@@ -1194,7 +1196,5 @@ http://mirajtunami.gotdns.ch:8008/live/PANTIRU_IULIANA/aMRDD26n5Z/296307.m3u8
 http://mirajtunami.gotdns.ch:8008/live/PANTIRU_IULIANA/aMRDD26n5Z/296306.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1Xsq73b1/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FLY AVENTURA ᶠᴴᴰ
 http://mirajtunami.gotdns.ch:8008/live/PANTIRU_IULIANA/aMRDD26n5Z/296305.m3u8
-#EXTINF:-1 tvg-logo="http://135.125.239.110/icon/892301.png" group-title="⚜️ROMANIA TV⚜️",ALEPH NEWS
-http://mirajtunami.gotdns.ch:8008/live/PANTIRU_IULIANA/aMRDD26n5Z/526873.m3u8
 
 # Total: 594

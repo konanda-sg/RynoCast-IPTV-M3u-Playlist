@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 4smarts.xyz
-# Generated: 2025-12-02 18:32:49
+# Generated: 2025-12-03 07:08:17
 # Expires: 2026-01-01
 # Family Safe Edition
 # ==============================================
@@ -4845,7 +4845,7 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/53742.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ALBANIA/fightbox.png" group-title="EU | ALB | SPORT",ALB - FIGHT BOX HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/491920.m3u8
 
-# --- EU | AUSTRIA (62) ---
+# --- EU | AUSTRIA (63) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/FLAGS/flag_austria.png" group-title="EU | AUSTRIA",###### AU - AUSTRIA  #####
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/60385.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/orf1.png" group-title="EU | AUSTRIA",AU - ORF1 HD
@@ -4954,18 +4954,20 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1146076.m3u8
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1306211.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/SKY_SPORT_AUSTRIA_2.png" group-title="EU | AUSTRIA",AU - SKY SPORT AUSTRIA 1 HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/60374.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/SKY_SPORT_AUSTRIA_2.png" group-title="EU | AUSTRIA",AU - SKY SPORT AUSTRIA 2 HD (LIVE DURING EVENT ONLY)
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/SKY_SPORT_AUSTRIA_2.png" group-title="EU | AUSTRIA",AU - SKY SPORT AUSTRIA 2 HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/583454.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/SKY_SPORT_AUSTRIA_3.png" group-title="EU | AUSTRIA",AU - SKY SPORT AUSTRIA 3 HD (LIVE DURING EVENT ONLY)
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/SKY_SPORT_AUSTRIA_3.png" group-title="EU | AUSTRIA",AU - SKY SPORT AUSTRIA 3 HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/583455.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/SKY_SPORT_AUSTRIA_4.png" group-title="EU | AUSTRIA",AU - SKY SPORT AUSTRIA 4 HD (LIVE DURING EVENT ONLY)
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/SKY_SPORT_AUSTRIA_4.png" group-title="EU | AUSTRIA",AU - SKY SPORT AUSTRIA 4 HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/583456.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/SKY_SPORT_AUSTRIA_2.png" group-title="EU | AUSTRIA",AU - SKY SPORT AUSTRIA 2 UHD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1035274.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/SKY_SPORT_AUSTRIA_3.png" group-title="EU | AUSTRIA",AU - SKY SPORT AUSTRIA 3 UHD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1035275.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/SKY_SPORT_AUSTRIA_4.png" group-title="EU | AUSTRIA",AU - SKY SPORT AUSTRIA 4
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1035276.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EU | AUSTRIA",AU - SKY SPORT AUSTRIA 5 HD
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1346150.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EU | AUSTRIA",AU - SKY SPORT AUSTRIA 6 HD
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1346151.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EU | AUSTRIA",AU - SKY SPORT AUSTRIA 7 HD
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1346152.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EU | AUSTRIA",AU - SKY SPORT AUSTRIA 8 HD
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1346153.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AUSTRIA/Redbull_tv.png" group-title="EU | AUSTRIA",AU - REDBULL TV FHD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/806521.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AUSTRIA/Redbull_tv.png" group-title="EU | AUSTRIA",AU - REDBULL TV HD
@@ -7889,7 +7891,7 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1324253.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="EU | ES | DAZN PPV",ES - DAZN PPV 27 HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1324254.m3u8
 
-# --- EU | ES | DEPORTES (69) ---
+# --- EU | ES | DEPORTES (72) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/SPAIN.png" group-title="EU | ES | DEPORTES",##### ES - M. DEPORTES #####
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1325123.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DEPORTES.png" group-title="EU | ES | DEPORTES",ES - M. DEPORTES 1 FHD
@@ -7974,6 +7976,12 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/975900.m3u8
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1027116.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/HYPERMOTION.png" group-title="EU | ES | DEPORTES",ES - LALIGA HYPERMOTION 3 FHD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/975901.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/SPAIN.png" group-title="EU | ES | DEPORTES",##### ES - MOVISTAR COPA DEL REY #####
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1345911.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/copadelrey.png" group-title="EU | ES | DEPORTES",ES - MOVISTAR COPA DEL REY FHD
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1345897.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/copadelrey.png" group-title="EU | ES | DEPORTES",ES - MOVISTAR COPA DEL REY HD
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1345898.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/SPAIN.png" group-title="EU | ES | DEPORTES",##### ES - DEPORTES #####
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/21322.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/SPORTS.png" group-title="EU | ES | DEPORTES",ES - BEIN SPORTS Ñ FHD
@@ -10508,19 +10516,19 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/349600.m3u8
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/349603.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/FLAGS/IRELAND2.png" group-title="EU | IRELAND",##### IE - CLUBBER #####
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1304805.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/IRELAND/Clubber.png" group-title="EU | IRELAND",IE - CLUBBER 01 : ST BRIGIDS VS TULLAROAN – 11:00 AM UK / 06:00 AM ET
+#EXTINF:-1 tvg-logo="https://go4.pw/IRELAND/Clubber.png" group-title="EU | IRELAND",IE - CLUBBER 01 : NAAS CBS VS ST MELS COLLEGE – UK TUE 2 DEC 1:00PM / ET TUE 2 DEC 8:00AM
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/640936.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/IRELAND/Clubber.png" group-title="EU | IRELAND",IE - CLUBBER 02 : BORRISILEIGH VS TOOMEVARA – 12:00 PM UK / 07:00 AM ET
+#EXTINF:-1 tvg-logo="https://go4.pw/IRELAND/Clubber.png" group-title="EU | IRELAND",IE - CLUBBER 02 :
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/640935.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/IRELAND/Clubber.png" group-title="EU | IRELAND",IE - CLUBBER 03 : THURLES SARSFIELDS VS BOHERLAHANDUALLA – 12:00 PM UK / 07:00 AM ET
+#EXTINF:-1 tvg-logo="https://go4.pw/IRELAND/Clubber.png" group-title="EU | IRELAND",IE - CLUBBER 03 :
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/640934.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/IRELAND/Clubber.png" group-title="EU | IRELAND",IE - CLUBBER 04 : SILVERMINES VS BALLINA – 12:00 PM UK / 07:00 AM ET
+#EXTINF:-1 tvg-logo="https://go4.pw/IRELAND/Clubber.png" group-title="EU | IRELAND",IE - CLUBBER 04 :
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/640933.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/IRELAND/Clubber.png" group-title="EU | IRELAND",IE - CLUBBER 05 : CASTLEMARTYR VS ST PATRICKS – 13:00 PM UK / 08:00 AM ET
+#EXTINF:-1 tvg-logo="https://go4.pw/IRELAND/Clubber.png" group-title="EU | IRELAND",IE - CLUBBER 05 :
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/640932.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/IRELAND/Clubber.png" group-title="EU | IRELAND",IE - CLUBBER 06 : SALLINS VS CLARA – 14:00 PM UK / 09:00 AM ET
+#EXTINF:-1 tvg-logo="https://go4.pw/IRELAND/Clubber.png" group-title="EU | IRELAND",IE - CLUBBER 06 :
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/640931.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/IRELAND/Clubber.png" group-title="EU | IRELAND",IE - CLUBBER 07 : DICKSBORO VS GRAIGUE BALLYCALLAN – 14:00 PM UK / 09:00 AM ET
+#EXTINF:-1 tvg-logo="https://go4.pw/IRELAND/Clubber.png" group-title="EU | IRELAND",IE - CLUBBER 07 :
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/640930.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/IRELAND/Clubber.png" group-title="EU | IRELAND",IE - CLUBBER 08 :
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/640929.m3u8
@@ -14626,11 +14634,11 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/427467.m3u8
 # --- VIP | GOLDEN EVENTS (37) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="VIP | GOLDEN EVENTS",##### FR - ARAB CUP #####
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1018100.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",FR - MOROCCO VS COMOROS 14:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",FR - ALGERIA VS SUDAN 14:00 CET
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1150145.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",FR - EGYPT VS KUWAIT 16:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",FR - IRAQ VS BAHRAIN 16:30 CET
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1123346.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",FR - SAUDI ARABIA VS OMAN 19:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",FR - JORDAN VS UNITED ARAB EMIRATES 19:00 CET
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1123334.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",FR - NO MATCH
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1123278.m3u8
@@ -14644,11 +14652,11 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1024490.m3u8
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1024487.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="VIP | GOLDEN EVENTS",##### AR - ARAB CUP #####
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1018107.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - MOROCCO VS COMOROS 14:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - ALGERIA VS SUDAN 14:00 CET
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1150144.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - EGYPT VS KUWAIT 16:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - IRAQ VS BAHRAIN 16:30 CET
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1123275.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - SAUDI ARABIA VS OMAN 19:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - JORDAN VS UNITED ARAB EMIRATES 19:00 CET
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1123274.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - NO MATCH
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1039934.m3u8
@@ -15049,18 +15057,20 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1125008.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/stin-cou.png" group-title="VIP | MUSIC CONCERTS",VIP - STINGRAY COUNTRY CLASSICS
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1291998.m3u8
 
-# --- VIP | PREMIER LEAGUE (38) ---
+# --- VIP | PREMIER LEAGUE (42) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="VIP | PREMIER LEAGUE",##### ENGLISH #####
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1020754.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - AFC BOURNEMOUTH VS EVERTON 21:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - BURNLEY VS CRYSTAL PALACE 21:30 CET
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1100811.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - FULHAM VS MANCHESTER CITY 21:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - BRIGHTON & HOVE ALBION VS ASTON VILLA 21:30 CET
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1100810.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - ARSENAL VS BRENTFORD 21:30 CET
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015554.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - WOLVERHAMPTON WANDERERS VS NOTTINGHAM FOREST 21:30 CET
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015553.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - LIVERPOOL VS SUNDERLAND 22:15 CET
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015552.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - LEEDS UNITED VS CHELSEA 22:15 CET
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015551.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - NO MATCH
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015550.m3u8
@@ -15072,15 +15082,17 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015548.m3u8
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015547.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/flag_france.png" group-title="VIP | PREMIER LEAGUE",##### FRENCH #####
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1020753.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - AFC BOURNEMOUTH VS EVERTON 21:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - BURNLEY VS CRYSTAL PALACE 21:30 CET
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1100813.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - FULHAM VS MANCHESTER CITY 21:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - BRIGHTON & HOVE ALBION VS ASTON VILLA 21:30 CET
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1100812.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - ARSENAL VS BRENTFORD 21:30 CET
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015546.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - WOLVERHAMPTON WANDERERS VS NOTTINGHAM FOREST 21:30 CET
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015545.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - LIVERPOOL VS SUNDERLAND 22:15 CET
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015544.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - LEEDS UNITED VS CHELSEA 22:15 CET
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015543.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - NO MATCH
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015542.m3u8
@@ -15092,15 +15104,17 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015541.m3u8
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015540.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="VIP | PREMIER LEAGUE",##### ARABIC #####
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1020752.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - AFC BOURNEMOUTH VS EVERTON 21:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - BURNLEY VS CRYSTAL PALACE 21:30 CET
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1100815.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - FULHAM VS MANCHESTER CITY 21:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - BRIGHTON & HOVE ALBION VS ASTON VILLA 21:30 CET
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1100814.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - ARSENAL VS BRENTFORD 21:30 CET
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015562.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - WOLVERHAMPTON WANDERERS VS NOTTINGHAM FOREST 21:30 CET
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015561.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - LIVERPOOL VS SUNDERLAND 22:15 CET
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015560.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - LEEDS UNITED VS CHELSEA 22:15 CET
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015559.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - NO MATCH
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015558.m3u8
@@ -15112,15 +15126,17 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015555.m3u8
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015556.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/ALBANIA.png" group-title="VIP | PREMIER LEAGUE",##### ALBANIAN #####
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1024114.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - AFC BOURNEMOUTH VS EVERTON 21:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - BURNLEY VS CRYSTAL PALACE 21:30 CET
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1225673.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - FULHAM VS MANCHESTER CITY 21:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - BRIGHTON & HOVE ALBION VS ASTON VILLA 21:30 CET
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1182487.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - ARSENAL VS BRENTFORD 21:30 CET
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1039828.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - WOLVERHAMPTON WANDERERS VS NOTTINGHAM FOREST 21:30 CET
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1039819.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - LIVERPOOL VS SUNDERLAND 22:15 CET
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1024335.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - LEEDS UNITED VS CHELSEA 22:15 CET
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1024118.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - NO MATCH
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1024115.m3u8
@@ -15459,4 +15475,4 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/682939.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",ES - NO MATCH
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/682941.m3u8
 
-# Total: 7629
+# Total: 7637

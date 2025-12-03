@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2025-12-02 18:40:44
+# Generated: 2025-12-03 07:02:01
 # Expires: 2026-01-17
 # Family Safe Edition
 # ==============================================
@@ -16323,6 +16323,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/232.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Good American Family",Good American Family (2025)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/904.mp4
 
+# --- Movies | Good Morning Veronica (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Good Morning Veronica",Good Morning, Verônica (2020)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1115.mp4
+
 # --- Movies | Good Omens (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Good Omens",Good Omens
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/478.mp4
@@ -16350,6 +16354,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1084.mp4
 # --- Movies | Graveyard (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Graveyard",Graveyard
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/863.mp4
+
+# --- Movies | Great Expectations (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Great Expectations",Great Expectations (2023)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1116.mp4
 
 # --- Movies | Green Eggs and Ham (Animatie) (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Green Eggs and Ham (Animatie)",Green Eggs and Ham
@@ -19347,4 +19355,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8522
+# Total: 8524

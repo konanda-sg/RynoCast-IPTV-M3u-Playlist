@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: com.trt1000.com:80
-# Generated: 2025-12-02 18:36:38
+# Generated: 2025-12-03 07:03:56
 # Expires: 2026-01-09
 # Family Safe Edition
 # ==============================================
@@ -8413,7 +8413,7 @@ http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/1292.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Masum
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/1297.mp4
 
-# --- Movies | NETFLIX & DISNEY+ AMAZON COK DiLLi (394) ---
+# --- Movies | NETFLIX & DISNEY+ AMAZON COK DiLLi (395) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX & DISNEY+ AMAZON COK DiLLi",Lupin
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/3.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX & DISNEY+ AMAZON COK DiLLi",Fatma
@@ -9202,6 +9202,8 @@ http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/1316.mp4
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/1317.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX & DISNEY+ AMAZON COK DiLLi",Gupi
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/1319.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX & DISNEY+ AMAZON COK DiLLi",Night Sky
+http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/1326.mp4
 
 # --- Movies | NETFLIX +DISNEY AMAZON  VS. COK DiLLi (447) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fy7q7s3UNJFMCN5TxeViM322uwt.jpg" group-title="Movies | NETFLIX +DISNEY AMAZON  VS. COK DiLLi",AKA ( 2023 )
@@ -13177,7 +13179,7 @@ http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/356.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | PUHU TV",Sahsiyet
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/983.mp4
 
-# --- Movies | TABII (47) ---
+# --- Movies | TABII (48) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TABII",İbn-i Sina
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/719.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TABII",Şanzelize Düğün Salonu
@@ -13272,6 +13274,8 @@ http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/1280.mp4
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/1283.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TABII",Antrenör
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/1315.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TABII",Metamorfoz
+http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/1327.mp4
 
 # --- Movies | TOD - BEIN CONNECT (14) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TOD - BEIN CONNECT",Fandom
@@ -23265,4 +23269,4 @@ http://com.trt1000.com:80/series/kayaciahmet/08012023bas/1313
 #EXTINF:-1 tvg-logo="" group-title="Series | TURK DIZILERI SERIES",Sakıncalı
 http://com.trt1000.com:80/series/kayaciahmet/08012023bas/1314
 
-# Total: 11599
+# Total: 11601

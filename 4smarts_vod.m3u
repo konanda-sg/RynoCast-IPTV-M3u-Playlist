@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 4smarts.xyz
-# Generated: 2025-12-02 18:32:49
+# Generated: 2025-12-03 07:08:17
 # Expires: 2026-01-01
 # Family Safe Edition
 # ==============================================
@@ -33815,7 +33815,9 @@ http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/112243.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | VOD | IN | TELUGU",SIN - Amrutharamam  2020  Telugu
 http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/112221.mp4
 
-# --- Movies | VOD | NETHERLAND (1799) ---
+# --- Movies | VOD | NETHERLAND (1800) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gm0e0W7QRTpima3aIGz2ZLU9pgm.jpg" group-title="Movies | VOD | NETHERLAND",NL - Diabolisch - 2025
+http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/1346076.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmzvqxzCeBf5a715kohfuiIbAqU.jpg" group-title="Movies | VOD | NETHERLAND",NL - Tallon: Under Pressure - 2025
 http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/1340197.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kRf1J6hO2l4Yw2BXoihm1Uq9TpO.jpg" group-title="Movies | VOD | NETHERLAND",NL - Coppers - 2024
@@ -39039,4 +39041,4 @@ http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/77935.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5l0fbsSD46Xm7bYXnQxczG5WGjn.jpg" group-title="Movies | VOD | SPORTS",FR - The Champions League - 2018
 http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/45591.mkv
 
-# Total: 19492
+# Total: 19493

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: mag.4k365.xyz:80
-# Generated: 2025-12-02 18:38:38
+# Generated: 2025-12-03 07:12:46
 # Expires: 2026-03-23
 # Family Safe Edition
 # ==============================================
@@ -898,7 +898,7 @@ http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1433903.m3u8
 # --- PL| MAX PPV (101) ---
 #EXTINF:-1 tvg-logo="" group-title="PL| MAX PPV",####### MAX PPV #######
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1640751.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1640750.png" group-title="PL| MAX PPV",PL: MAX PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1640750.png" group-title="PL| MAX PPV",PL: MAX PPV 1 - BOSTON CELTICS - NEW YORK KNICKS | Wed 03 Dec 01:59 | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1640750.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.92/images/1640749.png" group-title="PL| MAX PPV",PL: MAX PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1640749.m3u8
@@ -3054,15 +3054,15 @@ http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1363966.m3u8
 # --- UK| DAZN PPV (31) ---
 #EXTINF:-1 tvg-logo="" group-title="UK| DAZN PPV",####### DAZN PPV #######
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602972.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602973.png" group-title="UK| DAZN PPV",UK: DAZN PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602973.png" group-title="UK| DAZN PPV",UK: DAZN PPV 1 - TENNESSEE @ SYRACUSE | Wed 03 Dec 00:50 | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602973.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602974.png" group-title="UK| DAZN PPV",UK: DAZN PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602974.png" group-title="UK| DAZN PPV",UK: DAZN PPV 2 - IOWA @ MICHIGAN STATE | Wed 03 Dec 00:50 | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602974.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602975.png" group-title="UK| DAZN PPV",UK: DAZN PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602975.png" group-title="UK| DAZN PPV",UK: DAZN PPV 3 - FLORIDA @ DUKE | Wed 03 Dec 01:20 | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602975.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602976.png" group-title="UK| DAZN PPV",UK: DAZN PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602976.png" group-title="UK| DAZN PPV",UK: DAZN PPV 4 - WAGNER @ MARYLAND | Wed 03 Dec 01:50 | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602976.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602977.png" group-title="UK| DAZN PPV",UK: DAZN PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602977.png" group-title="UK| DAZN PPV",UK: DAZN PPV 5 - PURDUE @ RUTGERS | Wed 03 Dec 01:50 | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602977.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602978.png" group-title="UK| DAZN PPV",UK: DAZN PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602978.m3u8
@@ -3148,7 +3148,7 @@ http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602185.m3u8
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602186.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602187.png" group-title="UK| DISCOVERY + PPV",UK: D+ PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602187.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602188.png" group-title="UK| DISCOVERY + PPV",UK: D+ PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602188.png" group-title="UK| DISCOVERY + PPV",UK: D+ PPV 3 - NEW ZEALAND - WEST INDIES | Tue 02 Dec 21:30 | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602188.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602189.png" group-title="UK| DISCOVERY + PPV",UK: D+ PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602189.m3u8
