@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alblive.org:80
-# Generated: 2025-12-03 07:14:43
+# Generated: 2025-12-03 18:36:42
 # Expires: 2026-01-15
 # Family Safe Edition
 # ==============================================
@@ -3187,7 +3187,7 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/155.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: NETFLIX UHD 4K",DE: Prison Break
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/156.mp4
 
-# --- Movies | Deutsche Audio (594) ---
+# --- Movies | Deutsche Audio (595) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg" group-title="Movies | Deutsche Audio",Bad Boys for Life (2020)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/9464.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gOnmaxHo0412UVr1QM5Nekv1xPi.jpg" group-title="Movies | Deutsche Audio",Cocaine Bear (2023)
@@ -4376,6 +4376,8 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17022.mkv
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17023.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg" group-title="Movies | Deutsche Audio",Nightmare Alley (2021)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17024.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg" group-title="Movies | Deutsche Audio",Home Alone (1990)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17120.mkv
 
 # --- Movies | Documentary (167) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u96gR99ZUtdmE3bAzASnjZqzioR.jpg" group-title="Movies | Documentary",My Octopus Teacher (2020)
@@ -10149,4 +10151,4 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/16122.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Western",The English
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/100.mp4
 
-# Total: 5042
+# Total: 5043

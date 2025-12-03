@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 4kssl.com:8080
-# Generated: 2025-12-03 07:13:19
+# Generated: 2025-12-03 18:28:29
 # Expires: 2026-07-25
 # Family Safe Edition
 # ==============================================
@@ -971,7 +971,7 @@ http://4kssl.com:8080/live/1a1349093e46/c4256387cf/294778.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11037.png?59011" group-title="AL| FETARE",AL: ARBERIA SHPRESA E  PERENDISE
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/579616.m3u8
 
-# --- AL| FILMA HD/SERIALE (112) ---
+# --- AL| FILMA HD/SERIALE (111) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Animated-Flag-Albania.gif" group-title="AL| FILMA HD/SERIALE",#### FILMA HD/SERIALE ####
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/294644.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9751.png?84974" group-title="AL| FILMA HD/SERIALE",AL: CINE 1
@@ -1000,8 +1000,6 @@ http://4kssl.com:8080/live/1a1349093e46/c4256387cf/294683.m3u8
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/294684.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11145.png?40266" group-title="AL| FILMA HD/SERIALE",AL: DIGI GOLD 4
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/294685.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9385.png?27666" group-title="AL| FILMA HD/SERIALE",AL: DRITA TV 4K
-http://4kssl.com:8080/live/1a1349093e46/c4256387cf/578140.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6356.jpg?9937" group-title="AL| FILMA HD/SERIALE",AL: E ACTION HD
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/294698.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12370.jpg?74087" group-title="AL| FILMA HD/SERIALE",AL: E COMEDY HD
@@ -1319,7 +1317,7 @@ http://4kssl.com:8080/live/1a1349093e46/c4256387cf/294641.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3294.jpg?43845" group-title="AL| HUMOR",AL: KAFENEJA JONE
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/294638.m3u8
 
-# --- AL| LAJME (41) ---
+# --- AL| LAJME (42) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Animated-Flag-Albania.gif" group-title="AL| LAJME",###### LAJME ######
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/294476.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11008.png?93697" group-title="AL| LAJME",AL: A2 CNN
@@ -1348,10 +1346,12 @@ http://4kssl.com:8080/live/1a1349093e46/c4256387cf/294510.m3u8
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/1167280.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3376.png?73878" group-title="AL| LAJME",AL: A1 REPORT
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/294516.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3164.png?53049" group-title="AL| LAJME",AL: RTSH KORCA
-http://4kssl.com:8080/live/1a1349093e46/c4256387cf/294512.m3u8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9385.png?27666" group-title="AL| LAJME",AL: DRITA TV 4K
+http://4kssl.com:8080/live/1a1349093e46/c4256387cf/578140.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11014.png?27116" group-title="AL| LAJME",AL: TOP NEWS
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/294502.m3u8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3164.png?53049" group-title="AL| LAJME",AL: RTSH KORCA
+http://4kssl.com:8080/live/1a1349093e46/c4256387cf/294512.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6114.png?89311" group-title="AL| LAJME",AL: TV BESA
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/294543.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6480.jpg?2881" group-title="AL| LAJME",AL: TV MALISHEVA

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: fastream.xyz:8080
-# Generated: 2025-12-03 07:07:52
+# Generated: 2025-12-03 18:36:09
 # Expires: 2026-10-20
 # Family Safe Edition
 # ==============================================
@@ -13247,7 +13247,9 @@ http://fastream.xyz:8080/movie/940246862tv/12ws79/75434.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RrMfaCYdsdNdRNUAR3TY0DvNV2.jpg" group-title="Movies | → VOD ESTRENOS 2024 ←",Bosco (2024)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/75435.mkv
 
-# --- Movies | → VOD ESTRENOS 2025 ← (246) ---
+# --- Movies | → VOD ESTRENOS 2025 ← (247) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AisyKEN1zLKRcAPpeJ5G5DaBhyw.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Trol 2 (2025)
+http://fastream.xyz:8080/movie/940246862tv/12ws79/278701.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hEF0Fjzx5EgA0X1ECa7POLVySDZ.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Fritos a balazos (2025)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/278677.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oflNtC0av7EoQkvasSP2HV3h0yC.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",La Educación de Polly McClusky (2025)
@@ -18455,7 +18457,7 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2499
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DOCUMENTALES ←",MARINES
 http://fastream.xyz:8080/series/940246862tv/12ws79/2502
 
-# --- Series | → SERIES DRAMA ← (288) ---
+# --- Series | → SERIES DRAMA ← (287) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",4 Blocks
 http://fastream.xyz:8080/series/940246862tv/12ws79/7
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Por trece razones
@@ -18528,8 +18530,6 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/187
 http://fastream.xyz:8080/series/940246862tv/12ws79/195
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",El baile de las luciérnagas
 http://fastream.xyz:8080/series/940246862tv/12ws79/211
-#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",El Bronx: Entre el cielo y el infierno
-http://fastream.xyz:8080/series/940246862tv/12ws79/212
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",El Jefe de Kingstown
 http://fastream.xyz:8080/series/940246862tv/12ws79/217
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Katy Keene

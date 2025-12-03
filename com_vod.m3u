@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: com.trt1000.com:80
-# Generated: 2025-12-03 07:03:56
+# Generated: 2025-12-03 18:31:45
 # Expires: 2026-01-09
 # Family Safe Edition
 # ==============================================
@@ -2687,7 +2687,7 @@ http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/61767.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eIM28fkVIhPKkjOjfS01UAZXPM8.jpg" group-title="Movies | FRANCE FILMS",Demon Slayer: Sonsuzluk Kalesi (2025)
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/63855.mp4
 
-# --- Movies | GAIN TV (42) ---
+# --- Movies | GAIN TV (43) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | GAIN TV",Ayak isleri
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/112.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | GAIN TV",Bizi Ayiran Cizgi
@@ -2772,6 +2772,8 @@ http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/1221.mp4
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/1295.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | GAIN TV",Fer
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/1318.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | GAIN TV",Esas Oglan
+http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/1329.mp4
 
 # --- Movies | GERMANY (148) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | GERMANY",Cursed
@@ -23081,7 +23083,7 @@ http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/38008.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtlDK3r8G282Vi0cGMxLVJJkhke.jpg" group-title="Movies | YABANCI TURKCE DUBLAJ",Asla Pes Etme 3: Never Back Down (2013)
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/59554.mkv
 
-# --- Series | TURK DIZILERI SERIES (93) ---
+# --- Series | TURK DIZILERI SERIES (94) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | TURK DIZILERI SERIES",Güzel Köylü
 http://com.trt1000.com:80/series/kayaciahmet/08012023bas/67
 #EXTINF:-1 tvg-logo="" group-title="Series | TURK DIZILERI SERIES",Kudus Fatihi: Selahaddin Eyyubi
@@ -23268,5 +23270,7 @@ http://com.trt1000.com:80/series/kayaciahmet/08012023bas/1312
 http://com.trt1000.com:80/series/kayaciahmet/08012023bas/1313
 #EXTINF:-1 tvg-logo="" group-title="Series | TURK DIZILERI SERIES",Sakıncalı
 http://com.trt1000.com:80/series/kayaciahmet/08012023bas/1314
+#EXTINF:-1 tvg-logo="" group-title="Series | TURK DIZILERI SERIES",Rüya Gibi
+http://com.trt1000.com:80/series/kayaciahmet/08012023bas/1328
 
-# Total: 11601
+# Total: 11603

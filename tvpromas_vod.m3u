@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tvpromas.com:8080
-# Generated: 2025-12-03 07:02:37
+# Generated: 2025-12-03 18:29:03
 # Expires: 2026-02-10
 # Family Safe Edition
 # ==============================================
@@ -7519,7 +7519,7 @@ http://tvpromas.com:8080/movie/estebanmartinez/JKDBDSgRCD/80844.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOboKSPT9PPZFKhOya3YHrY4rHn.jpg" group-title="Movies | CINE PERUANO",¿Mi Novia es Él? (2019)
 http://tvpromas.com:8080/movie/estebanmartinez/JKDBDSgRCD/80845.mp4
 
-# --- Movies | COMEDIA (1209) ---
+# --- Movies | COMEDIA (1210) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hxtvnvWdeibiDc6mU5ftAUPGofe.jpg" group-title="Movies | COMEDIA",4 Latas (2019)
 http://tvpromas.com:8080/movie/estebanmartinez/JKDBDSgRCD/5863.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nITLSFHonQJGVrnfDzfNqvtbOjO.jpg" group-title="Movies | COMEDIA",Ace Ventura 1: Detective de Mascotas (1994)
@@ -9938,6 +9938,8 @@ http://tvpromas.com:8080/movie/estebanmartinez/JKDBDSgRCD/2462.mp4
 http://tvpromas.com:8080/movie/estebanmartinez/JKDBDSgRCD/2468.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | COMEDIA",Me late que sí
 http://tvpromas.com:8080/movie/estebanmartinez/JKDBDSgRCD/2476.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | COMEDIA",El Príncipe del Rap en Bel-Air
+http://tvpromas.com:8080/movie/estebanmartinez/JKDBDSgRCD/2486.mp4
 
 # --- Movies | CONCIERTOS & SHOWS (355) ---
 #EXTINF:-1 tvg-logo="https://s33.postimg.cc/evlncu9vj/Americo_-_Vi_a_del_Mar_2011.jpg" group-title="Movies | CONCIERTOS & SHOWS",Américo - Viña del Mar (2011)
@@ -10651,7 +10653,7 @@ http://tvpromas.com:8080/movie/estebanmartinez/JKDBDSgRCD/89336.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mdjD1JRmZvHrmG69C4NJSaVVkYq.jpg" group-title="Movies | CONCIERTOS & SHOWS",Ricardo Arjona Festival de Viña del Mar (2015)
 http://tvpromas.com:8080/movie/estebanmartinez/JKDBDSgRCD/89337.mp4
 
-# --- Movies | CRIMEN & MISTERIO (147) ---
+# --- Movies | CRIMEN & MISTERIO (149) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | CRIMEN & MISTERIO",La primera muerte
 http://tvpromas.com:8080/movie/estebanmartinez/JKDBDSgRCD/857.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | CRIMEN & MISTERIO",61st Street
@@ -10946,6 +10948,10 @@ http://tvpromas.com:8080/movie/estebanmartinez/JKDBDSgRCD/2470.mp4
 http://tvpromas.com:8080/movie/estebanmartinez/JKDBDSgRCD/2473.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | CRIMEN & MISTERIO",Malicia
 http://tvpromas.com:8080/movie/estebanmartinez/JKDBDSgRCD/2479.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | CRIMEN & MISTERIO",Chicago Justice
+http://tvpromas.com:8080/movie/estebanmartinez/JKDBDSgRCD/2484.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | CRIMEN & MISTERIO",Dark Winds
+http://tvpromas.com:8080/movie/estebanmartinez/JKDBDSgRCD/2488.mp4
 
 # --- Movies | DISNEY (186) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzUvS1tW6WuJHYB4bbFOW89aNVc.jpg" group-title="Movies | DISNEY",101 dálmatas: ¡Ahora la magia es real! (1996)
@@ -21529,4 +21535,4 @@ http://tvpromas.com:8080/series/estebanmartinez/JKDBDSgRCD/2451
 #EXTINF:-1 tvg-logo="" group-title="Series | TELESERIES",Apuesta por un amor
 http://tvpromas.com:8080/series/estebanmartinez/JKDBDSgRCD/2452
 
-# Total: 10731
+# Total: 10734

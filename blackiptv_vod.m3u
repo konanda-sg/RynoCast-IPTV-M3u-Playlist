@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2025-12-03 07:09:34
+# Generated: 2025-12-03 18:30:26
 # Expires: 2025-12-20
 # Family Safe Edition
 # ==============================================
@@ -10505,11 +10505,9 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1510.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ COK GUZEL HAREKETLER",Cok Güzel Haraketler
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/21.mp4
 
-# --- Movies | TR/DIZI ~ CUMA (5) ---
+# --- Movies | TR/DIZI ~ CUMA (4) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4Fn3fyq4JMlD6v1s3VZgdelbRUO.jpg" group-title="Movies | TR/DIZI ~ CUMA",CUM: Ben Onun Annesiyim 4.Bölüm FINAL
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/36470.mkv
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8sflFc0FmTSbITrhcVGaWaCuUrD.jpg" group-title="Movies | TR/DIZI ~ CUMA",CUM: Ask ve Gozyasi  7.Bölüm FINAL
-http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/28347.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxFzuKK8yEz9KdJXb6sPlhUU07s.jpg" group-title="Movies | TR/DIZI ~ CUMA",CUM: Arka Sokaklar 729.Bölüm (YENI SEZON)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/379.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uHIOTJXN9nNTc51WyunL43Fvge3.jpg" group-title="Movies | TR/DIZI ~ CUMA",CUM: Tasacak Bu Deniz 8.Bölüm (YENI DIZI)
@@ -12097,13 +12095,15 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/43582.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ PUHU TV",Gün On4
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/242.mp4
 
-# --- Movies | TR/DIZI ~ SALI (4) ---
+# --- Movies | TR/DIZI ~ SALI (5) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/herjCgzFTKF3tCN8bW9cNfrvKjW.jpg" group-title="Movies | TR/DIZI ~ SALI",SAL: Kiskanmak 12.Bölüm
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1060.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vFmQa8yyuirssDatMME4FQtoG65.jpg" group-title="Movies | TR/DIZI ~ SALI",SAL: Gözleri Karadeniz  14.Bölüm
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/44256.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLGXHS3o0BuJhd3wDTTYddrRsxZ.jpg" group-title="Movies | TR/DIZI ~ SALI",SAL: Mehmed: Fetihler Sultani 60.Bölüm
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/48868.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylpluerF3X4QQYBXEwztfYNMkOh.jpg" group-title="Movies | TR/DIZI ~ SALI",SAL: Rüya Gibi  1.Bölüm (YENI DIZI)
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/28347.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0kk5PUB850OlrVA1w7hgc41E9T.jpg" group-title="Movies | TR/DIZI ~ SALI",SAL: Kral Kaybederse 29.Bölüm
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/48923.mkv
 
@@ -12295,7 +12295,7 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1583.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ TURKCELL TV+",BMF
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1602.mp4
 
-# --- Movies | TR/DIZI ~ TV (43) ---
+# --- Movies | TR/DIZI ~ TV (44) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ TV",Güller ve Günahlar (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1712.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ TV",Sakıncalı (2025)
@@ -12380,6 +12380,8 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1757.mp4
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1758.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ TV",Kuruluş: Orhan (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1773.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ TV",Rüya Gibi (2025)
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1818.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ TV",Uzak Şehir (2024)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1611.mp4
 
@@ -20061,4 +20063,4 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/63325.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8EQllq34VC5mooiJw1vVFOlM4x.jpg" group-title="Movies | TR/FILM ~ YILBASI ÖZEL",O Ses Türkiye  Yilbasi Özel 2025
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/54778.mp4
 
-# Total: 9890
+# Total: 9891

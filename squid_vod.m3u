@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2025-12-03 07:02:01
+# Generated: 2025-12-03 18:37:50
 # Expires: 2026-01-17
 # Family Safe Edition
 # ==============================================
@@ -16331,6 +16331,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1115.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Good Omens",Good Omens
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/478.mp4
 
+# --- Movies | Goodbye Earth (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Goodbye Earth",Goodbye Earth (2024)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1117.mp4
+
 # --- Movies | Goosebumps (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Goosebumps",Goosebumps (2023)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1054.mp4
@@ -19355,4 +19359,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8524
+# Total: 8525

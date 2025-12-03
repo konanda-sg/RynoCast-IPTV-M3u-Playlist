@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: canal-pro.xyz:8080
-# Generated: 2025-12-03 07:02:16
+# Generated: 2025-12-03 18:29:52
 # Expires: 2026-02-11
 # Family Safe Edition
 # ==============================================
@@ -13247,7 +13247,9 @@ http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/75434.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RrMfaCYdsdNdRNUAR3TY0DvNV2.jpg" group-title="Movies | → VOD ESTRENOS 2024 ←",Bosco (2024)
 http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/75435.mkv
 
-# --- Movies | → VOD ESTRENOS 2025 ← (246) ---
+# --- Movies | → VOD ESTRENOS 2025 ← (247) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AisyKEN1zLKRcAPpeJ5G5DaBhyw.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Trol 2 (2025)
+http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/278701.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hEF0Fjzx5EgA0X1ECa7POLVySDZ.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Fritos a balazos (2025)
 http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/278677.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oflNtC0av7EoQkvasSP2HV3h0yC.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",La Educación de Polly McClusky (2025)
@@ -18455,7 +18457,7 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2499
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DOCUMENTALES ←",MARINES
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2502
 
-# --- Series | → SERIES DRAMA ← (288) ---
+# --- Series | → SERIES DRAMA ← (287) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",4 Blocks
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/7
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Por trece razones
@@ -18528,8 +18530,6 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/187
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/195
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",El baile de las luciérnagas
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/211
-#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",El Bronx: Entre el cielo y el infierno
-http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/212
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",El Jefe de Kingstown
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/217
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Katy Keene
