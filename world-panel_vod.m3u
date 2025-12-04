@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: world-panel.co:8080
-# Generated: 2025-12-03 18:36:57
+# Generated: 2025-12-04 07:12:01
 # Expires: 2026-03-09
 # Family Safe Edition
 # ==============================================
@@ -7605,9 +7605,11 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/44491.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/342baf3fbe69391f255aa4405bb042c8.jpg" group-title="Movies | NETFLIX AMAZON COMICO",Jerry e Marge giocano alla lotteria (2022)
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/61271.mkv
 
-# --- Movies | NETFLIX AMAZON COMMEDIA (960) ---
+# --- Movies | NETFLIX AMAZON COMMEDIA (961) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",====NETFLIX  COMMEDIA====
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1659.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/312a67c68a750c1a6a865f959f53ad28.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Oh. What. Fun. (2025)
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/85848.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/f77f9d6313d7adc5bd0a86110d2b9a40.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Amore a prima vista (1999)
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/85826.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/d110552b8af2447733cbc4e8c8e24605.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Carosello in Love
@@ -9625,7 +9627,7 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1613.mkv
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | NETFLIX AMAZON DOCUMENTARI",Zanetti Story
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1761.mkv
 
-# --- Movies | NETFLIX AMAZON DRAMMATICO (1525) ---
+# --- Movies | NETFLIX AMAZON DRAMMATICO (1526) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/e0d3d17e8713b2c88262ff259bc19989.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",È colpa mia Londra (2025)
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/83999.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/fa21a2ad35d92916dd80a0506b7e41ce.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",The Lesson (2023)
@@ -9644,6 +9646,8 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/64655.mkv
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/64654.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",====NETFLIX DRAMMATICO====
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1662.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/5e14d24687edc5997ded53f34907633c.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",The Life of Chuck (2025)
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/85847.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/ae5e6276d2088421e05e5b84aaa677b4.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Train Dreams (2025)
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/85816.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/f2e168fdaf52adaddbaca03f5584e358.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Bad Genius (2024)
@@ -20605,9 +20609,11 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/64844.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/4ecf8d9b6b9928c4f10b15a456b0fc0b.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA 15 Le indagini di Melchiorre lo speziale  Il fantasma della torre (2022)
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/78910.mkv
 
-# --- Movies | SALA NATALE (76) ---
+# --- Movies | SALA NATALE (77) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | SALA NATALE",==== SALA NATALE====
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/79646.mp4
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/b201734158a02624449e82a3247d8411.jpg" group-title="Movies | SALA NATALE",My Secret Santa  Mia mamma è Babbo Natale! (2025)
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/85849.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/098682a9b8708f65c76cd4b0709022c4.jpg" group-title="Movies | SALA NATALE",Natale senza Babbo (2025)
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/85815.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/87051b387d651a89398d577d215e4c0a.jpg" group-title="Movies | SALA NATALE",Babbo Natale cercasi (2017)
@@ -21765,7 +21771,7 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1565.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Jean-Claude Van Johnson
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1567.mp4
 
-# --- Movies | SERIE-TV-ITALIA (139) ---
+# --- Movies | SERIE-TV-ITALIA (140) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Capri
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/19.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",1994
@@ -22044,6 +22050,8 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1541.mp4
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1545.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",La linea della palma
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1569.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",L'altro ispettore
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1570.mp4
 
 # --- Movies | Saghe Film (18) ---
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | Saghe Film",========IL SIGNORE DEGLI ANELLI========
@@ -32285,4 +32293,4 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/50888.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/96e97ef7e316fab54d133aa6fcdf30a2.jpg" group-title="Movies | SerieTV",Turner and Hooch 01x12 La Resa Dei Conti
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/50889.mkv
 
-# Total: 16111
+# Total: 16115

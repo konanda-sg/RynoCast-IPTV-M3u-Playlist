@@ -1,13 +1,13 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: danbitman.ddns.net:8008
-# Generated: 2025-12-03 18:38:05
+# Generated: 2025-12-04 07:03:00
 # Expires: 2026-02-23
 # Family Safe Edition
 # ==============================================
 
 
-# --- ALBANIA (546) ---
+# --- ALBANIA (544) ---
 #EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="ALBANIA",AL: Zhunica Humor
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/543544.m3u8
 #EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="ALBANIA",AL: WebStar Thriller
@@ -32,8 +32,6 @@ http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/543535.m3u8
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/543534.m3u8
 #EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="ALBANIA",AL: WebStar Cinema
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/543533.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ALBANIA",AL: WebStar ChuChu
-http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/543532.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ALBANIA",AL: WebStar Baby
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/543531.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ALBANIA",AL: WebStar Aksion
@@ -778,8 +776,6 @@ http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/543154.m3u8
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/543153.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-01/54d1c9185f0f0baf213073e01f1cbfee.jpg" group-title="ALBANIA",AL: Big Brother 2
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/543151.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-01/227305c0b48a4feb46d3eee53a30a808.jpg" group-title="ALBANIA",AL: Big Brother 1
-http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/543150.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/fc491afbd5e05e744fa0d4d257780b36.png" group-title="ALBANIA",AL: ATV
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/543149.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-10/adee17a578829aa62d64e795ae7c20f5.png" group-title="ALBANIA",AL: Alsat M
@@ -1213,15 +1209,13 @@ http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544823.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/efb7525e3306527abbdc1e223eee61ff.png" group-title="BELGIA",BE: AB 3
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544822.m3u8
 
-# --- CANADA (31) ---
+# --- CANADA (30) ---
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/b0c39a28132d0ea3df294bfe0d780e00.png" group-title="CANADA",CA: Yes TV
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544909.m3u8
 #EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="CANADA",CA: WCG TV
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544908.m3u8
 #EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="CANADA",CA: TVO
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544907.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/4be3685b09350c33de7e63e621441cc1.png" group-title="CANADA",CA: TV Francophonie
-http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544906.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/859823eed78b8416736052c272523896.png" group-title="CANADA",CA: The Shopping Channel
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544905.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-10/3b5fabcb74364f6fad3d00c17e35f682.png" group-title="CANADA",CA: TFO
@@ -2157,7 +2151,7 @@ http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544211.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f788bcac32ac0fa2c85d6174ac269779.png" group-title="GRECIA",GR: Baby TV
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544210.m3u8
 
-# --- ITALIA (300) ---
+# --- ITALIA (293) ---
 #EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="ITALIA",IT: Yu-Gi-Oh! Italy
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544179.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/60609cb2b41d68f6915265893f8053c3.jpg" group-title="ITALIA",IT: WWE Channel
@@ -2176,8 +2170,6 @@ http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544173.m3u8
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544172.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/b3d34349f0730a22daf478cf2a07686f.png" group-title="ITALIA",IT: Umbria TV
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544171.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/f7653b7ed691e504ac1345a5fcd90a0b.svg" group-title="ITALIA",IT: TVRS
-http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544170.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/d0be56db3d71a46da80d17d4df820089.png" group-title="ITALIA",IT: TVA Vicenza
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544169.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ITALIA",IT: TV7 News
@@ -2322,8 +2314,6 @@ http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544099.m3u8
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544098.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ITALIA",IT: Grande Fratello
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544097.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ITALIA",IT: Globus Television
-http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544096.m3u8
 #EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="ITALIA",IT: EuroSport 2 TimVision
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544095.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ITALIA",IT: Euro TV
@@ -2356,8 +2346,6 @@ http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544082.m3u8
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544081.m3u8
 #EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="ITALIA",IT: Eagle Masha e Orso
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544080.m3u8
-#EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="ITALIA",IT: Eagle Marvel
-http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544079.m3u8
 #EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="ITALIA",IT: Eagle Lupin III Channel
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544078.m3u8
 #EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="ITALIA",IT: Eagle Looney Toons
@@ -2422,8 +2410,6 @@ http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544043.m3u8
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544042.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/46249e8cd2e38b782f7df654bbf12dcd.png" group-title="ITALIA",IT: Discovery Science
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544041.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/0de1927f10af26a018abb19d1a94ac49.png" group-title="ITALIA",IT: Discovery Channel
-http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544040.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-06/fbe115ccb46d4616d731d3cb123959bc.svg" group-title="ITALIA",IT: Sky Nature
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544039.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/48d03b0858c2207878c33c56869477dc.png" group-title="ITALIA",IT: Pesca
@@ -2522,8 +2508,6 @@ http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/543988.m3u8
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/543987.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/d4756f0a7ec39b2f9beb1943cbb9e2a1.png" group-title="ITALIA",IT: 12 TV Parma
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/543986.m3u8
-#EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="ITALIA",IT: Star Crime
-http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/543985.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-07/d7054f5282bc4848d57e73d5120c1c25.svg" group-title="ITALIA",IT: Star Channel
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/543984.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-06/8d2c282b9af97175cfeb4615e3fb4b76.png" group-title="ITALIA",IT: SkyShowtime 1
@@ -2704,8 +2688,6 @@ http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/543895.m3u8
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/543894.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/275e92bab2c838ab3dfc18abf3bf2e48.png" group-title="ITALIA",IT: Sky Sport F1
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/543893.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/24daa976b558fb05e4e7d3896a4933c4.png" group-title="ITALIA",IT: Sky Sport Calcio
-http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/543892.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/24b6324c3989f35d6f05c126fcc7fdcc.png" group-title="ITALIA",IT: Sky Sport 24
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/543891.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/656ac05b7c17f067a65253e268e8dde8.png" group-title="ITALIA",IT: Rai Sport
@@ -2730,8 +2712,6 @@ http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/543882.m3u8
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/543881.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/694e22fd374b5c45094824abf80013ef.png" group-title="ITALIA",IT: Bike
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/543879.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/c44034500f012d8de75ae9ec5aa242a0.png" group-title="ITALIA",IT: ACI Sport TV
-http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/543878.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/d07acd1717322e5a62a7c7a6623ea168.png" group-title="ITALIA",IT: icaro TV
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/543877.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-12/ff1deb36585128d6531bca0da373f3cf.png" group-title="ITALIA",IT: Super!
@@ -4211,7 +4191,7 @@ http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/543546.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/fffb2b8070bf9f6d1fb83b084f3e2964.png" group-title="TURCIA",TR: Baby TV
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/543545.m3u8
 
-# --- UNITED KINGDOM (UK) (325) ---
+# --- UNITED KINGDOM (UK) (324) ---
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Yu-Gi-Oh!
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/545929.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Xtreme Outdoor Presented by HISTORY
@@ -4370,8 +4350,6 @@ http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/545843.m3u8
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/545841.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: CBS Reality
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/545840.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: CBS Justice
-http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/545839.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Travel Channel
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/545838.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Nature
@@ -7136,7 +7114,7 @@ http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/541346.m3u8
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/541345.m3u8
 
 # --- ⚜️ROMANIA TV⚜️ (594) ---
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvFMSGRt/Whats-App-Image-2025-11-27-at-15-20-39-6e5d06cc.jpg" group-title="⚜️ROMANIA TV⚜️",⚜️WELCOME⚜️
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvFMSGRt/Whats-App-Image-2025-11-27-at-15-20-39-6e5d06cc.jpg" group-title="⚜️ROMANIA TV⚜️",⚜️WELCOME TO PRO EUROPA⚜️
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/540724.m3u8
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab67616d0000b273e9af6e6ace7bae5f933bdc04" group-title="⚜️ROMANIA TV⚜️",COLINDE ROMANESTI
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/538417.m3u8
@@ -8325,4 +8303,4 @@ http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/296306.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1Xsq73b1/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FLY AVENTURA ᶠᴴᴰ
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/296305.m3u8
 
-# Total: 4144
+# Total: 4133

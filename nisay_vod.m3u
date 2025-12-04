@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nisay.xyz:8080
-# Generated: 2025-12-03 18:39:15
+# Generated: 2025-12-04 07:12:53
 # Expires: 2026-10-04
 # Family Safe Edition
 # ==============================================
@@ -5797,7 +5797,7 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1791.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON",The Mighty Nein
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1802.mp4
 
-# --- Movies | BEIN/TODD (54) ---
+# --- Movies | BEIN/TODD (55) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | BEIN/TODD",Aile Sirketi
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/188.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | BEIN/TODD",Fandom
@@ -5906,6 +5906,8 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1789.mp4
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1799.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | BEIN/TODD",Sweetpea
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1807.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | BEIN/TODD",Fight Night: The Million Dollar Heist
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1813.mp4
 
 # --- Movies | BELGESEL (4) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | BELGESEL",Gezegenimizde Yasam
@@ -19563,4 +19565,4 @@ http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1503
 #EXTINF:-1 tvg-logo="" group-title="Series | TR ALTYAZI SERIES",Pluribus
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1803
 
-# Total: 9714
+# Total: 9715

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: satpower.shop:8080
-# Generated: 2025-12-03 07:13:45
+# Generated: 2025-12-04 07:12:57
 # Expires: 2026-03-06
 # Family Safe Edition
 # ==============================================
@@ -4859,7 +4859,7 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/525099.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/a-z/--I--/idj-kids-rs.png" group-title="EXYU DECIJI",RS: IDJ KIDS
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/525097.m3u8
 
-# --- EXYU DOKUMENTARNI (42) ---
+# --- EXYU DOKUMENTARNI (41) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/a-z/--D--/doku-tv-hr.png" group-title="EXYU DOKUMENTARNI",HR: DOKU TV ADRIA
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/332737.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Croatia/lovIribolov.png" group-title="EXYU DOKUMENTARNI",HR: LOV I RIBOLOV
@@ -4886,8 +4886,6 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/339026.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/339052.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/national_geographic.png" group-title="EXYU DOKUMENTARNI",HR: NATIONAL GEOGRAPHIC
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/176569.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/2021mixlogo/idx.png" group-title="EXYU DOKUMENTARNI",HR: ID XTRA
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/326918.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Serbia/lovIRibolov.png" group-title="EXYU DOKUMENTARNI",RS: LOV I RIBOLOV
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/2954.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/L-sat05.01.21/Europe/Serbia/24_kitchen_us.png" group-title="EXYU DOKUMENTARNI",RS: 24 KITCHEN
@@ -4945,7 +4943,7 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/525091.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ExYu/planetEarth.png" group-title="EXYU DOKUMENTARNI",RS: PLANET EARTH
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/525012.m3u8
 
-# --- EXYU FILMSKI (69) ---
+# --- EXYU FILMSKI (68) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Croatia/klasikTv.png" group-title="EXYU FILMSKI",HR: KLASIK TV
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/3042.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Croatia/klasikTv.png" group-title="EXYU FILMSKI",HR: KLASIK TV (B)
@@ -5066,8 +5064,6 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/300750.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/300749.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Serbia/nova_sinema.png" group-title="EXYU FILMSKI",RS: NOVA CINEMA HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/521296.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Serbia/nova.png" group-title="EXYU FILMSKI",RS: NOVA PLUS FAMILY HD
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/521293.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Serbia/nova.png" group-title="EXYU FILMSKI",RS: NOVA PREMIUM TV HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/521292.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Serbia/hboMax.png" group-title="EXYU FILMSKI",RS: HBO MAX HD
@@ -5463,7 +5459,7 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/356174.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/Croatia/maryTV.png" group-title="HR CROATIA",HR: MARY TV MEDJUGORJE HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/525094.m3u8
 
-# --- MK MACEDONIA (67) ---
+# --- MK MACEDONIA (66) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/macedonia/mrt_mk_tv_1.png" group-title="MK MACEDONIA",MK: MPT 1 HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/290234.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/macedonia/mrt_mk_tv_2_sat.png" group-title="MK MACEDONIA",MK: MPT 2 HD
@@ -5572,8 +5568,6 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/516364.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/516363.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/macedonia/m-netKids.png" group-title="MK MACEDONIA",MK: M-NET KIDS
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/516362.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/macedonia/m1Family.png" group-title="MK MACEDONIA",MK: M1 FAMILY
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/520810.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/macedonia/m1Gold.png" group-title="MK MACEDONIA",MK: M1 GOLD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/520809.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/BULGARIA/PLANETATV.png" group-title="MK MACEDONIA",MK: PLANETA TV FHD
@@ -10349,4 +10343,4 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/505896.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/USA/TVJ%20channel.png" group-title="US SPORTS",US: TVJ
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/282779.m3u8
 
-# Total: 5097
+# Total: 5094

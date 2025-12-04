@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: l1iptv.xyz
-# Generated: 2025-12-03 18:27:34
+# Generated: 2025-12-04 07:03:48
 # Expires: 2026-09-30
 # Family Safe Edition
 # ==============================================
@@ -8552,8 +8552,6 @@ http://l1iptv.xyz/movie/rifatunlu/pNGsB1FztL/145255.mkv
 http://l1iptv.xyz/movie/rifatunlu/pNGsB1FztL/145307.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mFJgt1wZ38PfzXY93NLvvQ3K138.jpg" group-title="Movies | DE - Kino 2025",Miroirs No. 3 (DE)
 http://l1iptv.xyz/movie/rifatunlu/pNGsB1FztL/145332.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9nCKo4NtCXeZaVY37YFVfZf49Ih.jpg" group-title="Movies | DE - Kino 2025",Tron: Ares (DE)
-http://l1iptv.xyz/movie/rifatunlu/pNGsB1FztL/145333.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMfwbi3sOqvZpmkS8m36uVNl62w.jpg" group-title="Movies | DE - Kino 2025",Safe House - Verrat ist die ultimative Waffe (DE)
 http://l1iptv.xyz/movie/rifatunlu/pNGsB1FztL/145425.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Vw55if08RssFMaOjkMuAVBlHtg.jpg" group-title="Movies | DE - Kino 2025",Chainsaw Man - The Movie: Reze Arc (DE)
@@ -8628,6 +8626,8 @@ http://l1iptv.xyz/movie/rifatunlu/pNGsB1FztL/146568.mkv
 http://l1iptv.xyz/movie/rifatunlu/pNGsB1FztL/146572.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kPX2wEYwjwOYks4tiMwqLOjUfnI.jpg" group-title="Movies | DE - Kino 2025",Jingle Bell Heist - Der große Weihnachtsraub (DE)
 http://l1iptv.xyz/movie/rifatunlu/pNGsB1FztL/146573.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3H8K5kDc5Fb1NeUz1xfo44wvlxZ.jpg" group-title="Movies | DE - Kino 2025",Tron: Ares (DE)
+http://l1iptv.xyz/movie/rifatunlu/pNGsB1FztL/146673.mkv
 
 # --- Movies | DE - MGM+ (4) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE - MGM+",Leben ohne Ende
@@ -8785,7 +8785,7 @@ http://l1iptv.xyz/movie/rifatunlu/pNGsB1FztL/5475.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE - Magenta TV",Mistletoe Murders
 http://l1iptv.xyz/movie/rifatunlu/pNGsB1FztL/5518.mp4
 
-# --- Movies | DE - Netflix (371) ---
+# --- Movies | DE - Netflix (372) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE - Netflix",Stranger Things
 http://l1iptv.xyz/movie/rifatunlu/pNGsB1FztL/84.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE - Netflix",Vikings
@@ -9528,6 +9528,8 @@ http://l1iptv.xyz/movie/rifatunlu/pNGsB1FztL/5519.mp4
 http://l1iptv.xyz/movie/rifatunlu/pNGsB1FztL/5543.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE - Netflix",Zwei Gräber
 http://l1iptv.xyz/movie/rifatunlu/pNGsB1FztL/5568.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE - Netflix",Sean Combs: The Reckoning
+http://l1iptv.xyz/movie/rifatunlu/pNGsB1FztL/5574.mp4
 
 # --- Movies | DE - Netflix filme (19) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uU3Z5kgsRzqKWW3xJUtImhkkz8m.jpg" group-title="Movies | DE - Netflix filme",Kevin - Allein zu Haus
@@ -12928,7 +12930,7 @@ http://l1iptv.xyz/movie/rifatunlu/pNGsB1FztL/120163.mkv
 http://l1iptv.xyz/movie/rifatunlu/pNGsB1FztL/120366.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/E8tR39iX2XNZdqeDA5REFDquU6.jpg" group-title="Movies | TR - Son Bölüm Diziler",Uzak Şehir (40.Bölüm) 01.12.2025
 http://l1iptv.xyz/movie/rifatunlu/pNGsB1FztL/121782.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1FZ5cpY9kDaHrVpCFlZTlkcCkP.jpg" group-title="Movies | TR - Son Bölüm Diziler",Sahipsizler (39.Bölüm) 26.11.2025
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1FZ5cpY9kDaHrVpCFlZTlkcCkP.jpg" group-title="Movies | TR - Son Bölüm Diziler",Sahipsizler (40.Bölüm) 03.12.2025
 http://l1iptv.xyz/movie/rifatunlu/pNGsB1FztL/121985.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cnUshslPg7te60aeQ1l2hCBdEr5.jpg" group-title="Movies | TR - Son Bölüm Diziler",Aşk, Evlilik, Boşanma (4.Bölüm) FINAL 10.12.2024
 http://l1iptv.xyz/movie/rifatunlu/pNGsB1FztL/122780.mkv
@@ -12954,7 +12956,7 @@ http://l1iptv.xyz/movie/rifatunlu/pNGsB1FztL/127864.mkv
 http://l1iptv.xyz/movie/rifatunlu/pNGsB1FztL/128218.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2DhFj7imLndCkZtsPUmuIak9sw0.jpg" group-title="Movies | TR - Son Bölüm Diziler",Piyasa (6.Bölüm) 05.04.2025
 http://l1iptv.xyz/movie/rifatunlu/pNGsB1FztL/128444.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYr58J7eePyXbUpUA9jhxPsabum.jpg" group-title="Movies | TR - Son Bölüm Diziler",Eşref Rüya (23.Bölüm) 26.11.2025
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYr58J7eePyXbUpUA9jhxPsabum.jpg" group-title="Movies | TR - Son Bölüm Diziler",Eşref Rüya (24.Bölüm) 03.12.2025
 http://l1iptv.xyz/movie/rifatunlu/pNGsB1FztL/130711.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eWnZjhoOk2KhlTtJxcqjskbSCiX.jpg" group-title="Movies | TR - Son Bölüm Diziler",Sustalı Ceylan (6.Bölüm) 09.05.2025
 http://l1iptv.xyz/movie/rifatunlu/pNGsB1FztL/131877.mkv
@@ -12988,11 +12990,11 @@ http://l1iptv.xyz/movie/rifatunlu/pNGsB1FztL/143958.mkv
 http://l1iptv.xyz/movie/rifatunlu/pNGsB1FztL/144023.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Fn3fyq4JMlD6v1s3VZgdelbRUO.jpg" group-title="Movies | TR - Son Bölüm Diziler",Ben Onun Annesiyim (4.Bölüm) 14.11.2025
 http://l1iptv.xyz/movie/rifatunlu/pNGsB1FztL/144900.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1kEgzEvhJmw5eSxuGwn0o1cgHlK.jpg" group-title="Movies | TR - Son Bölüm Diziler",Kuruluş: Orhan (5.Bölüm) 26.11.2025
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1kEgzEvhJmw5eSxuGwn0o1cgHlK.jpg" group-title="Movies | TR - Son Bölüm Diziler",Kuruluş: Orhan (6.Bölüm) 03.12.2025
 http://l1iptv.xyz/movie/rifatunlu/pNGsB1FztL/145040.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/31zn3jriMaSAx9oflfn3ER5JRbn.jpg" group-title="Movies | TR - Son Bölüm Diziler",Bereketli Topraklar (5.Bölüm) 30.11.2025
 http://l1iptv.xyz/movie/rifatunlu/pNGsB1FztL/145241.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/azacGGRNAp3tRO197rEznDTdg7s.jpg" group-title="Movies | TR - Son Bölüm Diziler",Sakıncalı (2.Bölüm) 26.11.2025
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/azacGGRNAp3tRO197rEznDTdg7s.jpg" group-title="Movies | TR - Son Bölüm Diziler",Sakıncalı (3.Bölüm) 03.12.2025
 http://l1iptv.xyz/movie/rifatunlu/pNGsB1FztL/146165.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylpluerF3X4QQYBXEwztfYNMkOh.jpg" group-title="Movies | TR - Son Bölüm Diziler",Rüya Gibi (1.Bölüm) 02.12.2025
 http://l1iptv.xyz/movie/rifatunlu/pNGsB1FztL/146662.mkv
@@ -18155,4 +18157,4 @@ http://l1iptv.xyz/movie/rifatunlu/pNGsB1FztL/4372.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | NL - Series",The Good Lord Bird
 http://l1iptv.xyz/series/rifatunlu/pNGsB1FztL/686
 
-# Total: 8994
+# Total: 8995

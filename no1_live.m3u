@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: no1.no1turk.com:2086
-# Generated: 2025-12-03 18:35:48
+# Generated: 2025-12-04 07:06:09
 # Expires: 2026-09-21
 # Family Safe Edition
 # ==============================================
@@ -6578,14 +6578,16 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165864.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/166046.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/2Mwcqve.png" group-title="WORLD SPORTS",Fox Sports 3 Mexico HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/166040.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JEtHjJs.png" group-title="WORLD SPORTS",dazn 1 amazon HD
+#EXTINF:-1 tvg-logo="https://iili.io/JEtHjJs.png" group-title="WORLD SPORTS",DAZN 1 HD PORTUGAL
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/166033.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JEtHjJs.png" group-title="WORLD SPORTS",dazn 2 amazon HD
+#EXTINF:-1 tvg-logo="https://iili.io/JEtHjJs.png" group-title="WORLD SPORTS",DAZN 2 HD PORTUGAL
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/166025.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/2yqqd7e.png" group-title="WORLD SPORTS",dazn 3 amazon HD
+#EXTINF:-1 tvg-logo="https://iili.io/2yqqd7e.png" group-title="WORLD SPORTS",DAZN 3 HD PORTUGAL
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/166022.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/astro-sports-plus.png" group-title="WORLD SPORTS",dazn 4 amazon HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/astro-sports-plus.png" group-title="WORLD SPORTS",DAZN 4 HD PORTUGAL
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/166014.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/F5o85o7.png" group-title="WORLD SPORTS",DAZN 5 HD PORTUGAL
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165850.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JEtHjJs.png" group-title="WORLD SPORTS",vtv_eurosport1 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/166036.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JEtHjJs.png" group-title="WORLD SPORTS",vtv_eurosport2 HD
@@ -6666,8 +6668,6 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165846.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165847.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/F5o85o7.png" group-title="WORLD SPORTS",Solo Calcio [iTA]
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165848.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/F5o85o7.png" group-title="WORLD SPORTS",Sony TEN 1
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165850.m3u8
 #EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/CC/83/80b1d9d796a8cc83.png" group-title="WORLD SPORTS",Sport 1 HD [HU]
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165866.m3u8
 #EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/CC/83/80b1d9d796a8cc83.png" group-title="WORLD SPORTS",Sport TV + PLUS HD [Portugal]

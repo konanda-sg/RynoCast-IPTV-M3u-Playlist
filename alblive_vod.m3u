@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alblive.org:80
-# Generated: 2025-12-03 18:36:42
+# Generated: 2025-12-04 07:11:04
 # Expires: 2026-01-15
 # Family Safe Edition
 # ==============================================
@@ -2601,7 +2601,7 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/15513.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zkQcHvMc7gVG6OWVotVLDeRkrRl.jpg" group-title="Movies | DE: Disney Kinder",Burrow (2024)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/15711.mkv
 
-# --- Movies | DE: NETFLIX UHD 4K (292) ---
+# --- Movies | DE: NETFLIX UHD 4K (293) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nLTs9SNBuk3DuB8D0p3mSsPYN7J.jpg" group-title="Movies | DE: NETFLIX UHD 4K",Fall for Me (2025)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/15529.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ubP2OsF3GlfqYPvXyLw9d78djGX.jpg" group-title="Movies | DE: NETFLIX UHD 4K",Havoc (2025)
@@ -3172,6 +3172,8 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17090.mkv
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17091.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/p6xAExLNFbHcLfvSuvLPoM8aqZU.jpg" group-title="Movies | DE: NETFLIX UHD 4K",Troll 2 (2025)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17092.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bD3TKQzXbSEzCzDEw5bonMyjTyc.jpg" group-title="Movies | DE: NETFLIX UHD 4K",White Paradise (2023)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17121.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: NETFLIX UHD 4K",DE: Beauty in Black
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/150.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: NETFLIX UHD 4K",DE: Billionaires' Bunker
@@ -10151,4 +10153,4 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/16122.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Western",The English
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/100.mp4
 
-# Total: 5043
+# Total: 5044

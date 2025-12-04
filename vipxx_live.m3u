@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: vipxx.p-0101.pw:80
-# Generated: 2025-12-03 18:31:28
+# Generated: 2025-12-04 07:12:05
 # Expires: 2026-08-12
 # Family Safe Edition
 # ==============================================
@@ -4094,6 +4094,8 @@ http://vipxx.p-0101.pw:80/live/vpplus1129/6BQhtYhdLF/810.m3u8
 http://vipxx.p-0101.pw:80/live/vpplus1129/6BQhtYhdLF/126812.m3u8
 
 # --- TR • ⚽️beIN Sports (24) ---
+#EXTINF:-1 tvg-logo="http://logo1010.com/news/bs-haber.png" group-title="TR • ⚽️beIN Sports",beIN Sports Haber Hd⚽️
+http://vipxx.p-0101.pw:80/live/vpplus1129/6BQhtYhdLF/4743.m3u8
 #EXTINF:-1 tvg-logo="http://logo1010.com/news/bein-1.png" group-title="TR • ⚽️beIN Sports",beIN Sports 1 HD⚽️
 http://vipxx.p-0101.pw:80/live/vpplus1129/6BQhtYhdLF/332253.m3u8
 #EXTINF:-1 tvg-logo="http://logo1010.com/news/bein-1.png" group-title="TR • ⚽️beIN Sports",beIN Sports 1 720p [ 1000KB ]⚽️
@@ -4132,8 +4134,6 @@ http://vipxx.p-0101.pw:80/live/vpplus1129/6BQhtYhdLF/291711.m3u8
 http://vipxx.p-0101.pw:80/live/vpplus1129/6BQhtYhdLF/821.m3u8
 #EXTINF:-1 tvg-logo="http://logo1010.com/news/bsmax-2.png" group-title="TR • ⚽️beIN Sports",beIN Sports Max 2 1080p⚽️
 http://vipxx.p-0101.pw:80/live/vpplus1129/6BQhtYhdLF/291712.m3u8
-#EXTINF:-1 tvg-logo="http://logo1010.com/news/bs-haber.png" group-title="TR • ⚽️beIN Sports",beIN Sports Haber Hd⚽️
-http://vipxx.p-0101.pw:80/live/vpplus1129/6BQhtYhdLF/4743.m3u8
 #EXTINF:-1 tvg-logo="http://logo1010.com/ens/unnamed.png" group-title="TR • ⚽️beIN Sports",⚽️Bein-Connect-1
 http://vipxx.p-0101.pw:80/live/vpplus1129/6BQhtYhdLF/180904.m3u8
 #EXTINF:-1 tvg-logo="http://logo1010.com/ens/unnamed.png" group-title="TR • ⚽️beIN Sports",⚽️Bein-Connect-2

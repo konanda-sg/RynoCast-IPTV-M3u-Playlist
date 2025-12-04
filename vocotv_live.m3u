@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: vocotv.pro
-# Generated: 2025-12-03 18:28:36
+# Generated: 2025-12-04 07:10:17
 # Expires: 2026-06-28
 # Family Safe Edition
 # ==============================================
@@ -6016,7 +6016,7 @@ http://vocotv.pro/live/nowak1/nowak1/710258.m3u8
 http://vocotv.pro/live/nowak1/nowak1/710257.m3u8
 
 # --- LIVE | PPV Events (59) ---
-#EXTINF:-1 tvg-logo="https://i.ibb.co/w7fD2qB/PPVoco.png" group-title="LIVE | PPV Events",PPV 01: Country Box: Where Music Meets Boxing 7:00 pm
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w7fD2qB/PPVoco.png" group-title="LIVE | PPV Events",PPV 01:
 http://vocotv.pro/live/nowak1/nowak1/2395.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/w7fD2qB/PPVoco.png" group-title="LIVE | PPV Events",PPV 02:
 http://vocotv.pro/live/nowak1/nowak1/2394.m3u8
@@ -12693,7 +12693,7 @@ http://vocotv.pro/live/nowak1/nowak1/759590.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/NCAA_football_icon_logo.svg/375px-NCAA_football_icon_logo.svg.png" group-title="USA | NCAAF",NCAAF 150
 http://vocotv.pro/live/nowak1/nowak1/759589.m3u8
 
-# --- USA | NEWS (100) ---
+# --- USA | NEWS (99) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/768px-Fox_News_Channel_logo.svg.png" group-title="USA | NEWS",USA Fox News
 http://vocotv.pro/live/nowak1/nowak1/1038.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="USA | NEWS",USA CNN
@@ -12760,8 +12760,6 @@ http://vocotv.pro/live/nowak1/nowak1/1046.m3u8
 http://vocotv.pro/live/nowak1/nowak1/1057.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="USA | NEWS",USA France 24 (English)
 http://vocotv.pro/live/nowak1/nowak1/1037.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/RT_America_Logo.png/640px-RT_America_Logo.png" group-title="USA | NEWS",USA RT America
-http://vocotv.pro/live/nowak1/nowak1/1021.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Logo-HLN.svg/1200px-Logo-HLN.svg.png" group-title="USA | NEWS",USA HLN
 http://vocotv.pro/live/nowak1/nowak1/1036.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Fox_TV_Stations_logo.svg/1200px-Fox_TV_Stations_logo.svg.png" group-title="USA | NEWS",USA LiveNOW from FOX
@@ -15835,7 +15833,7 @@ http://vocotv.pro/live/nowak1/nowak1/3048.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA | SOFTBALL",Softball 50 :
 http://vocotv.pro/live/nowak1/nowak1/3047.m3u8
 
-# --- USA | SPORTS (154) ---
+# --- USA | SPORTS (153) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" group-title="USA | SPORTS",USA ESPN
 http://vocotv.pro/live/nowak1/nowak1/919.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" group-title="USA | SPORTS",USA ESPN 2
@@ -15998,8 +15996,6 @@ http://vocotv.pro/live/nowak1/nowak1/937.m3u8
 http://vocotv.pro/live/nowak1/nowak1/936.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Ch92vo2rzk96-HmmWzCICvVg3BDTJZXg5OQl2F-UvHZCByxR5Gi9WjC6yj8buaaHKho&usqp=CAU" group-title="USA | SPORTS",USA Billiard TV
 http://vocotv.pro/live/nowak1/nowak1/818.m3u8
-#EXTINF:-1 tvg-logo="https://img.favpng.com/14/25/7/eleven-sports-network-logo-television-channel-png-favpng-ZWqKk4rmJghdEFagPjJMqT5dW.jpg" group-title="USA | SPORTS",USA Eleven Sports
-http://vocotv.pro/live/nowak1/nowak1/933.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" group-title="USA | SPORTS",USA ESPN BACKUP
 http://vocotv.pro/live/nowak1/nowak1/923.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/SEC_Network_%282024%29.svg/1200px-SEC_Network_%282024%29.svg.png" group-title="USA | SPORTS",USA ESPN SEC Network
@@ -17271,4 +17267,4 @@ http://vocotv.pro/live/nowak1/nowak1/782969.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/29/1/christmas-tree-logo-png_seeklogo-294102.png" group-title="❄ Xmas Specials",❄  Ambient 5 ᴴᴰ
 http://vocotv.pro/live/nowak1/nowak1/782968.m3u8
 
-# Total: 8544
+# Total: 8542

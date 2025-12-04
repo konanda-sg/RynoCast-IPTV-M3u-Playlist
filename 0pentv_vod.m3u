@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 0pentv.space:8080
-# Generated: 2025-12-03 18:34:32
+# Generated: 2025-12-04 07:09:18
 # Expires: 2026-01-21
 # Family Safe Edition
 # ==============================================
@@ -9831,7 +9831,7 @@ http://0pentv.space:8080/movie/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdiJKxlyg3bzqZgRsNcIfoaQs1O.jpg" group-title="Movies | Filme SF",Îmi pare rău că te deranjez (2018)
 http://0pentv.space:8080/movie/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/22508.mp4
 
-# --- Movies | Filme TOP IMDb (173) ---
+# --- Movies | Filme TOP IMDb (175) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wYDdWN1McB1Sio4z1dPSkb40Z78.jpg" group-title="Movies | Filme TOP IMDb",300: Rise of an Empire (2014)
 http://0pentv.space:8080/movie/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/23588.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOF0zyeDYKCxz0XV6Y88bXwleQj.jpg" group-title="Movies | Filme TOP IMDb",Gemeni: Conspirația (2019)
@@ -10178,6 +10178,10 @@ http://0pentv.space:8080/movie/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/
 http://0pentv.space:8080/movie/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/101634.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h7Lcio0c9ohxPhSZg42eTlKIVVY.jpg" group-title="Movies | Filme TOP IMDb",300 (2007)
 http://0pentv.space:8080/movie/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/101704.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8eeK3OB5PeSRQD7BpZcGZKkehG.jpg" group-title="Movies | Filme TOP IMDb",RED (2010)
+http://0pentv.space:8080/movie/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/101734.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbksijr6g340yFWRgI4JfwrtM9h.jpg" group-title="Movies | Filme TOP IMDb",RED 2 (2013)
+http://0pentv.space:8080/movie/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/101735.mp4
 
 # --- Movies | Filme Thriller (112) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3B4MLYYr5WTjQiJMbA8fCFF8M4O.jpg" group-title="Movies | Filme Thriller",12 Feet Deep (2017)
@@ -11605,4 +11609,4 @@ http://0pentv.space:8080/movie/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/
 #EXTINF:-1 tvg-logo="" group-title="Movies | Vikings Valhalla",Vikings: Valhalla
 http://0pentv.space:8080/movie/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/152.mp4
 
-# Total: 5530
+# Total: 5532
