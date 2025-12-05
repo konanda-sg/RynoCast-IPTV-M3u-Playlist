@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2025-12-04 18:35:26
+# Generated: 2025-12-05 07:03:14
 # Expires: 2026-01-17
 # Family Safe Edition
 # ==============================================
@@ -5867,7 +5867,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/14154.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/qndubIQalyxBJI5EBNZKGXEX74q.jpg" group-title="Movies | Filme 2024",Y2K (2024)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/48365.mp4
 
-# --- Movies | Filme 2025 (525) ---
+# --- Movies | Filme 2025 (526) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bKxSQtd3Xy9JuaK8H4hVAbmZwKw.jpg" group-title="Movies | Filme 2025",Zapada, Ceai și Dragoste III: ...și Noroc (2025)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65475.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lOdeDd2XZADoiYJ8QGS9FGgF6n8.jpg" group-title="Movies | Filme 2025",The Grove - 2025
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65386.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rVTGlKuJUeqgmznxhlpKDKClili.jpg" group-title="Movies | Filme 2025",The Age of Disclosure - 2025
@@ -18627,6 +18629,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/539.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | The Mob Doctor",The Mob Doctor
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/563.mp4
 
+# --- Movies | The Morning Show (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | The Morning Show",The Morning Show (2019)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1118.mp4
+
 # --- Movies | The Mosquito Coast (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | The Mosquito Coast",The Mosquito Coast
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/155.mp4
@@ -19359,4 +19365,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8525
+# Total: 8527

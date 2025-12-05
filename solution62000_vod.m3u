@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2025-12-03 18:28:50
+# Generated: 2025-12-05 07:06:05
 # Expires: 2026-03-08
 # Family Safe Edition
 # ==============================================
@@ -1059,7 +1059,9 @@ http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/5531.mp4
 
-# --- Movies | Films (1381) ---
+# --- Movies | Films (1382) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/p6pB98PB2xAOzMLWUMTuZkpkEYA.jpg" group-title="Movies | Films",La Voie du serpent (2025)
+http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/21323.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/47iUmE2rZX2bzqeEm17iPWKaF2V.jpg" group-title="Movies | Films",The Astronaut (2025)
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/21315.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zunYWJTkuuOzFUSVYRzDGjXFiW9.jpg" group-title="Movies | Films",Pour Elle (2025)
@@ -3945,7 +3947,7 @@ http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/5879.mkv
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/RmmotqT-jZ0/mqdefault.jpg" group-title="Movies | Films Algerien",Aissa Story
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/5921.mkv
 
-# --- Movies | Films Arabe (78) ---
+# --- Movies | Films Arabe (79) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMMXNX6GPhDSuegsJRYIBrAUSdn.jpg" group-title="Movies | Films Arabe",Maaly Mama - 2022
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/1451.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2An6vEAdQKmMDf6aae8YV1QZnOe.jpg" group-title="Movies | Films Arabe",Al Rajul Rabaa - 2022
@@ -3966,6 +3968,8 @@ http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/10269.mkv
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/1534.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/exVFIuYWYyLKXxYHylyVbYJVYnf.jpg" group-title="Movies | Films Arabe",Shahid Al Wahid - 2021
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/1536.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wVMDUQo1ReToP57gLyLFR6xqGOF.jpg" group-title="Movies | Films Arabe",Daye (Seerat Ahl El Daye)  (2025)
+http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/21363.mkv
 #EXTINF:-1 tvg-logo="http://183.81.169.72:8089/LOGOFILMWACHEBONOUK.jpg" group-title="Movies | Films Arabe",Wahch El Bonouk (2025)
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/21072.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/f1svHZaMn2Ig3iZR5u1S5d8ZcGp.jpg" group-title="Movies | Films Arabe",EL SHATER (2025)
@@ -4103,7 +4107,7 @@ http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/13763.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lgXFOpfRT6BZeJlUFetFQIf9hh.jpg" group-title="Movies | Films Arabe",Waraqat Gameia - 2020
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/5524.mp4
 
-# --- Movies | Films Cultes (273) ---
+# --- Movies | Films Cultes (274) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dnR42jxXOWmwrBsn1S9AWRnWNGB.jpg" group-title="Movies | Films Cultes",Opération Portugal - 2021
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/4052.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/84NUzUir6haXE5dqg5vn6Gyx56g.jpg" group-title="Movies | Films Cultes",Halal police d’État (2011)
@@ -4354,6 +4358,8 @@ http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/10104.mkv
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/5188.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/myASUq3QnBqyd9ZqJHY5G6RC8TO.jpg" group-title="Movies | Films Cultes",Le Boulet - 2002
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/5583.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9xfeLcAvyYaZaBHeXHDYWTh8rNt.jpg" group-title="Movies | Films Cultes",Le Professeur Foldingue (1996)
+http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/21346.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5CVHPYxNTQFRwQt7hjc7Er9IRqD.jpg" group-title="Movies | Films Cultes",La Grande Muraille - 2016
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/2016.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8nx8sttha1Zidt73SbNncVfSwqk.jpg" group-title="Movies | Films Cultes",Le Cinquième Élément - 1997
@@ -6207,7 +6213,7 @@ http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/809
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Anciennes",Friends
 http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/811
 
-# --- Series | Series Arabe (118) ---
+# --- Series | Series Arabe (119) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",الاسطورة
 http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/43
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",بـ100 وش
@@ -6444,6 +6450,8 @@ http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/899
 http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/921
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2025 ) حالات نادرة
 http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/923
+#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2021 ) باب الجحيم
+http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/930
 
 # --- Series | Series Documentaires (8) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Documentaires",Homicide
@@ -6591,7 +6599,7 @@ http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/906
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",( 2025 ) Sakıncalı - المشبوه  مترجم
 http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/924
 
-# --- Series | Series divers (230) ---
+# --- Series | Series divers (231) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Salvation
 http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/5
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Gomorra
@@ -7052,5 +7060,7 @@ http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/920
 http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/925
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Leverage: Redemption
 http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/928
+#EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Talamasca: The Secret Order
+http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/929
 
-# Total: 3494
+# Total: 3499

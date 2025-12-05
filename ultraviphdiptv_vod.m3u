@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: ultraviphdiptv.com:8000
-# Generated: 2025-12-04 07:06:53
+# Generated: 2025-12-05 07:06:50
 # Expires: 2026-03-16
 # Family Safe Edition
 # ==============================================
@@ -11797,7 +11797,7 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1774.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR: DISNEY+",Sekizinci Aile
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1789.mp4
 
-# --- Movies | TR: DUBLAJ (1606) ---
+# --- Movies | TR: DUBLAJ (1610) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0XqulO3M01pmrhaUoJ8H55Gcg1.jpg" group-title="Movies | TR: DUBLAJ",F1 Filmi
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/168199.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chpWmskl3aKm1aTZqUHRCtviwPy.jpg" group-title="Movies | TR: DUBLAJ",TRON.Ares
@@ -15010,6 +15010,14 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/51692.mkv
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/51718.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dtRbVsUb5O12WWO54SRpiMtHKC0.jpg" group-title="Movies | TR: DUBLAJ",Zombi Ülkesi: Çift Vuruş
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/51640.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8RODNUPJCnCk85bjgAk8sxZ0A5u.jpg" group-title="Movies | TR: DUBLAJ",Son:
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/168237.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DHpXjhMwfwpaldge4OcISjQTX7.jpg" group-title="Movies | TR: DUBLAJ",Sevimli
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/168238.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tpOAzBasKPsKwsUtPZOx1Mzuqq3.jpg" group-title="Movies | TR: DUBLAJ",Noel Annem
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/168239.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6cBXFU4yx47xSCVCY0fsyBrCHdb.jpg" group-title="Movies | TR: DUBLAJ",Ne Eğlence Ama
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/168240.mkv
 
 # --- Movies | TR: EFSANE FILMLER (189) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7YY9olih5CJEqNoTxLF3Fsjjbu4.jpg" group-title="Movies | TR: EFSANE FILMLER",Evde Tek Başına 2: New York'ta Kayıp
@@ -19161,4 +19169,4 @@ http://ultraviphdiptv.com:8000/series/Figo/KDYwefapLL/1225
 #EXTINF:-1 tvg-logo="" group-title="Series | TR: BEIN SERIES",Sorgu
 http://ultraviphdiptv.com:8000/series/Figo/KDYwefapLL/1409
 
-# Total: 9533
+# Total: 9537

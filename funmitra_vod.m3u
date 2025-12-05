@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: funmitra.com:8080
-# Generated: 2025-12-04 18:30:10
+# Generated: 2025-12-05 07:01:42
 # Expires: 2026-04-30
 # Family Safe Edition
 # ==============================================
@@ -29783,7 +29783,9 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/545622.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zT8lFDAHxlNCCxxmn72daL2ENbk.jpg" group-title="Movies | (V|TR) Turkce Film - 4K",(TR-) Abigail 4K - 2024
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/545621.mkv
 
-# --- Movies | (V|TR) Yerli Film (619) ---
+# --- Movies | (V|TR) Yerli Film (620) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/guDQzXQNscgektD6AJMTkdP9XNV_big.jpg" group-title="Movies | (V|TR) Yerli Film",(TR-) Hüddam - 2015
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/647728.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/1ULMl1gCbiOY2jS3fPvk7pn1cF4_big.jpg" group-title="Movies | (V|TR) Yerli Film",(TR-) Mahpeyker: Kösem Sultan - 2010
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/611065.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/48YFA38to9LeES2WNxYqsxX1YeT.jpg" group-title="Movies | (V|TR) Yerli Film",(TR-) Dersimiz: Atatürk - 2010
@@ -32143,4 +32145,4 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/583470.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Unknown",(DE-) Anaon:  Hüter Der Nacht
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/10625.mp4
 
-# Total: 16024
+# Total: 16025

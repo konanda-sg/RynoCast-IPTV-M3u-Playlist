@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: siptvs.com:8080
-# Generated: 2025-12-04 18:32:55
+# Generated: 2025-12-05 07:08:12
 # Expires: 2026-05-16
 # Family Safe Edition
 # ==============================================
@@ -2060,7 +2060,7 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/35397.m3u8
 http://siptvs.com:8080/live/Biljana12/Biljana12/35398.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/SLOVENIA/planettv.png" group-title="|EXYU| SLOVENIJA",SL: PLANET 2 ᴴᴰ
 http://siptvs.com:8080/live/Biljana12/Biljana12/35399.m3u8
-#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/EXYU/SLOVENIA/planettv.png" group-title="|EXYU| SLOVENIJA",SL: PLANETA EVA
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/EXYU/SLOVENIA/planettv.png" group-title="|EXYU| SLOVENIJA",SL: PLANET EVA
 http://siptvs.com:8080/live/Biljana12/Biljana12/35400.m3u8
 #EXTINF:-1 tvg-logo="https://lo1.in/LOGO/EXYU/SLOVENIA/MARIBOR.png" group-title="|EXYU| SLOVENIJA",SL: TV MARIBOR ᴴᴰ
 http://siptvs.com:8080/live/Biljana12/Biljana12/35401.m3u8
@@ -2365,7 +2365,7 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/35165.m3u8
 #EXTINF:-1 tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/sporttv3slovenija.png" group-title="|EXYU| SPORT SL",|SI| SPORT TV 3 ᴴᴰ
 http://siptvs.com:8080/live/Biljana12/Biljana12/35166.m3u8
 
-# --- |EXYU| SPORT SR (49) ---
+# --- |EXYU| SPORT SR (51) ---
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/srbija.png" group-title="|EXYU| SPORT SR",* * * * * SPORT SRBIJA * * * * *
 http://siptvs.com:8080/live/Biljana12/Biljana12/194619.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/novo2023/eurosport4k.png" group-title="|EXYU| SPORT SR",|SR| EURO SPORT 4K
@@ -2464,6 +2464,10 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/35119.m3u8
 http://siptvs.com:8080/live/Biljana12/Biljana12/35118.m3u8
 #EXTINF:-1 tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/fightchannel.png" group-title="|EXYU| SPORT SR",|SR| FIGHT BOX
 http://siptvs.com:8080/live/Biljana12/Biljana12/35299.m3u8
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/arenasport9.png" group-title="|EXYU| SPORT SR",|SR| ARENA SPORT 9
+http://siptvs.com:8080/live/Biljana12/Biljana12/197091.m3u8
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/ARENASPORT10.png" group-title="|EXYU| SPORT SR",|SR| ARENA SPORT 10
+http://siptvs.com:8080/live/Biljana12/Biljana12/197092.m3u8
 
 # --- |EXYU| SRBIJA (78) ---
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/srbija.png" group-title="|EXYU| SRBIJA",* * * * SRBIJA * * * *
@@ -2999,4 +3003,4 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/85905.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|WSP| WORLD SPORT",MUTV
 http://siptvs.com:8080/live/Biljana12/Biljana12/126239.m3u8
 
-# Total: 1468
+# Total: 1470

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2025-12-04 18:30:12
+# Generated: 2025-12-05 07:09:26
 # Expires: 2025-12-20
 # Family Safe Edition
 # ==============================================
@@ -8489,7 +8489,9 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/31219.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1kEVyDuA8g4WfPnrFhVvey3Flu2.jpg" group-title="Movies | DE/FILM ~ NAME FILMREIHE",Der Nachname-2- (2022)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/58161.mp4
 
-# --- Movies | DE/FILM ~ NETFLIX (52) ---
+# --- Movies | DE/FILM ~ NETFLIX (53) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/plyEn5uDNXXDYihF8Z7YOe2PVKE.jpg" group-title="Movies | DE/FILM ~ NETFLIX",Troll 2 (2025) DE
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/63352.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bfywe2IRR9mEL0PEVTqkqowl06q.jpg" group-title="Movies | DE/FILM ~ NETFLIX",The In Between (2022)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/39149.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/edYk5TSowZIDv138bCpF5ls3XI5.jpg" group-title="Movies | DE/FILM ~ NETFLIX",The Bubble (2022)
@@ -12090,9 +12092,9 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/39132.mkv
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/376.mkv
 
 # --- Movies | TR/DIZI ~ PERSEMBE (2) ---
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sQTx2hiwi9CmRYyt6CAV5sf8C1T.jpg" group-title="Movies | TR/DIZI ~ PERSEMBE",PER: Halef Koklerin Cagrisi 10.Bölüm (YENI DIZI)
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sQTx2hiwi9CmRYyt6CAV5sf8C1T.jpg" group-title="Movies | TR/DIZI ~ PERSEMBE",PER: Halef Koklerin Cagrisi 11.Bölüm (YENI DIZI)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/39404.mkv
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7kc0Mr2bRCpzIexZqq0ALnamvvY.jpg" group-title="Movies | TR/DIZI ~ PERSEMBE",PER: Veliaht 11.Bölüm (Yeni Dizi)
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7kc0Mr2bRCpzIexZqq0ALnamvvY.jpg" group-title="Movies | TR/DIZI ~ PERSEMBE",PER: Veliaht 12.Bölüm (Yeni Dizi)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/43582.mkv
 
 # --- Movies | TR/DIZI ~ PUHU TV (1) ---
@@ -19589,7 +19591,7 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/60874.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7MSKGc4lx4eHowF1k61loEdmF6S.jpg" group-title="Movies | TR/FILM ~ YERLI 2022",Cirkin Sansi (2022)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/60877.mkv
 
-# --- Movies | TR/FILM ~ YERLI 2023 (99) ---
+# --- Movies | TR/FILM ~ YERLI 2023 (100) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8SBixdHa4hzxhXIvtl3est8Q93.jpg" group-title="Movies | TR/FILM ~ YERLI 2023",Ceylin (2023)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/58174.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJYULcelclGqx3VWd7dSh4DrZpI.jpg" group-title="Movies | TR/FILM ~ YERLI 2023",Su Yüzü (2023)
@@ -19788,6 +19790,8 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/59603.mkv
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/60880.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mzKCgSWFeuO9Ygndh6fbsixXSDW.jpg" group-title="Movies | TR/FILM ~ YERLI 2023",Geri Sayım (2023)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/62457.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0dd9uJTDJTN3GV7FK2MjfcP17M.jpg" group-title="Movies | TR/FILM ~ YERLI 2023",8x8 (2023)
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/63361.mkv
 
 # --- Movies | TR/FILM ~ YERLI 2024 (103) ---
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/82/322/png-clipart-flag-of-turkey-national-flag-yukselen-bayrak-turk-bayra%C4%9F%C4%B1-100x150-flag-miscellaneous-flag.png" group-title="Movies | TR/FILM ~ YERLI 2024",*****TURK SINEMA 2024*****
@@ -20067,4 +20071,4 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/63325.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8EQllq34VC5mooiJw1vVFOlM4x.jpg" group-title="Movies | TR/FILM ~ YILBASI ÖZEL",O Ses Türkiye  Yilbasi Özel 2025
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/54778.mp4
 
-# Total: 9893
+# Total: 9895

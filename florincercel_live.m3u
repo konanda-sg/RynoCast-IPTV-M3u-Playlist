@@ -1,13 +1,13 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: florincercel.gotdns.ch:8008
-# Generated: 2025-12-04 18:31:09
+# Generated: 2025-12-05 07:07:23
 # Expires: 2025-12-08
 # Family Safe Edition
 # ==============================================
 
 
-# --- ALBANIA (544) ---
+# --- ALBANIA (543) ---
 #EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="ALBANIA",AL: Zhunica Humor
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/543544.m3u8
 #EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="ALBANIA",AL: WebStar Thriller
@@ -302,8 +302,6 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/543396.m3u8
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/543395.m3u8
 #EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="ALBANIA",AL: LionTv Parlamenti
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/543394.m3u8
-#EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="ALBANIA",AL: LionTv Music
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/543393.m3u8
 #EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="ALBANIA",AL: LionTv Humor
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/543392.m3u8
 #EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="ALBANIA",AL: L-Star Superman & Lois
@@ -4183,11 +4181,9 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/543546.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/fffb2b8070bf9f6d1fb83b084f3e2964.png" group-title="TURCIA",TR: Baby TV
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/543545.m3u8
 
-# --- UNITED KINGDOM (UK) (324) ---
+# --- UNITED KINGDOM (UK) (323) ---
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Yu-Gi-Oh!
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545929.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Xtreme Outdoor Presented by HISTORY
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545928.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: World Of FreeSports
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545927.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Wonder
@@ -4833,7 +4829,7 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545526.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Baby TV
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545525.m3u8
 
-# --- UNITED STATES (USA) (1135) ---
+# --- UNITED STATES (USA) (1134) ---
 #EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="UNITED STATES (USA)",US: Wild West TV
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/542504.m3u8
 #EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="UNITED STATES (USA)",US: WGN-DT1
@@ -5694,8 +5690,6 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/542073.m3u8
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/542072.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/e53b0a56389afb3b50e6e218451b72c8.png" group-title="UNITED STATES (USA)",US: NBC San Angelo Texas KSAN TV
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/542071.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/261259e0a3a6a6a7c6e8aa6e5be154ba.png" group-title="UNITED STATES (USA)",US: NBC Salt Lake City Utah KSL TV
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/542070.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c5038d6462c84f240c182d35cd67e598.png" group-title="UNITED STATES (USA)",US: NBC Salinas California KSBW TV
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/542069.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/d015fbbd6d9156aee2b944ff0aa4aa6a.png" group-title="UNITED STATES (USA)",US: NBC Sacramento California KCRA TV
@@ -8295,4 +8289,4 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/296306.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1Xsq73b1/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FLY AVENTURA ᶠᴴᴰ
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/296305.m3u8
 
-# Total: 4129
+# Total: 4126

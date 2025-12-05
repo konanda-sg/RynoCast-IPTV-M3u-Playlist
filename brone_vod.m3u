@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: brone.fyi
-# Generated: 2025-12-04 18:41:18
+# Generated: 2025-12-05 07:07:25
 # Expires: 2025-12-18
 # Family Safe Edition
 # ==============================================
@@ -32503,7 +32503,7 @@ http://brone.fyi/series/felipe_irma/Teste44/4155
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | GLOBOPLAY",RICOS
 http://brone.fyi/series/felipe_irma/Teste44/4156
 
-# --- Series | SERIES | HBO MAX (330) ---
+# --- Series | SERIES | HBO MAX (331) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | HBO MAX",GAME OF THRONES
 http://brone.fyi/series/felipe_irma/Teste44/5
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | HBO MAX",MAQUINA MORTIFERA
@@ -33164,6 +33164,8 @@ http://brone.fyi/series/felipe_irma/Teste44/4137
 http://brone.fyi/series/felipe_irma/Teste44/4145
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | HBO MAX",A ESCADA
 http://brone.fyi/series/felipe_irma/Teste44/4157
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES | HBO MAX",LARGADOS E PELADOS APOCALIPSE
+http://brone.fyi/series/felipe_irma/Teste44/4180
 
 # --- Series | SERIES | LEGENDADAS (17) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | LEGENDADAS",VIS A VIS EL OASIS LEG
@@ -35439,4 +35441,4 @@ http://brone.fyi/series/felipe_irma/Teste44/3096
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | VIKI ROKUTEN",MERITISSIMO
 http://brone.fyi/series/felipe_irma/Teste44/3777
 
-# Total: 17674
+# Total: 17675

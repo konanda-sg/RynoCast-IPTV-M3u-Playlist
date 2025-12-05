@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: sasyhbk.ddns.net:8000
-# Generated: 2025-12-04 18:34:55
+# Generated: 2025-12-05 07:02:56
 # Expires: 2025-12-20
 # Family Safe Edition
 # ==============================================
@@ -237,7 +237,7 @@ http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/102455.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h8YVI7U7evdwEq74jweac4jvotp.jpg" group-title="Movies | Arti Marziali",The Legend Is Born: Ip Man (2010)
 http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/102458.mkv
 
-# --- Movies | Avventura (572) ---
+# --- Movies | Avventura (573) ---
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/410cf889fabc224e145b0c49ea8d1bc1.png" group-title="Movies | Avventura",----- AVVENTURA -----
 http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/63710.mp4
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/8e048f82de703d1a7dbf66eaee637869.jpg" group-title="Movies | Avventura",007 - Vendetta privata (1989)
@@ -1382,6 +1382,8 @@ http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/113069.mkv
 http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/84540.mkv
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/fd01f57d6a0cdd436065eadd7eae2f31.jpg" group-title="Movies | Avventura",Zulu Dawn (1979)
 http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/189264.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zLmxbAcxM06kttGZCwVlRwu823R.jpg" group-title="Movies | Avventura",Tron Ares (2025)
+http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/229717.mp4
 
 # --- Movies | Azione (1402) ---
 #EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/6fc9e868362f31352522fd0ba3606ccd.jpg" group-title="Movies | Azione",12 Rounds (2009)
@@ -5307,7 +5309,7 @@ http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/89438.mkv
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/891631828725367cf18f144772a0cbef.jpg" group-title="Movies | Classici",Zucchero, miele e peperoncino (1980)
 http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/89359.mkv
 
-# --- Movies | Commedia (2246) ---
+# --- Movies | Commedia (2247) ---
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/loca-Sm.png" group-title="Movies | Commedia",----- COMMEDIA -----
 http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/54009.mp4
 #EXTINF:-1 tvg-logo="http://service.fullapple.me:80/images/7c2f5e0a3bcb4d6c3a840ef750e3327b.jpg" group-title="Movies | Commedia",(500) giorni insieme (2009)
@@ -9800,6 +9802,8 @@ http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/229564.mp4
 http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/229566.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7DFyI1S8xJ34AkUutVBqDSfOtfJ.jpg" group-title="Movies | Commedia",Natale senza Babbo (2025)
 http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/229568.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rFx2JIaupstN3vtouiOQfCE9av4.jpg" group-title="Movies | Commedia",Tre amiche (2024)
+http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/229716.mp4
 
 # --- Movies | Concerti (137) ---
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/410cf889fabc224e145b0c49ea8d1bc1.png" group-title="Movies | Concerti",----- CONCERTI -----
@@ -11137,7 +11141,7 @@ http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/229329.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zaJLAY4BGERz5wwJQm3OyHRUCKD.jpg" group-title="Movies | Documentario",AG4IN - Il film del quarto scudetto del Napoli (2025)
 http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/229462.mp4
 
-# --- Movies | Drammatico (2465) ---
+# --- Movies | Drammatico (2466) ---
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/loca-Sm.png" group-title="Movies | Drammatico",----- DRAMMATICO -----
 http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/54122.mp4
 #EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/7bbce1ff06740329b7bfdb03dfd89deb.jpg" group-title="Movies | Drammatico",.45 (2006)
@@ -16068,8 +16072,10 @@ http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/212616.mp4
 http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/229466.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7cPviYn92Q0tcv7EKp9chvCKOYu.jpg" group-title="Movies | Drammatico",Breve storia di una famiglia (2024)
 http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/229595.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oumprkO9bThExP8NwxBIBnvBu2v.jpg" group-title="Movies | Drammatico",The Life of Chuck (2025)
+http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/229715.mp4
 
-# --- Movies | Fantascienza (342) ---
+# --- Movies | Fantascienza (343) ---
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/loca-Sm.png" group-title="Movies | Fantascienza",----- FANTASCIENZA -----
 http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/54171.mp4
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/f940b23ab2aedf3676e5ad5ba31c5875.jpg" group-title="Movies | Fantascienza",10 Cloverfield Lane (2016)
@@ -16754,6 +16760,8 @@ http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/208233.mp4
 http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/84824.mkv
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/531a5ba4cdcacd235a61245d7ccaac60.jpg" group-title="Movies | Fantascienza",Weather Wars (2011)
 http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/84816.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nhtC3xgsZMkotrPMzOHotUyHw6l.jpg" group-title="Movies | Fantascienza",Bugonia (2025)
+http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/229712.mp4
 
 # --- Movies | Film 4K (273) ---
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/loca-Sm.png" group-title="Movies | Film 4K",----- 4K ONDEMAND -----
@@ -20663,7 +20671,7 @@ http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/119661.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tUlO39EcZzPlKS4JOhlUansgKFJ.jpg" group-title="Movies | Guerra",Zoo - Un amico da salvare (2018)
 http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/119632.mkv
 
-# --- Movies | Horror (827) ---
+# --- Movies | Horror (828) ---
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/410cf889fabc224e145b0c49ea8d1bc1.png" group-title="Movies | Horror",----- HORROR -----
 http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/163307.mp4
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/21a9375f0ff47f6d0bdbefe87d5dc220.jpg" group-title="Movies | Horror",.raw (2018)
@@ -22318,6 +22326,8 @@ http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/85554.mkv
 http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/164143.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsSzqZxYZ7bZECiDy2au650dSYa.jpg" group-title="Movies | Horror",Heart Eyes - Appuntamento con la morte (2025)
 http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/229490.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9tk3Si960hg4E49eMt81dS7Qe9Z.jpg" group-title="Movies | Horror",Dangerous Animals (2025)
+http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/229713.mp4
 
 # --- Movies | Karaoke (1700) ---
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/loca-Sm.png" group-title="Movies | Karaoke",------ KARAOKE ------
@@ -28061,7 +28071,7 @@ http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/217938.mp4
 #EXTINF:-1 tvg-logo="http://service.fullapple.me:80/images/bec71b833225091f265be235c081a3d3.jpg" group-title="Movies | Saghe",Underworld: La ribellione dei Lycans (2009)
 http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/217939.mp4
 
-# --- Movies | Serie Amazon Prime (492) ---
+# --- Movies | Serie Amazon Prime (493) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Serie Amazon Prime",Alto mare
 http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/136.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Serie Amazon Prime",Castle
@@ -29046,6 +29056,8 @@ http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/3425.mp4
 http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/3426.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Serie Amazon Prime",LEGO City No Limits MAX
 http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/3428.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Serie Amazon Prime",I Tesori Nascosti
+http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/3429.mp4
 
 # --- Movies | Serie Apple Tv (140) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Serie Apple Tv",De Dag
@@ -30447,7 +30459,7 @@ http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/3391.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Serie Mediaset Play",I cerchi nell'acqua
 http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/3405.mp4
 
-# --- Movies | Serie Netflix (1310) ---
+# --- Movies | Serie Netflix (1312) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Serie Netflix",Dynasty
 http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/3.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Serie Netflix",13 Reasons Why: Beyond the Reasons
@@ -33068,8 +33080,12 @@ http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/3412.mp4
 http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/3421.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Serie Netflix",Is it Cake? - Dolci impossibili: Festeggiamo!
 http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/3422.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Serie Netflix",Sean Combs: la resa dei conti
+http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/3431.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Serie Netflix",Talamasca - L'ordine segreto
+http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/3432.mp4
 
-# --- Movies | Serie Rai Play (186) ---
+# --- Movies | Serie Rai Play (187) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Serie Rai Play",L'amica geniale
 http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/142.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Serie Rai Play",Capri
@@ -33442,6 +33458,8 @@ http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/3399.mp4
 http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/3423.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Serie Rai Play",La linea della palma
 http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/3427.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Serie Rai Play",Sandokan
+http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/3430.mp4
 
 # --- Movies | Serie Sky Box (323) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Serie Sky Box",Arrow
@@ -34579,7 +34597,7 @@ http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/89348.mkv
 #EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/48f3217d212214ae9883300e4675aa42.jpg" group-title="Movies | Teatro",Amore + Iva (2024)
 http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/213067.mp4
 
-# --- Movies | Thriller (952) ---
+# --- Movies | Thriller (953) ---
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/410cf889fabc224e145b0c49ea8d1bc1.png" group-title="Movies | Thriller",----- THRILLER -----
 http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/54511.mp4
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/f940b23ab2aedf3676e5ad5ba31c5875.jpg" group-title="Movies | Thriller",10 Cloverfield Lane (2016)
@@ -36484,6 +36502,8 @@ http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/222630.mp4
 http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/229567.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/weETlkGfW2SYPnqITUitvc3Zz7P.jpg" group-title="Movies | Thriller",The Cut - Sfida estrema (2025)
 http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/229572.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cqF7xuZWbBYXWHsp1I1H5PwujPs.jpg" group-title="Movies | Thriller",High Ground (2025)
+http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/229714.mp4
 
 # --- Movies | Video Musicali (126) ---
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/loca-Sm.png" group-title="Movies | Video Musicali",----- VIDEO MUSICALI -----
@@ -37063,4 +37083,4 @@ http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/86697.mkv
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/5537d21a012d0e46b9ebddd4a137ef26.jpg" group-title="Movies | Western",… E continuavano a fregarsi il milione di dollari (1971)
 http://sasyhbk.ddns.net:8000/movie/D4rEBX3tPL/g6j4J7YS3j/86638.mkv
 
-# Total: 18481
+# Total: 18491

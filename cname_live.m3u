@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: cname.dino.ws:80
-# Generated: 2025-12-04 18:30:36
+# Generated: 2025-12-05 07:05:49
 # Expires: 2026-01-31
 # Family Safe Edition
 # ==============================================
@@ -867,7 +867,7 @@ http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/711395.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/AFRICA/TELE-AFRICA-GABON.png" group-title="|AF| CONGO/GABON",GB - TELE AFRICA GABON
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/711394.m3u8
 
-# --- |AF| DSTV AFRIQUE (174) ---
+# --- |AF| DSTV AFRIQUE (175) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/1200px-DStv_2012_logo.svg.png" group-title="|AF| DSTV AFRIQUE",##### DSTV AFRIQUE #####
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/763273.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/AFRICA/supersport-grandstand-live.png" group-title="|AF| DSTV AFRIQUE",VIP - SUPERSPORT GRANDSTAND FHD
@@ -902,6 +902,8 @@ http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1091778.m3u8
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1091777.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/AFRICA/ETHIOPIA-SUPERSPORT.png" group-title="|AF| DSTV AFRIQUE",VIP - ETHIOPIA SUPERSPORT LIYU
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/862942.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/AFRICA/1330479.png" group-title="|AF| DSTV AFRIQUE",VIP - AFROBIT
+http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1330479.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/A-PLUS.png" group-title="|AF| DSTV AFRIQUE",VIP - A+ HD AF
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1147791.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/AFRICA/M-NET-PLUS-1.png" group-title="|AF| DSTV AFRIQUE",VIP - M NET UHD
@@ -1746,7 +1748,7 @@ http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/666506.m3u8
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/262156.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/OSAMIRE.png" group-title="|ALB| GENERAL",ALB - O SA MIRE HD
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1183185.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/FOLKLORIT.png" group-title="|ALB| GENERAL",ALB - FOLKLORIT
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/FOLKLORIT.png" group-title="|ALB| GENERAL",ALB - ULQINI TV
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1092694.m3u8
 
 # --- |ALB| ISLAMIC (9) ---
@@ -1898,7 +1900,7 @@ http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/262012.m3u8
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/262009.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PODUJEVA-TV.png" group-title="|ALB| KOSOVO",ALB - PODUJEVA TV HD
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/827520.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TV-SHAHIRAT.jpg" group-title="|ALB| KOSOVO",ALB - SPIN TV HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TV-SHAHIRAT.jpg" group-title="|ALB| KOSOVO",ALB - TV BULEVARD HD
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/262016.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TURBO-CHANNEL.jpeg" group-title="|ALB| KOSOVO",ALB - TURBO CHANNEL
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/262017.m3u8
@@ -2346,7 +2348,7 @@ http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/785457.m3u8
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/786539.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/MUSICTV.png" group-title="|ALB| MUSIC",ALB - HIMUSICTV
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/811758.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MUSICCHANNEL.HU.png" group-title="|ALB| MUSIC",ALB - PLUS TV
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MUSICCHANNEL.HU.png" group-title="|ALB| MUSIC",ALB - ALBSE TV
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/806073.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MUSICCHANNEL.HU.png" group-title="|ALB| MUSIC",ALB - TELEVISION
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/791029.m3u8
@@ -4358,13 +4360,13 @@ http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1006901.m3u8
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1006902.m3u8
 
 # --- |AR| AL FAJER (4) ---
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/AL-FAJER.png" group-title="|AR| AL FAJER",##### AL FAJER #####
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/757138.png" group-title="|AR| AL FAJER",##### AL FAJER #####
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/757138.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/SALAM-TV.png" group-title="|AR| AL FAJER",AR - SALAM TV HD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/722811.png" group-title="|AR| AL FAJER",AR - SALAM TV HD
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/722811.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/AJYAL-TV.png" group-title="|AR| AL FAJER",AR - AJYAL TV HD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/722810.png" group-title="|AR| AL FAJER",AR - AJYAL TV HD
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/722810.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/HORREYA-TV.png" group-title="|AR| AL FAJER",AR - HORIYAA RIYADIA HD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/722820.png" group-title="|AR| AL FAJER",AR - HORIYAA RIYADIA HD
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/722820.m3u8
 
 # --- |AR| ALGERIA (40) ---
@@ -9588,31 +9590,31 @@ http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/909557.m3u8
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/909556.m3u8
 
 # --- |AR| TUNISA (29) ---
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/TUNISIA-FLAG.png" group-title="|AR| TUNISA",##### TN - TUNISIA #####
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/249862.png" group-title="|AR| TUNISA",##### TN - TUNISIA #####
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/249862.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/TUNISIANATIONAL1TV-1.png" group-title="|AR| TUNISA",TN - TUNISIA NATIONAL 1 ◉
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/249863.png" group-title="|AR| TUNISA",TN - TUNISIA NATIONAL 1 ◉
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/249863.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/TUNISIANATIONAL2TV-1.png" group-title="|AR| TUNISA",TN - TUNISIA NATIONAL 2 ◉
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/249864.png" group-title="|AR| TUNISA",TN - TUNISIA NATIONAL 2 ◉
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/249864.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/788533.png" group-title="|AR| TUNISA",TN - TUNISIA NATIONAL 2 HD
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/788533.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ALHIWARETTOUNSITV-1.png" group-title="|AR| TUNISA",TN - AL HIWAR ETTOUNSI ◉
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/249868.png" group-title="|AR| TUNISA",TN - AL HIWAR ETTOUNSI ◉
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/249868.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ATTESSIA-TV.png" group-title="|AR| TUNISA",TN - ATTESSIA TV ◉
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/249871.png" group-title="|AR| TUNISA",TN - ATTESSIA TV ◉
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/249871.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/249878.png" group-title="|AR| TUNISA",TN - HANNIBAL ◉
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/249878.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/689592.png" group-title="|AR| TUNISA",TN - NESSMA EJDIDA
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/689592.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ALJANOUBIA-1.png" group-title="|AR| TUNISA",TN - AL JANOUBIA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/249874.png" group-title="|AR| TUNISA",TN - AL JANOUBIA
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/249874.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ZAYTONATV.png" group-title="|AR| TUNISA",TN - ZAYTOONA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/249876.png" group-title="|AR| TUNISA",TN - ZAYTOONA
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/249876.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/668470.png" group-title="|AR| TUNISA",TN - TUNISIA 1
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/668470.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/668459.png" group-title="|AR| TUNISA",TN - JAWHARA FM TV
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/668459.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ALINSEN-1.png" group-title="|AR| TUNISA",TN - AL INSEN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/249867.png" group-title="|AR| TUNISA",TN - AL INSEN
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/249867.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1955268.png" group-title="|AR| TUNISA",TN - DIWAN SPORT 2
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1320172.m3u8
@@ -9620,15 +9622,15 @@ http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1320172.m3u8
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1320173.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/668458.png" group-title="|AR| TUNISA",TN - TUNISIA EDUC 1
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/668458.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/TUNISNA-1.png" group-title="|AR| TUNISA",TN - TUNISNA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/249872.png" group-title="|AR| TUNISA",TN - TUNISNA
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/249872.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/666476.png" group-title="|AR| TUNISA",TN - AL MUSTAKILA
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/666476.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/saheltv.png" group-title="|AR| TUNISA",TN - SAHEL TV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/249865.png" group-title="|AR| TUNISA",TN - SAHEL TV
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/249865.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/TELVZATV-1.png" group-title="|AR| TUNISA",TN - TELVZA TV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/249875.png" group-title="|AR| TUNISA",TN - TELVZA TV
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/249875.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/CARTHAGE-1.png" group-title="|AR| TUNISA",TN - CARTHAGE+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/249869.png" group-title="|AR| TUNISA",TN - CARTHAGE+
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/249869.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|AR| TUNISA",Mosaïque FM
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/651420.m3u8
@@ -15544,15 +15546,15 @@ http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1177700.m3u8
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/699720.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="|DE| DAZN PRIME",DE: DAZN PPV 1 - UFC FIGHT NIGHT | AMANDA LEMOS VS VIRNA JANDIROBA (MAIN CARD)
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1179100.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="|DE| DAZN PRIME",DE: DAZN PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="|DE| DAZN PRIME",DE: DAZN PPV 2 - RANGERS @ SENATORS | Fri 05 Dec 00:50 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1179099.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="|DE| DAZN PRIME",DE: DAZN PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="|DE| DAZN PRIME",DE: DAZN PPV 3 - PENGUINS @ LIGHTNING | Fri 05 Dec 00:50 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1179098.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="|DE| DAZN PRIME",DE: DAZN PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="|DE| DAZN PRIME",DE: DAZN PPV 4 - PREDATORS @ PANTHERS | Fri 05 Dec 00:50 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1179097.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="|DE| DAZN PRIME",DE: DAZN PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="|DE| DAZN PRIME",DE: DAZN PPV 5 - MAPLE LEAFS @ HURRICANES | Fri 05 Dec 00:50 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1179096.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="|DE| DAZN PRIME",DE: DAZN PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="|DE| DAZN PRIME",DE: DAZN PPV 6 - UFC 323 | MERAB DVALISHVILI VS PETR YAN 2 (PRESS CONFERENCE) | Fri 05 Dec 00:50 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1179095.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="|DE| DAZN PRIME",DE: DAZN PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1179094.m3u8
@@ -16236,9 +16238,9 @@ http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/750139.m3u8
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1142828.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 1 - NO EVENT STREAMING -
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1177699.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 2 - NO EVENT STREAMING -
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 2 - SV FEHMARN HANDBALL HERREN VS. KIELER TURNVEREIN | Thu 04 Dec 17:20
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1177698.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 3 - NO EVENT STREAMING -
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 3 - 8. SPIELTAG SK HÜRTH 3 | Thu 04 Dec 18:30
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1177697.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 14 - NO EVENT STREAMING -
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1177696.m3u8
@@ -16855,24 +16857,22 @@ http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/807507.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SPAIN/TAQUILLA-TV.png" group-title="|ES| CINEMA",ES - TAQUILLA 9 HD
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/807500.m3u8
 
-# --- |ES| DAZN ACB (9) ---
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| DAZN ACB",ACB EVENTO 01
-http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1327705.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| DAZN ACB",ACB EVENTO 02
+# --- |ES| DAZN ACB (8) ---
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| DAZN ACB",ACB EVENTO 02 | Hiopos VS Lleida Unicaja -Sábado- 18H50
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1327704.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| DAZN ACB",ACB EVENTO 03
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| DAZN ACB",ACB EVENTO 03 | oviran Granada VS Casademont Zaragoza -Sábado- 19H50
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1327703.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| DAZN ACB",ACB EVENTO 04
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| DAZN ACB",ACB EVENTO 04 | Bàsquet VS Girona Río Breogán -Sábado- 20H50
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1327702.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| DAZN ACB",ACB EVENTO 05
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| DAZN ACB",ACB EVENTO 05 | Joventut Badalona VS Joventut Badalona -Domingo- 11H50
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1327701.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| DAZN ACB",ACB EVENTO 06
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| DAZN ACB",ACB EVENTO 06 | La Laguna TFE VS Real Madrid -Domingo- 12H50
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1327700.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| DAZN ACB",ACB EVENTO 07
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| DAZN ACB",ACB EVENTO 07 | FC Barcelona VS MoraBanc Andorra -Domingo- 16H50
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1327699.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| DAZN ACB",ACB EVENTO 08
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| DAZN ACB",ACB EVENTO 08 | Surne Bilbao Dreamland VS Gran Canaria -Domingo- 17H50
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1327698.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| DAZN ACB",ACB EVENTO 09
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| DAZN ACB",ACB EVENTO 09 | Baskonia VS Valencia Basket -Domingo- 18H50
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1327697.m3u8
 
 # --- |ES| DEPORTES (106) ---
@@ -17127,25 +17127,21 @@ http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/505691.m3u8
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/piconsnew/dmax.png" group-title="|ES| DOCUMENTALES",ES - DMAX
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/807801.m3u8
 
-# --- |ES| ESPAÑA DAZN PPV (51) ---
+# --- |ES| ESPAÑA DAZN PPV (49) ---
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| ESPAÑA DAZN PPV",###### ES| DAZN PPV VIP ######
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1309636.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| ESPAÑA DAZN PPV",ES: DAZN 1 ᴴᴰ ᵃᵐᶻ
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1309635.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| ESPAÑA DAZN PPV",ES: DAZN PPV 2 - RACE NIGHT #9 | RIYADH RACING SEASON | Thu 04 Dec 12:40 | 8K EXCLUSIVE
-http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1309634.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| ESPAÑA DAZN PPV",ES: DAZN PPV 3 - ZARATE VS. KNOCKOUT CPF | Thu 04 Dec 12:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| ESPAÑA DAZN PPV",ES: DAZN PPV 3 - RANGERS @ SENATORS | Fri 05 Dec 00:50 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1309633.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| ESPAÑA DAZN PPV",ES: DAZN PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| ESPAÑA DAZN PPV",ES: DAZN PPV 4 - PENGUINS @ LIGHTNING | Fri 05 Dec 00:50 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1309632.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| ESPAÑA DAZN PPV",ES: DAZN PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| ESPAÑA DAZN PPV",ES: DAZN PPV 5 - PREDATORS @ PANTHERS | Fri 05 Dec 00:50 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1309631.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| ESPAÑA DAZN PPV",ES: DAZN PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| ESPAÑA DAZN PPV",ES: DAZN PPV 6 - AVALANCHE @ ISLANDERS | Fri 05 Dec 00:50 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1309630.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| ESPAÑA DAZN PPV",ES: DAZN PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| ESPAÑA DAZN PPV",ES: DAZN PPV 7 - MAPLE LEAFS @ HURRICANES | Fri 05 Dec 00:50 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1309629.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| ESPAÑA DAZN PPV",ES: DAZN PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1309628.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| ESPAÑA DAZN PPV",ES: DAZN PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1309627.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| ESPAÑA DAZN PPV",ES: DAZN PPV 10 - HUNGRÍA | CARRERA | Sun 21 Jul 12:00
@@ -18302,11 +18298,11 @@ http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/258151.m3u8
 # --- |EU| BE DAZN PPV (51) ---
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|EU| BE DAZN PPV",####### BE| DAZN PPV #######
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1291475.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|EU| BE DAZN PPV",BE: DAZN PPV 1 - RIYADH RACING SEASON RACE NIGHT #9 | Thu 04 Dec 11:40 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|EU| BE DAZN PPV",BE: DAZN PPV 1 - NORTH CAROLINA @ TEXAS | Thu 04 Dec 23:50 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1291474.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|EU| BE DAZN PPV",BE: DAZN PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|EU| BE DAZN PPV",BE: DAZN PPV 2 - TROUT VS. PALOMINO 2: WEIGH-IN | Thu 04 Dec 23:50 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1291473.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|EU| BE DAZN PPV",BE: DAZN PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|EU| BE DAZN PPV",BE: DAZN PPV 3 - SOUTH CAROLINA @ LOUISVILLE | Thu 04 Dec 23:50 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1291472.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|EU| BE DAZN PPV",BE: DAZN PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1291471.m3u8
@@ -24606,21 +24602,21 @@ http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/578518.m3u8
 # --- |EU| SWEDEN VIAPLAY PPV (51) ---
 #EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/viaplay.png" group-title="|EU| SWEDEN VIAPLAY PPV",##### VIAPLAY VIP EVENT #####
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1268976.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/viaplay.png" group-title="|EU| SWEDEN VIAPLAY PPV",SE: VIAPLAY PPV 1 - NHL NHL ON THE FLY | Thu 04 Dec 11:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/viaplay.png" group-title="|EU| SWEDEN VIAPLAY PPV",SE: VIAPLAY PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1268975.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/viaplay.png" group-title="|EU| SWEDEN VIAPLAY PPV",SE: VIAPLAY PPV 2 - VIAPLAY VINTER ISU FIGURE SKATING GRAND PRIX FINAL | Thu 04 Dec 07:20 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/viaplay.png" group-title="|EU| SWEDEN VIAPLAY PPV",SE: VIAPLAY PPV 2 - NHL CAROLINA - TORONTO | Fri 05 Dec 00:55 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1268974.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/viaplay.png" group-title="|EU| SWEDEN VIAPLAY PPV",SE: VIAPLAY PPV 3 - DP WORLD TOUR NEDBANK GOLF CHALLENGE | Thu 04 Dec 09:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/viaplay.png" group-title="|EU| SWEDEN VIAPLAY PPV",SE: VIAPLAY PPV 3 - NHL NY ISLANDERS - COLORADO | Fri 05 Dec 00:55 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1268973.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/viaplay.png" group-title="|EU| SWEDEN VIAPLAY PPV",SE: VIAPLAY PPV 4 - GODMORGON NHL GODMORGON NHL! | Thu 04 Dec 10:20 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/viaplay.png" group-title="|EU| SWEDEN VIAPLAY PPV",SE: VIAPLAY PPV 4 - NHL FLORIDA - NASHVILLE | Fri 05 Dec 00:55 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1268972.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/viaplay.png" group-title="|EU| SWEDEN VIAPLAY PPV",SE: VIAPLAY PPV 5 - HANDBOLLS-VM DAMER KROATIEN - IRAN | Thu 04 Dec 10:45 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/viaplay.png" group-title="|EU| SWEDEN VIAPLAY PPV",SE: VIAPLAY PPV 5 - NHL TAMPA BAY - PITTSBURGH | Fri 05 Dec 00:55 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1268971.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/viaplay.png" group-title="|EU| SWEDEN VIAPLAY PPV",SE: VIAPLAY PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/viaplay.png" group-title="|EU| SWEDEN VIAPLAY PPV",SE: VIAPLAY PPV 6 - NHL OTTAWA - NY RANGERS | Fri 05 Dec 00:55 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1268970.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/viaplay.png" group-title="|EU| SWEDEN VIAPLAY PPV",SE: VIAPLAY PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1268969.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/viaplay.png" group-title="|EU| SWEDEN VIAPLAY PPV",SE: VIAPLAY PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/viaplay.png" group-title="|EU| SWEDEN VIAPLAY PPV",SE: VIAPLAY PPV 8 - NHL BOSTON - ST. LOUIS | Fri 05 Dec 00:55 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1268968.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/viaplay.png" group-title="|EU| SWEDEN VIAPLAY PPV",SE: VIAPLAY PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1268967.m3u8
@@ -32906,41 +32902,41 @@ http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/983702.m3u8
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/983701.m3u8
 #EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 15: TNT
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/983700.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 16:
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 16: 12pm Villanova at Lehigh (FCS Second Round)
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/983699.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 17:
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 17: 12pm South Dakota at Mercer (FCS Second Round)
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/983698.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 18:
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 18: 12pm Frostburg State at Kutztown (DII Quarterfinals)
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/983697.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 19:
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 19: 12pm John Carroll at Mount Union (DIII Third Round)
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/983696.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 20:
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 20: 12pm Salisbury at Johns Hopkins (DIII Third Round)
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/983695.m3u8
 #EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 21: 3:30PM Pittsburgh at Notre Dame
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/983694.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 22:
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 22: 1pm Illinois State at North Dakota State (FCS Second Round)
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/983693.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 23:
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 23: 1pm North Dakota at Tarleton State (FCS Second Round)
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/983692.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 24:
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 24: 1pm Minnesota State at Ferris State (DII Quarterfinals)
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/983691.m3u8
 #EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 25: 3:30PM Purdue at Nebraska
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/983690.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 26:
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 26: 1pm Wheaton at DePauw (DIII Third Round)
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/983689.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 27:
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 27: 1pm St. John's (MN) at Wisconsin-River Falls (DIII Third Round)
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/983688.m3u8
 #EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 29: 3:30PM Southern Miss at Appalachian State
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/983687.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 30:
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 30: 1pm Berry at Trinity (TX) (DIII Third Round)
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/983686.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 31:
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 31: 2pm Abilene Christian at Stephen F. Austin (FCS Second Round)
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/983685.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 32:
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 32: 2pm Yale at Montana State (FCS Second Round)
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/983684.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 28:
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 28: 1pm Wisconsin-La Crosse at North Central (DIII Third Round)
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/983683.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 33:
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 33: 2pm South Dakota State at Montana (FCS Second Round)
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/983682.m3u8
 #EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 34: UAlbany at lowa 6pm
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/983681.m3u8
@@ -33120,33 +33116,33 @@ http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/952743.m3u8
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/952744.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/NFL-REDZONE.png" group-title="|NA| USA NFL",NFL - NFL REDZONE LQ
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/980240.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 01 -
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 01 - TNF 8:15PM Cowboys at Lions
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/660810.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 02 -
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 02 - 1PM Seahawks at Falcons
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/660809.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 03 -
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 03 - 1PM Bengals at Bills
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/660808.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 04 -
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 04 - 1PM Titans at Browns
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/660807.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 05 -
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 05 - 1PM Commanders at Vikings
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/660806.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 06 -
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 06 - 1PM Dolphins at Jets
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/660805.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 07 -
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 07 - 1PM Saints at Buccaneers
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/660804.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 08 -
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 08 - 1PM Colts at Jaguars
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/660803.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 09 -
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 09 - 1PM Steelers at Ravens
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/660802.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 10 -
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 10 - 4:05PM Broncos at Raiders
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/660801.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 11 -
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 11 - 4:25PM Bears at Packers
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/660800.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 12 -
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 12 - 4:25PM Rams at Cardinals
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/660799.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 13 -
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 13 - SNF 8:20PM Texans at Chiefs
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/660798.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 14 -
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 14 - MNF 8:15PM Eagles at Chargers
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/660797.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL LIVE| 15 - 8:20PM Falcons at Commanders
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/660796.m3u8
@@ -33229,7 +33225,7 @@ http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/660757.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NFL-TICKET-MIAMI-DOLPHINS.jpg" group-title="|NA| USA NFL",NFL FOX DOLPHINS MIAMI FL
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/660767.m3u8
 
-# --- |NA| USA NHL (47) ---
+# --- |NA| USA NHL (46) ---
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nhlnetwork.jpg" group-title="|NA| USA NHL",##### NHL LIVE EVENTS #####
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/660756.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nhlnetwork.jpg" group-title="|NA| USA NHL",NHL | 02 - 7pm Pittsburgh Penguins PIT	 @ Philadelphia Flyers PHI
@@ -33238,15 +33234,13 @@ http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/660754.m3u8
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/660753.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nhlnetwork.jpg" group-title="|NA| USA NHL",NHL | 05 - 10pm Utah Mammoth UTA	 @ San Jose Sharks SJ
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/660751.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nhlnetwork.jpg" group-title="|NA| USA NHL",NHL | 06 -
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nhlnetwork.jpg" group-title="|NA| USA NHL",NHL | 06 - 7pm Maple Leafs at Hurricanes
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/660750.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nhlnetwork.jpg" group-title="|NA| USA NHL",NHL | 07 -
-http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/660749.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nhlnetwork.jpg" group-title="|NA| USA NHL",NHL | 08 -
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nhlnetwork.jpg" group-title="|NA| USA NHL",NHL | 08 - 9pm Wild at Flames
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/660747.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nhlnetwork.jpg" group-title="|NA| USA NHL",NHL | 09 -
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nhlnetwork.jpg" group-title="|NA| USA NHL",NHL | 09 - 9pm Kraken at OIlers
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/801179.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nhlnetwork.jpg" group-title="|NA| USA NHL",NHL | 10 -
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nhlnetwork.jpg" group-title="|NA| USA NHL",NHL | 10 - 10pm Blackhawks at Kings
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/660746.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nhlnetwork.jpg" group-title="|NA| USA NHL",NHL | 11 -
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/660745.m3u8
@@ -34054,19 +34048,19 @@ http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/891385.m3u8
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/891386.m3u8
 
 # --- |NL| ESPN PPV (50) ---
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 1 - NHL ON THE FLY | Thu 04 Dec 11:59 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 1 - VOETBALPRAAT | Fri 05 Dec 00:20 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1317799.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 2 - VOETBALPRAAT | Thu 04 Dec 12:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 2 - NO EVENT STREAMING - 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1317798.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 3 - ESPN VANDAAG | Thu 04 Dec 12:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 3 - TORONTO RAPTORS - LOS ANGELES LAKERS | Fri 05 Dec 00:30 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1317797.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 4 - TEKENGELD | Thu 04 Dec 12:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 4 - NFL BLITZ 25-26 | Fri 05 Dec 00:30 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1317796.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 5 - NO EVENT STREAMING - 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1317795.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 6 - NO EVENT STREAMING - 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1317794.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 2 - VOETBALPRAAT | Thu 04 Dec 12:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 2 - NO EVENT STREAMING - 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1317793.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 8 - NO EVENT STREAMING - 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1317792.m3u8
@@ -34804,17 +34798,17 @@ http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/689761.m3u8
 # --- |PL| MAX PPV (101) ---
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="|PL| MAX PPV",####### MAX PPV #######
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1168966.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="|PL| MAX PPV",PL: MAX PPV 1 - NAGOJA | PROGRAM KRÓTKI PAR SPORTOWYCH | Thu 04 Dec 10:54 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="|PL| MAX PPV",PL: MAX PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1168965.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="|PL| MAX PPV",PL: MAX PPV 2 - NAGOJA | PROGRAM KRÓTKI MĘŻCZYZN | Thu 04 Dec 12:12 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="|PL| MAX PPV",PL: MAX PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1168964.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="|PL| MAX PPV",PL: MAX PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1168963.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="|PL| MAX PPV",PL: MAX PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1168962.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="|PL| MAX PPV",PL: MAX PPV 5 - MAGAZYN | Thu 04 Dec 09:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="|PL| MAX PPV",PL: MAX PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1168961.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="|PL| MAX PPV",PL: MAX PPV 6 - PRZEKAZANIE ZNICZA OLIMPIJSKIEGO | Thu 04 Dec 09:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="|PL| MAX PPV",PL: MAX PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1168960.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="|PL| MAX PPV",PL: MAX PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1168959.m3u8
@@ -37034,11 +37028,11 @@ http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/725885.m3u8
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/725886.m3u8
 
 # --- |UK| DAZN PPV (30) ---
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="|UK| DAZN PPV",UK: DAZN PPV 1 - RIYADH RACING SEASON RACE NIGHT 9 | Thu 04 Dec 12:40 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="|UK| DAZN PPV",UK: DAZN PPV 1 - NORTH CAROLINA @ TEXAS | Fri 05 Dec 00:50 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1277882.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="|UK| DAZN PPV",UK: DAZN PPV 2 - ZARATE VS. KNOCKOUT CPF | Thu 04 Dec 12:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="|UK| DAZN PPV",UK: DAZN PPV 2 - TROUT VS. PALOMINO 2: WEIGH-IN | Fri 05 Dec 00:50 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1277881.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="|UK| DAZN PPV",UK: DAZN PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="|UK| DAZN PPV",UK: DAZN PPV 3 - SOUTH CAROLINA @ LOUISVILLE | Fri 05 Dec 00:50 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1277880.m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="|UK| DAZN PPV",UK: DAZN PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1277879.m3u8
@@ -39883,4 +39877,4 @@ http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/828028.m3u8
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/piconsnew/setantasports.png" group-title="|UK| WORLD SPORTS",UK - SETANTA SPORTS 12
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/828027.m3u8
 
-# Total: 19598
+# Total: 19595

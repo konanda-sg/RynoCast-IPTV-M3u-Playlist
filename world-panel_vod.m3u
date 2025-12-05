@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: world-panel.co:8080
-# Generated: 2025-12-04 18:30:36
+# Generated: 2025-12-05 07:02:43
 # Expires: 2026-03-09
 # Family Safe Edition
 # ==============================================
@@ -1483,9 +1483,11 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/2034.mkv
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | NAPOLI",Tradimento
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/2046.mkv
 
-# --- Movies | NETFLIX AMAZON AZIONE (1420) ---
+# --- Movies | NETFLIX AMAZON AZIONE (1421) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",==== NETFLIX AZIONE ====
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/62556.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/c4121faf0de7adaceea635967f03ce48.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",The Kingdom (2007)
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/85851.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/c8e14847a7e837cde0677c79128cd095.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Troll 2 (2025)
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/85830.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/ed9dda5e1a26c15d72ebff03ca19f235.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Double Impact - La vendetta finale (1991)
@@ -19257,7 +19259,7 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/46163.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/abb4cfb2e854c34820508bc95e63bd8e.jpg" group-title="Movies | NETFLIX AMAZON-Serie-Tv",The Protector 04x07
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/46164.mkv
 
-# --- Movies | NETFLIX-AMAZON-SERIE (632) ---
+# --- Movies | NETFLIX-AMAZON-SERIE (633) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",Celebrity Hunted: Caccia all'uomo
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/4.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",ZeroZeroZero
@@ -20522,6 +20524,8 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1556.mp4
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1558.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",Sandokan
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1568.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",The Abandons
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1571.mp4
 
 # --- Movies | PRIMAFILA (9) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/2624638709dfb2624cdb24718c200256.jpg" group-title="Movies | PRIMAFILA",PRIMAFILA 1HD Una battaglia dopo l altra (2025)
@@ -32293,4 +32297,4 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/50888.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/96e97ef7e316fab54d133aa6fcdf30a2.jpg" group-title="Movies | SerieTV",Turner and Hooch 01x12 La Resa Dei Conti
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/50889.mkv
 
-# Total: 16115
+# Total: 16117
