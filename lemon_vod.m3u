@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: lemon.catchmeifyo.com:8000
-# Generated: 2025-12-06 18:26:31
+# Generated: 2025-12-07 07:15:23
 # Expires: 2026-04-05
 # Family Safe Edition
 # ==============================================
@@ -2103,7 +2103,7 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/187066.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hNEokmUke0dazoBhttFN0o3L7Xv.jpg" group-title="Movies | Actie / Action",X-Men: First Class (2011)
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/190855.mkv
 
-# --- Movies | Amazon Prime (246) ---
+# --- Movies | Amazon Prime (247) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Amazon Prime",APB
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/61.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Amazon Prime",Condor
@@ -2596,6 +2596,8 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3545.mp4
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3552.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Amazon Prime",The Mighty Nein
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3559.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Amazon Prime",Helluva Boss
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3568.mp4
 
 # --- Movies | Animatie / Animation (189) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygmrU2F2JwUtjpn6EBOrRq0pKCD.jpg" group-title="Movies | Animatie / Animation",Music Land
@@ -12689,7 +12691,7 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3464.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NPO Start",Bij ons op de Wallen
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3558.mp4
 
-# --- Movies | Netflix (793) ---
+# --- Movies | Netflix (794) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Netflix",Keizersvrouwen
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/1.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Netflix",De Twaalf
@@ -14276,6 +14278,8 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3551.mp4
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3556.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Netflix",Interview with the Vampire
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3564.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Netflix",Sean Combs: The Reckoning
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3567.mp4
 
 # --- Movies | Nieuwe Releases 2022 (613) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xuclYqDtK69WIJUBgbIkHOpMvGi.jpg" group-title="Movies | Nieuwe Releases 2022",American Siege (2022)
@@ -17919,7 +17923,7 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/189678.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yutiEZ7taGDNau2jGjKIdDwQpDw.jpg" group-title="Movies | Nieuwe Releases 2024",Thelma De Eenhoorn (2024) NL Gesproken
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/190125.mkv
 
-# --- Movies | Nieuwe Releases 2025 (376) ---
+# --- Movies | Nieuwe Releases 2025 (377) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHcG8FPk9yILRVPnHEcrwtrkAAN.jpg" group-title="Movies | Nieuwe Releases 2025",2025-01-05 22:25 - NFL Gamepass 16: Dolphins @ Jets
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/119331.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ldEVs1GQiYLGXZEwa93tb5t3gsD.jpg" group-title="Movies | Nieuwe Releases 2025",2025-01-05 22:25 - NFL Gamepass 17: Chiefs @ Broncos
@@ -18672,6 +18676,8 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/190839.mkv
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/190840.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6rGsqBxI4r1YkS9FuraovWi465w.jpg" group-title="Movies | Nieuwe Releases 2025",Z-O-M-B-I-E-S 4: Dawn of the Vampires (2025) (NL en ENG)
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/190856.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tpOAzBasKPsKwsUtPZOx1Mzuqq3.jpg" group-title="Movies | Nieuwe Releases 2025",My Secret Santa (2025)
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/190921.mkv
 
 # --- Movies | Oorlog / War (59) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LlqyjAik3Kh68QQ9AchSJEF0Z5.jpg" group-title="Movies | Oorlog / War",Jarhead: Law of Return
@@ -21037,7 +21043,7 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/77701.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/by6iZd4FxSTLCtnyCjyKYao57Ar.jpg" group-title="Movies | WWE PPV's",WWE WrestleMania Backlash (2021)
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/77702.mkv
 
-# --- Series | INTERNATIONALE SERIES (403) ---
+# --- Series | INTERNATIONALE SERIES (404) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | INTERNATIONALE SERIES",Tytgat Chocolat
 http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/17
 #EXTINF:-1 tvg-logo="" group-title="Series | INTERNATIONALE SERIES",Eigen Kweek
@@ -21844,6 +21850,8 @@ http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/3553
 http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/3554
 #EXTINF:-1 tvg-logo="" group-title="Series | INTERNATIONALE SERIES",Heated Rivalry
 http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/3565
+#EXTINF:-1 tvg-logo="" group-title="Series | INTERNATIONALE SERIES",Spartacus: House of Ashur
+http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/3569
 
 # --- Series | NL GESPROKEN KINDERSERIES (21) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | NL GESPROKEN KINDERSERIES",Pieter Konijn
@@ -22019,4 +22027,4 @@ http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/2750
 #EXTINF:-1 tvg-logo="" group-title="Series | NL GESPROKEN SERIES",The Hunt (Een van Ons)
 http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/2751
 
-# Total: 10954
+# Total: 10958

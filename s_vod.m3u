@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: s.rocketdns.info:8080
-# Generated: 2025-12-06 18:24:26
+# Generated: 2025-12-07 07:11:56
 # Expires: Unlimited
 # Family Safe Edition
 # ==============================================
@@ -25,7 +25,7 @@ http://s.rocketdns.info:8080/movie/XtremeTV/5ALMBnQVzb/693547.mkv
 
 # --- Movies | Drama (1) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg" group-title="Movies | Drama",Wicked (2024)
-http://s.rocketdns.info:8080/movie/XtremeTV/5ALMBnQVzb/702305.mkv
+http://s.rocketdns.info:8080/movie/XtremeTV/5ALMBnQVzb/702305.mp4
 
 # --- Movies | Music (1) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a90ZFeMSnFWtBS0dXeRxw8cEvSn.jpg" group-title="Movies | Music",Blessed and Cursed (2010)

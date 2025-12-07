@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: kaliteiptv.live:8080
-# Generated: 2025-12-06 18:30:54
+# Generated: 2025-12-07 07:09:36
 # Expires: 2026-04-09
 # Family Safe Edition
 # ==============================================
@@ -195,7 +195,7 @@ http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/858110.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/xena_warrior_princess_de._SL170_FMpng_.png" group-title="DE | AMAZONTV",DE | AMAZON XENA
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/858109.m3u8
 
-# --- DE | CATCHUP (37) ---
+# --- DE | CATCHUP (39) ---
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/daserste.png" group-title="DE | CATCHUP",DE | DAS ERSTE HD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1142032.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/zdf.png" group-title="DE | CATCHUP",DE | ZDF HD
@@ -250,6 +250,10 @@ http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1144165.m3u8
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1144164.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/NEWS-DOKU/tlc.png" group-title="DE | CATCHUP",DE | TLC FHD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1144163.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/SKY.SPORTS/skysportf1.png" group-title="DE | CATCHUP",DE | SKY SPORT F1 HD
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1183804.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/SKY.SPORTS/skysport1.png" group-title="DE | CATCHUP",DE | SKY SPORT 1 HD
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1183803.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/SKY.BUNDESLIGA/skybundesliga.1.png" group-title="DE | CATCHUP",DE | SKY BUNDESLIGA 1 HD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1144211.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/SKY.BUNDESLIGA/skybundesliga.2.png" group-title="DE | CATCHUP",DE | SKY BUNDESLIGA 2 HD
@@ -2503,7 +2507,9 @@ http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/727179.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/SKY.CINEMA/skyselect.png" group-title="DE | SKY CINEMA",SKY SELECT 8 FHD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/727180.m3u8
 
-# --- DE | SKY SPORTS (22) ---
+# --- DE | SKY SPORTS (23) ---
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/SKY.SPORTS/skysportf1.png" group-title="DE | SKY SPORTS",SKY SPORT F1 FHD
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1183807.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/SKY.SPORTS/skysportf1.png" group-title="DE | SKY SPORTS",SKY SPORT F1 HD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/727137.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/SKY.SPORTS/skysportnews.png" group-title="DE | SKY SPORTS",SKY SPORT NEWS FHD
@@ -4373,7 +4379,9 @@ http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/778957.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/haberlogo/trtarabi.png" group-title="TR | HABER",TR | TRT ARABİ
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/778958.m3u8
 
-# --- TR | LYNX DİZİLER 7/24 (49) ---
+# --- TR | LYNX DİZİLER 7/24 (50) ---
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/esrefruya.png" group-title="TR | LYNX DİZİLER 7/24",7/24 | PARADE EŞREF RÜYA
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1183806.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/nemlizade.png" group-title="TR | LYNX DİZİLER 7/24",7/24 | PARADE NEMLIZADE
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1180954.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/asmalikonak.png" group-title="TR | LYNX DİZİLER 7/24",7/24 | PARADE ASMALI KONAK
@@ -6001,4 +6009,4 @@ http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/855313.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WO | WORLDSPORT",US | NBA 10
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/855314.m3u8
 
-# Total: 2937
+# Total: 2941

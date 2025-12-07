@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: sinotvpro.com
-# Generated: 2025-12-06 18:30:55
+# Generated: 2025-12-07 07:09:03
 # Expires: 2026-01-06
 # Family Safe Edition
 # ==============================================
@@ -2505,7 +2505,9 @@ http://sinotvpro.com/live/cgqkT21f0RRq/n45J7DeGWDgZ/29637.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabic - Bein Media",AR: Bein Outdoor HD
 http://sinotvpro.com/live/cgqkT21f0RRq/n45J7DeGWDgZ/10815.m3u8
 
-# --- Arabic - Bein Sports (195) ---
+# --- Arabic - Bein Sports (196) ---
+#EXTINF:-1 tvg-logo="[""]" group-title="Arabic - Bein Sports",AR: Bein Sport FHD
+http://sinotvpro.com/live/cgqkT21f0RRq/n45J7DeGWDgZ/241560.m3u8
 #EXTINF:-1 tvg-logo="[""]" group-title="Arabic - Bein Sports",AR: Bein Sport HD
 http://sinotvpro.com/live/cgqkT21f0RRq/n45J7DeGWDgZ/2744.m3u8
 #EXTINF:-1 tvg-logo="[" group-title="Arabic - Bein Sports",AR: Bein Sport News HD
@@ -10115,4 +10117,4 @@ http://sinotvpro.com/live/cgqkT21f0RRq/n45J7DeGWDgZ/1207.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",==== Arabic Free ====
 http://sinotvpro.com/live/cgqkT21f0RRq/n45J7DeGWDgZ/5007.m3u8
 
-# Total: 4964
+# Total: 4965

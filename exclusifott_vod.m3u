@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: exclusifott.pro:80
-# Generated: 2025-12-06 18:35:13
+# Generated: 2025-12-07 07:09:41
 # Expires: 2026-05-21
 # Family Safe Edition
 # ==============================================
@@ -6361,7 +6361,9 @@ http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1069543.mkv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/e3/2022_FIFA_World_Cup.svg/1713px-2022_FIFA_World_Cup.svg.png" group-title="Movies | WORLDCUP 2022",WC - Uruguay Vs Coree Du Sud - 24-11-22
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1061890.mkv
 
-# --- Movies | |EN| 4K MOVIES (2) ---
+# --- Movies | |EN| 4K MOVIES (3) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Av1CK61z33v2OBFLD1yF5rdRxQ1.jpg" group-title="Movies | |EN| 4K MOVIES",4K - Sarah's Oil (2025)
+http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1981740.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pa97Vu2Vy5oJWWxtxFZIXaQsSEU.jpg" group-title="Movies | |EN| 4K MOVIES",EN - Bull Run 4K (2025)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1980386.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i3omY4P6QUzFQlEeclWY92RuXCH.jpg" group-title="Movies | |EN| 4K MOVIES",EN - Shelby Oaks 4K (2025)
@@ -17989,4 +17991,4 @@ http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35745
 #EXTINF:-1 tvg-logo="" group-title="Series | |RO| ROMANIAN SERIES",RO - Resident Evil: Infinite Darkness (2021)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35746
 
-# Total: 8948
+# Total: 8949

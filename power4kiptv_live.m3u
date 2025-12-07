@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: power4kiptv.info:8080
-# Generated: 2025-12-06 18:32:01
+# Generated: 2025-12-07 07:20:42
 # Expires: 2026-01-21
 # Family Safe Edition
 # ==============================================
@@ -3707,9 +3707,11 @@ http://power4kiptv.info:8080/live/ernstalex/17012022/233027.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rRu3Iwp.png" group-title="DE | SPECIAL BOX STORE FILME",MULTI 24/7 NETFLIX ROMANTIK
 http://power4kiptv.info:8080/live/ernstalex/17012022/233028.m3u8
 
-# --- DE | SPORT (94) ---
+# --- DE | SPORT (95) ---
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/de.png" group-title="DE | SPORT",★☆★ SPORT ★☆★
 http://power4kiptv.info:8080/live/ernstalex/17012022/95859.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/united-states/mls-logo-us.png" group-title="DE | SPORT",MLS: Inter Miami vs Vancouver Whitecaps | Sat 6th Dec 2:30PM ET
+http://power4kiptv.info:8080/live/ernstalex/17012022/865852.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PMMnswc.png" group-title="DE | SPORT",PRIME VIDEO SPORTSBAR 1
 http://power4kiptv.info:8080/live/ernstalex/17012022/208819.m3u8
 #EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/sportdigital_fb.png" group-title="DE | SPORT",SPORTDIGITAL FUSSBALL FHD
@@ -4807,4 +4809,4 @@ http://power4kiptv.info:8080/live/ernstalex/17012022/601228.m3u8
 #EXTINF:-1 tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg" group-title="VIP | SPORT VIAPLAY",VIAPLAY XTRA 53
 http://power4kiptv.info:8080/live/ernstalex/17012022/601227.m3u8
 
-# Total: 2352
+# Total: 2353

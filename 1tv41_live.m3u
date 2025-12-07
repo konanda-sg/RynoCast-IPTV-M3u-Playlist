@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 1tv41.icu:8080
-# Generated: 2025-12-06 18:34:51
+# Generated: 2025-12-07 07:11:37
 # Expires: 2026-05-07
 # Family Safe Edition
 # ==============================================
@@ -3387,129 +3387,321 @@ http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/17779.m3u8
 #EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US Starz West (S)
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/21091.m3u8
 
-# --- NBA (27) ---
+# --- NBA (21) ---
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",CA-NBA TV
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/22995.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",USA: NBA TV
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/20073.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 01: Miami Heat @ Orlando Magic | Home Stream | 12/05/2025 7:00 PM ET
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256704.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 01: Los Angeles Lakers vs Boston Celtics @ 07:00 PM EST
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256705.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 02: Miami Heat @ Orlando Magic | Away Stream | 12/05/2025 7:00 PM ET
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256706.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 02: Miami Heat vs Orlando Magic @ 07:00 PM EST
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256707.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 03: Los Angeles Lakers @ Boston Celtics | Home Stream | 12/05/2025 7:00 PM ET
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256708.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 03: Denver Nuggets vs Atlanta Hawks @ 07:30 PM EST
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256709.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 04: Los Angeles Lakers @ Boston Celtics | Away Stream | 12/05/2025 7:00 PM ET
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256710.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 04: San Antonio Spurs vs Cleveland Cavaliers @ 07:30 PM EST
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256711.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 05: Portland Trail Blazers @ Detroit Pistons | Home Stream | 12/05/2025 7:30 PM ET
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256712.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 05: Portland Trail Blazers vs Detroit Pistons @ 07:30 PM EST
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256713.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 06: Denver Nuggets @ Atlanta Hawks | Away Stream | 12/05/2025 7:30 PM ET
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256714.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 06: Utah Jazz vs New York Knicks @ 07:30 PM EST
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256715.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 07: Denver Nuggets @ Atlanta Hawks | Home Stream | 12/05/2025 7:30 PM ET
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256716.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 07: Charlotte Hornets vs Toronto Raptors @ 07:30 PM EST
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256717.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 08: San Antonio Spurs @ Cleveland Cavaliers | Away Stream | 12/05/2025 7:30 PM ET
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256718.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 08: Indiana Pacers vs Chicago Bulls @ 08:00 PM EST
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256719.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 09: San Antonio Spurs @ Cleveland Cavaliers | Home Stream | 12/05/2025 7:30 PM ET
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256720.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 09: Phoenix Suns vs Houston Rockets @ 08:00 PM EST
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256721.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 10: Portland Trail Blazers @ Detroit Pistons | Away Stream | 12/05/2025 7:30 PM ET
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256722.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 10: LA Clippers vs Memphis Grizzlies @ 08:00 PM EST
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256723.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 11: Utah Jazz @ New York Knicks | Away Stream | 12/05/2025 7:30 PM ET
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256724.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 11: Philadelphia 76ers vs Milwaukee Bucks @ 08:00 PM EST
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256725.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 12: Utah Jazz @ New York Knicks | Home Stream | 12/05/2025 7:30 PM ET
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256726.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 12: Dallas Mavericks vs Oklahoma City Thunder @ 09:30 PM EST
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256727.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 13: Charlotte Hornets @ Toronto Raptors | Away Stream | 12/05/2025 7:30 PM ET
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256728.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 01: New Orleans Pelicans @ Brooklyn Nets | Home Stream | 12/06/2025 5:00 PM ET
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256932.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 01: GSW Warriors VS CLE Cavaliers ( NBA TV Feed ) @ 7:30 PM
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256933.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 02: New Orleans Pelicans @ Brooklyn Nets | Away Stream | 12/06/2025 5:00 PM ET
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256934.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 02: New Orleans Pelicans vs Brooklyn Nets @ 05:00 PM EST
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256935.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 03: Atlanta Hawks @ Washington Wizards | Away Stream | 12/06/2025 7:00 PM ET
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256936.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 03: Atlanta Hawks vs Washington Wizards @ 07:00 PM EST
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256937.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 04: Atlanta Hawks @ Washington Wizards | Home Stream | 12/06/2025 7:00 PM ET
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256938.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 04: Milwaukee Bucks vs Detroit Pistons @ 07:30 PM EST
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256939.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 05: Milwaukee Bucks @ Detroit Pistons | Home Stream | 12/06/2025 7:30 PM ET
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256940.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 05: Sacramento Kings vs Miami Heat @ 08:00 PM EST
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256941.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 06: Milwaukee Bucks @ Detroit Pistons | Away Stream | 12/06/2025 7:30 PM ET
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256942.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 06: LA Clippers vs Minnesota Timberwolves @ 08:00 PM EST
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256943.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 07: Golden State Warriors @ Cleveland Cavaliers | Home Stream | 12/06/2025 7:30 PM ET
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256944.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 07: Houston Rockets vs Dallas Mavericks @ 08:30 PM EST
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256945.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 08: Golden State Warriors @ Cleveland Cavaliers | Away Stream | 12/06/2025 7:30 PM ET
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256946.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 09: Sacramento Kings @ Miami Heat | Home Stream | 12/06/2025 8:00 PM ET
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256947.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 10: Sacramento Kings @ Miami Heat | Away Stream | 12/06/2025 8:00 PM ET
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256948.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 11: Houston Rockets @ Dallas Mavericks | Home Stream | 12/06/2025 8:30 PM ET
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256949.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 12: Houston Rockets @ Dallas Mavericks | Away Stream | 12/06/2025 8:30 PM ET
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256950.m3u8
 
-# --- NCAAB (33) ---
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 001 | HOUSTON CHRISTIAN @ SOUTH FLORIDA (W) | 12.5 11:00 AM | ESPN+
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256748.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 002 | MERRIMACK @ NEW HAMPSHIRE (W) | 12.5 11:00 AM | ESPN+
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256749.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 003 | STONY BROOK @ HARVARD (W) | 12.5 11:00 AM | ESPN+
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256750.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 004 | FAIRFIELD @ HOWARD (W) | 12.5 12:00 PM | ESPN+
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256751.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 005 | DEFIANCE @ EASTERN MICHIGAN (W) | 12.5 5:00 PM | ESPN+
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256752.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 006 | BUCKNELL @ VERMONT (W) | 12.5 6:00 PM | ESPN+
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256753.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 007 | CENTRAL CONNECTICUT @ DARTMOUTH (W) | 12.5 6:00 PM | ESPN+
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256754.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 008 | DELAWARE @ COLGATE (W) | 12.5 6:00 PM | ESPN+
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256755.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 009 | 11 GONZAGA @ 18 KENTUCKY (M) | 12.5 7:00 PM | ESPN2
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256756.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 010 | BRYANT @ BROWN (M) | 12.5 7:00 PM | ESPN+
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256757.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 011 | CANISIUS @ SAINT PETERS (M) | 12.5 7:00 PM | ESPN+
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256758.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 012 | FAIRFIELD @ MANHATTAN (M) | 12.5 7:00 PM | ESPN+
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256759.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 013 | GEORGIA STATE @ FLORIDA INTERNATIONAL (W) | 12.5 7:00 PM | ESPN+
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256760.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 014 | MARYLAND EASTERN SHORE @ WICHITA STATE (W) | 12.5 7:00 PM | ESPN+
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256761.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 015 | MERCYHURST @ 25 WEST VIRGINIA (W) | 12.5 7:00 PM | ESPN+
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256762.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 016 | MERCYHURST @ LAFAYETTE (M) | 12.5 7:00 PM | ESPN+
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256763.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 017 | MOUNT ST. MARYS @ MARIST (M) | 12.5 7:00 PM | ESPN+
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256764.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 018 | NIAGARA @ SIENA (M) | 12.5 7:00 PM | ESPN+
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256765.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 019 | NJIT @ HIGH POINT (M) | 12.5 7:00 PM | ESPN+
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256766.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 020 | QUINNIPIAC @ IONA (M) | 12.5 7:00 PM | ESPN+
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256767.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 021 | SAMFORD @ VCU (M) | 12.5 7:00 PM | ESPN+
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256768.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 022 | SOUTH ALABAMA @ EAST TENNESSEE STATE (M) | 12.5 7:00 PM | ESPN+
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256769.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 023 | UIC @ OHIO (W) | 12.5 7:00 PM | ESPN+
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256770.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 024 | YOUNGSTOWN STATE @ MILWAUKEE (W) | 12.5 7:00 PM | ESPN+
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256771.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 025 | CHRISTENDOM @ VMI (M) | 12.5 7:30 PM | ESPN+
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256772.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 026 | CINCINNATI @ XAVIER (M) | 12.5 7:30 PM | TNT
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256773.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 027 | CLEARY UNIVERSITY @ EASTERN MICHIGAN (M) | 12.5 7:30 PM | ESPN+
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256774.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 028 | EAST TEXAS A&M @ 5 UCONN (M) | 12.5 7:30 PM | PEACOCK NBCSN
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256775.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 029 | NORTHWESTERN STATE @ MCNEESE (M) | 12.5 7:30 PM | ESPN+
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256776.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 030 | UAB @ DRAKE (M) | 12.5 7:30 PM | ESPN+
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256777.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 031 | NOTRE DAME @ TCU (M) | 12.5 8:00 PM | ESPN+
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256778.m3u8
+# --- NCAAB (135) ---
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 001 | 10 IOWA STATE @ 1 PURDUE (M) | 12.6 12:00 PM | CBS
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256797.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 002 | 4 DUKE @ 7 MICHIGAN STATE (M) | 12.6 12:00 PM | FOX
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256798.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 003 | CLEVELAND STATE @ OAKLAND (W) | 12.6 12:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256799.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 004 | DAYTON @ VIRGINIA (M) | 12.6 12:00 PM | ESPN2
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256800.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 005 | INDIANA @ ILLINOIS (W) | 12.6 12:00 PM | BTN
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256801.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 006 | MASSACHUSETTS @ ARMY (W) | 12.6 12:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256802.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 007 | MONMOUTH @ GEORGIA TECH (M) | 12.6 12:00 PM | ACC EXTRA
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256803.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 008 | NEW HAVEN @ BOSTON COLLEGE (M) | 12.6 12:00 PM | ACC EXTRA
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256804.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 009 | RHODE ISLAND @ PROVIDENCE (M) | 12.6 12:00 PM | TRUTV
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256805.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 010 | SOUTHERN MISS @ MIAMI (M) | 12.6 12:00 PM | ACC NETWORK
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256806.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 011 | THOMAS (GA) @ KENNESAW STATE (W) | 12.6 12:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256807.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 012 | UMBC @ BUCKNELL (M) | 12.6 12:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256808.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 013 | OLD DOMINION @ RICHMOND (M) | 12.6 12:30 PM | USA NET
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256809.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 014 | BROWN @ GEORGE WASHINGTON (W) | 12.6 1:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256810.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 015 | CHARLESTON SOUTHERN @ WOFFORD (W) | 12.6 1:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256811.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 016 | KENT STATE @ MARSHALL (W) | 12.6 1:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256812.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 017 | MAINE @ MIAMI (OH) (M) | 12.6 1:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256813.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 018 | NEBRASKA @ PENN STATE (W) | 12.6 1:00 PM | B1G+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256814.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 019 | QUINNIPIAC @ CORNELL (W) | 12.6 1:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256815.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 020 | UNC ASHEVILLE @ NC STATE (M) | 12.6 1:00 PM | THE CW NETWORK
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256816.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 021 | UTAH VALLEY @ BOWLING GREEN (M) | 12.6 1:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256817.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 022 | BOISE STATE @ BUTLER (M) | 12.6 2:00 PM | TNT
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256818.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 023 | BUFFALO @ BINGHAMTON (W) | 12.6 2:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256819.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 024 | COASTAL CAROLINA @ JACKSONVILLE (W) | 12.6 2:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256820.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 025 | COASTAL CAROLINA @ WINTHROP (M) | 12.6 2:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256821.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 026 | COPPIN STATE @ LIBERTY (M) | 12.6 2:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256822.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 027 | DELAWARE @ DELAWARE STATE (M) | 12.6 2:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256823.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 028 | DETROIT MERCY @ CLEVELAND STATE (M) | 12.6 2:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256824.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 029 | GEORGIA SOUTHERN @ GARDNER-WEBB (M) | 12.6 2:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256825.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 030 | HANNIBAL-LAGRANGE @ WESTERN ILLINOIS (M) | 12.6 2:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256826.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 031 | HARVARD @ FURMAN (M) | 12.6 2:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256827.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 032 | NORTHWESTERN @ 17 ILLINOIS (M) | 1/26 3:00 PM | BTN
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256779.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 033 | UTAH STATE @ LOYOLA MARYMOUNT (W) | 12.5 9:00 PM | ESPN+
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256780.m3u8
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256828.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 033 | JACKSONVILLE @ FLORIDA INTERNATIONAL (M) | 12.6 2:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256829.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 034 | VALPARAISO @ UIC (W) | 1/26 3:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256830.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 035 | WICHITA STATE @ TULSA (M) | 1/26 3:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256831.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 036 | WISCONSIN @ 23 MINNESOTA (W) | 1/26 3:00 PM | B1G+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256832.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 037 | NORFOLK STATE @ JAMES MADISON (M) | 12.6 2:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256833.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 038 | NORTH DAKOTA STATE @ WEBER STATE (W) | 12.6 2:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256834.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 039 | NORTH FLORIDA @ UNC ASHEVILLE (W) | 12.6 2:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256835.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 040 | NORTHERN IOWA @ TOLEDO (W) | 12.6 2:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256836.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 041 | NORTHERN KENTUCKY @ PURDUE FORT WAYNE (M) | 12.6 2:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256837.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 042 | OHIO STATE @ NORTHWESTERN (M) | 12.6 2:00 PM | BTN
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256838.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 043 | BRYANT @ BINGHAMTON (W) | 1/25 2:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256839.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 044 | SACRED HEART @ COPPIN STATE (W) | 12.6 2:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256840.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 045 | ST. BONAVENTURE @ BUFFALO (M) | 12.6 2:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256841.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 046 | ST. JOHN FISHER @ COLGATE (M) | 12.6 2:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256842.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 047 | STETSON @ SOUTH CAROLINA (M) | 12.6 2:00 PM | SECN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256843.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 048 | STONY BROOK @ DUQUESNE (M) | 12.6 2:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256844.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 049 | TENNESSEE TECH @ WEST GEORGIA (M) | 12.6 2:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256845.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 050 | BRADLEY VS. MISSOURI STATE | 02/29-07:30PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256846.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 051 | UTEP @ 8 TCU (W) | 12.6 2:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256847.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 052 | WAGNER @ COLUMBIA (W) | 12.6 2:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256848.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 053 | WESTERN CAROLINA @ SOUTH CAROLINA UPSTATE (M) | 12.6 2:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256849.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 054 | WESTERN MICHIGAN @ SIU EDWARDSVILLE (M) | 12.6 2:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256850.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 055 | YALE @ RIDER (W) | 12.6 2:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256851.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 056 | YOUNGSTOWN STATE @ IU INDIANAPOLIS (M) | 12.6 2:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256852.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 057 | 6 LOUISVILLE @ 22 INDIANA (M) | 12.6 2:15 PM | CBS
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256853.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 057 | 6 LOUISVILLE @ 22 INDIANA (M) | 12.6 2:15 PM | CBS
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256854.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 059 | BELLARMINE @ MURRAY STATE (M) | 12.6 3:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256855.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 060 | CALUMET @ VALPARAISO (M) | 12.6 3:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256856.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 061 | GEORGE MASON @ VIRGINIA TECH (M) | 12.6 3:00 PM | ACC EXTRA
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256857.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 062 | GEORGIA STATE @ KENNESAW STATE (M) | 12.6 3:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256858.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 063 | MISSISSIPPI VALLEY STATE @ 24 OKLAHOMA STATE (W) | 12.6 3:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256859.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 064 | MISSOURI STATE @ TULSA (M) | 12.6 3:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256860.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 065 | MURRAY STATE @ AUSTIN PEAY (W) | 12.6 3:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256861.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 066 | SOUTHEAST MISSOURI STATE @ SOUTHERN ILLINOIS (W) | 12.6 3:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256862.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 067 | TEXAS SOUTHERN @ NORTH TEXAS (W) | 12.6 3:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256863.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 068 | TOLEDO @ OAKLAND (M) | 12.6 3:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256864.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 069 | UNLV @ RICE (W) | 12.6 3:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256865.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 070 | UT MARTIN @ ARKANSAS STATE (W) | 12.6 3:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256866.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 071 | ABILENE CHRISTIAN @ EAST TEXAS A&M (W) | 12.6 3:30 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256867.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 072 | MERCER @ JACKSONVILLE STATE (W) | 12.6 3:30 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256868.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 073 | AIR FORCE @ UTAH VALLEY (W) | 12.6 4:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256869.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 074 | AKRON @ TULANE (M) | 12.6 4:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256870.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 075 | ELON @ WOFFORD (M) | 12.6 4:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256871.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 076 | EVANSVILLE @ WESTERN KENTUCKY (M) | 12.6 4:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256872.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 077 | FRESNO STATE @ 25 ARKANSAS (M) | 12.6 4:00 PM | SECN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256873.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 078 | HAWAII @ CAL STATE FULLERTON (W) | 12.6 4:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256874.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 079 | INCARNATE WORD @ NICHOLLS (M) | 12.6 4:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256875.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 080 | INDIANA UNIVERSITY EAST @ EASTERN KENTUCKY (M) | 12.6 4:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256876.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 081 | LE MOYNE @ BINGHAMTON (M) | 12.6 4:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256877.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 082 | LONG BEACH STATE @ UC SAN DIEGO (W) | 12.6 4:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256878.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 083 | LONGWOOD @ MORGAN STATE (M) | 12.6 4:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256879.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 084 | MARSHALL @ OHIO (M) | 12.6 4:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256880.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 085 | MARYLAND @ IOWA (M) | 12.6 4:00 PM | FS1
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256881.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 086 | NEW MEXICO STATE @ ABILENE CHRISTIAN (M) | 12.6 4:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256882.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 087 | NEW MEXICO STATE @ UTAH TECH (W) | 12.6 4:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256883.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 088 | NORTH CAROLINA A&T @ NORTH CAROLINA CENTRAL (M) | 12.6 4:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256884.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 089 | RUTGERS @ 3 MICHIGAN (M) | 12.6 4:00 PM | BTN
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256885.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 090 | SETON HALL @ KANSAS STATE (M) | 12.6 4:00 PM | ESPNU
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256886.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 091 | SIMPSON UNIVERSITY (CA) @ SANTA CLARA (W) | 12.6 4:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256887.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 092 | SOUTH DAKOTA STATE @ NORTHERN ARIZONA (W) | 12.6 4:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256888.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 093 | SOUTHERN INDIANA @ EAST TENNESSEE STATE (W) | 12.6 4:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256889.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 094 | UMASS LOWELL @ MASSACHUSETTS (M) | 12.6 4:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256890.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 095 | UNC GREENSBORO @ EAST CAROLINA (M) | 12.6 4:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256891.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 096 | UNC WILMINGTON @ LOUISIANA (M) | 12.6 4:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256892.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 097 | BAYLOR @ MEMPHIS (M) | 12.6 4:30 PM | CBS
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256893.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 098 | LAGRANGE @ TROY (M) | 12.6 4:30 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256894.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 099 | SAN FRANCISCO @ ARIZONA STATE (W) | 12.6 4:30 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256895.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 100 | SOUTHEAST MISSOURI STATE @ CHATTANOOGA (M) | 12.6 4:30 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256896.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 101 | UNC GREENSBORO @ SOUTH CAROLINA UPSTATE (W) | 12.6 4:30 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256897.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 102 | COLORADO @ COLORADO STATE (M) | 12.6 5:00 PM | CBSSN
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256898.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 103 | ELMS COLLEGE @ BROWN (M) | 12.6 5:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256899.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 104 | KANSAS CITY @ EASTERN WASHINGTON (M) | 12.6 5:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256900.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 105 | LONG ISLAND UNIVERSITY @ LEHIGH (M) | 12.6 5:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256901.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 106 | OMAHA @ PORTLAND STATE (M) | 12.6 5:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256902.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 107 | PACIFIC @ CALIFORNIA (M) | 12.6 5:00 PM | ACC EXTRA
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256903.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 108 | SOUTHERN UTAH @ OREGON STATE (M) | 12.6 5:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256904.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 109 | UC IRVINE @ CAL STATE NORTHRIDGE (W) | 12.6 5:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256905.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 110 | UC SANTA BARBARA @ CAL STATE BAKERSFIELD (W) | 12.6 5:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256906.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 111 | VERMONT @ PEPPERDINE (M) | 12.6 5:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256907.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 112 | UALBANY @ COLUMBIA (M) | 12.6 5:30 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256908.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 113 | 12 IOWA @ RUTGERS (W) | 12.6 6:00 PM | FS1
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256909.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 114 | BOWIE STATE @ HOWARD (M) | 12.6 6:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256910.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 115 | DENVER @ IDAHO STATE (M) | 12.6 6:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256911.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 116 | HOUSTON CHRISTIAN @ NEW ORLEANS (M) | 12.6 6:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256912.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 117 | OREGON @ UCLA (M) | 12.6 6:00 PM | PEACOCK
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256913.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 118 | WAKE FOREST @ WEST VIRGINIA (M) | 12.6 6:00 PM | ESPN2
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256914.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 119 | WASHINGTON @ 24 USC (M) | 12.6 6:00 PM | BTN
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256915.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 120 | WILLIAM & MARY @ GEORGE WASHINGTON (M) | 12.6 6:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256916.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 121 | BOSTON UNIVERSITY @ NEW HAMPSHIRE (M) | 12.6 7:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256917.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 122 | CAL POLY @ UC RIVERSIDE (W) | 12.6 7:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256918.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 123 | CALIFORNIA BAPTIST @ UTAH (M) | 12.6 7:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256919.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 124 | CENTRAL ARKANSAS @ LITTLE ROCK (W) | 12.6 7:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256920.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 125 | TEXAS A&M-CORPUS CHRISTI @ LAMAR (M) | 12.6 7:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256921.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 126 | UC RIVERSIDE @ CAL POLY (M) | 12.6 7:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256922.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 127 | OKLAHOMA STATE @ GRAND CANYON (M) | 12.6 7:30 PM | CBSSN
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256923.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 128 | 14 ILLINOIS @ 13 TENNESSEE (M) | 12.6 8:00 PM | ESPN
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256924.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 129 | BYU @ PORTLAND (W) | 12.6 8:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256925.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 130 | FLORIDA STATE @ 8 HOUSTON (M) | 12.6 8:00 PM | PEACOCK
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256926.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 131 | NORTH DAKOTA @ MONTANA STATE (W) | 12.6 8:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256927.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 132 | OLE MISS @ 23 ST. JOHNS (M) | 12.6 8:00 PM | PEACOCK
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256928.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 133 | ST. THOMAS-MINNESOTA @ MONTANA (W) | 12.6 9:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256929.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 134 | TEXAS STATE @ STEPHEN F. AUSTIN (W) | 12.6 9:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256930.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 135 | UC DAVIS @ GONZAGA (W) | 12.6 9:00 PM | ESPN+
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256931.m3u8
 
 # --- NFL (23) ---
 #EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/5438735-nfl-team-logos-transparent-png-history-logos-lists-brands-nfl-logo-png-300_300_preview.png" group-title="NFL",US NFL Network
@@ -3559,27 +3751,49 @@ http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/253677.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NFL",NFL 01: Baltimore Ravens at Miami Dolphins 8:15pm
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/253678.m3u8
 
-# --- NHL (10) ---
+# --- NHL (21) ---
 #EXTINF:-1 tvg-logo="" group-title="NHL",US NHL Network
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/253636.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 01: VGK VS NJD (SN Feed ) @ 7:00 pm
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256739.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 02: VGK VS NJD (NHLN Feed ) @ 7:00 pm
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256740.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 03: VGK VS NJD (TVAS Feed ) @ 7:00 pm
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256741.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 04: SJS VS DAL (NBCSCA Feed ) @ 8:00 pm
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256742.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 05: WSH VS ANA (SN Feed ) @ 10:00 pm
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256743.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 06: WSH VS ANA (TVAS Feed ) @ 10:00 pm
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256744.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 07: Buffalo Sabres vs Winnipeg Jets @ 07:00 PM
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256745.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 08: Utah Mammoth vs Vancouver Canucks @ 09:00 PM
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256746.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 09: Men#EXTVLCOPT:network-caching=1000
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256747.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 01: COL VS NYR (SN Feed ) @ 12:30 pm
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256980.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 02: COL VS NYR (ALT Feed ) @ 12:30 pm
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256981.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 03: COL VS NYR (MSG Feed ) @ 12:30 pm
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256982.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 04: CBJ VS FLA (SN Feed ) @ 3:30 pm
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256983.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 05: CBJ VS FLA (TVAS Feed ) @ 3:30 pm
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256984.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 06: NJD VS BOS (NESN Feed ) @ 7:00 pm
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256985.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 07: NJD VS BOS (MSG Feed ) @ 7:00 pm
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256986.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 08: MTL VS TOR (SN Feed ) @ 7:00 pm
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256987.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 09: MTL VS TOR (TVAS Feed ) @ 7:00 pm
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256988.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 10: STL VS OTT (SN1 Feed ) @ 7:00 pm
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256989.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 11: UTA VS CGY (SNW Feed ) @ 7:00 pm
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256990.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 12: UTA VS CGY (NHLN Feed ) @ 7:00 pm
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256991.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 13: WPG VS EDM (SN Feed ) @ 10:00 pm
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256992.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 14: Nashville Predators vs Carolina Hurricanes @ 07:00 PM
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256993.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 15: New York Islanders vs Tampa Bay Lightning @ 07:00 PM
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256994.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 17: Chicago Blackhawks vs Los Angeles Kings @ 09:00 PM
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256996.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 18: Detroit Red Wings vs Seattle Kraken @ 10:00 PM
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256997.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 19: Minnesota Wild vs Vancouver Canucks @ 10:00 PM
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256998.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 20: Men#EXTVLCOPT:network-caching=1000
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256999.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 21: NCAA Men's Hockey Merrimack vs. #15 UConn @ 4:00 pm
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/257000.m3u8
 
 # --- PERU (7) ---
 #EXTINF:-1 tvg-logo="" group-title="PERU",PE: PANAMERICANA HD
@@ -3609,29 +3823,65 @@ http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/101825.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PHILIPPINES",PH GMA Pinoy TV (X)
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/101826.m3u8
 
-# --- PPV | UFC (11) ---
+# --- PPV | UFC (29) ---
 #EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 15 |   WWE Monday Night Raw (24/11 01:00am UK TUE| 08:00pm ET MON)
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/233922.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV01: TNA: Countdown to Final Resolution 2025 @ 08:30 PM EST
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256729.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 02: PFL Mena Championship (05/12 02:30pm UK | 09:30am ET)
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256730.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV02: TNA: Final Resolution 2025 @ 09:00 PM EST
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256731.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 03: One Fight Night 38 (05/12 02:00am UK SAT | 09:00pm ET FRI)
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256732.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV03: GCW: Say You Will 2025 @ 11:00 PM EST
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256733.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 04: BKFC 85: Hollywood (05/12 12:00am UK SAT | 09:00pm ET SAT)
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256734.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 05: APFC India 1 (05/12 04:00pm UK | 11:00am ET)
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256735.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 06: MMA: Shooto Brazil 134 (05/12 11:00pm UK | 06:00pm ET)
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256736.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 07: TNA Wrestling: Final Resolution (05/12 02:00am UK SAT | 09:00pm ET FRI)
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256737.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 08: MMA: LUX 057 (05/12 03:00am UK SAT | 10:00pm ET FRI)
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256738.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV01: UFC 323: Dvalishvili vs. Yan 2 Prelims/Main Card @ 06/08/10:00 PM EST
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256951.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 02: UFC 323:Dvalishvili vs Yan 2 (06/12 03:00am UK SUN |  10:00pm ET SAT)
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256952.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV02: Boxing: Masoud vs. McGrail (DAZN) @ 01:00 PM EST
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256953.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 03: WWE: NxT Deadline 2025 (06/12 11:00pm UK | 06:00pm ET)
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256954.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV03: Boxing: Mamoyan vs. El Scheich (DAZN) @ 01:00 PM EST
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256955.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV04: Millbridge Speedway (dirtvision) @ 01:00 PM EST
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256956.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 04: Opetaia vs Cinkara (06/12 06:30am UK | 01:30am ET)
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256957.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 05: Masoud vs McGrail  (06/12 06:00am UK | 01:00am ET)
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256958.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV06: SENSHI 29 (fite tv) @ 12:00 PM EST
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256959.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 06: Cruz vs Roach Jr. (06/12 10:30pm UK | 05:30pm ET)
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256960.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 07: Boxing: Mamoyan vs El. Scheich (05/12 06:00pm UK | 01:00pm ET)
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256961.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV07: Stateline Rumble #5 (fite tv) @ 06:00 PM EST
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256962.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV08: IWC: The 8th Annual Pittsburgh Classic (fite tv) @ 07:00 PM EST
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256963.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 08: Senshi 29 (05/12 05:00pm UK | 12:00pm ET)
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256964.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV09: GCW: Highest in the Room 4 (fite tv) @ 11:00 PM EST
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256965.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 09: Highest in the Room 4 (05/12 04:00am UK SUN | 11:00pm ET SAT)
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256966.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV10: Boxing Pitbull vs. Roach @ 08: PM
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256967.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 01: Isaac Cruz vs. Lamont Roach: Prelims
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256968.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 02:Isaac Cruz vs. Lamont Roach: Main Event
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256969.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 04:RWS: Chiebkhad vs. Ronnachai
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256971.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 05:Mamoyan vs. El Scheich
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256972.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 06:Masoud vs. McGrail
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256973.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 07:MMA Bushido: Frankfurt, Germany
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256974.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 08:Mortensen vs. Norek
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256975.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 09:UFC 323: Dvalishvili vs Yan 2 EARLY Prelims (2025-12-06 23:00:00)
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256976.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 10:UFC 323: Dvalishvili vs Yan 2 Prelims (2025-12-06 23:00:00)
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256977.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 11:UFC 323: Dvalishvili vs Yan 2 MAIN (2025-12-06 23:00:00)
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256978.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 12:UFC 323: Dvalishvili vs Yan 2 POSTFIGHT (2025-12-06 23:00:00)
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/256979.m3u8
 
 # --- Portugal (19) ---
 #EXTINF:-1 tvg-logo="" group-title="Portugal",PT: CMTV
@@ -13427,4 +13677,4 @@ http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/121046.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Vietnam",VN DA NANG 1 HD
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/121048.m3u8
 
-# Total: 6674
+# Total: 6799

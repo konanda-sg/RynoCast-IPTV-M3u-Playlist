@@ -1,13 +1,15 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nisay.xyz:8080
-# Generated: 2025-12-06 18:29:23
+# Generated: 2025-12-07 07:09:37
 # Expires: 2026-10-04
 # Family Safe Edition
 # ==============================================
 
 
 # --- Movies | 2021: YABANCI FILMLER (863) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/84JddAfIw0hsssbITouwU8eLmlA.jpg" group-title="Movies | 2021: YABANCI FILMLER",Onemsiz Biri 2021
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/78057.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xyPPBPkGbZxfS6UM4PjR5bnVfwR.jpg" group-title="Movies | 2021: YABANCI FILMLER",Adadaki Dehşet (2019)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/157371.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n1oZdYrFjDQAAXMuUP4FuPZyFnC.jpg" group-title="Movies | 2021: YABANCI FILMLER",Liu Yu Tian 2019
@@ -1306,8 +1308,6 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/78062.mkv
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/78059.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGFXEyESXIuei5tZWXRkSRSFSxi.jpg" group-title="Movies | 2021: YABANCI FILMLER",Fatale 2020
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/78058.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/84JddAfIw0hsssbITouwU8eLmlA.jpg" group-title="Movies | 2021: YABANCI FILMLER",Onemsiz Biri 2021
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/78057.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0tfg7xbdjtyfWy1IOuy9t2Br2k.jpg" group-title="Movies | 2021: YABANCI FILMLER",Sessiz Bir Yer 2 2021
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/77581.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AedH7kQttLVgqd260IXevTK0Mek.jpg" group-title="Movies | 2021: YABANCI FILMLER",Banyo Duvarlarındaki Kelimeler 2020
@@ -5573,7 +5573,7 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/138035.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoYqn1dS0DgxDsRqQ3Aqms72yGL.jpg" group-title="Movies | 3D TV",Güzel ve Çirkin 3D TV (2017)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/138036.mkv
 
-# --- Movies | AMAZON (111) ---
+# --- Movies | AMAZON (112) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON",Fringe
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/214.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON",Chucky
@@ -5796,6 +5796,8 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1759.mp4
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1791.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON",The Mighty Nein
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1802.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON",Spartacus Ashur Hanedanı
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1815.mp4
 
 # --- Movies | BEIN/TODD (55) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | BEIN/TODD",Aile Sirketi
@@ -16819,7 +16821,9 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/138221.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbA3OJWaIL8PKp1IX9ETcZo5trv.jpg" group-title="Movies | SERI FILMLER",Muzede Bir Gece 2006
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/138220.mkv
 
-# --- Movies | SON EKLENEN 300 FILM (372) ---
+# --- Movies | SON EKLENEN 300 FILM (373) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/roGKQ15z08A7hiOKRQm6NTPmEHX.jpg" group-title="Movies | SON EKLENEN 300 FILM",Önemsiz Biri 2 (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159101.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DHpXjhMwfwpaldge4OcISjQTX7.jpg" group-title="Movies | SON EKLENEN 300 FILM",Sevimli (2024)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/158969.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/plyEn5uDNXXDYihF8Z7YOe2PVKE.jpg" group-title="Movies | SON EKLENEN 300 FILM",Esrarengiz Canavar 2 (2025)
@@ -19609,4 +19613,4 @@ http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1503
 #EXTINF:-1 tvg-logo="" group-title="Series | TR ALTYAZI SERIES",Pluribus
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1803
 
-# Total: 9737
+# Total: 9739

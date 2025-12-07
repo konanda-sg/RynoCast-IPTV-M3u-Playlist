@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: balkan-worldtv.com:80
-# Generated: 2025-12-06 18:26:32
+# Generated: 2025-12-07 07:12:18
 # Expires: 2025-12-09
 # Family Safe Edition
 # ==============================================
@@ -3731,7 +3731,15 @@ http://balkan-worldtv.com:80/movie/senad_dandic/hNbxbFqTcT/13188.mp4
 #EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://m.media-amazon.com/images/M/MV5BM2IzNDEyNmUtNjE1OC00NzI5LThjZTQtMzNhMTNkNjMwZjczXkEyXkFqcGc@._V1_.jpg" group-title="Movies | VIDEOTEKA 2024",Bitconned (2024)
 http://balkan-worldtv.com:80/movie/senad_dandic/hNbxbFqTcT/13189.mp4
 
-# --- Movies | VIDEOTEKA 2025 (109) ---
+# --- Movies | VIDEOTEKA 2025 (113) ---
+#EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Altered_%282024_film%29.jpg/250px-Altered_%282024_film%29.jpg" group-title="Movies | VIDEOTEKA 2025",Altered (2025)
+http://balkan-worldtv.com:80/movie/senad_dandic/hNbxbFqTcT/13624.mp4
+#EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Bugonia_film_poster.jpg/250px-Bugonia_film_poster.jpg" group-title="Movies | VIDEOTEKA 2025",Bugonia (2025)
+http://balkan-worldtv.com:80/movie/senad_dandic/hNbxbFqTcT/13625.mp4
+#EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Champagne_Problems_poster.jpg/250px-Champagne_Problems_poster.jpg" group-title="Movies | VIDEOTEKA 2025",Champagne Problems (2025)
+http://balkan-worldtv.com:80/movie/senad_dandic/hNbxbFqTcT/13626.mp4
+#EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Good_Fortune_poster.jpg/250px-Good_Fortune_poster.jpg" group-title="Movies | VIDEOTEKA 2025",Good Fortune (2025)
+http://balkan-worldtv.com:80/movie/senad_dandic/hNbxbFqTcT/13627.mp4
 #EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://upload.wikimedia.org/wikipedia/en/thumb/4/47/The_Smashing_Machine_%282025_film%29.jpg/250px-The_Smashing_Machine_%282025_film%29.jpg" group-title="Movies | VIDEOTEKA 2025",The Smashing Machine (2025)
 http://balkan-worldtv.com:80/movie/senad_dandic/hNbxbFqTcT/13621.mp4
 #EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://www.themoviedb.org/t/p/w600_and_h900_face/3cM00rluhzLm4fGXHXLTksYkTPQ.jpg" group-title="Movies | VIDEOTEKA 2025",Takeout (2025)
@@ -3951,4 +3959,4 @@ http://balkan-worldtv.com:80/movie/senad_dandic/hNbxbFqTcT/13432.mp4
 #EXTINF:-1 tvg-logo="http://85.14.243.71/images/220px-Den_of_thieves_two_pantera_ver2.jpg" group-title="Movies | VIDEOTEKA 2025",Den of Thieves 2: Pantera (2025)
 http://balkan-worldtv.com:80/movie/senad_dandic/hNbxbFqTcT/13433.mp4
 
-# Total: 1957
+# Total: 1961

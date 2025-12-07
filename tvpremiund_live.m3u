@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tvpremiund.ddns.me:33200
-# Generated: 2025-12-06 18:27:04
+# Generated: 2025-12-07 07:08:54
 # Expires: 2026-01-20
 # Family Safe Edition
 # ==============================================
@@ -116,6 +116,8 @@ http://tvpremiund.ddns.me:33200/live/Montoya2812/Mong281231/56930.m3u8
 http://tvpremiund.ddns.me:33200/live/Montoya2812/Mong281231/6721.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148245378996813825/5fifZtEj_400x400.png" group-title="CHILE",Mega Noticias
 http://tvpremiund.ddns.me:33200/live/Montoya2812/Mong281231/51139.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/46/1/mega-fiction-tv-channel-logo-png_seeklogo-467278.png" group-title="CHILE",Mega Ficcion
+http://tvpremiund.ddns.me:33200/live/Montoya2812/Mong281231/75772.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKKp1G9m/chv.png" group-title="CHILE",CHV
 http://tvpremiund.ddns.me:33200/live/Montoya2812/Mong281231/37973.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKKp1G9m/chv.png" group-title="CHILE",CHV HD
@@ -190,8 +192,6 @@ http://tvpremiund.ddns.me:33200/live/Montoya2812/Mong281231/30301.m3u8
 http://tvpremiund.ddns.me:33200/live/Montoya2812/Mong281231/56926.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1635423578651852802/dwa1KZ_o_400x400.jpg" group-title="CHILE",Via X
 http://tvpremiund.ddns.me:33200/live/Montoya2812/Mong281231/56929.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CM3zr97k/meganot.png" group-title="CHILE",Meganoticias
-http://tvpremiund.ddns.me:33200/live/Montoya2812/Mong281231/75772.m3u8
 
 # --- CHILE REGIONES (186) ---
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/71_Antofagasta_TV.png" group-title="CHILE REGIONES",Antofagasta TV | CL

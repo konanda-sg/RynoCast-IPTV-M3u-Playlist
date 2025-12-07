@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: platinumz.xyz:8080
-# Generated: 2025-12-06 18:28:53
+# Generated: 2025-12-07 07:19:11
 # Expires: 2025-12-23
 # Family Safe Edition
 # ==============================================
@@ -3643,7 +3643,9 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/814037.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportf1.png" group-title="DE ✨ SKY SPORT F1",F1 PRO TRACKER
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/814036.m3u8
 
-# --- DE ✨ SPORT (76) ---
+# --- DE ✨ SPORT (77) ---
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/united-states/mls-logo-us.png" group-title="DE ✨ SPORT",MLS: Inter Miami vs Vancouver Whitecaps | Sat 6th Dec 2:30PM ET
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/866979.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/df1.png" group-title="DE ✨ SPORT",DF1 FHD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/814925.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/df1.png" group-title="DE ✨ SPORT",DF1 HD
@@ -4857,4 +4859,4 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/809948.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ArenaSport_6.png" group-title="VIP ✨ SPORTS EX-YU",BH⚜️ ARENA SPORT 6
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/809947.m3u8
 
-# Total: 2379
+# Total: 2380

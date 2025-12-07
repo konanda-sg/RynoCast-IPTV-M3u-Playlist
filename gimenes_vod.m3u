@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: gimenes.top:8080
-# Generated: 2025-12-06 18:25:31
+# Generated: 2025-12-07 07:14:00
 # Expires: 2026-11-07
 # Family Safe Edition
 # ==============================================
@@ -1305,7 +1305,7 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/9022688.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > DOCUMENTARIOS",MEU AYRTON, POR ADRIANE GALISTEU
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022689.mp4
 
-# --- Movies | > DORAMAS (218) ---
+# --- Movies | > DORAMAS (220) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | > DORAMAS",PRIMEIRA VEZ AMOR
 http://gimenes.top:8080/movie/denisfonseca/4915334/283.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > DORAMAS",UMA ODISSÉIA COREANA
@@ -1742,6 +1742,10 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/9022685.mp4
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022695.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > DORAMAS",THE K2 (LEG)
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022704.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | > DORAMAS",VOLTANDO POR VOCE (LEG)
+http://gimenes.top:8080/movie/denisfonseca/4915334/9022710.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | > DORAMAS",AMBIÇÃO DO AMOR (LEG)
+http://gimenes.top:8080/movie/denisfonseca/4915334/9022715.mp4
 
 # --- Movies | > DRAMAS SHORTS (36) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | > DRAMAS SHORTS",A VIDA DUPLA DO MEU MARIDO BILIONÁRIO
@@ -2205,7 +2209,7 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/9022664.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > GLOBOPLAY",CHOQUE DE CULTURA
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022700.mp4
 
-# --- Movies | > HBO MAX (178) ---
+# --- Movies | > HBO MAX (179) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | > HBO MAX",BARRY
 http://gimenes.top:8080/movie/denisfonseca/4915334/3.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > HBO MAX",WESTWORLD
@@ -2562,8 +2566,10 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/9022638.mp4
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022651.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > HBO MAX",ANGELA DINIZ: ASSASSINADA E CONDENADA
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022687.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | > HBO MAX",THE ABC MURDERS
+http://gimenes.top:8080/movie/denisfonseca/4915334/9022713.mp4
 
-# --- Movies | > NETFLIX (690) ---
+# --- Movies | > NETFLIX (692) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | > NETFLIX",VIKINGS
 http://gimenes.top:8080/movie/denisfonseca/4915334/5.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > NETFLIX",SUPERGIRL
@@ -3944,8 +3950,12 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/9022690.mp4
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022691.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > NETFLIX",ATE O ULTIMO SAMURAI
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022692.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | > NETFLIX",A VIZINHA DA MULHER NA JANELA
+http://gimenes.top:8080/movie/denisfonseca/4915334/9022711.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | > NETFLIX",OS ABANDONADOS
+http://gimenes.top:8080/movie/denisfonseca/4915334/9022716.mp4
 
-# --- Movies | > NOVELAS & MINISSÉRIE (197) ---
+# --- Movies | > NOVELAS & MINISSÉRIE (198) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | > NOVELAS & MINISSÉRIE",JOSÉ DO EGITO
 http://gimenes.top:8080/movie/denisfonseca/4915334/629.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > NOVELAS & MINISSÉRIE",A CASA DAS SETE MULHERES
@@ -4340,8 +4350,10 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/9022675.mp4
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022693.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > NOVELAS & MINISSÉRIE",AMOR E REVOLUÇÃO
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022705.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | > NOVELAS & MINISSÉRIE",O DIARIO DE DANIELA
+http://gimenes.top:8080/movie/denisfonseca/4915334/9022706.mp4
 
-# --- Movies | > NOVELAS TURCAS (62) ---
+# --- Movies | > NOVELAS TURCAS (64) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | > NOVELAS TURCAS",UM MILAGRE
 http://gimenes.top:8080/movie/denisfonseca/4915334/9020598.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > NOVELAS TURCAS",MÃE
@@ -4466,8 +4478,12 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/9022577.mp4
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022641.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > NOVELAS TURCAS",O GENIO
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022653.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | > NOVELAS TURCAS",LEYLA: SOMBRAS DO PASSADO
+http://gimenes.top:8080/movie/denisfonseca/4915334/9022708.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | > NOVELAS TURCAS",SE O DESTINO QUISER
+http://gimenes.top:8080/movie/denisfonseca/4915334/9022709.mp4
 
-# --- Movies | > PRIME VIDEO (384) ---
+# --- Movies | > PRIME VIDEO (388) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | > PRIME VIDEO",SPARTACUS
 http://gimenes.top:8080/movie/denisfonseca/4915334/8.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > PRIME VIDEO",FEAR THE WALKING DEAD
@@ -5236,6 +5252,14 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/9022680.mp4
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022682.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > PRIME VIDEO",LEOA
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022701.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | > PRIME VIDEO",THE MIGHTY NEIN
+http://gimenes.top:8080/movie/denisfonseca/4915334/9022707.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | > PRIME VIDEO",A OFERTA
+http://gimenes.top:8080/movie/denisfonseca/4915334/9022712.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | > PRIME VIDEO",E NÃO SOBROU NENHUM (LEG)
+http://gimenes.top:8080/movie/denisfonseca/4915334/9022714.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | > PRIME VIDEO",SPARTACUS: HOUSE OF ASHUR
+http://gimenes.top:8080/movie/denisfonseca/4915334/9022717.mp4
 
 # --- Movies | > REALITY's (82) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | > REALITY's",MASTERCHEF BRASIL
@@ -19897,7 +19921,7 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/6511.mp4
 #EXTINF:-1 tvg-logo="http://fiqueemcasa.club:80/images/qMjafAjNaboqUnN6SuemzZH6MGB_big.jpg" group-title="Movies | FILMES FAROESTE",NO VALE DA VIOLÊNCIA (2016)
 http://gimenes.top:8080/movie/denisfonseca/4915334/3996.mp4
 
-# --- Movies | FILMES FICÇÃO CIENTÍFICA (430) ---
+# --- Movies | FILMES FICÇÃO CIENTÍFICA (429) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5WsMyE6wwY2QbM3fpAePOX3e7pZ.jpg" group-title="Movies | FILMES FICÇÃO CIENTÍFICA",ESTRANHOS VISITANTES (1989)
 http://gimenes.top:8080/movie/denisfonseca/4915334/252041.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvL5Qbd8nxKFMz8sn17mDwQ5SyM.jpg" group-title="Movies | FILMES FICÇÃO CIENTÍFICA",TROVÃO NEGRO (2009)
@@ -20572,8 +20596,6 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/6596.mp4
 http://gimenes.top:8080/movie/denisfonseca/4915334/6606.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xhBTO9n3fxy3HJt7WlR9h9vvVmk.jpg" group-title="Movies | FILMES FICÇÃO CIENTÍFICA",ANON (2018)
 http://gimenes.top:8080/movie/denisfonseca/4915334/6964.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/58yr4Y6g1g3B8LB7RI8neUgEBpn.jpg" group-title="Movies | FILMES FICÇÃO CIENTÍFICA",FAHRENHEIT 451 (2018)
-http://gimenes.top:8080/movie/denisfonseca/4915334/7472.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fpxFPlLY8PaJxgrYB9TVQUdH7jT.jpg" group-title="Movies | FILMES FICÇÃO CIENTÍFICA",A INVENÇÃO DE HUGO CABRET (2011)
 http://gimenes.top:8080/movie/denisfonseca/4915334/7503.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xuFZVPVebRrRwiH14uST8m4ulXj.jpg" group-title="Movies | FILMES FICÇÃO CIENTÍFICA",O PREÇO DO AMANHÃ (2011)
@@ -29901,4 +29923,4 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/166843.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhTm83svrLTM4JdwzJ1FjL63SQN.jpg" group-title="Movies | SHOWS",BEBE REXHA - THE TOWN (2023)
 http://gimenes.top:8080/movie/denisfonseca/4915334/166842.mp4
 
-# Total: 14906
+# Total: 14917
