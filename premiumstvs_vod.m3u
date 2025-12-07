@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: premiumstvs.net:8080
-# Generated: 2025-12-07 07:13:20
+# Generated: 2025-12-07 18:33:44
 # Expires: 2026-02-22
 # Family Safe Edition
 # ==============================================
@@ -7511,9 +7511,29 @@ http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/86834.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4bKlTeOUr5AKrLky8mwWvlQqyVd.jpg" group-title="Movies | Unknown",The Killer's Game (2024)
 http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/100934.mp4
 
-# --- Movies | VOD DE (553) ---
+# --- Movies | VOD DE (563) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgEoCEMWWt7E1esLeok7G99uXtq.jpg" group-title="Movies | VOD DE",Greedy People: Gelegenheit macht gierig (2024)
 http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/97812.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oicfnMVtjh50cQ7uV3MXHpxuaqh.jpg" group-title="Movies | VOD DE",Nina und das Geheimnis des Igels (2023)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/114448.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tpOAzBasKPsKwsUtPZOx1Mzuqq3.jpg" group-title="Movies | VOD DE",My Secret Santa (2025)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/114447.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJVahovivkYuXciC1sAhocyTWf7.jpg" group-title="Movies | VOD DE",Mr. No Pain (2025)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/114446.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYxdUltC1BADOIuDrltcenkTWei.jpg" group-title="Movies | VOD DE",Mantis (2025)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/114445.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/34eXocG52upW1xPsea5nIA6SQBd.jpg" group-title="Movies | VOD DE",Love Hurts - Liebe tut weh (2025)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/114444.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ql35bug5dlqT3aMlxoPKhuYyUs1.jpg" group-title="Movies | VOD DE",Locked (2025)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/114443.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4zNlufWcdwvFQ0U0cgHgcV07zF1.jpg" group-title="Movies | VOD DE",Lilo & Stitch (2025)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/114442.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ajcRSuv1rYbrDxnlNN5xx5H44Ft.jpg" group-title="Movies | VOD DE",LEGO Disney Prinzessin: Stoppt die Schurken (2025)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/114441.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iz5dOSvgPHz4b0n8q4Xvh4htbph.jpg" group-title="Movies | VOD DE",Kung Fu in Rome (2025)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/114440.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qTnPE9ISyOAuozrwZy4yV65jzs0.jpg" group-title="Movies | VOD DE",Kundschafter des Friedens 2 (2025)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/114439.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/crcyWg45cihTcp2eLjIG2wa81n2.jpg" group-title="Movies | VOD DE",ZOMBIES 4 (2025)
 http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/114426.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOdbjgRP8EmwasamXIvCeGu24G3.jpg" group-title="Movies | VOD DE",Warfare (2025)
@@ -11771,4 +11791,4 @@ http://premiumstvs.net:8080/series/khFzEWQn/fP85XcC7E/248
 #EXTINF:-1 tvg-logo="" group-title="Series | Netflix Series",Squid Game: The Challenge
 http://premiumstvs.net:8080/series/khFzEWQn/fP85XcC7E/247
 
-# Total: 5852
+# Total: 5862

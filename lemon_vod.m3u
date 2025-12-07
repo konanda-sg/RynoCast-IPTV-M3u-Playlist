@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: lemon.catchmeifyo.com:8000
-# Generated: 2025-12-07 07:15:23
+# Generated: 2025-12-07 18:33:58
 # Expires: 2026-04-05
 # Family Safe Edition
 # ==============================================
@@ -20367,7 +20367,7 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/2728.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Viaplay",Vrooooom
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3193.mp4
 
-# --- Movies | Videoland (276) ---
+# --- Movies | Videoland (277) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Videoland",De 12 van Schouwendam
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Videoland",Mocro Maffia
@@ -20920,6 +20920,8 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3549.mp4
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3555.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Videoland",Erasmus MC 24/7
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3557.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Videoland",Vals Spel
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3570.mp4
 
 # --- Movies | WESTERN FILMS (51) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6rVIjriV3Sv1B9INrzGRXW8Q7aY.jpg" group-title="Movies | WESTERN FILMS",The Magnificent Seven (1960)
@@ -22027,4 +22029,4 @@ http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/2750
 #EXTINF:-1 tvg-logo="" group-title="Series | NL GESPROKEN SERIES",The Hunt (Een van Ons)
 http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/2751
 
-# Total: 10958
+# Total: 10959

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: exclusifott.pro:80
-# Generated: 2025-12-07 07:09:41
+# Generated: 2025-12-07 18:34:18
 # Expires: 2026-05-21
 # Family Safe Edition
 # ==============================================
@@ -6361,7 +6361,11 @@ http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1069543.mkv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/e3/2022_FIFA_World_Cup.svg/1713px-2022_FIFA_World_Cup.svg.png" group-title="Movies | WORLDCUP 2022",WC - Uruguay Vs Coree Du Sud - 24-11-22
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1061890.mkv
 
-# --- Movies | |EN| 4K MOVIES (3) ---
+# --- Movies | |EN| 4K MOVIES (5) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | |EN| 4K MOVIES",EN - Troll 2 4K (MULTI-SUBS) (2025)
+http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1982005.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | |EN| 4K MOVIES",EN - Pose 4K (2025)
+http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1982003.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Av1CK61z33v2OBFLD1yF5rdRxQ1.jpg" group-title="Movies | |EN| 4K MOVIES",4K - Sarah's Oil (2025)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1981740.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pa97Vu2Vy5oJWWxtxFZIXaQsSEU.jpg" group-title="Movies | |EN| 4K MOVIES",EN - Bull Run 4K (2025)
@@ -13389,7 +13393,11 @@ http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/837897.mp4
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7397.jpg" group-title="Movies | |SPT| SPORT BOXING",SPT Katie Taylor vs. Natasha Jonas
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/837889.mp4
 
-# --- Movies | |SPT| SPORT UFC (450) ---
+# --- Movies | |SPT| SPORT UFC (452) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/srXw1G93XpZh5YVarzDBAu6veh5.jpg" group-title="Movies | |SPT| SPORT UFC",SPT - UFC 323: Dvalishvili vs. Yan 2 (Prelims) (2025)
+http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1981996.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/srXw1G93XpZh5YVarzDBAu6veh5.jpg" group-title="Movies | |SPT| SPORT UFC",SPT - UFC 323: Dvalishvili vs. Yan 2 (Main Card) (2025)
+http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1981995.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/srXw1G93XpZh5YVarzDBAu6veh5.jpg" group-title="Movies | |SPT| SPORT UFC",SPT - UFC 323: Dvalishvili vs. Yan 2 (SOON (2025)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1978638.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xxilzCS72ukBvt3wg3idQbLTEM.jpg" group-title="Movies | |SPT| SPORT UFC",SPT - UFC Fight Night 265: Tsarukyan vs. Hooker (Prelims) (2025)
@@ -17991,4 +17999,4 @@ http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35745
 #EXTINF:-1 tvg-logo="" group-title="Series | |RO| ROMANIAN SERIES",RO - Resident Evil: Infinite Darkness (2021)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35746
 
-# Total: 8949
+# Total: 8953

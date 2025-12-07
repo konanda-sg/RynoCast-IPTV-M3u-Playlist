@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alphaplayer.ddns.net:25461
-# Generated: 2025-12-07 07:08:23
+# Generated: 2025-12-07 18:34:11
 # Expires: 2026-08-02
 # Family Safe Edition
 # ==============================================
@@ -2619,7 +2619,7 @@ http://alphaplayer.ddns.net:25461/movie/ecrweg@gmail.com/9513eb867cbbee254ae2f85
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/semFxuYx6HcrkZzslgAkBqfJvZk.jpg" group-title="Movies | Comedy",The Family Plan 2 (2025)
 http://alphaplayer.ddns.net:25461/movie/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/18303.mp4
 
-# --- Movies | DUBLADOS - BR (6372) ---
+# --- Movies | DUBLADOS - BR (6375) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5N0BjQGUDTXIQixVBPnNZG618k.jpg" group-title="Movies | DUBLADOS - BR",As Verdades (2022) [DUB]
 http://alphaplayer.ddns.net:25461/movie/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/8076.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg" group-title="Movies | DUBLADOS - BR",Minions 2 - A Origem De Gru (2022)[DUB]
@@ -15364,6 +15364,12 @@ http://alphaplayer.ddns.net:25461/movie/ecrweg@gmail.com/9513eb867cbbee254ae2f85
 http://alphaplayer.ddns.net:25461/movie/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/18363.mp4
 #EXTINF:-1 tvg-logo="http://212.102.60.73:25461/images/2e35650c19cd28ee4877fb9529a68d73.jpg" group-title="Movies | DUBLADOS - BR",O Troll da Montanha 2 (2025)
 http://alphaplayer.ddns.net:25461/movie/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/18364.mp4
+#EXTINF:-1 tvg-logo="http://212.102.60.73:25461/images/8420dc26333f073a0c97c08f74dccc9c.jpg" group-title="Movies | DUBLADOS - BR",Depois da Caçada (2025)
+http://alphaplayer.ddns.net:25461/movie/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/18407.mp4
+#EXTINF:-1 tvg-logo="http://212.102.60.73:25461/images/3cdeb365d1099309ebc1e0923cf0a67e.jpg" group-title="Movies | DUBLADOS - BR",O Segredo do Papai Noel (2025)
+http://alphaplayer.ddns.net:25461/movie/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/18408.mp4
+#EXTINF:-1 tvg-logo="http://212.102.60.73:25461/images/c3abdd751b982a602fd0d79efd0eb1d1.jpg" group-title="Movies | DUBLADOS - BR",Um. Natal. Surreal. (2025)
+http://alphaplayer.ddns.net:25461/movie/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/18409.mp4
 
 # --- Movies | Family (159) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg" group-title="Movies | Family",Elvis (2022)
@@ -16629,4 +16635,4 @@ http://alphaplayer.ddns.net:25461/movie/ecrweg@gmail.com/9513eb867cbbee254ae2f85
 #EXTINF:-1 tvg-logo="" group-title="Movies | Tv Shows",Stranger Things
 http://alphaplayer.ddns.net:25461/movie/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/213.mp4
 
-# Total: 8302
+# Total: 8305

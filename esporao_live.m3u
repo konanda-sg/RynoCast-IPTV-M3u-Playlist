@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: esporao.mine.nu:21921
-# Generated: 2025-12-07 07:10:02
+# Generated: 2025-12-07 18:30:14
 # Expires: Unlimited
 # Family Safe Edition
 # ==============================================
@@ -180,7 +180,7 @@ http://esporao.mine.nu:21921/live/Sueco/zrRI5gVhPP/20590.m3u8
 http://esporao.mine.nu:21921/live/Sueco/zrRI5gVhPP/5116.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/dazn5171.jpg" group-title="DESPORTO",DAZN 5 FHD
 http://esporao.mine.nu:21921/live/Sueco/zrRI5gVhPP/7061.m3u8
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/dazn5171.jpg" group-title="DESPORTO",DAZN 5 SD
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/dazn5171.jpg" group-title="DESPORTO",DAZN 5 HD
 http://esporao.mine.nu:21921/live/Sueco/zrRI5gVhPP/37119.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/dazn5171.jpg" group-title="DESPORTO",DAZN 6 FHD
 http://esporao.mine.nu:21921/live/Sueco/zrRI5gVhPP/7062.m3u8

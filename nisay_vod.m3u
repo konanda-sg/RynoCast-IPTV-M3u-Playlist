@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nisay.xyz:8080
-# Generated: 2025-12-07 07:09:37
+# Generated: 2025-12-07 18:24:57
 # Expires: 2026-10-04
 # Family Safe Edition
 # ==============================================
@@ -12535,7 +12535,9 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/139884.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5y0hFRhfx34Be04B7GGqg5TMTM0.jpg" group-title="Movies | DE: FILME 2024",DE: City Hunter (2024)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/139885.mp4
 
-# --- Movies | DE: FILME 2025 (335) ---
+# --- Movies | DE: FILME 2025 (336) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/prqoXVtCJFLzqbqXLGxdl79a8aK.jpg" group-title="Movies | DE: FILME 2025",DE: Wicked: Teil 2 (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159103.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7YNjkmBX4Zc8Asg5tVBl2mk1uwU.jpg" group-title="Movies | DE: FILME 2025",DE: Jay Kelly (2025)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159090.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/plyEn5uDNXXDYihF8Z7YOe2PVKE.jpg" group-title="Movies | DE: FILME 2025",DE: Troll 2 (2025)
@@ -19613,4 +19615,4 @@ http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1503
 #EXTINF:-1 tvg-logo="" group-title="Series | TR ALTYAZI SERIES",Pluribus
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1803
 
-# Total: 9739
+# Total: 9740

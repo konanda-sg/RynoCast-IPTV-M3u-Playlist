@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: no1.no1turk.com:2086
-# Generated: 2025-12-07 07:16:36
+# Generated: 2025-12-07 18:30:06
 # Expires: 2026-09-21
 # Family Safe Edition
 # ==============================================
@@ -1073,67 +1073,9 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/170928.m3u8
 
-# --- DE-DAZN EVENT (251) ---
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5z9igoanfs0srfhioo69mtmkp_image-header_pDach_1764691921000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",World Sevens | Tag 2 (2025-12-06 16:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171872.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/czh8xnqoapfnjq1l5kb40w9zg_image-header_pDach_1763037058000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Inter - Como (italienischer Kommentar) (2025-12-06 16:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171873.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/12mefgbfpk13k1waw3tg213wn8_image-header_pDach_1764603094000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Duke @ Michigan State (2025-12-06 17:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171875.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/e1l4bydf3r4d1pscmev5djmy6_image-header_pDach_1764523381000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Big 12 Championship Game: BYU vs. Texas Tech (2025-12-06 17:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171877.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1i7rkgbjis8da1thwkz59fe8ew_image-header_pDach_1764591714000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",MAC Championship Game: Miami (OH) vs. Western Michigan (2025-12-06 17:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171878.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1qvsfkzusy2xw13yu7ol61tfxs_image-header_pDach_1764603094000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Iowa State @ Purdue (2025-12-06 17:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171879.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/aqv25wiq5vj4si9rv65md16e6_image-header_pDach_1762383324000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Saint-Gilloise - Gent (2025-12-06 17:15:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171881.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/724zr447m6h9p2eqejrmphc9x_image-header_pDach_1763138737000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Real Betis - FC Barcelona (2025-12-06 17:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171882.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1t6f5kxqfewpx9b8b55f7x1xw_image-header_pDach_1763682213000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Runde 4 | Swedish GP (2025-12-06 17:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171883.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1mansstmguql3bk9f2kkub24y_image-header_pDach_1763741845000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Real Madrid - Real Sociedad (2025-12-06 18:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171884.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2s51bpcartfj8e5o3a1io3ldu_image-header_pDach_1735753675000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Toulouse - Straßburg (2025-12-06 18:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171888.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/db7315vevham99utfthj9ys6d_image-header_pDach_1764844751000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Tamanique GP by SurfCity | Qualifying (2025-12-06 19:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171889.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/du51n788puin181ot7kqskzpy_image-header_pDach_1764603095000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Marquette @ Wisconsin (2025-12-06 19:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171890.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/e0cis6l6mrohijzfox3n33e8n_image-header_pDach_1763812555000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Dunkerque - St. Etienne (2025-12-06 19:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171891.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1gmdqab3i9mm81i31hun7hsh6h_image-header_pDach_1764762819000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",SWAC Championship Game: Jackson State vs. Prairie View A&M (2025-12-06 19:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171892.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/t0vawhogttf31d79ny1e1jjeu_image-header_pDach_1764603095000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Ohio State @ Northwestern (2025-12-06 19:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171893.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/lmkjh3fjout010zwve343okge_image-header_pDach_1764603095000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Louisville @ Indiana (2025-12-06 19:15:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171894.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4gmtkv41xsy1h6yue05k18py6_image-header_pDach_1763022388000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Hellas Verona - Atalanta (italienischer Kommentar) (2025-12-06 19:15:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171895.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1l6goysvnzbjg19x7b19npbnbi_image-header_pDach_1764237230000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Mortensen vs. Norek (2025-12-06 19:15:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171896.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3dvc7o9m911uglw1ijs1dj7ar_image-header_pDach_1762954884000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Chesterfield - Doncaster (2025-12-06 19:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171897.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8qa8b70sb414onv9iefqrvnp7_image-header_pDach_1762383324000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",St. Truiden - Club Brügge (2025-12-06 19:45:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171898.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/qac2d3v8jr61yqnis2vxq2au_image-header_pDach_1763022388000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Hellas Verona - Atalanta (2025-12-06 19:45:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171899.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ajbdkiehayka4prp2nii3ypxs_image-header_pDach_1763373976000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Bilbao - Atletico Madrid (2025-12-06 20:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171900.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dfii5mu5ptsl4mhcjqr9bwn8s_image-header_pDach_1725539296000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",PSG - Rennes (2025-12-06 20:05:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171901.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1e36nfg5jje5l15fp3mt3033qd_image-header_pDach_1764603095000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Maryland @ Iowa (2025-12-06 21:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171902.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/c17tfkq77xkh1gw5kvevr69oa_image-header_pDach_1764603095000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Rutgers @ Michigan (2025-12-06 21:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171903.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1cyhxtl5ky8og1mbi4t257qs25_image-header_pDach_1764523513000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",SEC Championship Game: Georgia vs. Alabama (2025-12-06 21:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171904.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8yhjdk0sor931f3bopzzhgz0w_image-header_pDach_1764603095000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Iowa @ Rutgers (2025-12-06 23:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171905.m3u8
+# --- DE-DAZN EVENT (222) ---
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1zbdyuq3gp03ylsvsdqswll6z_image-header_pDach_1762876390000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",UFC 323 | Merab Dvalishvili vs Petr Yan 2 (Prelims & Main Card) (2025-12-06 23:00:00)
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171906.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/e1xxtuu99gsu15eausl1tvw3z_image-header_pDach_1764603095000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Oregon @ UCLA (2025-12-06 23:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171907.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1q2643ea8gdd31dqir31xxro9v_image-header_pDach_1764522448000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Big Ten Championship Game: Indiana vs. Ohio State (2025-12-07 01:00:00)
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171908.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8iv100a7tcre1iyua1wi9oycj_image-header_pDach_1764591780000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",ACC Championship Game: Duke vs. Virginia (2025-12-07 01:00:00)
@@ -7219,4 +7161,4 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165820.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JEtHjJs.png" group-title="WORLD SPORTS",Sky Sport Action HD [UK]
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165884.m3u8
 
-# Total: 3549
+# Total: 3520

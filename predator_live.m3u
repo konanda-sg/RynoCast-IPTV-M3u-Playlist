@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2025-12-07 07:08:10
+# Generated: 2025-12-07 18:24:33
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -3799,7 +3799,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/80444.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Portugal",PT: ZAP VIVA FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/80443.m3u8
 
-# --- Shqiptare (433) ---
+# --- Shqiptare (442) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/1280px-Flag_of_Albania.svg.png" group-title="Shqiptare",====Shqiptare====
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/13104.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/240/240-2.png" group-title="Shqiptare",AL: RTK 1 ⁴ᴷ
@@ -4130,6 +4130,20 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/80323.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/80324.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: FilmBox Premium HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/79726.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: T Prime 1
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/81909.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: T Prime 2
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/81908.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: T Thriller
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/81907.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: T Drama
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/81906.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: T Action
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/81905.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: T Comedy
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/81904.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: T Serial
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/81903.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: ●Predator Gold●⁴ᴷ Janar 2025
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/79670.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: ●Predator Gold●⁴ᴷ Shator 2024
@@ -4366,6 +4380,10 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/80174.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/80173.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: ●Doku-Juventus●⁴ᴷ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/80185.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: T Doc 1
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/81911.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: T Doc 2
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/81910.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Shqiptare",= = = Fetar = = =
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/74844.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/h6yWfp.md.png" group-title="Shqiptare",AL: Predator Ilahi ᴴᴰ
@@ -8615,11 +8633,9 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/64282.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Usa",You Tube: VH1
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/64281.m3u8
 
-# --- World Sports (159) ---
+# --- World Sports (158) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/International_flag_globe.png" group-title="World Sports",===World Sports===
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/12487.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Inter Miami vs Vancouver Whitecaps
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/81902.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/artmotion/sport-1.png" group-title="World Sports",SPORT :Art Sport 1 ⁴ᴷ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/67989.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/artmotion/sport-1.png" group-title="World Sports",SPORT :Art Sport 2 ⁴ᴷ
@@ -8935,4 +8951,4 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/13200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Real Madrid Tv
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62225.m3u8
 
-# Total: 4437
+# Total: 4445

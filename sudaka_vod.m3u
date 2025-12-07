@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: sudaka.link:25461
-# Generated: 2025-12-07 07:11:23
+# Generated: 2025-12-07 18:28:47
 # Expires: 2026-01-03
 # Family Safe Edition
 # ==============================================
@@ -1535,7 +1535,7 @@ http://sudaka.link:25461/movie/omarrivas/omarrivas/17710.mp4
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGnX3H4fUAGEjUI1-jLOSt8y50da8WmRB_Gata0XuPBs.jpg" group-title="Movies | DEPORTES",Rafa Márquez: El capitán (2024)
 http://sudaka.link:25461/movie/omarrivas/omarrivas/34133.mkv
 
-# --- Movies | DISNEY + (32) ---
+# --- Movies | DISNEY + (33) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DISNEY +",The Mandalorian (2019)
 http://sudaka.link:25461/movie/omarrivas/omarrivas/106.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DISNEY +",Spider-Woman (1979)
@@ -1600,6 +1600,8 @@ http://sudaka.link:25461/movie/omarrivas/omarrivas/640099.mp4
 http://sudaka.link:25461/movie/omarrivas/omarrivas/640101.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DISNEY +",La suerte (2025)
 http://sudaka.link:25461/movie/omarrivas/omarrivas/640118.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DISNEY +",LEGO Star Wars: Reconstruye la galaxia - Piezas del pasado (2025)
+http://sudaka.link:25461/movie/omarrivas/omarrivas/640121.mp4
 
 # --- Movies | DOCUMENTALES (5) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DOCUMENTALES",Gigantes de la industria (2012)
@@ -4737,4 +4739,4 @@ http://sudaka.link:25461/series/omarrivas/omarrivas/640052
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES RETRO",La isla de Gilligan (1964)
 http://sudaka.link:25461/series/omarrivas/omarrivas/640053
 
-# Total: 2315
+# Total: 2316

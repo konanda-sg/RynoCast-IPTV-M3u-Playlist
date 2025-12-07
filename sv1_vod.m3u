@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: sv1.casahd.com
-# Generated: 2025-12-07 07:08:55
+# Generated: 2025-12-07 18:25:23
 # Expires: 2026-05-02
 # Family Safe Edition
 # ==============================================
@@ -34909,7 +34909,7 @@ http://sv1.casahd.com/series/528398/824141/53232
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Globoplay",Vespera
 http://sv1.casahd.com/series/528398/824141/53236
 
-# --- Series | Series | Legendadas (1156) ---
+# --- Series | Series | Legendadas (1161) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",007 Estrada para o Milhao [L]
 http://sv1.casahd.com/series/528398/824141/49501
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",100 Coisas para Fazer Antes de Virar Zumbi [L]
@@ -37222,6 +37222,16 @@ http://sv1.casahd.com/series/528398/824141/53226
 http://sv1.casahd.com/series/528398/824141/53227
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Avatar O Ultimo Mestre do Ar [L]
 http://sv1.casahd.com/series/528398/824141/53242
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Amor de Aluguel [L]
+http://sv1.casahd.com/series/528398/824141/53244
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Como Eu Conheci Sua Mae [L]
+http://sv1.casahd.com/series/528398/824141/53245
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Fundacao [L]
+http://sv1.casahd.com/series/528398/824141/53246
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Queridos X [L]
+http://sv1.casahd.com/series/528398/824141/53247
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",RuPauls Drag Race [L]
+http://sv1.casahd.com/series/528398/824141/53248
 
 # --- Series | Series | Lionsgate (7) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Lionsgate",Da Vinci's Demons
@@ -43165,4 +43175,4 @@ http://sv1.casahd.com/series/528398/824141/52667
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Univer",O Senhor e a Serva
 http://sv1.casahd.com/series/528398/824141/52936
 
-# Total: 21534
+# Total: 21539
