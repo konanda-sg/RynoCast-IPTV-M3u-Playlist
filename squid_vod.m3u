@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2025-12-08 07:11:34
+# Generated: 2025-12-08 18:28:40
 # Expires: 2026-01-17
 # Family Safe Edition
 # ==============================================
@@ -5869,7 +5869,23 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/14154.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/qndubIQalyxBJI5EBNZKGXEX74q.jpg" group-title="Movies | Filme 2024",Y2K (2024)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/48365.mp4
 
-# --- Movies | Filme 2025 (531) ---
+# --- Movies | Filme 2025 (539) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLXxpWRfoIPfB2fwM8hsAMIjSWf.jpg" group-title="Movies | Filme 2025",The Crucifix: Blood of the Exorcist - 2025
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65493.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Av1CK61z33v2OBFLD1yF5rdRxQ1.jpg" group-title="Movies | Filme 2025",Sarah's Oil - 2025
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65492.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1bFu2PJsAVSTzkyfgcTrT6FeQD.jpg" group-title="Movies | Filme 2025",Panopticon - 2025
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65491.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8qTMRmC07XCGidnKQFLbRM3FoDU.jpg" group-title="Movies | Filme 2025",Muzzle: City of Wolves - 2025
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65490.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f8wtLGdQPb3HdGIyqvWxCIsZsEb.jpg" group-title="Movies | Filme 2025",Fight for Tomorrow - 2025
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65489.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eoNJWa84J6DskVZIzaFFZsvZ16e.jpg" group-title="Movies | Filme 2025",Dog Patrol: Operation Santa Paws - 2025
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65488.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/naPPLaTYNIL88yTS4cC89PaqVOP.jpg" group-title="Movies | Filme 2025",Bump: A Christmas Film - 2025
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65487.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQXASNmCkpmhIjFbaPZvw2go1pS.jpg" group-title="Movies | Filme 2025",Blood Rush - 2025
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65486.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ySv3YNWkvIBzOjskNVce6Tf8yWX.jpg" group-title="Movies | Filme 2025",Padurea de molizi (2025)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65485.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/emhOHTwm3HlO1yqkVTl2doprTQh.jpg" group-title="Movies | Filme 2025",We Met in December - 2025
@@ -17161,6 +17177,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/517.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Mayday",Mayday
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/447.mp4
 
+# --- Movies | Mayfair Witches (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Mayfair Witches",Mayfair Witches (2023)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1119.mp4
+
 # --- Movies | Mayor of Kingstown (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Mayor of Kingstown",Mayor of Kingstown
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/617.mp4
@@ -17855,6 +17875,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/488.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seal Team",SEAL Team (2017)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/911.mp4
 
+# --- Movies | Sean Combs The Reckoning (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Sean Combs The Reckoning",Sean Combs: The Reckoning (2025)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1121.mp4
+
 # --- Movies | Secret Invasion (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Secret Invasion",Secret Invasion
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/461.mp4
@@ -18034,6 +18058,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/392.mp4
 # --- Movies | Spartacus (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Spartacus",Spartacus: Blood and Sand - The Motion Comic
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/259.mp4
+
+# --- Movies | Spartacus House of Ashur (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Spartacus House of Ashur",Spartacus: House of Ashur (2025)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1122.mp4
 
 # --- Movies | Special Ops Lioness (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Special Ops Lioness",Special Ops: Lioness
@@ -19377,4 +19405,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8533
+# Total: 8544

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 00322.xyz:8000
-# Generated: 2025-12-08 07:07:45
+# Generated: 2025-12-08 18:39:14
 # Expires: Unlimited
 # Family Safe Edition
 # ==============================================
@@ -2300,7 +2300,7 @@ http://00322.xyz:8000/live/Miyagi_ezR3stream/9307590414/156073.m3u8
 # --- Deportes: Definición Estandar SD⚽ (33) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="Deportes: Definición Estandar SD⚽",Sports SDT | FOX SPORTS MX
 http://00322.xyz:8000/live/Miyagi_ezR3stream/9307590414/1971.m3u8
-#EXTINF:-1 tvg-logo="https://tv.ittf.com/assets/img/logo@2x.png" group-title="Deportes: Definición Estandar SD⚽",Sports SDT | SPORTS TV (BR)
+#EXTINF:-1 tvg-logo="https://tv.ittf.com/assets/img/logo@2x.png" group-title="Deportes: Definición Estandar SD⚽",Sports SDT | SPORTV (BR)
 http://00322.xyz:8000/live/Miyagi_ezR3stream/9307590414/3655.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="Deportes: Definición Estandar SD⚽",Sports SDT | GOLTV
 http://00322.xyz:8000/live/Miyagi_ezR3stream/9307590414/125991.m3u8
@@ -5468,7 +5468,7 @@ http://00322.xyz:8000/live/Miyagi_ezR3stream/9307590414/300605.m3u8
 http://00322.xyz:8000/live/Miyagi_ezR3stream/9307590414/300606.m3u8
 #EXTINF:-1 tvg-logo="http://2.magmas5.com:8000/images/799f8529b1b45630065c647259a87a7b.png" group-title="Germany ⭐️ Premium",DE: OK Magdeburg * FHD
 http://00322.xyz:8000/live/Miyagi_ezR3stream/9307590414/300607.m3u8
-#EXTINF:-1 tvg-logo="http://2.magmas5.com:8000/images/3d54980260d09620587dfb5bdbddfb6f.jpg" group-title="Germany ⭐️ Premium",DE: OK Rhein-main HD
+#EXTINF:-1 tvg-logo="http://2.magmas5.com:8000/images/3d54980260d09620587dfb5bdbddfb6f.jpg" group-title="Germany ⭐️ Premium",DE: Nordrhein Westfalen FHD
 http://00322.xyz:8000/live/Miyagi_ezR3stream/9307590414/300609.m3u8
 #EXTINF:-1 tvg-logo="http://2.magmas5.com:8000/images/bc57b9995f9884cfa32c0a50a5c40952.png" group-title="Germany ⭐️ Premium",DE: OK Salzwedel * FHD
 http://00322.xyz:8000/live/Miyagi_ezR3stream/9307590414/300610.m3u8
@@ -11752,7 +11752,7 @@ http://00322.xyz:8000/live/Miyagi_ezR3stream/9307590414/131148.m3u8
 http://00322.xyz:8000/live/Miyagi_ezR3stream/9307590414/131149.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="⭐️USA Premium Channels!⭐️",USA: LA_Telemundo Las Vegas KBLR USA
 http://00322.xyz:8000/live/Miyagi_ezR3stream/9307590414/131150.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Telemundo_52_2018.png/220px-Telemundo_52_2018.png" group-title="⭐️USA Premium Channels!⭐️",USA: LA_Telemundo Los Angeles KVEA USA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Telemundo_52_2018.png/220px-Telemundo_52_2018.png" group-title="⭐️USA Premium Channels!⭐️",USA: Telemundo Los Angeles KVEA USA
 http://00322.xyz:8000/live/Miyagi_ezR3stream/9307590414/131151.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="⭐️USA Premium Channels!⭐️",USA: Telemundo New York WNJU USA
 http://00322.xyz:8000/live/Miyagi_ezR3stream/9307590414/131152.m3u8

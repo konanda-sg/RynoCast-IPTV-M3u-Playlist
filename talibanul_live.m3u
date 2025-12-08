@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: talibanul.net:8080
-# Generated: 2025-12-08 07:06:44
+# Generated: 2025-12-08 18:29:55
 # Expires: 2026-03-26
 # Family Safe Edition
 # ==============================================
@@ -490,6 +490,8 @@ http://talibanul.net:8080/live/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/705
 http://talibanul.net:8080/live/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/71114.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania",OpenTv Las Fierbinti Sezonul 27
 http://talibanul.net:8080/live/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/75887.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania",OpenTv Las Fierbinti Sezonul 28
+http://talibanul.net:8080/live/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/101524.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania",OpenTv Actiune New
 http://talibanul.net:8080/live/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/70591.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania",OpenTv Horror New
@@ -1112,8 +1114,6 @@ http://talibanul.net:8080/live/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/147
 http://talibanul.net:8080/live/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/58771.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Romania",Sens Tv
 http://talibanul.net:8080/live/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/74509.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania",OpenTv Las Fierbinti Sezonul 28
-http://talibanul.net:8080/live/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/101524.m3u8
 
 # --- Unknown (2) ---
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Unknown",OpenTV Liya Silver Pack 6

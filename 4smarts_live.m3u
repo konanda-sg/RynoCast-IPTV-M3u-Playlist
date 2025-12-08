@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 4smarts.xyz
-# Generated: 2025-12-08 07:06:26
+# Generated: 2025-12-08 18:31:13
 # Expires: 2026-01-23
 # Family Safe Edition
 # ==============================================
@@ -3542,13 +3542,13 @@ http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1001755.m3u8
 # --- VIP | LIGA PORTUGAL BETCLIC (10) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/PORTUGAL.png" group-title="VIP | LIGA PORTUGAL BETCLIC",#### PORTUGAL ####
 http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1032044.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - ESTORIL VS MOREIRENSE 16:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - VITÓRIA GUIMARÃES VS GIL VICENTE 21:30 CET
 http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1100839.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - ESTRELA VS AROUCA 19:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - NO MATCH
 http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1100840.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - ALVERCA VS NACIONAL 19:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - NO MATCH
 http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1100841.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - TONDELA VS PORTO 21:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - NO MATCH
 http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1127869.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - NO MATCH
 http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1150149.m3u8
@@ -3698,13 +3698,13 @@ http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1024113.m3u8
 # --- VIP | SERIE A (27) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/ITALY.png" group-title="VIP | SERIE A",##### ITALY #####
 http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1018093.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - CREMONESE VS LECCE 12:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - PISA VS PARMA 15:00 CET
 http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1100791.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - CAGLIARI VS ROMA 15:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - UDINESE VS GENOA 18:00 CET
 http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1033757.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - LAZIO VS BOLOGNA 18:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - TORINO VS MILAN 20:45 CET
 http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1033756.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - NAPOLI VS JUVENTUS 20:45 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - NO MATCH
 http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1018106.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - NO MATCH
 http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1018105.m3u8
@@ -3716,13 +3716,13 @@ http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1018102.m3u8
 http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1018103.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="VIP | SERIE A",##### ENGLISH #####
 http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1001778.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - CREMONESE VS LECCE 12:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - PISA VS PARMA 15:00 CET
 http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1100792.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - CAGLIARI VS ROMA 15:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - UDINESE VS GENOA 18:00 CET
 http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1100790.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - LAZIO VS BOLOGNA 18:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - TORINO VS MILAN 20:45 CET
 http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1028898.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - NAPOLI VS JUVENTUS 20:45 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - NO MATCH
 http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1028731.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - NO MATCH
 http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1028730.m3u8
@@ -3738,13 +3738,13 @@ http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1018094.m3u8
 http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1018095.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="VIP | SERIE A",##### ARABIC #####
 http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1001752.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - CREMONESE VS LECCE 12:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - PISA VS PARMA 15:00 CET
 http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1018113.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - CAGLIARI VS ROMA 15:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - UDINESE VS GENOA 18:00 CET
 http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1018112.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - LAZIO VS BOLOGNA 18:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR -TORINO VS MILAN 20:45 CET
 http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1018111.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - NAPOLI VS JUVENTUS 20:45 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - NO MATCH
 http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1018110.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - NO MATCH
 http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1018109.m3u8

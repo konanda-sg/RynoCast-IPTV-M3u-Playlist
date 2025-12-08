@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: byasmartv.com:8080
-# Generated: 2025-12-08 07:05:14
+# Generated: 2025-12-08 18:36:40
 # Expires: 2026-01-03
 # Family Safe Edition
 # ==============================================
@@ -490,6 +490,8 @@ http://byasmartv.com:8080/live/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/7058
 http://byasmartv.com:8080/live/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/71114.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania",OpenTv Las Fierbinti Sezonul 27
 http://byasmartv.com:8080/live/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/75887.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania",OpenTv Las Fierbinti Sezonul 28
+http://byasmartv.com:8080/live/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/101524.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania",OpenTv Actiune New
 http://byasmartv.com:8080/live/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/70591.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania",OpenTv Horror New
@@ -1112,8 +1114,6 @@ http://byasmartv.com:8080/live/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/1470
 http://byasmartv.com:8080/live/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/58771.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Romania",Sens Tv
 http://byasmartv.com:8080/live/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/74509.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania",OpenTv Las Fierbinti Sezonul 28
-http://byasmartv.com:8080/live/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/101524.m3u8
 
 # --- Unknown (2) ---
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Unknown",OpenTV Liya Silver Pack 6

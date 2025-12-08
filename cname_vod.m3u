@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: cname.dino.ws:80
-# Generated: 2025-12-06 18:30:37
+# Generated: 2025-12-08 18:34:29
 # Expires: 2026-01-31
 # Family Safe Edition
 # ==============================================
@@ -20,6 +20,10 @@ http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/20259.mp4
 http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/22241.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - CRTANE SERIJE [EXYU]",EX - Looney Tunes Cartoons
 http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/22242.mp4
+
+# --- Movies | SRS - POLSKIE SERIALE / PROGRAMY (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - POLSKIE SERIALE / PROGRAMY",PL - Bogdan Boner: Egzorcysta
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/31852.mp4
 
 # --- Movies | SRS - SERIJE [EXYU] (136) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - SERIJE [EXYU]",EX - Tvrdava (2025)
@@ -7405,4 +7409,4 @@ http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1309721.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg" group-title="Movies | VOD - LEKTOR / DUBBING / NAPISY [PL]",Nosferatu (2024)
 http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1226324.mkv
 
-# Total: 3692
+# Total: 3693

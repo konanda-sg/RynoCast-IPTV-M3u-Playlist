@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: florincercel.gotdns.ch:8008
-# Generated: 2025-12-08 07:10:41
+# Generated: 2025-12-08 18:35:54
 # Expires: 2026-01-08
 # Family Safe Edition
 # ==============================================
@@ -1421,7 +1421,7 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/544407.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="FRANTA",FR: A La Carte 10
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/544406.m3u8
 
-# --- GERMANIA (164) ---
+# --- GERMANIA (163) ---
 #EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="GERMANIA",DE: Willkommen bei den Louds
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/544819.m3u8
 #EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="GERMANIA",DE: Wicked Tuna
@@ -1466,8 +1466,6 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/544796.m3u8
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/544795.m3u8
 #EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="GERMANIA",DE: Sky Select Premiere 13
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/544794.m3u8
-#EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="GERMANIA",DE: Sky Select Premiere 12
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/544793.m3u8
 #EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="GERMANIA",DE: Sky Select Premiere 11
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/544792.m3u8
 #EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="GERMANIA",DE: Sky Select Premiere 10
@@ -1751,7 +1749,7 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/544636.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/dea2a6525c4ce1335d8ad0296a52ee2c.jpg" group-title="GERMANIA",DE: #dabeiTV
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/544635.m3u8
 
-# --- GRECIA (182) ---
+# --- GRECIA (181) ---
 #EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="GRECIA",GR: Vitrína Nova Premiere
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/544402.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/3e3ce006f856b006df5880dc5abed503.jpg" group-title="GRECIA",GR: TV Creta
@@ -2028,8 +2026,6 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/544262.m3u8
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/544261.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-01/efb2996d6b1295a1fc0a31d235c0d61c.jpg" group-title="GRECIA",GR: Nova Sports Extra 3 [vip]
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/544260.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-01/4be723560f3e196c3ce74526e7b0e0ef.jpg" group-title="GRECIA",GR: Nova Sports Extra 2 [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/544259.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-01/1d0472cc0d909bec07e379e79a86d4ec.jpg" group-title="GRECIA",GR: Nova Sports Extra 1 [vip]
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/544258.m3u8
 #EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="GRECIA",GR: Nova Sports 6 [vip]
@@ -8567,4 +8563,4 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/296306.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1Xsq73b1/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FLY AVENTURA ᶠᴴᴰ
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/296305.m3u8
 
-# Total: 4263
+# Total: 4261

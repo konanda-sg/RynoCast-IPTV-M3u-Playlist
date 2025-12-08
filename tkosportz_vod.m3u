@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tkosportz.live:25461
-# Generated: 2025-12-08 07:07:50
+# Generated: 2025-12-08 18:31:36
 # Expires: 2026-01-06
 # Family Safe Edition
 # ==============================================
@@ -5131,7 +5131,7 @@ http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/2643.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Mystery",The Rainmaker
 http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/2645.mp4
 
-# --- Movies | NEW RELEASE (670) ---
+# --- Movies | NEW RELEASE (673) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c47I6r4PXWrbQ09lW9AkCe5OZtk.jpg" group-title="Movies | NEW RELEASE",Opry 100: A Live Celebration (2025)
 http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/180878.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tSkMkPyIT80YUc5RVRJNJ6Ps13G.jpg" group-title="Movies | NEW RELEASE",Sight (2024)
@@ -6470,6 +6470,12 @@ http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/217912.mp4
 http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/217913.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sx5EuckP7SBQrlMlxg0PLt282WS.jpg" group-title="Movies | NEW RELEASE",Predators (2010)
 http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/217914.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1JTAYrgVa3r1rgiwbgq8gYLehK1.jpg" group-title="Movies | NEW RELEASE",Pay Dirt: The Story of Supercross (2024)
+http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/217954.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5JHPHQxcE1b0W2Spbncq5uJKW7i.jpg" group-title="Movies | NEW RELEASE",The Wrecker (2025)
+http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/217955.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bKLm1xS9DsODWB4i1SxTEvLXab9.jpg" group-title="Movies | NEW RELEASE",Jay Kelly (2025)
+http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/217956.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xcIZpuKevZ3xSP4ovb4qWhjZnPu.jpg" group-title="Movies | NEW RELEASE",Black Panthers of WWII (2025)
 http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/207943.mp4
 
@@ -7497,4 +7503,4 @@ http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/2592.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Western",The Last Frontier
 http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/2673.mp4
 
-# Total: 3704
+# Total: 3707

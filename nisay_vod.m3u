@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nisay.xyz:8080
-# Generated: 2025-12-08 07:03:31
+# Generated: 2025-12-08 18:35:49
 # Expires: 2026-10-04
 # Family Safe Edition
 # ==============================================
@@ -5799,7 +5799,7 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1802.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON",Spartacus Ashur Hanedanı
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1815.mp4
 
-# --- Movies | BEIN/TODD (55) ---
+# --- Movies | BEIN/TODD (58) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | BEIN/TODD",Aile Sirketi
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/188.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | BEIN/TODD",Fandom
@@ -5910,6 +5910,12 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1799.mp4
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1807.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | BEIN/TODD",Fight Night: The Million Dollar Heist
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1813.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | BEIN/TODD",Crutch
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1819.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | BEIN/TODD",DMV
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1820.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | BEIN/TODD",Grosse Pointe Garden Society
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1821.mp4
 
 # --- Movies | BELGESEL (4) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | BELGESEL",Gezegenimizde Yasam
@@ -13505,7 +13511,7 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1606.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: PARAMOUNT+",DE: Playing Gracie Darling
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1712.mp4
 
-# --- Movies | DIGER SERILER (66) ---
+# --- Movies | DIGER SERILER (67) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DIGER SERILER",The Passage - FOX
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/90.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DIGER SERILER",Supernatural - The CW
@@ -13638,6 +13644,8 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1772.mp4
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1794.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DIGER SERILER",Talamasca: The Secret Order
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1810.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DIGER SERILER",Little Disasters
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1822.mp4
 
 # --- Movies | DISNEY+ (138) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DISNEY+",Vikingler
@@ -15175,7 +15183,7 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/101615.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/go70h8uby3OfECZEiIGDQETPnzV.jpg" group-title="Movies | GERMANY WESTERN FILME",DE: Ich, Tom Horn 1980
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/138508.mp4
 
-# --- Movies | GUNCEL DIZI (25) ---
+# --- Movies | GUNCEL DIZI (24) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Lh8xbSr43ZVl3cI5Lu0hdW2ckW.jpg" group-title="Movies | GUNCEL DIZI",DIZI: ARKA SOKAKLAR (SON BOLUM)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/24076.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5HkjNXxhYNDsrJDPd9DEjk7wDqT.jpg" group-title="Movies | GUNCEL DIZI",DIZI: AYNADAKI YABANCI ( FiNAL BOLUM )
@@ -15184,8 +15192,6 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/157055.mkv
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/137496.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1mPhUUEGZFZdlLHUtPHENZae91g.jpg" group-title="Movies | GUNCEL DIZI",DIZI: BEN LEMAN ( SON BOLUM )
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/157056.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vxyhUSVOh9RYsdVynVWKIRGGGg7.jpg" group-title="Movies | GUNCEL DIZI",DIZI: CARPINTI( SON BOLUM )
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/155303.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b6QGAQBiAWXVPQvc9um8o9Q90jY.jpg" group-title="Movies | GUNCEL DIZI",DIZI: CENNETIN COCUKLARI ( SON BOLUM )
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/156453.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYr58J7eePyXbUpUA9jhxPsabum.jpg" group-title="Movies | GUNCEL DIZI",DIZI: ESREF RUYA ( SON BOLUM )
@@ -15603,7 +15609,7 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/91667.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | MUZIK VOD",Bulgaria Music
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/83163.mkv
 
-# --- Movies | NETFLIX (358) ---
+# --- Movies | NETFLIX (361) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Altered Carbon
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/36.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Dogs of Berlin
@@ -16320,6 +16326,12 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1783.mp4
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1784.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Kristal Guguk Kuşu - The Crystal Cuckoo
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1785.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",9-1-1: Nashville
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1816.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",The Abandons
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1817.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",The Price of Confession
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1818.mp4
 
 # --- Movies | NOSTALJI FILM (73) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJmoR4kdHEw6w8CncTKJ058RV7o.jpg" group-title="Movies | NOSTALJI FILM",Pearl Harbor (2001)
@@ -17685,7 +17697,7 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/278.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TALK SHOW",BKM Mutfak Stand-Up
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/340.mp4
 
-# --- Movies | TURK DIZILERI (101) ---
+# --- Movies | TURK DIZILERI (100) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TURK DIZILERI",Yasak Elma(FiNAL)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/6.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TURK DIZILERI",Eşkıya Dünyaya Hükümdar Olmaz (FİNAL)
@@ -17860,8 +17872,6 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1554.mp4
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1580.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TURK DIZILERI",Gözleri Karadeniz
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1648.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | TURK DIZILERI",Çarpıntı
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1659.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TURK DIZILERI",Veliaht
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1661.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TURK DIZILERI",Cennetin Çocukları
@@ -19615,4 +19625,4 @@ http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1503
 #EXTINF:-1 tvg-logo="" group-title="Series | TR ALTYAZI SERIES",Pluribus
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1803
 
-# Total: 9740
+# Total: 9745

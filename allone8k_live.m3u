@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: allone8k.info:8080
-# Generated: 2025-12-03 18:28:48
+# Generated: 2025-12-08 18:31:27
 # Expires: 2026-02-28
 # Family Safe Edition
 # ==============================================
@@ -3688,10 +3688,10 @@ http://allone8k.info:8080/live/mai/mai1234/463323.m3u8
 http://allone8k.info:8080/live/mai/mai1234/463324.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Gz6FtxYIFhMLEu-aNO8XfPoFvhxQ1YWwLWTjKuQB4xBDE6rxYUZSLbz4&s" group-title="AR | INTERNATIONAL SPORTS 4K",AD Sports 1 (◉)
 http://allone8k.info:8080/live/mai/mai1234/463325.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Gz6FtxYIFhMLEu-aNO8XfPoFvhxQ1YWwLWTjKuQB4xBDE6rxYUZSLbz4&s" group-title="AR | INTERNATIONAL SPORTS 4K",AD Sports 2 (◉)
-http://allone8k.info:8080/live/mai/mai1234/463326.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Gz6FtxYIFhMLEu-aNO8XfPoFvhxQ1YWwLWTjKuQB4xBDE6rxYUZSLbz4&s" group-title="AR | INTERNATIONAL SPORTS 4K",CricLife 1 (◉)
 http://allone8k.info:8080/live/mai/mai1234/463327.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Gz6FtxYIFhMLEu-aNO8XfPoFvhxQ1YWwLWTjKuQB4xBDE6rxYUZSLbz4&s" group-title="AR | INTERNATIONAL SPORTS 4K",AD Sports 2 (◉)
+http://allone8k.info:8080/live/mai/mai1234/463326.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Gz6FtxYIFhMLEu-aNO8XfPoFvhxQ1YWwLWTjKuQB4xBDE6rxYUZSLbz4&s" group-title="AR | INTERNATIONAL SPORTS 4K",CricLife 2 (◉)
 http://allone8k.info:8080/live/mai/mai1234/463328.m3u8
 #EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/sa/ksaSports1-95x42.gif" group-title="AR | INTERNATIONAL SPORTS 4K",SPO: KSA Sports 1 4K
@@ -18077,8 +18077,36 @@ http://allone8k.info:8080/live/mai/mai1234/229157.m3u8
 #EXTINF:-1 tvg-logo="" group-title="[AR] KURDISTAN",AR:KU-ISHTAR TV
 http://allone8k.info:8080/live/mai/mai1234/453199.m3u8
 
+# --- كأس العرب FIFA قطر 2025™ (13) ---
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/c/ce/%D9%83%D8%A3%D8%B3_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8_2025.png/250px-%D9%83%D8%A3%D8%B3_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8_2025.png" group-title="كأس العرب FIFA قطر 2025™",FIFA Arab Cup 1
+http://allone8k.info:8080/live/mai/mai1234/618315.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/c/ce/%D9%83%D8%A3%D8%B3_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8_2025.png/250px-%D9%83%D8%A3%D8%B3_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8_2025.png" group-title="كأس العرب FIFA قطر 2025™",FIFA Arab Cup 2
+http://allone8k.info:8080/live/mai/mai1234/618316.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/c/ce/%D9%83%D8%A3%D8%B3_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8_2025.png/250px-%D9%83%D8%A3%D8%B3_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8_2025.png" group-title="كأس العرب FIFA قطر 2025™",FIFA Arab Cup 3
+http://allone8k.info:8080/live/mai/mai1234/618317.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/c/ce/%D9%83%D8%A3%D8%B3_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8_2025.png/250px-%D9%83%D8%A3%D8%B3_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8_2025.png" group-title="كأس العرب FIFA قطر 2025™",FIFA Arab Cup 4
+http://allone8k.info:8080/live/mai/mai1234/618318.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/c/ce/%D9%83%D8%A3%D8%B3_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8_2025.png/250px-%D9%83%D8%A3%D8%B3_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8_2025.png" group-title="كأس العرب FIFA قطر 2025™",FIFA Arab Cup 5
+http://allone8k.info:8080/live/mai/mai1234/618319.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/c/ce/%D9%83%D8%A3%D8%B3_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8_2025.png/250px-%D9%83%D8%A3%D8%B3_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8_2025.png" group-title="كأس العرب FIFA قطر 2025™",FIFA Arab Cup 6
+http://allone8k.info:8080/live/mai/mai1234/618320.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/c/ce/%D9%83%D8%A3%D8%B3_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8_2025.png/250px-%D9%83%D8%A3%D8%B3_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8_2025.png" group-title="كأس العرب FIFA قطر 2025™",FIFA Arab Cup 7
+http://allone8k.info:8080/live/mai/mai1234/619067.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/c/ce/%D9%83%D8%A3%D8%B3_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8_2025.png/250px-%D9%83%D8%A3%D8%B3_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8_2025.png" group-title="كأس العرب FIFA قطر 2025™",FIFA Arab Cup 8
+http://allone8k.info:8080/live/mai/mai1234/619068.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/c/ce/%D9%83%D8%A3%D8%B3_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8_2025.png/250px-%D9%83%D8%A3%D8%B3_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8_2025.png" group-title="كأس العرب FIFA قطر 2025™",FIFA Arab Cup 9
+http://allone8k.info:8080/live/mai/mai1234/619069.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/c/ce/%D9%83%D8%A3%D8%B3_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8_2025.png/250px-%D9%83%D8%A3%D8%B3_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8_2025.png" group-title="كأس العرب FIFA قطر 2025™",FIFA Arab Cup 10
+http://allone8k.info:8080/live/mai/mai1234/619070.m3u8
+#EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/8zy37ijzq5qx1x564yaaameqc.128.png?ver=03-06-2025" group-title="كأس العرب FIFA قطر 2025™",FIFA Arab Cup 11
+http://allone8k.info:8080/live/mai/mai1234/619072.m3u8
+#EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/8zy37ijzq5qx1x564yaaameqc.128.png?ver=03-06-2025" group-title="كأس العرب FIFA قطر 2025™",FIFA Arab Cup 12
+http://allone8k.info:8080/live/mai/mai1234/619074.m3u8
+#EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/8zy37ijzq5qx1x564yaaameqc.128.png?ver=03-06-2025" group-title="كأس العرب FIFA قطر 2025™",FIFA Arab Cup 13
+http://allone8k.info:8080/live/mai/mai1234/619076.m3u8
+
 # --- مهم (1) ---
 #EXTINF:-1 tvg-logo="" group-title="مهم",mbc masr test
 http://allone8k.info:8080/live/mai/mai1234/473269.m3u8
 
-# Total: 8833
+# Total: 8846

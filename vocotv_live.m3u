@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: vocotv.pro
-# Generated: 2025-12-08 07:05:50
+# Generated: 2025-12-08 18:30:01
 # Expires: 2026-06-28
 # Family Safe Edition
 # ==============================================
@@ -6244,19 +6244,19 @@ http://vocotv.pro/live/nowak1/nowak1/324440.m3u8
 http://vocotv.pro/live/nowak1/nowak1/324439.m3u8
 
 # --- USA | AHL (78) ---
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/AmericanHockeyLeaguelogo.svg/800px-AmericanHockeyLeaguelogo.svg.png" group-title="USA | AHL",AHL: Lehigh Valley vs Hershey @ Dec 7 3:00 PM :AHL  01
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/AmericanHockeyLeaguelogo.svg/800px-AmericanHockeyLeaguelogo.svg.png" group-title="USA | AHL",no events scheduled today :AHL  01
 http://vocotv.pro/live/nowak1/nowak1/703544.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/AmericanHockeyLeaguelogo.svg/800px-AmericanHockeyLeaguelogo.svg.png" group-title="USA | AHL",AHL: Springfield vs Providence @ Dec 7 3:05 PM :AHL  02
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/AmericanHockeyLeaguelogo.svg/800px-AmericanHockeyLeaguelogo.svg.png" group-title="USA | AHL",:AHL  02
 http://vocotv.pro/live/nowak1/nowak1/703543.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/AmericanHockeyLeaguelogo.svg/800px-AmericanHockeyLeaguelogo.svg.png" group-title="USA | AHL",AHL: Manitoba vs Iowa @ Dec 7 4:00 PM :AHL  03
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/AmericanHockeyLeaguelogo.svg/800px-AmericanHockeyLeaguelogo.svg.png" group-title="USA | AHL",:AHL  03
 http://vocotv.pro/live/nowak1/nowak1/703542.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/AmericanHockeyLeaguelogo.svg/800px-AmericanHockeyLeaguelogo.svg.png" group-title="USA | AHL",AHL: Grand Rapids vs Toronto @ Dec 7 4:00 PM :AHL  04
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/AmericanHockeyLeaguelogo.svg/800px-AmericanHockeyLeaguelogo.svg.png" group-title="USA | AHL",:AHL  04
 http://vocotv.pro/live/nowak1/nowak1/703541.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/AmericanHockeyLeaguelogo.svg/800px-AmericanHockeyLeaguelogo.svg.png" group-title="USA | AHL",AHL: Calgary vs Ontario @ Dec 7 6:00 PM :AHL  05
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/AmericanHockeyLeaguelogo.svg/800px-AmericanHockeyLeaguelogo.svg.png" group-title="USA | AHL",:AHL  05
 http://vocotv.pro/live/nowak1/nowak1/703540.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/AmericanHockeyLeaguelogo.svg/800px-AmericanHockeyLeaguelogo.svg.png" group-title="USA | AHL",AHL: Coachella Valley vs Abbotsford @ Dec 7 7:00 PM :AHL  06
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/AmericanHockeyLeaguelogo.svg/800px-AmericanHockeyLeaguelogo.svg.png" group-title="USA | AHL",:AHL  06
 http://vocotv.pro/live/nowak1/nowak1/703539.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/AmericanHockeyLeaguelogo.svg/800px-AmericanHockeyLeaguelogo.svg.png" group-title="USA | AHL",AHL: Texas vs San Diego @ Dec 7 8:00 PM :AHL  07
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/AmericanHockeyLeaguelogo.svg/800px-AmericanHockeyLeaguelogo.svg.png" group-title="USA | AHL",:AHL  07
 http://vocotv.pro/live/nowak1/nowak1/703538.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/AmericanHockeyLeaguelogo.svg/800px-AmericanHockeyLeaguelogo.svg.png" group-title="USA | AHL",:AHL  08
 http://vocotv.pro/live/nowak1/nowak1/703537.m3u8
@@ -7129,116 +7129,122 @@ http://vocotv.pro/live/nowak1/nowak1/762257.m3u8
 #EXTINF:-1 tvg-logo="https://gotrialpro.net/wp-content/uploads/edd/2024/08/FloBaseball-Free-Trial-1-2048x946.png" group-title="USA | Flo Baseball",Flo Baseball 50 :
 http://vocotv.pro/live/nowak1/nowak1/762256.m3u8
 
-# --- USA | Flo Hockey (147) ---
+# --- USA | Flo Hockey (150) ---
 #EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",FloHockey 24/7 :Flo Hockey  01
 http://vocotv.pro/live/nowak1/nowak1/703694.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",MHL: West Kent vs Chaleur @ Dec 7 1:00 PM :Flo Hockey  02
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",OJHL: Team Red vs Team Black @ Dec 8 4:00 PM :Flo Hockey  02
 http://vocotv.pro/live/nowak1/nowak1/703693.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",NOJHL: Timmins vs Blind River @ Dec 7 1:00 PM :Flo Hockey  03
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",LHJMQ: Charlottetown vs Newfoundland @ Dec 8 5:30 PM :Flo Hockey  03
 http://vocotv.pro/live/nowak1/nowak1/703692.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",OJHL: Tigers vs Dukes @ Dec 7 1:30 PM :Flo Hockey  04
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",AJHL: Whitecourt vs Fort McMurray @ Dec 8 9:00 PM :Flo Hockey  04
 http://vocotv.pro/live/nowak1/nowak1/703691.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",OHL: North Bay vs Niagara @ Dec 7 2:00 PM :Flo Hockey  05
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  05
 http://vocotv.pro/live/nowak1/nowak1/703690.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",LHJMQ: Moncton vs Saint John @ Dec 7 2:00 PM :Flo Hockey  06
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  06
 http://vocotv.pro/live/nowak1/nowak1/703689.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",LHJMQ: Val dOr vs Halifax @ Dec 7 2:00 PM :Flo Hockey  07
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  07
 http://vocotv.pro/live/nowak1/nowak1/703688.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",NOJHL: Iroquois Falls vs Kirkland Lake @ Dec 7 2:00 PM :Flo Hockey  08
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  08
 http://vocotv.pro/live/nowak1/nowak1/703687.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",NOJHL: Espanola vs French River @ Dec 7 2:00 PM :Flo Hockey  10
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  09
+http://vocotv.pro/live/nowak1/nowak1/703686.m3u8
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  10
 http://vocotv.pro/live/nowak1/nowak1/703685.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",OHL: Oshawa vs Sudbury @ Dec 7 2:05 PM :Flo Hockey  11
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  11
 http://vocotv.pro/live/nowak1/nowak1/703684.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",OHL: Kitchener vs Guelph @ Dec 7 2:07 PM :Flo Hockey  12
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  12
 http://vocotv.pro/live/nowak1/nowak1/703683.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",OHL: Sarnia vs Soo @ Dec 7 2:07 PM :Flo Hockey  13
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  13
 http://vocotv.pro/live/nowak1/nowak1/703682.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",LHJMQ: Charlottetown vs Newfoundland @ Dec 7 2:30 PM :Flo Hockey  14
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  14
 http://vocotv.pro/live/nowak1/nowak1/703681.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",OJHL: Royals vs Admirals @ Dec 7 2:30 PM :Flo Hockey  15
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  15
 http://vocotv.pro/live/nowak1/nowak1/703680.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",OJHL: Leamington vs Rangers @ Dec 7 2:30 PM :Flo Hockey  16
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  16
 http://vocotv.pro/live/nowak1/nowak1/703679.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",CCHL: Brockville vs Nepean @ Dec 7 2:30 PM :Flo Hockey  17
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  17
 http://vocotv.pro/live/nowak1/nowak1/703678.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",AHL: Lehigh Valley vs Hershey @ Dec 7 3:00 PM :Flo Hockey  19
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  18
+http://vocotv.pro/live/nowak1/nowak1/703677.m3u8
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  19
 http://vocotv.pro/live/nowak1/nowak1/703676.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",ECHL: Orlando vs Savannah @ Dec 7 3:00 PM :Flo Hockey  20
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  20
 http://vocotv.pro/live/nowak1/nowak1/703675.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",OHL: Flint vs Ottawa @ Dec 7 3:00 PM :Flo Hockey  21
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  21
 http://vocotv.pro/live/nowak1/nowak1/703674.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",LHJMQ: Drummondville vs Victoriaville @ Dec 7 3:00 PM :Flo Hockey  22
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  22
 http://vocotv.pro/live/nowak1/nowak1/703673.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",SPHL: Peoria vs Fayetteville @ Dec 7 3:00 PM :Flo Hockey  23
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  23
 http://vocotv.pro/live/nowak1/nowak1/703672.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",MHL: Yarmouth vs Pictou County @ Dec 7 3:00 PM :Flo Hockey  24
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  24
 http://vocotv.pro/live/nowak1/nowak1/703671.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",CCHL: Renfrew vs Carleton Place @ Dec 7 3:00 PM :Flo Hockey  25
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  25
 http://vocotv.pro/live/nowak1/nowak1/703670.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",OJHL: Cougars vs King @ Dec 7 3:00 PM :Flo Hockey  26
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  26
 http://vocotv.pro/live/nowak1/nowak1/703669.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",AHL: Springfield vs Providence @ Dec 7 3:05 PM :Flo Hockey  27
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  27
 http://vocotv.pro/live/nowak1/nowak1/703668.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",ECHL: Florida vs Norfolk @ Dec 7 3:05 PM :Flo Hockey  28
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  28
 http://vocotv.pro/live/nowak1/nowak1/703667.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",ECHL: Greenville vs South Carolina @ Dec 7 3:05 PM :Flo Hockey  29
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  29
 http://vocotv.pro/live/nowak1/nowak1/703666.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",ECHL: Jacksonville vs Atlanta @ Dec 7 3:10 PM :Flo Hockey  30
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  30
 http://vocotv.pro/live/nowak1/nowak1/703665.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",MJHL: Selkirk vs Steinbach @ Dec 7 3:30 PM :Flo Hockey  31
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  31
 http://vocotv.pro/live/nowak1/nowak1/703664.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",OJHL: Raiders vs Sabres @ Dec 7 3:30 PM :Flo Hockey  32
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  32
 http://vocotv.pro/live/nowak1/nowak1/703663.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",CCHL: Kemptville vs Navan @ Dec 7 3:30 PM :Flo Hockey  33
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  33
 http://vocotv.pro/live/nowak1/nowak1/703662.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",NWJHL: Kodiaks vs Lumber Barons @ Dec 7 3:30 PM :Flo Hockey  34
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  34
 http://vocotv.pro/live/nowak1/nowak1/703661.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",AHL: Manitoba vs Iowa @ Dec 7 4:00 PM :Flo Hockey  35
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  35
 http://vocotv.pro/live/nowak1/nowak1/703660.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",AHL: Grand Rapids vs Toronto @ Dec 7 4:00 PM :Flo Hockey  36
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  36
 http://vocotv.pro/live/nowak1/nowak1/703659.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",LHJMQ: Baie Comeau vs Chicoutimi @ Dec 7 4:00 PM :Flo Hockey  37
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  37
 http://vocotv.pro/live/nowak1/nowak1/703658.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",SJHL: Battlefords vs Weyburn @ Dec 7 4:00 PM :Flo Hockey  38
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  38
 http://vocotv.pro/live/nowak1/nowak1/703657.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",AJHL: Drayton Valley vs Drumheller @ Dec 7 4:00 PM :Flo Hockey  39
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  39
 http://vocotv.pro/live/nowak1/nowak1/703656.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",ECHL: Kansas City vs Tulsa @ Dec 7 4:05 PM :Flo Hockey  41
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  40
+http://vocotv.pro/live/nowak1/nowak1/703655.m3u8
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  41
 http://vocotv.pro/live/nowak1/nowak1/703654.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",ECHL: Greensboro vs Wheeling @ Dec 7 4:10 PM :Flo Hockey  42
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  42
 http://vocotv.pro/live/nowak1/nowak1/703653.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",SJHL: Estevan vs Humboldt @ Dec 7 5:00 PM :Flo Hockey  43
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  43
 http://vocotv.pro/live/nowak1/nowak1/703652.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",AJHL: Devon vs Olds @ Dec 7 5:00 PM :Flo Hockey  44
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  44
 http://vocotv.pro/live/nowak1/nowak1/703651.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",ECHL: Cincinnati vs Fort Wayne @ Dec 7 5:05 PM :Flo Hockey  45
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  45
 http://vocotv.pro/live/nowak1/nowak1/703650.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",USHL: Madison vs Cedar Rapids @ Dec 7 5:05 PM :Flo Hockey  46
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  46
 http://vocotv.pro/live/nowak1/nowak1/703649.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",ECHL: Indy vs Toledo @ Dec 7 5:15 PM :Flo Hockey  47
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  47
 http://vocotv.pro/live/nowak1/nowak1/703648.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",AHL: Calgary vs Ontario @ Dec 7 6:00 PM :Flo Hockey  48
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  48
 http://vocotv.pro/live/nowak1/nowak1/703647.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",SPHL: Roanoke vs Huntsville @ Dec 7 6:00 PM :Flo Hockey  49
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  49
 http://vocotv.pro/live/nowak1/nowak1/703646.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",BCHL: Brooks vs Blackfalds @ Dec 7 6:00 PM :Flo Hockey  50
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  50
 http://vocotv.pro/live/nowak1/nowak1/703645.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",AHL: Coachella Valley vs Abbotsford @ Dec 7 7:00 PM :Flo Hockey  51
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  51
 http://vocotv.pro/live/nowak1/nowak1/703644.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",CCHL: Cornwall vs Pembroke @ Dec 7 7:00 PM :Flo Hockey  52
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  52
 http://vocotv.pro/live/nowak1/nowak1/703643.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",MJHL: Virden vs Niverville @ Dec 7 7:00 PM :Flo Hockey  53
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  53
 http://vocotv.pro/live/nowak1/nowak1/703642.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",BCHL: Coquitlam vs Surrey @ Dec 7 7:00 PM :Flo Hockey  54
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  54
 http://vocotv.pro/live/nowak1/nowak1/703641.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",OJHL: Buzzer vs Newmarket @ Dec 7 7:30 PM :Flo Hockey  55
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  55
 http://vocotv.pro/live/nowak1/nowak1/703640.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",OJHL: Spirit vs Muskies @ Dec 7 7:30 PM :Flo Hockey  56
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  56
 http://vocotv.pro/live/nowak1/nowak1/703639.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",AHL: Texas vs San Diego @ Dec 7 8:00 PM :Flo Hockey  57
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  57
 http://vocotv.pro/live/nowak1/nowak1/703638.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",MJHL: Portage vs Winkler @ Dec 7 8:30 PM :Flo Hockey  58
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  58
 http://vocotv.pro/live/nowak1/nowak1/703637.m3u8
 #EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  59
 http://vocotv.pro/live/nowak1/nowak1/703636.m3u8
@@ -7425,28 +7431,30 @@ http://vocotv.pro/live/nowak1/nowak1/703546.m3u8
 #EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="USA | Flo Hockey",:Flo Hockey  150
 http://vocotv.pro/live/nowak1/nowak1/703545.m3u8
 
-# --- USA | Flo Hoops (49) ---
-#EXTINF:-1 tvg-logo="https://www.a10talk.com/wp-content/uploads/2023/04/Screenshot-2023-04-01-101258.png" group-title="USA | Flo Hoops",Mercy vs Daemen @ Dec 7 11:00 AM :Flo Hoops  01
+# --- USA | Flo Hoops (50) ---
+#EXTINF:-1 tvg-logo="https://www.a10talk.com/wp-content/uploads/2023/04/Screenshot-2023-04-01-101258.png" group-title="USA | Flo Hoops",Westminster College vs WashU @ Dec 8 6:30 PM :Flo Hoops  01
 http://vocotv.pro/live/nowak1/nowak1/780013.m3u8
-#EXTINF:-1 tvg-logo="https://www.a10talk.com/wp-content/uploads/2023/04/Screenshot-2023-04-01-101258.png" group-title="USA | Flo Hoops",Central Connecticut vs Northeastern @ Dec 7 1:00 PM :Flo Hoops  02
+#EXTINF:-1 tvg-logo="https://www.a10talk.com/wp-content/uploads/2023/04/Screenshot-2023-04-01-101258.png" group-title="USA | Flo Hoops",Trinity College CT vs Springfield @ Dec 8 7:00 PM :Flo Hoops  02
 http://vocotv.pro/live/nowak1/nowak1/780012.m3u8
-#EXTINF:-1 tvg-logo="https://www.a10talk.com/wp-content/uploads/2023/04/Screenshot-2023-04-01-101258.png" group-title="USA | Flo Hoops",Stevens Tech vs Rochester @ Dec 7 1:00 PM :Flo Hoops  03
+#EXTINF:-1 tvg-logo="https://www.a10talk.com/wp-content/uploads/2023/04/Screenshot-2023-04-01-101258.png" group-title="USA | Flo Hoops",BUF vs Valdosta State @ Dec 8 7:00 PM :Flo Hoops  03
 http://vocotv.pro/live/nowak1/nowak1/780011.m3u8
-#EXTINF:-1 tvg-logo="https://www.a10talk.com/wp-content/uploads/2023/04/Screenshot-2023-04-01-101258.png" group-title="USA | Flo Hoops",Molloy vs Daemen @ Dec 7 1:00 PM :Flo Hoops  04
+#EXTINF:-1 tvg-logo="https://www.a10talk.com/wp-content/uploads/2023/04/Screenshot-2023-04-01-101258.png" group-title="USA | Flo Hoops",Cheyney PA vs CSI @ Dec 8 7:00 PM :Flo Hoops  04
 http://vocotv.pro/live/nowak1/nowak1/780010.m3u8
-#EXTINF:-1 tvg-logo="https://www.a10talk.com/wp-content/uploads/2023/04/Screenshot-2023-04-01-101258.png" group-title="USA | Flo Hoops",Queens NY vs DYouville @ Dec 7 1:00 PM :Flo Hoops  05
+#EXTINF:-1 tvg-logo="https://www.a10talk.com/wp-content/uploads/2023/04/Screenshot-2023-04-01-101258.png" group-title="USA | Flo Hoops",Belhaven vs Whitworth @ Dec 8 9:00 PM :Flo Hoops  05
 http://vocotv.pro/live/nowak1/nowak1/780009.m3u8
-#EXTINF:-1 tvg-logo="https://www.a10talk.com/wp-content/uploads/2023/04/Screenshot-2023-04-01-101258.png" group-title="USA | Flo Hoops",Berry vs Emory @ Dec 7 2:00 PM :Flo Hoops  06
+#EXTINF:-1 tvg-logo="https://www.a10talk.com/wp-content/uploads/2023/04/Screenshot-2023-04-01-101258.png" group-title="USA | Flo Hoops",:Flo Hoops  06
 http://vocotv.pro/live/nowak1/nowak1/780008.m3u8
-#EXTINF:-1 tvg-logo="https://www.a10talk.com/wp-content/uploads/2023/04/Screenshot-2023-04-01-101258.png" group-title="USA | Flo Hoops",Hardin Simmons vs Austin College @ Dec 7 3:00 PM :Flo Hoops  07
+#EXTINF:-1 tvg-logo="https://www.a10talk.com/wp-content/uploads/2023/04/Screenshot-2023-04-01-101258.png" group-title="USA | Flo Hoops",:Flo Hoops  07
 http://vocotv.pro/live/nowak1/nowak1/780007.m3u8
-#EXTINF:-1 tvg-logo="https://www.a10talk.com/wp-content/uploads/2023/04/Screenshot-2023-04-01-101258.png" group-title="USA | Flo Hoops",Howard Payne vs Dallas @ Dec 7 3:00 PM :Flo Hoops  08
+#EXTINF:-1 tvg-logo="https://www.a10talk.com/wp-content/uploads/2023/04/Screenshot-2023-04-01-101258.png" group-title="USA | Flo Hoops",:Flo Hoops  08
 http://vocotv.pro/live/nowak1/nowak1/780006.m3u8
-#EXTINF:-1 tvg-logo="https://www.a10talk.com/wp-content/uploads/2023/04/Screenshot-2023-04-01-101258.png" group-title="USA | Flo Hoops",UC Santa Cruz vs Lewis & Clark @ Dec 7 4:00 PM :Flo Hoops  10
+#EXTINF:-1 tvg-logo="https://www.a10talk.com/wp-content/uploads/2023/04/Screenshot-2023-04-01-101258.png" group-title="USA | Flo Hoops",:Flo Hoops  09
+http://vocotv.pro/live/nowak1/nowak1/780005.m3u8
+#EXTINF:-1 tvg-logo="https://www.a10talk.com/wp-content/uploads/2023/04/Screenshot-2023-04-01-101258.png" group-title="USA | Flo Hoops",:Flo Hoops  10
 http://vocotv.pro/live/nowak1/nowak1/780004.m3u8
-#EXTINF:-1 tvg-logo="https://www.a10talk.com/wp-content/uploads/2023/04/Screenshot-2023-04-01-101258.png" group-title="USA | Flo Hoops",Bushnell vs Lewis & Clark @ Dec 7 6:00 PM :Flo Hoops  11
+#EXTINF:-1 tvg-logo="https://www.a10talk.com/wp-content/uploads/2023/04/Screenshot-2023-04-01-101258.png" group-title="USA | Flo Hoops",:Flo Hoops  11
 http://vocotv.pro/live/nowak1/nowak1/780003.m3u8
-#EXTINF:-1 tvg-logo="https://www.a10talk.com/wp-content/uploads/2023/04/Screenshot-2023-04-01-101258.png" group-title="USA | Flo Hoops",Arkansas Baptist vs Hendrix College @ Dec 7 7:00 PM :Flo Hoops  12
+#EXTINF:-1 tvg-logo="https://www.a10talk.com/wp-content/uploads/2023/04/Screenshot-2023-04-01-101258.png" group-title="USA | Flo Hoops",:Flo Hoops  12
 http://vocotv.pro/live/nowak1/nowak1/780002.m3u8
 #EXTINF:-1 tvg-logo="https://www.a10talk.com/wp-content/uploads/2023/04/Screenshot-2023-04-01-101258.png" group-title="USA | Flo Hoops",:Flo Hoops  13
 http://vocotv.pro/live/nowak1/nowak1/780001.m3u8
@@ -7528,7 +7536,7 @@ http://vocotv.pro/live/nowak1/nowak1/779964.m3u8
 # --- USA | Flo Racing (50) ---
 #EXTINF:-1 tvg-logo="https://gotrialpro.com/wp-content/uploads/edd/2024/08/Floracing-Free-Trial-2048x946.png" group-title="USA | Flo Racing",FloRacing 24/7 :Flo Racing  01
 http://vocotv.pro/live/nowak1/nowak1/696874.m3u8
-#EXTINF:-1 tvg-logo="https://gotrialpro.com/wp-content/uploads/edd/2024/08/Floracing-Free-Trial-2048x946.png" group-title="USA | Flo Racing",Snowball Derby at Five Flags @ Dec 7 11:45 AM :Flo Racing  02
+#EXTINF:-1 tvg-logo="https://gotrialpro.com/wp-content/uploads/edd/2024/08/Floracing-Free-Trial-2048x946.png" group-title="USA | Flo Racing",Snowball Derby at Five Flags @ Dec 8 1:30 PM :Flo Racing  02
 http://vocotv.pro/live/nowak1/nowak1/696873.m3u8
 #EXTINF:-1 tvg-logo="https://gotrialpro.com/wp-content/uploads/edd/2024/08/Floracing-Free-Trial-2048x946.png" group-title="USA | Flo Racing",:Flo Racing  03
 http://vocotv.pro/live/nowak1/nowak1/696872.m3u8
@@ -7627,88 +7635,86 @@ http://vocotv.pro/live/nowak1/nowak1/696826.m3u8
 #EXTINF:-1 tvg-logo="https://gotrialpro.com/wp-content/uploads/edd/2024/08/Floracing-Free-Trial-2048x946.png" group-title="USA | Flo Racing",:Flo Racing  50
 http://vocotv.pro/live/nowak1/nowak1/696825.m3u8
 
-# --- USA | Flo Wrestling (50) ---
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",GLVC Conference Duals @ Dec 7 5:56 AM :Flo Wrestling  01
+# --- USA | Flo Wrestling (49) ---
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",CBAL Monday Night JV Conflict @ Dec 8 5:30 AM :Flo Wrestling  01
 http://vocotv.pro/live/nowak1/nowak1/762356.m3u8
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",Junior Ironman @ Dec 7 8:00 AM :Flo Wrestling  02
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",MS Metro Conference @Harrisburg HS @ Dec 8 6:00 AM :Flo Wrestling  02
 http://vocotv.pro/live/nowak1/nowak1/762355.m3u8
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",25 26 TNAAU Beginner @ Rocky Top @ Dec 7 8:00 AM :Flo Wrestling  03
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",WEEK 2 WEIGHT CHECK @ Dec 8 7:00 AM :Flo Wrestling  03
 http://vocotv.pro/live/nowak1/nowak1/762354.m3u8
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",Bob Smith Open @ Dec 7 9:30 AM :Flo Wrestling  04
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",Osley B Saunooke Memorial Invitational @ Dec 8 8:00 AM :Flo Wrestling  04
 http://vocotv.pro/live/nowak1/nowak1/762353.m3u8
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",Cougar Clash @ Dec 7 10:00 AM :Flo Wrestling  05
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",Mitchell JH Boys 25 @ Dec 8 11:00 AM :Flo Wrestling  05
 http://vocotv.pro/live/nowak1/nowak1/762352.m3u8
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",A Better Way Athletics Patriot Open @ Dec 7 10:00 AM :Flo Wrestling  06
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",Arapahoe JH Meet @ Dec 8 1:30 PM :Flo Wrestling  06
 http://vocotv.pro/live/nowak1/nowak1/762351.m3u8
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",Clackamas Community College Open @ Dec 7 12:00 PM :Flo Wrestling  07
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",Nandua @ Hampton @ Dec 8 2:00 PM :Flo Wrestling  07
 http://vocotv.pro/live/nowak1/nowak1/762350.m3u8
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",2025 Journeymen Jostle @ Dec 7 1:00 PM :Flo Wrestling  08
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",Anselmo Merna Jr High Wrestling @ Dec 8 2:00 PM :Flo Wrestling  08
 http://vocotv.pro/live/nowak1/nowak1/762349.m3u8
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",Indiana vs Little Rock @ Dec 7 1:30 PM :Flo Wrestling  09
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",JH Boys GWAC @Ulysses @ Dec 8 3:00 PM :Flo Wrestling  09
 http://vocotv.pro/live/nowak1/nowak1/762348.m3u8
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",Wisconsin vs Hofstra @ Dec 7 2:00 PM :Flo Wrestling  10
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",2025 Williamsburg Girls Invitational @ Dec 8 4:00 PM :Flo Wrestling  10
 http://vocotv.pro/live/nowak1/nowak1/762347.m3u8
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",CSU Pueblo vs SF State @ Dec 7 4:00 PM :Flo Wrestling  11
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",QUAD @ Miami High @ Dec 8 4:00 PM :Flo Wrestling  11
 http://vocotv.pro/live/nowak1/nowak1/762346.m3u8
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",:Flo Wrestling  12
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",Miami High Girls IBT @ Dec 8 4:00 PM :Flo Wrestling  12
 http://vocotv.pro/live/nowak1/nowak1/762345.m3u8
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",:Flo Wrestling  13
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",WACC NOVICE @ Dec 8 4:00 PM :Flo Wrestling  13
 http://vocotv.pro/live/nowak1/nowak1/762344.m3u8
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",:Flo Wrestling  14
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",Bell @ California Whittier @ Dec 8 4:00 PM :Flo Wrestling  14
 http://vocotv.pro/live/nowak1/nowak1/762343.m3u8
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",:Flo Wrestling  15
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",JV Scramble DEC @ Dec 8 4:00 PM :Flo Wrestling  15
 http://vocotv.pro/live/nowak1/nowak1/762342.m3u8
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",:Flo Wrestling  16
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",SLAM Academy @ Miami Senior @ Dec 8 4:00 PM :Flo Wrestling  16
 http://vocotv.pro/live/nowak1/nowak1/762341.m3u8
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",:Flo Wrestling  17
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",Belton JV Scramble @ Dec 8 4:00 PM :Flo Wrestling  17
 http://vocotv.pro/live/nowak1/nowak1/762340.m3u8
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",:Flo Wrestling  18
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",West Holt Girls Invitational 2025 2026 @ Dec 8 4:00 PM :Flo Wrestling  18
 http://vocotv.pro/live/nowak1/nowak1/762339.m3u8
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",:Flo Wrestling  19
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",LHC Westview CooperCanyon @ Dec 8 4:00 PM :Flo Wrestling  19
 http://vocotv.pro/live/nowak1/nowak1/762338.m3u8
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",:Flo Wrestling  20
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",Banning Senior @ North Torrance @ Dec 8 4:30 PM :Flo Wrestling  20
 http://vocotv.pro/live/nowak1/nowak1/762337.m3u8
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",:Flo Wrestling  21
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",Yough Hs @ Brashear Hs @ Dec 8 4:30 PM :Flo Wrestling  21
 http://vocotv.pro/live/nowak1/nowak1/762336.m3u8
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",:Flo Wrestling  22
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",Frontenac JV Tournament 2025 @ Dec 8 5:00 PM :Flo Wrestling  22
 http://vocotv.pro/live/nowak1/nowak1/762335.m3u8
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",:Flo Wrestling  23
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",Cascade JH MS Boys 1 @ Dec 8 5:00 PM :Flo Wrestling  23
 http://vocotv.pro/live/nowak1/nowak1/762334.m3u8
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",:Flo Wrestling  24
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",Flagstaff Jamboree @ Dec 8 5:00 PM :Flo Wrestling  24
 http://vocotv.pro/live/nowak1/nowak1/762333.m3u8
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",:Flo Wrestling  25
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",Raider Girls JV Invitational @ Dec 8 5:00 PM :Flo Wrestling  25
 http://vocotv.pro/live/nowak1/nowak1/762332.m3u8
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",:Flo Wrestling  26
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",Bethel K 8 @ Greene County Middle School @ Dec 8 5:00 PM :Flo Wrestling  26
 http://vocotv.pro/live/nowak1/nowak1/762331.m3u8
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",:Flo Wrestling  27
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",Horizon Sunrise Minden Gibbon Quad @ Dec 8 5:00 PM :Flo Wrestling  27
 http://vocotv.pro/live/nowak1/nowak1/762330.m3u8
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",:Flo Wrestling  28
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",Waverly Shell Rock JV Tournament @ Dec 8 5:00 PM :Flo Wrestling  28
 http://vocotv.pro/live/nowak1/nowak1/762329.m3u8
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",:Flo Wrestling  29
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",2025 Williamsburg Girls JV Tournament @ Dec 8 5:00 PM :Flo Wrestling  29
 http://vocotv.pro/live/nowak1/nowak1/762328.m3u8
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",:Flo Wrestling  30
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",JV MacArthur Holiday Tournament @ Dec 8 5:00 PM :Flo Wrestling  30
 http://vocotv.pro/live/nowak1/nowak1/762327.m3u8
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",:Flo Wrestling  31
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",JBMS Scramble @ Dec 8 5:00 PM :Flo Wrestling  31
 http://vocotv.pro/live/nowak1/nowak1/762326.m3u8
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",:Flo Wrestling  32
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",Latin @ HD Woodson @ Dec 8 5:00 PM :Flo Wrestling  32
 http://vocotv.pro/live/nowak1/nowak1/762325.m3u8
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",:Flo Wrestling  33
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",OTMS Scramble # 1 @ Dec 8 5:00 PM :Flo Wrestling  33
 http://vocotv.pro/live/nowak1/nowak1/762324.m3u8
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",:Flo Wrestling  34
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",Coronado Multi @ Dec 8 5:00 PM :Flo Wrestling  34
 http://vocotv.pro/live/nowak1/nowak1/762323.m3u8
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",:Flo Wrestling  35
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",Coronado Multi @ Dec 8 5:00 PM 12 8 :Flo Wrestling  35
 http://vocotv.pro/live/nowak1/nowak1/762322.m3u8
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",:Flo Wrestling  36
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",Aurora JV Tourney @ Dec 8 5:00 PM :Flo Wrestling  36
 http://vocotv.pro/live/nowak1/nowak1/762321.m3u8
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",:Flo Wrestling  37
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",ECNC JH Girls Invite 2025 @ Dec 8 5:00 PM :Flo Wrestling  37
 http://vocotv.pro/live/nowak1/nowak1/762320.m3u8
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",:Flo Wrestling  38
-http://vocotv.pro/live/nowak1/nowak1/762319.m3u8
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",:Flo Wrestling  39
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",Bethel School @ Greene County Middle School @ Dec 8 5:00 PM :Flo Wrestling  39
 http://vocotv.pro/live/nowak1/nowak1/762318.m3u8
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",:Flo Wrestling  40
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",Summerland JH Boys Invite @ Dec 8 5:00 PM :Flo Wrestling  40
 http://vocotv.pro/live/nowak1/nowak1/762317.m3u8
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",:Flo Wrestling  41
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",Raider Girls Invitational @ Dec 8 5:00 PM :Flo Wrestling  41
 http://vocotv.pro/live/nowak1/nowak1/762316.m3u8
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/657a05da9add5a7ceb55598b/cf6e1f38-ab3a-4d91-b5c9-3b35e59ef35c/FloWrestling.png" group-title="USA | Flo Wrestling",:Flo Wrestling  42
 http://vocotv.pro/live/nowak1/nowak1/762315.m3u8
@@ -11538,19 +11544,19 @@ http://vocotv.pro/live/nowak1/nowak1/637150.m3u8
 http://vocotv.pro/live/nowak1/nowak1/643034.m3u8
 
 # --- USA | NBA (60) ---
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA | NBA",New York Knicks vs Orlando Magic @ Dec 7 12:00 PM :NBA  01
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA | NBA",Indiana Pacers vs Sacramento Kings @ Dec 8 7:00 PM :NBA  01
 http://vocotv.pro/live/nowak1/nowak1/5438.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA | NBA",Toronto Raptors vs Boston Celtics @ Dec 7 3:30 PM :NBA  02
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA | NBA",Minnesota Timberwolves vs Phoenix Suns @ Dec 8 7:30 PM :NBA  02
 http://vocotv.pro/live/nowak1/nowak1/5437.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA | NBA",Charlotte Hornets vs Denver Nuggets @ Dec 7 6:00 PM :NBA  03
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA | NBA",New Orleans Pelicans vs San Antonio Spurs @ Dec 8 8:00 PM :NBA  03
 http://vocotv.pro/live/nowak1/nowak1/5436.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA | NBA",Memphis Grizzlies vs Portland Trail Blazers @ Dec 7 6:00 PM :NBA  04
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA | NBA",:NBA  04
 http://vocotv.pro/live/nowak1/nowak1/5435.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA | NBA",Chicago Bulls vs Golden State Warriors @ Dec 7 7:00 PM :NBA  05
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA | NBA",:NBA  05
 http://vocotv.pro/live/nowak1/nowak1/5434.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA | NBA",Philadelphia 76ers vs Los Angeles Lakers @ Dec 7 7:30 PM :NBA  06
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA | NBA",:NBA  06
 http://vocotv.pro/live/nowak1/nowak1/5433.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA | NBA",Utah Jazz vs Oklahoma City Thunder @ Dec 7 8:00 PM :NBA  07
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA | NBA",:NBA  07
 http://vocotv.pro/live/nowak1/nowak1/5432.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA | NBA",:NBA  08
 http://vocotv.pro/live/nowak1/nowak1/5431.m3u8
@@ -11762,49 +11768,49 @@ http://vocotv.pro/live/nowak1/nowak1/286396.m3u8
 http://vocotv.pro/live/nowak1/nowak1/286395.m3u8
 
 # --- USA | NBC Sports (50) ---
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",DP World Tour: Nedbank Golf Challenge Final Rd @ Dec 7 3:00 AM :Nbc Sports  01
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",Premier League: Wolves v Man United @ Dec 8 2:00 PM :Nbc Sports  01
 http://vocotv.pro/live/nowak1/nowak1/780235.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",Premier League: Brighton v West Ham @ Dec 7 8:00 AM :Nbc Sports  02
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",NBA: Kings at Pacers @ Dec 8 6:30 PM :Nbc Sports  02
 http://vocotv.pro/live/nowak1/nowak1/780234.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",Liga Premier: Brighton v West Ham En Español @ Dec 7 8:30 AM :Nbc Sports  03
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",NFL: Eagles Pregame Live @ Dec 8 6:30 PM :Nbc Sports  03
 http://vocotv.pro/live/nowak1/nowak1/780233.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",Liga Premier: Fulham v Crystal Palace En Español @ Dec 7 11:00 AM :Nbc Sports  04
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",NFL: Eagles Postgame Live @ Dec 8 11:30 PM :Nbc Sports  04
 http://vocotv.pro/live/nowak1/nowak1/780232.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",Premier League: Fulham v Crystal Palace @ Dec 7 11:00 AM :Nbc Sports  05
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  05
 http://vocotv.pro/live/nowak1/nowak1/780231.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",Premier League: Premier League Live @ Dec 7 11:00 AM :Nbc Sports  06
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  06
 http://vocotv.pro/live/nowak1/nowak1/780230.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",PGA TOUR: Hero World Challenge Final Round @ Dec 7 11:30 AM :Nbc Sports  07
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  07
 http://vocotv.pro/live/nowak1/nowak1/780229.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",NCAA: Big 5 Womens Classic Tournament @ Dec 7 12:00 PM :Nbc Sports  08
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  08
 http://vocotv.pro/live/nowak1/nowak1/780228.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",Olympics: Toyota U S Open @ Dec 7 12:00 PM :Nbc Sports  09
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  09
 http://vocotv.pro/live/nowak1/nowak1/780227.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",NHL: Avalanche vs Flyers @ Dec 7 12:30 PM :Nbc Sports  10
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  10
 http://vocotv.pro/live/nowak1/nowak1/780226.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",Olympics: Mens SuperG @ Dec 7 12:30 PM :Nbc Sports  11
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  11
 http://vocotv.pro/live/nowak1/nowak1/780225.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",Liga Premier: Liga Premier 3er Tiempo @ Dec 7 1:30 PM :Nbc Sports  12
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  12
 http://vocotv.pro/live/nowak1/nowak1/780224.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",Olympics: Long Track World Cup @ Dec 7 2:00 PM :Nbc Sports  13
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  13
 http://vocotv.pro/live/nowak1/nowak1/780223.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",NBA: Celtics vs Raptors @ Dec 7 2:30 PM :Nbc Sports  14
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  14
 http://vocotv.pro/live/nowak1/nowak1/780222.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",Olympics: Mens Giant Slalom @ Dec 7 3:00 PM :Nbc Sports  15
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  15
 http://vocotv.pro/live/nowak1/nowak1/780221.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",NHL: Sharks vs Hurricanes @ Dec 7 4:30 PM :Nbc Sports  16
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  16
 http://vocotv.pro/live/nowak1/nowak1/780220.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",Olympics: Grand Prix Final Recap @ Dec 7 4:30 PM :Nbc Sports  17
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  17
 http://vocotv.pro/live/nowak1/nowak1/780219.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",NBA G League: Valley Suns vs Santa Cruz Warriors @ Dec 7 5:00 PM :Nbc Sports  18
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  18
 http://vocotv.pro/live/nowak1/nowak1/780218.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",NBA: Warriors vs Bulls @ Dec 7 6:00 PM :Nbc Sports  19
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  19
 http://vocotv.pro/live/nowak1/nowak1/780217.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",NBA: Lakers vs 76ers @ Dec 7 7:00 PM :Nbc Sports  20
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  20
 http://vocotv.pro/live/nowak1/nowak1/780216.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",NFL: Texans vs Chiefs @ Dec 7 7:00 PM :Nbc Sports  21
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  21
 http://vocotv.pro/live/nowak1/nowak1/780215.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",NFL: Houston Texans vs Kansas City Chiefs @ Dec 7 8:00 PM :Nbc Sports  22
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  22
 http://vocotv.pro/live/nowak1/nowak1/780214.m3u8
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  23
 http://vocotv.pro/live/nowak1/nowak1/780213.m3u8
@@ -11863,74 +11869,76 @@ http://vocotv.pro/live/nowak1/nowak1/780187.m3u8
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  50
 http://vocotv.pro/live/nowak1/nowak1/780186.m3u8
 
-# --- USA | NCAAB M (129) ---
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",Gallaudet vs Army @ Dec 7 12:00 PM :NCAAB  01
+# --- USA | NCAAB M (130) ---
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",Southern Wesleyan vs Kennesaw State @ Dec 8 12:00 PM :NCAAB  01
 http://vocotv.pro/live/nowak1/nowak1/705581.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",Air Force vs Navy @ Dec 7 12:00 PM :NCAAB  02
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",Lafayette vs Pennsylvania @ Dec 8 6:00 PM :NCAAB  02
 http://vocotv.pro/live/nowak1/nowak1/705580.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",Fairfield vs Merrimack @ Dec 7 1:00 PM :NCAAB  03
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",South Carolina State vs Charleston Southern @ Dec 8 7:00 PM :NCAAB  03
 http://vocotv.pro/live/nowak1/nowak1/705579.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",Southern Indiana vs Indiana State @ Dec 7 1:00 PM :NCAAB  04
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",Mississippi Valley State vs Kansas State @ Dec 8 8:00 PM :NCAAB  04
 http://vocotv.pro/live/nowak1/nowak1/705578.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",Manhattan vs Marist @ Dec 7 2:00 PM :NCAAB  05
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",Incarnate Word vs New Orleans @ Dec 8 8:00 PM :NCAAB  05
 http://vocotv.pro/live/nowak1/nowak1/705577.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",Tusculum vs East Tennessee State @ Dec 7 2:00 PM :NCAAB  06
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",Grambling vs Southern Miss @ Dec 8 8:00 PM :NCAAB  06
 http://vocotv.pro/live/nowak1/nowak1/705576.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",Niagara vs Saint Peters @ Dec 7 2:00 PM :NCAAB  07
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",:NCAAB  07
 http://vocotv.pro/live/nowak1/nowak1/705575.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",Florida Atlantic vs Florida Gulf Coast @ Dec 7 2:00 PM :NCAAB  08
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",:NCAAB  08
 http://vocotv.pro/live/nowak1/nowak1/705574.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",Utah State vs Charlotte @ Dec 7 2:00 PM :NCAAB  09
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",:NCAAB  09
 http://vocotv.pro/live/nowak1/nowak1/705573.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",Iona vs Sacred Heart @ Dec 7 2:00 PM :NCAAB  10
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",:NCAAB  10
 http://vocotv.pro/live/nowak1/nowak1/705572.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",Austin Peay vs UT Rio Grande Valley @ Dec 7 2:00 PM :NCAAB  11
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",:NCAAB  11
 http://vocotv.pro/live/nowak1/nowak1/705571.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",Rider vs Quinnipiac @ Dec 7 2:00 PM :NCAAB  12
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",:NCAAB  12
 http://vocotv.pro/live/nowak1/nowak1/705570.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",Oglethorpe vs Mercer @ Dec 7 2:00 PM :NCAAB  13
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",:NCAAB  13
 http://vocotv.pro/live/nowak1/nowak1/705569.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",Saint Marys vs Davidson @ Dec 7 2:00 PM :NCAAB  14
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",:NCAAB  14
 http://vocotv.pro/live/nowak1/nowak1/705568.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",Canisius vs Siena @ Dec 7 2:00 PM :NCAAB  15
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",:NCAAB  15
 http://vocotv.pro/live/nowak1/nowak1/705567.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",UIC vs Yale @ Dec 7 2:00 PM :NCAAB  16
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",:NCAAB  16
 http://vocotv.pro/live/nowak1/nowak1/705566.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",Saint Francis PA vs Radford @ Dec 7 2:30 PM :NCAAB  17
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",:NCAAB  17
 http://vocotv.pro/live/nowak1/nowak1/705565.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",Ecclesia vs Louisiana Tech @ Dec 7 3:00 PM :NCAAB  18
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",:NCAAB  18
 http://vocotv.pro/live/nowak1/nowak1/705564.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",Alabama State vs UT Martin @ Dec 7 3:00 PM :NCAAB  19
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",:NCAAB  19
 http://vocotv.pro/live/nowak1/nowak1/705563.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",Central Michigan vs Saint Louis @ Dec 7 3:00 PM :NCAAB  20
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",:NCAAB  20
 http://vocotv.pro/live/nowak1/nowak1/705562.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",UL Monroe vs Stephen F Austin @ Dec 7 3:00 PM :NCAAB  21
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",:NCAAB  21
 http://vocotv.pro/live/nowak1/nowak1/705561.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",Towson vs UCF @ Dec 7 4:00 PM :NCAAB  22
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",:NCAAB  22
 http://vocotv.pro/live/nowak1/nowak1/705560.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",Aquinas vs Bowling Green @ Dec 7 4:00 PM :NCAAB  23
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",:NCAAB  23
 http://vocotv.pro/live/nowak1/nowak1/705559.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",Northwestern State vs SE Louisiana B @ Dec 7 4:30 PM :NCAAB  24
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",:NCAAB  24
 http://vocotv.pro/live/nowak1/nowak1/705558.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",Belmont vs Middle Tennessee @ Dec 7 4:30 PM :NCAAB  25
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",:NCAAB  25
 http://vocotv.pro/live/nowak1/nowak1/705557.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",Nevada vs Washington State @ Dec 7 5:00 PM :NCAAB  26
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",:NCAAB  26
 http://vocotv.pro/live/nowak1/nowak1/705556.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",Green Bay vs Wright State @ Dec 7 5:00 PM :NCAAB  27
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",:NCAAB  27
 http://vocotv.pro/live/nowak1/nowak1/705555.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",Auburn Montgomery vs Jacksonville State @ Dec 7 5:00 PM :NCAAB  28
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",:NCAAB  28
 http://vocotv.pro/live/nowak1/nowak1/705554.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",Alabama A&M vs Lipscomb @ Dec 7 5:00 PM :NCAAB  29
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",:NCAAB  29
 http://vocotv.pro/live/nowak1/nowak1/705553.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",North Texas vs TCU @ Dec 7 5:30 PM :NCAAB  30
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",:NCAAB  30
 http://vocotv.pro/live/nowak1/nowak1/705552.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",Central Arkansas vs East Texas A&M @ Dec 7 6:00 PM :NCAAB  32
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",:NCAAB  31
+http://vocotv.pro/live/nowak1/nowak1/705551.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",:NCAAB  32
 http://vocotv.pro/live/nowak1/nowak1/705550.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",Cornell vs Samford @ Dec 7 7:00 PM :NCAAB  33
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",:NCAAB  33
 http://vocotv.pro/live/nowak1/nowak1/705549.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",UTEP vs Seattle U @ Dec 7 8:00 PM :NCAAB  34
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",:NCAAB  34
 http://vocotv.pro/live/nowak1/nowak1/705548.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",North Florida vs #11 Gonzaga @ Dec 7 9:00 PM :NCAAB  35
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",:NCAAB  35
 http://vocotv.pro/live/nowak1/nowak1/705547.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",:NCAAB  36
 http://vocotv.pro/live/nowak1/nowak1/705546.m3u8
@@ -12124,115 +12132,115 @@ http://vocotv.pro/live/nowak1/nowak1/3417.m3u8
 http://vocotv.pro/live/nowak1/nowak1/3416.m3u8
 
 # --- USA | NCAAB W (130) ---
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Youngstown State vs Green Bay @ Dec 7 12:30 PM :NCAAB W  01
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",UAlbany vs Colgate @ Dec 8 6:00 PM :NCAAB W  01
 http://vocotv.pro/live/nowak1/nowak1/705662.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Manhattan vs NJIT @ Dec 7 1:00 PM :NCAAB W  02
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Texas Southern vs #25 West Virginia @ Dec 8 7:00 PM :NCAAB W  02
 http://vocotv.pro/live/nowak1/nowak1/705661.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Rhode Island vs Maine @ Dec 7 1:00 PM :NCAAB W  03
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  03
 http://vocotv.pro/live/nowak1/nowak1/705660.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",UNC Pembroke vs Longwood @ Dec 7 1:00 PM :NCAAB W  04
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  04
 http://vocotv.pro/live/nowak1/nowak1/705659.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Delaware State vs UCF @ Dec 7 1:00 PM :NCAAB W  05
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  05
 http://vocotv.pro/live/nowak1/nowak1/705658.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Robert Morris vs Northern Kentucky @ Dec 7 1:00 PM :NCAAB W  06
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  06
 http://vocotv.pro/live/nowak1/nowak1/705657.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Western Kentucky vs Miami OH @ Dec 7 1:00 PM :NCAAB W  07
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  07
 http://vocotv.pro/live/nowak1/nowak1/705656.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Butler vs Marquette @ Dec 7 1:00 PM :NCAAB W  08
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  08
 http://vocotv.pro/live/nowak1/nowak1/705655.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",IU Indianapolis vs Detroit Mercy @ Dec 7 1:00 PM :NCAAB W  09
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  09
 http://vocotv.pro/live/nowak1/nowak1/705654.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Defiance College vs Bowling Green @ Dec 7 1:00 PM :NCAAB W  10
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  10
 http://vocotv.pro/live/nowak1/nowak1/705653.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Long Island University vs Dayton @ Dec 7 1:00 PM :NCAAB W  11
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  11
 http://vocotv.pro/live/nowak1/nowak1/705652.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",UNC Wilmington vs Winthrop @ Dec 7 1:00 PM :NCAAB W  12
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  12
 http://vocotv.pro/live/nowak1/nowak1/705651.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Furman vs Georgia Southern @ Dec 7 2:00 PM :NCAAB W  13
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  13
 http://vocotv.pro/live/nowak1/nowak1/705650.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Bellarmine vs Chattanooga @ Dec 7 2:00 PM :NCAAB W  14
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  14
 http://vocotv.pro/live/nowak1/nowak1/705649.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",VCU vs James Madison @ Dec 7 2:00 PM :NCAAB W  15
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  15
 http://vocotv.pro/live/nowak1/nowak1/705648.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Elon vs East Carolina @ Dec 7 2:00 PM :NCAAB W  16
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  16
 http://vocotv.pro/live/nowak1/nowak1/705647.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Wright State vs Purdue Fort Wayne @ Dec 7 2:00 PM :NCAAB W  17
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  17
 http://vocotv.pro/live/nowak1/nowak1/705646.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Memphis vs Middle Tennessee @ Dec 7 2:00 PM :NCAAB W  18
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  18
 http://vocotv.pro/live/nowak1/nowak1/705645.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Fairfield vs Richmond @ Dec 7 2:00 PM :NCAAB W  19
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  19
 http://vocotv.pro/live/nowak1/nowak1/705644.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Tulsa vs Creighton @ Dec 7 2:00 PM :NCAAB W  20
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  20
 http://vocotv.pro/live/nowak1/nowak1/705643.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Western Michigan vs Loyola Chicago @ Dec 7 2:00 PM :NCAAB W  21
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  21
 http://vocotv.pro/live/nowak1/nowak1/705642.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Tennessee State vs Lipscomb @ Dec 7 2:00 PM :NCAAB W  22
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  22
 http://vocotv.pro/live/nowak1/nowak1/705641.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Bucknell vs Dartmouth @ Dec 7 2:00 PM :NCAAB W  23
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  23
 http://vocotv.pro/live/nowak1/nowak1/705640.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Queens University vs Western Carolina @ Dec 7 2:00 PM :NCAAB W  24
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  24
 http://vocotv.pro/live/nowak1/nowak1/705639.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Howard vs Old Dominion @ Dec 7 2:00 PM :NCAAB W  25
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  25
 http://vocotv.pro/live/nowak1/nowak1/705638.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Holy Cross vs Bryant @ Dec 7 2:00 PM :NCAAB W  26
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  26
 http://vocotv.pro/live/nowak1/nowak1/705637.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Northern Illinois vs #10 Iowa State @ Dec 7 2:00 PM :NCAAB W  27
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  27
 http://vocotv.pro/live/nowak1/nowak1/705636.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Marist vs Lafayette @ Dec 7 2:00 PM :NCAAB W  28
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  28
 http://vocotv.pro/live/nowak1/nowak1/705635.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",William & Mary vs American University @ Dec 7 2:00 PM :NCAAB W  29
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  29
 http://vocotv.pro/live/nowak1/nowak1/705634.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Xavier vs Cincinnati @ Dec 7 2:00 PM :NCAAB W  30
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  30
 http://vocotv.pro/live/nowak1/nowak1/705633.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Northwestern State vs SE Louisiana A @ Dec 7 2:00 PM :NCAAB W  31
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  31
 http://vocotv.pro/live/nowak1/nowak1/705632.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Providence vs St Johns @ Dec 7 2:00 PM :NCAAB W  32
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  32
 http://vocotv.pro/live/nowak1/nowak1/705631.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Lehigh vs Mount St Marys @ Dec 7 2:00 PM :NCAAB W  33
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  33
 http://vocotv.pro/live/nowak1/nowak1/705630.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Wyoming vs Colorado @ Dec 7 3:00 PM :NCAAB W  34
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  34
 http://vocotv.pro/live/nowak1/nowak1/705629.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Kansas vs Missouri State @ Dec 7 3:00 PM :NCAAB W  35
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  35
 http://vocotv.pro/live/nowak1/nowak1/705628.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",UTSA vs #14 Baylor @ Dec 7 3:00 PM :NCAAB W  36
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  36
 http://vocotv.pro/live/nowak1/nowak1/705627.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",#13 Ole Miss vs Kansas State @ Dec 7 3:00 PM :NCAAB W  37
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  37
 http://vocotv.pro/live/nowak1/nowak1/705626.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Southern vs Houston @ Dec 7 3:00 PM :NCAAB W  38
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  38
 http://vocotv.pro/live/nowak1/nowak1/705625.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Eastern Illinois vs Illinois State @ Dec 7 3:00 PM :NCAAB W  39
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  39
 http://vocotv.pro/live/nowak1/nowak1/705624.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Texas A&M San Antonio vs Tarleton State @ Dec 7 3:00 PM :NCAAB W  40
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  40
 http://vocotv.pro/live/nowak1/nowak1/705623.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Liberty vs George Mason @ Dec 7 3:00 PM :NCAAB W  41
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  41
 http://vocotv.pro/live/nowak1/nowak1/705622.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",UAB vs Southern Miss @ Dec 7 3:00 PM :NCAAB W  42
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  42
 http://vocotv.pro/live/nowak1/nowak1/705621.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Iona vs Navy @ Dec 7 3:00 PM :NCAAB W  43
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  43
 http://vocotv.pro/live/nowak1/nowak1/705620.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Western Illinois vs Drake @ Dec 7 3:00 PM :NCAAB W  44
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  44
 http://vocotv.pro/live/nowak1/nowak1/705619.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Chicago State vs Bradley @ Dec 7 3:00 PM :NCAAB W  45
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  45
 http://vocotv.pro/live/nowak1/nowak1/705618.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",#5 LSU vs New Orleans @ Dec 7 4:00 PM :NCAAB W  46
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  46
 http://vocotv.pro/live/nowak1/nowak1/705617.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Alaska Anchorage vs Oregon State @ Dec 7 4:00 PM :NCAAB W  47
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  47
 http://vocotv.pro/live/nowak1/nowak1/705616.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",New Mexico vs Arizona @ Dec 7 4:00 PM :NCAAB W  48
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  48
 http://vocotv.pro/live/nowak1/nowak1/705615.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",North Alabama vs Samford @ Dec 7 4:00 PM :NCAAB W  49
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  49
 http://vocotv.pro/live/nowak1/nowak1/705614.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",UIC vs Valparaiso @ Dec 7 4:00 PM :NCAAB W  50
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  50
 http://vocotv.pro/live/nowak1/nowak1/705613.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Ball State vs Davidson @ Dec 7 4:30 PM :NCAAB W  51
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  51
 http://vocotv.pro/live/nowak1/nowak1/705612.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Utah State vs San Diego @ Dec 7 5:00 PM :NCAAB W  52
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  52
 http://vocotv.pro/live/nowak1/nowak1/705611.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Morehead State vs Louisiana @ Dec 7 5:00 PM :NCAAB W  53
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  53
 http://vocotv.pro/live/nowak1/nowak1/705610.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Evansville vs Saint Louis @ Dec 7 6:00 PM :NCAAB W  54
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  54
 http://vocotv.pro/live/nowak1/nowak1/705609.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Monmouth vs Saint Peters @ Dec 7 7:00 PM :NCAAB W  55
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  55
 http://vocotv.pro/live/nowak1/nowak1/705608.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  56
 http://vocotv.pro/live/nowak1/nowak1/705607.m3u8
@@ -12892,29 +12900,29 @@ http://vocotv.pro/live/nowak1/nowak1/637146.m3u8
 http://vocotv.pro/live/nowak1/nowak1/2446.m3u8
 #EXTINF:-1 tvg-logo="https://unplugthetv.com/wp-content/uploads/2019/10/nfl-redzone.png" group-title="USA | NFL",USA NFL Red Zone
 http://vocotv.pro/live/nowak1/nowak1/2445.m3u8
-#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="USA | NFL",NFL 01:  Seahawks @ Falcons @ 1 PM Dec 7
+#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="USA | NFL",NFL 01:  Eagles @ Chargers @ 8:15 PM Dec 8
 http://vocotv.pro/live/nowak1/nowak1/2444.m3u8
-#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="USA | NFL",NFL 02 : Steelers @ Ravens @ 1 PM Dec 7
+#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="USA | NFL",NFL 02 : Eagles @ Chargers @ 8:15 PM Dec 8 Backup
 http://vocotv.pro/live/nowak1/nowak1/2443.m3u8
-#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="USA | NFL",NFL 03: Titans @ Browns @ 1 PM Dec 7
+#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="USA | NFL",NFL 03:
 http://vocotv.pro/live/nowak1/nowak1/2442.m3u8
-#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="USA | NFL",NFL 04: Bengals @ Bills @ 1 PM Dec 7
+#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="USA | NFL",NFL 04:
 http://vocotv.pro/live/nowak1/nowak1/2441.m3u8
-#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="USA | NFL",NFL 05: Colts @ Jaguars @ 1 PM Dec 7
+#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="USA | NFL",NFL 05:
 http://vocotv.pro/live/nowak1/nowak1/2440.m3u8
-#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="USA | NFL",NFL 06: Commanders @ Vikings @ 1 PM Dec 7
+#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="USA | NFL",NFL 06:
 http://vocotv.pro/live/nowak1/nowak1/2439.m3u8
-#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="USA | NFL",NFL 07: Dolphins @ Jets @ 1 PM Dec 7
+#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="USA | NFL",NFL 07:
 http://vocotv.pro/live/nowak1/nowak1/2438.m3u8
-#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="USA | NFL",NFL 08: Saints @ Buccaneers @ 1 PM Dec 7
+#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="USA | NFL",NFL 08:
 http://vocotv.pro/live/nowak1/nowak1/2437.m3u8
-#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="USA | NFL",NFL 09: Raiders @ Broncos @ 4:05 PM Dec 7
+#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="USA | NFL",NFL 09:
 http://vocotv.pro/live/nowak1/nowak1/2436.m3u8
-#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="USA | NFL",NFL 10: Bears @ Packers @ 4:25 PM Dec 7
+#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="USA | NFL",NFL 10:
 http://vocotv.pro/live/nowak1/nowak1/2435.m3u8
-#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="USA | NFL",NFL 11: Rams @ Cardinals @ 4:25 PM Dec 7
+#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="USA | NFL",NFL 11:
 http://vocotv.pro/live/nowak1/nowak1/2434.m3u8
-#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="USA | NFL",NFL 12: Texans @ Chiefs @ 8:20 PM Dec 7
+#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="USA | NFL",NFL 12:
 http://vocotv.pro/live/nowak1/nowak1/2433.m3u8
 #EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="USA | NFL",NFL 13:
 http://vocotv.pro/live/nowak1/nowak1/2432.m3u8
@@ -13049,26 +13057,34 @@ http://vocotv.pro/live/nowak1/nowak1/268341.m3u8
 #EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/minnesotavikings.jpg" group-title="USA | NFL Teams",NFL Teams: FOX Vikings (KMSP) Minneapolis-St. Paul
 http://vocotv.pro/live/nowak1/nowak1/268340.m3u8
 
-# --- USA | NHL (26) ---
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",Colorado vs Philadelphia @ Dec 7 1:00 PM :NHL  01
+# --- USA | NHL (30) ---
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",Los Angeles Kings vs Utah Mammoth (Kings Broadcast) @ Dec 8 8:30 PM :NHL  01
 http://vocotv.pro/live/nowak1/nowak1/2598.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",San Jose Sharks vs Carolina Hurricanes (Sharks Broadcast) @ Dec 7 4:30 PM :NHL  02
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",Los Angeles Kings vs Utah Mammoth (Mammoth Broadcast) @ Dec 8 8:30 PM :NHL  02
 http://vocotv.pro/live/nowak1/nowak1/2597.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",San Jose Sharks vs Carolina Hurricanes (Hurricanes Broadcast) @ Dec 7 4:30 PM :NHL  03
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",Buffalo Sabres vs Calgary Flames (Sabres Broadcast) @ Dec 8 9:00 PM :NHL  03
 http://vocotv.pro/live/nowak1/nowak1/2596.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",New York Islanders vs Florida Panthers (Panthers Broadcast) @ Dec 7 4:30 PM :NHL  04
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",Buffalo Sabres vs Calgary Flames (Flames Broadcast) @ Dec 8 9:00 PM :NHL  04
 http://vocotv.pro/live/nowak1/nowak1/2595.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",New York Islanders vs Florida Panthers (Islanders Broadcast) @ Dec 7 4:30 PM :NHL  05
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",Minnesota Wild vs Seattle Kraken (Kraken Broadcast) @ Dec 8 9:30 PM :NHL  05
 http://vocotv.pro/live/nowak1/nowak1/2594.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",Pittsburgh Penguins vs Dallas Stars (Stars Broadcast) @ Dec 7 5:30 PM :NHL  06
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",Minnesota Wild vs Seattle Kraken (Wild Broadcast) @ Dec 8 9:30 PM :NHL  06
 http://vocotv.pro/live/nowak1/nowak1/2593.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",Pittsburgh Penguins vs Dallas Stars (Penguins Broadcast) @ Dec 7 5:30 PM :NHL  07
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",Detroit Red Wings vs Vancouver Canucks (Canucks Broadcast) @ Dec 8 9:30 PM :NHL  07
 http://vocotv.pro/live/nowak1/nowak1/2592.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",Vegas vs New York Rangers @ Dec 7 7:00 PM :NHL  12
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",Detroit Red Wings vs Vancouver Canucks (Red Wings Broadcast) @ Dec 8 9:30 PM :NHL  08
+http://vocotv.pro/live/nowak1/nowak1/2591.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",:NHL  09
+http://vocotv.pro/live/nowak1/nowak1/2590.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",:NHL  10
+http://vocotv.pro/live/nowak1/nowak1/2589.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",:NHL  11
+http://vocotv.pro/live/nowak1/nowak1/2588.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",:NHL  12
 http://vocotv.pro/live/nowak1/nowak1/2587.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",Chicago Blackhawks vs Anaheim Ducks (Blackhawks Broadcast) @ Dec 7 7:30 PM :NHL  13
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",:NHL  13
 http://vocotv.pro/live/nowak1/nowak1/2586.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",Chicago Blackhawks vs Anaheim Ducks (Ducks Broadcast) @ Dec 7 7:30 PM :NHL  14
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",:NHL  14
 http://vocotv.pro/live/nowak1/nowak1/2585.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",:NHL  15
 http://vocotv.pro/live/nowak1/nowak1/2584.m3u8
@@ -14290,15 +14306,15 @@ http://vocotv.pro/live/nowak1/nowak1/621981.m3u8
 http://vocotv.pro/live/nowak1/nowak1/621980.m3u8
 
 # --- USA | Paramount + (100) ---
-#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",HSBC SVNS: Cape Town Final Day @ Dec 7 2:45 AM :Paramount+  01
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",Serie A: Pisa vs Parma @ Dec 8 8:50 AM :Paramount+  01
 http://vocotv.pro/live/nowak1/nowak1/297801.m3u8
-#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",Serie A: Cremonese vs Lecce @ Dec 7 6:20 AM :Paramount+  02
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",Serie A: Udinese vs Genoa @ Dec 8 11:50 AM :Paramount+  02
 http://vocotv.pro/live/nowak1/nowak1/297800.m3u8
-#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",Serie A: Cagliari vs Roma @ Dec 7 8:50 AM :Paramount+  03
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",Serie A: Torino vs Milan @ Dec 8 2:35 PM :Paramount+  03
 http://vocotv.pro/live/nowak1/nowak1/297799.m3u8
-#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",Serie A: Lazio vs Bologna @ Dec 7 11:00 AM :Paramount+  04
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",:Paramount+  04
 http://vocotv.pro/live/nowak1/nowak1/297798.m3u8
-#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",Serie A: Napoli vs Juventus @ Dec 7 2:00 PM :Paramount+  05
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",:Paramount+  05
 http://vocotv.pro/live/nowak1/nowak1/297797.m3u8
 #EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",:Paramount+  06
 http://vocotv.pro/live/nowak1/nowak1/297796.m3u8
@@ -14515,22 +14531,24 @@ http://vocotv.pro/live/nowak1/nowak1/324398.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/iOEYDF.md.png" group-title="USA | Paramount+ Original",EN◈ Paramount+ Original 10 ᴴᴰ
 http://vocotv.pro/live/nowak1/nowak1/324397.m3u8
 
-# --- USA | Peacock Events (49) ---
-#EXTINF:-1 tvg-logo="" group-title="USA | Peacock Events",World Cup SS Heerenveen 3 @ Dec 7 08:15 AM :Peacock Event  01
+# --- USA | Peacock Events (50) ---
+#EXTINF:-1 tvg-logo="" group-title="USA | Peacock Events",Suns vs Timberwolves @ Dec 8 19:00 PM :Peacock Event  01
 http://vocotv.pro/live/nowak1/nowak1/698670.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/157571141760_image-header_pCa_1671040248000/fill/center/top/none/85/800/600/png/image" group-title="USA | Peacock Events",Fantasy Football Pregame @ Dec 7 11:00 AM :Peacock Event  02
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/157571141760_image-header_pCa_1671040248000/fill/center/top/none/85/800/600/png/image" group-title="USA | Peacock Events",Performance View PHX vs MIN @ Dec 8 19:00 PM :Peacock Event  02
 http://vocotv.pro/live/nowak1/nowak1/698669.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA | Peacock Events",Mens Super G @ Dec 7 12:30 PM :Peacock Event  03
+#EXTINF:-1 tvg-logo="" group-title="USA | Peacock Events",:Peacock Event  03
 http://vocotv.pro/live/nowak1/nowak1/698668.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA | Peacock Events",Hero World Challenge Rd 4 @ Dec 7 13:30 PM :Peacock Event  04
+#EXTINF:-1 tvg-logo="" group-title="USA | Peacock Events",:Peacock Event  04
 http://vocotv.pro/live/nowak1/nowak1/698667.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/a70541484c82e651fdecae4f5938fc87.png" group-title="USA | Peacock Events",Mens Giant Slalom Run 2 @ Dec 7 15:00 PM :Peacock Event  05
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/a70541484c82e651fdecae4f5938fc87.png" group-title="USA | Peacock Events",:Peacock Event  05
 http://vocotv.pro/live/nowak1/nowak1/698666.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA | Peacock Events",Texans vs Chiefs @ Dec 7 19:00 PM :Peacock Event  06
+#EXTINF:-1 tvg-logo="" group-title="USA | Peacock Events",:Peacock Event  06
 http://vocotv.pro/live/nowak1/nowak1/698665.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA | Peacock Events",Texans vs Chiefs Español @ Dec 7 20:00 PM :Peacock Event  07
+#EXTINF:-1 tvg-logo="" group-title="USA | Peacock Events",:Peacock Event  07
 http://vocotv.pro/live/nowak1/nowak1/698664.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA | Peacock Events",Sunday Night Football Final @ Dec 7 23:30 PM :Peacock Event  09
+#EXTINF:-1 tvg-logo="" group-title="USA | Peacock Events",:Peacock Event  08
+http://vocotv.pro/live/nowak1/nowak1/698663.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA | Peacock Events",:Peacock Event  09
 http://vocotv.pro/live/nowak1/nowak1/698662.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA | Peacock Events",:Peacock Event  10
 http://vocotv.pro/live/nowak1/nowak1/698661.m3u8
@@ -15314,43 +15332,43 @@ http://vocotv.pro/live/nowak1/nowak1/623133.m3u8
 http://vocotv.pro/live/nowak1/nowak1/623131.m3u8
 
 # --- USA | SEC+ (200) ---
-#EXTINF:-1 tvg-logo="https://www.secsports.com/imgproxy/OlGCAttQzqP5qOmK1JLjpLB3XrnO8P9n67bYlnHug8I/rs:fit:1150:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3NlY3Nwb3J0cy1wcm9kL3VwbG9hZC8yMDIzLzExLzA5LzE5MzA3NWM4LTc3ZmItNDYyYi04ZjJhLWZlMWQzZjIxMmRiZC5qcGc.jpg" group-title="USA | SEC+",NCAAW: Central Michigan vs #17 Kentucky @ Dec 7 12:00 PM :SEC+  01
+#EXTINF:-1 tvg-logo="https://www.secsports.com/imgproxy/OlGCAttQzqP5qOmK1JLjpLB3XrnO8P9n67bYlnHug8I/rs:fit:1150:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3NlY3Nwb3J0cy1wcm9kL3VwbG9hZC8yMDIzLzExLzA5LzE5MzA3NWM4LTc3ZmItNDYyYi04ZjJhLWZlMWQzZjIxMmRiZC5qcGc.jpg" group-title="USA | SEC+",NCAA Football: Auburn Football Press Conference @ Dec 8 2:00 PM :SEC+  01
 http://vocotv.pro/live/nowak1/nowak1/774902.m3u8
-#EXTINF:-1 tvg-logo="https://www.secsports.com/imgproxy/OlGCAttQzqP5qOmK1JLjpLB3XrnO8P9n67bYlnHug8I/rs:fit:1150:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3NlY3Nwb3J0cy1wcm9kL3VwbG9hZC8yMDIzLzExLzA5LzE5MzA3NWM4LTc3ZmItNDYyYi04ZjJhLWZlMWQzZjIxMmRiZC5qcGc.jpg" group-title="USA | SEC+",NCAAW: South Alabama vs Florida @ Dec 7 2:00 PM :SEC+  02
+#EXTINF:-1 tvg-logo="https://www.secsports.com/imgproxy/OlGCAttQzqP5qOmK1JLjpLB3XrnO8P9n67bYlnHug8I/rs:fit:1150:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3NlY3Nwb3J0cy1wcm9kL3VwbG9hZC8yMDIzLzExLzA5LzE5MzA3NWM4LTc3ZmItNDYyYi04ZjJhLWZlMWQzZjIxMmRiZC5qcGc.jpg" group-title="USA | SEC+",NCAA Football: Texas A&M Football Press Conference @ Dec 8 2:30 PM :SEC+  02
 http://vocotv.pro/live/nowak1/nowak1/774901.m3u8
-#EXTINF:-1 tvg-logo="https://www.secsports.com/imgproxy/OlGCAttQzqP5qOmK1JLjpLB3XrnO8P9n67bYlnHug8I/rs:fit:1150:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3NlY3Nwb3J0cy1wcm9kL3VwbG9hZC8yMDIzLzExLzA5LzE5MzA3NWM4LTc3ZmItNDYyYi04ZjJhLWZlMWQzZjIxMmRiZC5qcGc.jpg" group-title="USA | SEC+",NCAAW: Jackson State vs Arkansas @ Dec 7 3:00 PM :SEC+  03
+#EXTINF:-1 tvg-logo="https://www.secsports.com/imgproxy/OlGCAttQzqP5qOmK1JLjpLB3XrnO8P9n67bYlnHug8I/rs:fit:1150:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3NlY3Nwb3J0cy1wcm9kL3VwbG9hZC8yMDIzLzExLzA5LzE5MzA3NWM4LTc3ZmItNDYyYi04ZjJhLWZlMWQzZjIxMmRiZC5qcGc.jpg" group-title="USA | SEC+",NCAA Football: The Huddle @ Dec 8 7:00 PM :SEC+  03
 http://vocotv.pro/live/nowak1/nowak1/774900.m3u8
-#EXTINF:-1 tvg-logo="https://www.secsports.com/imgproxy/OlGCAttQzqP5qOmK1JLjpLB3XrnO8P9n67bYlnHug8I/rs:fit:1150:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3NlY3Nwb3J0cy1wcm9kL3VwbG9hZC8yMDIzLzExLzA5LzE5MzA3NWM4LTc3ZmItNDYyYi04ZjJhLWZlMWQzZjIxMmRiZC5qcGc.jpg" group-title="USA | SEC+",NCAAW: Maryland Eastern Shore vs #9 Oklahoma @ Dec 7 3:00 PM :SEC+  04
+#EXTINF:-1 tvg-logo="https://www.secsports.com/imgproxy/OlGCAttQzqP5qOmK1JLjpLB3XrnO8P9n67bYlnHug8I/rs:fit:1150:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3NlY3Nwb3J0cy1wcm9kL3VwbG9hZC8yMDIzLzExLzA5LzE5MzA3NWM4LTc3ZmItNDYyYi04ZjJhLWZlMWQzZjIxMmRiZC5qcGc.jpg" group-title="USA | SEC+",NCAA Football: Sooner Sports Talk @ Dec 8 8:00 PM :SEC+  04
 http://vocotv.pro/live/nowak1/nowak1/774899.m3u8
-#EXTINF:-1 tvg-logo="https://www.secsports.com/imgproxy/OlGCAttQzqP5qOmK1JLjpLB3XrnO8P9n67bYlnHug8I/rs:fit:1150:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3NlY3Nwb3J0cy1wcm9kL3VwbG9hZC8yMDIzLzExLzA5LzE5MzA3NWM4LTc3ZmItNDYyYi04ZjJhLWZlMWQzZjIxMmRiZC5qcGc.jpg" group-title="USA | SEC+",NCAAW: SIU Edwardsville vs Missouri @ Dec 7 3:00 PM :SEC+  05
+#EXTINF:-1 tvg-logo="https://www.secsports.com/imgproxy/OlGCAttQzqP5qOmK1JLjpLB3XrnO8P9n67bYlnHug8I/rs:fit:1150:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3NlY3Nwb3J0cy1wcm9kL3VwbG9hZC8yMDIzLzExLzA5LzE5MzA3NWM4LTc3ZmItNDYyYi04ZjJhLWZlMWQzZjIxMmRiZC5qcGc.jpg" group-title="USA | SEC+",NCAAW: Norfolk State vs Georgia Tech @ Dec 8 7:00 PM :SEC+  05
 http://vocotv.pro/live/nowak1/nowak1/774898.m3u8
-#EXTINF:-1 tvg-logo="https://www.secsports.com/imgproxy/OlGCAttQzqP5qOmK1JLjpLB3XrnO8P9n67bYlnHug8I/rs:fit:1150:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3NlY3Nwb3J0cy1wcm9kL3VwbG9hZC8yMDIzLzExLzA5LzE5MzA3NWM4LTc3ZmItNDYyYi04ZjJhLWZlMWQzZjIxMmRiZC5qcGc.jpg" group-title="USA | SEC+",NCAAW: Prairie View A&M vs #2 Texas @ Dec 7 3:00 PM :SEC+  06
+#EXTINF:-1 tvg-logo="https://www.secsports.com/imgproxy/OlGCAttQzqP5qOmK1JLjpLB3XrnO8P9n67bYlnHug8I/rs:fit:1150:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3NlY3Nwb3J0cy1wcm9kL3VwbG9hZC8yMDIzLzExLzA5LzE5MzA3NWM4LTc3ZmItNDYyYi04ZjJhLWZlMWQzZjIxMmRiZC5qcGc.jpg" group-title="USA | SEC+",:SEC+  06
 http://vocotv.pro/live/nowak1/nowak1/774897.m3u8
-#EXTINF:-1 tvg-logo="https://www.secsports.com/imgproxy/OlGCAttQzqP5qOmK1JLjpLB3XrnO8P9n67bYlnHug8I/rs:fit:1150:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3NlY3Nwb3J0cy1wcm9kL3VwbG9hZC8yMDIzLzExLzA5LzE5MzA3NWM4LTc3ZmItNDYyYi04ZjJhLWZlMWQzZjIxMmRiZC5qcGc.jpg" group-title="USA | SEC+",NCAAW: UL Monroe vs Alabama @ Dec 7 5:00 PM :SEC+  07
+#EXTINF:-1 tvg-logo="https://www.secsports.com/imgproxy/OlGCAttQzqP5qOmK1JLjpLB3XrnO8P9n67bYlnHug8I/rs:fit:1150:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3NlY3Nwb3J0cy1wcm9kL3VwbG9hZC8yMDIzLzExLzA5LzE5MzA3NWM4LTc3ZmItNDYyYi04ZjJhLWZlMWQzZjIxMmRiZC5qcGc.jpg" group-title="USA | SEC+",:SEC+  07
 http://vocotv.pro/live/nowak1/nowak1/774896.m3u8
-#EXTINF:-1 tvg-logo="https://www.secsports.com/imgproxy/OlGCAttQzqP5qOmK1JLjpLB3XrnO8P9n67bYlnHug8I/rs:fit:1150:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3NlY3Nwb3J0cy1wcm9kL3VwbG9hZC8yMDIzLzExLzA5LzE5MzA3NWM4LTc3ZmItNDYyYi04ZjJhLWZlMWQzZjIxMmRiZC5qcGc.jpg" group-title="USA | SEC+",NCAAW: Charlotte vs Mississippi State @ Dec 7 8:00 PM :SEC+  08
+#EXTINF:-1 tvg-logo="https://www.secsports.com/imgproxy/OlGCAttQzqP5qOmK1JLjpLB3XrnO8P9n67bYlnHug8I/rs:fit:1150:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3NlY3Nwb3J0cy1wcm9kL3VwbG9hZC8yMDIzLzExLzA5LzE5MzA3NWM4LTc3ZmItNDYyYi04ZjJhLWZlMWQzZjIxMmRiZC5qcGc.jpg" group-title="USA | SEC+",:SEC+  08
 http://vocotv.pro/live/nowak1/nowak1/774895.m3u8
-#EXTINF:-1 tvg-logo="https://www.secsports.com/imgproxy/OlGCAttQzqP5qOmK1JLjpLB3XrnO8P9n67bYlnHug8I/rs:fit:1150:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3NlY3Nwb3J0cy1wcm9kL3VwbG9hZC8yMDIzLzExLzA5LzE5MzA3NWM4LTc3ZmItNDYyYi04ZjJhLWZlMWQzZjIxMmRiZC5qcGc.jpg" group-title="USA | SEC+",NCAA Wrestling: Bucknell vs Pittsburgh @ Dec 7 12:00 PM :SEC+  09
+#EXTINF:-1 tvg-logo="https://www.secsports.com/imgproxy/OlGCAttQzqP5qOmK1JLjpLB3XrnO8P9n67bYlnHug8I/rs:fit:1150:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3NlY3Nwb3J0cy1wcm9kL3VwbG9hZC8yMDIzLzExLzA5LzE5MzA3NWM4LTc3ZmItNDYyYi04ZjJhLWZlMWQzZjIxMmRiZC5qcGc.jpg" group-title="USA | SEC+",:SEC+  09
 http://vocotv.pro/live/nowak1/nowak1/774894.m3u8
-#EXTINF:-1 tvg-logo="https://www.secsports.com/imgproxy/OlGCAttQzqP5qOmK1JLjpLB3XrnO8P9n67bYlnHug8I/rs:fit:1150:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3NlY3Nwb3J0cy1wcm9kL3VwbG9hZC8yMDIzLzExLzA5LzE5MzA3NWM4LTc3ZmItNDYyYi04ZjJhLWZlMWQzZjIxMmRiZC5qcGc.jpg" group-title="USA | SEC+",NCAAW: New Hampshire vs #22 Louisville @ Dec 7 12:00 PM :SEC+  10
+#EXTINF:-1 tvg-logo="https://www.secsports.com/imgproxy/OlGCAttQzqP5qOmK1JLjpLB3XrnO8P9n67bYlnHug8I/rs:fit:1150:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3NlY3Nwb3J0cy1wcm9kL3VwbG9hZC8yMDIzLzExLzA5LzE5MzA3NWM4LTc3ZmItNDYyYi04ZjJhLWZlMWQzZjIxMmRiZC5qcGc.jpg" group-title="USA | SEC+",:SEC+  10
 http://vocotv.pro/live/nowak1/nowak1/774893.m3u8
-#EXTINF:-1 tvg-logo="https://www.secsports.com/imgproxy/OlGCAttQzqP5qOmK1JLjpLB3XrnO8P9n67bYlnHug8I/rs:fit:1150:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3NlY3Nwb3J0cy1wcm9kL3VwbG9hZC8yMDIzLzExLzA5LzE5MzA3NWM4LTc3ZmItNDYyYi04ZjJhLWZlMWQzZjIxMmRiZC5qcGc.jpg" group-title="USA | SEC+",NCAAW: Virginia vs Boston College @ Dec 7 12:00 PM :SEC+  11
+#EXTINF:-1 tvg-logo="https://www.secsports.com/imgproxy/OlGCAttQzqP5qOmK1JLjpLB3XrnO8P9n67bYlnHug8I/rs:fit:1150:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3NlY3Nwb3J0cy1wcm9kL3VwbG9hZC8yMDIzLzExLzA5LzE5MzA3NWM4LTc3ZmItNDYyYi04ZjJhLWZlMWQzZjIxMmRiZC5qcGc.jpg" group-title="USA | SEC+",:SEC+  11
 http://vocotv.pro/live/nowak1/nowak1/774892.m3u8
-#EXTINF:-1 tvg-logo="https://www.secsports.com/imgproxy/OlGCAttQzqP5qOmK1JLjpLB3XrnO8P9n67bYlnHug8I/rs:fit:1150:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3NlY3Nwb3J0cy1wcm9kL3VwbG9hZC8yMDIzLzExLzA5LzE5MzA3NWM4LTc3ZmItNDYyYi04ZjJhLWZlMWQzZjIxMmRiZC5qcGc.jpg" group-title="USA | SEC+",NCAAW: Georgia State vs Miami @ Dec 7 2:00 PM :SEC+  12
+#EXTINF:-1 tvg-logo="https://www.secsports.com/imgproxy/OlGCAttQzqP5qOmK1JLjpLB3XrnO8P9n67bYlnHug8I/rs:fit:1150:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3NlY3Nwb3J0cy1wcm9kL3VwbG9hZC8yMDIzLzExLzA5LzE5MzA3NWM4LTc3ZmItNDYyYi04ZjJhLWZlMWQzZjIxMmRiZC5qcGc.jpg" group-title="USA | SEC+",:SEC+  12
 http://vocotv.pro/live/nowak1/nowak1/774891.m3u8
-#EXTINF:-1 tvg-logo="https://www.secsports.com/imgproxy/OlGCAttQzqP5qOmK1JLjpLB3XrnO8P9n67bYlnHug8I/rs:fit:1150:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3NlY3Nwb3J0cy1wcm9kL3VwbG9hZC8yMDIzLzExLzA5LzE5MzA3NWM4LTc3ZmItNDYyYi04ZjJhLWZlMWQzZjIxMmRiZC5qcGc.jpg" group-title="USA | SEC+",NCAAW: Seton Hall vs NC State @ Dec 7 2:00 PM :SEC+  13
+#EXTINF:-1 tvg-logo="https://www.secsports.com/imgproxy/OlGCAttQzqP5qOmK1JLjpLB3XrnO8P9n67bYlnHug8I/rs:fit:1150:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3NlY3Nwb3J0cy1wcm9kL3VwbG9hZC8yMDIzLzExLzA5LzE5MzA3NWM4LTc3ZmItNDYyYi04ZjJhLWZlMWQzZjIxMmRiZC5qcGc.jpg" group-title="USA | SEC+",:SEC+  13
 http://vocotv.pro/live/nowak1/nowak1/774890.m3u8
-#EXTINF:-1 tvg-logo="https://www.secsports.com/imgproxy/OlGCAttQzqP5qOmK1JLjpLB3XrnO8P9n67bYlnHug8I/rs:fit:1150:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3NlY3Nwb3J0cy1wcm9kL3VwbG9hZC8yMDIzLzExLzA5LzE5MzA3NWM4LTc3ZmItNDYyYi04ZjJhLWZlMWQzZjIxMmRiZC5qcGc.jpg" group-title="USA | SEC+",NCAAW: App State vs Clemson @ Dec 7 2:00 PM :SEC+  14
+#EXTINF:-1 tvg-logo="https://www.secsports.com/imgproxy/OlGCAttQzqP5qOmK1JLjpLB3XrnO8P9n67bYlnHug8I/rs:fit:1150:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3NlY3Nwb3J0cy1wcm9kL3VwbG9hZC8yMDIzLzExLzA5LzE5MzA3NWM4LTc3ZmItNDYyYi04ZjJhLWZlMWQzZjIxMmRiZC5qcGc.jpg" group-title="USA | SEC+",:SEC+  14
 http://vocotv.pro/live/nowak1/nowak1/774889.m3u8
-#EXTINF:-1 tvg-logo="https://www.secsports.com/imgproxy/OlGCAttQzqP5qOmK1JLjpLB3XrnO8P9n67bYlnHug8I/rs:fit:1150:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3NlY3Nwb3J0cy1wcm9kL3VwbG9hZC8yMDIzLzExLzA5LzE5MzA3NWM4LTc3ZmItNDYyYi04ZjJhLWZlMWQzZjIxMmRiZC5qcGc.jpg" group-title="USA | SEC+",NCAAW: Georgetown vs Wake Forest @ Dec 7 2:00 PM :SEC+  15
+#EXTINF:-1 tvg-logo="https://www.secsports.com/imgproxy/OlGCAttQzqP5qOmK1JLjpLB3XrnO8P9n67bYlnHug8I/rs:fit:1150:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3NlY3Nwb3J0cy1wcm9kL3VwbG9hZC8yMDIzLzExLzA5LzE5MzA3NWM4LTc3ZmItNDYyYi04ZjJhLWZlMWQzZjIxMmRiZC5qcGc.jpg" group-title="USA | SEC+",:SEC+  15
 http://vocotv.pro/live/nowak1/nowak1/774888.m3u8
-#EXTINF:-1 tvg-logo="https://www.secsports.com/imgproxy/OlGCAttQzqP5qOmK1JLjpLB3XrnO8P9n67bYlnHug8I/rs:fit:1150:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3NlY3Nwb3J0cy1wcm9kL3VwbG9hZC8yMDIzLzExLzA5LzE5MzA3NWM4LTc3ZmItNDYyYi04ZjJhLWZlMWQzZjIxMmRiZC5qcGc.jpg" group-title="USA | SEC+",NCAAW: #18 Notre Dame vs Florida State @ Dec 7 2:00 PM :SEC+  16
+#EXTINF:-1 tvg-logo="https://www.secsports.com/imgproxy/OlGCAttQzqP5qOmK1JLjpLB3XrnO8P9n67bYlnHug8I/rs:fit:1150:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3NlY3Nwb3J0cy1wcm9kL3VwbG9hZC8yMDIzLzExLzA5LzE5MzA3NWM4LTc3ZmItNDYyYi04ZjJhLWZlMWQzZjIxMmRiZC5qcGc.jpg" group-title="USA | SEC+",:SEC+  16
 http://vocotv.pro/live/nowak1/nowak1/774887.m3u8
-#EXTINF:-1 tvg-logo="https://www.secsports.com/imgproxy/OlGCAttQzqP5qOmK1JLjpLB3XrnO8P9n67bYlnHug8I/rs:fit:1150:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3NlY3Nwb3J0cy1wcm9kL3VwbG9hZC8yMDIzLzExLzA5LzE5MzA3NWM4LTc3ZmItNDYyYi04ZjJhLWZlMWQzZjIxMmRiZC5qcGc.jpg" group-title="USA | SEC+",NCAAW: Syracuse vs SMU @ Dec 7 3:00 PM :SEC+  17
+#EXTINF:-1 tvg-logo="https://www.secsports.com/imgproxy/OlGCAttQzqP5qOmK1JLjpLB3XrnO8P9n67bYlnHug8I/rs:fit:1150:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3NlY3Nwb3J0cy1wcm9kL3VwbG9hZC8yMDIzLzExLzA5LzE5MzA3NWM4LTc3ZmItNDYyYi04ZjJhLWZlMWQzZjIxMmRiZC5qcGc.jpg" group-title="USA | SEC+",:SEC+  17
 http://vocotv.pro/live/nowak1/nowak1/774886.m3u8
-#EXTINF:-1 tvg-logo="https://www.secsports.com/imgproxy/OlGCAttQzqP5qOmK1JLjpLB3XrnO8P9n67bYlnHug8I/rs:fit:1150:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3NlY3Nwb3J0cy1wcm9kL3VwbG9hZC8yMDIzLzExLzA5LzE5MzA3NWM4LTc3ZmItNDYyYi04ZjJhLWZlMWQzZjIxMmRiZC5qcGc.jpg" group-title="USA | SEC+",NCAAM: UNLV vs Stanford @ Dec 7 4:00 PM :SEC+  18
+#EXTINF:-1 tvg-logo="https://www.secsports.com/imgproxy/OlGCAttQzqP5qOmK1JLjpLB3XrnO8P9n67bYlnHug8I/rs:fit:1150:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3NlY3Nwb3J0cy1wcm9kL3VwbG9hZC8yMDIzLzExLzA5LzE5MzA3NWM4LTc3ZmItNDYyYi04ZjJhLWZlMWQzZjIxMmRiZC5qcGc.jpg" group-title="USA | SEC+",:SEC+  18
 http://vocotv.pro/live/nowak1/nowak1/774885.m3u8
-#EXTINF:-1 tvg-logo="https://www.secsports.com/imgproxy/OlGCAttQzqP5qOmK1JLjpLB3XrnO8P9n67bYlnHug8I/rs:fit:1150:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3NlY3Nwb3J0cy1wcm9kL3VwbG9hZC8yMDIzLzExLzA5LzE5MzA3NWM4LTc3ZmItNDYyYi04ZjJhLWZlMWQzZjIxMmRiZC5qcGc.jpg" group-title="USA | SEC+",NCAAW: San José State vs California @ Dec 7 5:00 PM :SEC+  19
+#EXTINF:-1 tvg-logo="https://www.secsports.com/imgproxy/OlGCAttQzqP5qOmK1JLjpLB3XrnO8P9n67bYlnHug8I/rs:fit:1150:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3NlY3Nwb3J0cy1wcm9kL3VwbG9hZC8yMDIzLzExLzA5LzE5MzA3NWM4LTc3ZmItNDYyYi04ZjJhLWZlMWQzZjIxMmRiZC5qcGc.jpg" group-title="USA | SEC+",:SEC+  19
 http://vocotv.pro/live/nowak1/nowak1/774884.m3u8
 #EXTINF:-1 tvg-logo="https://www.secsports.com/imgproxy/OlGCAttQzqP5qOmK1JLjpLB3XrnO8P9n67bYlnHug8I/rs:fit:1150:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3NlY3Nwb3J0cy1wcm9kL3VwbG9hZC8yMDIzLzExLzA5LzE5MzA3NWM4LTc3ZmItNDYyYi04ZjJhLWZlMWQzZjIxMmRiZC5qcGc.jpg" group-title="USA | SEC+",:SEC+  20
 http://vocotv.pro/live/nowak1/nowak1/774883.m3u8
@@ -16962,13 +16980,13 @@ http://vocotv.pro/live/nowak1/nowak1/233633.m3u8
 http://vocotv.pro/live/nowak1/nowak1/233632.m3u8
 
 # --- USA | max sports (100) ---
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",Soccer: Club Tigres vs Club América @ Dec 7 11:00 AM :MAX US 01
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",no events scheduled today :MAX US 01
 http://vocotv.pro/live/nowak1/nowak1/732310.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",Soccer: San Diego Wave FC vs Flamengo @ Dec 7 12:30 PM :MAX US 02
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 02
 http://vocotv.pro/live/nowak1/nowak1/732309.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",Soccer: Third Place Match @ Dec 7 15:00 PM :MAX US 03
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 03
 http://vocotv.pro/live/nowak1/nowak1/732308.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",Soccer: Championship Match @ Dec 7 16:00 PM :MAX US 04
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 04
 http://vocotv.pro/live/nowak1/nowak1/732307.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 05
 http://vocotv.pro/live/nowak1/nowak1/732306.m3u8
@@ -17251,4 +17269,4 @@ http://vocotv.pro/live/nowak1/nowak1/782969.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/29/1/christmas-tree-logo-png_seeklogo-294102.png" group-title="❄ Xmas Specials",❄  Ambient 5 ᴴᴰ
 http://vocotv.pro/live/nowak1/nowak1/782968.m3u8
 
-# Total: 8534
+# Total: 8543
