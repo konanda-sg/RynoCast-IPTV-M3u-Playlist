@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: wyveep.com:8080
-# Generated: 2025-12-07 18:24:59
+# Generated: 2025-12-08 07:13:45
 # Expires: 2025-12-25
 # Family Safe Edition
 # ==============================================
@@ -4308,10 +4308,6 @@ http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19911.m3u8
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/10127.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fr/France5.fr.png" group-title="FRANCE HD-SD | TV ☆",|FR| FRANCE 5 SD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19902.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_la_chaine_T18.svg/langfr-330px-Logo_de_la_chaine_T18.svg.png" group-title="FRANCE HD-SD | TV ☆",|↕FR| T18 HD
-http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1341204.m3u8
-#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/Logo_PTV_2022.png" group-title="FRANCE HD-SD | TV ☆",|FR|  PUISSANCE TELEVISION HD
-http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1341565.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/m6.png" group-title="FRANCE HD-SD | TV ☆",|FR| M6 HD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/10128.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fr/M6.fr.png" group-title="FRANCE HD-SD | TV ☆",|FR| M6 SD
@@ -4350,6 +4346,14 @@ http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19907.m3u8
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/10133.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fr/TFX.fr.png" group-title="FRANCE HD-SD | TV ☆",|FR| TFX SD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19908.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_la_chaine_T18.svg/langfr-330px-Logo_de_la_chaine_T18.svg.png" group-title="FRANCE HD-SD | TV ☆",|↕FR| T18 HD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1341204.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/6ter.png" group-title="FRANCE HD-SD | TV ☆",|FR| 6TER HD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/10142.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fr/6ter.fr.png" group-title="FRANCE HD-SD | TV ☆",|FR| 6TER SD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19917.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/Logo_PTV_2022.png" group-title="FRANCE HD-SD | TV ☆",|FR|  PUISSANCE TELEVISION HD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1341565.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fr/LaChaineParlementaire.fr.png" group-title="FRANCE HD-SD | TV ☆",|FR| LCP HD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/10135.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fr/LaChaineParlementaire.fr.png" group-title="FRANCE HD-SD | TV ☆",|FR| LCP SD
@@ -4400,10 +4404,6 @@ http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1140481.m3u8
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1140480.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/RMC_Talk_Sport.png" group-title="FRANCE HD-SD | TV ☆",FR| RMC TALK SPORT HD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1140478.m3u8
-#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/6ter.png" group-title="FRANCE HD-SD | TV ☆",|FR| 6TER HD
-http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/10142.m3u8
-#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fr/6ter.fr.png" group-title="FRANCE HD-SD | TV ☆",|FR| 6TER SD
-http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19917.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/cineplusclassic.png" group-title="FRANCE HD-SD | TV ☆",|FR| CINE+ CLASSIC SD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19934.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/cineplusocs.png" group-title="FRANCE HD-SD | TV ☆",|FR| CINE+ OCS HD

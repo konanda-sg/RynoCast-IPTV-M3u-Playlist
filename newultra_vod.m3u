@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: newultra.xyz:8080
-# Generated: 2025-12-07 18:24:10
+# Generated: 2025-12-08 07:10:33
 # Expires: 2026-01-02
 # Family Safe Edition
 # ==============================================
@@ -18457,7 +18457,7 @@ http://newultra.xyz:8080/series/82428228tv/8rjcf2hfduw/2499
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DOCUMENTALES ←",MARINES
 http://newultra.xyz:8080/series/82428228tv/8rjcf2hfduw/2502
 
-# --- Series | → SERIES DRAMA ← (287) ---
+# --- Series | → SERIES DRAMA ← (288) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",4 Blocks
 http://newultra.xyz:8080/series/82428228tv/8rjcf2hfduw/7
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Por trece razones
@@ -19032,6 +19032,8 @@ http://newultra.xyz:8080/series/82428228tv/8rjcf2hfduw/2506
 http://newultra.xyz:8080/series/82428228tv/8rjcf2hfduw/2508
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Chernobyl
 http://newultra.xyz:8080/series/82428228tv/8rjcf2hfduw/2509
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Spartacus: House of Ashur
+http://newultra.xyz:8080/series/82428228tv/8rjcf2hfduw/2510
 
 # --- Series | → SERIES INFANTILES ← (43) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES INFANTILES ←",¡La serie de Cuphead!
@@ -19533,4 +19535,4 @@ http://newultra.xyz:8080/series/82428228tv/8rjcf2hfduw/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://newultra.xyz:8080/series/82428228tv/8rjcf2hfduw/2492
 
-# Total: 9691
+# Total: 9692

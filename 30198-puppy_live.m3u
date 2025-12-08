@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 30198-puppy.ott-cdn.me
-# Generated: 2025-12-07 18:26:53
+# Generated: 2025-12-08 07:13:56
 # Expires: 2026-08-11
 # Family Safe Edition
 # ==============================================
@@ -648,7 +648,7 @@ http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/494185.m3u8
 # --- |EU| SW MAX PPV (101) ---
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",####### MAX PPV #######
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1307816.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",SE: MAX PPV 1 - LUGE | Sun 07 Dec 12:09 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",SE: MAX PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1307815.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",SE: MAX PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1307814.m3u8
@@ -1094,19 +1094,19 @@ http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/578518.m3u8
 # --- |EU| SWEDEN VIAPLAY PPV (51) ---
 #EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/viaplay.png" group-title="|EU| SWEDEN VIAPLAY PPV",##### VIAPLAY VIP EVENT #####
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1268976.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/viaplay.png" group-title="|EU| SWEDEN VIAPLAY PPV",SE: VIAPLAY PPV 1 - VIAPLAY VINTER STUDIO: VIAPLAY VINTER | Sun 07 Dec 08:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/viaplay.png" group-title="|EU| SWEDEN VIAPLAY PPV",SE: VIAPLAY PPV 1 - NHL CAROLINA - SAN JOSE | Sun 07 Dec 22:55 | 8K EXCLUSIVE
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1268975.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/viaplay.png" group-title="|EU| SWEDEN VIAPLAY PPV",SE: VIAPLAY PPV 2 - FORMEL 2 YAS ISLAND | Sun 07 Dec 10:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/viaplay.png" group-title="|EU| SWEDEN VIAPLAY PPV",SE: VIAPLAY PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1268974.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/viaplay.png" group-title="|EU| SWEDEN VIAPLAY PPV",SE: VIAPLAY PPV 3 - DP WORLD TOUR NEDBANK GOLF CHALLENGE | Sun 07 Dec 09:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/viaplay.png" group-title="|EU| SWEDEN VIAPLAY PPV",SE: VIAPLAY PPV 3 - NHL FLORIDA - NY ISLANDERS | Sun 07 Dec 22:55 | 8K EXCLUSIVE
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1268973.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/viaplay.png" group-title="|EU| SWEDEN VIAPLAY PPV",SE: VIAPLAY PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/viaplay.png" group-title="|EU| SWEDEN VIAPLAY PPV",SE: VIAPLAY PPV 4 - NHL NY RANGERS - VEGAS | Mon 08 Dec 00:55 | 8K EXCLUSIVE
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1268972.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/viaplay.png" group-title="|EU| SWEDEN VIAPLAY PPV",SE: VIAPLAY PPV 5 - VIAPLAY VINTER LÄNGD (H) 10KM, FRISTIL | Sun 07 Dec 11:45 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/viaplay.png" group-title="|EU| SWEDEN VIAPLAY PPV",SE: VIAPLAY PPV 5 - NHL DALLAS - PITTSBURGH | Sun 07 Dec 23:55 | 8K EXCLUSIVE
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1268971.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/viaplay.png" group-title="|EU| SWEDEN VIAPLAY PPV",SE: VIAPLAY PPV 6 - NHL NHL ON THE FLY | Sun 07 Dec 11:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/viaplay.png" group-title="|EU| SWEDEN VIAPLAY PPV",SE: VIAPLAY PPV 6 - NHL WASHINGTON - COLUMBUS | Mon 08 Dec 00:55 | 8K EXCLUSIVE
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1268970.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/viaplay.png" group-title="|EU| SWEDEN VIAPLAY PPV",SE: VIAPLAY PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/viaplay.png" group-title="|EU| SWEDEN VIAPLAY PPV",SE: VIAPLAY PPV 7 - NHL MONTREAL - ST. LOUIS | Mon 08 Dec 00:55 | 8K EXCLUSIVE
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1268969.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/viaplay.png" group-title="|EU| SWEDEN VIAPLAY PPV",SE: VIAPLAY PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1268968.m3u8
@@ -1776,9 +1776,9 @@ http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/988161.m3u8
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/994285.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|NA| PPV LIVE EVENT",LIVE EVENT 01 - NO EVENT
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/615651.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|NA| PPV LIVE EVENT",LIVE EVENT 02 - NO EVENT
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|NA| PPV LIVE EVENT",LIVE EVENT 02 - 12PM Snowball Derby Five Flags
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/615650.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|NA| PPV LIVE EVENT",LIVE EVENT 03 - NO EVENT
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|NA| PPV LIVE EVENT",LIVE EVENT 03 - 6PM BJJ Clubes
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/615649.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|NA| PPV LIVE EVENT",LIVE EVENT 04 - NO EVENT
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/615648.m3u8
@@ -7068,41 +7068,41 @@ http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/983702.m3u8
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/983701.m3u8
 #EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 15: TNT
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/983700.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 16: 12pm Villanova at Lehigh (FCS Second Round)
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 16:
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/983699.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 17: 12pm South Dakota at Mercer (FCS Second Round)
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 17:
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/983698.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 18: 12pm Frostburg State at Kutztown (DII Quarterfinals)
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 18:
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/983697.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 19: 12pm John Carroll at Mount Union (DIII Third Round)
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 19:
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/983696.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 20: 12pm Salisbury at Johns Hopkins (DIII Third Round)
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 20:
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/983695.m3u8
 #EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 21: 3:30PM Pittsburgh at Notre Dame
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/983694.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 22: 1pm Illinois State at North Dakota State (FCS Second Round)
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 22:
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/983693.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 23: 1pm North Dakota at Tarleton State (FCS Second Round)
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 23:
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/983692.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 24: 1pm Minnesota State at Ferris State (DII Quarterfinals)
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 24:
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/983691.m3u8
 #EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 25: 3:30PM Purdue at Nebraska
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/983690.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 26: 1pm Wheaton at DePauw (DIII Third Round)
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 26:
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/983689.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 27: 1pm St. John's (MN) at Wisconsin-River Falls (DIII Third Round)
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 27:
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/983688.m3u8
 #EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 29: 3:30PM Southern Miss at Appalachian State
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/983687.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 30: 1pm Berry at Trinity (TX) (DIII Third Round)
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 30:
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/983686.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 31: 2pm Abilene Christian at Stephen F. Austin (FCS Second Round)
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 31:
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/983685.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 32: 2pm Yale at Montana State (FCS Second Round)
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 32:
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/983684.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 28: 1pm Wisconsin-La Crosse at North Central (DIII Third Round)
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 28:
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/983683.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 33: 2pm South Dakota State at Montana (FCS Second Round)
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 33:
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/983682.m3u8
 #EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 34: UAlbany at lowa 6pm
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/983681.m3u8
@@ -7284,27 +7284,27 @@ http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/952744.m3u8
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/980240.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 01 -
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/660810.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 02 - 1PM Seahawks at Falcons
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 02 -
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/660809.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 03 - 1PM Bengals at Bills
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 03 -
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/660808.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 04 - 1PM Titans at Browns
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 04 -
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/660807.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 05 - 1PM Commanders at Vikings
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 05 -
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/660806.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 06 - 1PM Dolphins at Jets
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 06 -
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/660805.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 07 - 1PM Saints at Buccaneers
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 07 -
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/660804.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 08 - 1PM Colts at Jaguars
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 08 -
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/660803.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 09 - 1PM Steelers at Ravens
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 09 -
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/660802.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 10 - 4:05PM Broncos at Raiders
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 10 -
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/660801.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 11 - 4:25PM Bears at Packers
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 11 -
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/660800.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 12 - 4:25PM Rams at Cardinals
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 12 -
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/660799.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 13 - SNF 8:20PM Texans at Chiefs
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/660798.m3u8
@@ -7391,24 +7391,20 @@ http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/660757.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NFL-TICKET-MIAMI-DOLPHINS.jpg" group-title="|NA| USA NFL",NFL FOX DOLPHINS MIAMI FL
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/660767.m3u8
 
-# --- |NA| USA NHL (49) ---
+# --- |NA| USA NHL (47) ---
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nhlnetwork.jpg" group-title="|NA| USA NHL",##### NHL LIVE EVENTS #####
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/660756.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nhlnetwork.jpg" group-title="|NA| USA NHL",NHL | 01 -
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nhlnetwork.jpg" group-title="|NA| USA NHL",NHL | 01 -1:00pm Avalanche at Flyers
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/660755.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nhlnetwork.jpg" group-title="|NA| USA NHL",NHL | 02 -
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nhlnetwork.jpg" group-title="|NA| USA NHL",NHL | 02 - 5:00pm Islanders at Panthers
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/660754.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nhlnetwork.jpg" group-title="|NA| USA NHL",NHL | 03 -
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nhlnetwork.jpg" group-title="|NA| USA NHL",NHL | 03 -5:00pm Sharks at Hurricanes
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/660753.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nhlnetwork.jpg" group-title="|NA| USA NHL",NHL | 04 -
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nhlnetwork.jpg" group-title="|NA| USA NHL",NHL | 04 - 6:00pm Penguins at Stars
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/660752.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nhlnetwork.jpg" group-title="|NA| USA NHL",NHL | 05 -
-http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/660751.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nhlnetwork.jpg" group-title="|NA| USA NHL",NHL | 06 -
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nhlnetwork.jpg" group-title="|NA| USA NHL",NHL | 06 - 7:00pm Golden Knights at Rangers
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/660750.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nhlnetwork.jpg" group-title="|NA| USA NHL",NHL | 07 -
-http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/660749.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nhlnetwork.jpg" group-title="|NA| USA NHL",NHL | 08 -
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nhlnetwork.jpg" group-title="|NA| USA NHL",NHL | 08 - 8:00pm Blackhawks at Ducks
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/660747.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nhlnetwork.jpg" group-title="|NA| USA NHL",NHL | 09 -
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/801179.m3u8
@@ -8432,9 +8428,9 @@ http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/725885.m3u8
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/725886.m3u8
 
 # --- |UK| DAZN PPV (30) ---
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="|UK| DAZN PPV",UK: DAZN PPV 1 - CREMONESE VS. LECCE | Sun 07 Dec 12:20 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="|UK| DAZN PPV",UK: DAZN PPV 1 - MICHIGAN STATE @ WISCONSIN | Sun 07 Dec 23:50 | 8K EXCLUSIVE
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1277882.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="|UK| DAZN PPV",UK: DAZN PPV 2 - TENERIFE VS. REAL MADRID | Sun 07 Dec 12:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="|UK| DAZN PPV",UK: DAZN PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1277881.m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="|UK| DAZN PPV",UK: DAZN PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1277880.m3u8
@@ -9920,9 +9916,9 @@ http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/677309.m3u8
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/677308.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|UK| PPV EVENTS",LIVE EVENT 01 - NO EVENT
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/677307.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|UK| PPV EVENTS",LIVE EVENT 02 - NO EVENT
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|UK| PPV EVENTS",LIVE EVENT 02 - 12PM Snowball Derby Five Flags
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/677306.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|UK| PPV EVENTS",LIVE EVENT 03 - NO EVENT
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|UK| PPV EVENTS",LIVE EVENT 03 - 6PM BJJ Clubes
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/677305.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|UK| PPV EVENTS",LIVE EVENT 04 - NO EVENT
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/677304.m3u8
@@ -11281,4 +11277,4 @@ http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/828028.m3u8
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/piconsnew/setantasports.png" group-title="|UK| WORLD SPORTS",UK - SETANTA SPORTS 12
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/828027.m3u8
 
-# Total: 5563
+# Total: 5561

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: premiumstvs.net:8080
-# Generated: 2025-12-07 18:33:44
+# Generated: 2025-12-08 07:08:47
 # Expires: 2026-02-22
 # Family Safe Edition
 # ==============================================
@@ -7369,7 +7369,9 @@ http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/89822.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xidZacCXALZTTxg3kAeIyqxRmkI.jpg" group-title="Movies | Riyadh Season 2024 - Kingdom Arena Boxing",Artur Beterbiev vs. Dmitry Bivol (2024)
 http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/89781.mkv
 
-# --- Movies | Seriale Turke Me Titra Shqip (11) ---
+# --- Movies | Seriale Turke Me Titra Shqip (12) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Seriale Turke Me Titra Shqip",Aile (Familja)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/543.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale Turke Me Titra Shqip",Fatih Harbiye (2013)
 http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/542.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale Turke Me Titra Shqip",Leyla (2024)
@@ -11791,4 +11793,4 @@ http://premiumstvs.net:8080/series/khFzEWQn/fP85XcC7E/248
 #EXTINF:-1 tvg-logo="" group-title="Series | Netflix Series",Squid Game: The Challenge
 http://premiumstvs.net:8080/series/khFzEWQn/fP85XcC7E/247
 
-# Total: 5862
+# Total: 5863

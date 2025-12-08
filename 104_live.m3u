@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 104.254.194.191:8080
-# Generated: 2025-12-05 07:06:42
+# Generated: 2025-12-08 07:09:54
 # Expires: 2027-03-06
 # Family Safe Edition
 # ==============================================
@@ -8836,7 +8836,7 @@ http://104.254.194.191:8080/live/fusatr284/dGzg2dniyD/77238.m3u8
 http://104.254.194.191:8080/live/fusatr284/dGzg2dniyD/237081.m3u8
 #EXTINF:-1 tvg-logo="https://logo.multicms.info/logoslar/Bein-4K.jpg" group-title="TR-SPOR",TR: beIN SPORTS 4K (Mac Zamani)
 http://104.254.194.191:8080/live/fusatr284/dGzg2dniyD/269805.m3u8
-#EXTINF:-1 tvg-logo="http://logo.multicms.info/logoslar/beinsports1.png" group-title="TR-SPOR",TR: PLUS 1 HD
+#EXTINF:-1 tvg-logo="http://logo.multicms.info/logoslar/beinsports1.png" group-title="TR-SPOR",TR: PLUS 1 FHD
 http://104.254.194.191:8080/live/fusatr284/dGzg2dniyD/337958.m3u8
 #EXTINF:-1 tvg-logo="http://logo.multicms.info/logoslar/beinsports1.png" group-title="TR-SPOR",TR: PLUS 2 HD
 http://104.254.194.191:8080/live/fusatr284/dGzg2dniyD/337959.m3u8

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: uzay.pro:8080
-# Generated: 2025-12-05 18:31:44
+# Generated: 2025-12-08 07:13:20
 # Expires: 2026-04-13
 # Family Safe Edition
 # ==============================================
@@ -717,7 +717,7 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/11502.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) Janoschs Traumstunde
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/11517.mp4
 
-# --- Movies | (S|DE) Deutsche Serien (1297) ---
+# --- Movies | (S|DE) Deutsche Serien (1301) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) 4 Blocks
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/274.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) American Horror Story
@@ -3312,6 +3312,14 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/11393.mp4
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/11480.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Der Letzte Bulle
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/11514.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Animal Kingdom
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/11518.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Nurse Jackie
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/11519.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Bored to Death
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/11520.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Sean Combs: The Reckoning
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/11522.mp4
 
 # --- Movies | (V|AL) Filma (3347) ---
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/63XsqpeRQToLJhlAWQpUG9tSx2Q_big.jpg" group-title="Movies | (V|AL) Filma",(AL-) Zyzzyx Road
@@ -12205,7 +12213,13 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/243352.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/8WgLM4DAHEqhBS65QV58Jb5IGoU.jpg" group-title="Movies | (V|DE) Bollywood Filme",(DE-) Bahubali: The Beginning - 2015
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/255929.mkv
 
-# --- Movies | (V|DE) Filme (1164) ---
+# --- Movies | (V|DE) Filme (1167) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/1aINtImZmKvwceBqyvkPvQk6Pm0_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) The Amazing Spider-Man - 2012
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/648010.avi
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/3wx55r7qFwo4SAdNJ9DLRQzQsAq_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) The First Avenger: Civil War - 2016
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/648009.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/bJLrws4RmIw6UdXQJ6Ok4UOvKo0_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Catch Me If You Can - 2002
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/648008.avi
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/hfoCG75j1YaNyfZGPg0rWy3nFmU_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Fireproof: Gib Deinen Partner Nicht Auf - 2008
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/647670.avi
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/svPlK6olBncu4yaEtqezcYy3CYP_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) The Beatles: A Hard Days Night - 1964
@@ -20811,7 +20825,11 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/476418.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dhejMQdsqPtTTCKIkyoJ5FLfC3F.jpg" group-title="Movies | (V|DE) Filme - 2023",(DE-) A Good Person - 2023
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/476415.mp4
 
-# --- Movies | (V|DE) Filme - 2024 (689) ---
+# --- Movies | (V|DE) Filme - 2024 (691) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/rLhRyFveFYLP344i2kGkcV6VhL3_big.jpg" group-title="Movies | (V|DE) Filme - 2024",(DE-) A Christmas Post: Die Vergessenen  - 2024
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/647946.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/74i5LXNDUlXnGTrUwwlB8lWUvPG_big.jpg" group-title="Movies | (V|DE) Filme - 2024",(DE-) Johatsu: Die Sich In Luft Auflösen - 2024
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/647635.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/pmRKa4s729SDJr0re9Q7C52nura_big.jpg" group-title="Movies | (V|DE) Filme - 2024",(DE-) Die Verbindung - 2024
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/646814.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/Al5mTuxjCAsEmTFwAmc446wzzxv_big.jpg" group-title="Movies | (V|DE) Filme - 2024",(DE-) Wenn Der Herbst Naht - 2024
@@ -22191,17 +22209,27 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/635442.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/dh8mS9Zzhplmr0Q80BKw0dibZUS_big.jpg" group-title="Movies | (V|DE) Filme - 2024",(DE-) The Break-Up Club - 2024
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/634880.mp4
 
-# --- Movies | (V|DE) Filme - 2025 (429) ---
+# --- Movies | (V|DE) Filme - 2025 (434) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/plyEn5uDNXXDYihF8Z7YOe2PVKE_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Troll 2 - 2025
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/648026.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/prqoXVtCJFLzqbqXLGxdl79a8aK_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Wicked: Teil 2 - 2025
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/648025.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/8qTMRmC07XCGidnKQFLbRM3FoDU_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Muzzle: City Of Wolves - 2025
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/648015.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/76ZIgt8seQ0fdXdXg1tyAYK2ZIf_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Als Mein Vater Weihnachten Rettete 2 - 2025
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/648014.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/iK6c0hV0FcClqnKQdisCLACnucr_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Zoomania 2 - 2025
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/648013.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/aKEqz44vU3nWfB2LgMn3hbXJCls_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Stromberg: Wieder Alles Wie Immer - 2025
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/648012.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/byFxrm3IS9wErulqpqDIsaLaTeG_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Five Nights At Freddy's 2 - 2025
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/648011.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/bwKVkbZswfqYkzG673W1q5ut1Kp_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Jay Kelly - 2025
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/647947.mp4
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/rLhRyFveFYLP344i2kGkcV6VhL3_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) A Christmas Post: Die Vergessenen  - 2024
-http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/647946.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/qynCyBKCJUUcj4wo4PE2aQVvote_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Oh. What. Fun. - 2025
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/647675.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/a1ElufTHnBkFL6kpkm9PTcUg9n_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) My Secret Santa - 2025
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/647674.mp4
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/74i5LXNDUlXnGTrUwwlB8lWUvPG_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Johatsu: Die Sich In Luft Auflösen - 2024
-http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/647635.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/3vEp63la6rSvloySGrV7pxAhlAE_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Bugonia - 2025
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/647634.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/waU3o5qRPNA9bIC59DIsDppll11_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) The Unholy Trinity - 2025
@@ -23755,4 +23783,4 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/248353.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Unknown",(DE-) Anaon:  Hüter Der Nacht
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/10625.mp4
 
-# Total: 11853
+# Total: 11867

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: byasmartv.com:8080
-# Generated: 2025-12-07 18:30:29
+# Generated: 2025-12-08 07:05:14
 # Expires: 2026-01-03
 # Family Safe Edition
 # ==============================================
@@ -14,6 +14,10 @@ http://byasmartv.com:8080/live/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/7587
 http://byasmartv.com:8080/live/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/51856.m3u8
 #EXTINF:-1 tvg-logo="https://assets.antenaplay.ro/2023/04/13/Xupo2qlnOHckDXhaOOCU.png" group-title="Romania",⭐⭐⭐Mireasa Plus⭐⭐⭐
 http://byasmartv.com:8080/live/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/51857.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania",⭐⭐⭐ OpenTV Colinde ⭐⭐⭐
+http://byasmartv.com:8080/live/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/71330.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania",⭐⭐⭐ OpenTV Filme de Craciun ⭐⭐⭐
+http://byasmartv.com:8080/live/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/74436.m3u8
 #EXTINF:-1 tvg-logo="https://treambura.com/reseller/resize.php?max=32&url=https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_Antena_1_%282010%29.svg/867px-Logo_Antena_1_%282010%29.svg.png" group-title="Romania",Antena 1 SD
 http://byasmartv.com:8080/live/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/70429.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_Antena_1_%282010%29.svg/867px-Logo_Antena_1_%282010%29.svg.png" group-title="Romania",Antena 1 HD
@@ -520,10 +524,6 @@ http://byasmartv.com:8080/live/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/7058
 http://byasmartv.com:8080/live/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/70589.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania",OpenTv Tulsa King Sezon 1
 http://byasmartv.com:8080/live/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/70590.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania",⭐⭐⭐ OpenTV Colinde ⭐⭐⭐
-http://byasmartv.com:8080/live/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/71330.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania",⭐⭐⭐ OpenTV Filme de Craciun ⭐⭐⭐
-http://byasmartv.com:8080/live/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/74436.m3u8
 #EXTINF:-1 tvg-logo="https://opentvromania.net/assets/img/logo.png" group-title="Romania",⚡⚡⚡ EXCLUSIVITATE CLIENTI OpenTv ⚡⚡⚡
 http://byasmartv.com:8080/live/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/25111.m3u8
 #EXTINF:-1 tvg-logo="https://plextv.live/assets/img/logo.png" group-title="Romania",Plex TV Actiune New

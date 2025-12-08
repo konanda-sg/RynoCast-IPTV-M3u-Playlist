@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 4kssl.com:8080
-# Generated: 2025-12-07 18:23:08
+# Generated: 2025-12-08 07:06:11
 # Expires: 2026-07-25
 # Family Safe Edition
 # ==============================================
@@ -2371,7 +2371,7 @@ http://4kssl.com:8080/live/1a1349093e46/c4256387cf/324904.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12848.png" group-title="CH| SWITZERLAND HD/4K",CH: MY SPORTS 9 4K [MULTI-AUDIO]
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/324903.m3u8
 
-# --- FR| CARIBBEAN HD/4K (34) ---
+# --- FR| CARIBBEAN HD/4K (33) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Animated-Flag-France.gif" group-title="FR| CARIBBEAN HD/4K",##### CARRIBEAN #####
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/1623659.m3u8
 #EXTINF:-1 tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14634.jpg?2207" group-title="FR| CARIBBEAN HD/4K",FR: ALIZES GUADELOUPE ᴴᴰ
@@ -2428,8 +2428,6 @@ http://4kssl.com:8080/live/1a1349093e46/c4256387cf/1623632.m3u8
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/1623631.m3u8
 #EXTINF:-1 tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/6024.png?82003" group-title="FR| CARIBBEAN HD/4K",FR: MBC SAT ᴴᴰ
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/1623630.m3u8
-#EXTINF:-1 tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14632.jpg?89809" group-title="FR| CARIBBEAN HD/4K",FR: ANTENNE REUNION ᴴᴰ
-http://4kssl.com:8080/live/1a1349093e46/c4256387cf/1623629.m3u8
 #EXTINF:-1 tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14649.jpg?81833" group-title="FR| CARIBBEAN HD/4K",FR: WATAAA ᴴᴰ
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/1623628.m3u8
 #EXTINF:-1 tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/9332.jpg?92087" group-title="FR| CARIBBEAN HD/4K",FR: ZEE CINEMA ᴴᴰ
@@ -5389,4 +5387,4 @@ http://4kssl.com:8080/live/1a1349093e46/c4256387cf/612647.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6576.png?ver=29759" group-title="FR| SPORT HD/4K",FR: MULTISPORTS 6 HD
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/612648.m3u8
 
-# Total: 2646
+# Total: 2645

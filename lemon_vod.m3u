@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: lemon.catchmeifyo.com:8000
-# Generated: 2025-12-07 18:33:58
+# Generated: 2025-12-08 07:11:27
 # Expires: 2026-04-05
 # Family Safe Edition
 # ==============================================
@@ -12260,7 +12260,7 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/1700.mp4
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/1740.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NLZIET",Van God Los
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/1743.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | NLZIET",Famillie Gillis: Massa is Kassa
+#EXTINF:-1 tvg-logo="" group-title="Movies | NLZIET",Familie Gillis: Massa is Kassa
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/1748.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NLZIET",The Luminaries
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/1779.mp4
@@ -12397,7 +12397,7 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3529.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NLZIET",De Hanslers: van de Piste naar de Playa
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3563.mp4
 
-# --- Movies | NPO Start (146) ---
+# --- Movies | NPO Start (147) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | NPO Start",B.A.B.S.
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/8.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NPO Start",KLEM
@@ -12690,6 +12690,8 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3463.mp4
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3464.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NPO Start",Bij ons op de Wallen
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3558.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NPO Start",Het verhaal van Amsterdam
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3571.mp4
 
 # --- Movies | Netflix (794) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Netflix",Keizersvrouwen
@@ -17923,7 +17925,7 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/189678.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yutiEZ7taGDNau2jGjKIdDwQpDw.jpg" group-title="Movies | Nieuwe Releases 2024",Thelma De Eenhoorn (2024) NL Gesproken
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/190125.mkv
 
-# --- Movies | Nieuwe Releases 2025 (377) ---
+# --- Movies | Nieuwe Releases 2025 (378) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHcG8FPk9yILRVPnHEcrwtrkAAN.jpg" group-title="Movies | Nieuwe Releases 2025",2025-01-05 22:25 - NFL Gamepass 16: Dolphins @ Jets
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/119331.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ldEVs1GQiYLGXZEwa93tb5t3gsD.jpg" group-title="Movies | Nieuwe Releases 2025",2025-01-05 22:25 - NFL Gamepass 17: Chiefs @ Broncos
@@ -18678,6 +18680,8 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/190840.mkv
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/190856.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tpOAzBasKPsKwsUtPZOx1Mzuqq3.jpg" group-title="Movies | Nieuwe Releases 2025",My Secret Santa (2025)
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/190921.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qynCyBKCJUUcj4wo4PE2aQVvote.jpg" group-title="Movies | Nieuwe Releases 2025",Oh. What. Fun. (2025)
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/190961.mkv
 
 # --- Movies | Oorlog / War (59) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LlqyjAik3Kh68QQ9AchSJEF0Z5.jpg" group-title="Movies | Oorlog / War",Jarhead: Law of Return
@@ -22029,4 +22033,4 @@ http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/2750
 #EXTINF:-1 tvg-logo="" group-title="Series | NL GESPROKEN SERIES",The Hunt (Een van Ons)
 http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/2751
 
-# Total: 10959
+# Total: 10961

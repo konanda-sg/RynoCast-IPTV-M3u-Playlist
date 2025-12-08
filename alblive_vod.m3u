@@ -1,13 +1,13 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alblive.org:80
-# Generated: 2025-12-07 18:28:12
+# Generated: 2025-12-08 07:05:36
 # Expires: 2026-01-15
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | Action (378) ---
+# --- Movies | Action (380) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnWkyG3LLgbbrIEeyl5mK5VRFe4.jpg" group-title="Movies | Action",6 Underground (2019)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/6091.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBZhbCVhLpyxAfW1B8ePUxjScrx.jpg" group-title="Movies | Action",Godzilla (2014)
@@ -758,6 +758,10 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17115.mkv
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17116.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wU8ijITXE2ZgoXJexTQByJiHCbp.jpg" group-title="Movies | Action",The Forgotten Battle (2021)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17193.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7bcndiaTgu1Kj5a6qyCmsWYdtI.jpg" group-title="Movies | Action",Almost Cops (2025)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17199.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uLOmOF5IzWoyrgIF5MfUnh5pa1X.jpg" group-title="Movies | Action",Men in Black (1997)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17201.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Action",Gotham Knights
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/70.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Action",Spy/Master
@@ -1225,7 +1229,7 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17186.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Animation",Rick and Morty
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/75.mp4
 
-# --- Movies | Comedy (337) ---
+# --- Movies | Comedy (339) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mdsHCFt2PeZacEr38y2p5RRf6Hl.jpg" group-title="Movies | Comedy",Girls Trip (2017)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/6144.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJPbS2cYOYhDCjT5NmW1Fm6gFl3.jpg" group-title="Movies | Comedy",Get Hard (2015)
@@ -1852,6 +1856,10 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17190.mkv
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17192.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mI6mFCO3lrJ4ovzwfmoLs58uhlK.jpg" group-title="Movies | Comedy",Father Christmas Is Back (2021)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17196.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/n1YtLc6viVt93gOdU8SX7mnq22y.jpg" group-title="Movies | Comedy",The Night My Dad Saved Christmas 2 (2025)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17202.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eGIxXsf3DXYejb0C62bfJVSPSM8.jpg" group-title="Movies | Comedy",The Takedown (2022)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17203.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Comedy",The Big Bang Theory (MultiSub)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/39.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Comedy",Friends (MultiSub)
@@ -6831,7 +6839,7 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/69.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Mystery",#BringBackAlice
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/78.mp4
 
-# --- Movies | Romance (100) ---
+# --- Movies | Romance (101) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lOzGWjceYTd0kd5HyX7Ch46O9kh.jpg" group-title="Movies | Romance",Focus (2015)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/6138.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYRiZ3vJuuCYb9H7HXfpjKO9Jd6.jpg" group-title="Movies | Romance",Fifty Shades of Black (2016)
@@ -7032,6 +7040,8 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17132.mkv
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17185.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bfZPNzAwUQZ6FZQi1d136KLr3wl.jpg" group-title="Movies | Romance",Single All the Way (2021)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17198.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/w4ytu75uJ1b0AgPd0wLm7iZMsWJ.jpg" group-title="Movies | Romance",A Merry Little Ex-Mas (2025)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17200.mkv
 
 # --- Movies | SRB-CRO-Titlovi (57) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/260GDjmYf2A9W09RRo5FwUueQ3Y.jpg" group-title="Movies | SRB-CRO-Titlovi",Bookworm (2024)
@@ -10305,4 +10315,4 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/16122.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Western",The English
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/100.mp4
 
-# Total: 5120
+# Total: 5125

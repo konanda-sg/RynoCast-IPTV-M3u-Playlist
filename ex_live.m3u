@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: ex.guteex.com:8000
-# Generated: 2025-12-07 18:23:16
+# Generated: 2025-12-08 07:09:26
 # Expires: 2026-04-01
 # Family Safe Edition
 # ==============================================
@@ -459,7 +459,7 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/29104.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BELGIUM",VTM KIDS HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/29105.m3u8
 
-# --- DE | DAZN Sports (51) ---
+# --- DE | DAZN Sports (52) ---
 #EXTINF:-1 tvg-logo="http://eex24.com:8000/uye/alman.png" group-title="DE | DAZN Sports",-------| DAZN Sports |-------
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/44803.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE | DAZN Sports",DAZN 1 HD HEVC
@@ -538,6 +538,8 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/48189.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/41053.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE | DAZN Sports",DAZN SerieA 2
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/41054.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE | DAZN Sports",DAZN SerieA 3
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65055.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE | DAZN Sports",DAZN Ligue 1
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/41051.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE | DAZN Sports",DAZN Ligue 2
@@ -1430,7 +1432,7 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/27218.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/38514.m3u8
 #EXTINF:-1 tvg-logo="http://79.124.59.158:33387/logo/bundesliga.jpg" group-title="DE | SPORTS HIGHLIGHTS",BUNDESLIGA 12. spieltag
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/18526.m3u8
-#EXTINF:-1 tvg-logo="http://79.124.59.158:33387/logo/premier.jpg" group-title="DE | SPORTS HIGHLIGHTS",PREMIER LEAGUE 14. spieltag
+#EXTINF:-1 tvg-logo="http://79.124.59.158:33387/logo/premier.jpg" group-title="DE | SPORTS HIGHLIGHTS",PREMIER LEAGUE 15. spieltag
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/409.m3u8
 #EXTINF:-1 tvg-logo="http://79.124.59.158:33387/logo/laliga.jpg" group-title="DE | SPORTS HIGHLIGHTS",LALIGA 14. spieltag
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/41918.m3u8
@@ -4002,9 +4004,9 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/26768.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/26776.m3u8
 #EXTINF:-1 tvg-logo="http://kaliteex2018.com:8000/uye/trtr.png" group-title="| TR - SPOR",....................| SPOR OZETLERI |....................
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/38517.m3u8
-#EXTINF:-1 tvg-logo="http://79.124.59.158:33387/logo/super.jpg" group-title="| TR - SPOR",SUPER LIG 14. HAFTA
+#EXTINF:-1 tvg-logo="http://79.124.59.158:33387/logo/super.jpg" group-title="| TR - SPOR",SUPER LIG 15. HAFTA
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/26982.m3u8
-#EXTINF:-1 tvg-logo="http://79.124.59.158:33387/logo/premier.jpg" group-title="| TR - SPOR",PREMIER LIG 14. HAFTA
+#EXTINF:-1 tvg-logo="http://79.124.59.158:33387/logo/premier.jpg" group-title="| TR - SPOR",PREMIER LIG 15. HAFTA
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/39065.m3u8
 #EXTINF:-1 tvg-logo="http://79.124.59.158:33387/logo/bundesliga.jpg" group-title="| TR - SPOR",BUNDESLIGA 12. HAFTA
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/26989.m3u8
@@ -4365,4 +4367,4 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/40596.m3u8
 #EXTINF:-1 tvg-logo="" group-title="| TR- RADIO",RADYO | Diyanet Kur'ân Radyo
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/40597.m3u8
 
-# Total: 2144
+# Total: 2145

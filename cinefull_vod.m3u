@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: cinefull.space:80
-# Generated: 2025-12-07 18:22:34
+# Generated: 2025-12-08 07:06:49
 # Expires: 2026-05-05
 # Family Safe Edition
 # ==============================================
@@ -26133,6 +26133,28 @@ http://cinefull.space:80/movie/519117722/619615262/3725.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Programas de TV",Show do Milhao PicPay (2021)
 http://cinefull.space:80/movie/519117722/619615262/5997.mp4
 
+# --- Movies | Unknown (10) ---
+#EXTINF:-1 tvg-logo="http://64.31.13.86:80/images/465487f897184ef78b5009c46943ba4d.jpg" group-title="Movies | Unknown",O Grande Desafio (2007)
+http://cinefull.space:80/movie/519117722/619615262/2546940.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Unknown",Wandinha (2022)
+http://cinefull.space:80/movie/519117722/619615262/8009.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Unknown",Wandinha (2022)
+http://cinefull.space:80/movie/519117722/619615262/8015.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Unknown",Wandinha (2022)
+http://cinefull.space:80/movie/519117722/619615262/8010.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Unknown",Wandinha (2022)
+http://cinefull.space:80/movie/519117722/619615262/8013.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Unknown",Wandinha (2022)
+http://cinefull.space:80/movie/519117722/619615262/8011.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Unknown",Wandinha (2022)
+http://cinefull.space:80/movie/519117722/619615262/8012.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Unknown",Wandinha (2022)
+http://cinefull.space:80/movie/519117722/619615262/8008.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Unknown",Wandinha (2022)
+http://cinefull.space:80/movie/519117722/619615262/8014.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Unknown",Os Impossíveis (1966)
+http://cinefull.space:80/movie/519117722/619615262/8016.mp4
+
 # --- Series | Series | AMC Plus (3) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | AMC Plus",Inferno Sobre Rodas (2011)
 http://cinefull.space:80/series/519117722/619615262/1537
@@ -41369,4 +41391,4 @@ http://cinefull.space:80/series/519117722/619615262/7441
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Univer",O Senhor e a Serva (2025)
 http://cinefull.space:80/series/519117722/619615262/7704
 
-# Total: 20637
+# Total: 20647

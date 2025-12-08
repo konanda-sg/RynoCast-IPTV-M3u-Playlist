@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: funmitra.com:8080
-# Generated: 2025-12-05 18:30:51
+# Generated: 2025-12-08 07:02:25
 # Expires: 2026-04-30
 # Family Safe Edition
 # ==============================================
@@ -2202,7 +2202,7 @@ http://funmitra.com:8080/live/pepi290424/wbktXzArzf/563659.m3u8
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/563658.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/CTV NEWS NETWORK.png" group-title="CA CANADA ENGLISH",CA: CTV 2 ALBERTA
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/563657.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/ VISION.png" group-title="CA CANADA ENGLISH",CA: VISION
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/VISION.png" group-title="CA CANADA ENGLISH",CA: VISION
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/563638.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/ROGERS TV.png" group-title="CA CANADA ENGLISH",CA: ROGERS TV (BATHURST)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/563637.m3u8
@@ -2548,7 +2548,7 @@ http://funmitra.com:8080/live/pepi290424/wbktXzArzf/197461.m3u8
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/197458.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/CBC HALIFAX.png" group-title="CA CANADA ENGLISH",CA: CBC WINDSOR HD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/197457.m3u8
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/chch_hamilton.jpg" group-title="CA CANADA ENGLISH",CA: CHCH HD
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/CHCH.png" group-title="CA CANADA ENGLISH",CA: CHCH HD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/155717.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/CP24.png" group-title="CA CANADA ENGLISH",CA: CP24 HD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/197453.m3u8
@@ -2616,7 +2616,7 @@ http://funmitra.com:8080/live/pepi290424/wbktXzArzf/263134.m3u8
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/263135.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/own.png" group-title="CA CANADA ENGLISH",CA: OWN
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/263140.m3u8
-#EXTINF:-1 tvg-logo="A&E" group-title="CA CANADA ENGLISH",CA: A&E FHD
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/A&E.png" group-title="CA CANADA ENGLISH",CA: A&E FHD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/263141.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/ABC.png" group-title="CA CANADA ENGLISH",CA: ABC HD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/263142.m3u8
@@ -3196,341 +3196,341 @@ http://funmitra.com:8080/live/pepi290424/wbktXzArzf/354398.m3u8
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/155736.m3u8
 
 # --- CA CANADA OTHER (196) ---
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ASIAN) AASTHA (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/AASTHA.png" group-title="CA CANADA OTHER",CA: (ASIAN) AASTHA (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630549.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ASIAN) ARY QTV (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/ARY QTV.png" group-title="CA CANADA OTHER",CA: (ASIAN) ARY QTV (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630548.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ASIAN) ATN BANGLA (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/ATN PUNJABI 5.png" group-title="CA CANADA OTHER",CA: (ASIAN) ATN BANGLA (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630545.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ASIAN) ATN LIFE (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/ATN PUNJABI 5.png" group-title="CA CANADA OTHER",CA: (ASIAN) ATN LIFE (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630544.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ASIAN) ATN SONY (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/SONY AATH.png" group-title="CA CANADA OTHER",CA: (ASIAN) ATN SONY (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630542.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ASIAN) ATN SPORTS (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/ATN SPORTS.png" group-title="CA CANADA OTHER",CA: (ASIAN) ATN SPORTS (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630541.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ASIAN) B4U MOVIES (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/B4U PLUS.png" group-title="CA CANADA OTHER",CA: (ASIAN) B4U MOVIES (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630540.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ASIAN) B4U MUSIC (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/B4U PLUS.png" group-title="CA CANADA OTHER",CA: (ASIAN) B4U MUSIC (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630539.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ASIAN) B4U PLUS (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/B4U PLUS.png" group-title="CA CANADA OTHER",CA: (ASIAN) B4U PLUS (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630538.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ASIAN) TET (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/TET.png" group-title="CA CANADA OTHER",CA: (ASIAN) TET (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630536.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ASIAN) CH PUNJABI (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/PUNJABI.png" group-title="CA CANADA OTHER",CA: (ASIAN) CH PUNJABI (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630535.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ASIAN) COLORS  (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/COLORS.png" group-title="CA CANADA OTHER",CA: (ASIAN) COLORS  (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630534.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ASIAN) GUJARATI (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/COLORS.png" group-title="CA CANADA OTHER",CA: (ASIAN) GUJARATI (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630533.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ASIAN) NEWS 18 (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/NEWS 18.png" group-title="CA CANADA OTHER",CA: (ASIAN) NEWS 18 (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630532.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ASIAN) PTC (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/PTC.png" group-title="CA CANADA OTHER",CA: (ASIAN) PTC (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630531.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ASIAN) PUNJABI + (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/PUNJABI.png" group-title="CA CANADA OTHER",CA: (ASIAN) PUNJABI + (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630530.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ASIAN) PUNJABI 5 (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/ATN PUNJABI 5.png" group-title="CA CANADA OTHER",CA: (ASIAN) PUNJABI 5 (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630529.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ASIAN) SAB TV (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/SAB TV.png" group-title="CA CANADA OTHER",CA: (ASIAN) SAB TV (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630528.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ASIAN) TAMIL PLUS (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/TAMIL PLUS.png" group-title="CA CANADA OTHER",CA: (ASIAN) TAMIL PLUS (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630527.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ASIAN) VISION PUNAJB GURBANI (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/VISION PUNJAB TV.png" group-title="CA CANADA OTHER",CA: (ASIAN) VISION PUNAJB GURBANI (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630526.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ASIAN) ZEE (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/ZEE.png" group-title="CA CANADA OTHER",CA: (ASIAN) ZEE (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630525.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ASIAN) ZEE BOLLYWOOD (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/ZEE BOLLYWOOD CANADA.png" group-title="CA CANADA OTHER",CA: (ASIAN) ZEE BOLLYWOOD (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630524.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (CARIB) AFRO GLOBAL (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/AFRO GLOBAL.png" group-title="CA CANADA OTHER",CA: (CARIB) AFRO GLOBAL (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630523.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (CARIB) FEVA (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/FEVA TV.png" group-title="CA CANADA OTHER",CA: (CARIB) FEVA (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630521.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (CARIB) FEVA TV (B)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/FEVA TV.png" group-title="CA CANADA OTHER",CA: (CARIB) FEVA TV (B)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630520.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (CARIB) WIN TV (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/WIN TV.png" group-title="CA CANADA OTHER",CA: (CARIB) WIN TV (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630518.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ES) TLN (B)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/TLN.png" group-title="CA CANADA OTHER",CA: (ES) TLN (B)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630517.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ES) TLN+ (B)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/TLN.png" group-title="CA CANADA OTHER",CA: (ES) TLN+ (B)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630516.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ES) UNIVISION CANADA HD (B)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/UNIVISION.png" group-title="CA CANADA OTHER",CA: (ES) UNIVISION CANADA HD (B)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630515.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (GR) ALPHA SAT (B)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/ALPHA SAT.png" group-title="CA CANADA OTHER",CA: (GR) ALPHA SAT (B)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630514.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (GR) ALPHA SAT (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/ALPHA SAT.png" group-title="CA CANADA OTHER",CA: (GR) ALPHA SAT (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630513.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (GR) ERT WORLD (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/ERT WORLD.png" group-title="CA CANADA OTHER",CA: (GR) ERT WORLD (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630512.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (GR) MEGA COSMOS (B)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/MEGA COSMOS.png" group-title="CA CANADA OTHER",CA: (GR) MEGA COSMOS (B)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630511.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (GR) MEGA COSMOS (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/MEGA COSMOS.png" group-title="CA CANADA OTHER",CA: (GR) MEGA COSMOS (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630510.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (GR) MONTREAL GREEK TV (D)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/MONTREAL GREEK TV.png" group-title="CA CANADA OTHER",CA: (GR) MONTREAL GREEK TV (D)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630509.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (GR) ODYSSEY (B)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/ODYSSEY.png" group-title="CA CANADA OTHER",CA: (GR) ODYSSEY (B)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630508.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (GR) ODYSSEY (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/ODYSSEY.png" group-title="CA CANADA OTHER",CA: (GR) ODYSSEY (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630507.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (GR) SPORT PLUS (B)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/SPORT PLUS.png" group-title="CA CANADA OTHER",CA: (GR) SPORT PLUS (B)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630506.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (HI) ZEE BOLLYWOOD CANADA (B)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/ZEE BOLLYWOOD CANADA.png" group-title="CA CANADA OTHER",CA: (HI) ZEE BOLLYWOOD CANADA (B)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630504.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (IT) MEDIASET ITALIA CANADA (B)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/MEDIASET ITALIA.png" group-title="CA CANADA OTHER",CA: (IT) MEDIASET ITALIA CANADA (B)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630503.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (IT) MEDIASET ITALIA CANADA (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/MEDIASET ITALIA.png" group-title="CA CANADA OTHER",CA: (IT) MEDIASET ITALIA CANADA (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630502.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (IT) RAI (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/RAI.png" group-title="CA CANADA OTHER",CA: (IT) RAI (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630501.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (IT) RAI ITALIA HD (B)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/RAI.png" group-title="CA CANADA OTHER",CA: (IT) RAI ITALIA HD (B)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630500.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (IT) RAI WORLD PREMIUM (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/RAI WORLD PREMIUM.png" group-title="CA CANADA OTHER",CA: (IT) RAI WORLD PREMIUM (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630499.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (IT) SKY TG24 (B)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/Italy/sky_it_tg24.png" group-title="CA CANADA OTHER",CA: (IT) SKY TG24 (B)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630498.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (IT) SKY TG24 (HX)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/Italy/sky_it_tg24.png" group-title="CA CANADA OTHER",CA: (IT) SKY TG24 (HX)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630497.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (IT) TELEBIMBI (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/TELEBIMBI.png" group-title="CA CANADA OTHER",CA: (IT) TELEBIMBI (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630496.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (IT) TGCOM 24 (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/Italy/mediaset_tgcom_24.png" group-title="CA CANADA OTHER",CA: (IT) TGCOM 24 (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630495.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (LATIN) BENFICA TV (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/BENFICA TV.png" group-title="CA CANADA OTHER",CA: (LATIN) BENFICA TV (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630493.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (LATIN) CINELATINO (HX)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/CINELATINO.png" group-title="CA CANADA OTHER",CA: (LATIN) CINELATINO (HX)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630492.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (LATIN) ESTRELLAS (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/ESTRELLAS.png" group-title="CA CANADA OTHER",CA: (LATIN) ESTRELLAS (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630491.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (LATIN) FPTV-SICI (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/FPTV-SICI.png" group-title="CA CANADA OTHER",CA: (LATIN) FPTV-SICI (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630490.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (LATIN) GLOBO (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/GLOBO.png" group-title="CA CANADA OTHER",CA: (LATIN) GLOBO (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630489.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (LATIN) RECORD (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/RECORD TV.png" group-title="CA CANADA OTHER",CA: (LATIN) RECORD (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630488.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (LATIN) RTPI (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/RTPI.png" group-title="CA CANADA OTHER",CA: (LATIN) RTPI (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630487.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (LATIN) TELENINOS (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/TELENINOS TELENINOS.png" group-title="CA CANADA OTHER",CA: (LATIN) TELENINOS (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630486.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (LATIN) TELENINOS TELENINOS (HX)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/TELENINOS TELENINOS.png" group-title="CA CANADA OTHER",CA: (LATIN) TELENINOS TELENINOS (HX)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630485.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (LATIN) TLN (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/TLN.png" group-title="CA CANADA OTHER",CA: (LATIN) TLN (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630484.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (LATIN) TLN (HX)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/TLN.png" group-title="CA CANADA OTHER",CA: (LATIN) TLN (HX)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630483.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (LATIN) TLN (WEST) (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/TLN.png" group-title="CA CANADA OTHER",CA: (LATIN) TLN (WEST) (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630482.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (LATIN) TLNOVELAS (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/TLNOVELAS.png" group-title="CA CANADA OTHER",CA: (LATIN) TLNOVELAS (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630481.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (LATIN) TV CHILE (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/TV CHILE.png" group-title="CA CANADA OTHER",CA: (LATIN) TV CHILE (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630480.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (LATIN) TVI (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/TVI.png" group-title="CA CANADA OTHER",CA: (LATIN) TVI (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630479.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (LATIN) UNIVISION (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/UNIVISION.png" group-title="CA CANADA OTHER",CA: (LATIN) UNIVISION (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630478.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (LATIN) UNIVISION (HX)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/UNIVISION.png" group-title="CA CANADA OTHER",CA: (LATIN) UNIVISION (HX)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630477.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (PA) ATN PUNJABI 5 (B)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/ATN PUNJABI 5.png" group-title="CA CANADA OTHER",CA: (PA) ATN PUNJABI 5 (B)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630476.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (PA) PRIME ASIA TV (D)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/PRIME ASIA TV.png" group-title="CA CANADA OTHER",CA: (PA) PRIME ASIA TV (D)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630475.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (PH) FILIPINO (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/FILIPINO TV.png" group-title="CA CANADA OTHER",CA: (PH) FILIPINO (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630474.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (PH) FILIPINO TV (B)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/FILIPINO TV.png" group-title="CA CANADA OTHER",CA: (PH) FILIPINO TV (B)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630473.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (PH) GMA LIFE (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/GMA PINOY TV.png" group-title="CA CANADA OTHER",CA: (PH) GMA LIFE (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630472.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (PH) GMA LIFE TV (B)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/GMA PINOY TV.png" group-title="CA CANADA OTHER",CA: (PH) GMA LIFE TV (B)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630471.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (PH) GMA NEWS (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/GMA PINOY TV.png" group-title="CA CANADA OTHER",CA: (PH) GMA NEWS (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630470.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (PH) GMA NEWS TV (B)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/GMA PINOY TV.png" group-title="CA CANADA OTHER",CA: (PH) GMA NEWS TV (B)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630469.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (PH) GMA PINOY (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/GMA PINOY TV.png" group-title="CA CANADA OTHER",CA: (PH) GMA PINOY (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630468.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (PH) GMA PINOY TV (B)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/GMA PINOY TV.png" group-title="CA CANADA OTHER",CA: (PH) GMA PINOY TV (B)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630467.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (PH) KAPATID 5 (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/KAPATID TV5.png" group-title="CA CANADA OTHER",CA: (PH) KAPATID 5 (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630466.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (PH) KAPATID TV5 (B)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/KAPATID TV5.png" group-title="CA CANADA OTHER",CA: (PH) KAPATID TV5 (B)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630465.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (PH) LIFESTYLE NETWORK (B)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/LIFESTYLE NETWORK.png" group-title="CA CANADA OTHER",CA: (PH) LIFESTYLE NETWORK (B)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630464.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (PH) TFC (B)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/TFC.png" group-title="CA CANADA OTHER",CA: (PH) TFC (B)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630463.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (PH) TFC (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/TFC.png" group-title="CA CANADA OTHER",CA: (PH) TFC (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630462.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (PT) RECORD TV (B)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/RECORD TV.png" group-title="CA CANADA OTHER",CA: (PT) RECORD TV (B)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630461.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (TA) TAMIL VISION TV (D)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/TAMIL VISION TV.png" group-title="CA CANADA OTHER",CA: (TA) TAMIL VISION TV (D)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630460.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ZH) ALL TV (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/ALL TV-K.png" group-title="CA CANADA OTHER",CA: (ZH) ALL TV (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630459.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ZH) ALL TV-K (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/ALL TV-K.png" group-title="CA CANADA OTHER",CA: (ZH) ALL TV-K (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630458.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ZH) CCTV ENTERTAINMENT (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/CCTV.png" group-title="CA CANADA OTHER",CA: (ZH) CCTV ENTERTAINMENT (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630457.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ZH) CCTV4 (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/CCTV.png" group-title="CA CANADA OTHER",CA: (ZH) CCTV4 (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630456.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ZH) CGTN (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/CGTN.png" group-title="CA CANADA OTHER",CA: (ZH) CGTN (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630455.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ZH) CGTN-DOCUMENTARY (B)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/CGTN.png" group-title="CA CANADA OTHER",CA: (ZH) CGTN-DOCUMENTARY (B)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630454.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ZH) FAIRCHILD (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/FAIRCHILD TELEVISION WEST.png" group-title="CA CANADA OTHER",CA: (ZH) FAIRCHILD (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630453.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ZH) FAIRCHILD 2 (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/FAIRCHILD TELEVISION WEST.png" group-title="CA CANADA OTHER",CA: (ZH) FAIRCHILD 2 (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630452.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ZH) FAIRCHILD 2 HD (B)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/FAIRCHILD TELEVISION WEST.png" group-title="CA CANADA OTHER",CA: (ZH) FAIRCHILD 2 HD (B)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630451.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ZH) FAIRCHILD INTERNATIONAL (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/FAIRCHILD TELEVISION WEST.png" group-title="CA CANADA OTHER",CA: (ZH) FAIRCHILD INTERNATIONAL (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630450.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ZH) FAIRCHILD TELEVISION (B)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/FAIRCHILD TELEVISION WEST.png" group-title="CA CANADA OTHER",CA: (ZH) FAIRCHILD TELEVISION (B)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630449.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ZH) FAIRCHILD TELEVISION MANDARIN (B)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/FAIRCHILD TELEVISION WEST.png" group-title="CA CANADA OTHER",CA: (ZH) FAIRCHILD TELEVISION MANDARIN (B)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630448.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ZH) FAIRCHILD TELEVISION WEST (B)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/FAIRCHILD TELEVISION WEST.png" group-title="CA CANADA OTHER",CA: (ZH) FAIRCHILD TELEVISION WEST (B)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630447.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ZH) LS TIMES (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/LS TIMES.png" group-title="CA CANADA OTHER",CA: (ZH) LS TIMES (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630446.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ZH) LS TIMES HD (B)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/LS TIMES.png" group-title="CA CANADA OTHER",CA: (ZH) LS TIMES HD (B)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630445.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ZH) WOW TV HD (B)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/WOWTV.png" group-title="CA CANADA OTHER",CA: (ZH) WOW TV HD (B)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630444.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ZH) WOWTV (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/WOWTV.png" group-title="CA CANADA OTHER",CA: (ZH) WOWTV (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630443.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ASIAN) VISION BEATS HD (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/VISION PUNJAB TV.png" group-title="CA CANADA OTHER",CA: (ASIAN) VISION BEATS HD (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630441.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ASIAN) VISION PUNJAB MUSIC HD (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/VISION PUNJAB TV.png" group-title="CA CANADA OTHER",CA: (ASIAN) VISION PUNJAB MUSIC HD (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630440.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ASIAN) VISION PUNJAB TV HD (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/VISION PUNJAB TV.png" group-title="CA CANADA OTHER",CA: (ASIAN) VISION PUNJAB TV HD (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630439.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ASIAN) CA SS TV (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/CA SS TV.png" group-title="CA CANADA OTHER",CA: (ASIAN) CA SS TV (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630438.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ASIAN) MTV INDIA (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/mtv.png" group-title="CA CANADA OTHER",CA: (ASIAN) MTV INDIA (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630437.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ASIAN) DD NEWS (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/DD NEWS.png" group-title="CA CANADA OTHER",CA: (ASIAN) DD NEWS (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630436.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ASIAN) DD INDIA (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/DD INDIA.png" group-title="CA CANADA OTHER",CA: (ASIAN) DD INDIA (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630435.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ASIAN) GEO TV (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/GEO_Television.png" group-title="CA CANADA OTHER",CA: (ASIAN) GEO TV (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630434.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ASIAN) JAYA TV (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/JAYA TV.png" group-title="CA CANADA OTHER",CA: (ASIAN) JAYA TV (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630433.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ASIAN) CHANNEL Y  (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/CHANNEL Y.png" group-title="CA CANADA OTHER",CA: (ASIAN) CHANNEL Y  (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630432.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ASIAN) NTV BANGLA (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/NTV BANGLA.png" group-title="CA CANADA OTHER",CA: (ASIAN) NTV BANGLA (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630429.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ASIAN) PUNJABI (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/PUNJABI.png" group-title="CA CANADA OTHER",CA: (ASIAN) PUNJABI (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630428.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ASIAN) SONY AATH (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/SONY AATH.png" group-title="CA CANADA OTHER",CA: (ASIAN) SONY AATH (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630426.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ASIAN) SONY MAX (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/SONY MAX.png" group-title="CA CANADA OTHER",CA: (ASIAN) SONY MAX (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630425.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ASIAN) TIMES NOW (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/TIMES NOW.png" group-title="CA CANADA OTHER",CA: (ASIAN) TIMES NOW (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630424.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ASIAN) TV ASIA (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/TV ASIA.png" group-title="CA CANADA OTHER",CA: (ASIAN) TV ASIA (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630423.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ASIAN) ZING (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/ZING.png" group-title="CA CANADA OTHER",CA: (ASIAN) ZING (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630421.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ASIAN) ATNPM (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/ATNPM.png" group-title="CA CANADA OTHER",CA: (ASIAN) ATNPM (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630420.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ASIAN) ATN FOOD (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/ATN FOOD.png" group-title="CA CANADA OTHER",CA: (ASIAN) ATN FOOD (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630419.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ASIAN) ARYD (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/ARYD.png" group-title="CA CANADA OTHER",CA: (ASIAN) ARYD (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630418.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ASIAN) ARY NEWS (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/ARY NEWS.png" group-title="CA CANADA OTHER",CA: (ASIAN) ARY NEWS (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630417.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ASIAN) COLORS R (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/COLORS.png" group-title="CA CANADA OTHER",CA: (ASIAN) COLORS R (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630416.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ASIAN) COLORS M (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/COLORS.png" group-title="CA CANADA OTHER",CA: (ASIAN) COLORS M (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630415.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ASIAN) COLORS B (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/COLORS.png" group-title="CA CANADA OTHER",CA: (ASIAN) COLORS B (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630414.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (PL) ITVN (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/ITVN.png" group-title="CA CANADA OTHER",CA: (PL) ITVN (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630412.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (IL) ISRAEL (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/ISRAEL.png" group-title="CA CANADA OTHER",CA: (IL) ISRAEL (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630411.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ZH) JIANGSU (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/JIANGSU.png" group-title="CA CANADA OTHER",CA: (ZH) JIANGSU (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630410.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ZH) HUNAN (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/HUNAN.png" group-title="CA CANADA OTHER",CA: (ZH) HUNAN (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630408.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ZH) DRAGON TV (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/DRAGON TV.png" group-title="CA CANADA OTHER",CA: (ZH) DRAGON TV (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630407.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (ZH) BEIJING TV (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/BEIJING TV.png" group-title="CA CANADA OTHER",CA: (ZH) BEIJING TV (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630406.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (GR) GREEK CINEMA (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/GREEK CINEMA.png" group-title="CA CANADA OTHER",CA: (GR) GREEK CINEMA (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630405.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (LATIN) TVIPT (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/TVIPT.png" group-title="CA CANADA OTHER",CA: (LATIN) TVIPT (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630404.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: (LATIN) SIC NOTICIAS (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/SIC NOTICIAS.png" group-title="CA CANADA OTHER",CA: (LATIN) SIC NOTICIAS (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630403.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: ONTARIO LEGISLATURE (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/ONTARIO-REIGN.png" group-title="CA CANADA OTHER",CA: ONTARIO LEGISLATURE (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630401.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: GLOBAL REGINA (FL)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/GLOBAL TORONTO.png" group-title="CA CANADA OTHER",CA: GLOBAL REGINA (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630399.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: GLOBAL HALIFAX (FL)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/GLOBAL TORONTO.png" group-title="CA CANADA OTHER",CA: GLOBAL HALIFAX (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630398.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: GLOBAL WINNIPEG (FL)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/GLOBAL TORONTO.png" group-title="CA CANADA OTHER",CA: GLOBAL WINNIPEG (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630396.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: GLOBAL BC (FL)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/GLOBAL TORONTO.png" group-title="CA CANADA OTHER",CA: GLOBAL BC (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630395.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: CTV REGINA (FL)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/CTV NEWS NETWORK.png" group-title="CA CANADA OTHER",CA: CTV REGINA (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630394.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: CTV 2 WINDSOR (FL)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/CTV NEWS NETWORK.png" group-title="CA CANADA OTHER",CA: CTV 2 WINDSOR (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630393.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: CTV 2 ATLANTIC (FL)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/CTV NEWS NETWORK.png" group-title="CA CANADA OTHER",CA: CTV 2 ATLANTIC (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630392.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: CTV OTTAWA (FL)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/CTV NEWS NETWORK.png" group-title="CA CANADA OTHER",CA: CTV OTTAWA (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630390.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: CTV 2 OTTAWA (FL)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/CTV NEWS NETWORK.png" group-title="CA CANADA OTHER",CA: CTV 2 OTTAWA (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630389.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: CTV SASKATOON (FL)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/CTV NEWS NETWORK.png" group-title="CA CANADA OTHER",CA: CTV SASKATOON (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630388.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: CTV WINNIPEG (FL)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/CTV NEWS NETWORK.png" group-title="CA CANADA OTHER",CA: CTV WINNIPEG (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630387.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: CTV VANCOUVER (FL)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/CTV NEWS NETWORK.png" group-title="CA CANADA OTHER",CA: CTV VANCOUVER (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630386.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: CTV 2 VANCOUVER ISLAND (FL)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/CTV NEWS NETWORK.png" group-title="CA CANADA OTHER",CA: CTV 2 VANCOUVER ISLAND (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630385.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: CTV KITCHENER (FL)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/CTV NEWS NETWORK.png" group-title="CA CANADA OTHER",CA: CTV KITCHENER (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630384.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: CTV SUDBURY (FL)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/CTV NEWS NETWORK.png" group-title="CA CANADA OTHER",CA: CTV SUDBURY (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630383.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: CTV 2 LONDON (FL)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/CTV NEWS NETWORK.png" group-title="CA CANADA OTHER",CA: CTV 2 LONDON (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630382.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: CHEK VICTORIA (FL)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/CHEK.png" group-title="CA CANADA OTHER",CA: CHEK VICTORIA (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630381.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: TVA QUÉBEC (FL)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/TVA.png" group-title="CA CANADA OTHER",CA: TVA QUÉBEC (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630380.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: TVA SHERBROOKE (FL)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/TVA.png" group-title="CA CANADA OTHER",CA: TVA SHERBROOKE (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630379.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: TVA MONTRÉAL (FL)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/TVA.png" group-title="CA CANADA OTHER",CA: TVA MONTRÉAL (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630378.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: ADDIK TV (FL)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/ADDIKTV.png" group-title="CA CANADA OTHER",CA: ADDIK TV (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630377.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: CASA (FL)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/CASA.png" group-title="CA CANADA OTHER",CA: CASA (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630376.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/AFRICA/evasion-tv-gn.png" group-title="CA CANADA OTHER",CA: ÉVASION (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630375.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: ICI TÉLÉ SHERBROOKE (FL)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/ICI TELEVISION.png" group-title="CA CANADA OTHER",CA: ICI TÉLÉ SHERBROOKE (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630374.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: LCN (FL)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/LCN.png" group-title="CA CANADA OTHER",CA: LCN (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630373.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: LA CHAÎNE DISNEY (FL)
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/disney_channel.png" group-title="CA CANADA OTHER",CA: LA CHAÎNE DISNEY (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630372.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: MATV QUÉBEC (FL)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/MATV.png" group-title="CA CANADA OTHER",CA: MATV QUÉBEC (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630371.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: MATV VICTORIAVILLE (FL)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/MATV.png" group-title="CA CANADA OTHER",CA: MATV VICTORIAVILLE (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630370.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: MATV LAVAL (FL)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/MATV.png" group-title="CA CANADA OTHER",CA: MATV LAVAL (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630369.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: MATV MOULIN LACHENAIE (FL)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/MATV.png" group-title="CA CANADA OTHER",CA: MATV MOULIN LACHENAIE (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630368.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: MOI&CIE TÉLÉ HD (FL)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/MOI&CIE.png" group-title="CA CANADA OTHER",CA: MOI&CIE TÉLÉ HD (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630367.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: NOOVO SHERBROOKE (FL)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/NOOVO V-TELE.png" group-title="CA CANADA OTHER",CA: NOOVO SHERBROOKE (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630365.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/PRISE 2.png" group-title="CA CANADA OTHER",CA: PRISE 2 HD (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630364.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: NOOVO MONTRÉAL (FL)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/NOOVO V-TELE.png" group-title="CA CANADA OTHER",CA: NOOVO MONTRÉAL (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630362.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: Z  (FL)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/Z.png" group-title="CA CANADA OTHER",CA: Z  (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630361.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/ZESTE.png" group-title="CA CANADA OTHER",CA: ZESTE (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630360.m3u8
@@ -3544,77 +3544,77 @@ http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630356.m3u8
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630355.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/CBC HALIFAX.png" group-title="CA CANADA OTHER",CA: CBC WINNIPEG (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630354.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: CW 11 (KSTW) SEATTLE (H) (FL)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/CW.png" group-title="CA CANADA OTHER",CA: CW 11 (KSTW) SEATTLE (H) (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630353.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: CITYTV SASKATCHEWAN (FL)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/CITY TV.png" group-title="CA CANADA OTHER",CA: CITYTV SASKATCHEWAN (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630352.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/CITY TV.png" group-title="CA CANADA OTHER",CA: CITY VANCOUVER (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630351.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: CITY WINNIPEG (FL)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/CITY TV.png" group-title="CA CANADA OTHER",CA: CITY WINNIPEG (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630350.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: FAITHTV (FL)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/FAITHTV.png" group-title="CA CANADA OTHER",CA: FAITHTV (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630349.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: FOOD NETWORK (FL)
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/GREECE/foodNetwork.png" group-title="CA CANADA OTHER",CA: FOOD NETWORK (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630348.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: ICI TÉLÉ MONCTON (FL)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/ICI TELEVISION.png" group-title="CA CANADA OTHER",CA: ICI TÉLÉ MONCTON (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630347.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: ICI TÉLÉ REGINA (FL)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/ICI TELEVISION.png" group-title="CA CANADA OTHER",CA: ICI TÉLÉ REGINA (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630346.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: ICI TÉLÉ TORONTO (FL)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/ICI TELEVISION.png" group-title="CA CANADA OTHER",CA: ICI TÉLÉ TORONTO (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630345.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: ICI TÉLÉ VANCOUVER (FL)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/ICI TELEVISION.png" group-title="CA CANADA OTHER",CA: ICI TÉLÉ VANCOUVER (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630344.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: ICI TÉLÉ WINNIPEG (FL)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/ICI TELEVISION.png" group-title="CA CANADA OTHER",CA: ICI TÉLÉ WINNIPEG (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630343.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: JOYTV (FL)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/JOYTV.png" group-title="CA CANADA OTHER",CA: JOYTV (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630342.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: KNOWLEDGE NETWORK (FL)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/KNOWLEDGE NETWORK.png" group-title="CA CANADA OTHER",CA: KNOWLEDGE NETWORK (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630341.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/ELLE FICTIONS.png" group-title="CA CANADA OTHER",CA: ELLE FICTIONS (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630340.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: Z NTV (FL)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/ntv.png" group-title="CA CANADA OTHER",CA: Z NTV (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630339.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: OMNI2 HD (FL)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/OMNI.png" group-title="CA CANADA OTHER",CA: OMNI2 HD (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630337.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: OMNI BC (FL)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/OMNI.png" group-title="CA CANADA OTHER",CA: OMNI BC (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630336.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: OMNI PRAIRIES (FL)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/OMNI.png" group-title="CA CANADA OTHER",CA: OMNI PRAIRIES (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630334.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: ONT PARL (FL)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/ONT PARL.png" group-title="CA CANADA OTHER",CA: ONT PARL (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630333.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: SR JAZZ MASTERS (FL)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/SR JAZZ MASTERS.png" group-title="CA CANADA OTHER",CA: SR JAZZ MASTERS (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630332.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: SR POPULAR CLASSICAL (FL)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/SR POPULAR CLASSICAL.png" group-title="CA CANADA OTHER",CA: SR POPULAR CLASSICAL (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630331.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA OTHER",CA: AMI-AUDIO (FL)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/AMI TV.png" group-title="CA CANADA OTHER",CA: AMI-AUDIO (FL)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630330.m3u8
 
 # --- CA CANADA SPORT (246) ---
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sportsnet_east.jpg" group-title="CA CANADA SPORT",CA: SPORTSNET ONE HD
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/SPORTSNET WEST.png" group-title="CA CANADA SPORT",CA: SPORTSNET ONE HD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/197419.m3u8
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sportsnet_east.jpg" group-title="CA CANADA SPORT",CA: SPORTSNET WEST  HD
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/SPORTSNET WEST.png" group-title="CA CANADA SPORT",CA: SPORTSNET WEST  HD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/197416.m3u8
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sportsnet_east.jpg" group-title="CA CANADA SPORT",CA: SPORTSNET WORLD HD
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/SPORTSNET WEST.png" group-title="CA CANADA SPORT",CA: SPORTSNET WORLD HD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/197415.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/SPORTSNET WEST.png" group-title="CA CANADA SPORT",CA: SPORTSNET ONTARIO HD (ENGLISH PREMIER LEAGUE)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/354228.m3u8
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tsn.jpg" group-title="CA CANADA SPORT",CA: TSN 1 HD
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/TSN.png" group-title="CA CANADA SPORT",CA: TSN 1 HD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/197407.m3u8
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tsn.jpg" group-title="CA CANADA SPORT",CA: TSN 2 FHD
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/TSN.png" group-title="CA CANADA SPORT",CA: TSN 2 FHD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/197406.m3u8
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tsn.jpg" group-title="CA CANADA SPORT",CA: TSN 2 HD
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/TSN.png" group-title="CA CANADA SPORT",CA: TSN 2 HD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/197405.m3u8
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tsn.jpg" group-title="CA CANADA SPORT",CA: TSN 4 HD
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/TSN.png" group-title="CA CANADA SPORT",CA: TSN 4 HD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/197402.m3u8
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tsn.jpg" group-title="CA CANADA SPORT",CA: TSN 5 FHD
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/TSN.png" group-title="CA CANADA SPORT",CA: TSN 5 FHD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/197401.m3u8
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tsn.jpg" group-title="CA CANADA SPORT",CA: TSN 5 HD
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/TSN.png" group-title="CA CANADA SPORT",CA: TSN 5 HD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/197400.m3u8
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tsn.jpg" group-title="CA CANADA SPORT",CA: TSN 1 FHD
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/TSN.png" group-title="CA CANADA SPORT",CA: TSN 1 FHD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/197399.m3u8
-#EXTINF:-1 tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/Canada_1282/Source/18405/superecran_400x400.png" group-title="CA CANADA SPORT",CA:┃FR┃ SUPER ECRAN 1
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/SUPER ECRAN.png" group-title="CA CANADA SPORT",CA:┃FR┃ SUPER ECRAN 1
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/155730.m3u8
-#EXTINF:-1 tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/Canada_1282/Source/18405/superecran_400x400.png" group-title="CA CANADA SPORT",CA:┃FR┃ SUPER ECRAN 4
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/SUPER ECRAN.png" group-title="CA CANADA SPORT",CA:┃FR┃ SUPER ECRAN 4
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/155721.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/SUPER ECRAN.png" group-title="CA CANADA SPORT",CA:┃FR┃ SUPER ECRAN 1 HD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/563751.m3u8
@@ -3974,73 +3974,73 @@ http://funmitra.com:8080/live/pepi290424/wbktXzArzf/563332.m3u8
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/563331.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/franceT-220x132/dazn.png" group-title="CA CANADA SPORT",CA:|VIP| DAZN: EVENT 01
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/471230.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA SPORT",CA: CP24 LIVE 6 (D)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/CP24.png" group-title="CA CANADA SPORT",CA: CP24 LIVE 6 (D)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630329.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA SPORT",CA: CP24 LIVE 5 (D)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/CP24.png" group-title="CA CANADA SPORT",CA: CP24 LIVE 5 (D)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630328.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA SPORT",CA: CP24 LIVE 4 (D)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/CP24.png" group-title="CA CANADA SPORT",CA: CP24 LIVE 4 (D)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630327.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA SPORT",CA: CP24 LIVE 3 (D)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/CP24.png" group-title="CA CANADA SPORT",CA: CP24 LIVE 3 (D)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630326.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA SPORT",CA: CP24 LIVE 2 (D)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/CP24.png" group-title="CA CANADA SPORT",CA: CP24 LIVE 2 (D)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630325.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA SPORT",CA: CP24 LIVE 1 (D)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/CP24.png" group-title="CA CANADA SPORT",CA: CP24 LIVE 1 (D)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630324.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA SPORT",CA: (F2) FUBO SPORTS
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/FUBO SPORTS.png" group-title="CA CANADA SPORT",CA: (F2) FUBO SPORTS
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630323.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA SPORT",CA: (F2) FUBO SPORTS 10
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/FUBO SPORTS.png" group-title="CA CANADA SPORT",CA: (F2) FUBO SPORTS 10
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630322.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA SPORT",CA: (F2) FUBO SPORTS 2
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/FUBO SPORTS.png" group-title="CA CANADA SPORT",CA: (F2) FUBO SPORTS 2
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630321.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA SPORT",CA: (F2) FUBO SPORTS 3
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/FUBO SPORTS.png" group-title="CA CANADA SPORT",CA: (F2) FUBO SPORTS 3
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630320.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA SPORT",CA: (F2) FUBO SPORTS 4
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/FUBO SPORTS.png" group-title="CA CANADA SPORT",CA: (F2) FUBO SPORTS 4
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630319.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA SPORT",CA: (F2) FUBO SPORTS 5
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/FUBO SPORTS.png" group-title="CA CANADA SPORT",CA: (F2) FUBO SPORTS 5
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630318.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA SPORT",CA: (F2) FUBO SPORTS 6
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/FUBO SPORTS.png" group-title="CA CANADA SPORT",CA: (F2) FUBO SPORTS 6
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630317.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA SPORT",CA: (F2) FUBO SPORTS 7
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/FUBO SPORTS.png" group-title="CA CANADA SPORT",CA: (F2) FUBO SPORTS 7
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630316.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA SPORT",CA: (F2) FUBO SPORTS 8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/FUBO SPORTS.png" group-title="CA CANADA SPORT",CA: (F2) FUBO SPORTS 8
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630315.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA SPORT",CA: (F2) FUBO SPORTS 9
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/FUBO SPORTS.png" group-title="CA CANADA SPORT",CA: (F2) FUBO SPORTS 9
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630314.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA SPORT",CA: SPORTS PACK 9 (CH438) (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/SPORTS PACK.png" group-title="CA CANADA SPORT",CA: SPORTS PACK 9 (CH438) (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630313.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA SPORT",CA: SPORTS PACK 8 (CH437) (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/SPORTS PACK.png" group-title="CA CANADA SPORT",CA: SPORTS PACK 8 (CH437) (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630312.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA SPORT",CA: SPORTS PACK 7 (CH436) (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/SPORTS PACK.png" group-title="CA CANADA SPORT",CA: SPORTS PACK 7 (CH436) (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630311.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA SPORT",CA: SPORTS PACK 6 (CH435) (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/SPORTS PACK.png" group-title="CA CANADA SPORT",CA: SPORTS PACK 6 (CH435) (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630310.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA SPORT",CA: SPORTS PACK 5 (CH434) (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/SPORTS PACK.png" group-title="CA CANADA SPORT",CA: SPORTS PACK 5 (CH434) (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630309.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA SPORT",CA: SPORTS PACK 42 (CH471) (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/SPORTS PACK.png" group-title="CA CANADA SPORT",CA: SPORTS PACK 42 (CH471) (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630308.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA SPORT",CA: SPORTS PACK 41 (CH470) (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/SPORTS PACK.png" group-title="CA CANADA SPORT",CA: SPORTS PACK 41 (CH470) (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630307.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA SPORT",CA: SPORTS PACK 40 (CH469) (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/SPORTS PACK.png" group-title="CA CANADA SPORT",CA: SPORTS PACK 40 (CH469) (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630306.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA SPORT",CA: SPORTS PACK 4 (CH433) (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/SPORTS PACK.png" group-title="CA CANADA SPORT",CA: SPORTS PACK 4 (CH433) (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630305.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA SPORT",CA: SPORTS PACK 39 (CH468) (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/SPORTS PACK.png" group-title="CA CANADA SPORT",CA: SPORTS PACK 39 (CH468) (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630304.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA SPORT",CA: SPORTS PACK 38 (CH467) (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/SPORTS PACK.png" group-title="CA CANADA SPORT",CA: SPORTS PACK 38 (CH467) (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630303.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA SPORT",CA: SPORTS PACK 37 (CH466) (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/SPORTS PACK.png" group-title="CA CANADA SPORT",CA: SPORTS PACK 37 (CH466) (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630302.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA SPORT",CA: SPORTS PACK 34 (CH463) (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/SPORTS PACK.png" group-title="CA CANADA SPORT",CA: SPORTS PACK 34 (CH463) (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630301.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA SPORT",CA: SPORTS PACK 33 (CH462) (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/SPORTS PACK.png" group-title="CA CANADA SPORT",CA: SPORTS PACK 33 (CH462) (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630300.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA SPORT",CA: SPORTS PACK 32 (CH461) (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/SPORTS PACK.png" group-title="CA CANADA SPORT",CA: SPORTS PACK 32 (CH461) (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630299.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA SPORT",CA: SPORTS PACK 31 (CH460) (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/SPORTS PACK.png" group-title="CA CANADA SPORT",CA: SPORTS PACK 31 (CH460) (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630298.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA SPORT",CA: SPORTS PACK 30 (CH459) (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/SPORTS PACK.png" group-title="CA CANADA SPORT",CA: SPORTS PACK 30 (CH459) (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630297.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CA CANADA SPORT",CA: SPORTS PACK 3 (CH432) (E)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/SPORTS PACK.png" group-title="CA CANADA SPORT",CA: SPORTS PACK 3 (CH432) (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630296.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/SPORTS PACK.png" group-title="CA CANADA SPORT",CA: SPORTS PACK 29 (CH458) (E)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/630295.m3u8
@@ -12478,9 +12478,9 @@ http://funmitra.com:8080/live/pepi290424/wbktXzArzf/536743.m3u8
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/466422.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/GREECE/cosmotoSporthigh.png" group-title="GR SPORT - AΘΛHTIKA",GR: VIP COSMOTE SPORT HIGHLIGHTS HD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/211242.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/GREECE/comotoSport1.png" group-title="GR SPORT - AΘΛHTIKA",▶️GR: OTE SPORT 1 ⭐ ⏰ ΩΡA ΠΑΙΧΝΙΔΙΟΥ
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/GREECE/comotoSport1.png" group-title="GR SPORT - AΘΛHTIKA",▶️GR: OTE SPORT 1 HD (ΩΡA ΠΑΙΧΝΙΔΙΟ)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/568614.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/GREECE/comotoSport2.png" group-title="GR SPORT - AΘΛHTIKA",▶️GR: OTE SPORT 2 ⭐ ⏰ ΩΡA ΠΑΙΧΝΙΔΙΟΥ
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/GREECE/comotoSport2.png" group-title="GR SPORT - AΘΛHTIKA",▶️GR: OTE SPORT 2 HD (ΩΡA ΠΑΙΧΝΙΔΙΟΥ)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/568823.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/GREECE/comotoSport1.png" group-title="GR SPORT - AΘΛHTIKA",GR: VIP COSMOTE SPORT 1 HD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/211243.m3u8

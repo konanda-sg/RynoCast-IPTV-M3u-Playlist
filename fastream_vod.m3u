@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: fastream.xyz:8080
-# Generated: 2025-12-07 18:22:35
+# Generated: 2025-12-08 07:05:45
 # Expires: 2026-10-20
 # Family Safe Edition
 # ==============================================
@@ -18457,7 +18457,7 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2499
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DOCUMENTALES ←",MARINES
 http://fastream.xyz:8080/series/940246862tv/12ws79/2502
 
-# --- Series | → SERIES DRAMA ← (287) ---
+# --- Series | → SERIES DRAMA ← (288) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",4 Blocks
 http://fastream.xyz:8080/series/940246862tv/12ws79/7
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Por trece razones
@@ -19032,6 +19032,8 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2506
 http://fastream.xyz:8080/series/940246862tv/12ws79/2508
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Chernobyl
 http://fastream.xyz:8080/series/940246862tv/12ws79/2509
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Spartacus: House of Ashur
+http://fastream.xyz:8080/series/940246862tv/12ws79/2510
 
 # --- Series | → SERIES INFANTILES ← (43) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES INFANTILES ←",¡La serie de Cuphead!
@@ -19533,4 +19535,4 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://fastream.xyz:8080/series/940246862tv/12ws79/2492
 
-# Total: 9691
+# Total: 9692

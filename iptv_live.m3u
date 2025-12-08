@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: iptv.darktv.eu:25461
-# Generated: 2025-12-07 18:30:34
+# Generated: 2025-12-08 07:07:07
 # Expires: 2026-01-06
 # Family Safe Edition
 # ==============================================
@@ -5823,6 +5823,24 @@ http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/182256.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="NL - DARK CINEMA ⁷-²⁴",(NL) ⁷-²⁴ Harry Potter
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/182169.m3u8
 
+# --- NL - DAZN EVENTS (8) ---
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/daznevents.png" group-title="NL - DAZN EVENTS",(NL) DAZN Event 1 FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/203883.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/daznevents.png" group-title="NL - DAZN EVENTS",(NL) DAZN Event 2 FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/203882.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/daznevents.png" group-title="NL - DAZN EVENTS",(NL) DAZN Event 3 FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/203881.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/daznevents.png" group-title="NL - DAZN EVENTS",(NL) DAZN Event 4 FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/203880.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/daznevents.png" group-title="NL - DAZN EVENTS",(NL) DAZN Event 5 FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/203879.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/daznevents.png" group-title="NL - DAZN EVENTS",(NL) DAZN Event 6 FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/203878.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/daznevents.png" group-title="NL - DAZN EVENTS",(NL) DAZN Event 7 FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/203877.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/daznevents.png" group-title="NL - DAZN EVENTS",(NL) DAZN Event 8 FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/203876.m3u8
+
 # --- NL - DOCUMENTARY (18) ---
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/nationalgeographichd.png" group-title="NL - DOCUMENTARY",(NL) National Geographic 4K+
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/7677.m3u8
@@ -6083,7 +6101,7 @@ http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/3234.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/l1mburg.png" group-title="NL - REGIONAAL",(NL) L1
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/3174.m3u8
 
-# --- NL - SPORTS (31) ---
+# --- NL - SPORTS (33) ---
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/foxsportseredivisie1hd.png" group-title="NL - SPORTS",(NL) ESPN 1 HEVC
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/151305.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/foxsportseredivisie1hd.png" group-title="NL - SPORTS",(NL) ESPN 2 HEVC
@@ -6138,58 +6156,144 @@ http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/2754.m3u8
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/2752.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="NL - SPORTS",(NL) Glory Kickboxing / UFC
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/118311.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="NL - SPORTS",|XP1| WWE HD
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="NL - SPORTS",(NL) GLORY (Backup)
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/203846.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="NL - SPORTS",(NL) WWE HD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/108468.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="NL - SPORTS",|XP1| UFC HD
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="NL - SPORTS",(NL) UFC FHD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/108467.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="NL - SPORTS",(NL) UFC Power Slap
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/203845.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="NL - SPORTS",|XP1| BOXING HD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/108466.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="NL - SPORTS",(NL) Dazn Boxing
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/163988.m3u8
 
-# --- NL - VIAPLAY (21) ---
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY",(UK) Sky Sports F1 4K
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/170447.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY",(NL) Viaplay Formula 1 4K+
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/125218.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY",(NL) F1 TV PRO Formula 1 4K+
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/127363.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY",(NL) Viaplay TV+
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/193988.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY",(NL) Viaplay PDC Darts 4K+
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/125217.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY",(NL) ViaPlay Premiere League 1 4K+
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/143801.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY",(NL) ViaPlay Premiere League 2 4K+
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/143802.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY",(NL) ViaPlay Premiere League 3 4K+
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/143803.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY",(NL) ViaPlay Premiere League 4 4K+
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/143804.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY",(NL) ViaPlay Premiere League 5 4K+
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/143805.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY",(NL) ViaPlay Premiere League 6 4K+
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/143806.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY",(NL) ViaPlay Premiere League 7 4K+
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/143807.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY",(NL) ViaPlay Premiere League 8 4K+
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/143808.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY",(NL) ViaPlay Bundesliga 1 4K+
+# --- NL - VIAPLAY BUNDESLIGA (8) ---
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY BUNDESLIGA",(NL) ViaPlay Bundesliga 1 4K+
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/143809.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY",(NL) ViaPlay Bundesliga 2 4K+
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY BUNDESLIGA",(NL) ViaPlay Bundesliga 2 4K+
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/143810.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY",(NL) ViaPlay Bundesliga 3 4K+
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY BUNDESLIGA",(NL) ViaPlay Bundesliga 3 4K+
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/143811.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY",(NL) ViaPlay Bundesliga 4 4K+
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY BUNDESLIGA",(NL) ViaPlay Bundesliga 4 4K+
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/143812.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY",(NL) ViaPlay Bundesliga 5 4K+
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY BUNDESLIGA",(NL) ViaPlay Bundesliga 5 4K+
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/143813.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY",(NL) ViaPlay Bundesliga 6 4K+
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY BUNDESLIGA",(NL) ViaPlay Bundesliga 6 4K+
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/143814.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY",(NL) ViaPlay Bundesliga 7 4K+
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY BUNDESLIGA",(NL) ViaPlay Bundesliga 7 4K+
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/143815.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY",(NL) ViaPlay Bundesliga 8 4K+
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY BUNDESLIGA",(NL) ViaPlay Bundesliga 8 4K+
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/143816.m3u8
+
+# --- NL - VIAPLAY EVENTS (32) ---
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event Info Channel FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/203834.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) Viaplay PDC Darts 4K+
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/125217.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 1 FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/203835.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 2 FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/203836.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 3 FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/203837.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 4 FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/203838.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 5 FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/203839.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 6 FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/203840.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 7 FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/203841.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 8 FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/203842.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 9 FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/203843.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 10 FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/203844.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 11 FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/203849.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 12 FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/203850.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 13 FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/203875.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 14 FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/203874.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 15 FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/203873.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 16 FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/203872.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 17 FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/203871.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 18 FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/203870.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 19 FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/203869.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 20 FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/203868.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 21 FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/203867.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 22 FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/203866.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 23 FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/203865.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 24 FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/203864.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 25 FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/203863.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 26 FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/203862.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 27 FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/203861.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 28 FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/203860.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 29 FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/203859.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 30 FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/203858.m3u8
+
+# --- NL - VIAPLAY FORMULE F1 (11) ---
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY FORMULE F1",(UK) Sky Sports F1 4K
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/170447.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY FORMULE F1",(NL) Viaplay TV+
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/193988.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY FORMULE F1",(NL) Viaplay TV FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/203830.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY FORMULE F1",(NL) Viaplay Formula 1 FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/203827.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY FORMULE F1",(NL) Viaplay Formula 1 4K+
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/125218.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY FORMULE F1",(NL) F1 TV PRO Formula 1 4K+
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/127363.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY FORMULE F1",(NL) Viaplay Formula 1  (Olav Mol) FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/203828.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY FORMULE F1",(NL) Viaplay Formula 1 FHD (Backup)
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/203831.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY FORMULE F1",(NL) F1 Viaplay Replay Trainingen
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/203829.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY FORMULE F1",(NL) F1 Viaplay Replay Kwalificaties
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/203832.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY FORMULE F1",(NL) F1 Viaplay Replay Race
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/203833.m3u8
+
+# --- NL - VIAPLAY PREMIER LEAGUE (8) ---
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY PREMIER LEAGUE",(NL) ViaPlay Premiere League 1 4K+
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/143801.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY PREMIER LEAGUE",(NL) ViaPlay Premiere League 2 4K+
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/143802.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY PREMIER LEAGUE",(NL) ViaPlay Premiere League 3 4K+
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/143803.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY PREMIER LEAGUE",(NL) ViaPlay Premiere League 4 4K+
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/143804.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY PREMIER LEAGUE",(NL) ViaPlay Premiere League 5 4K+
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/143805.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY PREMIER LEAGUE",(NL) ViaPlay Premiere League 6 4K+
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/143806.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY PREMIER LEAGUE",(NL) ViaPlay Premiere League 7 4K+
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/143807.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY PREMIER LEAGUE",(NL) ViaPlay Premiere League 8 4K+
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/143808.m3u8
 
 # --- NL - VIDEOLAND (6) ---
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="NL - VIDEOLAND",(NL) Big Brother 1 4K
@@ -10281,4 +10385,4 @@ http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/153506.m3u8
 #EXTINF:-1 tvg-logo="" group-title="İR : PERSİAN",(IR) TIN TV
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/153497.m3u8
 
-# Total: 5001
+# Total: 5049

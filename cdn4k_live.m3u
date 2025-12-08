@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: cdn4k.us:80
-# Generated: 2025-12-07 18:27:14
+# Generated: 2025-12-08 07:09:14
 # Expires: 2025-12-15
 # Family Safe Edition
 # ==============================================
@@ -418,14 +418,6 @@ http://cdn4k.us:80/live/Adrianobrito16/910989645a/347116.m3u8
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/347117.m3u8
 #EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/5653-b-1744896788749.png" group-title="BRASILEIRAO",Sport Recife x Grêmio - 16:00 Série A HD²
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/347118.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/5653-b-1744896788749.png" group-title="BRASILEIRAO",Brasileirão
-http://cdn4k.us:80/live/Adrianobrito16/910989645a/347126.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/5653-b-1744896788749.png" group-title="BRASILEIRAO",Brasileirão
-http://cdn4k.us:80/live/Adrianobrito16/910989645a/347125.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/5653-b-1744896788749.png" group-title="BRASILEIRAO",Brasileirão
-http://cdn4k.us:80/live/Adrianobrito16/910989645a/347124.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/5653-b-1744896788749.png" group-title="BRASILEIRAO",Brasileirão
-http://cdn4k.us:80/live/Adrianobrito16/910989645a/347123.m3u8
 #EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/5653-b-1744896788749.png" group-title="BRASILEIRAO",Vitória x São Paulo - 16:00 Série A HD²
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/347122.m3u8
 #EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/5653-b-1744896788749.png" group-title="BRASILEIRAO",Vitória x São Paulo - 16:00 Série A HD
@@ -434,6 +426,14 @@ http://cdn4k.us:80/live/Adrianobrito16/910989645a/347121.m3u8
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/347120.m3u8
 #EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/5653-b-1744896788749.png" group-title="BRASILEIRAO",Vitória x São Paulo - 16:00 Série A FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/347119.m3u8
+#EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/5653-b-1744896788749.png" group-title="BRASILEIRAO",Brasileirão
+http://cdn4k.us:80/live/Adrianobrito16/910989645a/347126.m3u8
+#EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/5653-b-1744896788749.png" group-title="BRASILEIRAO",Brasileirão
+http://cdn4k.us:80/live/Adrianobrito16/910989645a/347125.m3u8
+#EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/5653-b-1744896788749.png" group-title="BRASILEIRAO",Brasileirão
+http://cdn4k.us:80/live/Adrianobrito16/910989645a/347124.m3u8
+#EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/5653-b-1744896788749.png" group-title="BRASILEIRAO",Brasileirão
+http://cdn4k.us:80/live/Adrianobrito16/910989645a/347123.m3u8
 
 # --- CINE SKY (14) ---
 #EXTINF:-1 tvg-logo="https://cdn4k.store/logos/cinesky.png" group-title="CINE SKY",Cine SKY 1
@@ -1133,52 +1133,44 @@ http://cdn4k.us:80/live/Adrianobrito16/910989645a/6546.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4k.store/logos/id.png" group-title="DISCOVERY",Investigação Discovery SD²
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/100517.m3u8
 
-# --- DISNEY+ (29) ---
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/2ba9f40e-b243-4737-9cff-a1f9774ac58d/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="DISNEY+",FIS Men's Nordic Combined World Cup - Trondheim, NOR
+# --- DISNEY+ (25) ---
+#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Texas A&M x SMU
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/346368.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019abd2a-98e0-734a-9855-01f689540ece/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="DISNEY+",Cremonese x Lecce
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019a6f1f-85bc-7195-aa47-cf82e75dc986/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="DISNEY+",Ao Vivo: Tapete Verde | (Xsports)
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/346369.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019adc86-7402-7f6a-877b-ead94596b699/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="DISNEY+",HSBC World Rugby Sevens Series | Capetown | Session 2
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019ae5b8-8bf8-72c2-bb8b-5eacd9ff5b30/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="DISNEY+",Pittsburgh Penguins x Dallas Stars
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/346370.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019aa2ca-5718-7d40-99de-f3eb0629c5ab/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="DISNEY+",Manchester United x West Ham
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019ae5bb-862c-7681-b5d0-691e66c43677/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="DISNEY+",Vegas Golden Knights x New York Rangers
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/346371.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019aa722-8f39-7fa2-aaa3-e302bab2e0f0/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="DISNEY+",Ao Vivo: Leicester City x Manchester City |  Women's Super League (WSL) |  (Xsports)
-http://cdn4k.us:80/live/Adrianobrito16/910989645a/346372.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019aa722-8f39-7fa2-aaa3-e302bab2e0f0/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="DISNEY+",Leicester City x Manchester City
+#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Boca Juniors x Racing Club
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/346373.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",#6 TCU x #3 Texas A&M (Segunda Rodada)
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/2950f094-6412-4662-bd14-a6cdd887ddfb/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="DISNEY+",UCLA x USC (Championship)
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/346374.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Capitanes de Ciudad de México x Rio Grande Valley Vipers
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019ae5b8-8bf8-72c2-bb8b-5eacd9ff5b30/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="DISNEY+",Pittsburgh Penguins x Dallas Stars
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/346375.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Duke x #17 Virginia (Championship)
-http://cdn4k.us:80/live/Adrianobrito16/910989645a/346376.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",2025 Crown Australian Open (Rodada Final)
-http://cdn4k.us:80/live/Adrianobrito16/910989645a/346377.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",LXF 29 | Eduardo Alvarado x Shane Torres | ESPN KO
-http://cdn4k.us:80/live/Adrianobrito16/910989645a/346378.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Houston Rockets x Dallas Mavericks
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019ae5bb-862c-7681-b5d0-691e66c43677/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="DISNEY+",Vegas Golden Knights x New York Rangers
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/346379.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Chicago Blackhawks x Los Angeles Kings
+#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Club Tigres x San Diego Wave FC (Final)
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/346380.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Chicago Blackhawks x Los Angeles Kings
+#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Los Angeles Rams x Arizona Cardinals
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/346381.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Arkansas State x Little Rock
+#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Boca Juniors x Racing Club
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/346382.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Detroit Red Wings x Seattle Kraken
+#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Georgetown x #16 North Carolina
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/346383.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Detroit Red Wings x Seattle Kraken
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/2615c9f8-09eb-4e0a-9168-000af02873cf/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="DISNEY+",New York Islanders x Florida Panthers
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/346384.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Minnesota Wild x Vancouver Canucks
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/2615c9f8-09eb-4e0a-9168-000af02873cf/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="DISNEY+",New York Islanders x Florida Panthers
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/346385.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Minnesota Wild x Vancouver Canucks
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019ae5be-4e46-727d-8d3c-8d3a19ff6c8d/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="DISNEY+",San Jose Sharks x Carolina Hurricanes
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/346386.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Southern Utah x Oregon State
+#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",San Jose Sharks x Carolina Hurricanes
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/346387.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Montreal Canadiens x Toronto Maple Leafs
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019aa860-7d38-7dd4-b961-65de2ef9ebf4/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="DISNEY+",Nevada x Washington State
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/346388.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",New Jersey Devils x Boston Bruins
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019aa860-388e-7d92-b4e0-29504469020b/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="DISNEY+",Utah State x San Diego
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/346389.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Utah Mammoth x Calgary Flames
+#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",La Natividad-La Dolfina x Ellerstina-I. Chapaleufú Vista | Final
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/346390.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",New Jersey Devils x Boston Bruins
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/346391.m3u8
@@ -4461,4 +4453,4 @@ http://cdn4k.us:80/live/Adrianobrito16/910989645a/155608.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4k.store/logos/YOUTUBE-24HS.png" group-title="YOUTUBE 24 HORAS",Partoba
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/155606.m3u8
 
-# Total: 2182
+# Total: 2178

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: exclusifott.pro:80
-# Generated: 2025-12-07 18:34:18
+# Generated: 2025-12-08 07:13:10
 # Expires: 2026-05-21
 # Family Safe Edition
 # ==============================================
@@ -6362,9 +6362,9 @@ http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1069543.mkv
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1061890.mkv
 
 # --- Movies | |EN| 4K MOVIES (5) ---
-#EXTINF:-1 tvg-logo="" group-title="Movies | |EN| 4K MOVIES",EN - Troll 2 4K (MULTI-SUBS) (2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6xAExLNFbHcLfvSuvLPoM8aqZU.jpg" group-title="Movies | |EN| 4K MOVIES",EN - Troll 2 4K (MULTI-SUBS) (2025)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1982005.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | |EN| 4K MOVIES",EN - Pose 4K (2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhyyyWrHUbl6QG4udAJj17CBa5.jpg" group-title="Movies | |EN| 4K MOVIES",EN - Pose 4K (2025)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1982003.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Av1CK61z33v2OBFLD1yF5rdRxQ1.jpg" group-title="Movies | |EN| 4K MOVIES",4K - Sarah's Oil (2025)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1981740.mkv

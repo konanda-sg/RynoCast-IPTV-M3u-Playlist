@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: livego.club:8080
-# Generated: 2025-12-07 18:34:31
+# Generated: 2025-12-08 07:06:11
 # Expires: 2026-09-06
 # Family Safe Edition
 # ==============================================
@@ -8972,7 +8972,7 @@ http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/194187.m3u8
 http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/194264.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Australia - Foxtel",AU: Max
 http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/197777.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Australia - Foxtel",AU: Nick
+#EXTINF:-1 tvg-logo="" group-title="Australia - Foxtel",AU: Sky Comedy
 http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/179258.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Australia - Foxtel",AU: Kids
 http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/194263.m3u8
@@ -32140,12 +32140,8 @@ http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/128297.m3u8
 http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/128287.m3u8
 #EXTINF:-1 tvg-logo="" group-title="New Zealand",NZ: BBC UKTV HD
 http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/128291.m3u8
-#EXTINF:-1 tvg-logo="" group-title="New Zealand",NZ: Cartoon Network
-http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/128294.m3u8
 #EXTINF:-1 tvg-logo="" group-title="New Zealand",NZ: CBeebies
 http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/128293.m3u8
-#EXTINF:-1 tvg-logo="" group-title="New Zealand",NZ: Comedy Central
-http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/128289.m3u8
 #EXTINF:-1 tvg-logo="" group-title="New Zealand",NZ: Discovery
 http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/128300.m3u8
 #EXTINF:-1 tvg-logo="" group-title="New Zealand",NZ: Discovery Turbo
@@ -32156,12 +32152,12 @@ http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/16558.m3u8
 http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/26931.m3u8
 #EXTINF:-1 tvg-logo="" group-title="New Zealand",NZ: ID
 http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/128284.m3u8
+#EXTINF:-1 tvg-logo="" group-title="New Zealand",NZ: J2
+http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/128292.m3u8
+#EXTINF:-1 tvg-logo="" group-title="New Zealand",NZ: Juice TV
+http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/128289.m3u8
 #EXTINF:-1 tvg-logo="" group-title="New Zealand",NZ: Living HD
 http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/128285.m3u8
-#EXTINF:-1 tvg-logo="" group-title="New Zealand",NZ: Nick Jr
-http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/128292.m3u8
-#EXTINF:-1 tvg-logo="" group-title="New Zealand",NZ: Nickelodeon
-http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/128295.m3u8
 #EXTINF:-1 tvg-logo="" group-title="New Zealand",NZ: Real Crime
 http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/128299.m3u8
 #EXTINF:-1 tvg-logo="" group-title="New Zealand",NZ: Real History
@@ -32170,6 +32166,10 @@ http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/128298.m3u8
 http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/128288.m3u8
 #EXTINF:-1 tvg-logo="" group-title="New Zealand",NZ: Sky 5
 http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/30994.m3u8
+#EXTINF:-1 tvg-logo="" group-title="New Zealand",NZ: Sky Comedy
+http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/128295.m3u8
+#EXTINF:-1 tvg-logo="" group-title="New Zealand",NZ: Sky Kids
+http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/128294.m3u8
 #EXTINF:-1 tvg-logo="" group-title="New Zealand",NZ: Sky Movies Action HD
 http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/194104.m3u8
 #EXTINF:-1 tvg-logo="" group-title="New Zealand",NZ: Sky Movies Classics HD
