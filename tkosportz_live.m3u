@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tkosportz.live:25461
-# Generated: 2025-12-08 18:31:36
+# Generated: 2025-12-09 07:05:53
 # Expires: 2026-01-06
 # Family Safe Edition
 # ==============================================
@@ -22406,16 +22406,16 @@ http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/208214.m3u8
 # --- 28. NHL (6) ---
 #EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/7efeeaa72cfe67ba4c96433c437250cb.png" group-title="28. NHL",1. US : NHL NETWORK
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/99197.m3u8
-#EXTINF:-1 tvg-logo="" group-title="28. NHL",NHL 01: Colorado Avalanche vs Philadelphia Flyers Dec 7 01:00 PM
-http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/217945.m3u8
-#EXTINF:-1 tvg-logo="" group-title="28. NHL",NHL 02: New York Islanders vs Florida Panthers Dec 7 05:00 PM
-http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/217946.m3u8
-#EXTINF:-1 tvg-logo="" group-title="28. NHL",NHL 03: San Jose Sharks vs Carolina Hurricanes Dec 7 05:00 PM
-http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/217947.m3u8
-#EXTINF:-1 tvg-logo="" group-title="28. NHL",NHL 06: Vegas Golden Knights vs New York Rangers Dec 7 07:00 PM
-http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/217949.m3u8
-#EXTINF:-1 tvg-logo="" group-title="28. NHL",NHL 08: Chicago Blackhawks vs Anaheim Ducks Dec 7 08:00 PM
-http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/217951.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="28. NHL",NHL 01 | Tampa Bay Lightning @ Toronto Maple Leafs | 7.30 PM ET | 12.8
+http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/217957.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="28. NHL",NHL 02 | Los Angeles Kings @ Utah Mammoth | 9 PM ET | 12.8
+http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/217958.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="28. NHL",NHL 03 | Buffalo Sabres @ Calgary Flames | 9 PM ET | 12.8
+http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/217959.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="28. NHL",NHL 04 | Detroit Red Wings @ Vancouver Canucks | 10 PM ET | 12.8
+http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/217960.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="28. NHL",NHL 05 | Minnesota Wild @ Seattle Kraken | 10 PM ET | 12.8
+http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/217961.m3u8
 
 # --- 29. MLB TEAM FEEDS (31) ---
 #EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/5d45e165ca38cb86952dd8ca8a86e4ce.png" group-title="29. MLB TEAM FEEDS",US : MLB ARIZONA DIAMONDBACKS

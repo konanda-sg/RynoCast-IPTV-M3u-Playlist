@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: vocotv.pro
-# Generated: 2025-12-08 18:30:01
+# Generated: 2025-12-09 07:03:45
 # Expires: 2026-06-28
 # Family Safe Edition
 # ==============================================
@@ -6016,9 +6016,9 @@ http://vocotv.pro/live/nowak1/nowak1/710258.m3u8
 http://vocotv.pro/live/nowak1/nowak1/710257.m3u8
 
 # --- LIVE | PPV Events (59) ---
-#EXTINF:-1 tvg-logo="https://i.ibb.co/w7fD2qB/PPVoco.png" group-title="LIVE | PPV Events",PPV 01:
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w7fD2qB/PPVoco.png" group-title="LIVE | PPV Events",PPV 01: WWE RAW 8:00 PM
 http://vocotv.pro/live/nowak1/nowak1/2395.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/w7fD2qB/PPVoco.png" group-title="LIVE | PPV Events",PPV 02:
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w7fD2qB/PPVoco.png" group-title="LIVE | PPV Events",PPV 02: wwe raw
 http://vocotv.pro/live/nowak1/nowak1/2394.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/w7fD2qB/PPVoco.png" group-title="LIVE | PPV Events",PPV 03:
 http://vocotv.pro/live/nowak1/nowak1/2393.m3u8
@@ -6508,7 +6508,7 @@ http://vocotv.pro/live/nowak1/nowak1/296427.m3u8
 http://vocotv.pro/live/nowak1/nowak1/296426.m3u8
 
 # --- USA | Dirtvision (11) ---
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/aef14ad5ae37cf56f0dcc161f08cf94e.png" group-title="USA | Dirtvision",DIRTVISION 01 -Millbridge Speedway 1:00 pm
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/aef14ad5ae37cf56f0dcc161f08cf94e.png" group-title="USA | Dirtvision",DIRTVISION 01 -Lincoln Speedway 8:00 pm
 http://vocotv.pro/live/nowak1/nowak1/226143.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/aef14ad5ae37cf56f0dcc161f08cf94e.png" group-title="USA | Dirtvision",DIRTVISION 02 -
 http://vocotv.pro/live/nowak1/nowak1/226142.m3u8
@@ -13074,7 +13074,7 @@ http://vocotv.pro/live/nowak1/nowak1/2593.m3u8
 http://vocotv.pro/live/nowak1/nowak1/2592.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",Detroit Red Wings vs Vancouver Canucks (Red Wings Broadcast) @ Dec 8 9:30 PM :NHL  08
 http://vocotv.pro/live/nowak1/nowak1/2591.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",:NHL  09
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",tampa pay vs toronto :NHL  09
 http://vocotv.pro/live/nowak1/nowak1/2590.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",:NHL  10
 http://vocotv.pro/live/nowak1/nowak1/2589.m3u8

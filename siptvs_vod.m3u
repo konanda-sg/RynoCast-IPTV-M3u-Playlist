@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: siptvs.com:8080
-# Generated: 2025-12-08 18:35:10
+# Generated: 2025-12-09 07:11:07
 # Expires: 2026-05-16
 # Family Safe Edition
 # ==============================================
@@ -11039,7 +11039,7 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/189305.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3Ri4XxXNCUKwlZWXgoVNftF7GIY.jpg" group-title="Movies | |DE| SCI-FI / FANTASY",Divinity (2023)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/191685.mkv
 
-# --- Movies | |DE| SERIEN (723) ---
+# --- Movies | |DE| SERIEN (726) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | |DE| SERIEN",Dragonball
 http://siptvs.com:8080/movie/Biljana12/Biljana12/11.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |DE| SERIEN",Dragonball Z Kai
@@ -12486,6 +12486,12 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/2257.mp4
 http://siptvs.com:8080/movie/Biljana12/Biljana12/2261.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |DE| SERIEN",DE: Stranger Things (2016)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/2268.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | |DE| SERIEN",DE: The Old Man (2022)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/2270.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | |DE| SERIEN",DE: Alone - Überlebe die Wildnis (2024)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/2271.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | |DE| SERIEN",DE: Marvel Zombies (2025)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/2272.mp4
 
 # --- Movies | |DE| THRILLER (19) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYNuJd1vHOtHyeKoO87ehsGpBva.jpg" group-title="Movies | |DE| THRILLER",Nomis - Die Nacht des Jägers (2019)
@@ -14255,7 +14261,7 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/184454.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6Biy7R9LfumYshur3YKhpj56MpB.jpg" group-title="Movies | |EXYU| AVANTURISTICKI",War of the Worlds (2005)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/186148.mkv
 
-# --- Movies | |EXYU| BOZICNI (163) ---
+# --- Movies | |EXYU| BOZICNI (166) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2dg00daDhxYW2vxFkLlAGPMR9Et.jpg" group-title="Movies | |EXYU| BOZICNI",Božić u osamdesetima (2021)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/100462.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lII6Elx59tiwoFhhf4WzGKGjRs.jpg" group-title="Movies | |EXYU| BOZICNI",Božić kod zločestih mama (2017)
@@ -14582,6 +14588,12 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/197096.mp4
 http://siptvs.com:8080/movie/Biljana12/Biljana12/197115.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/g7CjRLLJWtBCJXfiv9ouGXNpl0M.jpg" group-title="Movies | |EXYU| BOZICNI",Christmas at the Inn (2025)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/197139.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/emhOHTwm3HlO1yqkVTl2doprTQh.jpg" group-title="Movies | |EXYU| BOZICNI",We Met in December (2025)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/197145.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/n1YtLc6viVt93gOdU8SX7mnq22y.jpg" group-title="Movies | |EXYU| BOZICNI",The Night My Dad Saved Christmas 2 (2025)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/197176.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/n7YtEKytnv2LGt0oneMfqtoJ3oL.jpg" group-title="Movies | |EXYU| BOZICNI",Unexpected Christmas (2025)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/197182.mp4
 
 # --- Movies | |EXYU| CRTANI (13) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ufuKmgn2uwk7icvxugFY95KBuuA.jpg" group-title="Movies | |EXYU| CRTANI",Pet legendi (2012)
@@ -27143,7 +27155,7 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/196891.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xKEcbWxQYEgDrNWj0sXDHxRyxl9.jpg" group-title="Movies | |EXYU| STRANI 2024",American Warrior (2024)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/197043.mp4
 
-# --- Movies | |EXYU| STRANI 2025 (496) ---
+# --- Movies | |EXYU| STRANI 2025 (500) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8qJfjFhNwpTONNAoE6gUSx2yGpg.jpg" group-title="Movies | |EXYU| STRANI 2025",Ad Vitam  (2025)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/183381.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDdwuxEr6GTtl0o7PbVvVo4ht5i.jpg" group-title="Movies | |EXYU| STRANI 2025",Back in Action  (2025)
@@ -27382,8 +27394,6 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/190660.mkv
 http://siptvs.com:8080/movie/Biljana12/Biljana12/190708.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tbJ3RkA2s6X5qrBzrYHYTxvDBui.jpg" group-title="Movies | |EXYU| STRANI 2025",Rust (2025)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/190710.mkv
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/juA4IWO52Fecx8lhAsxmDgy3M3.jpg" group-title="Movies | |EXYU| STRANI 2025",Until Dawn (2025)
-http://siptvs.com:8080/movie/Biljana12/Biljana12/190776.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uX6FaNE86a4Xnf1mFFEryvjqB1D.jpg" group-title="Movies | |EXYU| STRANI 2025",Shadow Force (2025)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/190845.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jYfMTSiFFK7ffbY2lay4zyvTkEk.jpg" group-title="Movies | |EXYU| STRANI 2025",Sinners (2025)
@@ -28134,8 +28144,18 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/197120.mp4
 http://siptvs.com:8080/movie/Biljana12/Biljana12/197137.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8V6TCz0GzN9aD2o3Q9DyFsHGtTU.jpg" group-title="Movies | |EXYU| STRANI 2025",Car Show Kings (2025)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/197138.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/emhOHTwm3HlO1yqkVTl2doprTQh.jpg" group-title="Movies | |EXYU| STRANI 2025",We Met in December (2025)
-http://siptvs.com:8080/movie/Biljana12/Biljana12/197145.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qafyOhfSFFzxgk440wGMXhIz7ox.jpg" group-title="Movies | |EXYU| STRANI 2025",Old Cans (2025)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/197177.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/svuIdql5modL08UQtYa4Opi2CtL.jpg" group-title="Movies | |EXYU| STRANI 2025",Hunting Jessica Brok (2025)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/197178.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lwKD20JbeZAX4BswSlWKpmB8Qke.jpg" group-title="Movies | |EXYU| STRANI 2025",Lone Samurai (2025)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/197179.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ryF8QPGUGlo8gRB4OYKb4J0r3aJ.jpg" group-title="Movies | |EXYU| STRANI 2025",After the Hunt (2025)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/197180.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bLY5yN4MKVynZ2HMZWElTOGBgBe.jpg" group-title="Movies | |EXYU| STRANI 2025",Until Dawn (2025)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/197181.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hbyv4V1JJFJ4OD01JYO1ZWrDg5b.jpg" group-title="Movies | |EXYU| STRANI 2025",Kingdom (2025)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/197183.mp4
 
 # --- Movies | |EXYU| STRANI ARHIVA (732) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDiAfxcjz5bydpbqTtBYBfaYHKD.jpg" group-title="Movies | |EXYU| STRANI ARHIVA",1 Buck (2017)
@@ -32453,4 +32473,4 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/179055.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c44zM4fWJ55ImcEnqf7UL4dsCSB.jpg" group-title="Movies | |MU| MUSIC/CONCERTE",Avicii - Mein letztes Konzert (2024)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/181880.mkv
 
-# Total: 16163
+# Total: 16173

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: exclusifott.pro:80
-# Generated: 2025-12-08 18:28:16
+# Generated: 2025-12-09 07:12:32
 # Expires: 2026-05-21
 # Family Safe Edition
 # ==============================================
@@ -6361,7 +6361,11 @@ http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1069543.mkv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/e3/2022_FIFA_World_Cup.svg/1713px-2022_FIFA_World_Cup.svg.png" group-title="Movies | WORLDCUP 2022",WC - Uruguay Vs Coree Du Sud - 24-11-22
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1061890.mkv
 
-# --- Movies | |EN| 4K MOVIES (5) ---
+# --- Movies | |EN| 4K MOVIES (7) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tpOAzBasKPsKwsUtPZOx1Mzuqq3.jpg" group-title="Movies | |EN| 4K MOVIES",EN - My Secret Santa 4K (2025)
+http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1982730.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qynCyBKCJUUcj4wo4PE2aQVvote.jpg" group-title="Movies | |EN| 4K MOVIES",EN - Oh. What. Fun. 4K (2025)
+http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1982732.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6xAExLNFbHcLfvSuvLPoM8aqZU.jpg" group-title="Movies | |EN| 4K MOVIES",EN - Troll 2 4K (MULTI-SUBS) (2025)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1982005.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhyyyWrHUbl6QG4udAJj17CBa5.jpg" group-title="Movies | |EN| 4K MOVIES",EN - Pose 4K (2025)
@@ -17999,4 +18003,4 @@ http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35745
 #EXTINF:-1 tvg-logo="" group-title="Series | |RO| ROMANIAN SERIES",RO - Resident Evil: Infinite Darkness (2021)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35746
 
-# Total: 8953
+# Total: 8955

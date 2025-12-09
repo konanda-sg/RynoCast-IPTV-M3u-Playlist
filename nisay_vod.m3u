@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nisay.xyz:8080
-# Generated: 2025-12-08 18:35:49
+# Generated: 2025-12-09 07:08:51
 # Expires: 2026-10-04
 # Family Safe Edition
 # ==============================================
@@ -7725,7 +7725,9 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1116.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: DOKUMANTARE",DE: Planet der Liebe
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1117.mp4
 
-# --- Movies | DE: FILME 2021 (492) ---
+# --- Movies | DE: FILME 2021 (493) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbRk62iAlFBzv1IYraBdr4EDHFm.jpg" group-title="Movies | DE: FILME 2021",DE: Payback (2021)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159180.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jj04zZ5HYCtqOqVSFmo75iEIrrt.jpg" group-title="Movies | DE: FILME 2021",DE: Wrong Turn - The Foundation (2021)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/158886.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/otj6cxt1ho0KG6nmpQaBxjL6Ocz.jpg" group-title="Movies | DE: FILME 2021",DE: Arisaka (2021)
@@ -9999,7 +10001,9 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/94491.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1DrbPzKHA9NmnH60Eqi2KXcU1HC.jpg" group-title="Movies | DE: FILME 2022",DE: Der größte Schleimfilm aller Zeiten (2022)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/139886.mp4
 
-# --- Movies | DE: FILME 2023 (691) ---
+# --- Movies | DE: FILME 2023 (692) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lAbFT9U5bPeWVpiA4G8zLYueJL.jpg" group-title="Movies | DE: FILME 2023",DE: Tomorrow Before After (2023)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159179.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHBSMk1pgchVukEha7kXkk7MKSN.jpg" group-title="Movies | DE: FILME 2023",DE: The Chapel (2023)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/158683.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o9oXH0ZWORi2Ujz2BxwOS0qsClq.jpg" group-title="Movies | DE: FILME 2023",DE: Deliver Us (2023)
@@ -11383,7 +11387,11 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/112211.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYWdLZCS9W1Xli9bynzFSddLx02.jpg" group-title="Movies | DE: FILME 2023",DE: Dog Gone 2023
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/112207.mkv
 
-# --- Movies | DE: FILME 2024 (578) ---
+# --- Movies | DE: FILME 2024 (580) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/euBufDUJwqlmTRzXdP1DDyl1RNp.jpg" group-title="Movies | DE: FILME 2024",Secret Division 749 (2024)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159177.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gaSqrnpSnTq5oYno0KnDyDXAF5r.jpg" group-title="Movies | DE: FILME 2024",DE: Fear Cabin: The Last Weekend of Summer (2024)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159178.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/74i5LXNDUlXnGTrUwwlB8lWUvPG.jpg" group-title="Movies | DE: FILME 2024",DE: Johatsu - Die sich in Luft auflösen (2024)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159097.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXl594xhkpqCQij6GFfmvA9hol0.jpg" group-title="Movies | DE: FILME 2024",DE: Thomas und Marco (2024)
@@ -12541,7 +12549,15 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/139884.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5y0hFRhfx34Be04B7GGqg5TMTM0.jpg" group-title="Movies | DE: FILME 2024",DE: City Hunter (2024)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/139885.mp4
 
-# --- Movies | DE: FILME 2025 (336) ---
+# --- Movies | DE: FILME 2025 (340) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nBGVglBvKw3UQqqeXIzxFqoKwe3.jpg" group-title="Movies | DE: FILME 2025",DE: Sisu: Road to Revenge (2025) *English*
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159173.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iEFIrODvGMUPZormfFTfN0n8siI.jpg" group-title="Movies | DE: FILME 2025",DE: Savage Hunt - Blutige Jagd (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159174.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gK0cW0WvdSFRA1ukdIf869uH4Rw.jpg" group-title="Movies | DE: FILME 2025",DE: Jurassic Reborn (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159175.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kXA4nY2Kr3QPy8y0LhCGipiZHLT.jpg" group-title="Movies | DE: FILME 2025",DE: Altweibersommer (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159176.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/prqoXVtCJFLzqbqXLGxdl79a8aK.jpg" group-title="Movies | DE: FILME 2025",DE: Wicked: Teil 2 (2025)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159103.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7YNjkmBX4Zc8Asg5tVBl2mk1uwU.jpg" group-title="Movies | DE: FILME 2025",DE: Jay Kelly (2025)
@@ -19625,4 +19641,4 @@ http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1503
 #EXTINF:-1 tvg-logo="" group-title="Series | TR ALTYAZI SERIES",Pluribus
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1803
 
-# Total: 9745
+# Total: 9753

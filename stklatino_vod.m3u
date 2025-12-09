@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: stklatino.dynns.com:2082
-# Generated: 2025-12-08 18:37:04
+# Generated: 2025-12-09 07:06:46
 # Expires: 2026-02-11
 # Family Safe Edition
 # ==============================================
@@ -973,7 +973,7 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/128851.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ubzMoVPMJyLvaRm1NxxlsayIfat.jpg" group-title="Movies | 2024",Isla del renacimiento (2024)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/128852.mkv
 
-# --- Movies | 2025 (446) ---
+# --- Movies | 2025 (447) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6Xdq2juOSaK6QlOQhuYNltmWUU.jpg" group-title="Movies | 2025",Una vida honrada (2025)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/82271.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oF3noXatzftfCltE0iEDnzU5WIi.jpg" group-title="Movies | 2025",Molt lluny (2025)
@@ -1853,7 +1853,7 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/129739.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Av1CK61z33v2OBFLD1yF5rdRxQ1.jpg" group-title="Movies | 2025",Sarah's Oil (2025)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/129740.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7sgjdvro3TToX8Df5VUfN0uLFb.jpg" group-title="Movies | 2025",Five Nights at Freddy's 2 (2025)
-http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/129741.mp4
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/129741.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vO0cV3886E47tmZo0iJXzMPEEzr.jpg" group-title="Movies | 2025",Jay Kelly (2025)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/129742.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xg6hPJGl130XkJgwWpBagMHojWz.jpg" group-title="Movies | 2025",El diario de Greg: ¡Esto es el colmo! (2025)
@@ -1866,6 +1866,8 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/129745.mkv
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/129746.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qKuos4fGcntgeXXgR3NAmTU0kOU.jpg" group-title="Movies | 2025",Ojalá me lo hubieras dicho (2025)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/129747.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l2YcvAeBxCyzYe2Qwo2LtjsUfPL.jpg" group-title="Movies | 2025",Zootopia 2 (2025)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/129748.mp4
 
 # --- Movies | ACCION (1179) ---
 #EXTINF:-1 tvg-logo="https://images.jdmagicbox.com/comp/jd_social/news/2018jul10/image-26897-5ws2ln7hgm.jpg" group-title="Movies | ACCION",007: Quantum of Solace (2008)
@@ -21571,4 +21573,4 @@ http://stklatino.dynns.com:2082/series/maldonadoluis/frEbTPk9DN3L/2451
 #EXTINF:-1 tvg-logo="" group-title="Series | TELESERIES",Apuesta por un amor
 http://stklatino.dynns.com:2082/series/maldonadoluis/frEbTPk9DN3L/2452
 
-# Total: 10752
+# Total: 10753

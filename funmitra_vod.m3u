@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: funmitra.com:8080
-# Generated: 2025-12-08 07:02:25
+# Generated: 2025-12-09 07:03:28
 # Expires: 2026-04-30
 # Family Safe Edition
 # ==============================================
@@ -483,7 +483,7 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11502.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) Janoschs Traumstunde
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11517.mp4
 
-# --- Movies | (S|DE) Deutsche Serien (1301) ---
+# --- Movies | (S|DE) Deutsche Serien (1302) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) 4 Blocks
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/274.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) American Horror Story
@@ -3086,6 +3086,8 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11519.mp4
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11520.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Sean Combs: The Reckoning
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11522.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Thunder In Paradise
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11524.mp4
 
 # --- Movies | (S|TR) Animasyon - Cizgi Diziler (131) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Animasyon - Cizgi Diziler",(TR-) Ben 10 Omniverse
@@ -3351,7 +3353,7 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11347.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Animasyon - Cizgi Diziler",(TR-) Feride - MAX
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11407.mp4
 
-# --- Movies | (S|TR) Eski Diziler (231) ---
+# --- Movies | (S|TR) Eski Diziler (232) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Eski Diziler",(TR-) Cukur
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/215.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Eski Diziler",(TR-) Bir Zamanlar Cukurova
@@ -3814,6 +3816,8 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11019.mp4
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11160.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Eski Diziler",(TR-) Ben Onun Annesiyim
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11231.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Eski Diziler",(TR-) Bereketli Topraklar
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11284.mp4
 
 # --- Movies | (S|TR) Yabanci Diziler (1005) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Mars
@@ -5827,7 +5831,7 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11521.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) The Price Of Confession
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11523.mp4
 
-# --- Movies | (S|TR) Yerli Diziler (397) ---
+# --- Movies | (S|TR) Yerli Diziler (396) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Hakan: Muhafız
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/444.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Sıfır Bir - MAX
@@ -6604,8 +6608,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11201.mp4
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11234.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Kurulus: Orhan
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11278.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Bereketli Topraklar
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11284.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Karma - EXXEN
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11315.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Fer - GAIN
@@ -8091,7 +8093,17 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/243352.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/8WgLM4DAHEqhBS65QV58Jb5IGoU.jpg" group-title="Movies | (V|DE) Bollywood Filme",(DE-) Bahubali: The Beginning - 2015
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/255929.mkv
 
-# --- Movies | (V|DE) Filme (1167) ---
+# --- Movies | (V|DE) Filme (1172) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/y9smOLUhE5JOBjbmnESm6orPrf5_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Kevin: Allein In New York - 1992
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/648093.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/wdxuboDikf0srdcQ0nf2uAwbKpR_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Charlie Und Die Schokoladenfabrik - 2005
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/648092.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/4QMAmVrTm85kMhnKd7V6PpvS1O9_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Abyss: Abgrund Des Todes - 1989
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/648091.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/bXAJd0AUIExb8B5EA3sxsYupPo5_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Antichrist - 2009
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/648090.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/g16ONGwG7l3R94JFPKCx1orZvYD_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) 2001: Odyssee Im Weltraum - 1968
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/648089.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/1aINtImZmKvwceBqyvkPvQk6Pm0_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) The Amazing Spider-Man - 2012
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/648010.avi
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/3wx55r7qFwo4SAdNJ9DLRQzQsAq_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) The First Avenger: Civil War - 2016
@@ -16703,7 +16715,11 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/476418.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dhejMQdsqPtTTCKIkyoJ5FLfC3F.jpg" group-title="Movies | (V|DE) Filme - 2023",(DE-) A Good Person - 2023
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/476415.mp4
 
-# --- Movies | (V|DE) Filme - 2024 (691) ---
+# --- Movies | (V|DE) Filme - 2024 (693) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/gaSqrnpSnTq5oYno0KnDyDXAF5r_big.jpg" group-title="Movies | (V|DE) Filme - 2024",(DE-) Fear Cabin: The Last Weekend Of Summer - 2024
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/648078.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/bBbSvahNRfr4iJjI6GhrkFYvTkK_big.jpg" group-title="Movies | (V|DE) Filme - 2024",(DE-) Compulsion - 2024
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/648077.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/rLhRyFveFYLP344i2kGkcV6VhL3_big.jpg" group-title="Movies | (V|DE) Filme - 2024",(DE-) A Christmas Post: Die Vergessenen  - 2024
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/647946.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/74i5LXNDUlXnGTrUwwlB8lWUvPG_big.jpg" group-title="Movies | (V|DE) Filme - 2024",(DE-) Johatsu: Die Sich In Luft Auflösen - 2024
@@ -18087,7 +18103,15 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/635442.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/dh8mS9Zzhplmr0Q80BKw0dibZUS_big.jpg" group-title="Movies | (V|DE) Filme - 2024",(DE-) The Break-Up Club - 2024
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/634880.mp4
 
-# --- Movies | (V|DE) Filme - 2025 (434) ---
+# --- Movies | (V|DE) Filme - 2025 (437) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/euBufDUJwqlmTRzXdP1DDyl1RNp_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Secret Division 749 - 2025
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/648081.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/iEFIrODvGMUPZormfFTfN0n8siI_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Savage Hunt: Blutige Jagd - 2025
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/648080.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/gK0cW0WvdSFRA1ukdIf869uH4Rw_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Jurassic World: Die Wiedergeburt - 2025
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/648079.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/kXA4nY2Kr3QPy8y0LhCGipiZHLT_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Altweibersommer - 2025
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/648076.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/plyEn5uDNXXDYihF8Z7YOe2PVKE_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Troll 2 - 2025
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/648026.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/prqoXVtCJFLzqbqXLGxdl79a8aK_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Wicked: Teil 2 - 2025
@@ -18552,8 +18576,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/621790.mp4
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/621789.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/ygCqIBzLOgm1QmBDhDwKs9XE5PY_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) 28 Years Later - 2025
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/621788.mp4
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/uUGZdps8TesT34lPMfvTWuyZmZe_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Jurassic World: Die Wiedergeburt - 2025
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/621729.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/eIimv66ln9FHztAiXWXG3vdUDyW_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Gucci: Luxus, Lust & Drama - 2025
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/621728.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/wgbY0jfv3dKl5oIbjdPUWEhhBZp_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Together: Unzertrennlich - 2025
@@ -22079,7 +22101,17 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/275545.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/o3dRENAwLg8Gs8oGPh8gLO5MHWB.jpg" group-title="Movies | (V|TR) Belgeseller",(TR-) Anafartalar - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/275553.mkv
 
-# --- Movies | (V|TR) Dizi Son Bölümleri (256) ---
+# --- Movies | (V|TR) Dizi Son Bölümleri (261) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jJ7kZ2KK8VlXCeFRluqSuFzbL3z.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Teskilat (Bolum 160)
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/648088.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/zgVgcthDQ8pYgBkKzi1AaXmmeFO_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Sahtekarlar (Bolum 9)
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/648087.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zCdzrmQL1GKy7bsj2gh5t3wxHS6.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kod Adi Kirlangic (Bolum 66)
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/648086.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/vxyhUSVOh9RYsdVynVWKIRGGGg7_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Carpinti (Bolum 13 Final)
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/648085.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/Adjn7rsb1picDMUcYNjEDobhvAk.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Bahar (Bolum 61)
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/648084.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/3Qwhs7xxf9LILllWLnxbSaCBNDf_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Güller Ve Günahlar (Bolum 9)
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/648038.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/lZL5RSSgLSewP0pi8rK4znb9FYZ.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Gönül Dagi (Bolum 196)
@@ -32209,4 +32241,4 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/583470.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Unknown",(DE-) Anaon:  Hüter Der Nacht
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/10625.mp4
 
-# Total: 16057
+# Total: 16073

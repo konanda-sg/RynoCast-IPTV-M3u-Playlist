@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: zikri.xtpold.com
-# Generated: 2025-12-08 07:08:01
+# Generated: 2025-12-09 07:03:48
 # Expires: 2026-02-18
 # Family Safe Edition
 # ==============================================
@@ -3627,7 +3627,27 @@ http://zikri.xtpold.com/live/eu1913/7475mht/66510.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE► Kinder",DE: Totally Turtles
 http://zikri.xtpold.com/live/eu1913/7475mht/66632.m3u8
 
-# --- DE► Kino (83) ---
+# --- DE► Kino (93) ---
+#EXTINF:-1 tvg-logo="" group-title="DE► Kino",DE: Cineplus 02
+http://zikri.xtpold.com/live/eu1913/7475mht/100906.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Kino",DE: Cineplus 03
+http://zikri.xtpold.com/live/eu1913/7475mht/100905.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Kino",DE: Cineplus 04
+http://zikri.xtpold.com/live/eu1913/7475mht/100904.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Kino",DE: Cineplus 05
+http://zikri.xtpold.com/live/eu1913/7475mht/100903.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Kino",DE: Cineplus 06
+http://zikri.xtpold.com/live/eu1913/7475mht/100902.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Kino",DE: Cineplus 07
+http://zikri.xtpold.com/live/eu1913/7475mht/100901.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Kino",DE: Cineplus 08
+http://zikri.xtpold.com/live/eu1913/7475mht/100900.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Kino",DE: Cineplus 09
+http://zikri.xtpold.com/live/eu1913/7475mht/100899.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Kino",DE: Cineplus 10
+http://zikri.xtpold.com/live/eu1913/7475mht/100898.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Kino",DE: Cineplus 01
+http://zikri.xtpold.com/live/eu1913/7475mht/100897.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE► Kino",DE: WESTERN 1
 http://zikri.xtpold.com/live/eu1913/7475mht/66239.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE► Kino",DE: WESTERN 2
@@ -4283,7 +4303,7 @@ http://zikri.xtpold.com/live/eu1913/7475mht/99032.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE► Niedrige Bitrate",DE• SKY BNDLIGA•9 HD
 http://zikri.xtpold.com/live/eu1913/7475mht/99031.m3u8
 
-# --- DE► Sports (115) ---
+# --- DE► Sports (268) ---
 #EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: MAGENTATV INFO
 http://zikri.xtpold.com/live/eu1913/7475mht/66280.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SKY BUNDESLIGA 1
@@ -4514,6 +4534,312 @@ http://zikri.xtpold.com/live/eu1913/7475mht/66252.m3u8
 http://zikri.xtpold.com/live/eu1913/7475mht/66251.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: DAZN EVENT 30
 http://zikri.xtpold.com/live/eu1913/7475mht/66250.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Basket Event 24
+http://zikri.xtpold.com/live/eu1913/7475mht/101384.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Basket Event 25
+http://zikri.xtpold.com/live/eu1913/7475mht/101383.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Chl Event 1
+http://zikri.xtpold.com/live/eu1913/7475mht/101291.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Chl Event 10
+http://zikri.xtpold.com/live/eu1913/7475mht/101282.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Chl Event 2
+http://zikri.xtpold.com/live/eu1913/7475mht/101290.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Chl Event 3
+http://zikri.xtpold.com/live/eu1913/7475mht/101289.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Chl Event 4
+http://zikri.xtpold.com/live/eu1913/7475mht/101288.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Chl Event 5
+http://zikri.xtpold.com/live/eu1913/7475mht/101287.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Chl Event 6
+http://zikri.xtpold.com/live/eu1913/7475mht/101286.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Chl Event 7
+http://zikri.xtpold.com/live/eu1913/7475mht/101285.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Chl Event 8
+http://zikri.xtpold.com/live/eu1913/7475mht/101284.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Chl Event 9
+http://zikri.xtpold.com/live/eu1913/7475mht/101283.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Efl 24/7
+http://zikri.xtpold.com/live/eu1913/7475mht/101322.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Efl Event 1
+http://zikri.xtpold.com/live/eu1913/7475mht/101321.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Efl Event 10
+http://zikri.xtpold.com/live/eu1913/7475mht/101312.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Efl Event 11
+http://zikri.xtpold.com/live/eu1913/7475mht/101311.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Efl Event 12
+http://zikri.xtpold.com/live/eu1913/7475mht/101310.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Efl Event 13
+http://zikri.xtpold.com/live/eu1913/7475mht/101309.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Efl Event 14
+http://zikri.xtpold.com/live/eu1913/7475mht/101308.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Efl Event 15
+http://zikri.xtpold.com/live/eu1913/7475mht/101307.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Efl Event 2
+http://zikri.xtpold.com/live/eu1913/7475mht/101320.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Efl Event 3
+http://zikri.xtpold.com/live/eu1913/7475mht/101319.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Efl Event 4
+http://zikri.xtpold.com/live/eu1913/7475mht/101318.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Efl Event 5
+http://zikri.xtpold.com/live/eu1913/7475mht/101317.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Efl Event 6
+http://zikri.xtpold.com/live/eu1913/7475mht/101316.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Efl Event 7
+http://zikri.xtpold.com/live/eu1913/7475mht/101315.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Efl Event 8
+http://zikri.xtpold.com/live/eu1913/7475mht/101314.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Efl Event 9
+http://zikri.xtpold.com/live/eu1913/7475mht/101313.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 1
+http://zikri.xtpold.com/live/eu1913/7475mht/101382.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 10
+http://zikri.xtpold.com/live/eu1913/7475mht/101373.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 11
+http://zikri.xtpold.com/live/eu1913/7475mht/101372.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 12
+http://zikri.xtpold.com/live/eu1913/7475mht/101371.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 13
+http://zikri.xtpold.com/live/eu1913/7475mht/101370.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 14
+http://zikri.xtpold.com/live/eu1913/7475mht/101369.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 15
+http://zikri.xtpold.com/live/eu1913/7475mht/101368.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 16
+http://zikri.xtpold.com/live/eu1913/7475mht/101367.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 17
+http://zikri.xtpold.com/live/eu1913/7475mht/101366.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 18
+http://zikri.xtpold.com/live/eu1913/7475mht/101365.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 19
+http://zikri.xtpold.com/live/eu1913/7475mht/101364.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 2
+http://zikri.xtpold.com/live/eu1913/7475mht/101381.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 20
+http://zikri.xtpold.com/live/eu1913/7475mht/101363.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 21
+http://zikri.xtpold.com/live/eu1913/7475mht/101362.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 22
+http://zikri.xtpold.com/live/eu1913/7475mht/101361.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 23
+http://zikri.xtpold.com/live/eu1913/7475mht/101360.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 24
+http://zikri.xtpold.com/live/eu1913/7475mht/101359.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 25
+http://zikri.xtpold.com/live/eu1913/7475mht/101358.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 26
+http://zikri.xtpold.com/live/eu1913/7475mht/101357.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 27
+http://zikri.xtpold.com/live/eu1913/7475mht/101356.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 28
+http://zikri.xtpold.com/live/eu1913/7475mht/101355.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 29
+http://zikri.xtpold.com/live/eu1913/7475mht/101354.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 3
+http://zikri.xtpold.com/live/eu1913/7475mht/101380.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 30
+http://zikri.xtpold.com/live/eu1913/7475mht/101353.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 31
+http://zikri.xtpold.com/live/eu1913/7475mht/101352.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 32
+http://zikri.xtpold.com/live/eu1913/7475mht/101351.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 33
+http://zikri.xtpold.com/live/eu1913/7475mht/101350.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 34
+http://zikri.xtpold.com/live/eu1913/7475mht/101349.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 35
+http://zikri.xtpold.com/live/eu1913/7475mht/101348.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 36
+http://zikri.xtpold.com/live/eu1913/7475mht/101347.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 37
+http://zikri.xtpold.com/live/eu1913/7475mht/101346.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 38
+http://zikri.xtpold.com/live/eu1913/7475mht/101345.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 39
+http://zikri.xtpold.com/live/eu1913/7475mht/101344.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 4
+http://zikri.xtpold.com/live/eu1913/7475mht/101379.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 40
+http://zikri.xtpold.com/live/eu1913/7475mht/101343.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 41
+http://zikri.xtpold.com/live/eu1913/7475mht/101342.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 42
+http://zikri.xtpold.com/live/eu1913/7475mht/101341.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 43
+http://zikri.xtpold.com/live/eu1913/7475mht/101340.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 44
+http://zikri.xtpold.com/live/eu1913/7475mht/101339.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 45
+http://zikri.xtpold.com/live/eu1913/7475mht/101338.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 46
+http://zikri.xtpold.com/live/eu1913/7475mht/101337.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 47
+http://zikri.xtpold.com/live/eu1913/7475mht/101336.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 48
+http://zikri.xtpold.com/live/eu1913/7475mht/101335.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 49
+http://zikri.xtpold.com/live/eu1913/7475mht/101334.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 5
+http://zikri.xtpold.com/live/eu1913/7475mht/101378.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 50
+http://zikri.xtpold.com/live/eu1913/7475mht/101333.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 51
+http://zikri.xtpold.com/live/eu1913/7475mht/101332.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 52
+http://zikri.xtpold.com/live/eu1913/7475mht/101331.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 53
+http://zikri.xtpold.com/live/eu1913/7475mht/101330.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 54
+http://zikri.xtpold.com/live/eu1913/7475mht/101329.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 55
+http://zikri.xtpold.com/live/eu1913/7475mht/101328.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 56
+http://zikri.xtpold.com/live/eu1913/7475mht/101327.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 57
+http://zikri.xtpold.com/live/eu1913/7475mht/101326.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 58
+http://zikri.xtpold.com/live/eu1913/7475mht/101325.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 59
+http://zikri.xtpold.com/live/eu1913/7475mht/101324.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 6
+http://zikri.xtpold.com/live/eu1913/7475mht/101377.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 60
+http://zikri.xtpold.com/live/eu1913/7475mht/101323.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 7
+http://zikri.xtpold.com/live/eu1913/7475mht/101376.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 8
+http://zikri.xtpold.com/live/eu1913/7475mht/101375.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Free Event 9
+http://zikri.xtpold.com/live/eu1913/7475mht/101374.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Gfl Event 1
+http://zikri.xtpold.com/live/eu1913/7475mht/101306.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Gfl Event 10
+http://zikri.xtpold.com/live/eu1913/7475mht/101297.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Gfl Event 11
+http://zikri.xtpold.com/live/eu1913/7475mht/101296.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Gfl Event 12
+http://zikri.xtpold.com/live/eu1913/7475mht/101295.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Gfl Event 13
+http://zikri.xtpold.com/live/eu1913/7475mht/101294.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Gfl Event 14
+http://zikri.xtpold.com/live/eu1913/7475mht/101293.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Gfl Event 15
+http://zikri.xtpold.com/live/eu1913/7475mht/101292.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Gfl Event 2
+http://zikri.xtpold.com/live/eu1913/7475mht/101305.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Gfl Event 3
+http://zikri.xtpold.com/live/eu1913/7475mht/101304.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Gfl Event 4
+http://zikri.xtpold.com/live/eu1913/7475mht/101303.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Gfl Event 5
+http://zikri.xtpold.com/live/eu1913/7475mht/101302.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Gfl Event 6
+http://zikri.xtpold.com/live/eu1913/7475mht/101301.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Gfl Event 7
+http://zikri.xtpold.com/live/eu1913/7475mht/101300.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Gfl Event 8
+http://zikri.xtpold.com/live/eu1913/7475mht/101299.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: SD Gfl Event 9
+http://zikri.xtpold.com/live/eu1913/7475mht/101298.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: Sporttotal Event 1
+http://zikri.xtpold.com/live/eu1913/7475mht/101281.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: Sporttotal Event 10
+http://zikri.xtpold.com/live/eu1913/7475mht/101272.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: Sporttotal Event 11
+http://zikri.xtpold.com/live/eu1913/7475mht/101271.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: Sporttotal Event 12
+http://zikri.xtpold.com/live/eu1913/7475mht/101270.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: Sporttotal Event 13
+http://zikri.xtpold.com/live/eu1913/7475mht/101269.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: Sporttotal Event 14
+http://zikri.xtpold.com/live/eu1913/7475mht/101268.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: Sporttotal Event 15
+http://zikri.xtpold.com/live/eu1913/7475mht/101267.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: Sporttotal Event 16
+http://zikri.xtpold.com/live/eu1913/7475mht/101266.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: Sporttotal Event 17
+http://zikri.xtpold.com/live/eu1913/7475mht/101265.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: Sporttotal Event 18
+http://zikri.xtpold.com/live/eu1913/7475mht/101264.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: Sporttotal Event 19
+http://zikri.xtpold.com/live/eu1913/7475mht/101263.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: Sporttotal Event 2
+http://zikri.xtpold.com/live/eu1913/7475mht/101280.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: Sporttotal Event 20
+http://zikri.xtpold.com/live/eu1913/7475mht/101262.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: Sporttotal Event 21
+http://zikri.xtpold.com/live/eu1913/7475mht/101261.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: Sporttotal Event 22
+http://zikri.xtpold.com/live/eu1913/7475mht/101260.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: Sporttotal Event 23
+http://zikri.xtpold.com/live/eu1913/7475mht/101259.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: Sporttotal Event 24
+http://zikri.xtpold.com/live/eu1913/7475mht/101258.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: Sporttotal Event 25
+http://zikri.xtpold.com/live/eu1913/7475mht/101257.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: Sporttotal Event 26
+http://zikri.xtpold.com/live/eu1913/7475mht/101256.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: Sporttotal Event 27
+http://zikri.xtpold.com/live/eu1913/7475mht/101255.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: Sporttotal Event 28
+http://zikri.xtpold.com/live/eu1913/7475mht/101254.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: Sporttotal Event 29
+http://zikri.xtpold.com/live/eu1913/7475mht/101253.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: Sporttotal Event 3
+http://zikri.xtpold.com/live/eu1913/7475mht/101279.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: Sporttotal Event 30
+http://zikri.xtpold.com/live/eu1913/7475mht/101252.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: Sporttotal Event 31
+http://zikri.xtpold.com/live/eu1913/7475mht/101251.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: Sporttotal Event 32
+http://zikri.xtpold.com/live/eu1913/7475mht/101250.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: Sporttotal Event 33
+http://zikri.xtpold.com/live/eu1913/7475mht/101249.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: Sporttotal Event 34
+http://zikri.xtpold.com/live/eu1913/7475mht/101248.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: Sporttotal Event 35
+http://zikri.xtpold.com/live/eu1913/7475mht/101247.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: Sporttotal Event 36
+http://zikri.xtpold.com/live/eu1913/7475mht/101246.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: Sporttotal Event 37
+http://zikri.xtpold.com/live/eu1913/7475mht/101245.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: Sporttotal Event 38
+http://zikri.xtpold.com/live/eu1913/7475mht/101244.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: Sporttotal Event 39
+http://zikri.xtpold.com/live/eu1913/7475mht/101243.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: Sporttotal Event 4
+http://zikri.xtpold.com/live/eu1913/7475mht/101278.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: Sporttotal Event 40
+http://zikri.xtpold.com/live/eu1913/7475mht/101242.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: Sporttotal Event 41
+http://zikri.xtpold.com/live/eu1913/7475mht/101241.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: Sporttotal Event 42
+http://zikri.xtpold.com/live/eu1913/7475mht/101240.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: Sporttotal Event 43
+http://zikri.xtpold.com/live/eu1913/7475mht/101239.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: Sporttotal Event 44
+http://zikri.xtpold.com/live/eu1913/7475mht/101238.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: Sporttotal Event 45
+http://zikri.xtpold.com/live/eu1913/7475mht/101237.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: Sporttotal Event 46
+http://zikri.xtpold.com/live/eu1913/7475mht/101236.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: Sporttotal Event 47
+http://zikri.xtpold.com/live/eu1913/7475mht/101235.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: Sporttotal Event 48
+http://zikri.xtpold.com/live/eu1913/7475mht/101234.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: Sporttotal Event 49
+http://zikri.xtpold.com/live/eu1913/7475mht/101233.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: Sporttotal Event 5
+http://zikri.xtpold.com/live/eu1913/7475mht/101277.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: Sporttotal Event 50
+http://zikri.xtpold.com/live/eu1913/7475mht/101232.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: Sporttotal Event 6
+http://zikri.xtpold.com/live/eu1913/7475mht/101276.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: Sporttotal Event 7
+http://zikri.xtpold.com/live/eu1913/7475mht/101275.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: Sporttotal Event 8
+http://zikri.xtpold.com/live/eu1913/7475mht/101274.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE► Sports",DE: Sporttotal Event 9
+http://zikri.xtpold.com/live/eu1913/7475mht/101273.m3u8
 
 # --- EN► England (166) ---
 #EXTINF:-1 tvg-logo="" group-title="EN► England",UK: DMAX
@@ -6063,7 +6389,37 @@ http://zikri.xtpold.com/live/eu1913/7475mht/62175.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX-YU► Ex-Yu",EXYU: BIH | AL JAZZERAALKANS
 http://zikri.xtpold.com/live/eu1913/7475mht/62174.m3u8
 
-# --- FR► France (136) ---
+# --- FR► France (151) ---
+#EXTINF:-1 tvg-logo="" group-title="FR► France",FR: Cine Fox 01
+http://zikri.xtpold.com/live/eu1913/7475mht/100896.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FR► France",FR: Cine Fox 02
+http://zikri.xtpold.com/live/eu1913/7475mht/100895.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FR► France",FR: Cine Fox 03
+http://zikri.xtpold.com/live/eu1913/7475mht/100894.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FR► France",FR: Cine Fox 04
+http://zikri.xtpold.com/live/eu1913/7475mht/100893.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FR► France",FR: Cine Fox 05
+http://zikri.xtpold.com/live/eu1913/7475mht/100892.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FR► France",FR: Cine Fox 06
+http://zikri.xtpold.com/live/eu1913/7475mht/100891.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FR► France",FR: Cine Fox 07
+http://zikri.xtpold.com/live/eu1913/7475mht/100890.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FR► France",FR: Cine Fox 09
+http://zikri.xtpold.com/live/eu1913/7475mht/100889.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FR► France",FR: Cine Fox 10
+http://zikri.xtpold.com/live/eu1913/7475mht/100888.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FR► France",FR: Cine Fox 08
+http://zikri.xtpold.com/live/eu1913/7475mht/100887.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FR► France",FR: Cine Fox 11
+http://zikri.xtpold.com/live/eu1913/7475mht/100886.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FR► France",FR: Cine Fox 12
+http://zikri.xtpold.com/live/eu1913/7475mht/100885.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FR► France",FR: Cine Fox 13
+http://zikri.xtpold.com/live/eu1913/7475mht/100884.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FR► France",FR: Cine Fox 14
+http://zikri.xtpold.com/live/eu1913/7475mht/100883.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FR► France",FR: Cine Fox 15
+http://zikri.xtpold.com/live/eu1913/7475mht/100882.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FR► France",FR: Tf1
 http://zikri.xtpold.com/live/eu1913/7475mht/78908.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FR► France",FR: France 2
@@ -7239,6 +7595,336 @@ http://zikri.xtpold.com/live/eu1913/7475mht/65489.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL► Netherlands",NL: NPO 1
 http://zikri.xtpold.com/live/eu1913/7475mht/65488.m3u8
 
+# --- PL► Poland (164) ---
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: 13 Ulica
+http://zikri.xtpold.com/live/eu1913/7475mht/100907.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: 4Fun Dance
+http://zikri.xtpold.com/live/eu1913/7475mht/100908.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: 4Fun Kids
+http://zikri.xtpold.com/live/eu1913/7475mht/100909.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: 4Fun TV
+http://zikri.xtpold.com/live/eu1913/7475mht/100910.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Active Family
+http://zikri.xtpold.com/live/eu1913/7475mht/100911.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Ale Kino
+http://zikri.xtpold.com/live/eu1913/7475mht/100912.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: ANIMAL PLANET
+http://zikri.xtpold.com/live/eu1913/7475mht/100913.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: AXN
+http://zikri.xtpold.com/live/eu1913/7475mht/100914.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: AXN Black
+http://zikri.xtpold.com/live/eu1913/7475mht/100915.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: AXN Spin
+http://zikri.xtpold.com/live/eu1913/7475mht/100916.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: AXN White
+http://zikri.xtpold.com/live/eu1913/7475mht/100917.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Baby TV
+http://zikri.xtpold.com/live/eu1913/7475mht/100918.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: BBC Brit Polska
+http://zikri.xtpold.com/live/eu1913/7475mht/100919.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: BBC Earth
+http://zikri.xtpold.com/live/eu1913/7475mht/100920.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: BBC First
+http://zikri.xtpold.com/live/eu1913/7475mht/100921.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: BBC Lifestyle
+http://zikri.xtpold.com/live/eu1913/7475mht/100922.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Biznes 24
+http://zikri.xtpold.com/live/eu1913/7475mht/100923.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Cartoon Network
+http://zikri.xtpold.com/live/eu1913/7475mht/100933.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: CBS Europa
+http://zikri.xtpold.com/live/eu1913/7475mht/100934.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: CBS Reality
+http://zikri.xtpold.com/live/eu1913/7475mht/100935.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Cinemax
+http://zikri.xtpold.com/live/eu1913/7475mht/100936.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Cinemax 2
+http://zikri.xtpold.com/live/eu1913/7475mht/100937.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Comedy Central
+http://zikri.xtpold.com/live/eu1913/7475mht/100938.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Comedy Central Extra
+http://zikri.xtpold.com/live/eu1913/7475mht/100939.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Crime  Investigation
+http://zikri.xtpold.com/live/eu1913/7475mht/100940.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Da Vinci Kids
+http://zikri.xtpold.com/live/eu1913/7475mht/100941.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Disco Polo Music
+http://zikri.xtpold.com/live/eu1913/7475mht/100942.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Discovery History
+http://zikri.xtpold.com/live/eu1913/7475mht/100943.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Discovery Science Polska
+http://zikri.xtpold.com/live/eu1913/7475mht/100944.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Discovery Turbo Xtra
+http://zikri.xtpold.com/live/eu1913/7475mht/100945.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Discovery World
+http://zikri.xtpold.com/live/eu1913/7475mht/100946.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Disney Channel
+http://zikri.xtpold.com/live/eu1913/7475mht/100947.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Disney Junior
+http://zikri.xtpold.com/live/eu1913/7475mht/100948.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Disney XD
+http://zikri.xtpold.com/live/eu1913/7475mht/100949.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: E!
+http://zikri.xtpold.com/live/eu1913/7475mht/100950.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Eska Rock TV
+http://zikri.xtpold.com/live/eu1913/7475mht/100951.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Eska TV
+http://zikri.xtpold.com/live/eu1913/7475mht/100952.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Eska TV Extra
+http://zikri.xtpold.com/live/eu1913/7475mht/100953.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Extreme Sports Channel
+http://zikri.xtpold.com/live/eu1913/7475mht/100954.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: FIGHT BOX
+http://zikri.xtpold.com/live/eu1913/7475mht/100955.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: FilmBox Action
+http://zikri.xtpold.com/live/eu1913/7475mht/100956.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: FilmBox Arthouse
+http://zikri.xtpold.com/live/eu1913/7475mht/100957.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: FilmBox Extra
+http://zikri.xtpold.com/live/eu1913/7475mht/100958.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: FilmBox Premium
+http://zikri.xtpold.com/live/eu1913/7475mht/100959.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Food Network
+http://zikri.xtpold.com/live/eu1913/7475mht/100960.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Fox
+http://zikri.xtpold.com/live/eu1913/7475mht/100961.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Fox Comedy
+http://zikri.xtpold.com/live/eu1913/7475mht/100962.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: HBO
+http://zikri.xtpold.com/live/eu1913/7475mht/100963.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: HBO 2
+http://zikri.xtpold.com/live/eu1913/7475mht/100964.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: HBO 3
+http://zikri.xtpold.com/live/eu1913/7475mht/100965.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: HGTV
+http://zikri.xtpold.com/live/eu1913/7475mht/100966.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: History
+http://zikri.xtpold.com/live/eu1913/7475mht/100967.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: History 2
+http://zikri.xtpold.com/live/eu1913/7475mht/100968.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Investigation Discovery
+http://zikri.xtpold.com/live/eu1913/7475mht/100969.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: JimJam Polsat
+http://zikri.xtpold.com/live/eu1913/7475mht/100970.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Kino Polska
+http://zikri.xtpold.com/live/eu1913/7475mht/100971.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Kino Polska Muzyka
+http://zikri.xtpold.com/live/eu1913/7475mht/100972.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Kino TV
+http://zikri.xtpold.com/live/eu1913/7475mht/100973.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Metro
+http://zikri.xtpold.com/live/eu1913/7475mht/100974.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: MiniMini
+http://zikri.xtpold.com/live/eu1913/7475mht/100979.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Motowizja
+http://zikri.xtpold.com/live/eu1913/7475mht/100980.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: MTV Polska
+http://zikri.xtpold.com/live/eu1913/7475mht/100981.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: NAT GEO
+http://zikri.xtpold.com/live/eu1913/7475mht/100982.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: NAT GEO People
+http://zikri.xtpold.com/live/eu1913/7475mht/100983.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: NAT GEO Wild
+http://zikri.xtpold.com/live/eu1913/7475mht/100984.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Nick Junior
+http://zikri.xtpold.com/live/eu1913/7475mht/100985.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: nickelodeon
+http://zikri.xtpold.com/live/eu1913/7475mht/100986.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Nicktoons
+http://zikri.xtpold.com/live/eu1913/7475mht/100987.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Novela TV
+http://zikri.xtpold.com/live/eu1913/7475mht/100988.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Novelas
+http://zikri.xtpold.com/live/eu1913/7475mht/100989.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Nowa TV
+http://zikri.xtpold.com/live/eu1913/7475mht/100990.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Nuta TV
+http://zikri.xtpold.com/live/eu1913/7475mht/100991.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Paramount Channel
+http://zikri.xtpold.com/live/eu1913/7475mht/100999.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: PLANETE
+http://zikri.xtpold.com/live/eu1913/7475mht/101000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Polo TV
+http://zikri.xtpold.com/live/eu1913/7475mht/101001.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Polsat
+http://zikri.xtpold.com/live/eu1913/7475mht/101002.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Polsat Cafe
+http://zikri.xtpold.com/live/eu1913/7475mht/101003.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Polsat Doku
+http://zikri.xtpold.com/live/eu1913/7475mht/101004.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Polsat Games
+http://zikri.xtpold.com/live/eu1913/7475mht/101005.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Polsat Music
+http://zikri.xtpold.com/live/eu1913/7475mht/101006.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Polsat News
+http://zikri.xtpold.com/live/eu1913/7475mht/101007.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Polsat News 2
+http://zikri.xtpold.com/live/eu1913/7475mht/101008.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Polsat Play
+http://zikri.xtpold.com/live/eu1913/7475mht/101009.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Polsat Rodzina
+http://zikri.xtpold.com/live/eu1913/7475mht/101010.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Polsat Seriale
+http://zikri.xtpold.com/live/eu1913/7475mht/101018.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Puls 2
+http://zikri.xtpold.com/live/eu1913/7475mht/101019.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Romance
+http://zikri.xtpold.com/live/eu1913/7475mht/101020.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: sci-fi
+http://zikri.xtpold.com/live/eu1913/7475mht/101021.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Stars TV
+http://zikri.xtpold.com/live/eu1913/7475mht/101022.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Stopklatka TV
+http://zikri.xtpold.com/live/eu1913/7475mht/101023.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Superstacja
+http://zikri.xtpold.com/live/eu1913/7475mht/101024.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: TLC
+http://zikri.xtpold.com/live/eu1913/7475mht/101025.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Travel Channel
+http://zikri.xtpold.com/live/eu1913/7475mht/101026.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: TTV
+http://zikri.xtpold.com/live/eu1913/7475mht/101027.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: TV 4
+http://zikri.xtpold.com/live/eu1913/7475mht/101034.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: TV 6
+http://zikri.xtpold.com/live/eu1913/7475mht/101035.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: TV Kujawy
+http://zikri.xtpold.com/live/eu1913/7475mht/101036.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: TV Puls
+http://zikri.xtpold.com/live/eu1913/7475mht/101037.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: TV Republika
+http://zikri.xtpold.com/live/eu1913/7475mht/101038.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: TV Torun
+http://zikri.xtpold.com/live/eu1913/7475mht/101039.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: TV TRWAM
+http://zikri.xtpold.com/live/eu1913/7475mht/101040.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: TVC
+http://zikri.xtpold.com/live/eu1913/7475mht/101041.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: TVN
+http://zikri.xtpold.com/live/eu1913/7475mht/101042.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: TVN 7
+http://zikri.xtpold.com/live/eu1913/7475mht/101045.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: TVN 24
+http://zikri.xtpold.com/live/eu1913/7475mht/101046.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: TVN 24 BiS
+http://zikri.xtpold.com/live/eu1913/7475mht/101047.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: TVN Fabula
+http://zikri.xtpold.com/live/eu1913/7475mht/101048.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: TVN Turbo
+http://zikri.xtpold.com/live/eu1913/7475mht/101049.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: TVP
+http://zikri.xtpold.com/live/eu1913/7475mht/101050.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: TVP 2
+http://zikri.xtpold.com/live/eu1913/7475mht/101051.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: TVP 3 Warszawa
+http://zikri.xtpold.com/live/eu1913/7475mht/101052.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: TVP ABC
+http://zikri.xtpold.com/live/eu1913/7475mht/101053.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: TVP Dokument
+http://zikri.xtpold.com/live/eu1913/7475mht/101054.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: TVP History
+http://zikri.xtpold.com/live/eu1913/7475mht/101055.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: TVP Info
+http://zikri.xtpold.com/live/eu1913/7475mht/101056.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: TVP Kultura
+http://zikri.xtpold.com/live/eu1913/7475mht/101057.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: TVP Rozrywka
+http://zikri.xtpold.com/live/eu1913/7475mht/101058.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: TVP Seriale
+http://zikri.xtpold.com/live/eu1913/7475mht/101059.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: TVS
+http://zikri.xtpold.com/live/eu1913/7475mht/101060.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Viasat Explore
+http://zikri.xtpold.com/live/eu1913/7475mht/101061.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Viasat History
+http://zikri.xtpold.com/live/eu1913/7475mht/101062.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Viasat Nature
+http://zikri.xtpold.com/live/eu1913/7475mht/101063.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Vox Music TV
+http://zikri.xtpold.com/live/eu1913/7475mht/101064.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: W Polsce
+http://zikri.xtpold.com/live/eu1913/7475mht/101065.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Warner TV
+http://zikri.xtpold.com/live/eu1913/7475mht/101066.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Water Planet
+http://zikri.xtpold.com/live/eu1913/7475mht/101067.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: WP TV
+http://zikri.xtpold.com/live/eu1913/7475mht/101068.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Zoom TV
+http://zikri.xtpold.com/live/eu1913/7475mht/101069.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Fightbox
+http://zikri.xtpold.com/live/eu1913/7475mht/101070.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Polsat Sport News
+http://zikri.xtpold.com/live/eu1913/7475mht/101071.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Polsat Sport Extra
+http://zikri.xtpold.com/live/eu1913/7475mht/101077.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Polsat Sport Premium 1
+http://zikri.xtpold.com/live/eu1913/7475mht/101078.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Polsat Sport Premium 2
+http://zikri.xtpold.com/live/eu1913/7475mht/101079.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Polsat Sport Premium 3
+http://zikri.xtpold.com/live/eu1913/7475mht/101080.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Polsat Sport Premium 4
+http://zikri.xtpold.com/live/eu1913/7475mht/101081.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Polsat Sport Premium 5
+http://zikri.xtpold.com/live/eu1913/7475mht/101082.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Polsat Sport Premium 6
+http://zikri.xtpold.com/live/eu1913/7475mht/101083.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Sport Klub
+http://zikri.xtpold.com/live/eu1913/7475mht/101084.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Golf Channel
+http://zikri.xtpold.com/live/eu1913/7475mht/101085.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Extreme Sports
+http://zikri.xtpold.com/live/eu1913/7475mht/101087.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Eleven
+http://zikri.xtpold.com/live/eu1913/7475mht/101088.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Eleven Sports 1
+http://zikri.xtpold.com/live/eu1913/7475mht/101089.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Eleven Sports 2
+http://zikri.xtpold.com/live/eu1913/7475mht/101090.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Eleven Sports 3
+http://zikri.xtpold.com/live/eu1913/7475mht/101091.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Eleven Sports 4
+http://zikri.xtpold.com/live/eu1913/7475mht/101092.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Fight Klub
+http://zikri.xtpold.com/live/eu1913/7475mht/101093.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Eurosport 1
+http://zikri.xtpold.com/live/eu1913/7475mht/101094.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Eurosport 2
+http://zikri.xtpold.com/live/eu1913/7475mht/101095.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: ViaPlay Xtra 1
+http://zikri.xtpold.com/live/eu1913/7475mht/101096.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: ViaPlay Xtra 2
+http://zikri.xtpold.com/live/eu1913/7475mht/101097.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Boomerang
+http://zikri.xtpold.com/live/eu1913/7475mht/101098.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Da Vinci
+http://zikri.xtpold.com/live/eu1913/7475mht/101099.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Epic Drama
+http://zikri.xtpold.com/live/eu1913/7475mht/101100.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: FILMBOX FAMILY
+http://zikri.xtpold.com/live/eu1913/7475mht/101101.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Kuchnia
+http://zikri.xtpold.com/live/eu1913/7475mht/101102.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: POLSAT 2
+http://zikri.xtpold.com/live/eu1913/7475mht/101103.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: POLSAT FILM
+http://zikri.xtpold.com/live/eu1913/7475mht/101104.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Polsat Sport FIGHT
+http://zikri.xtpold.com/live/eu1913/7475mht/101105.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: Polsat Sport
+http://zikri.xtpold.com/live/eu1913/7475mht/101106.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: SUNDANCE TV
+http://zikri.xtpold.com/live/eu1913/7475mht/101107.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: TVN Style
+http://zikri.xtpold.com/live/eu1913/7475mht/101108.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: TVP 1
+http://zikri.xtpold.com/live/eu1913/7475mht/101109.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: TVP 3
+http://zikri.xtpold.com/live/eu1913/7475mht/101110.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL► Poland",PL: TVP POLONIA
+http://zikri.xtpold.com/live/eu1913/7475mht/101111.m3u8
+
 # --- RU► Russia (137) ---
 #EXTINF:-1 tvg-logo="" group-title="RU► Russia",RU: 360deg
 http://zikri.xtpold.com/live/eu1913/7475mht/78769.m3u8
@@ -7514,6 +8200,210 @@ http://zikri.xtpold.com/live/eu1913/7475mht/78631.m3u8
 http://zikri.xtpold.com/live/eu1913/7475mht/78630.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RU► Russia",RU: Zvezda Plius
 http://zikri.xtpold.com/live/eu1913/7475mht/78629.m3u8
+
+# --- SE► Sweden (101) ---
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: Barnmusik
+http://zikri.xtpold.com/live/eu1913/7475mht/101112.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: BBC Brit
+http://zikri.xtpold.com/live/eu1913/7475mht/101113.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: BBC Earth
+http://zikri.xtpold.com/live/eu1913/7475mht/101114.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: Boomerang
+http://zikri.xtpold.com/live/eu1913/7475mht/101115.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: Cartoon Network
+http://zikri.xtpold.com/live/eu1913/7475mht/101116.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: Discovery Channel
+http://zikri.xtpold.com/live/eu1913/7475mht/101117.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: Discovery Investigation
+http://zikri.xtpold.com/live/eu1913/7475mht/101118.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: Discovery Science
+http://zikri.xtpold.com/live/eu1913/7475mht/101119.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: Discovery World
+http://zikri.xtpold.com/live/eu1913/7475mht/101120.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: Disney Channel
+http://zikri.xtpold.com/live/eu1913/7475mht/101121.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: E! Entertainment
+http://zikri.xtpold.com/live/eu1913/7475mht/101122.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: Fishing and Hunting
+http://zikri.xtpold.com/live/eu1913/7475mht/101123.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: H2
+http://zikri.xtpold.com/live/eu1913/7475mht/101124.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: History
+http://zikri.xtpold.com/live/eu1913/7475mht/101125.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: MTV
+http://zikri.xtpold.com/live/eu1913/7475mht/101130.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: MTV Hits
+http://zikri.xtpold.com/live/eu1913/7475mht/101131.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: National Geographic
+http://zikri.xtpold.com/live/eu1913/7475mht/101132.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: Nickelodeon
+http://zikri.xtpold.com/live/eu1913/7475mht/101133.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: Nicktoons
+http://zikri.xtpold.com/live/eu1913/7475mht/101134.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: Paramount Network
+http://zikri.xtpold.com/live/eu1913/7475mht/101136.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: Sjuan
+http://zikri.xtpold.com/live/eu1913/7475mht/101138.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: SVT 1
+http://zikri.xtpold.com/live/eu1913/7475mht/101139.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: SVT 2
+http://zikri.xtpold.com/live/eu1913/7475mht/101140.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: TLC
+http://zikri.xtpold.com/live/eu1913/7475mht/101141.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: TV 4
+http://zikri.xtpold.com/live/eu1913/7475mht/101142.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: TV10
+http://zikri.xtpold.com/live/eu1913/7475mht/101143.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: TV12 Sweden
+http://zikri.xtpold.com/live/eu1913/7475mht/101144.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: TV3 Sweden
+http://zikri.xtpold.com/live/eu1913/7475mht/101145.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: TV4 Fakta
+http://zikri.xtpold.com/live/eu1913/7475mht/101146.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: TV4 Film
+http://zikri.xtpold.com/live/eu1913/7475mht/101147.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: TV4 Guld
+http://zikri.xtpold.com/live/eu1913/7475mht/101148.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: TV6 Sweden
+http://zikri.xtpold.com/live/eu1913/7475mht/101149.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: TV8 Sweden
+http://zikri.xtpold.com/live/eu1913/7475mht/101150.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: Vastmanlands TV
+http://zikri.xtpold.com/live/eu1913/7475mht/101151.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: VH1
+http://zikri.xtpold.com/live/eu1913/7475mht/101152.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: Viasat Explore
+http://zikri.xtpold.com/live/eu1913/7475mht/101153.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: Viasat History
+http://zikri.xtpold.com/live/eu1913/7475mht/101154.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: Viasat Nature
+http://zikri.xtpold.com/live/eu1913/7475mht/101155.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: C More Fotboll
+http://zikri.xtpold.com/live/eu1913/7475mht/101156.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: C More Live
+http://zikri.xtpold.com/live/eu1913/7475mht/101157.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: C More Live 3
+http://zikri.xtpold.com/live/eu1913/7475mht/101158.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: C More Live 4
+http://zikri.xtpold.com/live/eu1913/7475mht/101159.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: C More Live 5
+http://zikri.xtpold.com/live/eu1913/7475mht/101160.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: C More Hockey
+http://zikri.xtpold.com/live/eu1913/7475mht/101161.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: Viasat Sport
+http://zikri.xtpold.com/live/eu1913/7475mht/101162.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: Viasat Sport Premium
+http://zikri.xtpold.com/live/eu1913/7475mht/101163.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: Viasat Ultra
+http://zikri.xtpold.com/live/eu1913/7475mht/101164.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: Viasat Motor
+http://zikri.xtpold.com/live/eu1913/7475mht/101166.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: Viasat Hockey
+http://zikri.xtpold.com/live/eu1913/7475mht/101167.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: Viasat Golf
+http://zikri.xtpold.com/live/eu1913/7475mht/101168.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: Eurosport 2
+http://zikri.xtpold.com/live/eu1913/7475mht/101169.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: ATG Live
+http://zikri.xtpold.com/live/eu1913/7475mht/101170.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: Bloomberg TV
+http://zikri.xtpold.com/live/eu1913/7475mht/101171.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: C More First
+http://zikri.xtpold.com/live/eu1913/7475mht/101172.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: C More Hits
+http://zikri.xtpold.com/live/eu1913/7475mht/101173.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: C More Juniori
+http://zikri.xtpold.com/live/eu1913/7475mht/101174.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: C More LIVE 2
+http://zikri.xtpold.com/live/eu1913/7475mht/101175.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: C More Max
+http://zikri.xtpold.com/live/eu1913/7475mht/101176.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: C More Mix
+http://zikri.xtpold.com/live/eu1913/7475mht/101177.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: C More Series
+http://zikri.xtpold.com/live/eu1913/7475mht/101178.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: C More Sport 1
+http://zikri.xtpold.com/live/eu1913/7475mht/101179.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: C More Stars
+http://zikri.xtpold.com/live/eu1913/7475mht/101180.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: Disney Junior
+http://zikri.xtpold.com/live/eu1913/7475mht/101181.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: E!
+http://zikri.xtpold.com/live/eu1913/7475mht/101182.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: EUROSPORT 1
+http://zikri.xtpold.com/live/eu1913/7475mht/101183.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: Godare
+http://zikri.xtpold.com/live/eu1913/7475mht/101184.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: History 2
+http://zikri.xtpold.com/live/eu1913/7475mht/101185.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: Horse & Country TV
+http://zikri.xtpold.com/live/eu1913/7475mht/101186.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: Investigation Discovery
+http://zikri.xtpold.com/live/eu1913/7475mht/101187.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: MTV 00s
+http://zikri.xtpold.com/live/eu1913/7475mht/101189.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: MTV Nordic
+http://zikri.xtpold.com/live/eu1913/7475mht/101190.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: Nick Jr
+http://zikri.xtpold.com/live/eu1913/7475mht/101191.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: Suryoyo Sat
+http://zikri.xtpold.com/live/eu1913/7475mht/101192.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: SVT 1 Jamtland
+http://zikri.xtpold.com/live/eu1913/7475mht/101193.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: SVT 1 Jonkoping
+http://zikri.xtpold.com/live/eu1913/7475mht/101194.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: SVT 1 Orebro
+http://zikri.xtpold.com/live/eu1913/7475mht/101195.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: SVT 1 Ost
+http://zikri.xtpold.com/live/eu1913/7475mht/101196.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: SVT 1 Smaland
+http://zikri.xtpold.com/live/eu1913/7475mht/101197.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: SVT 1 Varmland
+http://zikri.xtpold.com/live/eu1913/7475mht/101198.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: SVT Barn
+http://zikri.xtpold.com/live/eu1913/7475mht/101199.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: TV 3 Sverige
+http://zikri.xtpold.com/live/eu1913/7475mht/101200.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: TV 4 Fakta
+http://zikri.xtpold.com/live/eu1913/7475mht/101201.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: TV 4 Film
+http://zikri.xtpold.com/live/eu1913/7475mht/101202.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: TV 4 Guld
+http://zikri.xtpold.com/live/eu1913/7475mht/101203.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: TV 6 Sverige
+http://zikri.xtpold.com/live/eu1913/7475mht/101204.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: TV 8 Sverige
+http://zikri.xtpold.com/live/eu1913/7475mht/101205.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: TV 10
+http://zikri.xtpold.com/live/eu1913/7475mht/101206.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: TV 12
+http://zikri.xtpold.com/live/eu1913/7475mht/101207.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: V Film Action
+http://zikri.xtpold.com/live/eu1913/7475mht/101208.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: V Film Family
+http://zikri.xtpold.com/live/eu1913/7475mht/101209.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: V Film Hits
+http://zikri.xtpold.com/live/eu1913/7475mht/101210.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: V Film Premiere
+http://zikri.xtpold.com/live/eu1913/7475mht/101211.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: V Series
+http://zikri.xtpold.com/live/eu1913/7475mht/101212.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: V sport 1
+http://zikri.xtpold.com/live/eu1913/7475mht/101213.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: V Sport Extra
+http://zikri.xtpold.com/live/eu1913/7475mht/101214.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: V Sport Football
+http://zikri.xtpold.com/live/eu1913/7475mht/101215.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: V Sport Golf
+http://zikri.xtpold.com/live/eu1913/7475mht/101216.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: V Sport Motor
+http://zikri.xtpold.com/live/eu1913/7475mht/101217.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: V Sport Premium
+http://zikri.xtpold.com/live/eu1913/7475mht/101218.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: V Sport Ultra
+http://zikri.xtpold.com/live/eu1913/7475mht/101219.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SE► Sweden",SE: V Sport Vinter
+http://zikri.xtpold.com/live/eu1913/7475mht/101220.m3u8
 
 # --- SY► Syrie (8) ---
 #EXTINF:-1 tvg-logo="" group-title="SY► Syrie",AR: Syrie| Alyaum TV
@@ -8851,4 +9741,4 @@ http://zikri.xtpold.com/live/eu1913/7475mht/67884.m3u8
 #EXTINF:-1 tvg-logo="" group-title="US► U.S.A.",US: TLC EAST
 http://zikri.xtpold.com/live/eu1913/7475mht/67883.m3u8
 
-# Total: 4388
+# Total: 4831

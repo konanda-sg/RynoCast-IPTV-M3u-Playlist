@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: client.newborntv.xyz:88
-# Generated: 2025-12-08 18:31:33
+# Generated: 2025-12-09 07:03:03
 # Expires: 2026-02-22
 # Family Safe Edition
 # ==============================================
@@ -6508,7 +6508,7 @@ http://client.newborntv.xyz:88/live/khFzEWQn/fP85XcC7E/87191.m3u8
 http://client.newborntv.xyz:88/live/khFzEWQn/fP85XcC7E/30138.m3u8
 #EXTINF:-1 tvg-logo="https://prd-static-digitalb.spectar.tv/rev-1736915696/image_transform.php/transform/1/instance_id/1/video_id/32373" group-title="Shqipëtare",AL: RTV 21 Maqedonia ᴴᴰ
 http://client.newborntv.xyz:88/live/khFzEWQn/fP85XcC7E/53497.m3u8
-#EXTINF:-1 tvg-logo="https://prd-static-digitalb.spectar.tv/rev-1736915696/image_transform.php/transform/1/instance_id/1/video_id/8437" group-title="Shqipëtare",AL: Klan Macedonia ᴴᴰ
+#EXTINF:-1 tvg-logo="" group-title="Shqipëtare",AL: PODUJEVA TV ᴴᴰ
 http://client.newborntv.xyz:88/live/khFzEWQn/fP85XcC7E/25523.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/chDMgXcG/mrtv2mak.png" group-title="Shqipëtare",AL: MRTV 2 ⁴ᴷ
 http://client.newborntv.xyz:88/live/khFzEWQn/fP85XcC7E/87050.m3u8
