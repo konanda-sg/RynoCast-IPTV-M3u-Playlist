@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: world-service.us:8080
-# Generated: 2025-12-09 07:09:26
+# Generated: 2025-12-09 18:32:30
 # Expires: 2026-02-19
 # Family Safe Edition
 # ==============================================
@@ -1520,7 +1520,7 @@ http://world-service.us:8080/live/giovanmer/merante/121.m3u8
 http://world-service.us:8080/live/giovanmer/merante/10605.m3u8
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/01d02e67374273af80ed14d9a96b28cf.png" group-title="TIVUSAT",Tv2000
 http://world-service.us:8080/live/giovanmer/merante/16145.m3u8
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/sanmarino.png" group-title="TIVUSAT",San Marino tv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/sanmarino.png" group-title="TIVUSAT",Videolina
 http://world-service.us:8080/live/giovanmer/merante/62065.m3u8
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/rtmmanduria.png" group-title="TIVUSAT",RTM Manduria
 http://world-service.us:8080/live/giovanmer/merante/48216.m3u8

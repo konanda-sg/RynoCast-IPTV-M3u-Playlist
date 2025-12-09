@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: supersonictv.live:8080
-# Generated: 2025-12-09 07:09:05
+# Generated: 2025-12-09 18:30:35
 # Expires: 2025-12-21
 # Family Safe Edition
 # ==============================================
@@ -12056,11 +12056,11 @@ http://supersonictv.live:8080/live/864072/196529/13761.m3u8
 http://supersonictv.live:8080/live/864072/196529/13762.m3u8
 
 # --- NBA LEAGUE PASS (12/08) (15) ---
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hgnVzXz/NBA-LP.png" group-title="NBA LEAGUE PASS (12/08)",NBA LP01 :  SACRAMENTO KINGS @ INDIANA PACERS | 12/8-07:00PM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hgnVzXz/NBA-LP.png" group-title="NBA LEAGUE PASS (12/08)",NBA LP01 :
 http://supersonictv.live:8080/live/864072/196529/86042.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hgnVzXz/NBA-LP.png" group-title="NBA LEAGUE PASS (12/08)",NBA LP02 :  PHOENIX SUNS @ MINNESOTA TIMBERWOLVES | 12/8-08:00PM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hgnVzXz/NBA-LP.png" group-title="NBA LEAGUE PASS (12/08)",NBA LP02 :
 http://supersonictv.live:8080/live/864072/196529/86043.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hgnVzXz/NBA-LP.png" group-title="NBA LEAGUE PASS (12/08)",NBA LP03:  SAN ANTONIO SPURS @ NEW ORLEANS PELICANS | 12/8-09:30PM |
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hgnVzXz/NBA-LP.png" group-title="NBA LEAGUE PASS (12/08)",NBA LP03:
 http://supersonictv.live:8080/live/864072/196529/86044.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hgnVzXz/NBA-LP.png" group-title="NBA LEAGUE PASS (12/08)",NBA LP04 :
 http://supersonictv.live:8080/live/864072/196529/86045.m3u8
@@ -12087,122 +12087,122 @@ http://supersonictv.live:8080/live/864072/196529/86055.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hgnVzXz/NBA-LP.png" group-title="NBA LEAGUE PASS (12/08)",NBA LP15 :
 http://supersonictv.live:8080/live/864072/196529/86056.m3u8
 
-# --- NBA LIVE GAME (12/08) (58) ---
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA 01 :   UAlbany vs. Colgate 6:00 pm EST
+# --- NBA LIVE GAME (12/09) (58) ---
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA 01 :   Miami Heat vs Orlando Magic @ 06:00 PM EST
 http://supersonictv.live:8080/live/864072/196529/83043.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA 02 :  Texas Southern vs. #25 West Virginia 7:00 pm EST
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA 02 :  New York Knicks vs Toronto Raptors @ 08:30 PM EST
 http://supersonictv.live:8080/live/864072/196529/83044.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA 03 :
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA 03 :
 http://supersonictv.live:8080/live/864072/196529/83045.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA04 :
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA04 :
 http://supersonictv.live:8080/live/864072/196529/83046.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA05 :
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA05 :
 http://supersonictv.live:8080/live/864072/196529/83047.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA06 :
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA06 :
 http://supersonictv.live:8080/live/864072/196529/83048.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA07 :
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA07 :
 http://supersonictv.live:8080/live/864072/196529/83049.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA 08  :
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA 08  :
 http://supersonictv.live:8080/live/864072/196529/83050.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA09 :
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA09 :
 http://supersonictv.live:8080/live/864072/196529/83052.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA 11 :
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA 11 :
 http://supersonictv.live:8080/live/864072/196529/83054.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA 12:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA 12:
 http://supersonictv.live:8080/live/864072/196529/83055.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA 13:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA 13:
 http://supersonictv.live:8080/live/864072/196529/83056.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA 14 :
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA 14 :
 http://supersonictv.live:8080/live/864072/196529/83057.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA 15 :
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA 15 :
 http://supersonictv.live:8080/live/864072/196529/83058.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA 16 :
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA 16 :
 http://supersonictv.live:8080/live/864072/196529/83059.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA 17 :
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA 17 :
 http://supersonictv.live:8080/live/864072/196529/83060.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA 18 :
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA 18 :
 http://supersonictv.live:8080/live/864072/196529/83061.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA 19 :
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA 19 :
 http://supersonictv.live:8080/live/864072/196529/83062.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA 20:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA 20:
 http://supersonictv.live:8080/live/864072/196529/83063.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA21:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA21:
 http://supersonictv.live:8080/live/864072/196529/83064.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA 22:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA 22:
 http://supersonictv.live:8080/live/864072/196529/83065.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA 23:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA 23:
 http://supersonictv.live:8080/live/864072/196529/83066.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA 24 :
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA 24 :
 http://supersonictv.live:8080/live/864072/196529/83067.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA 25 :
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA 25 :
 http://supersonictv.live:8080/live/864072/196529/83068.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA 26 :
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA 26 :
 http://supersonictv.live:8080/live/864072/196529/83069.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA 27 :
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA 27 :
 http://supersonictv.live:8080/live/864072/196529/83070.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA 28 :
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA 28 :
 http://supersonictv.live:8080/live/864072/196529/83071.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA 29 :
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA 29 :
 http://supersonictv.live:8080/live/864072/196529/83072.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA 30 :
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA 30 :
 http://supersonictv.live:8080/live/864072/196529/83073.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA32:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA32:
 http://supersonictv.live:8080/live/864072/196529/83074.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA33:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA33:
 http://supersonictv.live:8080/live/864072/196529/83075.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA34:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA34:
 http://supersonictv.live:8080/live/864072/196529/83076.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA35:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA35:
 http://supersonictv.live:8080/live/864072/196529/83077.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA36:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA36:
 http://supersonictv.live:8080/live/864072/196529/83078.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA37:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA37:
 http://supersonictv.live:8080/live/864072/196529/83079.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA38:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA38:
 http://supersonictv.live:8080/live/864072/196529/83080.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA39:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA39:
 http://supersonictv.live:8080/live/864072/196529/83081.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA40:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA40:
 http://supersonictv.live:8080/live/864072/196529/83082.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA41:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA41:
 http://supersonictv.live:8080/live/864072/196529/83083.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA42:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA42:
 http://supersonictv.live:8080/live/864072/196529/83084.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA43:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA43:
 http://supersonictv.live:8080/live/864072/196529/83085.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA44:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA44:
 http://supersonictv.live:8080/live/864072/196529/83086.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA45:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA45:
 http://supersonictv.live:8080/live/864072/196529/83087.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA46:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA46:
 http://supersonictv.live:8080/live/864072/196529/83088.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA47:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA47:
 http://supersonictv.live:8080/live/864072/196529/83089.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA48:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA48:
 http://supersonictv.live:8080/live/864072/196529/83090.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA49:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA49:
 http://supersonictv.live:8080/live/864072/196529/83091.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA50:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA50:
 http://supersonictv.live:8080/live/864072/196529/83092.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA51:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA51:
 http://supersonictv.live:8080/live/864072/196529/83093.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA52:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA52:
 http://supersonictv.live:8080/live/864072/196529/83094.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA53:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA53:
 http://supersonictv.live:8080/live/864072/196529/83095.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA54:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA54:
 http://supersonictv.live:8080/live/864072/196529/83096.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA55:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA55:
 http://supersonictv.live:8080/live/864072/196529/83097.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA56:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA56:
 http://supersonictv.live:8080/live/864072/196529/83098.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA57:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA57:
 http://supersonictv.live:8080/live/864072/196529/83099.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA58:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA58:
 http://supersonictv.live:8080/live/864072/196529/83100.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA59:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA59:
 http://supersonictv.live:8080/live/864072/196529/83101.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/08)",USA NBA60:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (12/09)",USA NBA60:
 http://supersonictv.live:8080/live/864072/196529/83102.m3u8
 
 # --- NCAAB (12/08) (225) ---
@@ -12658,7 +12658,7 @@ http://supersonictv.live:8080/live/864072/196529/88055.m3u8
 http://supersonictv.live:8080/live/864072/196529/88056.m3u8
 
 # --- NCAAF (12/07) (128) ---
-#EXTINF:-1 tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="NCAAF (12/07)",NCAAF 01 | MD) | 12/07-03:00PM
+#EXTINF:-1 tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="NCAAF (12/07)",NCAAF 01 |
 http://supersonictv.live:8080/live/864072/196529/86624.m3u8
 #EXTINF:-1 tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="NCAAF (12/07)",NCAAF 02 |
 http://supersonictv.live:8080/live/864072/196529/86625.m3u8
@@ -13210,7 +13210,7 @@ http://supersonictv.live:8080/live/864072/196529/83350.m3u8
 http://supersonictv.live:8080/live/864072/196529/86403.m3u8
 
 # --- NFL GAMEPASS (12/08) (16) ---
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QsCoa0J.png" group-title="NFL GAMEPASS (12/08)",01 :  PHILADELPHIA EAGLES @ LOS ANGELES CHARGERS | 12/08-08:15PM |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QsCoa0J.png" group-title="NFL GAMEPASS (12/08)",01 :
 http://supersonictv.live:8080/live/864072/196529/77424.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QsCoa0J.png" group-title="NFL GAMEPASS (12/08)",02:
 http://supersonictv.live:8080/live/864072/196529/77425.m3u8
@@ -13248,7 +13248,7 @@ http://supersonictv.live:8080/live/864072/196529/77438.m3u8
 http://supersonictv.live:8080/live/864072/196529/88436.m3u8
 #EXTINF:-1 tvg-logo="https://unplugthetv.com/wp-content/uploads/2019/10/nfl-redzone.png" group-title="NFL REDZONE & NIGHTS (12/07)",NFL Red zone BACKUP
 http://supersonictv.live:8080/live/864072/196529/88437.m3u8
-#EXTINF:-1 tvg-logo="https://static.www.nfl.com/image/private/t_photogallery/f_png/league/mywogy71oluagu0qmgaz.png" group-title="NFL REDZONE & NIGHTS (12/07)",Sunday Night :  Houston Texans vs Kansas City Chiefs @ 08:20 PM
+#EXTINF:-1 tvg-logo="https://static.www.nfl.com/image/private/t_photogallery/f_png/league/mywogy71oluagu0qmgaz.png" group-title="NFL REDZONE & NIGHTS (12/07)",Sunday Night :
 http://supersonictv.live:8080/live/864072/196529/88438.m3u8
 #EXTINF:-1 tvg-logo="https://static.www.nfl.com/image/private/t_photogallery/f_png/league/mpx0s6jwjrjbhfw9rfol.png" group-title="NFL REDZONE & NIGHTS (12/07)",Monday Night :
 http://supersonictv.live:8080/live/864072/196529/88439.m3u8
@@ -13292,27 +13292,27 @@ http://supersonictv.live:8080/live/864072/196529/86767.m3u8
 http://supersonictv.live:8080/live/864072/196529/86768.m3u8
 
 # --- NFL SUNDAY TICKET (12/07) (15) ---
-#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="NFL SUNDAY TICKET (12/07)",Sunday705:  Pittsburgh Steelers vs Baltimore Ravens @ 1:00 pm
+#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="NFL SUNDAY TICKET (12/07)",Sunday705:
 http://supersonictv.live:8080/live/864072/196529/88421.m3u8
-#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="NFL SUNDAY TICKET (12/07)",Sunday706 :  Indianapolis Colts vs Jacksonville Jaguars 1:00 pm
+#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="NFL SUNDAY TICKET (12/07)",Sunday706 :
 http://supersonictv.live:8080/live/864072/196529/88422.m3u8
-#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="NFL SUNDAY TICKET (12/07)",Sunday707:  Miami Dolphins vs New York Jets @ 1:00 pm
+#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="NFL SUNDAY TICKET (12/07)",Sunday707:
 http://supersonictv.live:8080/live/864072/196529/88423.m3u8
-#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="NFL SUNDAY TICKET (12/07)",Sunday708:  New Orleans Saints vs Tampa Bay Buccaneers @ 1:00 pm
+#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="NFL SUNDAY TICKET (12/07)",Sunday708:
 http://supersonictv.live:8080/live/864072/196529/88424.m3u8
-#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="NFL SUNDAY TICKET (12/07)",Sunday709:  Seattle Seahawks vs Atlanta Falcons @ 1:00 pm
+#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="NFL SUNDAY TICKET (12/07)",Sunday709:
 http://supersonictv.live:8080/live/864072/196529/88425.m3u8
-#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="NFL SUNDAY TICKET (12/07)",Sunday710:   Tennessee Titans vs Cleveland Browns @ 1:00 pm
+#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="NFL SUNDAY TICKET (12/07)",Sunday710:
 http://supersonictv.live:8080/live/864072/196529/88426.m3u8
-#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="NFL SUNDAY TICKET (12/07)",Sunday711:  Cincinnati Bengals vs Buffalo Bills @ 1:00 pm
+#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="NFL SUNDAY TICKET (12/07)",Sunday711:
 http://supersonictv.live:8080/live/864072/196529/88427.m3u8
-#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="NFL SUNDAY TICKET (12/07)",Sunday712:  Washington Commanders vs Minnesota Vikings @ 4:05 pm
+#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="NFL SUNDAY TICKET (12/07)",Sunday712:
 http://supersonictv.live:8080/live/864072/196529/88428.m3u8
-#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="NFL SUNDAY TICKET (12/07)",Sunday713:   Denver Broncos vs Las Vegas Raiders @ 4:25 pm
+#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="NFL SUNDAY TICKET (12/07)",Sunday713:
 http://supersonictv.live:8080/live/864072/196529/88429.m3u8
-#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="NFL SUNDAY TICKET (12/07)",Sunday714:   Los Angeles Rams vs Arizona Cardinals @ 4:25 pm
+#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="NFL SUNDAY TICKET (12/07)",Sunday714:
 http://supersonictv.live:8080/live/864072/196529/88430.m3u8
-#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="NFL SUNDAY TICKET (12/07)",Sunday715:   Chicago Bears vs Green Bay Packers @ 4:25 pm
+#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="NFL SUNDAY TICKET (12/07)",Sunday715:
 http://supersonictv.live:8080/live/864072/196529/88431.m3u8
 #EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="NFL SUNDAY TICKET (12/07)",Sunday716:
 http://supersonictv.live:8080/live/864072/196529/88432.m3u8
@@ -13324,15 +13324,15 @@ http://supersonictv.live:8080/live/864072/196529/88434.m3u8
 http://supersonictv.live:8080/live/864072/196529/88435.m3u8
 
 # --- NHL CENTER ICE (12/08) (14) ---
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL CENTER ICE (12/08)",NHL CI01 :  TAMPA BAY LIGHTNING @ TORONTO MAPLE LEAFS | 12/8-07:30PM |
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL CENTER ICE (12/08)",NHL CI01 :
 http://supersonictv.live:8080/live/864072/196529/86085.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL CENTER ICE (12/08)",NHL CI02 :  LOS ANGELES KINGS @ UTAH MAMMOTH | 12/8-09:00PM |
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL CENTER ICE (12/08)",NHL CI02 :
 http://supersonictv.live:8080/live/864072/196529/86086.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL CENTER ICE (12/08)",NHL CI03:  BUFFALO SABRES @ CALGARY FLAMES | 12/8-09:00PM
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL CENTER ICE (12/08)",NHL CI03:
 http://supersonictv.live:8080/live/864072/196529/86087.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL CENTER ICE (12/08)",NHL CI04 :  DETROIT RED WINGS @ VANCOUVER CANUCKS | 12/8-10:00PM
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL CENTER ICE (12/08)",NHL CI04 :
 http://supersonictv.live:8080/live/864072/196529/86088.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL CENTER ICE (12/08)",NHL CI05  :  MINNESOTA WILD @ SEATTLE KRAKEN | 12/8-10:00PM |
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL CENTER ICE (12/08)",NHL CI05  :
 http://supersonictv.live:8080/live/864072/196529/86089.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL CENTER ICE (12/08)",NHL CI06 :
 http://supersonictv.live:8080/live/864072/196529/86090.m3u8
@@ -13353,106 +13353,104 @@ http://supersonictv.live:8080/live/864072/196529/86098.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL CENTER ICE (12/08)",NHL CI15 :
 http://supersonictv.live:8080/live/864072/196529/86099.m3u8
 
-# --- NHL LIVE GAME (12/08) (50) ---
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/08)",USA NHL01 :  TBL VS TOR (NHLN Feed ) @ 7:30 pm
+# --- NHL LIVE GAME (12/09) (49) ---
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/09)",USA NHL01 : TBL VS MTL (RDS Feed ) @ 7:00 pm
 http://supersonictv.live:8080/live/864072/196529/82983.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/08)",USA NHL02 :  TBL VS TOR (Prime Feed ) @ 7:30 pm
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/09)",USA NHL02 : SJS VS PHI (NBCSP Feed ) @ 7:00 pm
 http://supersonictv.live:8080/live/864072/196529/82984.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/08)",USA NHL03 :   TBL VS TOR (TVAS Feed ) @ 7:30 pm
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/09)",USA NHL03 :   SJS VS PHI (NBCSCA Feed ) @ 7:00 pm
 http://supersonictv.live:8080/live/864072/196529/82985.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/08)",USA NHL04 :  BUF VS CGY (SNW Feed ) @ 9:00 pm
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/09)",USA NHL04 :  BOS VS STL (NESN Feed ) @ 8:00 pm
 http://supersonictv.live:8080/live/864072/196529/82986.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/08)",USA NHL05  :  DET VS VAN (TVAS Feed ) @ 10:00 pm
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/09)",USA NHL05  :   BUF VS EDM (SNW Feed ) @ 9:00 pm
 http://supersonictv.live:8080/live/864072/196529/82987.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/08)",USA NHL06 : Los Angeles Kings vs Utah Mammoth @ 09:00 PM
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/09)",USA NHL06 : COL VS NSH (ALT Feed ) @ 9:30 pm
 http://supersonictv.live:8080/live/864072/196529/82988.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/08)",USA NHL07  :  Minnesota Wild vs Seattle Kraken @ 10:00 PM
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/09)",USA NHL07  :Vegas Golden Knights vs New York Islanders @ 07:00 PM
 http://supersonictv.live:8080/live/864072/196529/82989.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/08)",USA NHL08 :
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/09)",USA NHL08 :  New Jersey Devils vs Ottawa Senators @ 07:00 PM
 http://supersonictv.live:8080/live/864072/196529/82990.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/08)",USA NHL09 :
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/09)",USA NHL09 :    Anaheim Ducks vs Pittsburgh Penguins @ 07:00 PM
 http://supersonictv.live:8080/live/864072/196529/82991.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/08)",USA NHL 10 :
-http://supersonictv.live:8080/live/864072/196529/82992.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/08)",USA NHL 11 :
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/09)",USA NHL 11 :   Dallas Stars vs Winnipeg Jets @ @ 08:00 PM
 http://supersonictv.live:8080/live/864072/196529/82993.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/08)",USA NHL12 :
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/09)",USA NHL12 :  NCAA Men's Hockey #16 Providence vs. Brown @ 07:00 PM
 http://supersonictv.live:8080/live/864072/196529/82994.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/08)",USA NHL 13 :
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/09)",USA NHL 13 :
 http://supersonictv.live:8080/live/864072/196529/82995.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/08)",USA NHL 14 :
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/09)",USA NHL 14 :
 http://supersonictv.live:8080/live/864072/196529/82996.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/08)",USA NHL 15 :
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/09)",USA NHL 15 :
 http://supersonictv.live:8080/live/864072/196529/82997.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/08)",USA NHL 16 :
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/09)",USA NHL 16 :
 http://supersonictv.live:8080/live/864072/196529/82998.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/08)",USA NHL 17 :
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/09)",USA NHL 17 :
 http://supersonictv.live:8080/live/864072/196529/82999.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/08)",USA NHL 18 :
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/09)",USA NHL 18 :
 http://supersonictv.live:8080/live/864072/196529/83000.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/08)",USA NHL 19 :
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/09)",USA NHL 19 :
 http://supersonictv.live:8080/live/864072/196529/83001.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/08)",USA NHL20 :
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/09)",USA NHL20 :
 http://supersonictv.live:8080/live/864072/196529/83002.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/08)",USA NHL21:
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/09)",USA NHL21:
 http://supersonictv.live:8080/live/864072/196529/83003.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/08)",USA NHL22 :
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/09)",USA NHL22 :
 http://supersonictv.live:8080/live/864072/196529/83004.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/08)",USA NHL23:
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/09)",USA NHL23:
 http://supersonictv.live:8080/live/864072/196529/83005.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/08)",USA NHL24:
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/09)",USA NHL24:
 http://supersonictv.live:8080/live/864072/196529/83006.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/08)",USA NHL  25 :
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/09)",USA NHL  25 :
 http://supersonictv.live:8080/live/864072/196529/83007.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/08)",USA NHL26 :
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/09)",USA NHL26 :
 http://supersonictv.live:8080/live/864072/196529/83008.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/08)",USA NHL 27:
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/09)",USA NHL 27:
 http://supersonictv.live:8080/live/864072/196529/83009.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/08)",USA NHL28:
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/09)",USA NHL28:
 http://supersonictv.live:8080/live/864072/196529/83010.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/08)",USA NHL29:
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/09)",USA NHL29:
 http://supersonictv.live:8080/live/864072/196529/83011.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/08)",USA NHL30:
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/09)",USA NHL30:
 http://supersonictv.live:8080/live/864072/196529/83012.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/08)",USA NHL31:   : NCAA Men's Hockey UMass Lowell vs. #14 Boston College @ 7:00 pm
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/09)",USA NHL31:   : NCAA Men's Hockey UMass Lowell vs. #14 Boston College @ 7:00 pm
 http://supersonictv.live:8080/live/864072/196529/83013.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/08)",USA NHL32:    NCAA Women's Hockey Boston College vs. #6 Northeastern @ 1:30 pm
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/09)",USA NHL32:    NCAA Women's Hockey Boston College vs. #6 Northeastern @ 1:30 pm
 http://supersonictv.live:8080/live/864072/196529/83014.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/08)",USA NHL33:   NCAA Women's Hockey Providence vs. Merrimack @ 2:00 pm
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/09)",USA NHL33:   NCAA Women's Hockey Providence vs. Merrimack @ 2:00 pm
 http://supersonictv.live:8080/live/864072/196529/83015.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/08)",USA NHL34:  NCAA Women's Hockey Maine vs. New Hampshire @ 2:00 pm
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/09)",USA NHL34:  NCAA Women's Hockey Maine vs. New Hampshire @ 2:00 pm
 http://supersonictv.live:8080/live/864072/196529/83016.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/08)",USA NHL35:    NCAA Women's Hockey St. Lawrence vs. #10 Clarkson @ 2:00 pm
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/09)",USA NHL35:    NCAA Women's Hockey St. Lawrence vs. #10 Clarkson @ 2:00 pm
 http://supersonictv.live:8080/live/864072/196529/83017.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/08)",USA NHL36:  NCAA Women's Hockey Holy Cross vs. Vermont @ 2:00 pm
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/09)",USA NHL36:  NCAA Women's Hockey Holy Cross vs. Vermont @ 2:00 pm
 http://supersonictv.live:8080/live/864072/196529/83018.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/08)",USA NHL37:  NCAA Women's Hockey RPI vs. Harvard @ 3:00 pm
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/09)",USA NHL37:  NCAA Women's Hockey RPI vs. Harvard @ 3:00 pm
 http://supersonictv.live:8080/live/864072/196529/83019.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/08)",USA NHL38: NCAA Women's Hockey #9 Quinnipiac vs. #15 Colgate @ 3:00 pm
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/09)",USA NHL38: NCAA Women's Hockey #9 Quinnipiac vs. #15 Colgate @ 3:00 pm
 http://supersonictv.live:8080/live/864072/196529/83020.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/08)",USA NHL39:  NCAA Women's Hockey Yale vs. #13 Brown @ 3:00 pm
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/09)",USA NHL39:  NCAA Women's Hockey Yale vs. #13 Brown @ 3:00 pm
 http://supersonictv.live:8080/live/864072/196529/83021.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/08)",USA NHL40:  NCAA Women's Hockey Union vs. Dartmouth @ 3:00 pm
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/09)",USA NHL40:  NCAA Women's Hockey Union vs. Dartmouth @ 3:00 pm
 http://supersonictv.live:8080/live/864072/196529/83022.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/08)",USA NHL41:   NCAA Women's Hockey #11 Princeton vs. #8 Cornell @ 3:00 pm
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/09)",USA NHL41:   NCAA Women's Hockey #11 Princeton vs. #8 Cornell @ 3:00 pm
 http://supersonictv.live:8080/live/864072/196529/83023.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/08)",USA NHL42:   NCAA Women's Hockey #7 UConn vs. Boston University @ 4:00 pm
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/09)",USA NHL42:   NCAA Women's Hockey #7 UConn vs. Boston University @ 4:00 pm
 http://supersonictv.live:8080/live/864072/196529/83024.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/08)",USA NHL43:
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/09)",USA NHL43:
 http://supersonictv.live:8080/live/864072/196529/83025.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/08)",USA NHL44:
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/09)",USA NHL44:
 http://supersonictv.live:8080/live/864072/196529/83026.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/08)",USA NHL45:
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/09)",USA NHL45:
 http://supersonictv.live:8080/live/864072/196529/83027.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/08)",USA NHL46:
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/09)",USA NHL46:
 http://supersonictv.live:8080/live/864072/196529/83028.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/08)",USA NHL47:
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/09)",USA NHL47:
 http://supersonictv.live:8080/live/864072/196529/83029.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/08)",USA NHL48:
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/09)",USA NHL48:
 http://supersonictv.live:8080/live/864072/196529/83030.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/08)",USA NHL49:
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/09)",USA NHL49:
 http://supersonictv.live:8080/live/864072/196529/83031.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/08)",USA NHL50:
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (12/09)",USA NHL50:
 http://supersonictv.live:8080/live/864072/196529/83032.m3u8
 
 # --- OTHER SPORTS (US+UK+CA) (96) ---
@@ -14256,9 +14254,9 @@ http://supersonictv.live:8080/live/864072/196529/86260.m3u8
 http://supersonictv.live:8080/live/864072/196529/86261.m3u8
 
 # --- PPV BACKUP (12/06) (22) ---
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV BACKUP (12/06)",PPV 01 | WWE RAW @ 08:00 PM EST
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV BACKUP (12/06)",PPV 01 |
 http://supersonictv.live:8080/live/864072/196529/86529.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV BACKUP (12/06)",PPV 02 |  Lincoln Speedway (PA) @ 08:00 PM EST
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV BACKUP (12/06)",PPV 02 |
 http://supersonictv.live:8080/live/864072/196529/86530.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV BACKUP (12/06)",PPV 03 |
 http://supersonictv.live:8080/live/864072/196529/86531.m3u8
@@ -14346,11 +14344,11 @@ http://supersonictv.live:8080/live/864072/196529/87686.m3u8
 http://supersonictv.live:8080/live/864072/196529/87687.m3u8
 
 # --- PPV XTRA (12/08) (25) ---
-#EXTINF:-1 tvg-logo="" group-title="PPV XTRA (12/08)",PPV XTRA 01 | WWE WARGAMES
+#EXTINF:-1 tvg-logo="" group-title="PPV XTRA (12/08)",PPV XTRA 01 |
 http://supersonictv.live:8080/live/864072/196529/88357.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV XTRA (12/08)",PPV XTRA 02 | 8PM WWE MONDAY NIGHT RAW
+#EXTINF:-1 tvg-logo="" group-title="PPV XTRA (12/08)",PPV XTRA 02 |
 http://supersonictv.live:8080/live/864072/196529/88358.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV XTRA (12/08)",PPV XTRA 03 |  WWE MONDAY NIGHT RAW (12.8 8:00 PM ET)  WWE
+#EXTINF:-1 tvg-logo="" group-title="PPV XTRA (12/08)",PPV XTRA 03 |
 http://supersonictv.live:8080/live/864072/196529/88359.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PPV XTRA (12/08)",PPV XTRA 04 |
 http://supersonictv.live:8080/live/864072/196529/88360.m3u8
@@ -14516,9 +14514,9 @@ http://supersonictv.live:8080/live/864072/196529/61186.m3u8
 http://supersonictv.live:8080/live/864072/196529/61187.m3u8
 
 # --- RACE EVENTS (12/06) (19) ---
-#EXTINF:-1 tvg-logo="" group-title="RACE EVENTS (12/06)",RACE 01 | FLO | SNOWBALL DERBY FIVE FLAGS (12.8 1:30 PM ET)
+#EXTINF:-1 tvg-logo="" group-title="RACE EVENTS (12/06)",RACE 01 |
 http://supersonictv.live:8080/live/864072/196529/88382.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RACE EVENTS (12/06)",RACE 02 | FLO | LINCOLN SPEEDWAY (12.8 8:00 PM ET)
+#EXTINF:-1 tvg-logo="" group-title="RACE EVENTS (12/06)",RACE 02 |
 http://supersonictv.live:8080/live/864072/196529/88383.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RACE EVENTS (12/06)",RACE 03 |
 http://supersonictv.live:8080/live/864072/196529/88384.m3u8
@@ -14833,146 +14831,146 @@ http://supersonictv.live:8080/live/864072/196529/84001.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ROMANIA",[RO]  ProTV International
 http://supersonictv.live:8080/live/864072/196529/84002.m3u8
 
-# --- SOCCER LIVE GAME (12/08) (70) ---
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e7/d7/19/e7d7190f0b5b3abd4f6c17e2c7989ec3.jpg" group-title="SOCCER LIVE GAME (12/08)",Soccer01  :  England - Premier League : Wolverhampton Wanderers vs Manchester United @ 03:00pm EST
+# --- SOCCER LIVE GAME (12/09) (70) ---
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e7/d7/19/e7d7190f0b5b3abd4f6c17e2c7989ec3.jpg" group-title="SOCCER LIVE GAME (12/09)",Soccer01  :  Europe - UEFA Champions League : Bayern München vs Sporting CP @ 12:45pm EST
 http://supersonictv.live:8080/live/864072/196529/87761.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/08)",Soccer02 :  Italy - Serie A : Pisa vs Parma @ 09:00am EST
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/09)",Soccer02 :  Europe - UEFA Champions League : PSV vs Atlético Madrid @ 03:00pm EST
 http://supersonictv.live:8080/live/864072/196529/87762.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/08)",Soccer03 :   Italy - Serie A : Udinese vs Genoa @ 12:00pm EST
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/09)",Soccer03 :   Europe - UEFA Champions League : Internazionale vs Liverpool @ 03:00pm EST
 http://supersonictv.live:8080/live/864072/196529/87763.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/08)",Soccer04 :   Italy - Serie A : Torino vs Milan @ 02:45pm EST
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/09)",Soccer04 :  Europe - UEFA Champions League : Barcelona vs Eintracht Frankfurt @ 03:00pm EST
 http://supersonictv.live:8080/live/864072/196529/87764.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/08)",Soccer 05 :   Portugal - Primeira Liga : Vitória Guimarães vs Gil Vicente @ 03:30pm EST
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/09)",Soccer 05 :
 http://supersonictv.live:8080/live/864072/196529/87765.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/08)",Soccer06 :
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/09)",Soccer06 :
 http://supersonictv.live:8080/live/864072/196529/87766.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/08)",Soccer07 :
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/09)",Soccer07 :
 http://supersonictv.live:8080/live/864072/196529/87767.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/08)",Soccer08 :
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/09)",Soccer08 :
 http://supersonictv.live:8080/live/864072/196529/87768.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/08)",Soccer09 :
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/09)",Soccer09 :
 http://supersonictv.live:8080/live/864072/196529/87769.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/08)",Soccer10 :
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/09)",Soccer10 :
 http://supersonictv.live:8080/live/864072/196529/87770.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/08)",Soccer11 :
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/09)",Soccer11 :
 http://supersonictv.live:8080/live/864072/196529/87771.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/08)",Soccer12 :
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/09)",Soccer12 :
 http://supersonictv.live:8080/live/864072/196529/87772.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/08)",Soccer13 :
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/09)",Soccer13 :
 http://supersonictv.live:8080/live/864072/196529/87773.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/08)",Soccer14:
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/09)",Soccer14:
 http://supersonictv.live:8080/live/864072/196529/87774.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/08)",Soccer15 :
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/09)",Soccer15 :
 http://supersonictv.live:8080/live/864072/196529/87775.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/08)",Soccer16 :
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/09)",Soccer16 :
 http://supersonictv.live:8080/live/864072/196529/87776.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/08)",Soccer17 :
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/09)",Soccer17 :
 http://supersonictv.live:8080/live/864072/196529/87777.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/08)",Soccer18 :
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/09)",Soccer18 :
 http://supersonictv.live:8080/live/864072/196529/87778.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/08)",Soccer19 :
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/09)",Soccer19 :
 http://supersonictv.live:8080/live/864072/196529/87779.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/08)",Soccer20 :
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/09)",Soccer20 :
 http://supersonictv.live:8080/live/864072/196529/87780.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/08)",Soccer21:
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/09)",Soccer21:
 http://supersonictv.live:8080/live/864072/196529/87781.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/08)",Soccer22:
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/09)",Soccer22:
 http://supersonictv.live:8080/live/864072/196529/87782.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/08)",Soccer23:
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/09)",Soccer23:
 http://supersonictv.live:8080/live/864072/196529/87783.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/08)",Soccer24:
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/09)",Soccer24:
 http://supersonictv.live:8080/live/864072/196529/87784.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/08)",Soccer25:
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/09)",Soccer25:
 http://supersonictv.live:8080/live/864072/196529/87785.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/08)",Soccer26:
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/09)",Soccer26:
 http://supersonictv.live:8080/live/864072/196529/87786.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/08)",Soccer27 :
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/09)",Soccer27 :
 http://supersonictv.live:8080/live/864072/196529/87787.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/08)",Soccer28:
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/09)",Soccer28:
 http://supersonictv.live:8080/live/864072/196529/87788.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/08)",Soccer29 :
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/09)",Soccer29 :
 http://supersonictv.live:8080/live/864072/196529/87789.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/08)",Soccer30:
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (12/09)",Soccer30:
 http://supersonictv.live:8080/live/864072/196529/87790.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/08)",Soccer31:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/09)",Soccer31:
 http://supersonictv.live:8080/live/864072/196529/87791.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/08)",Soccer32:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/09)",Soccer32:
 http://supersonictv.live:8080/live/864072/196529/87792.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/08)",Soccer33:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/09)",Soccer33:
 http://supersonictv.live:8080/live/864072/196529/87793.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/08)",Soccer34 :
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/09)",Soccer34 :
 http://supersonictv.live:8080/live/864072/196529/87794.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/08)",Soccer35:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/09)",Soccer35:
 http://supersonictv.live:8080/live/864072/196529/87795.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/08)",Soccer36:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/09)",Soccer36:
 http://supersonictv.live:8080/live/864072/196529/87796.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/08)",Soccer37:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/09)",Soccer37:
 http://supersonictv.live:8080/live/864072/196529/87797.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/08)",Soccer38:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/09)",Soccer38:
 http://supersonictv.live:8080/live/864072/196529/87798.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/08)",Soccer39:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/09)",Soccer39:
 http://supersonictv.live:8080/live/864072/196529/87799.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/08)",Soccer40:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/09)",Soccer40:
 http://supersonictv.live:8080/live/864072/196529/87800.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/08)",Soccer41:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/09)",Soccer41:
 http://supersonictv.live:8080/live/864072/196529/87801.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/08)",Soccer42:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/09)",Soccer42:
 http://supersonictv.live:8080/live/864072/196529/87802.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/08)",Soccer43:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/09)",Soccer43:
 http://supersonictv.live:8080/live/864072/196529/87803.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/08)",Soccer44:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/09)",Soccer44:
 http://supersonictv.live:8080/live/864072/196529/87804.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/08)",Soccer45:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/09)",Soccer45:
 http://supersonictv.live:8080/live/864072/196529/87805.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/08)",Soccer46:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/09)",Soccer46:
 http://supersonictv.live:8080/live/864072/196529/87806.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/08)",Soccer47:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/09)",Soccer47:
 http://supersonictv.live:8080/live/864072/196529/87807.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/08)",Soccer48:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/09)",Soccer48:
 http://supersonictv.live:8080/live/864072/196529/87808.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/08)",Soccer49:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/09)",Soccer49:
 http://supersonictv.live:8080/live/864072/196529/87809.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/08)",Soccer50:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/09)",Soccer50:
 http://supersonictv.live:8080/live/864072/196529/87810.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/08)",Soccer51:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/09)",Soccer51:
 http://supersonictv.live:8080/live/864072/196529/87811.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/08)",Soccer52:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/09)",Soccer52:
 http://supersonictv.live:8080/live/864072/196529/87812.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/08)",Soccer53:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/09)",Soccer53:
 http://supersonictv.live:8080/live/864072/196529/87813.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/08)",Soccer54:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/09)",Soccer54:
 http://supersonictv.live:8080/live/864072/196529/87814.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/08)",Soccer55:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/09)",Soccer55:
 http://supersonictv.live:8080/live/864072/196529/87815.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/08)",Soccer56:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/09)",Soccer56:
 http://supersonictv.live:8080/live/864072/196529/87816.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/08)",Soccer57:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/09)",Soccer57:
 http://supersonictv.live:8080/live/864072/196529/87817.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/08)",Soccer58:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/09)",Soccer58:
 http://supersonictv.live:8080/live/864072/196529/87818.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/08)",Soccer59:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/09)",Soccer59:
 http://supersonictv.live:8080/live/864072/196529/87819.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/08)",Soccer60:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/09)",Soccer60:
 http://supersonictv.live:8080/live/864072/196529/87820.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/08)",Soccer61:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/09)",Soccer61:
 http://supersonictv.live:8080/live/864072/196529/87821.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/08)",Soccer62:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/09)",Soccer62:
 http://supersonictv.live:8080/live/864072/196529/87822.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/08)",Soccer63:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/09)",Soccer63:
 http://supersonictv.live:8080/live/864072/196529/87823.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/08)",Soccer64:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/09)",Soccer64:
 http://supersonictv.live:8080/live/864072/196529/87824.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/08)",Soccer65:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/09)",Soccer65:
 http://supersonictv.live:8080/live/864072/196529/87825.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/08)",Soccer66 :
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/09)",Soccer66 :
 http://supersonictv.live:8080/live/864072/196529/87826.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/08)",Soccer67:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/09)",Soccer67:
 http://supersonictv.live:8080/live/864072/196529/87827.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/08)",Soccer68:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/09)",Soccer68:
 http://supersonictv.live:8080/live/864072/196529/87828.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/08)",Soccer69:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/09)",Soccer69:
 http://supersonictv.live:8080/live/864072/196529/87829.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/08)",Soccer70:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (12/09)",Soccer70:
 http://supersonictv.live:8080/live/864072/196529/87830.m3u8
 
 # --- SPAIN (81) ---
@@ -17991,4 +17989,4 @@ http://supersonictv.live:8080/live/864072/196529/87663.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gPiW5XF.png" group-title="XFL",XFL08 :
 http://supersonictv.live:8080/live/864072/196529/87664.m3u8
 
-# Total: 8924
+# Total: 8923

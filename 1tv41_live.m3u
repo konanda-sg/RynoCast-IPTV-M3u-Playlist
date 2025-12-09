@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 1tv41.icu:8080
-# Generated: 2025-12-09 07:03:10
+# Generated: 2025-12-09 18:37:35
 # Expires: 2026-05-07
 # Family Safe Edition
 # ==============================================
@@ -535,7 +535,7 @@ http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/164950.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BRAZIL",BR: TNT SERIES HD
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/164958.m3u8
 
-# --- CANADA (171) ---
+# --- CANADA (169) ---
 #EXTINF:-1 tvg-logo="" group-title="CANADA",CA : APTN
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/57320.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANADA",CA: A&E
@@ -732,8 +732,6 @@ http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/57368.m3u8
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/57281.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANADA",CA: National Geographic  HD
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/47338.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANADA",CA National Geographic Wild (R)
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/57450.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANADA",CA National Geographic Wild
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/57280.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANADA",CA: NATIONAL GEOGRAPHIC
@@ -778,8 +776,6 @@ http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/47387.m3u8
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/57300.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANADA",CA CTV SCI-FI
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/57464.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANADA",CA: TFO  (FR)
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/57291.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANADA",CA TLC
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/57290.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANADA",CA : The Shopping Channel (B)
@@ -879,7 +875,7 @@ http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/216100.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANADA",CA CBC  New Brunswick / Fredericton NB
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/217655.m3u8
 
-# --- Canada French (30) ---
+# --- Canada French (31) ---
 #EXTINF:-1 tvg-logo="https://matawinie.cooptel.ca/wp-content/uploads/2016/06/Cin%C3%A9Pop.png" group-title="Canada French",CA (FR) CinePOP SD (P)
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/57480.m3u8
 #EXTINF:-1 tvg-logo="https://m1.quebecormedia.com/static/evasion_logo-7c49c3a9c47d4091914548733608e3c4.png" group-title="Canada French",CA (FR) Evasion SD (P)
@@ -928,6 +924,8 @@ http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/57502.m3u8
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/57288.m3u8
 #EXTINF:-1 tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_rdsinfo.png" group-title="Canada French",CA (FR) RDS (R)
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/57325.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canada French",CA: TFO  (FR)
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/57291.m3u8
 #EXTINF:-1 tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/telequebec.png" group-title="Canada French",CA:TELE QUEBEC (FR)
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/57336.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Tva_quebec_logo_detail.png" group-title="Canada French",CA (FR) TVA Sports 2
@@ -3387,51 +3385,11 @@ http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/17779.m3u8
 #EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US Starz West (S)
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/21091.m3u8
 
-# --- NBA (11) ---
+# --- NBA (2) ---
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",CA-NBA TV
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/22995.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",USA: NBA TV
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/20073.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 01: Sacramento Kings @ Indiana Pacers | Home Stream | 12/08/2025 7:00 PM ET
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/257001.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 01: Sacramento Kings vs Indiana Pacers @ 07:00 PM EST
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/257002.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 02: Sacramento Kings @ Indiana Pacers | Away Stream | 12/08/2025 7:00 PM ET
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/257003.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 02: Phoenix Suns vs Minnesota Timberwolves @ 07:30 PM EST
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/257004.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 03: Phoenix Suns @ Minnesota Timberwolves | Home Stream | 12/08/2025 7:30 PM ET
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/257005.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 03: San Antonio Spurs vs New Orleans Pelicans @ 08:00 PM EST
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/257006.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 04: Phoenix Suns @ Minnesota Timberwolves | Away Stream | 12/08/2025 7:30 PM ET
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/257007.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 05: San Antonio Spurs @ New Orleans Pelicans | Home Stream | 12/08/2025 8:00 PM ET
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/257008.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 06: San Antonio Spurs @ New Orleans Pelicans | Away Stream | 12/08/2025 8:00 PM ET
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/257009.m3u8
-
-# --- NCAAB (10) ---
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 001 | SOUTHERN WESLEYAN @ KENNESAW STATE (M) | 12.8 12:00 PM | ESPN+
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/257017.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 002 | LAFAYETTE @ PENNSYLVANIA (M) | 12.8 6:00 PM | ESPN+
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/257018.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 003 | UALBANY @ COLGATE (W) | 12.8 6:00 PM | ESPN+
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/257019.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 004 | NORFOLK STATE @ GEORGIA TECH (W) | 12.8 7:00 PM | ACC EXTRA
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/257020.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 005 | SOUTH CAROLINA STATE @ CHARLESTON SOUTHERN (M) | 12.8 7:00 PM | ESPN+
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/257021.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 006 | TEXAS SOUTHERN @ 25 WEST VIRGINIA (W) | 12.8 7:00 PM | ESPN+
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/257022.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 007 | GRAMBLING @ SOUTHERN MISS (M) | 12.8 8:00 PM | ESPN+
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/257023.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 008 | INCARNATE WORD @ NEW ORLEANS (M) | 12.8 8:00 PM | ESPN+
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/257024.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 009 | MISSISSIPPI VALLEY STATE @ KANSAS STATE (M) | 12.8 8:00 PM | ESPN+
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/257025.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 010 | SOUTHERN @ TEXAS (M) | 12.8 8:00 PM | SEC NETWORK
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/257026.m3u8
 
 # --- NFL (23) ---
 #EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/5438735-nfl-team-logos-transparent-png-history-logos-lists-brands-nfl-logo-png-300_300_preview.png" group-title="NFL",US NFL Network
@@ -3481,23 +3439,9 @@ http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/253677.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NFL",NFL 01: Baltimore Ravens at Miami Dolphins 8:15pm
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/253678.m3u8
 
-# --- NHL (8) ---
+# --- NHL (1) ---
 #EXTINF:-1 tvg-logo="" group-title="NHL",US NHL Network
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/253636.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 01: TBL VS TOR (NHLN Feed ) @ 7:30 pm
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/257010.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 02: TBL VS TOR (Prime Feed ) @ 7:30 pm
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/257011.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 03: TBL VS TOR (TVAS Feed ) @ 7:30 pm
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/257012.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 04: BUF VS CGY (SNW Feed ) @ 9:00 pm
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/257013.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 05: DET VS VAN (TVAS Feed ) @ 10:00 pm
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/257014.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 06: Los Angeles Kings vs Utah Mammoth @ 09:00 PM
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/257015.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 07: Minnesota Wild vs Seattle Kraken @ 10:00 PM
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/257016.m3u8
 
 # --- PERU (7) ---
 #EXTINF:-1 tvg-logo="" group-title="PERU",PE: PANAMERICANA HD
@@ -12450,7 +12394,7 @@ http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/120663.m3u8
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/120664.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",US Telemundo (KDEN) Parker
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/120665.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",NBC: CO PUEBLO KOAA
+#EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",US NBC 5 (KOAA) Pueblo (D)
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/120666.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",CT | Hartford | CBS WFSB
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/120667.m3u8
@@ -12468,7 +12412,7 @@ http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/120672.m3u8
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/120673.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",NBC: FL PANAMA CITY WJHG
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/120674.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",CBS: FL ST. PETERSBURG WTSP
+#EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",US CBS 10 (WTSP) Tampa/Saint Petersburg (H)
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/120675.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",US NBC (WPTV) West Palm Beach
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/120676.m3u8
@@ -12492,7 +12436,7 @@ http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/120684.m3u8
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/120685.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",NBC: ID TWIN FALLS KTFT
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/120686.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",US CBS (WCIA) Champaign
+#EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",US CBS 3 (WCIA) Springfield (H)
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/120687.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",US CBS (WBBM) Chicago
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/120688.m3u8
@@ -12674,7 +12618,7 @@ http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/120777.m3u8
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/120778.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",US NBC (WPXI) Pittsburgh
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/120779.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",RI | Providence | FOX WNAC
+#EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",US FOX 64 (WNAC) Providence/New Bedford (H)
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/120780.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",RI | Providence | | WJAR
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/120781.m3u8
@@ -13156,9 +13100,9 @@ http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/149745.m3u8
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/154792.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",CBS: LA LAFAYETTE KLFY
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/158058.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",LOC | TX | BEAUMONT-PORT ARTHUR | CBS KFDM
+#EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",US CBS 6 (KFDM) Beaumont/Port Arthur (H)
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/158059.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",US ABC 12 (KBMT) Port Arthur (H)
+#EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",US ABC (KBMT) Beaumont (D)
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/158060.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",US ABC (KSTP) Minneapolis/St. paul
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/158481.m3u8
@@ -13325,4 +13269,4 @@ http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/121046.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Vietnam",VN DA NANG 1 HD
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/121048.m3u8
 
-# Total: 6623
+# Total: 6596

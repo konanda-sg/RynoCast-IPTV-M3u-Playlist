@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: cdn4k.us:80
-# Generated: 2025-12-09 07:04:52
+# Generated: 2025-12-09 18:33:32
 # Expires: 2025-12-15
 # Family Safe Edition
 # ==============================================
@@ -1133,26 +1133,34 @@ http://cdn4k.us:80/live/Adrianobrito16/910989645a/6546.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4k.store/logos/id.png" group-title="DISCOVERY",Investigação Discovery SD²
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/100517.m3u8
 
-# --- DISNEY+ (25) ---
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/cb0c01fd-fbf2-4817-8c5a-12ba4b240df2/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="DISNEY+",#3 Florida State x #1 Stanford (Championship)
+# --- DISNEY+ (29) ---
+#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Minnesota Wild x Seattle Kraken
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/346368.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019ae5be-f130-75e6-93a2-c95231552ffb/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="DISNEY+",Tampa Bay Lightning x Toronto Maple Leafs
+#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Tampa Bay Lightning x Toronto Maple Leafs
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/346369.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019ae9be-8772-7241-8b43-948c93fe4027/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="DISNEY+",Phoenix Suns x Minnesota Timberwolves
+#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Los Angeles Kings x Utah Mammoth
+http://cdn4k.us:80/live/Adrianobrito16/910989645a/346370.m3u8
+#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Phoenix Suns x Minnesota Timberwolves
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/346371.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019ae5be-f130-75e6-93a2-c95231552ffb/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="DISNEY+",Tampa Bay Lightning x Toronto Maple Leafs
+#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Tampa Bay Lightning x Toronto Maple Leafs
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/346372.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Torino x Milan
+#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Philadelphia Eagles x Los Angeles Chargers
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/346373.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Vitória de Guimarães x Gil Vicente
+#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Philadelphia Eagles x Los Angeles Chargers
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/346374.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Ao Vivo: Vitória de Guimarães x Gil Vicente |  Liga Portugal |  (Xsports)
+#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Austin Spurs x Capitanes de Ciudad de México
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/346375.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Vegas Golden Knights x New York Rangers
+#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Buffalo Sabres x Calgary Flames
+http://cdn4k.us:80/live/Adrianobrito16/910989645a/346376.m3u8
+#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Los Angeles Kings x Utah Mammoth
+http://cdn4k.us:80/live/Adrianobrito16/910989645a/346377.m3u8
+#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Buffalo Sabres x Calgary Flames
+http://cdn4k.us:80/live/Adrianobrito16/910989645a/346378.m3u8
+#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Minnesota Wild x Seattle Kraken
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/346379.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",UTEP x Seattle U
+#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Detroit Red Wings x Vancouver Canucks
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/346380.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Chicago Blackhawks x Anaheim Ducks
+#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Detroit Red Wings x Vancouver Canucks
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/346381.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Boca Juniors x Racing Club
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/346382.m3u8
@@ -2807,58 +2815,54 @@ http://cdn4k.us:80/live/Adrianobrito16/910989645a/100488.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4k.store/logos/zoomoo.png" group-title="INFANTIS",Zoomoo SD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/100489.m3u8
 
-# --- JOGOS DO DIA (60) ---
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Pisa x Parma - 11:00 FHD
+# --- JOGOS DO DIA (58) ---
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Kairat Almaty x Olympiacos FC - 12:30 FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355630.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Pisa x Parma - 11:00 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Kairat Almaty x Olympiacos FC - 12:30 HD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355631.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Udinese x Genoa - 14:00 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",FC Bayern München x Sporting CP - 14:45 FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355632.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Udinese x Genoa - 14:00 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",FC Bayern München x Sporting CP - 14:45 HD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355633.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Brackley Town x Burton Albion - 16:30 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",SKN St. Pölten x Juventus - 14:45 FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355634.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Brackley Town x Burton Albion - 16:30 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",SKN St. Pölten x Juventus - 14:45 HD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355635.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Torino x Milan - 16:45 FHD
-http://cdn4k.us:80/live/Adrianobrito16/910989645a/355636.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Torino x Milan - 16:45 HD
-http://cdn4k.us:80/live/Adrianobrito16/910989645a/355637.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Wolverhampton x Manchester United - 17:00 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Royale Union Saint-Gilloise x Olympique de Marseille - 17:00 FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355638.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Wolverhampton x Manchester United - 17:00 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Royale Union Saint-Gilloise x Olympique de Marseille - 17:00 HD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355639.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Osasuna x Levante UD - 17:00 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",PSV Eindhoven x Atlético Madrid - 17:00 FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355640.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Osasuna x Levante UD - 17:00 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",PSV Eindhoven x Atlético Madrid - 17:00 HD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355641.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Gimnasia y Esgrima x Estudiantes de La Plata - 17:00 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Arsenal x FC Twente Vrouwen - 17:00 FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355642.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Gimnasia y Esgrima x Estudiantes de La Plata - 17:00 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Arsenal x FC Twente Vrouwen - 17:00 HD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355643.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Vitória SC x Gil Vicente - 17:30 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Real Madrid x VfL Wolfsburg - 17:00 FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355644.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Vitória SC x Gil Vicente - 17:30 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Real Madrid x VfL Wolfsburg - 17:00 HD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355645.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Inter x Liverpool - 17:00 FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355646.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Inter x Liverpool - 17:00 HD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355647.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Barcelona x Eintracht Frankfurt - 17:00 FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355648.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Barcelona x Eintracht Frankfurt - 17:00 HD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355649.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Atalanta x Chelsea - 17:00 FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355650.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Atalanta x Chelsea - 17:00 HD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355651.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",AS Monaco x Galatasaray - 17:00 FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355652.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",AS Monaco x Galatasaray - 17:00 HD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355653.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",América Mineiro Sub-20 x São Paulo Sub-20 - 20:00 FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355654.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",América Mineiro Sub-20 x São Paulo Sub-20 - 20:00 HD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355655.m3u8
 #EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355656.m3u8
@@ -4453,4 +4457,4 @@ http://cdn4k.us:80/live/Adrianobrito16/910989645a/155608.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4k.store/logos/YOUTUBE-24HS.png" group-title="YOUTUBE 24 HORAS",Partoba
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/155606.m3u8
 
-# Total: 2178
+# Total: 2180

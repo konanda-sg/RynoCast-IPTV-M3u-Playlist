@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: siptvs.com:8080
-# Generated: 2025-12-09 07:11:07
+# Generated: 2025-12-09 18:28:18
 # Expires: 2026-05-16
 # Family Safe Edition
 # ==============================================
@@ -11039,7 +11039,7 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/189305.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3Ri4XxXNCUKwlZWXgoVNftF7GIY.jpg" group-title="Movies | |DE| SCI-FI / FANTASY",Divinity (2023)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/191685.mkv
 
-# --- Movies | |DE| SERIEN (726) ---
+# --- Movies | |DE| SERIEN (729) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | |DE| SERIEN",Dragonball
 http://siptvs.com:8080/movie/Biljana12/Biljana12/11.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |DE| SERIEN",Dragonball Z Kai
@@ -12492,6 +12492,12 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/2270.mp4
 http://siptvs.com:8080/movie/Biljana12/Biljana12/2271.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |DE| SERIEN",DE: Marvel Zombies (2025)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/2272.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | |DE| SERIEN",DE: Frischer Wind (2025)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/2274.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | |DE| SERIEN",DE: Alphamännchen (2025)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/2275.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | |DE| SERIEN",DE: Monster: Die Geschichte von Ed Gein (2025)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/2276.mp4
 
 # --- Movies | |DE| THRILLER (19) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYNuJd1vHOtHyeKoO87ehsGpBva.jpg" group-title="Movies | |DE| THRILLER",Nomis - Die Nacht des Jägers (2019)
@@ -16551,7 +16557,7 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/196022.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2uM9l3xKXjudOJMJsreEbTB4P4s.jpg" group-title="Movies | |EXYU| DOKUMENTARNI FILMOVI",Mr. Football (2025)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/196803.mp4
 
-# --- Movies | |EXYU| DOMACE SERIJE (208) ---
+# --- Movies | |EXYU| DOMACE SERIJE (209) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| DOMACE SERIJE",Dobro Jutro Komšija
 http://siptvs.com:8080/movie/Biljana12/Biljana12/2.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| DOMACE SERIJE",Tajkun
@@ -16968,6 +16974,8 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/2231.mp4
 http://siptvs.com:8080/movie/Biljana12/Biljana12/2248.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| DOMACE SERIJE",Komar (2024)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/2269.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| DOMACE SERIJE",Čudne Ljubavi
+http://siptvs.com:8080/movie/Biljana12/Biljana12/2273.mp4
 
 # --- Movies | |EXYU| DOMACI FILMOVI (675) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ITGg0QV9oMxpbboV49C657i6v0.jpg" group-title="Movies | |EXYU| DOMACI FILMOVI",1 na 1 (2002)
@@ -32473,4 +32481,4 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/179055.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c44zM4fWJ55ImcEnqf7UL4dsCSB.jpg" group-title="Movies | |MU| MUSIC/CONCERTE",Avicii - Mein letztes Konzert (2024)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/181880.mkv
 
-# Total: 16173
+# Total: 16177

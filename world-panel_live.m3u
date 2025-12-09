@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: world-panel.co:8080
-# Generated: 2025-12-09 07:02:02
+# Generated: 2025-12-09 18:35:35
 # Expires: 2026-03-09
 # Family Safe Edition
 # ==============================================
@@ -1552,7 +1552,7 @@ http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/120.m3u8
 http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/117.m3u8
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/001030ce5a7d5216cf72472e0e9202e5.png" group-title="TIVUSAT",RAI  Scuola
 http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/119.m3u8
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/sanmarino.png" group-title="TIVUSAT",San Marino tv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/sanmarino.png" group-title="TIVUSAT",Videolina
 http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/62065.m3u8
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/seven.png" group-title="TIVUSAT",Twenty Seven HD
 http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/10605.m3u8

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: italians-app.net:8080
-# Generated: 2025-12-09 07:08:32
+# Generated: 2025-12-09 18:33:13
 # Expires: 2026-01-21
 # Family Safe Edition
 # ==============================================
@@ -1520,7 +1520,7 @@ http://italians-app.net:8080/live/hele/cart@/121.m3u8
 http://italians-app.net:8080/live/hele/cart@/10605.m3u8
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/01d02e67374273af80ed14d9a96b28cf.png" group-title="TIVUSAT",Tv2000
 http://italians-app.net:8080/live/hele/cart@/16145.m3u8
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/sanmarino.png" group-title="TIVUSAT",San Marino tv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/sanmarino.png" group-title="TIVUSAT",Videolina
 http://italians-app.net:8080/live/hele/cart@/62065.m3u8
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/rtmmanduria.png" group-title="TIVUSAT",RTM Manduria
 http://italians-app.net:8080/live/hele/cart@/48216.m3u8

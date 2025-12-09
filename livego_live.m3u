@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: livego.club:8080
-# Generated: 2025-12-09 07:08:33
+# Generated: 2025-12-09 18:28:56
 # Expires: 2026-09-06
 # Family Safe Edition
 # ==============================================
@@ -22302,6 +22302,24 @@ http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/3092.m3u8
 http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/3083.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Greece",GR: XalastraTV
 http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/3076.m3u8
+
+# --- Greece - ANT+ (8) ---
+#EXTINF:-1 tvg-logo="" group-title="Greece - ANT+",GR: ANT 1 FHD
+http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/241948.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Greece - ANT+",GR: ANT+ Comedy FHD
+http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/241954.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Greece - ANT+",GR: ANT+ Sports 1 FHD
+http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/241950.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Greece - ANT+",GR: ANT+ Sports 2 FHD
+http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/241951.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Greece - ANT+",GR: ANT+ Sports 3 FHD
+http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/241952.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Greece - ANT+",GR: ANT+ Drama FHD
+http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/241955.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Greece - ANT+",GR: ANT+ Padel FHD
+http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/241953.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Greece - ANT+",GR: MAK FHD
+http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/241949.m3u8
 
 # --- Greece - Cosmote (45) ---
 #EXTINF:-1 tvg-logo="" group-title="Greece - Cosmote",GR: Cosmote Sport 4K
@@ -50815,4 +50833,4 @@ http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/145386.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Vietnam",VN: YTV
 http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/145387.m3u8
 
-# Total: 24919
+# Total: 24927

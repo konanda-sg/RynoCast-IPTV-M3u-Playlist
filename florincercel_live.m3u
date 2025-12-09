@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: florincercel.gotdns.ch:8008
-# Generated: 2025-12-09 07:04:00
+# Generated: 2025-12-09 18:36:52
 # Expires: 2026-01-08
 # Family Safe Edition
 # ==============================================
@@ -1421,7 +1421,7 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/544407.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="FRANTA",FR: A La Carte 10
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/544406.m3u8
 
-# --- GERMANIA (163) ---
+# --- GERMANIA (162) ---
 #EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="GERMANIA",DE: Willkommen bei den Louds
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/544819.m3u8
 #EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="GERMANIA",DE: Wicked Tuna
@@ -1576,8 +1576,6 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/544736.m3u8
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/544735.m3u8
 #EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="GERMANIA",DE: Parlamentsfernsehen 1
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/544734.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GERMANIA",DE: Paranormal
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/544733.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/e97d16253f36fa8d0d1113e8b2f40941.png" group-title="GERMANIA",DE: Out TV
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/544732.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/7175f618ef9693e6ce5b1453a3215069.svg" group-title="GERMANIA",DE: OTVA
@@ -3603,7 +3601,7 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/544912.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c815dddcbb33bd9667b3ba8e3097d139.png" group-title="RUSIA",RU: .Red
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/544910.m3u8
 
-# --- TURCIA (291) ---
+# --- TURCIA (290) ---
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/b88c1f6a0394845c91ab19b6628cf3c0.png" group-title="TURCIA",TR: Yildiz TV En
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/543862.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/104fd9a77dd47a400b7abcf14bcf085a.jpg" group-title="TURCIA",TR: Viyana TV
@@ -3652,8 +3650,6 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/543840.m3u8
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/543839.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-09/27bbb7054a191608f77e997d731df7ba.jpg" group-title="TURCIA",TR: Ordu Buyuksehir Belediyesi (OBB)
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/543838.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-12/9271d610865776795097803187607686.png" group-title="TURCIA",TR: On 6
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/543837.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/289053fa7467b208d2e380e8c4082e07.png" group-title="TURCIA",TR: On 4
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/543836.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8da450b851531d34c941538b8ca884ef.png" group-title="TURCIA",TR: Mercan TV
@@ -8561,4 +8557,4 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/296306.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1Xsq73b1/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FLY AVENTURA ᶠᴴᴰ
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/296305.m3u8
 
-# Total: 4260
+# Total: 4258

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: siptvs.com:8080
-# Generated: 2025-12-09 07:11:07
+# Generated: 2025-12-09 18:28:18
 # Expires: 2026-05-16
 # Family Safe Edition
 # ==============================================
@@ -2351,7 +2351,7 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/190733.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/hajduk.png" group-title="|EXYU| SPORT HR",|HR| HAJDUK TV (TEST)
 http://siptvs.com:8080/live/Biljana12/Biljana12/182952.m3u8
 
-# --- |EXYU| SPORT SL (14) ---
+# --- |EXYU| SPORT SL (13) ---
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/full/eurosport1.png" group-title="|EXYU| SPORT SL",SL: EUROSPORT 1
 http://siptvs.com:8080/live/Biljana12/Biljana12/84982.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/full/eurosport2.png" group-title="|EXYU| SPORT SL",SL: EUROSPORT 2
@@ -2372,8 +2372,6 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/67444.m3u8
 http://siptvs.com:8080/live/Biljana12/Biljana12/67445.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/full/sk3.png" group-title="|EXYU| SPORT SL",SL: SK3
 http://siptvs.com:8080/live/Biljana12/Biljana12/67446.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/full/sk4.png" group-title="|EXYU| SPORT SL",SL: SK4
-http://siptvs.com:8080/live/Biljana12/Biljana12/67447.m3u8
 #EXTINF:-1 tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/sporttv1slovenija.png" group-title="|EXYU| SPORT SL",|SI| SPORT TV 1 ᴴᴰ
 http://siptvs.com:8080/live/Biljana12/Biljana12/35164.m3u8
 #EXTINF:-1 tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/sporttv2slovenija.png" group-title="|EXYU| SPORT SL",|SI| SPORT TV 2 ᴴᴰ
@@ -2989,4 +2987,4 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/85905.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|WSP| WORLD SPORT",MUTV
 http://siptvs.com:8080/live/Biljana12/Biljana12/126239.m3u8
 
-# Total: 1463
+# Total: 1462
