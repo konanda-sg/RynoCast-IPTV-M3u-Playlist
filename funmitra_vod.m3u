@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: funmitra.com:8080
-# Generated: 2025-12-09 07:03:28
+# Generated: 2025-12-10 18:28:54
 # Expires: 2026-04-30
 # Family Safe Edition
 # ==============================================
@@ -483,7 +483,7 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11502.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) Janoschs Traumstunde
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11517.mp4
 
-# --- Movies | (S|DE) Deutsche Serien (1302) ---
+# --- Movies | (S|DE) Deutsche Serien (1304) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) 4 Blocks
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/274.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) American Horror Story
@@ -3088,6 +3088,10 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11520.mp4
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11522.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Thunder In Paradise
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11524.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) BMF
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11531.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Shadowhunters: Chroniken Der Unterwelt
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11532.mp4
 
 # --- Movies | (S|TR) Animasyon - Cizgi Diziler (131) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Animasyon - Cizgi Diziler",(TR-) Ben 10 Omniverse
@@ -6625,7 +6629,9 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11408.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Rüya Gibi
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11516.mp4
 
-# --- Movies | (V|DE) Animation - Kinderfilme (616) ---
+# --- Movies | (V|DE) Animation - Kinderfilme (617) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/x9hMtM8ZNwtR0N5YjyA31Cq6Mon_big.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Das Dschungelbuch - 1967
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/648462.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/9t8tAo4CLxbJfHjf1aCj5c8awzc_big.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Akiko: Der Fliegende Affe - 2025
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/638846.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/wOQh7nZxNC6cEwrm9tP230MoVLz_big.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Ponyo: Das Große Abenteuer Am Meer - 2008
@@ -18103,7 +18109,19 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/635442.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/dh8mS9Zzhplmr0Q80BKw0dibZUS_big.jpg" group-title="Movies | (V|DE) Filme - 2024",(DE-) The Break-Up Club - 2024
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/634880.mp4
 
-# --- Movies | (V|DE) Filme - 2025 (437) ---
+# --- Movies | (V|DE) Filme - 2025 (442) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/9yfwLB2BBBG5YSuJXtSRTaT8poS_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Merv - 2025
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/648505.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/oADha0l3dCm68rQfFL2AvZPs8pl_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) In Vitro - 2025
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/648504.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/epjqcM33F3PKRZmj3KbpsXlJ3gY_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Predators - 2025
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/648503.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/zgibwu2MWsUfwUwVPkRbOzGTxX2_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Chainsaw Man: The Movie: Reze Arc - 2025
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/648502.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/iK6c0hV0FcClqnKQdisCLACnucr_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Zoomania  2 - 2025
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/648155.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/xpqa2ShXecFxMUGKv82Zx56ZoUD_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Hi-Five - 2025
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/648154.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/euBufDUJwqlmTRzXdP1DDyl1RNp_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Secret Division 749 - 2025
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/648081.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/iEFIrODvGMUPZormfFTfN0n8siI_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Savage Hunt: Blutige Jagd - 2025
@@ -18120,8 +18138,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/648025.mp4
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/648015.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/76ZIgt8seQ0fdXdXg1tyAYK2ZIf_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Als Mein Vater Weihnachten Rettete 2 - 2025
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/648014.mp4
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/iK6c0hV0FcClqnKQdisCLACnucr_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Zoomania 2 - 2025
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/648013.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/aKEqz44vU3nWfB2LgMn3hbXJCls_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Stromberg: Wieder Alles Wie Immer - 2025
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/648012.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/byFxrm3IS9wErulqpqDIsaLaTeG_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Five Nights At Freddy's 2 - 2025
@@ -22101,7 +22117,21 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/275545.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/o3dRENAwLg8Gs8oGPh8gLO5MHWB.jpg" group-title="Movies | (V|TR) Belgeseller",(TR-) Anafartalar - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/275553.mkv
 
-# --- Movies | (V|TR) Dizi Son Bölümleri (261) ---
+# --- Movies | (V|TR) Dizi Son Bölümleri (268) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/ylpluerF3X4QQYBXEwztfYNMkOh_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Rüya Gibi (Bolum 2)
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/648498.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/gLGXHS3o0BuJhd3wDTTYddrRsxZ.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Mehmed: Fetihler Sultani (Bolum 61)
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/648496.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/u0kk5PUB850OlrVA1w7hgc41E9T_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kral Kaybederse (Bolum 30 Final)
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/648495.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/herjCgzFTKF3tCN8bW9cNfrvKjW_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kiskanmak (Bolum 13)
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/648494.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/vFmQa8yyuirssDatMME4FQtoG65_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Gözleri Karadeniz (Bolum 15)
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/648493.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/E8tR39iX2XNZdqeDA5REFDquU6.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Uzak Sehir (Bolum 41)
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/648149.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/b6QGAQBiAWXVPQvc9um8o9Q90jY_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Cennetin Cocuklari (Bolum 13)
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/648148.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jJ7kZ2KK8VlXCeFRluqSuFzbL3z.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Teskilat (Bolum 160)
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/648088.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/zgVgcthDQ8pYgBkKzi1AaXmmeFO_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Sahtekarlar (Bolum 9)
@@ -29215,7 +29245,9 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/508684.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/zDjpCBr7fleewKN7HpF2EPQT1jN_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2024",(TR-) Parthenope - 2024
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/635435.mkv
 
-# --- Movies | (V|TR) Turkce Dublaj - 2025 (181) ---
+# --- Movies | (V|TR) Turkce Dublaj - 2025 (182) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/9yfwLB2BBBG5YSuJXtSRTaT8poS_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2025",(TR-) Merv - 2025
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/648497.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/roGKQ15z08A7hiOKRQm6NTPmEHX_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2025",(TR-) Nobody 2 - 2025
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/648040.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/76ZIgt8seQ0fdXdXg1tyAYK2ZIf_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2025",(TR-) The Night My Dad Saved Christmas 2 - 2025
@@ -32241,4 +32273,4 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/583470.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Unknown",(DE-) Anaon:  Hüter Der Nacht
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/10625.mp4
 
-# Total: 16073
+# Total: 16089

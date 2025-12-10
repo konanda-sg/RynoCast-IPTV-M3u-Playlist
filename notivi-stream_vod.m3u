@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: notivi-stream.com:64640
-# Generated: 2025-12-10 07:13:21
+# Generated: 2025-12-10 18:34:49
 # Expires: Unlimited
 # Family Safe Edition
 # ==============================================
@@ -7655,9 +7655,11 @@ http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/722.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ PARAMONT +]",Das Gold
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/723.mp4
 
-# --- Movies | [ PAZAR DIZILERI ] (3) ---
+# --- Movies | [ PAZAR DIZILERI ] (4) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ PAZAR DIZILERI ]",Teşkilat
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/530.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | [ PAZAR DIZILERI ]",Bahar
+http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/740.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ PAZAR DIZILERI ]",Çarpıntı
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/926.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ PAZAR DIZILERI ]",Sahtekarlar
@@ -7675,9 +7677,7 @@ http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/927.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ PERSEMBE DIZILERI ]",Halef: Köklerin Çağrısı
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/930.mp4
 
-# --- Movies | [ SALI DIZILERI ] (6) ---
-#EXTINF:-1 tvg-logo="" group-title="Movies | [ SALI DIZILERI ]",Bahar
-http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/740.mp4
+# --- Movies | [ SALI DIZILERI ] (5) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ SALI DIZILERI ]",Mehmed: Fetihler Sultanı
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/741.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ SALI DIZILERI ]",Kral Kaybederse

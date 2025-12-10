@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: besstavb.fans:8000
-# Generated: 2025-12-10 07:03:10
+# Generated: 2025-12-10 18:28:54
 # Expires: 2025-12-19
 # Family Safe Edition
 # ==============================================
@@ -2776,7 +2776,7 @@ http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/5705.mp4
 http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/5706.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ⚡SERIALE - DRAMA - CRIME⚡",The Åre Murders
 http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/5707.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | ⚡SERIALE - DRAMA - CRIME⚡",Leyla
+#EXTINF:-1 tvg-logo="" group-title="Movies | ⚡SERIALE - DRAMA - CRIME⚡",Leyla (2025)
 http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/5708.mp4
 
 # --- Movies | ⚡SERIALE - REALITY⚡ (19) ---
@@ -11763,7 +11763,19 @@ http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/510309.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xZHW6p6ZjaN8SQmjEHpeo5Nw0cc.jpg" group-title="Movies | ✨FILME - 2024✨",The Champion - 2024
 http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/510310.mp4
 
-# --- Movies | ✨FILME - 2025✨ (1131) ---
+# --- Movies | ✨FILME - 2025✨ (1137) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYQ63YbeHgaukE7I2d3cC9Lnoor.jpg" group-title="Movies | ✨FILME - 2025✨",Christy - 2025
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555195.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kajpShbFhOdpl6yCrLezMrr9tB4.jpg" group-title="Movies | ✨FILME - 2025✨",Die My Love - 2025
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555196.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svuIdql5modL08UQtYa4Opi2CtL.jpg" group-title="Movies | ✨FILME - 2025✨",Hunting Jessica Brok - 2025
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555197.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Awk1mANJIhlpkiwrsDqF4a901E0.jpg" group-title="Movies | ✨FILME - 2025✨",Paying for It - 2025
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555198.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tXEtdZjoaHqjDjSxZJWwDVjIfx9.jpg" group-title="Movies | ✨FILME - 2025✨",The Carpenter's Son - 2025
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555199.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e0U601dhfUodjI9YbSzIjJD6PZw.jpg" group-title="Movies | ✨FILME - 2025✨",The Christmas Spark - 2025
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555200.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRdbTNiklT1xsv6mk30ZXnkt0A1.jpg" group-title="Movies | ✨FILME - 2025✨",Frontier Crucible - 2025
 http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/553620.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg" group-title="Movies | ✨FILME - 2025✨",Hunting Season - 2025
@@ -27811,7 +27823,7 @@ http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/529433.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jHwarubiAKFdMt6MfM0TZ8mY8uO.jpg" group-title="Movies | ✨FILME - SCI-FI✨",Southbound - 2015
 http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/529434.mkv
 
-# --- Movies | ✨FILME - THRILLER✨ (333) ---
+# --- Movies | ✨FILME - THRILLER✨ (446) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4spRV4Qw0YGaWBHYJ6enu84sR81.jpg" group-title="Movies | ✨FILME - THRILLER✨",22 Bullets - 2010
 http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/554740.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wgHFllRwPp5CUVbWNmQGX6lRBWt.jpg" group-title="Movies | ✨FILME - THRILLER✨",6 Below: Miracle on the Mountain - 2017
@@ -28108,8 +28120,6 @@ http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/554890.mkv
 http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/554891.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9RaPHov8oM5cnzeE27isnFMsvS.jpg" group-title="Movies | ✨FILME - THRILLER✨",Ghost - 1990
 http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/554892.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4T1DfeTROHXDaygI3PdyZqDbMtj.jpg" group-title="Movies | ✨FILME - THRILLER✨",Giallo - 2010
-http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/554893.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsi8n1TVWwCq5XmID3ia0lIfTUG.jpg" group-title="Movies | ✨FILME - THRILLER✨",Girl - 2020
 http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/554894.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svIDTNUoajS8dLEo7EosxvyAsgJ.jpg" group-title="Movies | ✨FILME - THRILLER✨",Glass - 2019
@@ -28470,14 +28480,242 @@ http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555073.mkv
 http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555074.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/riBzUgeYawBDi2q9PjARjHrQM7Z.jpg" group-title="Movies | ✨FILME - THRILLER✨",Stray Dog - 1949
 http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555075.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | ✨FILME - THRILLER✨",Suburbicon - 2017
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yqYwf0kPK2SaCWM80msl4nYK6U7.jpg" group-title="Movies | ✨FILME - THRILLER✨",Suburbicon - 2017
 http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555076.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | ✨FILME - THRILLER✨",Terribly Happy - 2008
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQNXTutWu7Jyau5hIvufPxrqTlU.jpg" group-title="Movies | ✨FILME - THRILLER✨",Terribly Happy - 2008
 http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555077.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | ✨FILME - THRILLER✨",Terrifier - 2018
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjXqhGmaeQpB73WerhrYU6HlyV5.jpg" group-title="Movies | ✨FILME - THRILLER✨",Terrifier - 2018
 http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555078.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | ✨FILME - THRILLER✨",The 9th Life of Louis Drax - 2016
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jCM4BpOoCAjs6lKHDCm66kE2XR1.jpg" group-title="Movies | ✨FILME - THRILLER✨",The 9th Life of Louis Drax - 2016
 http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555079.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnXZXx5rDHfymhB7jCDdBjWgm2j.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Absent One - 2014
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555080.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tkGOlNtKyqQO3esZQRlnkSTANY.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Adderall Diaries - 2016
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555081.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5OEOsRaBsSxD0qBtAhus0iKDzr.jpg" group-title="Movies | ✨FILME - THRILLER✨",The American - 2010
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555082.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ydeVyeqp9n9FTa8MfnQyQbELpQY.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Appearance - 2018
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555083.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jANTrEhvmn70L6p4uERWBWwvr8l.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Badger Game - 2014
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555084.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYODFbMfqsT5qvH440bN3wXL86n.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Barber - 2015
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555085.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwdEELbQxLYOUtgsEkF9PI5xxfG.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Bitch - 1984
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555086.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4UhETlMjG8yiI0Mj7PoKpTWIoSq.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Black Minutes - 2021
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555087.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nfgbEez4v38TRDBhzPNk4Gok5Cd.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Body - 2013
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555088.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ZJkoWMPGpFqdVplXivjQOYEp4H.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Body - 2018
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555089.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rlhZfsmfNWKjp9yOsHV0TPUhDWu.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Bold, the Corrupt and the Beautiful - 2017
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555090.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gicmSeLG6Uh7BF1r1mxZHUQ8r26.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Boy Next Door - 2015
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555091.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/frVgs4psaZXITGK0gvCStUCW7Zx.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Chronicles of Evil - 2015
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555092.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rMMB3v6jYHjsvXRNJYESacoTD7j.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Crow - 1994
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555093.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ejKfNk0LBhSI9AahH4f9NJNZNM.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Da Vinci Code - 2006
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555094.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wBIn93ZY0Qd3BafjSJYvqgAZu88.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Dead Girl - 2006
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555095.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6Pg9eTklhg6Aa7kXaxrfdE1Chi.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Desperate Hour - 2022
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555096.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nojczE1ZYuwQAAmLHoM7nHqzVhp.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Devil's Honey - 1986
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555097.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j64I3u1wwgPct3stvvKU2ikl14w.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Domestics - 2018
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555098.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kNcpmP1Pe9fWLKEbEOX5GEWueC.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Double - 2014
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555099.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8hyvniwVeSvKbTNKrY44ndMsQht.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Dyatlov Pass Incident - 2013
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555100.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tvLMBdTZPxMvWoBis5Sel05lDB6.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Ear - 1990
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555101.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ejIzekqpeC2XnSdOrpCw9KYXxF.jpg" group-title="Movies | ✨FILME - THRILLER✨",The End of Violence - 1997
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555102.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wekmCPgmDfXWVn2KYULv4RpRIBL.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Euthanizer - 2009
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555103.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zy6hJYii2PJfMRoUBlULhfuLsgL.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Experiment - 2010
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555104.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zJ81X7T8OrtiWFCEBhtKo0TVqgN.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Fare - 2018
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555105.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x6wsmaVgIhtOwbMyIzOyfmZZSqf.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Forger - 2014
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555106.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUQK6gWivZ7q2ehkh8D2YFCqMq9.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Forgiven - 2018
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555107.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hIgU3cxn7Y87joQGM3srofnXOm5.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Gambler - 2014
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555108.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rK7m2Ba0ieXa37NaAmrx4dfRvvM.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Ghost Writer - 2010
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555109.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kH3qLP8pn68Xq5XwvmPkCyaAU7W.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Gift - 2015
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555110.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6jZ1eef6SCVSMb4o1pSHHq84Nyf.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Good Son - 1993
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555111.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJ5Ve4dO2GVKDfR9QV1KqoBjZMk.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Guardian Angel - 2018
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555112.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLlH4aNHdnmf62umnInL8xPlPzw.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Handmaiden - 2016
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555113.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sk6D07ntxMgzqArCq1ufHSvxZvt.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Hidden Face - 2011
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555114.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tQMxsrsVtpB2D2n01nUqgOMmSWD.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Hole - 2009
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555115.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kFN9T3XaMLJfMASf2LAyRUzQi0m.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Hour of the Lynx - 2013
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555116.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cx7CuTtcJvjZAP6ZFWoxylCXKFP.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Hummingbird Project - 2019
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555117.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/56KPE9tPYh2WBdnUMq9EIOwEXGQ.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Iceman - 2012
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555118.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k0DLCiDbnYywOHiISALbl2EH2NE.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Impossible - 2012
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555119.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vSJloUNJSKWJzQ4RbxBFKOA2p2m.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Invisible - 2007
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555120.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/otZMaGHWnKPgOODF6SSVNGqbI4X.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Invitation - 2016
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555121.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ntBo3n4sz2T0JwTJX3GGZ2d2bfr.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Killing Room - 2009
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555122.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qxf1AkFJskLrBM2WGwf8FpGcbiu.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Lazarus Project - 2008
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555123.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/msHg4MRKZBcGwIakhMEaYRSdYag.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Loft - 2014
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555124.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Et7EXmtQ4Ds2xc5hBPxuUwmSqX.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Lost Son - 1999
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555125.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/diAYqR4xdF9Hnj7qun6DEQhRrT2.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Machinist - 2004
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555126.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bf4o6Uzw5wqLjdKwRuiDrN1xyvl.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Maltese Falcon - 1941
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555127.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vq7LSDUahpbt0AMotBbyS4gFMeU.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Man on the Other Side - 2019
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555128.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6TquGMWxo7FRPUAJdkiGMddU60.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Mirror - 2019
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555129.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tC4IfhFv84CxC19BXN3678IeNRN.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Most Assassinated Woman in the World - 2018
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555130.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lY4VtFRXNgsqVEhx4Vb7m6wlACN.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Music Box - 2017
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555131.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6fvQVZ5Mc8s8dF6IJ5P4qjGzuZW.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Neighbor - 2016
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555132.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o2Q9kkzkI5LGqP9K7ymmOc9CNRE.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Ninth - 2019
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555133.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Adlv1HqJ7dQ72FwQjar8yc62NtS.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Octopus - 1998
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555134.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j8uFsP2PxDMN3bdo5Ve6fYj0ebN.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Odessa File - 1974
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555135.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/szftrnEz7D9Konq9PxTvzTC0BxX.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Operative - 2001
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555136.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1U3ROFFCVbu9H63lKYMbXEHeJI.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Perfect Guy - 2015
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555137.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/beSsbJ77KIc8j9X0gf3O8FlL4OW.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Perfect Teacher - 2010
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555138.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aTsp2VTaCBiGs8w05OTXfD97FRZ.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Phantom of the Opera - 2004
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555139.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k52pPgVOHPwjIyMdvNZZi3Z7zFR.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Postman Always Rings Twice - 1981
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555140.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xXH6YzGbvSoLDUx5NaOL0hKPbza.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Prophet's Game - 2000
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555141.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3dlUKHP94rorboEGH2JWll3zo1Q.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Pyjama Girl Case - 1977
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555142.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p8nFEsMLoSVsMwcuz0Dj9Px6YIq.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Quiller Memorandum - 1966
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555143.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8C4rnA6r7myYdJBgeZLgCvy5RPS.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Realm - 2018
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555144.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbdiRDhStWuAPmrscejIlRCFrQt.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Reluctant Fundamentalist - 2013
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555145.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cvnEUdVXeuiE1qUXsmMzs8IrNl7.jpg" group-title="Movies | ✨FILME - THRILLER✨",The River Wild - 1994
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555146.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fPvlWpef0E71ygjVn4a7tRcX24d.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Russian Girl - 2020
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555147.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ardNGnDmDZn6UHn3Ly0cbAdIY4M.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Scouting Book for Boys - 2010
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555148.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dkeAwfZzwL3WvToydE3CXiY80E0.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Secret in Their Eyes - 2009
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555149.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mN5kB6uXIKETr2DcsG0u3wSFolN.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Silent Partner - 1978
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555150.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCkcxqUdHmvHKdaSvHTOWU00WBv.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Silent Party - 2019
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555151.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vOyfUXNFSnaTk7Vk5AjpsKTUWsu.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Sixth Sense - 1999
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555152.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b6ugfuEwEND5UCuf6Hu6XBmWOQP.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Skulls III - 2004
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555153.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tN9BEDSBJGag4oFIPgXFKjUKmOm.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Sleepwalkers - 2019
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555154.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mKsQ8KMOk0VBX26Ev0Lj6EmfGJu.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Snowman - 2017
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555155.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/21z79ZSK1W4Q7hlMwIITXTDmKZf.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Son - 2021
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555156.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/swghccaPcYwO2tvf1Wv8mpeNLUn.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Sound - 2017
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555157.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nIc9a0vCG00TmCObDazpmYtiDAs.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Spy Who Fell to Earth - 2019
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555158.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/orMkBkPqu7szuBRdMLUB4TWKiVV.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Stanford Prison Experiment - 2015
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555159.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2s2WuYcdnI22wIMu3JHxX6JORk.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Student - 2017
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555160.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2s2WuYcdnI22wIMu3JHxX6JORk.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Student - 2017
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555161.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/na80ysnoCvoxwGTMWCWYvnmaDlz.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Tailor of Panama - 2001
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555162.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ojHgqtIR41O2qLKa7LFUVj0cZa.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Talented Mr. Ripley - 1999
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555163.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rO2Fq0AZZx9obs52KJdx4mRE8p5.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Third Man - 1949
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555164.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Ts7aYrxMlT65tU0UZbmuPEBIc4.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Two Faces of January - 2014
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555165.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/owYLROHpJWbYWEHjaEvDsnoz4Ux.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Vanishing - 2019
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555166.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHyLc0TpcufC3ELL4yFlKHS3fAN.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Warning - 2018
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555167.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sm3PCprf2qrF90OD5vN4iPablMM.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Wedding Guest - 2019
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555168.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iIVcea2BHHi7RJgucGEmpt3zkED.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Whistleblower - 2010
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555169.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9G6TBckQUKdx3dnn55abUCmonRX.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Wicker Man - 2006
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555170.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8bxIzp9w9l9ZzGVwNaIKOaem05A.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Wolf's Call - 2019
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555171.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hrzmmYPzUl6LtUK6abdRG7J9iOC.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Wrong Boy Next Door - 2019
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555172.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5HJ7VKI00KlFSSx7bUc6sCjQI9S.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Wrong Mommy - 2019
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555173.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/16Pkg2ChCdACbBKVIAPAZtLL6eb.jpg" group-title="Movies | ✨FILME - THRILLER✨",The Yellow Sea - 2010
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555174.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3EtfWuMwxJ0hbErQeE8Ogfoouhm.jpg" group-title="Movies | ✨FILME - THRILLER✨",Tell Her That I Love Her - 1977
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555176.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fKLfCWHGFLQjS2ZbIa35sjXh4nE.jpg" group-title="Movies | ✨FILME - THRILLER✨",Through the Glass Darkly - 2020
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555177.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGbVd9gzRHk70E8WQPZcjiv6ZLk.jpg" group-title="Movies | ✨FILME - THRILLER✨",Thunderheart - 1992
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555178.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jzyaGYlB60HMFzuFZkHHdDUxPyI.jpg" group-title="Movies | ✨FILME - THRILLER✨",Till the End of the Night - 2023
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555179.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x2ckiEGoYz2AomOeviEPqnhrw7Q.jpg" group-title="Movies | ✨FILME - THRILLER✨",Trade - 2007
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555180.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/46F0gInnHI4oCPd0iH9KNIs60vd.jpg" group-title="Movies | ✨FILME - THRILLER✨",Trap for Cinderella - 2013
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555181.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5SedPYdGLrp6LX9C2cWXLx38w1D.jpg" group-title="Movies | ✨FILME - THRILLER✨",Two for the Money - 2005
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555182.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movies | ✨FILME - THRILLER✨",Vicious - 2019
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555183.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9MmLBW1xFlSBu0xcv5KZOKp89OC.jpg" group-title="Movies | ✨FILME - THRILLER✨",Violent Cop - 1989
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555184.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQawgKvHovftR0Ues1tlYrxLEWh.jpg" group-title="Movies | ✨FILME - THRILLER✨",Violet & Daisy - 2011
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555185.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zy4XAiO40aiv3FUrByuTDK46Lds.jpg" group-title="Movies | ✨FILME - THRILLER✨",Vultures - 2018
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555186.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4vW8sq72nxa8tHgom5QdckI1UHC.jpg" group-title="Movies | ✨FILME - THRILLER✨",Wall - 2018
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555187.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRKEluSpV1wBrZVTvLLaCSkzqcf.jpg" group-title="Movies | ✨FILME - THRILLER✨",Wicker Park - 2004
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555188.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dZV9UTyHJ4LD4ntWudWyqBNhb8I.jpg" group-title="Movies | ✨FILME - THRILLER✨",With a Friend Like Harry... - 2000
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555189.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xo3vLT7Qyq0TmzRZb8TERO2hwrn.jpg" group-title="Movies | ✨FILME - THRILLER✨",Year of the Jellyfish - 1984
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555190.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3lVSTF51PqvVRYNl8nw6ZoWJ7jV.jpg" group-title="Movies | ✨FILME - THRILLER✨",Yinz - 2019
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555191.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5eV0mIQqSztD3McjO22EOFlQDj1.jpg" group-title="Movies | ✨FILME - THRILLER✨",You Get Me - 2017
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555192.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nx4lUyQNEzJowcF55VAP0TQEaX0.jpg" group-title="Movies | ✨FILME - THRILLER✨",You Were Never Really Here - 2017
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555193.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8EmuDLfSLg6kaWFj2wheBxXd8NL.jpg" group-title="Movies | ✨FILME - THRILLER✨",Your Son - 2018
+http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/555194.mkv
 
 # --- Movies | ✨FILME - TOM HARDY✨ (6) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6diyyGIbBNiANsdIaCGtyv4IofR.jpg" group-title="Movies | ✨FILME - TOM HARDY✨",Bronson - 2009
@@ -29447,4 +29685,4 @@ http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/529436.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aTjIUBmo7qbiu5FuvSoBA0UONWk.jpg" group-title="Movies | ✨FILME - WESTERN✨",The Big Country - 1958
 http://besstavb.fans:8000/movie/cismaru_bogdan/fWXWQJac/529437.mkv
 
-# Total: 14684
+# Total: 14803

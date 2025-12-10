@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 4kssl.com:8080
-# Generated: 2025-12-10 07:16:20
+# Generated: 2025-12-10 18:31:42
 # Expires: 2026-07-25
 # Family Safe Edition
 # ==============================================
@@ -1311,7 +1311,7 @@ http://4kssl.com:8080/live/1a1349093e46/c4256387cf/294641.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3294.jpg?43845" group-title="AL| HUMOR",AL: KAFENEJA JONE
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/294638.m3u8
 
-# --- AL| LAJME (42) ---
+# --- AL| LAJME (43) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Animated-Flag-Albania.gif" group-title="AL| LAJME",###### LAJME ######
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/294476.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11008.png?93697" group-title="AL| LAJME",AL: A2 CNN
@@ -1394,10 +1394,12 @@ http://4kssl.com:8080/live/1a1349093e46/c4256387cf/294530.m3u8
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/294627.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10999.png?6717" group-title="AL| LAJME",AL: REPORT TV HD
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/578152.m3u8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6397.jpg?65067" group-title="AL| LAJME",AL: RTV FONTANA HD
+http://4kssl.com:8080/live/1a1349093e46/c4256387cf/569375.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3071.png?73676" group-title="AL| LAJME",AL: PANORAMA TV 4K
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/578178.m3u8
 
-# --- AL| MUZIKË (40) ---
+# --- AL| MUZIKË (39) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Animated-Flag-Albania.gif" group-title="AL| MUZIKË",###### MUZIKË ######
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/294586.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/2998.jpg?41492" group-title="AL| MUZIKË",AL: CIFTELI HD
@@ -1444,8 +1446,6 @@ http://4kssl.com:8080/live/1a1349093e46/c4256387cf/294594.m3u8
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/294593.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8555.jpg?18827" group-title="AL| MUZIKË",AL: TIRANA TV
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/294617.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6397.jpg?65067" group-title="AL| MUZIKË",AL: RTV FONTANA HD
-http://4kssl.com:8080/live/1a1349093e46/c4256387cf/569375.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10827.jpg?91888" group-title="AL| MUZIKË",AL: MUSIC TV 4K
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/616158.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3350.png?57263" group-title="AL| MUZIKË",AL: ASHK TV 1 4K
@@ -3712,17 +3712,17 @@ http://4kssl.com:8080/live/1a1349093e46/c4256387cf/1686995.m3u8
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/1686994.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8515.png?81625" group-title="FR| FRANCE ⱽᴵᴾ ᴿᴬᵂ",VIP: BFM DICI HAUTE-PROVENCE ᴴᴰ
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/1686993.m3u8
-#EXTINF:-1 tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14687.png?13469" group-title="FR| FRANCE ⱽᴵᴾ ᴿᴬᵂ",VIP: BFM GRAND LILLE ᴿᴬᵂ
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8515.png?81625" group-title="FR| FRANCE ⱽᴵᴾ ᴿᴬᵂ",VIP: BFM GRAND LILLE ᴿᴬᵂ
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/1686992.m3u8
-#EXTINF:-1 tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14687.png?13469" group-title="FR| FRANCE ⱽᴵᴾ ᴿᴬᵂ",VIP: BFM GRAND LILLE ᴴᴰ
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8515.png?81625" group-title="FR| FRANCE ⱽᴵᴾ ᴿᴬᵂ",VIP: BFM GRAND LILLE ᴴᴰ
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/1686991.m3u8
-#EXTINF:-1 tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14687.png?13469" group-title="FR| FRANCE ⱽᴵᴾ ᴿᴬᵂ",VIP: BFM GRAND LITTORAL ᴿᴬᵂ
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8515.png?81625" group-title="FR| FRANCE ⱽᴵᴾ ᴿᴬᵂ",VIP: BFM GRAND LITTORAL ᴿᴬᵂ
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/1686990.m3u8
-#EXTINF:-1 tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14687.png?91432" group-title="FR| FRANCE ⱽᴵᴾ ᴿᴬᵂ",VIP: BFM GRAND LITTORAL ᴴᴰ
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8515.png?81625" group-title="FR| FRANCE ⱽᴵᴾ ᴿᴬᵂ",VIP: BFM GRAND LITTORAL ᴴᴰ
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/1686989.m3u8
-#EXTINF:-1 tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14687.png?91432" group-title="FR| FRANCE ⱽᴵᴾ ᴿᴬᵂ",VIP: BFM GRAND REPORTAGES ᴿᴬᵂ
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8515.png?81625" group-title="FR| FRANCE ⱽᴵᴾ ᴿᴬᵂ",VIP: BFM GRAND REPORTAGES ᴿᴬᵂ
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/1686988.m3u8
-#EXTINF:-1 tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14688.jpg?35368" group-title="FR| FRANCE ⱽᴵᴾ ᴿᴬᵂ",VIP: BFM LYON ᴿᴬᵂ
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8515.png?81625" group-title="FR| FRANCE ⱽᴵᴾ ᴿᴬᵂ",VIP: BFM LYON ᴿᴬᵂ
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/1686987.m3u8
 #EXTINF:-1 tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/8515.png?87885" group-title="FR| FRANCE ⱽᴵᴾ ᴿᴬᵂ",VIP: BFM MARSEILLE PROVENCE ᴿᴬᵂ
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/1686986.m3u8

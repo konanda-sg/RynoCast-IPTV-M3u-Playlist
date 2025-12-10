@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: florincercel.gotdns.ch:8008
-# Generated: 2025-12-10 07:06:46
+# Generated: 2025-12-10 18:31:08
 # Expires: 2026-01-08
 # Family Safe Edition
 # ==============================================
@@ -7357,9 +7357,7 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/541346.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/f04179c97ecd8db1355cb859066ff8c2.png" group-title="UNITED STATES (USA)",US: 3ABN Kids
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/541345.m3u8
 
-# --- ⚜️ROMANIA TV⚜️ (596) ---
-#EXTINF:-1 tvg-logo="" group-title="⚜️ROMANIA TV⚜️",GALA RXF
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/554858.m3u8
+# --- ⚜️ROMANIA TV⚜️ (595) ---
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvFMSGRt/Whats-App-Image-2025-11-27-at-15-20-39-6e5d06cc.jpg" group-title="⚜️ROMANIA TV⚜️",⚜️WELCOME TO PRO EUROPA⚜️
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/540724.m3u8
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab67616d0000b273e9af6e6ace7bae5f933bdc04" group-title="⚜️ROMANIA TV⚜️",COLINDE ROMANESTI
@@ -7430,8 +7428,6 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/33785.m3u8
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/277307.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QN7KDZLR/97-C82-C3-F-DFB1-400-B-8-E8-C-8-EA2-F7079798.png" group-title="⚜️ROMANIA TV⚜️",PRIMA NEWS UHD
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/255763.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0rRvrm5/PRIMA-WORLD-HD.jpg" group-title="⚜️ROMANIA TV⚜️",PRIMA WORLD HD
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/255861.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kMRYdGgV/CF80-EEC2-7568-48-BC-A2-B9-55-E3-EB2-EACA8.png" group-title="⚜️ROMANIA TV⚜️",PRIMA COMEDY UHD
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/206428.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FFPpF6KY/9-B84-D0-A3-56-F2-45-A1-8-AF3-F6-AE5962-EF10.png" group-title="⚜️ROMANIA TV⚜️",ACASA TV UHD
@@ -8550,5 +8546,7 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/296307.m3u8
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/296306.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1Xsq73b1/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FLY AVENTURA ᶠᴴᴰ
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/296305.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚜️ROMANIA TV⚜️",GALA RXF
+http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/554858.m3u8
 
-# Total: 4255
+# Total: 4254

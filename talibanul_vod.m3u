@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: talibanul.net:8080
-# Generated: 2025-12-09 18:31:10
+# Generated: 2025-12-10 18:30:13
 # Expires: 2026-03-26
 # Family Safe Edition
 # ==============================================
@@ -4649,7 +4649,7 @@ http://talibanul.net:8080/movie/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/10
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o70dV2jjGd6TmYTMOY9b34OLzDK.jpg" group-title="Movies | Filme 2024",The Last Showgirl (2024)
 http://talibanul.net:8080/movie/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/100943.mp4
 
-# --- Movies | Filme 2025 (442) ---
+# --- Movies | Filme 2025 (443) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oF0UL4esYCA6KFF6bERIVLCeSBo.jpg" group-title="Movies | Filme 2025",F Marry Kill
 http://talibanul.net:8080/movie/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/74460.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nSE7PLJoYsclxgmF9mSVnHBPy9C.jpg" group-title="Movies | Filme 2025",Umjolo: My Beginning, My End! (2025)
@@ -5530,10 +5530,12 @@ http://talibanul.net:8080/movie/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/10
 http://talibanul.net:8080/movie/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/101747.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/naPPLaTYNIL88yTS4cC89PaqVOP.jpg" group-title="Movies | Filme 2025",Bump: A Christmas Film (2025)
 http://talibanul.net:8080/movie/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/101748.mp4
-#EXTINF:-1 tvg-logo="https://cdn.subs.ro/media/posters/31227572.jpg" group-title="Movies | Filme 2025",Predator: Wastelands (2025)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B2FZkcfS/predator.jpg" group-title="Movies | Filme 2025",Predator: Wastelands (2025)
 http://talibanul.net:8080/movie/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/101749.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbGHijUc0C3fcM12l6ro6FgxIvg.jpg" group-title="Movies | Filme 2025",Keeper (2025)
 http://talibanul.net:8080/movie/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/101750.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yfwLB2BBBG5YSuJXtSRTaT8poS.jpg" group-title="Movies | Filme 2025",Merv (2025)
+http://talibanul.net:8080/movie/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/101754.mp4
 
 # --- Movies | Filme 4K (557) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iWTqx0J8eKehqVMdH70sjMUO7HV.jpg" group-title="Movies | Filme 4K",Crimele din Osage County: Bani însângerați (2023)
@@ -11617,6 +11619,10 @@ http://talibanul.net:8080/movie/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/25
 #EXTINF:-1 tvg-logo="" group-title="Movies | Testament: Story of Moses 2024",Testament: The Story of Moses
 http://talibanul.net:8080/movie/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/141.mp4
 
+# --- Movies | The Continental (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | The Continental",The Continental: From the World of John Wick
+http://talibanul.net:8080/movie/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/262.mp4
+
 # --- Movies | The Madness (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | The Madness",The Madness
 http://talibanul.net:8080/movie/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/182.mp4
@@ -11633,4 +11639,4 @@ http://talibanul.net:8080/movie/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/14
 #EXTINF:-1 tvg-logo="" group-title="Movies | Vikings Valhalla",Vikings: Valhalla
 http://talibanul.net:8080/movie/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/152.mp4
 
-# Total: 5542
+# Total: 5544

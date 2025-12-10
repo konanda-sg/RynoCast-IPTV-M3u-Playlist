@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: mag.4k365.xyz:80
-# Generated: 2025-12-10 07:06:52
+# Generated: 2025-12-10 18:30:57
 # Expires: 2026-03-23
 # Family Safe Edition
 # ==============================================
@@ -3054,13 +3054,13 @@ http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1363966.m3u8
 # --- UK| DAZN PPV (31) ---
 #EXTINF:-1 tvg-logo="" group-title="UK| DAZN PPV",####### DAZN PPV #######
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602972.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602973.png" group-title="UK| DAZN PPV",UK: DAZN PPV 1 - CLEMSON @ BYU | Wed 10 Dec 00:20 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602973.png" group-title="UK| DAZN PPV",UK: DAZN PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602973.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602974.png" group-title="UK| DAZN PPV",UK: DAZN PPV 2 - VILLANOVA @ MICHIGAN | Wed 10 Dec 00:20 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602974.png" group-title="UK| DAZN PPV",UK: DAZN PPV 2 - SOUTH AFRICA - DAY 3 (PRO STREAM) | Wed 10 Dec 11:20 | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602974.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602975.png" group-title="UK| DAZN PPV",UK: DAZN PPV 3 - NORTH CAROLINA CENTRAL @ KENTUCKY | Wed 10 Dec 00:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602975.png" group-title="UK| DAZN PPV",UK: DAZN PPV 3 - SOUTH AFRICA - DAY 3 (STANDARD STREAM) | Wed 10 Dec 11:20 | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602975.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602976.png" group-title="UK| DAZN PPV",UK: DAZN PPV 4 - ILLINOIS @ OHIO STATE | Wed 10 Dec 01:20 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602976.png" group-title="UK| DAZN PPV",UK: DAZN PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602976.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602977.png" group-title="UK| DAZN PPV",UK: DAZN PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602977.m3u8
@@ -3144,7 +3144,7 @@ http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/549409.m3u8
 # --- UK| DISCOVERY + PPV (100) ---
 #EXTINF:-1 tvg-logo="" group-title="UK| DISCOVERY + PPV",####### DISCOVERY+ PPV #######
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602185.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602186.png" group-title="UK| DISCOVERY + PPV",UK: D+ PPV 1 - NEW ZEALAND - WEST INDIES | Tue 09 Dec 21:30 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602186.png" group-title="UK| DISCOVERY + PPV",UK: D+ PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602186.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602187.png" group-title="UK| DISCOVERY + PPV",UK: D+ PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602187.m3u8
@@ -6158,7 +6158,7 @@ http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/997056.m3u8
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/507138.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1333143.png" group-title="UK| PPV EVENTS",UFC 294: Pre-Fight Press Conference
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1333143.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1022191.png" group-title="UK| PPV EVENTS",LIVE EVENT 01 - 5PM Snowball Derby Five Flags
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1022191.png" group-title="UK| PPV EVENTS",LIVE EVENT 01 - NO EVENT
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1022191.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1022190.png" group-title="UK| PPV EVENTS",LIVE EVENT 02- NO EVENT
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1022190.m3u8
@@ -7908,13 +7908,13 @@ http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1387222.m3u8
 # --- UK| VOLLEY BALL WORLD PPV (31) ---
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/FIV3.png" group-title="UK| VOLLEY BALL WORLD PPV",####### VOLLEY BALL WORLD PPV #######
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1887442.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/FIV3.png" group-title="UK| VOLLEY BALL WORLD PPV",UK: VOLLEY PPV 1 - OSASCO SAO CRISTOVAO SAUDE (BRA) - ALIANZA LIMA (PER) | Tue 09 Dec 23:25 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/FIV3.png" group-title="UK| VOLLEY BALL WORLD PPV",UK: VOLLEY PPV 1 - NO EVENT STREAMING - 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1921441.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/FIV3.png" group-title="UK| VOLLEY BALL WORLD PPV",UK: VOLLEY PPV 2 - PFRETZSCHNER, L./WINTER (GER) V MOL, A./SØRUM, C. (NOR) | MAIN DRAW | JOÃO PESSOA 2025 | Fri 19 Sep 12:57 | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1921440.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/FIV3.png" group-title="UK| VOLLEY BALL WORLD PPV",UK: VOLLEY PPV 3 - JOINVILLE VOLEI - VIAPOL SAO JOSE | ROUND 9 | Tue 09 Dec 21:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/FIV3.png" group-title="UK| VOLLEY BALL WORLD PPV",UK: VOLLEY PPV 3 - NO EVENT STREAMING - 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1921439.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/FIV3.png" group-title="UK| VOLLEY BALL WORLD PPV",UK: VOLLEY PPV 4 - FLUMINENSE - SESC RJ FLAMENGO | ROUND 2 | Wed 10 Dec 00:20 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/FIV3.png" group-title="UK| VOLLEY BALL WORLD PPV",UK: VOLLEY PPV 4 - NO EVENT STREAMING - 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1921438.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/FIV3.png" group-title="UK| VOLLEY BALL WORLD PPV",UK: VOLLEY PPV 5 - NO EVENT STREAMING - 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1921437.m3u8

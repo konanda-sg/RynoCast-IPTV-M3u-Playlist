@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tzuraganu.gotdns.ch:8008
-# Generated: 2025-12-10 07:04:14
+# Generated: 2025-12-10 18:36:17
 # Expires: 2026-09-17
 # Family Safe Edition
 # ==============================================
@@ -23,9 +23,7 @@ http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/206557.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RADIO ROMANIA",(Favorit FM)
 http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/287654.m3u8
 
-# --- ⚜️ROMANIA TV⚜️ (596) ---
-#EXTINF:-1 tvg-logo="" group-title="⚜️ROMANIA TV⚜️",GALA RXF
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/554858.m3u8
+# --- ⚜️ROMANIA TV⚜️ (595) ---
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvFMSGRt/Whats-App-Image-2025-11-27-at-15-20-39-6e5d06cc.jpg" group-title="⚜️ROMANIA TV⚜️",⚜️WELCOME TO PRO EUROPA⚜️
 http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/540724.m3u8
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab67616d0000b273e9af6e6ace7bae5f933bdc04" group-title="⚜️ROMANIA TV⚜️",COLINDE ROMANESTI
@@ -96,8 +94,6 @@ http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/33785.m3u8
 http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/277307.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QN7KDZLR/97-C82-C3-F-DFB1-400-B-8-E8-C-8-EA2-F7079798.png" group-title="⚜️ROMANIA TV⚜️",PRIMA NEWS UHD
 http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/255763.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0rRvrm5/PRIMA-WORLD-HD.jpg" group-title="⚜️ROMANIA TV⚜️",PRIMA WORLD HD
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/255861.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kMRYdGgV/CF80-EEC2-7568-48-BC-A2-B9-55-E3-EB2-EACA8.png" group-title="⚜️ROMANIA TV⚜️",PRIMA COMEDY UHD
 http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/206428.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FFPpF6KY/9-B84-D0-A3-56-F2-45-A1-8-AF3-F6-AE5962-EF10.png" group-title="⚜️ROMANIA TV⚜️",ACASA TV UHD
@@ -1216,5 +1212,7 @@ http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296307.m3u8
 http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296306.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1Xsq73b1/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FLY AVENTURA ᶠᴴᴰ
 http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296305.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚜️ROMANIA TV⚜️",GALA RXF
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/554858.m3u8
 
-# Total: 603
+# Total: 602

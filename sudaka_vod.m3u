@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: sudaka.link:25461
-# Generated: 2025-12-10 07:06:28
+# Generated: 2025-12-10 18:30:50
 # Expires: 2026-01-19
 # Family Safe Edition
 # ==============================================
@@ -1535,7 +1535,7 @@ http://sudaka.link:25461/movie/fabian/fabian1/17710.mp4
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGnX3H4fUAGEjUI1-jLOSt8y50da8WmRB_Gata0XuPBs.jpg" group-title="Movies | DEPORTES",Rafa Márquez: El capitán (2024)
 http://sudaka.link:25461/movie/fabian/fabian1/34133.mkv
 
-# --- Movies | DISNEY + (33) ---
+# --- Movies | DISNEY + (34) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DISNEY +",The Mandalorian (2019)
 http://sudaka.link:25461/movie/fabian/fabian1/106.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DISNEY +",Spider-Woman (1979)
@@ -1602,6 +1602,8 @@ http://sudaka.link:25461/movie/fabian/fabian1/640101.mp4
 http://sudaka.link:25461/movie/fabian/fabian1/640118.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DISNEY +",LEGO Star Wars: Reconstruye la galaxia - Piezas del pasado (2025)
 http://sudaka.link:25461/movie/fabian/fabian1/640121.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DISNEY +",The Beatles Anthology (1995)
+http://sudaka.link:25461/movie/fabian/fabian1/640122.mp4
 
 # --- Movies | DOCUMENTALES (5) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DOCUMENTALES",Gigantes de la industria (2012)
@@ -4053,7 +4055,7 @@ http://sudaka.link:25461/movie/fabian/fabian1/35694.mkv
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLVyurI6YNfEHoJS4H0yLYmk-lX5SZV_0NHnTWnChF0-0.jpg" group-title="Movies | PELICULAS 2024",Bone Lake (2025)
 http://sudaka.link:25461/movie/fabian/fabian1/35953.mp4
 
-# --- Movies | PELICULAS 2025 (104) ---
+# --- Movies | PELICULAS 2025 (105) ---
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLF0xmUJPICs-v5WBZLRZYZHlzf6yk9Tp0dW3pGh8UPD4.jpg" group-title="Movies | PELICULAS 2025",Dogman - CINE (2025)
 http://sudaka.link:25461/movie/fabian/fabian1/34811.mkv
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL0eCnKPu7UMQIGFCHz84bZCbWq5q5UNrt6mNyW0hcw5k.jpg" group-title="Movies | PELICULAS 2025",Capitán América: Brave New World (2025)
@@ -4262,6 +4264,8 @@ http://sudaka.link:25461/movie/fabian/fabian1/36009.mkv
 http://sudaka.link:25461/movie/fabian/fabian1/36015.mkv
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLPgaxscAl_RD02gJOpXgOVifEWkQ6uaa8BJUjeAfo5AI.jpg" group-title="Movies | PELICULAS 2025",The Wonderful World of Disney: Holiday Spectacular (2025)
 http://sudaka.link:25461/movie/fabian/fabian1/36016.mp4
+#EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLBbq67-tmhFVUL-Dd2E7c2L96jreZqjqomhxhY4Pq42M.jpg" group-title="Movies | PELICULAS 2025",Atena (2025)
+http://sudaka.link:25461/movie/fabian/fabian1/36017.mkv
 
 # --- Movies | PELICULAS 4K (7) ---
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLUKA7GHPHGfCzULg_RaQB2fP5CI8stL-kkSRxloS8c2M.jpg" group-title="Movies | PELICULAS 4K",Terminator (1984)
@@ -4743,4 +4747,4 @@ http://sudaka.link:25461/series/fabian/fabian1/640052
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES RETRO",La isla de Gilligan (1964)
 http://sudaka.link:25461/series/fabian/fabian1/640053
 
-# Total: 2318
+# Total: 2320

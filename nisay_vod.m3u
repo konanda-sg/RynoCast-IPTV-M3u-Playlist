@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nisay.xyz:8080
-# Generated: 2025-12-10 07:12:18
+# Generated: 2025-12-10 18:41:22
 # Expires: 2026-10-04
 # Family Safe Edition
 # ==============================================
@@ -11388,7 +11388,7 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/112211.mp4
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/112207.mkv
 
 # --- Movies | DE: FILME 2024 (580) ---
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/euBufDUJwqlmTRzXdP1DDyl1RNp.jpg" group-title="Movies | DE: FILME 2024",Secret Division 749 (2024)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/euBufDUJwqlmTRzXdP1DDyl1RNp.jpg" group-title="Movies | DE: FILME 2024",DE: Secret Division 749 (2024)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159177.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gaSqrnpSnTq5oYno0KnDyDXAF5r.jpg" group-title="Movies | DE: FILME 2024",DE: Fear Cabin: The Last Weekend of Summer (2024)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159178.mp4
@@ -14375,7 +14375,9 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/101434.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jobsilOScv9uCBqOJ6nJ5FaFeBK.jpg" group-title="Movies | GERMANY BOLLYWOOD FILME",DE: Wahnsinnig verliebt!
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/101435.mp4
 
-# --- Movies | GERMANY CHILD FILME (218) ---
+# --- Movies | GERMANY CHILD FILME (219) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gcFxbtsgyMMripGtUIxPmmFxQXT.jpg" group-title="Movies | GERMANY CHILD FILME",DE: Frohe Schenknacht mit Elmo und Mark Rober (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159190.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iK6c0hV0FcClqnKQdisCLACnucr.jpg" group-title="Movies | GERMANY CHILD FILME",DE: Zoomania 2 (2025)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159081.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fNCS3xOJrj46G80docodZ3Nhiv3.jpg" group-title="Movies | GERMANY CHILD FILME",DE: Die Fraggles: Der erste Schnee (2025)
@@ -15228,7 +15230,7 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/156520.mkv
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/106777.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1kEgzEvhJmw5eSxuGwn0o1cgHlK.jpg" group-title="Movies | GUNCEL DIZI",DIZI: KURULUS ORHAN (SON BOLUM)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/29572.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0kk5PUB850OlrVA1w7hgc41E9T.jpg" group-title="Movies | GUNCEL DIZI",DIZI: KRAL KAYBEDERSE ( SON BOLUM )
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0kk5PUB850OlrVA1w7hgc41E9T.jpg" group-title="Movies | GUNCEL DIZI",DIZI: KRAL KAYBEDERSE ( FINAL BOLUM )
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/147638.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLGXHS3o0BuJhd3wDTTYddrRsxZ.jpg" group-title="Movies | GUNCEL DIZI",DIZI: MEHMED: FETIHLER SULTANI ( SON BOLUM )
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/137946.mkv
@@ -17872,7 +17874,7 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1413.mp4
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1417.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TURK DIZILERI",Bir Zamanlar İstanbul (FiNAL)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1427.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | TURK DIZILERI",Kral Kaybederse
+#EXTINF:-1 tvg-logo="" group-title="Movies | TURK DIZILERI",Kral Kaybederse (FiNAL)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1428.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TURK DIZILERI",Eşref Rüya
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1464.mp4
@@ -19641,4 +19643,4 @@ http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1503
 #EXTINF:-1 tvg-logo="" group-title="Series | TR ALTYAZI SERIES",Pluribus
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1803
 
-# Total: 9753
+# Total: 9754

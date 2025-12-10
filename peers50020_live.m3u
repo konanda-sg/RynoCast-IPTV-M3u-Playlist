@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: peers50020.cdngold.me
-# Generated: 2025-12-10 07:13:31
+# Generated: 2025-12-10 18:27:56
 # Expires: 2026-01-21
 # Family Safe Edition
 # ==============================================
@@ -1521,7 +1521,7 @@ http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/294641.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3294.jpg?43845" group-title="AL| HUMOR",AL: KAFENEJA JONE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/294638.m3u8
 
-# --- AL| LAJME (42) ---
+# --- AL| LAJME (43) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Animated-Flag-Albania.gif" group-title="AL| LAJME",###### LAJME ######
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/294476.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11008.png?93697" group-title="AL| LAJME",AL: A2 CNN
@@ -1604,10 +1604,12 @@ http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/294530.m3u8
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/294627.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10999.png?6717" group-title="AL| LAJME",AL: REPORT TV HD
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/578152.m3u8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6397.jpg?65067" group-title="AL| LAJME",AL: RTV FONTANA HD
+http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/569375.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3071.png?73676" group-title="AL| LAJME",AL: PANORAMA TV 4K
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/578178.m3u8
 
-# --- AL| MUZIKË (40) ---
+# --- AL| MUZIKË (39) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Animated-Flag-Albania.gif" group-title="AL| MUZIKË",###### MUZIKË ######
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/294586.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/2998.jpg?41492" group-title="AL| MUZIKË",AL: CIFTELI HD
@@ -1654,8 +1656,6 @@ http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/294594.m3u8
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/294593.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8555.jpg?18827" group-title="AL| MUZIKË",AL: TIRANA TV
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/294617.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6397.jpg?65067" group-title="AL| MUZIKË",AL: RTV FONTANA HD
-http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/569375.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10827.jpg?91888" group-title="AL| MUZIKË",AL: MUSIC TV 4K
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/616158.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3350.png?57263" group-title="AL| MUZIKË",AL: ASHK TV 1 4K
@@ -4327,20 +4327,22 @@ http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1174195.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN EXCLUSIVE ᴴᴰ/ᴿᴬᵂ",DE: DAZN MOTO AMERICA ᴿᴬᵂ
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1174193.m3u8
 
-# --- DE| DAZN PPV (50) ---
+# --- DE| DAZN PPV (51) ---
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vCPR3CSF/DAZN-Logo-Gif.gif" group-title="DE| DAZN PPV",##### DAZN PPV #####
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/299317.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 1 - VILLANOVA @ MICHIGAN | Wed 10 Dec 00:20 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/919838.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 2 - LIGHTNING @ CANADIENS | Wed 10 Dec 00:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 2 - SOUTH AFRICA | DAY 3 (PRO STREAM) | Wed 10 Dec 11:20 | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/919837.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 3 - SHARKS @ FLYERS | Wed 10 Dec 00:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 3 - SOUTH AFRICA | DAY 3 | Wed 10 Dec 11:20 | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/919836.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 4 - DUCKS @ PENGUINS | Wed 10 Dec 00:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/919835.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 5 - ILLINOIS @ OHIO STATE | Wed 10 Dec 01:20 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/919834.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 7 - STARS @ JETS | Wed 10 Dec 01:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/919833.m3u8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/919832.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/919831.m3u8
@@ -4752,7 +4754,7 @@ http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/587115.m3u8
 # --- DE| DYN PPV EXCLUSIVE (51) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Animated-Flag-Germany.gif" group-title="DE| DYN PPV EXCLUSIVE",####### DYN PPV EXCLUSIVE #######
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1045779.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13695.jpg?ver=35793" group-title="DE| DYN PPV EXCLUSIVE",DE: DYN PPV 1 - NO EVENT STREAMING -
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13695.jpg?ver=35793" group-title="DE| DYN PPV EXCLUSIVE",DE: DYN PPV 1 - WTT FINALS HONGKONG TAG 1 NIGHTSESSION | Wed 10 Dec 11:00
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1045778.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13695.jpg?ver=35793" group-title="DE| DYN PPV EXCLUSIVE",DE: DYN PPV 2 - NO EVENT STREAMING -
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1045777.m3u8
@@ -6310,7 +6312,7 @@ http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/816704.m3u8
 # --- DE| NOW TV SPORTS PPV (51) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Animated-Flag-Germany.gif" group-title="DE| NOW TV SPORTS PPV",####### NOW TV PPV #######
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1055929.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13809.png?ver=88754" group-title="DE| NOW TV SPORTS PPV",DE: NOW TV PPV 1 - NO EVENT STREAMING -
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13809.png?ver=88754" group-title="DE| NOW TV SPORTS PPV",DE: NOW TV PPV 1 - DER MITTAG | Wed 10 Dec 12:00 | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1055928.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13809.png?ver=88754" group-title="DE| NOW TV SPORTS PPV",DE: NOW TV PPV 2 - NO EVENT STREAMING -
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1055927.m3u8
@@ -7766,9 +7768,9 @@ http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1324769.m3u8
 # --- DE| SPORT EUROPE PPV (101) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Animated-Flag-Germany.gif" group-title="DE| SPORT EUROPE PPV",##### SPORT EUROPE PPV #####
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1035021.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 1 - NO EVENT STREAMING -
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 1 - 127. DEUTSCHE MEISTERSCHAFTEN IM EISKUNSTLAUF TAG 3 TEIL 1 | Wed 10 Dec 08:00
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1035020.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 2 - NO EVENT STREAMING -
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 2 - BOXEN_DEUTSCHE_MEISTERSCHAFT_ELITE_2025 | Wed 10 Dec 09:55
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1035019.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 3 - NO EVENT STREAMING -
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1035018.m3u8
@@ -12110,13 +12112,13 @@ http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/612878.m3u8
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/612877.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="UK| DAZN PPV VIP",UK: DAZN PPV HEVC 4K
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/612876.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 1 - CLEMSON @ BYU | Wed 10 Dec 00:20 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/941097.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 2 - VILLANOVA @ MICHIGAN | Wed 10 Dec 00:20 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 2 - SOUTH AFRICA - DAY 3 (PRO STREAM) | Wed 10 Dec 11:20 | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/941096.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 3 - NORTH CAROLINA CENTRAL @ KENTUCKY | Wed 10 Dec 00:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 3 - SOUTH AFRICA - DAY 3 (STANDARD STREAM) | Wed 10 Dec 11:20 | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/941095.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 4 - ILLINOIS @ OHIO STATE | Wed 10 Dec 01:20 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/941094.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/941093.m3u8
@@ -12174,7 +12176,7 @@ http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/941068.m3u8
 # --- UK| DISCOVERY+ PPV (101) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="UK| DISCOVERY+ PPV",####### DISCOVERY+ PPV #######
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/938876.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="UK| DISCOVERY+ PPV",UK: D+ PPV 1 - NEW ZEALAND - WEST INDIES | Tue 09 Dec 21:30 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="UK| DISCOVERY+ PPV",UK: D+ PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/938875.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="UK| DISCOVERY+ PPV",UK: D+ PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/938874.m3u8
@@ -13525,15 +13527,17 @@ http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1536216.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13811.png?ver=56024" group-title="UK| ITV X VIP",UK: VERA ᴴᴰ
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1536215.m3u8
 
-# --- UK| KIDS ʰᵉᵛᶜ (12) ---
+# --- UK| KIDS ʰᵉᵛᶜ (13) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="UK| KIDS ʰᵉᵛᶜ",### UK KIDS HEVC/HD ###
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/717695.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6438.jpg?96359" group-title="UK| KIDS ʰᵉᵛᶜ",UK: SKY KIDS HEVC HD
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/717694.m3u8
-#EXTINF:-1 tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/746.png?37597" group-title="UK| KIDS ʰᵉᵛᶜ",UK: NICK JR HEVC HD
-http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/717693.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3795.jpg?48463" group-title="UK| KIDS ʰᵉᵛᶜ",UK: NICK  HEVC HD
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/717692.m3u8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6637.png?47944" group-title="UK| KIDS ʰᵉᵛᶜ",UK: DISNEY JR HD
+http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1739582.m3u8
+#EXTINF:-1 tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/746.png?37597" group-title="UK| KIDS ʰᵉᵛᶜ",UK: NICK JR HEVC HD
+http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/717693.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/633.png?14401" group-title="UK| KIDS ʰᵉᵛᶜ",UK: CARTOON NETWORK HEVC HD
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/717691.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6163.png?23160" group-title="UK| KIDS ʰᵉᵛᶜ",UK: BOOMERANG HEVC HD
@@ -13551,7 +13555,7 @@ http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/717685.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6163.png?95301" group-title="UK| KIDS ʰᵉᵛᶜ",UK: BOOMERANG HEVC 4K
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/717684.m3u8
 
-# --- UK| KIDS ᴴᴰ/ᴿᴬᵂ (32) ---
+# --- UK| KIDS ᴴᴰ/ᴿᴬᵂ (33) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="UK| KIDS ᴴᴰ/ᴿᴬᵂ",#### KIDS HD/4K ####
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1015419.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/634.jpg?34404" group-title="UK| KIDS ᴴᴰ/ᴿᴬᵂ",UK: DISNEY CHANNEL 4K
@@ -13566,6 +13570,8 @@ http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/162232.m3u8
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/162235.m3u8
 #EXTINF:-1 tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/743.png?16934" group-title="UK| KIDS ᴴᴰ/ᴿᴬᵂ",UK: NICKELODEON +1
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/162236.m3u8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6637.png?47944" group-title="UK| KIDS ᴴᴰ/ᴿᴬᵂ",UK: DISNEY JR
+http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1739583.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8186.png?19350" group-title="UK| KIDS ᴴᴰ/ᴿᴬᵂ",UK: NICK TOONS
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/162241.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/746.png?90235" group-title="UK| KIDS ᴴᴰ/ᴿᴬᵂ",UK: NICK JUNIOR
@@ -14566,7 +14572,7 @@ http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/617897.m3u8
 # --- UK| PEACOCK PPV (31) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="UK| PEACOCK PPV",####### PEACOCK PPV #######
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1078527.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="UK| PEACOCK PPV",US: PEACOCK PPV 1 - ILLINOIS VS. OHIO STATE | Wed 10 Dec 01:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="UK| PEACOCK PPV",UK: NOW TV PPV 1 - NO EVENT STREAMING -
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1078526.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="UK| PEACOCK PPV",UK: NOW TV PPV 2 - NO EVENT STREAMING -
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1078525.m3u8
@@ -14662,7 +14668,7 @@ http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/632397.m3u8
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/632396.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8133.png?25642" group-title="UK| PPV EVENT",Boxing 8: Eubank Jr v Benn 2
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/632395.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8133.png?25642" group-title="UK| PPV EVENT",LIVE EVENT 01 - 5PM Snowball Derby Five Flags
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8133.png?25642" group-title="UK| PPV EVENT",LIVE EVENT 01 - NO EVENT
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/605787.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8133.png?25642" group-title="UK| PPV EVENT",LIVE EVENT 02- NO EVENT
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/605786.m3u8
@@ -16179,7 +16185,7 @@ http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/595834.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1368.png?68271" group-title="UK| SPORT ᴴᴰ",UK: BEIN SPORTS AU 3 ᴴᴰ ◉
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/595833.m3u8
 
-# --- UK| SPORT ᴴᴰ ⱽᴵᴾ (34) ---
+# --- UK| SPORT ᴴᴰ ⱽᴵᴾ (35) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="UK| SPORT ᴴᴰ ⱽᴵᴾ",####### SKY SPORTS ᴴᴰ #######
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1290318.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12268.jpg?8611" group-title="UK| SPORT ᴴᴰ ⱽᴵᴾ",VIP: SKY SPORTS NEWS ᴴᴰ
@@ -16216,10 +16222,10 @@ http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1290303.m3u8
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1290302.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12273.jpg?49876" group-title="UK| SPORT ᴴᴰ ⱽᴵᴾ",VIP: PREMIER SPORT 2 ᴴᴰ
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1290301.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12265.jpg?48355" group-title="UK| SPORT ᴴᴰ ⱽᴵᴾ",VIP: RACING TV ᴴᴰ
-http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1290300.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12271.jpg?49130" group-title="UK| SPORT ᴴᴰ ⱽᴵᴾ",VIP: LFC TV ᴴᴰ
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1290299.m3u8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12265.jpg?48355" group-title="UK| SPORT ᴴᴰ ⱽᴵᴾ",VIP: RACING TV ᴴᴰ
+http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1290300.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6139.png?17661" group-title="UK| SPORT ᴴᴰ ⱽᴵᴾ",VIP: MUTV ᴴᴰ
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1290298.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="UK| SPORT ᴴᴰ ⱽᴵᴾ",####### SKY SPORTS ᴴᴰ ʰᵉᵛᶜ #######
@@ -16248,6 +16254,8 @@ http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1290287.m3u8
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1290286.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/7872.jpg?68905" group-title="UK| SPORT ᴴᴰ ⱽᴵᴾ",VIP: SKY SPORTS + ᴴᴰ ʰᵉᵛᶜ
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1290285.m3u8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/14722.jpg?48514" group-title="UK| SPORT ᴴᴰ ⱽᴵᴾ",UK: TALK SPORT ᴿᴬᵂ
+http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1739581.m3u8
 
 # --- UK| SPORT ᴿᴬᵂ (39) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="UK| SPORT ᴿᴬᵂ",##### SPORTS ᴿᴬᵂ #####
@@ -16322,10 +16330,10 @@ http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/587994.m3u8
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/587993.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11975.png?54684" group-title="UK| SPORT ᴿᴬᵂ",UK: RACING ᴿᴬᵂ
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/587988.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8117.png?91903" group-title="UK| SPORT ᴿᴬᵂ",UK: EDGE SPORT ᴿᴬᵂ
-http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/587964.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12271.jpg?38281" group-title="UK| SPORT ᴿᴬᵂ",UK: LFC TV ᴿᴬᵂ
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/588057.m3u8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8117.png?91903" group-title="UK| SPORT ᴿᴬᵂ",UK: EDGE SPORT ᴿᴬᵂ
+http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/587964.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6139.png?96489" group-title="UK| SPORT ᴿᴬᵂ",UK: MUTV ᴿᴬᵂ
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/588055.m3u8
 
@@ -16662,7 +16670,7 @@ http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1176212.m3u8
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/605805.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13707.jpeg?ver=13111" group-title="UK| TRILLER TV PPV",Fite TV | 24/7
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/605821.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13707.jpeg?ver=13111" group-title="UK| TRILLER TV PPV",Triller TV | Event 1 Stateline Rumble #5 // UK Sat 6 Dec 11:00pm // ET Sat 6 Dec 6:00pm
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13707.jpeg?ver=13111" group-title="UK| TRILLER TV PPV",Triller TV | Event 1 AEW Dynamite Episode 5025 Winter Is Coming // UK Thu 11 Dec 1:00am // ET Wed 10 Dec 8:00pm
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/605820.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13707.jpeg?ver=13111" group-title="UK| TRILLER TV PPV",Triller TV | Event 2 Memphis Wrestling Episode 250 Milestone // UK Sat 6 Dec 5:00pm // ET Sat 6 Dec 12:00pm
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/605819.m3u8
@@ -16910,13 +16918,13 @@ http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1537891.m3u8
 # --- UK| VOLLEY BALL WORLD PPV (31) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="UK| VOLLEY BALL WORLD PPV",####### VOLLEY PPV #######
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1538848.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/14412.jpg?ver=23684" group-title="UK| VOLLEY BALL WORLD PPV",UK: VOLLEY PPV 1 - OSASCO SAO CRISTOVAO SAUDE (BRA) - ALIANZA LIMA (PER) | Tue 09 Dec 23:25 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/14412.jpg?ver=23684" group-title="UK| VOLLEY BALL WORLD PPV",UK: VOLLEY PPV 1 - NO EVENT STREAMING - 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1538847.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/14412.jpg?ver=23684" group-title="UK| VOLLEY BALL WORLD PPV",UK: VOLLEY PPV 2 - SESI BAURU - SANEAGO GOIAS | ROUND 9 | Tue 09 Dec 21:20 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/14412.jpg?ver=23684" group-title="UK| VOLLEY BALL WORLD PPV",UK: VOLLEY PPV 2 - NO EVENT STREAMING - 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1538846.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/14412.jpg?ver=23684" group-title="UK| VOLLEY BALL WORLD PPV",UK: VOLLEY PPV 3 - JOINVILLE VOLEI - VIAPOL SAO JOSE | ROUND 9 | Tue 09 Dec 21:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/14412.jpg?ver=23684" group-title="UK| VOLLEY BALL WORLD PPV",UK: VOLLEY PPV 3 - NO EVENT STREAMING - 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1538845.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/14412.jpg?ver=23684" group-title="UK| VOLLEY BALL WORLD PPV",UK: VOLLEY PPV 4 - FLUMINENSE - SESC RJ FLAMENGO | ROUND 2 | Wed 10 Dec 00:20 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/14412.jpg?ver=23684" group-title="UK| VOLLEY BALL WORLD PPV",UK: VOLLEY PPV 4 - NO EVENT STREAMING - 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1538844.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/14412.jpg?ver=23684" group-title="UK| VOLLEY BALL WORLD PPV",UK: VOLLEY PPV 5 - NO EVENT STREAMING - 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1538843.m3u8
@@ -16971,4 +16979,4 @@ http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1538819.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/14412.jpg?ver=23684" group-title="UK| VOLLEY BALL WORLD PPV",UK: VOLLEY PPV 30 - NO EVENT STREAMING - 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1538818.m3u8
 
-# Total: 8298
+# Total: 8302

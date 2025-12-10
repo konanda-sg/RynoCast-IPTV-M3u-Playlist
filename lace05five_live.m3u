@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: lace05five.com:80
-# Generated: 2025-12-10 07:06:40
+# Generated: 2025-12-10 18:30:26
 # Expires: 2025-12-11
 # Family Safe Edition
 # ==============================================
@@ -1134,7 +1134,7 @@ http://lace05five.com:80/live/fidelnog1/nogfidel1/6546.m3u8
 http://lace05five.com:80/live/fidelnog1/nogfidel1/100517.m3u8
 
 # --- DISNEY+ (29) ---
-#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Arsenal x FC Twente
+#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Sanfrecce Hiroshima x Shanghai Shenhua
 http://lace05five.com:80/live/fidelnog1/nogfidel1/346368.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Paris Saint-Germain x OH Leuven
 http://lace05five.com:80/live/fidelnog1/nogfidel1/346369.m3u8
@@ -2815,62 +2815,66 @@ http://lace05five.com:80/live/fidelnog1/nogfidel1/100488.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4k.store/logos/zoomoo.png" group-title="INFANTIS",Zoomoo SD
 http://lace05five.com:80/live/fidelnog1/nogfidel1/100489.m3u8
 
-# --- JOGOS DO DIA (58) ---
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Kairat Almaty x Olympiacos FC - 12:30 FHD
+# --- JOGOS DO DIA (60) ---
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Cruz Azul x Flamengo - 14:00 FHD
 http://lace05five.com:80/live/fidelnog1/nogfidel1/355630.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Kairat Almaty x Olympiacos FC - 12:30 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Cruz Azul x Flamengo - 14:00 HD
 http://lace05five.com:80/live/fidelnog1/nogfidel1/355631.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",FC Bayern München x Sporting CP - 14:45 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Fútbol Club Barcelona x Benfica - 14:45 FHD
 http://lace05five.com:80/live/fidelnog1/nogfidel1/355632.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",FC Bayern München x Sporting CP - 14:45 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Fútbol Club Barcelona x Benfica - 14:45 HD
 http://lace05five.com:80/live/fidelnog1/nogfidel1/355633.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",SKN St. Pölten x Juventus - 14:45 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Qarabağ FK x AFC Ajax - 14:45 FHD
 http://lace05five.com:80/live/fidelnog1/nogfidel1/355634.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",SKN St. Pölten x Juventus - 14:45 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Qarabağ FK x AFC Ajax - 14:45 HD
 http://lace05five.com:80/live/fidelnog1/nogfidel1/355635.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Royale Union Saint-Gilloise x Olympique de Marseille - 17:00 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Villarreal x FC København - 14:45 FHD
+http://lace05five.com:80/live/fidelnog1/nogfidel1/355636.m3u8
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Villarreal x FC København - 14:45 HD
+http://lace05five.com:80/live/fidelnog1/nogfidel1/355637.m3u8
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Chelsea FC x AS Roma - 17:00 FHD
 http://lace05five.com:80/live/fidelnog1/nogfidel1/355638.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Royale Union Saint-Gilloise x Olympique de Marseille - 17:00 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Chelsea FC x AS Roma - 17:00 HD
 http://lace05five.com:80/live/fidelnog1/nogfidel1/355639.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",PSV Eindhoven x Atlético Madrid - 17:00 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Borussia Dortmund x Bodø/Glimt - 17:00 FHD
 http://lace05five.com:80/live/fidelnog1/nogfidel1/355640.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",PSV Eindhoven x Atlético Madrid - 17:00 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Borussia Dortmund x Bodø/Glimt - 17:00 HD
 http://lace05five.com:80/live/fidelnog1/nogfidel1/355641.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Arsenal x FC Twente Vrouwen - 17:00 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Real Madrid x Manchester City - 17:00 FHD
 http://lace05five.com:80/live/fidelnog1/nogfidel1/355642.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Arsenal x FC Twente Vrouwen - 17:00 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Real Madrid x Manchester City - 17:00 HD
 http://lace05five.com:80/live/fidelnog1/nogfidel1/355643.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Real Madrid x VfL Wolfsburg - 17:00 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Club Brugge KV x Arsenal - 17:00 FHD
 http://lace05five.com:80/live/fidelnog1/nogfidel1/355644.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Real Madrid x VfL Wolfsburg - 17:00 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Club Brugge KV x Arsenal - 17:00 HD
 http://lace05five.com:80/live/fidelnog1/nogfidel1/355645.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Inter x Liverpool - 17:00 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Club Atlético de Madrid x FC Bayern München - 17:00 FHD
 http://lace05five.com:80/live/fidelnog1/nogfidel1/355646.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Inter x Liverpool - 17:00 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Club Atlético de Madrid x FC Bayern München - 17:00 HD
 http://lace05five.com:80/live/fidelnog1/nogfidel1/355647.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Barcelona x Eintracht Frankfurt - 17:00 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Manchester United x OL Lyonnes - 17:00 FHD
 http://lace05five.com:80/live/fidelnog1/nogfidel1/355648.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Barcelona x Eintracht Frankfurt - 17:00 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Manchester United x OL Lyonnes - 17:00 HD
 http://lace05five.com:80/live/fidelnog1/nogfidel1/355649.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Atalanta x Chelsea - 17:00 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Benfica x Napoli - 17:00 FHD
 http://lace05five.com:80/live/fidelnog1/nogfidel1/355650.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Atalanta x Chelsea - 17:00 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Benfica x Napoli - 17:00 HD
 http://lace05five.com:80/live/fidelnog1/nogfidel1/355651.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",AS Monaco x Galatasaray - 17:00 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Bayer 04 Leverkusen x Newcastle United - 17:00 FHD
 http://lace05five.com:80/live/fidelnog1/nogfidel1/355652.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",AS Monaco x Galatasaray - 17:00 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Bayer 04 Leverkusen x Newcastle United - 17:00 HD
 http://lace05five.com:80/live/fidelnog1/nogfidel1/355653.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",América Mineiro Sub-20 x São Paulo Sub-20 - 20:00 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Athletic Club x Paris Saint-Germain - 17:00 FHD
 http://lace05five.com:80/live/fidelnog1/nogfidel1/355654.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",América Mineiro Sub-20 x São Paulo Sub-20 - 20:00 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Athletic Club x Paris Saint-Germain - 17:00 HD
 http://lace05five.com:80/live/fidelnog1/nogfidel1/355655.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Juventus x Pafos FC - 17:00 FHD
 http://lace05five.com:80/live/fidelnog1/nogfidel1/355656.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Juventus x Pafos FC - 17:00 HD
 http://lace05five.com:80/live/fidelnog1/nogfidel1/355657.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Cruzeiro x Corinthians - 21:30 FHD
 http://lace05five.com:80/live/fidelnog1/nogfidel1/355658.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Cruzeiro x Corinthians - 21:30 HD
 http://lace05five.com:80/live/fidelnog1/nogfidel1/355659.m3u8
 #EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
 http://lace05five.com:80/live/fidelnog1/nogfidel1/355660.m3u8
@@ -4457,4 +4461,4 @@ http://lace05five.com:80/live/fidelnog1/nogfidel1/155608.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4k.store/logos/YOUTUBE-24HS.png" group-title="YOUTUBE 24 HORAS",Partoba
 http://lace05five.com:80/live/fidelnog1/nogfidel1/155606.m3u8
 
-# Total: 2180
+# Total: 2182

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: funmitra.com:8080
-# Generated: 2025-12-09 07:03:28
+# Generated: 2025-12-10 18:28:54
 # Expires: 2026-04-30
 # Family Safe Edition
 # ==============================================
@@ -127,7 +127,7 @@ http://funmitra.com:8080/live/pepi290424/wbktXzArzf/455108.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/AFRICA/walf-tv-sn.png" group-title="AF C+ AFRICA",AF: VIP WALF TV
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/455107.m3u8
 
-# --- AL ALBANIA (91) ---
+# --- AL ALBANIA (93) ---
 #EXTINF:-1 tvg-logo="" group-title="AL ALBANIA",AL: BIG BROTHER VIP ALBANIA 1
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/640700.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AL ALBANIA",AL: BIG BROTHER VIP ALBANIA 2
@@ -272,8 +272,12 @@ http://funmitra.com:8080/live/pepi290424/wbktXzArzf/301760.m3u8
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/3188.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AL ALBANIA",AL: BIG BROTHER VIP KOSOVA 1 (VIP)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/642139.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AL ALBANIA",AL: BIG BROTHER VIP KOSOVA 1 (B)
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/648156.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AL ALBANIA",AL: BIG BROTHER VIP KOSOVA 2 (VIP)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/642140.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AL ALBANIA",AL: BIG BROTHER VIP KOSOVA 2 (B)
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/648157.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/7TV.png" group-title="AL ALBANIA",AL: T7 FHD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/361572.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/atvKosova.png" group-title="AL ALBANIA",AL: ATV KOSOVA HD
@@ -1447,7 +1451,7 @@ http://funmitra.com:8080/live/pepi290424/wbktXzArzf/638629.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/AZERBAYCAN/cbc_sport_az.png" group-title="AZ AZERBAIJAN - AZƏRBAYCAN",AZ: CBC SPORTS HD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/331039.m3u8
 
-# --- BE BELGIE - BELGIQUE (73) ---
+# --- BE BELGIE - BELGIQUE (72) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/be.png" group-title="BE BELGIE - BELGIQUE",BE: ----- BELGIE BELGIQUE -----
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/135917.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/BELGIUM/LAUNEHD.png" group-title="BE BELGIE - BELGIQUE",BE: LA UNE HD
@@ -1544,8 +1548,6 @@ http://funmitra.com:8080/live/pepi290424/wbktXzArzf/280805.m3u8
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/298638.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BE BELGIE - BELGIQUE",BE: RTL DISCTRICT HD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/600736.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BE BELGIE - BELGIQUE",BE: RTL DISCTRICT FHD
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/600737.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/BELGIUM/ab3.png" group-title="BE BELGIE - BELGIQUE",BE: AB3 FHD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/377203.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BE BELGIE - BELGIQUE",BE: ----- VIP BELGIE BELGIQUE  -----
@@ -1554,7 +1556,7 @@ http://funmitra.com:8080/live/pepi290424/wbktXzArzf/384838.m3u8
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/377216.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/BELGIUM/LAUNEHD.png" group-title="BE BELGIE - BELGIQUE",BE: VIP LA UNE HD (B)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/377215.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/BELGIUM/LADEUX.png" group-title="BE BELGIE - BELGIQUE",BE: VIP TIPIK HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/BELGIUM/LADEUX.png" group-title="BE BELGIE - BELGIQUE",BE: VIP TIPIK VISION HD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/377214.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/BELGIUM/LADEUX.png" group-title="BE BELGIE - BELGIQUE",BE: VIP TIPIK (B)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/377213.m3u8
@@ -12700,7 +12702,7 @@ http://funmitra.com:8080/live/pepi290424/wbktXzArzf/275313.m3u8
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/144616.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/a-z/--H--/humorplusz.png" group-title="HU HUNGARY",HU: HUMOR
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/144622.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/HUNGARIAN/macar2021/rtlklub.png" group-title="HU HUNGARY",HU: RTL CLUB
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/HUNGARIAN/macar2021/rtlklub.png" group-title="HU HUNGARY",HU: RTL KLUB
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/144866.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/HUNGARIAN/macar2021/tlc.png" group-title="HU HUNGARY",HU: TLC
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/275386.m3u8
@@ -19768,7 +19770,7 @@ http://funmitra.com:8080/live/pepi290424/wbktXzArzf/193921.m3u8
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/193922.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/skandinavian/norway/viasport3.png" group-title="SC SCANDINAVIAN SPORT",NO: VIASPORT 3 HD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/193923.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/SCANDINAVIAN/viasport+.png" group-title="SC SCANDINAVIAN SPORT",NO: VIASPORT+ PLUS HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/SCANDINAVIAN/viasport+.png" group-title="SC SCANDINAVIAN SPORT",NO: V SPORT+ HD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/193363.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/skandinavian/norway/tv2_sport_premium1.png" group-title="SC SCANDINAVIAN SPORT",NO: TV2 SPORT PREMIUM 1 HD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/139337.m3u8
@@ -20131,7 +20133,7 @@ http://funmitra.com:8080/live/pepi290424/wbktXzArzf/314533.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/a-z/--A--/arenasport1.png" group-title="SK SLOVAKIA",SK: ARENA SPORT 1 FHD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/469264.m3u8
 
-# --- SL SLOVENIA (175) ---
+# --- SL SLOVENIA (167) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/slovenia/SLO1.png" group-title="SL SLOVENIA",SI: SLO 1 HD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/259159.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/slovenia/SLO2.png" group-title="SL SLOVENIA",SI: SLO 2 HD
@@ -20164,8 +20166,6 @@ http://funmitra.com:8080/live/pepi290424/wbktXzArzf/329351.m3u8
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/329341.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/slovenia/kinotv.png" group-title="SL SLOVENIA",SI: KINO
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/259154.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/slovenia/Nova_24_TV_2.png" group-title="SL SLOVENIA",SI: NOVA 24 TV 2
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/329342.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/slovenia/nova24.png" group-title="SL SLOVENIA",SI: NOVA 24 TV
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/259169.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/a-z/--G--/golicatv.png" group-title="SL SLOVENIA",SI: GOLICA TV
@@ -20204,10 +20204,6 @@ http://funmitra.com:8080/live/pepi290424/wbktXzArzf/609203.m3u8
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/609202.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SL SLOVENIA",SI: ARCADIA WORLD FHD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/609201.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SL SLOVENIA",SI: ASTRA TV FHD
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/609194.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SL SLOVENIA",SI: ASTRA TV HD
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/609193.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SL SLOVENIA",SI: AXN HD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/609192.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SL SLOVENIA",SI: AXN SPIN
@@ -20246,8 +20242,6 @@ http://funmitra.com:8080/live/pepi290424/wbktXzArzf/609176.m3u8
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/609175.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SL SLOVENIA",SI: CINESTAR TV 1 HD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/609174.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SL SLOVENIA",SI: CINESTAR TV 2 HD
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/609173.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SL SLOVENIA",SI: CRIME INVESTIGATION
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/609172.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SL SLOVENIA",SI: DA VINCI HD
@@ -20284,8 +20278,6 @@ http://funmitra.com:8080/live/pepi290424/wbktXzArzf/609157.m3u8
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/609156.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SL SLOVENIA",SI: EUROSPORT
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/609155.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SL SLOVENIA",SI: FASHION TV 4K
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/609154.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SL SLOVENIA",SI: FASHION TV HD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/609153.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SL SLOVENIA",SI: FILMBOX ARTHOUSE HD
@@ -20316,8 +20308,6 @@ http://funmitra.com:8080/live/pepi290424/wbktXzArzf/609141.m3u8
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/609140.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SL SLOVENIA",SI: ICONCERTS HD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/609139.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SL SLOVENIA",SI: KAMIN HD
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/609138.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SL SLOVENIA",SI: KIC TV HD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/609135.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SL SLOVENIA",SI: KOPER TV
@@ -20350,8 +20340,6 @@ http://funmitra.com:8080/live/pepi290424/wbktXzArzf/609120.m3u8
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/609119.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SL SLOVENIA",SI: NAUTICAL CHANNEL HD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/609118.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SL SLOVENIA",SI: NBA TV
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/609117.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SL SLOVENIA",SI: NICKELODEON
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/609116.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SL SLOVENIA",SI: NOVA 24 TV HD
@@ -20384,8 +20372,6 @@ http://funmitra.com:8080/live/pepi290424/wbktXzArzf/609102.m3u8
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/609101.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SL SLOVENIA",SI: RTS MARIBOR
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/609100.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SL SLOVENIA",SI: SCIFI HD
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/609099.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SL SLOVENIA",SI: SIP TV
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/609098.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SL SLOVENIA",SI: STAR CHANNEL HD
@@ -25435,4 +25421,4 @@ http://funmitra.com:8080/live/pepi290424/wbktXzArzf/493830.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VN VIETNAM",VN: VTV8 HD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/493825.m3u8
 
-# Total: 12539
+# Total: 12532
