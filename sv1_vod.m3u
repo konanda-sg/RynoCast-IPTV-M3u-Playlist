@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: sv1.casahd.com
-# Generated: 2025-12-09 18:27:36
+# Generated: 2025-12-10 07:07:00
 # Expires: 2026-05-02
 # Family Safe Edition
 # ==============================================
@@ -29279,7 +29279,7 @@ http://sv1.casahd.com/series/528398/824141/46620
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | AMC Plus",This Is Going to Hurt
 http://sv1.casahd.com/series/528398/824141/47476
 
-# --- Series | Series | Amazon Prime Video (686) ---
+# --- Series | Series | Amazon Prime Video (692) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",1 Contra Todos
 http://sv1.casahd.com/series/528398/824141/45271
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",90 Dias De Volta Pra Pista
@@ -30652,6 +30652,18 @@ http://sv1.casahd.com/series/528398/824141/53216
 http://sv1.casahd.com/series/528398/824141/53235
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",Rosario Tijeras Mexico
 http://sv1.casahd.com/series/528398/824141/53239
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",Beach Life
+http://sv1.casahd.com/series/528398/824141/53252
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",Despachos de Outro Lugar
+http://sv1.casahd.com/series/528398/824141/53253
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",Os Osbournes Investigacao Paranormal
+http://sv1.casahd.com/series/528398/824141/53256
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",Spartacus House of Ashur
+http://sv1.casahd.com/series/528398/824141/53258
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",The Real CSI Miami
+http://sv1.casahd.com/series/528398/824141/53259
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",Orgulho e Preconceito
+http://sv1.casahd.com/series/528398/824141/53261
 
 # --- Series | Series | Apple TV Plus (230) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Apple TV Plus",12 Monkeys
@@ -32137,7 +32149,7 @@ http://sv1.casahd.com/series/528398/824141/52969
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Discovery Plus",Caca Tempestades
 http://sv1.casahd.com/series/528398/824141/53161
 
-# --- Series | Series | Disney Plus (417) ---
+# --- Series | Series | Disney Plus (418) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Disney Plus",3Hz
 http://sv1.casahd.com/series/528398/824141/49089
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Disney Plus",9-1-1
@@ -32972,8 +32984,10 @@ http://sv1.casahd.com/series/528398/824141/53187
 http://sv1.casahd.com/series/528398/824141/53211
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Disney Plus",Sobrevoando
 http://sv1.casahd.com/series/528398/824141/53214
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Disney Plus",911 Nashville
+http://sv1.casahd.com/series/528398/824141/53251
 
-# --- Series | Series | Dorama (528) ---
+# --- Series | Series | Dorama (529) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Dorama",20th Century Boy and Girl [L]
 http://sv1.casahd.com/series/528398/824141/51069
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Dorama",365 Repita o Ano [L]
@@ -34030,6 +34044,8 @@ http://sv1.casahd.com/series/528398/824141/53135
 http://sv1.casahd.com/series/528398/824141/53146
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Dorama",Amor de Mentirinha
 http://sv1.casahd.com/series/528398/824141/53185
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Dorama",Talvez Amanha
+http://sv1.casahd.com/series/528398/824141/53260
 
 # --- Series | Series | Funimation Now (22) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Funimation Now",Ataque dos Titas
@@ -34909,7 +34925,7 @@ http://sv1.casahd.com/series/528398/824141/53232
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Globoplay",Vespera
 http://sv1.casahd.com/series/528398/824141/53236
 
-# --- Series | Series | Legendadas (1161) ---
+# --- Series | Series | Legendadas (1163) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",007 Estrada para o Milhao [L]
 http://sv1.casahd.com/series/528398/824141/49501
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",100 Coisas para Fazer Antes de Virar Zumbi [L]
@@ -37232,6 +37248,10 @@ http://sv1.casahd.com/series/528398/824141/53246
 http://sv1.casahd.com/series/528398/824141/53247
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",RuPauls Drag Race [L]
 http://sv1.casahd.com/series/528398/824141/53248
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Greys Anatomy [L]
+http://sv1.casahd.com/series/528398/824141/53249
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",The Boys [L]
+http://sv1.casahd.com/series/528398/824141/53250
 
 # --- Series | Series | Lionsgate (7) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Lionsgate",Da Vinci's Demons
@@ -38219,7 +38239,7 @@ http://sv1.casahd.com/series/528398/824141/53230
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Max",Angela Diniz Assassinada e Condenada
 http://sv1.casahd.com/series/528398/824141/53237
 
-# --- Series | Series | Netflix (1433) ---
+# --- Series | Series | Netflix (1436) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",(A)mar
 http://sv1.casahd.com/series/528398/824141/48857
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",(Des)encanto
@@ -41086,6 +41106,12 @@ http://sv1.casahd.com/series/528398/824141/53234
 http://sv1.casahd.com/series/528398/824141/53240
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Dissociacao
 http://sv1.casahd.com/series/528398/824141/53243
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Dominando Manhattan
+http://sv1.casahd.com/series/528398/824141/53254
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",O Preco da Confissao
+http://sv1.casahd.com/series/528398/824141/53255
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Pro Bono
+http://sv1.casahd.com/series/528398/824141/53257
 
 # --- Series | Series | Outras Produtoras (701) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Outras Produtoras",100 Days Wild
@@ -43175,4 +43201,4 @@ http://sv1.casahd.com/series/528398/824141/52667
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Univer",O Senhor e a Serva
 http://sv1.casahd.com/series/528398/824141/52936
 
-# Total: 21539
+# Total: 21552

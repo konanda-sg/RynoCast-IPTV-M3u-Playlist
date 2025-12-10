@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: cinefull.space:80
-# Generated: 2025-12-09 18:28:02
+# Generated: 2025-12-10 07:03:25
 # Expires: 2026-06-14
 # Family Safe Edition
 # ==============================================
@@ -338,7 +338,7 @@ http://cinefull.space:80/live/244678769/488953583/4.m3u8
 http://cinefull.space:80/live/244678769/488953583/5.m3u8
 #EXTINF:-1 tvg-logo="http://iksds.site:80/images/9146beb5a8679314d618ccca35f3352e.jpg" group-title="Canais | Documentarios",Animal Planet SD
 http://cinefull.space:80/live/244678769/488953583/626.m3u8
-#EXTINF:-1 tvg-logo="http://iksds.site:80/images/f8eca8bb2351a6a664a87a60af09508a.jpg" group-title="Canais | Documentarios",H2 FHD
+#EXTINF:-1 tvg-logo="http://iksds.site:80/images/f8eca8bb2351a6a664a87a60af09508a.jpg" group-title="Canais | Documentarios",H2  FHD
 http://cinefull.space:80/live/244678769/488953583/90.m3u8
 #EXTINF:-1 tvg-logo="http://iksds.site:80/images/f8eca8bb2351a6a664a87a60af09508a.jpg" group-title="Canais | Documentarios",H2 HD
 http://cinefull.space:80/live/244678769/488953583/91.m3u8
@@ -1622,7 +1622,7 @@ http://cinefull.space:80/live/244678769/488953583/234.m3u8
 http://cinefull.space:80/live/244678769/488953583/534.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",COMEDY CENTRAL FHD
 http://cinefull.space:80/live/244678769/488953583/24.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",COMEDY CENTRAL HD
+#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",COMEDY CENTRAL  HD
 http://cinefull.space:80/live/244678769/488953583/25.m3u8
 #EXTINF:-1 tvg-logo="http://iksds.site:80/images/58e2dc8d19501ff1ba9763e1e4f40801.png" group-title="Canais | Variedades",COMEDY CENTRAL SD
 http://cinefull.space:80/live/244678769/488953583/634.m3u8
@@ -1630,9 +1630,9 @@ http://cinefull.space:80/live/244678769/488953583/634.m3u8
 http://cinefull.space:80/live/244678769/488953583/537.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",CURTA! FHD
 http://cinefull.space:80/live/244678769/488953583/296.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",DOG TV HD
+#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",CURTA HD
 http://cinefull.space:80/live/244678769/488953583/341.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",FASHIONTV BRASIL FHD
+#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",FASHIONTV BRASIL  FHD
 http://cinefull.space:80/live/244678769/488953583/53.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",FASHIONTV BRASIL HD
 http://cinefull.space:80/live/244678769/488953583/54.m3u8

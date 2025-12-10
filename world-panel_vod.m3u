@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: world-panel.co:8080
-# Generated: 2025-12-09 18:35:35
+# Generated: 2025-12-10 07:15:29
 # Expires: 2026-03-09
 # Family Safe Edition
 # ==============================================
@@ -20825,7 +20825,7 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1350.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-DISNEY-PLUS",BAT-FAM
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1550.mp4
 
-# --- Movies | SERIE-TV (487) ---
+# --- Movies | SERIE-TV (488) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Inhumans
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Stargate Atlantis
@@ -21800,6 +21800,8 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1567.mp4
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1573.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",The Irrational
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1574.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",All's Fair
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1575.mp4
 
 # --- Movies | SERIE-TV-ITALIA (141) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Capri
@@ -32325,4 +32327,4 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/50888.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/96e97ef7e316fab54d133aa6fcdf30a2.jpg" group-title="Movies | SerieTV",Turner and Hooch 01x12 La Resa Dei Conti
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/50889.mkv
 
-# Total: 16131
+# Total: 16132

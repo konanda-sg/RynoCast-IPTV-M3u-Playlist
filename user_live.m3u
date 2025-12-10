@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: user.scalecdn.co:8080
-# Generated: 2025-12-09 18:34:52
+# Generated: 2025-12-10 07:06:26
 # Expires: 2026-11-29
 # Family Safe Edition
 # ==============================================
@@ -17547,7 +17547,7 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/470285.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA LOCAL PBS",USA PBS (KLVX) NV | Las Vegas
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/725062.m3u8
 
-# --- USA LOW BANDWIDTH (160) ---
+# --- USA LOW BANDWIDTH (159) ---
 #EXTINF:-1 tvg-logo="" group-title="USA LOW BANDWIDTH",FL | Miami | ABC SD WPLG
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/694479.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA LOW BANDWIDTH",FL | Miami | CBS SD
@@ -17614,8 +17614,6 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/97450.m3u8
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/21565.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA LOW BANDWIDTH",USA CINEMAX ACTIONMAX SD
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/97566.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA LOW BANDWIDTH",USA CINEMAX THRILLERMAX SD
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/97568.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA LOW BANDWIDTH",USA CMT SD
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/97451.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1185182366156894208/pKRddT3o_400x400.png" group-title="USA LOW BANDWIDTH",USA CNBC (SD)
@@ -18111,7 +18109,7 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/715075.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA MLS",MLS 20
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/715076.m3u8
 
-# --- USA MOVIES (135) ---
+# --- USA MOVIES (133) ---
 #EXTINF:-1 tvg-logo="" group-title="USA MOVIES",USA 5 Star Max
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/694516.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/8/epg/channels/logos/gracenote/8662623e2b182f7ac9e511bd75425ae4.png" group-title="USA MOVIES",USA AMC Thrillers
@@ -18136,10 +18134,6 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/3622.m3u8
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/51553.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/moremax.png" group-title="USA MOVIES",USA Cinemax MoreMax West
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/81382.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/thrillermax.png" group-title="USA MOVIES",USA CINEMAX THRILLERMAX East UHD
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/51554.m3u8
-#EXTINF:-1 tvg-logo="https://wtcks.com/images/channels/logos/thrillermax.png" group-title="USA MOVIES",USA Cinemax ThrillerMax West
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/81381.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="USA MOVIES",USA Cinemax West
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2611.m3u8
 #EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/287-2873739_cinemax-logo-transparent-hd-png-download.png" group-title="USA MOVIES",USA Cinemax West LHD
@@ -19697,4 +19691,4 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/660965.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VIETNAM",VN Vietface TV
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/660966.m3u8
 
-# Total: 9722
+# Total: 9719

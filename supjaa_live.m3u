@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: supjaa.xyz
-# Generated: 2025-12-09 18:31:45
+# Generated: 2025-12-10 07:16:11
 # Expires: 2025-12-12
 # Family Safe Edition
 # ==============================================
@@ -2497,7 +2497,7 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/317057.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/MY-HD/REELPX(1).png" group-title="AR | MYHD PREMIUM",MYHD - REEL PX unlimited HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/317054.m3u8
 
-# --- AR | OSN (46) ---
+# --- AR | OSN (48) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/BEIN/bss4k.png" group-title="AR | OSN",##### AR - OSN #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1306326.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/OSN/OSN%20-%20E.png" group-title="AR | OSN",OSN - E HD
@@ -2590,6 +2590,10 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/632206.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/632207.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/MUSICNOW.png" group-title="AR | OSN",OSN - MUSIC NOW HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/632205.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/starworld.png" group-title="AR | OSN",OSN - OSN STAR WORLD HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1350466.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/starmovies.png" group-title="AR | OSN",OSN - OSN STAR MOVIES HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1350467.m3u8
 
 # --- AR | PALESTINE (17) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/PALESTINE/PALESTINE.png" group-title="AR | PALESTINE",##### PS - PALESTINE #####
@@ -11410,13 +11414,13 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/427467.m3u8
 # --- VIP | GOLDEN EVENTS (37) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="VIP | GOLDEN EVENTS",##### AR - ARAB CUP #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1018107.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - EGYPT VS JORDAN 15:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1150144.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR -  UNITED ARAB EMIRATES VS KUWAIT 15:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR -  NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1123275.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - ALGERIA VS IRAQ 18:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1123274.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - BAHRAIN VS SUDAN 18:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1039934.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1039920.m3u8
@@ -11836,7 +11840,7 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1291998.m3u8
 # --- VIP | PREMIER LEAGUE (42) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="VIP | PREMIER LEAGUE",##### ENGLISH #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1020754.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - WOLVERHAMPTON WANDERERS VS MANCHESTER UNITED 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1100811.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1100810.m3u8
@@ -11858,7 +11862,7 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015548.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015547.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/flag_france.png" group-title="VIP | PREMIER LEAGUE",##### FRENCH #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1020753.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - WOLVERHAMPTON WANDERERS VS MANCHESTER UNITED 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1100813.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1100812.m3u8
@@ -11880,7 +11884,7 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015541.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015540.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="VIP | PREMIER LEAGUE",##### ARABIC #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1020752.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - WOLVERHAMPTON WANDERERS VS MANCHESTER UNITED 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1100815.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1100814.m3u8
@@ -11902,7 +11906,7 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015555.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015556.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/ALBANIA.png" group-title="VIP | PREMIER LEAGUE",##### ALBANIAN #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1024114.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - WOLVERHAMPTON WANDERERS VS MANCHESTER UNITED 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1225673.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1182487.m3u8
@@ -11975,114 +11979,126 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1018109.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1018108.m3u8
 
-# --- VIP | UEFA CHAMPIONS LEAGUE (54) ---
+# --- VIP | UEFA CHAMPIONS LEAGUE (60) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/frlog.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",###### FRENCH ######
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1296611.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - KAIRAT VS OLYMPIAKOS PIRAEUS - 9 DEC / 16:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - QARABAĞ VS AJAX 18:45 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1292011.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - BAYERN MÜNCHEN VS SPORTING CP - 9 DEC / 18:45 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - VILLARREAL VS KØBENHAVN 18:45 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1292010.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - BARCELONA VS EINTRACHT FRANKFURT - 9 DEC / 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - BENFICA VS NAPOLI 21:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1292009.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - INTERNAZIONALE VS LIVERPOOL - 9 DEC / 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - BORUSSIA DORTMUND VS BODØ / GLIMT 21:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1150141.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - ATALANTA VS CHELSEA - 9 DEC / 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - JUVENTUS VS PAPHOS 21:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1150140.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - UNION SAINT-GILLOISE VS OLYMPIQUE MARSEILLE - 9 DEC / 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - BAYER LEVERKUSEN VS NEWCASTLE UNITED 21:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1150136.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - MONACO VS GALATASARAY - 9 DEC / 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - CLUB BRUGGE VS ARSENAL 21:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1150135.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - PSV VS ATLÉTICO MADRID - 9 DEC / 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - ATHLETIC CLUB VS PSG 21:00 CET
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1039874.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - REAL MADRID VS MANCHESTER CITY 21:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1039873.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",###### ENGLISH ######
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1296612.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",EN - KAIRAT VS OLYMPIAKOS PIRAEUS - 9 DEC / 16:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",EN - QARABAĞ VS AJAX 18:45 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1292005.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",EN - BAYERN MÜNCHEN VS SPORTING CP - 9 DEC / 18:45 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",EN - VILLARREAL VS KØBENHAVN 18:45 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1292004.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",EN - BARCELONA VS EINTRACHT FRANKFURT - 9 DEC / 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",EN - BENFICA VS NAPOLI 21:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1292003.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",EN - INTERNAZIONALE VS LIVERPOOL - 9 DEC / 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",EN - BORUSSIA DORTMUND VS BODØ / GLIMT 21:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1150168.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",EN - ATALANTA VS CHELSEA - 9 DEC / 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",EN - JUVENTUS VS PAPHOS 21:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1150167.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",EN - UNION SAINT-GILLOISE VS OLYMPIQUE MARSEILLE - 9 DEC / 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",EN - BAYER LEVERKUSEN VS NEWCASTLE UNITED 21:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1150166.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",EN - MONACO VS GALATASARAY - 9 DEC / 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",EN - CLUB BRUGGE VS ARSENAL 21:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1150165.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",EN - PSV VS ATLÉTICO MADRID - 9 DEC / 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",EN - ATHLETIC CLUB VS PSG 21:00 CET
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1150164.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",EN - REAL MADRID VS MANCHESTER CITY 21:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1150163.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",###### ARABIC ######
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1296613.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",AR - KAIRAT VS OLYMPIAKOS PIRAEUS - 9 DEC / 16:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",AR - QARABAĞ VS AJAX 18:45 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1292008.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",AR - BAYERN MÜNCHEN VS SPORTING CP - 9 DEC / 18:45 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",AR - VILLARREAL VS KØBENHAVN 18:45 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1292007.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",AR - BARCELONA VS EINTRACHT FRANKFURT - 9 DEC / 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",AR - BENFICA VS NAPOLI 21:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1292006.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",AR - INTERNAZIONALE VS LIVERPOOL - 9 DEC / 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",AR - BORUSSIA DORTMUND VS BODØ / GLIMT 21:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1150139.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",AR - ATALANTA VS CHELSEA - 9 DEC / 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",AR - JUVENTUS VS PAPHOS 21:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1150138.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",AR - UNION SAINT-GILLOISE VS OLYMPIQUE MARSEILLE - 9 DEC / 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",AR - BAYER LEVERKUSEN VS NEWCASTLE UNITED 21:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1150133.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",AR - MONACO VS GALATASARAY - 9 DEC / 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",AR - CLUB BRUGGE VS ARSENAL 21:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1150127.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",AR - PSV VS ATLÉTICO MADRID - 9 DEC / 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",AR - ATHLETIC CLUB VS PSG 21:00 CET
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1022238.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",AR - REAL MADRID VS MANCHESTER CITY 21:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1022236.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/SPAIN.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",###### SPANISH ######
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1296614.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",SP - KAIRAT VS OLYMPIAKOS PIRAEUS - 9 DEC / 16:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",SP - QARABAĞ VS AJAX 18:45 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1292017.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",SP - BAYERN MÜNCHEN VS SPORTING CP - 9 DEC / 18:45 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",SP - VILLARREAL VS KØBENHAVN 18:45 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1292016.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",SP - BARCELONA VS EINTRACHT FRANKFURT - 9 DEC / 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",SP - BENFICA VS NAPOLI 21:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1292015.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",SP - INTERNAZIONALE VS LIVERPOOL - 9 DEC / 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",SP - BORUSSIA DORTMUND VS BODØ / GLIMT 21:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1150174.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",SP - ATALANTA VS CHELSEA - 9 DEC / 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",SP - JUVENTUS VS PAPHOS 21:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1150173.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",SP - UNION SAINT-GILLOISE VS OLYMPIQUE MARSEILLE - 9 DEC / 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",SP - BAYER LEVERKUSEN VS NEWCASTLE UNITED 21:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1040908.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",SP - MONACO VS GALATASARAY - 9 DEC / 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",SP - CLUB BRUGGE VS ARSENAL 21:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1040907.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",SP - PSV VS ATLÉTICO MADRID - 9 DEC / 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",SP - ATHLETIC CLUB VS PSG 21:00 CET
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1024386.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",SP - REAL MADRID VS MANCHESTER CITY 21:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1024345.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/FLAGS/flag_germany.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",###### DEUTSCH ######
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1296621.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - KAIRAT VS OLYMPIAKOS PIRAEUS - 9 DEC / 16:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - QARABAĞ VS AJAX 18:45 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1292020.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - BAYERN MÜNCHEN VS SPORTING CP - 9 DEC / 18:45 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - VILLARREAL VS KØBENHAVN 18:45 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1292019.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - BARCELONA VS EINTRACHT FRANKFURT - 9 DEC / 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - BENFICA VS NAPOLI 21:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1292018.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - INTERNAZIONALE VS LIVERPOOL - 9 DEC / 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - BORUSSIA DORTMUND VS BODØ / GLIMT 21:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1150171.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - ATALANTA VS CHELSEA - 9 DEC / 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - JUVENTUS VS PAPHOS 21:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1039871.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - UNION SAINT-GILLOISE VS OLYMPIQUE MARSEILLE - 9 DEC / 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - BAYER LEVERKUSEN VS NEWCASTLE UNITED 21:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1024434.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - MONACO VS GALATASARAY - 9 DEC / 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - CLUB BRUGGE VS ARSENAL 21:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1024375.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - PSV VS ATLÉTICO MADRID - 9 DEC / 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - ATHLETIC CLUB VS PSG 21:00 CET
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1024344.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - REAL MADRID VS MANCHESTER CITY 21:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1024111.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/ALBANIA.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",###### ALBANIAN ######
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1296619.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - KAIRAT VS OLYMPIAKOS PIRAEUS - 9 DEC / 16:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - QARABAĞ VS AJAX 18:45 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1292014.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - BAYERN MÜNCHEN VS SPORTING CP - 9 DEC / 18:45 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - VILLARREAL VS KØBENHAVN 18:45 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1292013.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - BARCELONA VS EINTRACHT FRANKFURT - 9 DEC / 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - BENFICA VS NAPOLI 21:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1292012.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - INTERNAZIONALE VS LIVERPOOL - 9 DEC / 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - BORUSSIA DORTMUND VS BODØ / GLIMT 21:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1150172.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - ATALANTA VS CHELSEA - 9 DEC / 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - JUVENTUS VS PAPHOS 21:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1150157.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - UNION SAINT-GILLOISE VS OLYMPIQUE MARSEILLE - 9 DEC / 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - BAYER LEVERKUSEN VS NEWCASTLE UNITED 21:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1150156.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - MONACO VS GALATASARAY - 9 DEC / 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - CLUB BRUGGE VS ARSENAL 21:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1150155.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - PSV VS ATLÉTICO MADRID - 9 DEC / 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - ATHLETIC CLUB VS PSG 21:00 CET
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1150154.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - REAL MADRID VS MANCHESTER CITY 21:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1150137.m3u8
 
 # --- VIP | UEFA EUROPA LEAGUE (76) ---
@@ -12239,4 +12255,4 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/682939.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",ES - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/682941.m3u8
 
-# Total: 6023
+# Total: 6031

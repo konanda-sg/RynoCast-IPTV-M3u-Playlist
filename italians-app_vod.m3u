@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: italians-app.net:8080
-# Generated: 2025-12-09 18:33:13
+# Generated: 2025-12-10 07:06:53
 # Expires: 2026-01-21
 # Family Safe Edition
 # ==============================================
@@ -21207,7 +21207,7 @@ http://italians-app.net:8080/movie/hele/cart@/1350.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-DISNEY-PLUS",BAT-FAM
 http://italians-app.net:8080/movie/hele/cart@/1550.mp4
 
-# --- Movies | SERIE-TV (489) ---
+# --- Movies | SERIE-TV (490) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Inhumans
 http://italians-app.net:8080/movie/hele/cart@/1.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Stargate Atlantis
@@ -22186,6 +22186,8 @@ http://italians-app.net:8080/movie/hele/cart@/1567.mp4
 http://italians-app.net:8080/movie/hele/cart@/1573.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",The Irrational
 http://italians-app.net:8080/movie/hele/cart@/1574.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",All's Fair
+http://italians-app.net:8080/movie/hele/cart@/1575.mp4
 
 # --- Movies | SERIE-TV-ITALIA (141) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Capri
@@ -32675,4 +32677,4 @@ http://italians-app.net:8080/movie/hele/cart@/2669.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | SerieTV",Timeless.S01E01 german
 http://italians-app.net:8080/movie/hele/cart@/20654.mkv
 
-# Total: 16306
+# Total: 16307

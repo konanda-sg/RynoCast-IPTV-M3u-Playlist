@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2025-12-09 18:27:40
+# Generated: 2025-12-10 07:13:14
 # Expires: 2026-01-17
 # Family Safe Edition
 # ==============================================
@@ -17767,6 +17767,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/13296.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/bZ7Xx15zZdDzbKFKl4ULEJ11hWu.jpg" group-title="Movies | Robert De Niro",15 Minutes  (2001)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/25633.mp4
 
+# --- Movies | Robin Hood (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Robin Hood",Robin Hood (2025)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1120.mp4
+
 # --- Movies | Romania are Roast (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Romania are Roast",Romania are Roast
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/6.mp4
@@ -19405,4 +19409,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8544
+# Total: 8545

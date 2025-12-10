@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: world-service.us:8080
-# Generated: 2025-12-09 18:32:30
+# Generated: 2025-12-10 07:15:24
 # Expires: 2026-02-19
 # Family Safe Edition
 # ==============================================
@@ -21207,7 +21207,7 @@ http://world-service.us:8080/movie/giovanmer/merante/1350.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-DISNEY-PLUS",BAT-FAM
 http://world-service.us:8080/movie/giovanmer/merante/1550.mp4
 
-# --- Movies | SERIE-TV (489) ---
+# --- Movies | SERIE-TV (490) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Inhumans
 http://world-service.us:8080/movie/giovanmer/merante/1.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Stargate Atlantis
@@ -22186,6 +22186,8 @@ http://world-service.us:8080/movie/giovanmer/merante/1567.mp4
 http://world-service.us:8080/movie/giovanmer/merante/1573.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",The Irrational
 http://world-service.us:8080/movie/giovanmer/merante/1574.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",All's Fair
+http://world-service.us:8080/movie/giovanmer/merante/1575.mp4
 
 # --- Movies | SERIE-TV-ITALIA (141) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Capri
@@ -32675,4 +32677,4 @@ http://world-service.us:8080/movie/giovanmer/merante/2669.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | SerieTV",Timeless.S01E01 german
 http://world-service.us:8080/movie/giovanmer/merante/20654.mkv
 
-# Total: 16306
+# Total: 16307

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: efeteam.xyz:8080
-# Generated: 2025-12-09 18:36:59
+# Generated: 2025-12-10 07:15:40
 # Expires: 2026-06-03
 # Family Safe Edition
 # ==============================================
@@ -10592,7 +10592,7 @@ http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/553585.m3u8
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/553584.m3u8
 #EXTINF:-1 tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/bulgaria/movie-star-bg.png" group-title="BG ∞ CINEMA",BG: MOVIE STAR HD
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/553583.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG ∞ CINEMA",BG: TV 999
+#EXTINF:-1 tvg-logo="https://s9.gifyu.com/images/SUsuY.png" group-title="BG ∞ CINEMA",BG: TV 999
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/681269.m3u8
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062019/img_20190615_112944.png?brWx1rr7RSl8UPwUbLoPhxim6vcBnVda&itok=J45O-q4b" group-title="BG ∞ CINEMA",BG: TV 1000
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/553582.m3u8
@@ -10949,58 +10949,54 @@ http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/476475.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BY ∞ BELARUSIYA",БЕЛРОС
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/471298.m3u8
 
-# --- CH ∞ DAZN EVENT (97) ---
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/arndmgltmspw0igf0pacyyafa_image-header_pDach_1743597750000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",South Africa | Day 1
+# --- CH ∞ DAZN EVENT (95) ---
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/arndmgltmspw0igf0pacyyafa_image-header_pDach_1743597750000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",South Africa | Day 2 (Pro Stream) (2025-12-09 10:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562279.m3u8
-#EXTINF:-1 tvg-logo="/logos/daznch-event675982.png" group-title="CH ∞ DAZN EVENT",South Africa | Day 1 (Pro Stream)
+#EXTINF:-1 tvg-logo="/logos/daznch-event675982.png" group-title="CH ∞ DAZN EVENT",South Africa | Day 2 (2025-12-09 10:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562278.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/xo64ymxc3u801awwlzxygzvxm_image-header_pDach_1743609209000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Pisa - Parma (Italian commentary) (2025-12-08 13:45:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/xo64ymxc3u801awwlzxygzvxm_image-header_pDach_1743609209000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Gravelines-Dunkerque - Limoges (2025-12-09 18:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562277.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/e4drmo2geohlh1p5prcylj4pv_image-header_pDach_1742991693000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Pisa - Parma (2025-12-08 14:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/e4drmo2geohlh1p5prcylj4pv_image-header_pDach_1742991693000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Paris - Le Portel (2025-12-09 20:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562276.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dewjduon3y9sid6ceri9fyb03_image-header_pDach_1742581533000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Udinese - Genoa (Italian commentary)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dewjduon3y9sid6ceri9fyb03_image-header_pDach_1742581533000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Villanova @ Michigan (2025-12-09 23:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562275.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/zj9vssjacphb1x4ntmyo79xou_image-header_pDach_1743185178000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Hamburger SV - 1. FC Köln
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/zj9vssjacphb1x4ntmyo79xou_image-header_pDach_1743185178000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Lightning @ Canadiens (2025-12-10 00:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562274.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1gh2zc9lwdfj91y25k6wdqs08o_image-header_pDach_1743183871000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Udinese - Genoa
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1gh2zc9lwdfj91y25k6wdqs08o_image-header_pDach_1743183871000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Sharks @ Flyers (2025-12-10 00:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562273.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/xja71a8a5mv41wpm3nxvrf33f_image-header_pDach_1743184802000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Torino - Milan (Italian commentary)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/xja71a8a5mv41wpm3nxvrf33f_image-header_pDach_1743184802000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Ducks @ Penguins (2025-12-10 00:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562272.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1xrdovzf7wt7m1oaapzcgc4ttj_image-header_pDach_1743185750000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Inside The Ring - (Dec 8)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1xrdovzf7wt7m1oaapzcgc4ttj_image-header_pDach_1743185750000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Illinois @ Ohio State (2025-12-10 00:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562271.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2puchk5e80qxsazdo672jd4jd_image-header_pDach_1741011375000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Brackley Town - Burton Albion
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562270.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dnsvdhm1r3og8u5z8tp5zti6m_image-header_pDach_1741737445000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Torino - Milan
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562269.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/512asa0l5s2kt8950r2pbe7an_image-header_pDach_1743436782000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Lightning @ Maple Leafs
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/512asa0l5s2kt8950r2pbe7an_image-header_pDach_1743436782000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Stars @ Jets (2025-12-10 01:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562268.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2uz3ucl0k0c2q77jbm9x00gse_image-header_pDach_1725588542000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Eagles @ Chargers (German commentary) (CH)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2uz3ucl0k0c2q77jbm9x00gse_image-header_pDach_1725588542000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Penn State @ Indiana (2025-12-10 01:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562267.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cprdyah5wuwxft3tg47qwrgua_image-header_pDach_1741705594000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Kings @ Mammoth
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cprdyah5wuwxft3tg47qwrgua_image-header_pDach_1741705594000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Sabres @ Oilers (2025-12-10 02:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562266.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bevmbchjjhkzz07m3llbdhmys_image-header_pDach_1738773283000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Sabres @ Flames
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bevmbchjjhkzz07m3llbdhmys_image-header_pDach_1738773283000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",South Africa | Day 3 (Pro Stream) (2025-12-10 10:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562265.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1xuah69mh88xn1nxm5opvafi3k_image-header_pDach_1744106315000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Red Wings @ Canucks (2025-12-09 03:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1xuah69mh88xn1nxm5opvafi3k_image-header_pDach_1744106315000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",South Africa | Day 3 (2025-12-10 10:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562264.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/x0b5meot9f2i1g2px7eoq0d4t_image-header_pDach_1743192834000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Wild @ Kraken
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/x0b5meot9f2i1g2px7eoq0d4t_image-header_pDach_1743192834000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",1. FC Nürnberg - Eintracht Frankfurt (2025-12-10 18:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562263.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/137a636gtylxp1cgnxlai8d63q_image-header_pDach_1742902729000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",South Africa | Day 2 (Pro Stream)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/137a636gtylxp1cgnxlai8d63q_image-header_pDach_1742902729000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Lopez vs. Stevenson: Launch Press Conference (2025-12-10 21:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562262.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1bdvjrciwg8e01lpbjkeqkhtz2_image-header_pDach_1742903757000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",South Africa | Day 2
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1bdvjrciwg8e01lpbjkeqkhtz2_image-header_pDach_1742903757000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Minnesota @ Purdue (2025-12-11 00:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562261.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/284u2yjvrb1u1dt8elusxdvcz_image-header_pDach_1742902729000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Gravelines-Dunkerque - Limoges
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/284u2yjvrb1u1dt8elusxdvcz_image-header_pDach_1742902729000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Rangers @ Blackhawks (2025-12-11 00:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562260.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6jw8cy5fagaprze24qx2bybp1_image-header_pDach_1726260743000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Paris - Le Portel
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6jw8cy5fagaprze24qx2bybp1_image-header_pDach_1726260743000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Wings @ Flames (2025-12-11 01:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562259.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ln2faqg1hvkz1fes01uru96n1_image-header_pDach_1743194140000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Villanova @ Michigan
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ln2faqg1hvkz1fes01uru96n1_image-header_pDach_1743194140000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Panthers @ Mammoth (2025-12-11 02:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562258.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/amj4e3az9zb3d2kc3zhnchxhq_image-header_pDach_1743523237000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Lightning @ Canadiens
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/amj4e3az9zb3d2kc3zhnchxhq_image-header_pDach_1743523237000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Kings @ Kraken (2025-12-11 03:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562257.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7bpav10t23vgr27v8dbh7a38o_image-header_pDach_1742329330000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Senators @ Devils (2025-12-10 00:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7bpav10t23vgr27v8dbh7a38o_image-header_pDach_1742329330000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",South Africa | Day 4 (Pro Stream) (2025-12-11 10:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562256.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1f3eoqofdbyg91vnu4yqj3ox7p_image-header_pDach_1743150260000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Golden Knights @ Islanders (2025-12-10 00:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1f3eoqofdbyg91vnu4yqj3ox7p_image-header_pDach_1743150260000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",South Africa | Day 4 (2025-12-11 10:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562255.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/iy973fyxydti1wsj41d049983_image-header_pDach_1743150260000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Sharks @ Flyers
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/iy973fyxydti1wsj41d049983_image-header_pDach_1743150260000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Riyadh Racing Season Race Night 10 (2025-12-11 13:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562254.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/yeg5k76wurcu1g5j4j0gfb8di_image-header_pDach_1743150260000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Ducks @ Penguins
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562253.m3u8
@@ -12063,98 +12059,100 @@ http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/703845.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE ∞ DAZN",DAZN REDBULL TV HD
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/703844.m3u8
 
-# --- DE ∞ DAZN PPV (194) ---
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/48wui2l2q8lp6895r4j2snzs2_image-header_pDach_1764948657000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",South Africa | Day 1 (2025-12-08 11:15:00)
+# --- DE ∞ DAZN PPV (195) ---
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8g4ydorm83ltgslyl2pzag14c_image-header_pDach_1764949892000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",South Africa | Day 2 (Pro Stream) (2025-12-09 11:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712599.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1f50umr96bp5tc6r2nc6etfx1_image-header_pDach_1764948821000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",South Africa | Day 1 (Pro Stream) (2025-12-08 11:30:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9tmrb5774ur9h8tw2m4247a17_image-header_pDach_1764949052000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",South Africa | Day 2 (2025-12-09 11:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712600.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/qnrbnf46ij3bnnu1ncth50gg_image-header_pDach_1763804509000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Hamburger SV - 1. FC Köln (2025-12-08 18:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4g064exny2j24nyw0k7q4kpv7_image-header_pDach_1763371293000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Barcelona U19 - Eintracht Frankfurt U19 (2025-12-09 16:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712601.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6kgnx77oqid0l6tnkxii4cwj3_image-header_pDach_1763022418000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Udinese - Genoa (Italian commentary) (2025-12-08 18:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5isu33jfvsaetl1lt41sl2kij_image-header_pDach_1760521803000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Kairat - Piraeus (2025-12-09 16:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712602.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1ee3kbmsrp6gcdye9u5zcmf4p_image-header_pDach_1763022418000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Udinese - Genoa (2025-12-08 18:00:00)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712603.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/87h8pg7gaph053epkwrh79837_image-header_pDach_1763022428000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Torino - Milan (Italian commentary) (2025-12-08 20:00:00)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712604.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1x8ai3ufhyuge1i9cq33ipn5xu_image-header_pDach_1765202272000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Inside The Ring - (Dec 8) (2025-12-08 20:00:00)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712605.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4yhg3tulwnkukdhphhjp8u9n8_image-header_pDach_1763542130000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Brackley Town - Burton Albion (2025-12-08 20:30:00)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712606.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2hl2pf7h2gwn9h318ctygt0yo_image-header_pDach_1763113296000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Malaga - Real Zaragoza (2025-12-08 20:30:00)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712607.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8n99u01byvtj3pj2ffo99c6uj_image-header_pDach_1763022428000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Torino - Milan (2025-12-08 20:45:00)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712608.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8wm8mvjz3xdw05sr9p3ex3usy_image-header_pDach_1763375257000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Osasuna - Levante (2025-12-08 21:00:00)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712609.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cvrplp14dqk71h566p2ljdv5r_image-header_pDach_1763670195000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Lightning @ Maple Leafs (2025-12-09 01:30:00)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712610.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4tfq00ii0yiyflwbu43cyzriz_image-header_pDach_1763247315000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Eagles @ Chargers (German commentary) (2025-12-09 02:15:00)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712611.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/128d09hoidlvx1h7yjrxff0yen_image-header_pDach_1763786779000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Kings @ Mammoth (2025-12-09 03:00:00)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712612.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1ppsbwf87ccek1i9gwmnck6s3g_image-header_pDach_1763670195000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Sabres @ Flames (2025-12-09 03:00:00)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712613.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1iya2uooen7vx1cfv3ya9xq5hg_image-header_pDach_1763805722000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Wild @ Kraken (2025-12-09 04:00:00)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712614.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/456wlrwio8w2jqun3h81cj0mr_image-header_pDach_1764949892000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",South Africa | Day 2 (Pro Stream) (2025-12-09 11:30:00)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712615.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/anez3riyndtlw7ijuhy9qjpf1_image-header_pDach_1764949052000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",South Africa | Day 2 (2025-12-09 11:30:00)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712616.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4k5p2jj0m31qzkwiukn5kq6jb_image-header_pDach_1763371293000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Barcelona U19 - Eintracht Frankfurt U19 (2025-12-09 16:00:00)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712617.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dbwbg2tbl2eiw98x1xcyqoilw_image-header_pDach_1760521803000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Kairat - Piraeus (2025-12-09 16:30:00)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712618.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6j9amxjqrb4rdnpl199glppw1_image-header_pDach_1760255863000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",FC Bayern München - Sporting (2025-12-09 18:00:00)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712619.m3u8
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712603.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9hs1aetd3r69z54d48mea51p2_image-header_pDach_1764853949000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Tuesday's Conference | Matchday 6 (2025-12-09 20:30:00)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712620.m3u8
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712604.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/26s7k3gmnbgqcue5zyraje36w_image-header_pDach_1760265464000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Monaco - Galatasaray (2025-12-09 21:00:00)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712621.m3u8
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712605.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ei2zngbo1po9w7cqplp6kljv6_image-header_pDach_1760256083000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Internazionale - Liverpool (2025-12-09 21:00:00)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712622.m3u8
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712606.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1t9chxs3nfluxnxhqyeep1gy6_image-header_pDach_1760265179000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Atalanta - Chelsea (2025-12-09 21:00:00)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712624.m3u8
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712608.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bwvzk26wp3s82uz6rnx87kkvx_image-header_pDach_1765199463000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Monaco - Galatasaray (Turkish commentary) (2025-12-09 21:00:00)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712625.m3u8
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712609.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/82wnowis1resnr9t9kwvnl32t_image-header_pDach_1760521538000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Saint-Gilloise - Marseille (2025-12-09 21:00:00)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712626.m3u8
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712610.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/47xjbr82i025lje9jb50pj9hv_image-header_pDach_1760265867000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Eindhoven - Atletico Madrid (2025-12-09 21:00:00)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712627.m3u8
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712611.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/oy4yxbmxkbqo1oqo6mjpucupo_image-header_pDach_1764963161000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Villanova @ Michigan (2025-12-10 00:30:00)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712628.m3u8
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712612.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1ukdngzenrn561nvsg63wpfkr0_image-header_pDach_1763650670000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Lightning @ Canadiens (2025-12-10 01:00:00)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712629.m3u8
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712613.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/rbb1a87n0g4o1odnu8qb3qmcv_image-header_pDach_1763232424000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Sharks @ Flyers (2025-12-10 01:00:00)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712630.m3u8
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712614.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1cp082cozidau1nk1z5uuwv0pk_image-header_pDach_1763234346000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Ducks @ Penguins (2025-12-10 01:00:00)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712631.m3u8
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712615.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1w9wfi7bone5g1ap6smrhvlib9_image-header_pDach_1764963161000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Illinois @ Ohio State (2025-12-10 01:30:00)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712632.m3u8
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712616.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/xpj34x2o7dt01gm3e3e0rhz0x_image-header_pDach_1763415581000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Stars @ Jets (2025-12-10 02:00:00)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712635.m3u8
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712619.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1p8f7asy8km861fm17eu7zxvfo_image-header_pDach_1764963161000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Penn State @ Indiana (2025-12-10 02:30:00)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712636.m3u8
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712620.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ijjglj00ftlt1uzalhf7micft_image-header_pDach_1763415581000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Sabres @ Oilers (2025-12-10 03:00:00)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712637.m3u8
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712621.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/339m2ntwo154qgzj74marvrsg_image-header_pDach_1765286581000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",eFootball Console | Group Stage 1 (2025-12-10 08:30:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712622.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/k4d9f24qs538qo609ay54196_image-header_pDach_1764948821000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",South Africa | Day 3 (Pro Stream) (2025-12-10 11:30:00)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712638.m3u8
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712623.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/41vui9mivo1d3tijkttvn0gi4_image-header_pDach_1764948657000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",South Africa | Day 3 (2025-12-10 11:30:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712624.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3ptn8h262deuo05qfjuuk2gs9_image-header_pDach_1765286940000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",eFootball Mobile | Group Stage 1 (2025-12-10 13:45:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712625.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ayj2i4yxz6nt2aqlk8p8azp8n_image-header_pDach_1764854259000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Early Wednesday's Conference | Matchday 6 (2025-12-10 18:25:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712626.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5ksi7040866pmubmkjsb92vol_image-header_pDach_1760520173000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Villarreal - København (2025-12-10 18:45:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712627.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8xv618uj89hwbaa9uumn3y9yr_image-header_pDach_1760520518000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Qarabağ - Ajax (2025-12-10 18:45:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712628.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/40cxsdyr5rx50eyyynk9qthwo_image-header_pDach_1761069615000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",1. FC Nürnberg - Eintracht Frankfurt (2025-12-10 19:30:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712629.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/78uuxzufrxyvzqrr8yhwp586q_image-header_pDach_1760256897000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Bayer Leverkusen - Newcastle United (2025-12-10 20:15:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712630.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6n46uhe7nl8bmdvomu7r6ribf_image-header_pDach_1760256691000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Borussia Dortmund - Bodö/Glimt (2025-12-10 20:15:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712631.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/w0qev9ilztx03cdqkmflra26_image-header_pDach_1764854333000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Late Wednesday's Conference | Matchday 6 (2025-12-10 20:15:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712632.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1wwiutjpmeh8s9qgqn2309t75_image-header_pDach_1760255617000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Real Madrid - Manchester City (2025-12-10 21:00:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712633.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/f41jwysk237b4v9vg5x6hna76_image-header_pDach_1760449095000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Bilbao - PSG (2025-12-10 21:00:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712634.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/d9von4jkvi9bmq311b2epv3ew_image-header_pDach_1760448149000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Juventus - Pafos (2025-12-10 21:00:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712635.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1a8u64ns6beydfuzdy6vs6n2r_image-header_pDach_1760448361000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Club Brugge - Arsenal (2025-12-10 21:00:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712636.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4cer0d50jvtec4rpefkl2z4k2_image-header_pDach_1760448793000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Benfica - Napoli (2025-12-10 21:00:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712637.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/l58n428uswrq1x6a2f8cgvs6e_image-header_pDach_1765197631000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Lopez vs. Stevenson: Launch Press Conference (2025-12-10 22:00:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712638.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1s7pairibgzuw11khr6uex0fxp_image-header_pDach_1765195642000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Minnesota @ Purdue (2025-12-11 01:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712639.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1n7l0u6znw86f1m8n6598uuq8t_image-header_pDach_1763729407000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Penguins @ Stars (2025-12-08 00:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/u6x5mnai73831gim423drbjv0_image-header_pDach_1763641131000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Rangers @ Blackhawks (2025-12-11 01:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712640.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/10dgo71s72vc12msl7qmkogug_image-header_pDach_1764603095000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Michigan State @ Wisconsin (2025-12-08 00:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/umbczab1bist12a7u7esco4bb_image-header_pDach_1763641131000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Wings @ Flames (2025-12-11 02:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712641.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1idgl2geub72n1xi3v9at5e2bc_image-header_pDach_1763670195000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Blackhawks @ Ducks (2025-12-08 02:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/so097jm5o1wx1b2npa04ow3wa_image-header_pDach_1763641131000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Panthers @ Mammoth (2025-12-11 03:00:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712642.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1cfayk37lwtvi14gio3pt2dmel_image-header_pDach_1763641131000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Kings @ Kraken (2025-12-11 04:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712643.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2od1n4ydu71jag5jcivt98ba7_image-header_pDach_1763247315000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Texans @ Chiefs (German commentary) (2025-12-08 02:20:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ahdii68fa91tibbih5jyqd9ot_image-header_pDach_1765286581000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",eFootball Console | Group Stage 2 (2025-12-11 09:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712644.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/blmbwdq7da7vdgqmenf7jfto0_image-header_pDach_1764948657000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",South Africa | Day 1 (2025-12-08 11:15:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/80ukkkxm05o12zlitgjfjy4ia_image-header_pDach_1764949892000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",South Africa | Day 4 (Pro Stream) (2025-12-11 11:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712645.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/c0byk09lqkvmuce82bghnzfg9_image-header_pDach_1764948821000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",South Africa | Day 1 (Pro Stream) (2025-12-08 11:30:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/e1nm6h99372eb5j5bbj3fdrwc_image-header_pDach_1764949052000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",South Africa | Day 4 (2025-12-11 11:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712646.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8kt1sz3vnr58n4jz4cmjcxl1o_image-header_pDach_1763022314000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Pisa - Parma (Italian commentary) (2025-12-08 14:45:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ezor3k6bo14uqrgjkkh5so47x_image-header_pDach_1760438201000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Riyadh Racing Season Race Night 10 (2025-12-11 14:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712647.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cdp25c5xbri35i815k6ohvirz_image-header_pDach_1763022314000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Pisa - Parma (2025-12-08 15:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cvwe4k5r15j3bik69jkxifrb7_image-header_pDach_1765287760000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",eFootball Mobile | Group Stage 2 (2025-12-11 15:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712648.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ejj5dnj69xe1baqdr4s2yf1k4_image-header_pDach_1763022418000/fill/none/top/none/85/668/374/webp/image" group-title="DE ∞ DAZN PPV",Udinese - Genoa (Italian commentary) (2025-12-08 17:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/712649.m3u8
@@ -13688,19 +13686,19 @@ http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/540251.m3u8
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/177088.m3u8
 
 # --- DE ∞ PRIME AMAZON EVENT (74) ---
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-amazon-prime-de-1957.png" group-title="DE ∞ PRIME AMAZON EVENT",Next | 09:12 (GMT) | Barcelona U19 - Eintracht Frankfurt U19 | all | PRIME-DE
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-amazon-prime-de-1957.png" group-title="DE ∞ PRIME AMAZON EVENT",PRIME-DE | No Event
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/537329.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-amazon-prime-de-1957.png" group-title="DE ∞ PRIME AMAZON EVENT",Next | 09:12 (GMT) | South Africa | Day 2 (Pro Stream) | all | PRIME-DE
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-amazon-prime-de-1957.png" group-title="DE ∞ PRIME AMAZON EVENT",PRIME-DE | No Event
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/537328.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-amazon-prime-de-1957.png" group-title="DE ∞ PRIME AMAZON EVENT",Next | 09:12 (GMT) | South Africa | Day 2 | all | PRIME-DE
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-amazon-prime-de-1957.png" group-title="DE ∞ PRIME AMAZON EVENT",PRIME-DE | No Event
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/537327.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-amazon-prime-de-1957.png" group-title="DE ∞ PRIME AMAZON EVENT",Next | 09:12 (GMT) | Kairat vs. Olympiakos | all | PRIME-DE
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-amazon-prime-de-1957.png" group-title="DE ∞ PRIME AMAZON EVENT",PRIME-DE | No Event
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/537326.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-amazon-prime-de-1957.png" group-title="DE ∞ PRIME AMAZON EVENT",Next | 09:12 (GMT) | Handball-WM der Frauen Deutschland - Brasilien, Viertelfinale | all | PRIME-DE
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-amazon-prime-de-1957.png" group-title="DE ∞ PRIME AMAZON EVENT",PRIME-DE | No Event
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/537325.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-amazon-prime-de-1957.png" group-title="DE ∞ PRIME AMAZON EVENT",Next | 09:12 (GMT) | Bayern München vs. Sporting | all | PRIME-DE
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-amazon-prime-de-1957.png" group-title="DE ∞ PRIME AMAZON EVENT",Live | Bayern München vs. Sporting | all | PRIME-DE
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/537324.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-amazon-prime-de-1957.png" group-title="DE ∞ PRIME AMAZON EVENT",Next | 09:12 (GMT) | Tuesday's Conference | Matchday 6 | all | PRIME-DE
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-amazon-prime-de-1957.png" group-title="DE ∞ PRIME AMAZON EVENT",Live | Tuesday's Conference | Matchday 6 | all | PRIME-DE
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/537323.m3u8
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-amazon-prime-de-1957.png" group-title="DE ∞ PRIME AMAZON EVENT",Next | 09:12 (GMT) | Inter vs. Liverpool | all | PRIME-DE
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/537322.m3u8
@@ -15330,49 +15328,49 @@ http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686987.m3u8
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686986.m3u8
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",End | Cooper varsler spillerudsalg i BIF efter Vejle-nederlag | Viaplay Sport News  2025 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686985.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",End | Sky Sports: Fan Club | Viaplay Sport News  2025 | DK
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",DK | No Event
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686983.m3u8
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",End | NHL On The Fly | NHL  2025 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686982.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",Live | Steve Cooper taler ud om forandringer | Viaplay Sport News  2025 | DK
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",End | Steve Cooper taler ud om forandringer | Viaplay Sport News  2025 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686981.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",Next | 2025-12-09 | 12:55 (GMT) | PSV - Atlético Madrid | UEFA Youth League Ligafasen | 6. runde 2025 | DK
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",End | PSV - Atlético Madrid | UEFA Youth League Ligafasen | 6. runde 2025 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686980.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",Next | 2025-12-09 | 14:00 (GMT) | Udlændingeservice | Viaplay Sport News  2025 | DK
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",End | Udlændingeservice | Viaplay Sport News  2025 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686979.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",Next | 2025-12-09 | 14:55 (GMT) | Inter - Liverpool | UEFA Youth League Ligafasen | 6. runde 2025 | DK
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",End | Inter - Liverpool | UEFA Youth League Ligafasen | 6. runde 2025 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686978.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",Next | 2025-12-09 | 15:00 (GMT) | Sport News | Viaplay Sport News  2025 | DK
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",End | Trækker Cooper i land? | Viaplay Sport News  2025 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686977.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",Next | 2025-12-09 | 15:25 (GMT) | Kairat - Olympiakos | UEFA Champions League Ligafasen | 6. runde 2025 | DK
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",End | Kairat - Olympiakos | UEFA Champions League Ligafasen | 6. runde 2025 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686976.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",Next | 2025-12-09 | 17:40 (GMT) | Bayern München - Sporting | UEFA Champions League Ligafasen | 6. runde 2025 | DK
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",End | Bayern München - Sporting | UEFA Champions League Ligafasen | 6. runde 2025 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686975.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",Next | 2025-12-09 | 17:40 (GMT) | Bayern München - Sporting | UEFA Champions League Ligafasen | 6. runde 2025 | DK
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",End | Bayern München - Sporting | UEFA Champions League Ligafasen | 6. runde 2025 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686974.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",Next | 2025-12-09 | 18:00 (GMT) | Sport News | Viaplay Sport News  2025 | DK
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",End | Seneste nyt fra Champions League | Viaplay Sport News  2025 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686973.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",Next | 2025-12-09 | 19:00 (GMT) | Inter - Liverpool | UEFA Champions League Ligafasen | 6. runde | Studie 2025 | DK
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",End | Inter - Liverpool | UEFA Champions League Ligafasen | 6. runde | Studie 2025 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686972.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",Next | 2025-12-09 | 19:45 (GMT) | Instant Highlights | UEFA Champions League Ligafasen | 6. runde 2025 | DK
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",End | Instant Highlights | UEFA Champions League Ligafasen | 6. runde 2025 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686971.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",Next | 2025-12-09 | 19:55 (GMT) | Tottenham - Slavia Prag | UEFA Champions League Ligafasen | 6. runde 2025 | DK
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",End | Tottenham - Slavia Prag | UEFA Champions League Ligafasen | 6. runde 2025 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686970.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",Next | 2025-12-09 | 19:55 (GMT) | Union Saint-Gilloise - Marseille | UEFA Champions League Ligafasen | 6. runde 2025 | DK
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",End | Union Saint-Gilloise - Marseille | UEFA Champions League Ligafasen | 6. runde 2025 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686969.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",Next | 2025-12-09 | 19:55 (GMT) | PSV - Atlético Madrid | UEFA Champions League Ligafasen | 6. runde 2025 | DK
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",End | PSV - Atlético Madrid | UEFA Champions League Ligafasen | 6. runde 2025 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686968.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",Next | 2025-12-09 | 19:55 (GMT) | Barcelona - Frankfurt | UEFA Champions League Ligafasen | 6. runde 2025 | DK
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",End | Barcelona - Frankfurt | UEFA Champions League Ligafasen | 6. runde 2025 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686967.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",Next | 2025-12-09 | 19:55 (GMT) | Atalanta - Chelsea | UEFA Champions League Ligafasen | 6. runde 2025 | DK
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",End | Atalanta - Chelsea | UEFA Champions League Ligafasen | 6. runde 2025 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686966.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",Next | 2025-12-09 | 19:55 (GMT) | Monaco - Galatasaray | UEFA Champions League Ligafasen | 6. runde 2025 | DK
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",End | Monaco - Galatasaray | UEFA Champions League Ligafasen | 6. runde 2025 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686965.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",Next | 2025-12-09 | 19:55 (GMT) | QPR - Birmingham | Championship 20. runde 2025 | DK
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",End | QPR - Birmingham | Championship 20. runde 2025 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686964.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",Next | 2025-12-09 | 21:50 (GMT) | Goalshow | UEFA Champions League  2025 | DK
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",End | Goalshow | UEFA Champions League  2025 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686963.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",Next | 2025-12-10 | 00:05 (GMT) | Pittsburgh - Anaheim | NHL Grundspil 2025 | DK
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",Live | Pittsburgh - Anaheim | NHL Grundspil 2025 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686962.m3u8
 
 # --- ES ∞  CINE (46) ---
@@ -19983,126 +19981,124 @@ http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/487134.m3u8
 #EXTINF:-1 tvg-logo="" group-title="IT ∞ CULTURA",MARCOPOLO TRAVEL TV
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/496302.m3u8
 
-# --- IT ∞ DAZN + EVENT (95) ---
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cv7cq3f1n41o5olo2zp36p5c6_image-header_pIt_1752465194000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",South Africa | Day 2 (Pro Stream) (2025-12-09 11:30:00)
+# --- IT ∞ DAZN + EVENT (94) ---
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cfxajsxf7o3ndi4i3vqxaqdao_image-header_pIt_1757509860000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Social Corner (2025-12-09 15:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679095.m3u8
-#EXTINF:-1 tvg-logo="/logos/daznit-event679096.png" group-title="IT ∞ DAZN + EVENT",South Africa | Day 2 (2025-12-09 11:30:00)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679096.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/k46xt1vf9f5j1tpyymy2qesoa_image-header_pIt_1765028547000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Sabah vs. Nymburk (2025-12-09 17:00:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679096.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9nclsova8u5px2yxb8ozujloq_image-header_pIt_1764955406000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Prosecco DOC Imoco Conegliano - Orlando Valkyries (2025-12-09 17:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679097.m3u8
-#EXTINF:-1 tvg-logo="/logos/daznit-event679098.png" group-title="IT ∞ DAZN + EVENT",Udinese - Genoa
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679098.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1bbk7lz4emdo012wsctxzk11y9_image-header_pIt_1765025059000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Bnei Herzliya vs. Tofaş (2025-12-09 18:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9afc780ybdf253ycqltrz72tq_image-header_pIt_1762933730000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Karditsas - Mersin BB (Domestic) (2025-12-09 18:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679099.m3u8
-#EXTINF:-1 tvg-logo="/logos/daznit-event679100.png" group-title="IT ∞ DAZN + EVENT",Hamburger SV - Köln
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1bbk7lz4emdo012wsctxzk11y9_image-header_pIt_1765025059000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Bnei Herzliya vs. Tofaş (2025-12-09 18:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679100.m3u8
-#EXTINF:-1 tvg-logo="" group-title="IT ∞ DAZN + EVENT",Virtus Entella - Spezia (2025-12-08 19:30:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8rn47zm5mf1de591rj6q3q6bx_image-header_pIt_1760016460000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Inter - Liverpool | Pre-partita (2025-12-09 18:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679101.m3u8
-#EXTINF:-1 tvg-logo="" group-title="IT ∞ DAZN + EVENT",Torino - Milan (2025-12-08 19:56:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/73vgh3pp9fiilpriyjxakqv3t_image-header_pIt_1762933730000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Karditsas - Mersin BB (Domestic) 2 (2025-12-09 19:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679102.m3u8
-#EXTINF:-1 tvg-logo="" group-title="IT ∞ DAZN + EVENT",Inside The Ring - (Dec 8) (2025-12-08 20:00:00)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679103.m3u8
-#EXTINF:-1 tvg-logo="/logos/daznit-event679104.png" group-title="IT ∞ DAZN + EVENT",Brackley Town v Burton Albion
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679104.m3u8
-#EXTINF:-1 tvg-logo="/logos/daznit-event679105.png" group-title="IT ∞ DAZN + EVENT",Málaga v Real Zaragoza
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679105.m3u8
-#EXTINF:-1 tvg-logo="/logos/daznit-event679106.png" group-title="IT ∞ DAZN + EVENT",Osasuna - Levante
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679106.m3u8
-#EXTINF:-1 tvg-logo="/logos/daznit-event679107.png" group-title="IT ∞ DAZN + EVENT",Studio Tile MyClub Pass - MD14 - 3
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679107.m3u8
-#EXTINF:-1 tvg-logo="/logos/daznit-event679108.png" group-title="IT ∞ DAZN + EVENT",Lightning @ Maple Leafs
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679108.m3u8
-#EXTINF:-1 tvg-logo="/logos/daznit-event679109.png" group-title="IT ∞ DAZN + EVENT",Southern @ Texas
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679109.m3u8
-#EXTINF:-1 tvg-logo="/logos/daznit-event679110.png" group-title="IT ∞ DAZN + EVENT",Eagles @ Chargers
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679110.m3u8
-#EXTINF:-1 tvg-logo="/logos/daznit-event679111.png" group-title="IT ∞ DAZN + EVENT",Eagles @ Chargers: Monsters Funday Football
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679111.m3u8
-#EXTINF:-1 tvg-logo="/logos/daznit-event679112.png" group-title="IT ∞ DAZN + EVENT",Chargers v Eagles (Domestic)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679112.m3u8
-#EXTINF:-1 tvg-logo="/logos/daznit-event679113.png" group-title="IT ∞ DAZN + EVENT",Kings @ Mammoth
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679113.m3u8
-#EXTINF:-1 tvg-logo="/logos/daznit-event679114.png" group-title="IT ∞ DAZN + EVENT",Sabres @ Flames
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679114.m3u8
-#EXTINF:-1 tvg-logo="/logos/daznit-event679115.png" group-title="IT ∞ DAZN + EVENT",Red Wings @ Canucks
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679115.m3u8
-#EXTINF:-1 tvg-logo="/logos/daznit-event679116.png" group-title="IT ∞ DAZN + EVENT",Wild @ Kraken
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679116.m3u8
-#EXTINF:-1 tvg-logo="/logos/daznit-event679117.png" group-title="IT ∞ DAZN + EVENT",Buongiorno Serie A
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679117.m3u8
-#EXTINF:-1 tvg-logo="/logos/daznit-event679118.png" group-title="IT ∞ DAZN + EVENT",Obiettivo Sulla Serie A
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679118.m3u8
-#EXTINF:-1 tvg-logo="/logos/daznit-event679119.png" group-title="IT ∞ DAZN + EVENT",Social Corner
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679119.m3u8
-#EXTINF:-1 tvg-logo="/logos/daznit-event679120.png" group-title="IT ∞ DAZN + EVENT",Prosecco DOC Imoco Conegliano - Orlando Valkyries
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679120.m3u8
-#EXTINF:-1 tvg-logo="/logos/daznit-event679122.png" group-title="IT ∞ DAZN + EVENT",Karditsas - Mersin BB (Domestic)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679122.m3u8
-#EXTINF:-1 tvg-logo="/logos/daznit-event679123.png" group-title="IT ∞ DAZN + EVENT",Inter - Liverpool | Pre-partita
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679123.m3u8
-#EXTINF:-1 tvg-logo="/logos/daznit-event679124.png" group-title="IT ∞ DAZN + EVENT",Karditsas - Mersin BB (Domestic) 2
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679124.m3u8
-#EXTINF:-1 tvg-logo="/logos/daznit-event679125.png" group-title="IT ∞ DAZN + EVENT",Civitanova - Montpellier
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679125.m3u8
-#EXTINF:-1 tvg-logo="/logos/daznit-event679126.png" group-title="IT ∞ DAZN + EVENT",Oostende - Málaga (Domestic)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679126.m3u8
-#EXTINF:-1 tvg-logo="/logos/daznit-event679127.png" group-title="IT ∞ DAZN + EVENT",Élan Chalon - Berlin (Domestic)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679127.m3u8
-#EXTINF:-1 tvg-logo="/logos/daznit-event679128.png" group-title="IT ∞ DAZN + EVENT",Serie A Night
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679128.m3u8
-#EXTINF:-1 tvg-logo="/logos/daznit-event679129.png" group-title="IT ∞ DAZN + EVENT",Élan Chalon vs. Berlin
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679129.m3u8
-#EXTINF:-1 tvg-logo="/logos/daznit-event679130.png" group-title="IT ∞ DAZN + EVENT",Zhetysu VC - Savino Del Bene Scandicci
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679130.m3u8
-#EXTINF:-1 tvg-logo="/logos/daznit-event679131.png" group-title="IT ∞ DAZN + EVENT",Clemson @ BYU
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679131.m3u8
-#EXTINF:-1 tvg-logo="/logos/daznit-event679132.png" group-title="IT ∞ DAZN + EVENT",Villanova @ Michigan
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679132.m3u8
-#EXTINF:-1 tvg-logo="/logos/daznit-event679133.png" group-title="IT ∞ DAZN + EVENT",North Carolina Central @ Kentucky
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679133.m3u8
-#EXTINF:-1 tvg-logo="/logos/daznit-event679134.png" group-title="IT ∞ DAZN + EVENT",Lightning @ Canadiens
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679134.m3u8
-#EXTINF:-1 tvg-logo="/logos/daznit-event679135.png" group-title="IT ∞ DAZN + EVENT",Devils @ Senators
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679135.m3u8
-#EXTINF:-1 tvg-logo="/logos/daznit-event679136.png" group-title="IT ∞ DAZN + EVENT",Golden Knights @ Islanders
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679136.m3u8
-#EXTINF:-1 tvg-logo="/logos/daznit-event679137.png" group-title="IT ∞ DAZN + EVENT",Sharks @ Flyers
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679137.m3u8
-#EXTINF:-1 tvg-logo="/logos/daznit-event679138.png" group-title="IT ∞ DAZN + EVENT",Ducks @ Penguins
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679138.m3u8
-#EXTINF:-1 tvg-logo="/logos/daznit-event679139.png" group-title="IT ∞ DAZN + EVENT",Illinois @ Ohio State
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679139.m3u8
-#EXTINF:-1 tvg-logo="/logos/daznit-event679142.png" group-title="IT ∞ DAZN + EVENT",Stars @ Jets
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679142.m3u8
-#EXTINF:-1 tvg-logo="/logos/daznit-event679143.png" group-title="IT ∞ DAZN + EVENT",Penn State @ Indiana
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679143.m3u8
-#EXTINF:-1 tvg-logo="/logos/daznit-event679144.png" group-title="IT ∞ DAZN + EVENT",USC @ San Diego
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679144.m3u8
-#EXTINF:-1 tvg-logo="/logos/daznit-event679145.png" group-title="IT ∞ DAZN + EVENT",Florida @ UConn
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679145.m3u8
-#EXTINF:-1 tvg-logo="/logos/daznit-event679146.png" group-title="IT ∞ DAZN + EVENT",Sabres @ Oilers
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679146.m3u8
-#EXTINF:-1 tvg-logo="/logos/daznit-event679147.png" group-title="IT ∞ DAZN + EVENT",Avalanche @ Predators
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679147.m3u8
-#EXTINF:-1 tvg-logo="/logos/daznit-event679148.png" group-title="IT ∞ DAZN + EVENT",Buongiorno Serie A 2
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679148.m3u8
-#EXTINF:-1 tvg-logo="/logos/daznit-event679149.png" group-title="IT ∞ DAZN + EVENT",Obiettivo Sulla Serie A 2
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679149.m3u8
-#EXTINF:-1 tvg-logo="/logos/daznit-event679150.png" group-title="IT ∞ DAZN + EVENT",Social Corner 2
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679150.m3u8
-#EXTINF:-1 tvg-logo="/logos/daznit-event679151.png" group-title="IT ∞ DAZN + EVENT",Sabah - Nymburk (Domestic)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679151.m3u8
-#EXTINF:-1 tvg-logo="/logos/daznit-event679153.png" group-title="IT ∞ DAZN + EVENT",VEF Rīga - Szolnoki Olajbányász (Domestic)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679153.m3u8
-#EXTINF:-1 tvg-logo="/logos/daznit-event679154.png" group-title="IT ∞ DAZN + EVENT",AEK vs. Levickí Patrioti
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679154.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3n8vrles0vu61gity5ywca1gd_image-header_pIt_1765022702000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Karditsas vs. Mersin BB (2025-12-09 19:00:00)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679155.m3u8
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679103.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/eungwx6fdpqhg03aqojfbcay3_image-header_pIt_1764700236000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Civitanova - Montpellier (2025-12-09 20:30:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679104.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bsfpzlfbdxi8ggft7u4f4j9gn_image-header_pIt_1762933730000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Oostende - Málaga (Domestic) (2025-12-09 20:30:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679105.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/15jmj2x5e2f5p4oy632yjmysg_image-header_pIt_1764951095000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Élan Chalon - Berlin (Domestic) (2025-12-09 20:30:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679106.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7hch3a75y1p9dc2ixi9o660lr_image-header_pIt_1762245824000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Serie A Night (2025-12-09 20:30:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679107.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/xyyhadpbcqg41xayh1f027aka_image-header_pIt_1764846987000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Élan Chalon vs. Berlin (2025-12-09 20:30:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679108.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/apqri8yfbbl1u7tb6gt20839_image-header_pIt_1765026722000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Oostende vs. Málaga (2025-12-09 20:30:00)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679156.m3u8
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679109.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5zvsu1czhcsi8a1alu076bexm_image-header_pIt_1764782656000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Zhetysu VC - Savino Del Bene Scandicci (2025-12-09 21:00:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679110.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/e4nalujki21m11f6qgh49hqss_image-header_pIt_1764963161000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Clemson @ BYU (2025-12-10 00:30:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679111.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/fkzo5hqusp4p16dl7wtypy28y_image-header_pIt_1764963161000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Villanova @ Michigan (2025-12-10 00:30:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679112.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1uwv4c04suarb1j45k39dhxgnq_image-header_pIt_1764963161000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",North Carolina Central @ Kentucky (2025-12-10 01:00:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679113.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1omsevcxz28xn1y1nd7qncg4zz_image-header_pIt_1763650670000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Lightning @ Canadiens (2025-12-10 01:00:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679114.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1f0m6m9bai3np1wzkwiq8k40a2_image-header_pIt_1763225185000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Devils @ Senators (2025-12-10 01:00:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679115.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/v1a1vugwzj8m1qpey4fab6jqi_image-header_pIt_1763650670000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Golden Knights @ Islanders (2025-12-10 01:00:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679116.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/rnoqlx2g0u341aukjcam0vo5a_image-header_pIt_1763232424000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Sharks @ Flyers (2025-12-10 01:00:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679117.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/13ybqgqs88ms81cqht84pozjp5_image-header_pIt_1763234346000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Ducks @ Penguins (2025-12-10 01:00:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679118.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1pk4owrlxm80g1xt77wuco07rv_image-header_pIt_1764963161000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Illinois @ Ohio State (2025-12-10 01:30:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679119.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dtq2evztdibx1mknbw8gcr1ec_image-header_pIt_1763415581000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Stars @ Jets (2025-12-10 02:00:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679122.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/11ov77x1458vg1b3w5j0eb6who_image-header_pIt_1764963161000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Penn State @ Indiana (2025-12-10 02:30:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679123.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/fuekggswkkcr1xcehcg4u5fzd_image-header_pIt_1764963161000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",USC @ San Diego (2025-12-10 03:00:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679124.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1nqvrjecz90u11uvfietjwtjq5_image-header_pIt_1764963161000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Florida @ UConn (2025-12-10 03:00:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679125.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/14f6keo71sxlu1hw2zus742f83_image-header_pIt_1763415581000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Sabres @ Oilers (2025-12-10 03:00:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679126.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ms1y8v4wkjx61lm8jsfw3crh1_image-header_pIt_1763641131000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Avalanche @ Predators (2025-12-10 03:30:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679127.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/977lkobtdmy0q4ow9qbabpghb_image-header_pIt_1757509860000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Buongiorno Serie A 2 (2025-12-10 08:00:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679128.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bmjchiibjby5l6rrjigw0ytbw_image-header_pIt_1756918685000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Obiettivo Sulla Serie A 2 (2025-12-10 13:00:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679129.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4lou4531zaqtycy8zsm1ogjck_image-header_pIt_1757509860000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Social Corner 2 (2025-12-10 15:00:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679130.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1f5zbkupvft2henljix4r21h7_image-header_pIt_1762933730000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Sabah - Nymburk (Domestic) (2025-12-10 17:00:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679131.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3yfxyx0tq38xe92m5sxj5zhwo_image-header_pIt_1762933730000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",VEF Rīga - Szolnoki Olajbányász (Domestic) (2025-12-10 18:00:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679133.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/vh0ozbwi3gz010ps3gv13dsym_image-header_pIt_1765092846000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",VEF Rīga vs. Szolnoki Olajbányász (2025-12-10 18:00:00)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679157.m3u8
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679134.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7fa326prty0ttjxn4oias5oe3_image-header_pIt_1764978813000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",AEK - Levickí Patrioti (Domestic) (2025-12-10 18:30:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679135.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6qrdgjepqi8u10o8ub0zckddx_image-header_pIt_1764935462000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",AEK vs. Levickí Patrioti (2025-12-10 18:30:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679136.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/c062b6pdna9vwobuz9rhw1h4g_image-header_pIt_1764700236000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Perugia - Praha (2025-12-10 20:30:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679137.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2w1fa0dkx0zvslrvgv4z826g2_image-header_pIt_1762245824000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Serie A Night 2 (2025-12-10 20:30:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679138.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/h30qfgm2x6dj1ekgt71q5o7u5_image-header_pIt_1764261954000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Carlisle vs. Woking (2025-12-10 20:45:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679139.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/f550o99ouq5q7cwac5z2f5yp9_image-header_pIt_1762933730000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Tenerife - Trapani Shark (Domestic) (2025-12-10 21:00:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679140.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/x1iby803mz84cus1q3i3hh2w_image-header_pIt_1764782656000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Prosecco DOC Imoco Conegliano - Zamalek Sporting Club (2025-12-10 21:00:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679141.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/148liwvq5274c1cvm8mgadu304_image-header_pIt_1765040102000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Tenerife vs. Trapani Shark (2025-12-10 21:00:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679142.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1me5izhpzagc11b88ua495ygqf_image-header_pIt_1765197631000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Lopez vs. Stevenson: Launch Press Conference (2025-12-10 22:00:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679143.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ag6zit3a00sctq4y1qj1zp2bu_image-header_pIt_1764673939000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Osasco VC - Scandicci (2025-12-11 00:30:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679144.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/16ssqf9yj9ds31c6xmsapmked9_image-header_pIt_1765195642000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Minnesota @ Purdue (2025-12-11 01:00:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679145.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1imgaej6gc6nk1uiy2zo2qnl0v_image-header_pIt_1763641131000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Rangers @ Blackhawks (2025-12-11 01:30:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679146.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/129nvl03nj7ib1tavl9cmqg5eo_image-header_pIt_1763641131000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Wings @ Flames (2025-12-11 02:30:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679147.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6glssc0p8rl21t64kg2v85t8d_image-header_pIt_1763641131000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Panthers @ Mammoth (2025-12-11 03:00:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679148.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1fsm0k7ni33zv1gw82kjyxmpov_image-header_pIt_1763641131000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Kings @ Kraken (2025-12-11 04:00:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679149.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5joiuvrgn1qhhtg2160f5vj4m_image-header_pIt_1757509860000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Buongiorno Serie A 3 (2025-12-11 08:00:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679150.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5rx9kc3ruj7txkmq6u4vy95rq_image-header_pIt_1757427130000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Obiettivo sulla Serie A (2025-12-11 13:00:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679151.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/b18ky3ebgxe4msts2abzmortl_image-header_pIt_1761034241000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Riyadh Racing Season Race Night #10 (2025-12-11 14:00:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679152.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2ww8hup1s73li7y0lyi612dd9_image-header_pIt_1757509860000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Social Corner 3 (2025-12-11 15:00:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679153.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cuhkqldis2f3680mgriqhjnzg_image-header_pIt_1764515809000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Conegliano - Praia (2025-12-11 17:30:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679155.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/404qqo727uy13zg5hqnz5evkz_image-header_pIt_1764647897000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",World Darts Championship | Day 1 (2025-12-11 20:00:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679156.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/agnfevgfbi2nty08h6hn5xxld_image-header_pIt_1764700236000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Trentino - Volley Ljubljana (2025-12-11 20:30:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679157.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/e8w4kmaxieu21s3amtps9y6d5_image-header_pIt_1762245824000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Serie A Night 3 (2025-12-11 20:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679158.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/c062b6pdna9vwobuz9rhw1h4g_image-header_pIt_1764700236000/fill/none/top/none/85/668/374/webp/image" group-title="IT ∞ DAZN + EVENT",Perugia - Praha (2025-12-10 20:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/679159.m3u8
@@ -24046,63 +24042,63 @@ http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/399974.m3u8
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/399973.m3u8
 
 # --- SPORT ∞ FORMULA 1 I Cockpit (90) ---
-#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/1ec83e58-a38a-407d-a633-1e7eaa63180d/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - Northampton v Huddersfield (2025-12-09 19:30:00)
+#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/1ec83e58-a38a-407d-a633-1e7eaa63180d/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - Fleetwood v Salford (2025-12-09 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685998.m3u8
-#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/43d42edb-05dc-4f06-aa3f-712cdb88506f/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - Swansea v Portsmouth (2025-12-09 19:30:00)
+#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/43d42edb-05dc-4f06-aa3f-712cdb88506f/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - Harrogate v Accrington (2025-12-09 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685997.m3u8
-#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/ec329642-4f82-4755-a976-2c4b16a4617e/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - Port Vale v Bradford (2025-12-09 19:30:00)
+#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/ec329642-4f82-4755-a976-2c4b16a4617e/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - Sheff Utd v Norwich (2025-12-09 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685996.m3u8
-#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/87539358-32c3-4325-9f51-59884754bc0f/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - Stevenage v Cardiff (2025-12-09 19:30:00)
+#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/87539358-32c3-4325-9f51-59884754bc0f/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - Southampton v West Bromwich (2025-12-09 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685995.m3u8
-#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/e65caf97-60d8-45fd-b753-e2de38663260/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - Sheff Utd v Norwich (2025-12-09 19:30:00)
+#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/e65caf97-60d8-45fd-b753-e2de38663260/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - Swansea v Portsmouth (2025-12-09 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685994.m3u8
-#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/ee84d0cb-7dd1-4ffa-b7f3-ce0da72143bf/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - Charlton v Middlesbrough (2025-12-09 19:30:00)
+#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/ee84d0cb-7dd1-4ffa-b7f3-ce0da72143bf/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - Watford v Sheff Wed (2025-12-09 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685993.m3u8
 #EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/784de9e4-4f29-4f3f-a2d9-174e3dcea3fc/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - Colchester v West Ham U21 (2025-12-09 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685992.m3u8
-#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/b196f61e-bae8-4d01-ae8d-e2df4895da4d/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - Doncaster v Stockport (2025-12-09 19:30:00)
+#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/b196f61e-bae8-4d01-ae8d-e2df4895da4d/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - Swindon v Cheltenham (2025-12-09 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685991.m3u8
-#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/99624ca5-016a-468b-a575-c6a2e2b46099/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - Exeter v Wimbledon (2025-12-09 19:30:00)
+#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/99624ca5-016a-468b-a575-c6a2e2b46099/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - Shrewsbury v Grimsby (2025-12-09 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685990.m3u8
-#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/9fb1591a-b35e-46d7-8a7d-e28ccf8caef2/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - L Orient v Luton (2025-12-09 19:30:00)
+#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/9fb1591a-b35e-46d7-8a7d-e28ccf8caef2/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - Doncaster v Stockport (2025-12-09 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685989.m3u8
-#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/021f908a-24cb-4bbf-83a0-61dd00408469/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - Lincoln v Barnsley (2025-12-09 19:30:00)
+#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/021f908a-24cb-4bbf-83a0-61dd00408469/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - Exeter v Wimbledon (2025-12-09 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685988.m3u8
-#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/1fcef2d8-5589-4f67-b205-113c8cb3acfc/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - Mansfield Town v Bolton (2025-12-09 19:30:00)
+#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/1fcef2d8-5589-4f67-b205-113c8cb3acfc/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - L Orient v Luton (2025-12-09 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685987.m3u8
-#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/340ac22b-94bf-425c-ba89-14321f9ee32b/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - Fleetwood v Salford (2025-12-09 19:30:00)
+#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/340ac22b-94bf-425c-ba89-14321f9ee32b/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - Lincoln v Barnsley (2025-12-09 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685986.m3u8
-#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/46aa33b8-66ff-4b9c-b996-af76962f7753/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - Southampton v West Bromwich (2025-12-09 19:30:00)
+#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/46aa33b8-66ff-4b9c-b996-af76962f7753/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - Mansfield Town v Bolton (2025-12-09 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685985.m3u8
-#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/580780fb-d64b-4e3b-b370-92c5eda6b0c6/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - Watford v Sheff Wed (2025-12-09 19:30:00)
+#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/580780fb-d64b-4e3b-b370-92c5eda6b0c6/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - Northampton v Huddersfield (2025-12-09 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685984.m3u8
-#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/943de136-5c25-415c-b3e9-7910ffd63173/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - Wycombe v Plymouth (2025-12-09 19:30:00)
+#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/943de136-5c25-415c-b3e9-7910ffd63173/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - Port Vale v Bradford (2025-12-09 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685983.m3u8
-#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/dffc0f4b-e394-49d2-99a9-89ec86b1a814/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - Harrogate v Accrington (2025-12-09 19:30:00)
+#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/dffc0f4b-e394-49d2-99a9-89ec86b1a814/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - Stevenage v Cardiff (2025-12-09 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685982.m3u8
-#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/9da567cc-7f28-48c0-954d-53c1146dfb2d/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - Swindon v Cheltenham (2025-12-09 19:30:00)
+#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/9da567cc-7f28-48c0-954d-53c1146dfb2d/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - Wycombe v Plymouth (2025-12-09 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685981.m3u8
-#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/c94157f6-f208-420c-a572-2df98b42ce03/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - Shrewsbury v Grimsby (2025-12-09 19:30:00)
+#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/c94157f6-f208-420c-a572-2df98b42ce03/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - Notts County v MK Dons (2025-12-09 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685980.m3u8
-#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/3a26595f-72cd-432d-bbda-42916d32b29b/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - Blackburn v Oxford (2025-12-09 19:30:00)
+#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/3a26595f-72cd-432d-bbda-42916d32b29b/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - Charlton v Middlesbrough (2025-12-09 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685979.m3u8
-#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/0d16e6f1-3b0f-4573-89d2-3bafb7f2b74d/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - Barnet v Bristol Rovers (2025-12-09 19:30:00)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685978.m3u8
-#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/f076e0e7-e393-4ac0-b9a7-04d73f2699ee/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - Barrow v Tranmere (2025-12-09 19:30:00)
+#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/f076e0e7-e393-4ac0-b9a7-04d73f2699ee/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - Blackburn v Oxford (2025-12-09 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685977.m3u8
-#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/76f58da7-2199-45df-8423-bd258bf26692/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - Bromley v Crawley (2025-12-09 19:30:00)
+#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/76f58da7-2199-45df-8423-bd258bf26692/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - Barnet v Bristol Rovers (2025-12-09 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685976.m3u8
-#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/c27f9813-2680-48ec-b58e-f283edd61b21/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - Notts County v MK Dons (2025-12-09 19:30:00)
+#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/64b6a19d-8b0d-4682-931e-d5f2e9c93083/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - Barrow v Tranmere (2025-12-09 19:30:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685975.m3u8
+#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/c27f9813-2680-48ec-b58e-f283edd61b21/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - Bromley v Crawley (2025-12-09 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685974.m3u8
 #EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/00d08b69-4a68-41ad-8fb3-f5de656648aa/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - Reading v Peterborough (2025-12-09 19:45:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685973.m3u8
-#EXTINF:-1 tvg-logo="/logos/nowgb-event684562.png" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - Portsmouth v Bristol City (2025-11-29 12:15:00)
+#EXTINF:-1 tvg-logo="/logos/nowgb-event684562.png" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - Derby v Millwall (2025-12-10 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685972.m3u8
-#EXTINF:-1 tvg-logo="/logos/nowgb-event684563.png" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - Stockport v Barnsley (2025-11-29 12:15:00)
+#EXTINF:-1 tvg-logo="/logos/nowgb-event684563.png" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - Oldham v Walsall (2025-12-10 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685971.m3u8
-#EXTINF:-1 tvg-logo="/logos/nowgb-event684564.png" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - MK Dons v Fleetwood (2025-11-29 12:15:00)
+#EXTINF:-1 tvg-logo="/logos/nowgb-event684564.png" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - Crewe v Newport (2025-12-10 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685970.m3u8
-#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/0f060eb2-68c9-4e78-8e29-f7c540a74a3b/LAND_16_9?language=en-GB&proposition=NOWOTT&version=3c355897-9e22-3cfd-bcf3-a1d1fdc85314" group-title="SPORT ∞ FORMULA 1 I Cockpit",F1 - Andrea Kimi Antonelli: Onboard (2025-11-08 13:00:00)
+#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/0f060eb2-68c9-4e78-8e29-f7c540a74a3b/LAND_16_9?language=en-GB&proposition=NOWOTT&version=3c355897-9e22-3cfd-bcf3-a1d1fdc85314" group-title="SPORT ∞ FORMULA 1 I Cockpit",EFL - Bristol City v Leicester (2025-12-10 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685969.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT ∞ FORMULA 1 I Cockpit",Formula 1 DATA
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/505725.m3u8
@@ -24370,65 +24366,65 @@ http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/503305.m3u8
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/503304.m3u8
 
 # --- SPORT ∞ SKY SPORT+ (49) ---
-#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/1ec83e58-a38a-407d-a633-1e7eaa63180d/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ SKY SPORT+",EFL - Northampton v Huddersfield (2025-12-09 19:30:00)
+#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/1ec83e58-a38a-407d-a633-1e7eaa63180d/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ SKY SPORT+",EFL - Fleetwood v Salford (2025-12-09 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686048.m3u8
-#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/43d42edb-05dc-4f06-aa3f-712cdb88506f/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ SKY SPORT+",EFL - Northampton v Huddersfield (2025-12-09 19:30:00)
+#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/43d42edb-05dc-4f06-aa3f-712cdb88506f/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ SKY SPORT+",EFL - Fleetwood v Salford (2025-12-09 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686047.m3u8
-#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/ec329642-4f82-4755-a976-2c4b16a4617e/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ SKY SPORT+",EFL - Port Vale v Bradford (2025-12-09 19:30:00)
+#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/ec329642-4f82-4755-a976-2c4b16a4617e/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ SKY SPORT+",EFL - Sheff Utd v Norwich (2025-12-09 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686046.m3u8
-#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/87539358-32c3-4325-9f51-59884754bc0f/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ SKY SPORT+",EFL - Stevenage v Cardiff (2025-12-09 19:30:00)
+#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/87539358-32c3-4325-9f51-59884754bc0f/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ SKY SPORT+",EFL - Southampton v West Bromwich (2025-12-09 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686045.m3u8
-#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/e65caf97-60d8-45fd-b753-e2de38663260/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ SKY SPORT+",EFL - Sheff Utd v Norwich (2025-12-09 19:30:00)
+#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/e65caf97-60d8-45fd-b753-e2de38663260/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ SKY SPORT+",EFL - Swansea v Portsmouth (2025-12-09 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686044.m3u8
-#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/ee84d0cb-7dd1-4ffa-b7f3-ce0da72143bf/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ SKY SPORT+",EFL - Charlton v Middlesbrough (2025-12-09 19:30:00)
+#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/ee84d0cb-7dd1-4ffa-b7f3-ce0da72143bf/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ SKY SPORT+",EFL - Watford v Sheff Wed (2025-12-09 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686043.m3u8
 #EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/784de9e4-4f29-4f3f-a2d9-174e3dcea3fc/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ SKY SPORT+",EFL - Colchester v West Ham U21 (2025-12-09 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686042.m3u8
-#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/b196f61e-bae8-4d01-ae8d-e2df4895da4d/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ SKY SPORT+",EFL - Doncaster v Stockport (2025-12-09 19:30:00)
+#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/b196f61e-bae8-4d01-ae8d-e2df4895da4d/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ SKY SPORT+",EFL - Swindon v Cheltenham (2025-12-09 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686041.m3u8
-#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/99624ca5-016a-468b-a575-c6a2e2b46099/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ SKY SPORT+",EFL - Exeter v Wimbledon (2025-12-09 19:30:00)
+#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/99624ca5-016a-468b-a575-c6a2e2b46099/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ SKY SPORT+",EFL - Shrewsbury v Grimsby (2025-12-09 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686040.m3u8
-#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/9fb1591a-b35e-46d7-8a7d-e28ccf8caef2/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ SKY SPORT+",EFL - L Orient v Luton (2025-12-09 19:30:00)
+#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/9fb1591a-b35e-46d7-8a7d-e28ccf8caef2/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ SKY SPORT+",EFL - Doncaster v Stockport (2025-12-09 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686039.m3u8
-#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/021f908a-24cb-4bbf-83a0-61dd00408469/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ SKY SPORT+",EFL - Lincoln v Barnsley (2025-12-09 19:30:00)
+#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/021f908a-24cb-4bbf-83a0-61dd00408469/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ SKY SPORT+",EFL - Exeter v Wimbledon (2025-12-09 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686038.m3u8
-#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/1fcef2d8-5589-4f67-b205-113c8cb3acfc/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ SKY SPORT+",EFL - Mansfield Town v Bolton (2025-12-09 19:30:00)
+#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/1fcef2d8-5589-4f67-b205-113c8cb3acfc/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ SKY SPORT+",EFL - L Orient v Luton (2025-12-09 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686037.m3u8
-#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/340ac22b-94bf-425c-ba89-14321f9ee32b/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ SKY SPORT+",EFL - Fleetwood v Salford (2025-12-09 19:30:00)
+#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/340ac22b-94bf-425c-ba89-14321f9ee32b/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ SKY SPORT+",EFL - Lincoln v Barnsley (2025-12-09 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686036.m3u8
-#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/46aa33b8-66ff-4b9c-b996-af76962f7753/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ SKY SPORT+",EFL - Southampton v West Bromwich (2025-12-09 19:30:00)
+#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/46aa33b8-66ff-4b9c-b996-af76962f7753/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ SKY SPORT+",EFL - Mansfield Town v Bolton (2025-12-09 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686035.m3u8
-#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/580780fb-d64b-4e3b-b370-92c5eda6b0c6/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ SKY SPORT+",EFL - Watford v Sheff Wed (2025-12-09 19:30:00)
+#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/580780fb-d64b-4e3b-b370-92c5eda6b0c6/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ SKY SPORT+",EFL - Northampton v Huddersfield (2025-12-09 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686034.m3u8
-#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/943de136-5c25-415c-b3e9-7910ffd63173/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ SKY SPORT+",EFL - Wycombe v Plymouth (2025-12-09 19:30:00)
+#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/943de136-5c25-415c-b3e9-7910ffd63173/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ SKY SPORT+",EFL - Port Vale v Bradford (2025-12-09 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686033.m3u8
-#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/dffc0f4b-e394-49d2-99a9-89ec86b1a814/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ SKY SPORT+",EFL - Harrogate v Accrington (2025-12-09 19:30:00)
+#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/dffc0f4b-e394-49d2-99a9-89ec86b1a814/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ SKY SPORT+",EFL - Stevenage v Cardiff (2025-12-09 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686032.m3u8
-#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/9da567cc-7f28-48c0-954d-53c1146dfb2d/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ SKY SPORT+",EFL - Swindon v Cheltenham (2025-12-09 19:30:00)
+#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/9da567cc-7f28-48c0-954d-53c1146dfb2d/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ SKY SPORT+",EFL - Wycombe v Plymouth (2025-12-09 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686031.m3u8
-#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/c94157f6-f208-420c-a572-2df98b42ce03/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ SKY SPORT+",EFL - Shrewsbury v Grimsby (2025-12-09 19:30:00)
+#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/c94157f6-f208-420c-a572-2df98b42ce03/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ SKY SPORT+",EFL - Notts County v MK Dons (2025-12-09 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686030.m3u8
-#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/3a26595f-72cd-432d-bbda-42916d32b29b/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ SKY SPORT+",EFL - Blackburn v Oxford (2025-12-09 19:30:00)
+#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/3a26595f-72cd-432d-bbda-42916d32b29b/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ SKY SPORT+",EFL - Charlton v Middlesbrough (2025-12-09 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686029.m3u8
-#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/0d16e6f1-3b0f-4573-89d2-3bafb7f2b74d/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ SKY SPORT+",EFL - Barnet v Bristol Rovers (2025-12-09 19:30:00)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686028.m3u8
-#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/f076e0e7-e393-4ac0-b9a7-04d73f2699ee/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ SKY SPORT+",EFL - Barrow v Tranmere (2025-12-09 19:30:00)
+#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/f076e0e7-e393-4ac0-b9a7-04d73f2699ee/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ SKY SPORT+",EFL - Blackburn v Oxford (2025-12-09 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686027.m3u8
-#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/76f58da7-2199-45df-8423-bd258bf26692/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ SKY SPORT+",EFL - Bromley v Crawley (2025-12-09 19:30:00)
+#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/76f58da7-2199-45df-8423-bd258bf26692/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ SKY SPORT+",EFL - Barnet v Bristol Rovers (2025-12-09 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686026.m3u8
-#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/c27f9813-2680-48ec-b58e-f283edd61b21/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ SKY SPORT+",EFL - Notts County v MK Dons (2025-12-09 19:30:00)
+#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/64b6a19d-8b0d-4682-931e-d5f2e9c93083/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ SKY SPORT+",EFL - Barrow v Tranmere (2025-12-09 19:30:00)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686025.m3u8
+#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/c27f9813-2680-48ec-b58e-f283edd61b21/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ SKY SPORT+",EFL - Bromley v Crawley (2025-12-09 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686024.m3u8
 #EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/00d08b69-4a68-41ad-8fb3-f5de656648aa/LAND_16_9?language=en-GB&proposition=NOWOTT&version=7ffa3242-5508-384e-96dc-d4d3a6fd8da3" group-title="SPORT ∞ SKY SPORT+",EFL - Reading v Peterborough (2025-12-09 19:45:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686023.m3u8
-#EXTINF:-1 tvg-logo="/logos/nowgb-event684562.png" group-title="SPORT ∞ SKY SPORT+",EFL - Portsmouth v Bristol City (2025-11-29 12:15:00)
+#EXTINF:-1 tvg-logo="/logos/nowgb-event684562.png" group-title="SPORT ∞ SKY SPORT+",EFL - Derby v Millwall (2025-12-10 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686022.m3u8
-#EXTINF:-1 tvg-logo="/logos/nowgb-event684563.png" group-title="SPORT ∞ SKY SPORT+",EFL - Stockport v Barnsley (2025-11-29 12:15:00)
+#EXTINF:-1 tvg-logo="/logos/nowgb-event684563.png" group-title="SPORT ∞ SKY SPORT+",EFL - Oldham v Walsall (2025-12-10 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686021.m3u8
-#EXTINF:-1 tvg-logo="/logos/nowgb-event684564.png" group-title="SPORT ∞ SKY SPORT+",EFL - MK Dons v Fleetwood (2025-11-29 12:15:00)
+#EXTINF:-1 tvg-logo="/logos/nowgb-event684564.png" group-title="SPORT ∞ SKY SPORT+",EFL - Crewe v Newport (2025-12-10 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686020.m3u8
-#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/0f060eb2-68c9-4e78-8e29-f7c540a74a3b/LAND_16_9?language=en-GB&proposition=NOWOTT&version=3c355897-9e22-3cfd-bcf3-a1d1fdc85314" group-title="SPORT ∞ SKY SPORT+",F1 - Andrea Kimi Antonelli: Onboard (2025-11-08 13:00:00)
+#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/0f060eb2-68c9-4e78-8e29-f7c540a74a3b/LAND_16_9?language=en-GB&proposition=NOWOTT&version=3c355897-9e22-3cfd-bcf3-a1d1fdc85314" group-title="SPORT ∞ SKY SPORT+",EFL - Bristol City v Leicester (2025-12-10 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686019.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SKY SPORT+",ATP Tour - N. Djokovic v L. Musetti (2025-11-08 14:55:00)
+#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SKY SPORT+",EFL - Rotherham v Blackpool (2025-12-10 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686018.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SKY SPORT+",ATP Tour - C. Norrie v L. Tien (2025-11-08 15:25:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686017.m3u8
@@ -24534,79 +24530,79 @@ http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/503345.m3u8
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/503344.m3u8
 
 # --- SPORT ∞ SPORTS STAN EVENTS LIVE (148) ---
-#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY2JTJGYXR0a0lOd0Z0Z3ljYlFmNjcuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNiUyRmF0dGpDRjVzNUxDU3RQYlhjLmpwZ1x1MDAyNmJhZGdlPWZ1bGxEYXRlXHUwMDI2Y29tcENvbG9yPTZBNDVDMlx1MDAyNmNvbXBMb2dvPSUyRmNtcyUyRjIwMjUlMkY2JTJGYXR0ZTZ0cnByek55TjVZdmcucG5nXHUwMDI2ZGVzYz1Xb21lbiVFMiU4MCU5OXMrRVVSTyslRTIlODAlQTIrR3JvdXArRFx1MDAyNmgxPUZvb3RiYWxsXHUwMDI2aDI9VUVGQStXb21lbiUyN3MrRVVST1x1MDAyNmxpdmVFbmREYXRlPTBcdTAwMjZsaXZlU3RhcnREYXRlPTE3NTE3MzA2MDAwMDBcdTAwMjZsb2dvMT0lMkZjbXMlMkYyMDI1JTJGNiUyRmF0dFRlRm9zekVpeFl4aHBtLnBuZ1x1MDAyNmxvZ28yPSUyRmNtcyUyRjIwMjUlMkY2JTJGYXR0cUY1V3R3RlZOVjdrUVkucG5nXHUwMDI2cGljPUZvb3RiYWxsXHUwMDI2dGVhbTE9V2FsZXNcdTAwMjZ0ZWFtMj1OZXRoZXJsYW5kc1x1MDAyNnRlbXBsYXRlPXRlYW12dGVhbS1sYW5kc2NhcGUifQ.ToMXiGNEZMaA0F77uu0bhlb_mOAqOUA000zgfoU2rzc" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Suwon FC v Bucheon FC - K League 2025
+#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY2JTJGYXR0a0lOd0Z0Z3ljYlFmNjcuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNiUyRmF0dGpDRjVzNUxDU3RQYlhjLmpwZ1x1MDAyNmJhZGdlPWZ1bGxEYXRlXHUwMDI2Y29tcENvbG9yPTZBNDVDMlx1MDAyNmNvbXBMb2dvPSUyRmNtcyUyRjIwMjUlMkY2JTJGYXR0ZTZ0cnByek55TjVZdmcucG5nXHUwMDI2ZGVzYz1Xb21lbiVFMiU4MCU5OXMrRVVSTyslRTIlODAlQTIrR3JvdXArRFx1MDAyNmgxPUZvb3RiYWxsXHUwMDI2aDI9VUVGQStXb21lbiUyN3MrRVVST1x1MDAyNmxpdmVFbmREYXRlPTBcdTAwMjZsaXZlU3RhcnREYXRlPTE3NTE3MzA2MDAwMDBcdTAwMjZsb2dvMT0lMkZjbXMlMkYyMDI1JTJGNiUyRmF0dFRlRm9zekVpeFl4aHBtLnBuZ1x1MDAyNmxvZ28yPSUyRmNtcyUyRjIwMjUlMkY2JTJGYXR0cUY1V3R3RlZOVjdrUVkucG5nXHUwMDI2cGljPUZvb3RiYWxsXHUwMDI2dGVhbTE9V2FsZXNcdTAwMjZ0ZWFtMj1OZXRoZXJsYW5kc1x1MDAyNnRlbXBsYXRlPXRlYW12dGVhbS1sYW5kc2NhcGUifQ.ToMXiGNEZMaA0F77uu0bhlb_mOAqOUA000zgfoU2rzc" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Internazionale U19 v Liverpool U19 - UEFA Youth League 2025/2026 (2025-12-09 14:55:06)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685788.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Third Round Draw - FA Cup 2025/26
+#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Kairat v Olympiakos Piraeus - UEFA Champions League 2025/2026 (2025-12-09 15:24:04)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685787.m3u8
-#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkYzJTJGYXR0aHhWREJWWGdyUzZZeWouanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGMyUyRmF0dEVzanR1RGRQMUt5aVl4LmpwZ1x1MDAyNmJhZGdlPWZ1bGxEYXRlXHUwMDI2Y29tcENvbG9yPWYwMDQwMlx1MDAyNmNvbXBMb2dvPSUyRmNtcyUyRjIwMjUlMkYzJTJGYXR0MzBXUzJMSnFZdE9pUTQucG5nXHUwMDI2ZGVzYz1QUk9NWCslRTIlODAlQTIrUjZcdTAwMjZoMT1DYW5iZXJyYVx1MDAyNmgyPVJhY2UrRGF5XHUwMDI2bGl2ZUVuZERhdGU9MFx1MDAyNmxpdmVTdGFydERhdGU9MTc1MTc3MDgwMDAwMFx1MDAyNnBpYz1Nb3RvcnNwb3J0XHUwMDI2dGVtcGxhdGU9YmFzaWMtbGFuZHNjYXBlIn0.XsYpsol8eucvedz6BpmO3wLki71FDWBZkt28z4XU9Ts" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Wolverhampton Wanderers v Manchester United - Premier League 2025/2026 (2025-12-08 19:30:04)
+#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkYzJTJGYXR0aHhWREJWWGdyUzZZeWouanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGMyUyRmF0dEVzanR1RGRQMUt5aVl4LmpwZ1x1MDAyNmJhZGdlPWZ1bGxEYXRlXHUwMDI2Y29tcENvbG9yPWYwMDQwMlx1MDAyNmNvbXBMb2dvPSUyRmNtcyUyRjIwMjUlMkYzJTJGYXR0MzBXUzJMSnFZdE9pUTQucG5nXHUwMDI2ZGVzYz1QUk9NWCslRTIlODAlQTIrUjZcdTAwMjZoMT1DYW5iZXJyYVx1MDAyNmgyPVJhY2UrRGF5XHUwMDI2bGl2ZUVuZERhdGU9MFx1MDAyNmxpdmVTdGFydERhdGU9MTc1MTc3MDgwMDAwMFx1MDAyNnBpYz1Nb3RvcnNwb3J0XHUwMDI2dGVtcGxhdGU9YmFzaWMtbGFuZHNjYXBlIn0.XsYpsol8eucvedz6BpmO3wLki71FDWBZkt28z4XU9Ts" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Bayern München v Sporting CP - UEFA Champions League 2025/2026 (2025-12-09 17:39:04)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685786.m3u8
-#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkYyJTJGYXR0cjhsT0VnY0xvZXFlcGQuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGMiUyRmF0dDJGU096NVZVb2VidmZWLmpwZ1x1MDAyNmJhZGdlPWZ1bGxEYXRlXHUwMDI2Y29tcENvbG9yPThhOTY5Y1x1MDAyNmNvbXBMb2dvPSUyRmNtcyUyRjIwMjUlMkYyJTJGYXR0UFpMd1h5elg5cmxGcEkucG5nXHUwMDI2ZGVzYz1JbmR5Y2FyKyVFMiU4MCVBMitSMTBcdTAwMjZoMT1NaWQtT2hpb1x1MDAyNmgyPVF1YWxpZnlpbmdcdTAwMjZsaXZlRW5kRGF0ZT0wXHUwMDI2bGl2ZVN0YXJ0RGF0ZT0xNzUxNzQwMjAwMDAwXHUwMDI2cGljPU1vdG9yc3BvcnRcdTAwMjZ0ZW1wbGF0ZT1iYXNpYy1sYW5kc2NhcGUifQ.wCBF7ugb9cymsjRZ8NsWroEEDwBGj3FxUsqZq8V2ZhY" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",4K - Wolves v Man United- Premier League 2025/2026 (2025-12-08 19:50:04)
+#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkYyJTJGYXR0cjhsT0VnY0xvZXFlcGQuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGMiUyRmF0dDJGU096NVZVb2VidmZWLmpwZ1x1MDAyNmJhZGdlPWZ1bGxEYXRlXHUwMDI2Y29tcENvbG9yPThhOTY5Y1x1MDAyNmNvbXBMb2dvPSUyRmNtcyUyRjIwMjUlMkYyJTJGYXR0UFpMd1h5elg5cmxGcEkucG5nXHUwMDI2ZGVzYz1JbmR5Y2FyKyVFMiU4MCVBMitSMTBcdTAwMjZoMT1NaWQtT2hpb1x1MDAyNmgyPVF1YWxpZnlpbmdcdTAwMjZsaXZlRW5kRGF0ZT0wXHUwMDI2bGl2ZVN0YXJ0RGF0ZT0xNzUxNzQwMjAwMDAwXHUwMDI2cGljPU1vdG9yc3BvcnRcdTAwMjZ0ZW1wbGF0ZT1iYXNpYy1sYW5kc2NhcGUifQ.wCBF7ugb9cymsjRZ8NsWroEEDwBGj3FxUsqZq8V2ZhY" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Football Zone: MD6 Thursday - UEFA Champions League 2025/26 (2025-12-09 19:40:04)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685785.m3u8
-#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY2JTJGYXR0a0lOd0Z0Z3ljYlFmNjcuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNiUyRmF0dGpDRjVzNUxDU3RQYlhjLmpwZ1x1MDAyNmJhZGdlPWZ1bGxEYXRlXHUwMDI2Y29tcENvbG9yPTZBNDVDMlx1MDAyNmNvbXBMb2dvPSUyRmNtcyUyRjIwMjUlMkY2JTJGYXR0ZTZ0cnByek55TjVZdmcucG5nXHUwMDI2ZGVzYz1Xb21lbiVFMiU4MCU5OXMrRVVSTyslRTIlODAlQTIrR3JvdXArRFx1MDAyNmgxPUZvb3RiYWxsXHUwMDI2aDI9VUVGQStXb21lbiUyN3MrRVVST1x1MDAyNmxpdmVFbmREYXRlPTBcdTAwMjZsaXZlU3RhcnREYXRlPTE3NTE3NDE0MDAwMDBcdTAwMjZsb2dvMT0lMkZjbXMlMkYyMDI1JTJGNiUyRmF0dHpDWnRmUmZVd25aTHM3LnBuZ1x1MDAyNmxvZ28yPSUyRmNtcyUyRjIwMjUlMkY2JTJGYXR0aUZyblJ0Qm41RlJEUEQucG5nXHUwMDI2cGljPUZvb3RiYWxsXHUwMDI2dGVhbTE9RnJhbmNlXHUwMDI2dGVhbTI9RW5nbGFuZFx1MDAyNnRlbXBsYXRlPXRlYW12dGVhbS1sYW5kc2NhcGUifQ.qtQHlx0wZvwicwYGItQsy3NP7aDLN3oCCBmaanRHqrA" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Internazionale U19 v Liverpool U19 - UEFA Youth League 2025/2026
+#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY2JTJGYXR0a0lOd0Z0Z3ljYlFmNjcuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNiUyRmF0dGpDRjVzNUxDU3RQYlhjLmpwZ1x1MDAyNmJhZGdlPWZ1bGxEYXRlXHUwMDI2Y29tcENvbG9yPTZBNDVDMlx1MDAyNmNvbXBMb2dvPSUyRmNtcyUyRjIwMjUlMkY2JTJGYXR0ZTZ0cnByek55TjVZdmcucG5nXHUwMDI2ZGVzYz1Xb21lbiVFMiU4MCU5OXMrRVVSTyslRTIlODAlQTIrR3JvdXArRFx1MDAyNmgxPUZvb3RiYWxsXHUwMDI2aDI9VUVGQStXb21lbiUyN3MrRVVST1x1MDAyNmxpdmVFbmREYXRlPTBcdTAwMjZsaXZlU3RhcnREYXRlPTE3NTE3NDE0MDAwMDBcdTAwMjZsb2dvMT0lMkZjbXMlMkYyMDI1JTJGNiUyRmF0dHpDWnRmUmZVd25aTHM3LnBuZ1x1MDAyNmxvZ28yPSUyRmNtcyUyRjIwMjUlMkY2JTJGYXR0aUZyblJ0Qm41RlJEUEQucG5nXHUwMDI2cGljPUZvb3RiYWxsXHUwMDI2dGVhbTE9RnJhbmNlXHUwMDI2dGVhbTI9RW5nbGFuZFx1MDAyNnRlbXBsYXRlPXRlYW12dGVhbS1sYW5kc2NhcGUifQ.qtQHlx0wZvwicwYGItQsy3NP7aDLN3oCCBmaanRHqrA" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Atalanta v Chelsea - UEFA Champions League 2025/2026 (2025-12-09 19:54:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685784.m3u8
-#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjQlMkY5JTJGYXR0R0hRVGJEcGg3MXJRMnAuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dEM5WEp0eGxZeTdJamI0LmpwZ1x1MDAyNmJhZGdlPWZ1bGxEYXRlXHUwMDI2Y29tcENvbG9yPTBiN2E3Mlx1MDAyNmNvbXBMb2dvPSUyRmNtcyUyRjIwMjUlMkY1JTJGYXR0alhNaWVuVHNJQ2JEeDMucG5nXHUwMDI2ZGVzYz1NZW4lMjdzK0ludGVybmF0aW9uYWwrJUUyJTgwJUEyK1QxXHUwMDI2aDE9UnVnYnlcdTAwMjZoMj1NZW4lMjdzK0ludGVybmF0aW9uYWxcdTAwMjZsaXZlRW5kRGF0ZT0wXHUwMDI2bGl2ZVN0YXJ0RGF0ZT0xNzUxNzQzODAwMDAwXHUwMDI2bG9nbzE9JTJGY21zJTJGMjAyNSUyRjYlMkZhdHQ1QVMyTlQyWGtVVk5kVi5wbmdcdTAwMjZsb2dvMj0lMkZjbXMlMkYyMDI1JTJGNiUyRmF0dHdZdVBuRUVjVEFLQUQ1LnBuZ1x1MDAyNnBpYz1SdWdieVx1MDAyNnRlYW0xPUFyZ2VudGluYVx1MDAyNnRlYW0yPUVuZ2xhbmRcdTAwMjZ0ZW1wbGF0ZT10ZWFtdnRlYW0tbGFuZHNjYXBlIn0.BcMeeKk50-5fCg49AnbGmsAaQfZuCUZ-wIvK1zCBeQw" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Kairat v Olympiakos Piraeus - UEFA Champions League 2025/2026
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685783.m3u8
-#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY0JTJGYXR0RlA0TmVNeURsZGVHT1YuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNCUyRmF0dGRzNlpCWFpYQWpiUjFjLmpwZ1x1MDAyNmJhZGdlPWZ1bGxEYXRlXHUwMDI2Y29tcENvbG9yPTAwNzY0OVx1MDAyNmNvbXBMb2dvPSUyRmNtcyUyRjIwMjUlMkY0JTJGYXR0TGxkNXRIUEp2bE5CRnkucG5nXHUwMDI2aDE9Q291cnRzaWRlXHUwMDI2aDI9RGF5KzdcdTAwMjZsaXZlRW5kRGF0ZT0wXHUwMDI2bGl2ZVN0YXJ0RGF0ZT0xNzUxNzk2MDAwMDAwXHUwMDI2cGljPVRlbm5pc1x1MDAyNnRlbXBsYXRlPWJhc2ljLWxhbmRzY2FwZSJ9.63ruEAZVo0gBLecf6X8_Dj8A8neN21LqOAVXGyRtt4s" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Bayern München v Sporting CP - UEFA Champions League 2025/2026
+#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY0JTJGYXR0RlA0TmVNeURsZGVHT1YuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNCUyRmF0dGRzNlpCWFpYQWpiUjFjLmpwZ1x1MDAyNmJhZGdlPWZ1bGxEYXRlXHUwMDI2Y29tcENvbG9yPTAwNzY0OVx1MDAyNmNvbXBMb2dvPSUyRmNtcyUyRjIwMjUlMkY0JTJGYXR0TGxkNXRIUEp2bE5CRnkucG5nXHUwMDI2aDE9Q291cnRzaWRlXHUwMDI2aDI9RGF5KzdcdTAwMjZsaXZlRW5kRGF0ZT0wXHUwMDI2bGl2ZVN0YXJ0RGF0ZT0xNzUxNzk2MDAwMDAwXHUwMDI2cGljPVRlbm5pc1x1MDAyNnRlbXBsYXRlPWJhc2ljLWxhbmRzY2FwZSJ9.63ruEAZVo0gBLecf6X8_Dj8A8neN21LqOAVXGyRtt4s" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Internazionale v Liverpool - UEFA Champions League 2025/2026 (2025-12-09 19:55:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685782.m3u8
-#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY0JTJGYXR0RlA0TmVNeURsZGVHT1YuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNCUyRmF0dGRzNlpCWFpYQWpiUjFjLmpwZ1x1MDAyNmJhZGdlPWxpdmVcdTAwMjZjb21wQ29sb3I9MDA3NjQ5XHUwMDI2Y29tcExvZ289JTJGY21zJTJGMjAyNSUyRjQlMkZhdHRMbGQ1dEhQSnZsTkJGeS5wbmdcdTAwMjZkZXNjPURheSs1XHUwMDI2ZmxhZzE9aHVcdTAwMjZmbGFnMj1iclx1MDAyNmZsYWczPWNuXHUwMDI2aDE9V2ltYmxlZG9uXHUwMDI2aDI9V29tZW4lMjdzK0RvdWJsZXMrUm91bmQrMlx1MDAyNmljb249bXV0ZVx1MDAyNmxpdmVFbmREYXRlPTBcdTAwMjZsaXZlU3RhcnREYXRlPTE3NTE2MjMzNjYwMDBcdTAwMjZwMT1CYWJvcyUyQ1x1MDAyNnAyPVN0ZWZhbmlcdTAwMjZwMz1HdW8lMkNcdTAwMjZwND1QYW5vdmFcdTAwMjZwaWM9VGVubmlzXHUwMDI2c2VlZDE9JTI4MTAlMjlcdTAwMjZzZWVkMj0lMjgxMCUyOVx1MDAyNnRlbXBsYXRlPTJ2Mi1sYW5kc2NhcGUifQ.zQoJuzQdgXCGw4rNHa0H6DpFyBvkm5w7-gJ48ACM784" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Football Zone: MD6 Thursday - UEFA Champions League 2025/26
+#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY0JTJGYXR0RlA0TmVNeURsZGVHT1YuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNCUyRmF0dGRzNlpCWFpYQWpiUjFjLmpwZ1x1MDAyNmJhZGdlPWxpdmVcdTAwMjZjb21wQ29sb3I9MDA3NjQ5XHUwMDI2Y29tcExvZ289JTJGY21zJTJGMjAyNSUyRjQlMkZhdHRMbGQ1dEhQSnZsTkJGeS5wbmdcdTAwMjZkZXNjPURheSs1XHUwMDI2ZmxhZzE9aHVcdTAwMjZmbGFnMj1iclx1MDAyNmZsYWczPWNuXHUwMDI2aDE9V2ltYmxlZG9uXHUwMDI2aDI9V29tZW4lMjdzK0RvdWJsZXMrUm91bmQrMlx1MDAyNmljb249bXV0ZVx1MDAyNmxpdmVFbmREYXRlPTBcdTAwMjZsaXZlU3RhcnREYXRlPTE3NTE2MjMzNjYwMDBcdTAwMjZwMT1CYWJvcyUyQ1x1MDAyNnAyPVN0ZWZhbmlcdTAwMjZwMz1HdW8lMkNcdTAwMjZwND1QYW5vdmFcdTAwMjZwaWM9VGVubmlzXHUwMDI2c2VlZDE9JTI4MTAlMjlcdTAwMjZzZWVkMj0lMjgxMCUyOVx1MDAyNnRlbXBsYXRlPTJ2Mi1sYW5kc2NhcGUifQ.zQoJuzQdgXCGw4rNHa0H6DpFyBvkm5w7-gJ48ACM784" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Union Saint-Gilloise v Olympique Marseille - UEFA Champions League 2025/2026 (2025-12-09 19:55:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685781.m3u8
-#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY0JTJGYXR0RlA0TmVNeURsZGVHT1YuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNCUyRmF0dGRzNlpCWFpYQWpiUjFjLmpwZ1x1MDAyNmJhZGdlPWxpdmVcdTAwMjZjb21wQ29sb3I9MDA3NjQ5XHUwMDI2Y29tcExvZ289JTJGY21zJTJGMjAyNSUyRjQlMkZhdHRMbGQ1dEhQSnZsTkJGeS5wbmdcdTAwMjZkZXNjPURheSs1XHUwMDI2ZmxhZzE9cHRcdTAwMjZmbGFnMj1hdFx1MDAyNmZsYWczPWN6XHUwMDI2ZmxhZzQ9Y3pcdTAwMjZoMT1XaW1ibGVkb25cdTAwMjZoMj1NZW4lMjdzK0RvdWJsZXMrUm91bmQrMlx1MDAyNmljb249bXV0ZVx1MDAyNmxpdmVFbmREYXRlPTBcdTAwMjZsaXZlU3RhcnREYXRlPTE3NTE2MjMzOTcwMDBcdTAwMjZwMT1DYWJyYWwlMkNcdTAwMjZwMj1NaWVkbGVyXHUwMDI2cDM9Tm91emElMkNcdTAwMjZwND1SaWtsXHUwMDI2cGljPVRlbm5pc1x1MDAyNnRlbXBsYXRlPTJ2Mi1sYW5kc2NhcGUifQ.GOk-dVkAQSAQXLvS0k7O0e9yQwqAO3dkyzxfW1d5Yz4" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Atalanta v Chelsea - UEFA Champions League 2025/2026
+#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY0JTJGYXR0RlA0TmVNeURsZGVHT1YuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNCUyRmF0dGRzNlpCWFpYQWpiUjFjLmpwZ1x1MDAyNmJhZGdlPWxpdmVcdTAwMjZjb21wQ29sb3I9MDA3NjQ5XHUwMDI2Y29tcExvZ289JTJGY21zJTJGMjAyNSUyRjQlMkZhdHRMbGQ1dEhQSnZsTkJGeS5wbmdcdTAwMjZkZXNjPURheSs1XHUwMDI2ZmxhZzE9cHRcdTAwMjZmbGFnMj1hdFx1MDAyNmZsYWczPWN6XHUwMDI2ZmxhZzQ9Y3pcdTAwMjZoMT1XaW1ibGVkb25cdTAwMjZoMj1NZW4lMjdzK0RvdWJsZXMrUm91bmQrMlx1MDAyNmljb249bXV0ZVx1MDAyNmxpdmVFbmREYXRlPTBcdTAwMjZsaXZlU3RhcnREYXRlPTE3NTE2MjMzOTcwMDBcdTAwMjZwMT1DYWJyYWwlMkNcdTAwMjZwMj1NaWVkbGVyXHUwMDI2cDM9Tm91emElMkNcdTAwMjZwND1SaWtsXHUwMDI2cGljPVRlbm5pc1x1MDAyNnRlbXBsYXRlPTJ2Mi1sYW5kc2NhcGUifQ.GOk-dVkAQSAQXLvS0k7O0e9yQwqAO3dkyzxfW1d5Yz4" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Barcelona v Eintracht Frankfurt - UEFA Champions League 2025/2026 (2025-12-09 19:55:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685780.m3u8
-#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY0JTJGYXR0RlA0TmVNeURsZGVHT1YuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNCUyRmF0dGRzNlpCWFpYQWpiUjFjLmpwZ1x1MDAyNmJhZGdlPWxpdmVcdTAwMjZjb21wQ29sb3I9MDA3NjQ5XHUwMDI2Y29tcExvZ289JTJGY21zJTJGMjAyNSUyRjQlMkZhdHRMbGQ1dEhQSnZsTkJGeS5wbmdcdTAwMjZkZXNjPURheSs1XHUwMDI2ZmxhZzE9Z2JcdTAwMjZmbGFnMj1nYlx1MDAyNmZsYWczPWZpXHUwMDI2ZmxhZzQ9Z2JcdTAwMjZoMT1XaW1ibGVkb25cdTAwMjZoMj1NZW4lMjdzK0RvdWJsZXMrUm91bmQrMlx1MDAyNmljb249bXV0ZVx1MDAyNmxpdmVFbmREYXRlPTBcdTAwMjZsaXZlU3RhcnREYXRlPTE3NTE2Mjg1NzAwMDBcdTAwMjZwMT1IYXJyaXMlMkNcdTAwMjZwMj1XaWxsaXNcdTAwMjZwMz1IZWxpb3ZhYXJhJTJDXHUwMDI2cDQ9UGF0dGVuXHUwMDI2cGljPVRlbm5pc1x1MDAyNnNlZWQzPSUyODIlMjlcdTAwMjZzZWVkND0lMjgyJTI5XHUwMDI2dGVtcGxhdGU9MnYyLWxhbmRzY2FwZSJ9.gCgJOWsFg344HMBOrzDt3oRHFmSka9IQq1Se7s1L_OE" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Internazionale v Liverpool - UEFA Champions League 2025/2026
+#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY0JTJGYXR0RlA0TmVNeURsZGVHT1YuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNCUyRmF0dGRzNlpCWFpYQWpiUjFjLmpwZ1x1MDAyNmJhZGdlPWxpdmVcdTAwMjZjb21wQ29sb3I9MDA3NjQ5XHUwMDI2Y29tcExvZ289JTJGY21zJTJGMjAyNSUyRjQlMkZhdHRMbGQ1dEhQSnZsTkJGeS5wbmdcdTAwMjZkZXNjPURheSs1XHUwMDI2ZmxhZzE9dXNcdTAwMjZmbGFnMj1iclx1MDAyNmgxPVdpbWJsZWRvblx1MDAyNmgyPVdvbWVuJTI3cytEb3VibGVzK1JvdW5kKzJcdTAwMjZpY29uPW11dGVcdTAwMjZsaXZlRW5kRGF0ZT0wXHUwMDI2bGl2ZVN0YXJ0RGF0ZT0xNzUxNjI4MzUzMDAwXHUwMDI2cDE9R2xlYXNvbiUyQ1x1MDAyNnAyPU1hcnRpbnNcdTAwMjZwMz1BbmRyZWV2YSUyQ1x1MDAyNnA0PVNobmFpZGVyXHUwMDI2cGljPVRlbm5pc1x1MDAyNnNlZWQzPSUyODUlMjlcdTAwMjZzZWVkND0lMjg1JTI5XHUwMDI2dGVtcGxhdGU9MnYyLWxhbmRzY2FwZSJ9.UfxPX41Ptha6GkyB3YQTj15uC8F-s9NmknOUEZ1sTNk" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",PSV v Atlético de Madrid - UEFA Champions League 2025/2026 (2025-12-09 19:54:03)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685779.m3u8
+#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY0JTJGYXR0RlA0TmVNeURsZGVHT1YuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNCUyRmF0dGRzNlpCWFpYQWpiUjFjLmpwZ1x1MDAyNmJhZGdlPWxpdmVcdTAwMjZjb21wQ29sb3I9MDA3NjQ5XHUwMDI2Y29tcExvZ289JTJGY21zJTJGMjAyNSUyRjQlMkZhdHRMbGQ1dEhQSnZsTkJGeS5wbmdcdTAwMjZkZXNjPURheSs1XHUwMDI2ZmxhZzE9Z2JcdTAwMjZmbGFnMj1nYlx1MDAyNmZsYWczPWZpXHUwMDI2ZmxhZzQ9Z2JcdTAwMjZoMT1XaW1ibGVkb25cdTAwMjZoMj1NZW4lMjdzK0RvdWJsZXMrUm91bmQrMlx1MDAyNmljb249bXV0ZVx1MDAyNmxpdmVFbmREYXRlPTBcdTAwMjZsaXZlU3RhcnREYXRlPTE3NTE2Mjg1NzAwMDBcdTAwMjZwMT1IYXJyaXMlMkNcdTAwMjZwMj1XaWxsaXNcdTAwMjZwMz1IZWxpb3ZhYXJhJTJDXHUwMDI2cDQ9UGF0dGVuXHUwMDI2cGljPVRlbm5pc1x1MDAyNnNlZWQzPSUyODIlMjlcdTAwMjZzZWVkND0lMjgyJTI5XHUwMDI2dGVtcGxhdGU9MnYyLWxhbmRzY2FwZSJ9.gCgJOWsFg344HMBOrzDt3oRHFmSka9IQq1Se7s1L_OE" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Monaco v Galatasaray - UEFA Champions League 2025/2026 (2025-12-09 19:54:06)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685778.m3u8
-#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY0JTJGYXR0RlA0TmVNeURsZGVHT1YuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNCUyRmF0dGRzNlpCWFpYQWpiUjFjLmpwZ1x1MDAyNmJhZGdlPWxpdmVcdTAwMjZjb21wQ29sb3I9MDA3NjQ5XHUwMDI2Y29tcExvZ289JTJGY21zJTJGMjAyNSUyRjQlMkZhdHRMbGQ1dEhQSnZsTkJGeS5wbmdcdTAwMjZkZXNjPURheSs1XHUwMDI2ZmxhZzE9Y29cdTAwMjZmbGFnMj11c1x1MDAyNmZsYWczPXVzXHUwMDI2aDE9V2ltYmxlZG9uXHUwMDI2aDI9V29tZW4lMjdzK0RvdWJsZXMrUm91bmQrMlx1MDAyNmljb249bXV0ZVx1MDAyNmxpdmVFbmREYXRlPTBcdTAwMjZsaXZlU3RhcnREYXRlPTE3NTE2Mjg2NDcwMDBcdTAwMjZwMT1Pc29yaW8lMkNcdTAwMjZwMj1QYXJrc1x1MDAyNnAzPU1lbGljaGFyLU1hcnRpbmV6JTJDXHUwMDI2cDQ9U2Ftc29ub3ZhXHUwMDI2cGljPVRlbm5pc1x1MDAyNnNlZWQzPSUyODE1JTI5XHUwMDI2c2VlZDQ9JTI4MTUlMjlcdTAwMjZ0ZW1wbGF0ZT0ydjItbGFuZHNjYXBlIn0.d6wtqhbh-iskHkcRak2d4KZ_rtQ7EslZf_LX-ZYxhfo" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Union Saint-Gilloise v Olympique Marseille - UEFA Champions League 2025/2026
+#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY0JTJGYXR0RlA0TmVNeURsZGVHT1YuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNCUyRmF0dGRzNlpCWFpYQWpiUjFjLmpwZ1x1MDAyNmJhZGdlPWxpdmVcdTAwMjZjb21wQ29sb3I9MDA3NjQ5XHUwMDI2Y29tcExvZ289JTJGY21zJTJGMjAyNSUyRjQlMkZhdHRMbGQ1dEhQSnZsTkJGeS5wbmdcdTAwMjZkZXNjPURheSs1XHUwMDI2ZmxhZzE9Y29cdTAwMjZmbGFnMj11c1x1MDAyNmZsYWczPXVzXHUwMDI2aDE9V2ltYmxlZG9uXHUwMDI2aDI9V29tZW4lMjdzK0RvdWJsZXMrUm91bmQrMlx1MDAyNmljb249bXV0ZVx1MDAyNmxpdmVFbmREYXRlPTBcdTAwMjZsaXZlU3RhcnREYXRlPTE3NTE2Mjg2NDcwMDBcdTAwMjZwMT1Pc29yaW8lMkNcdTAwMjZwMj1QYXJrc1x1MDAyNnAzPU1lbGljaGFyLU1hcnRpbmV6JTJDXHUwMDI2cDQ9U2Ftc29ub3ZhXHUwMDI2cGljPVRlbm5pc1x1MDAyNnNlZWQzPSUyODE1JTI5XHUwMDI2c2VlZDQ9JTI4MTUlMjlcdTAwMjZ0ZW1wbGF0ZT0ydjItbGFuZHNjYXBlIn0.d6wtqhbh-iskHkcRak2d4KZ_rtQ7EslZf_LX-ZYxhfo" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Qarabağ v Ajax - UEFA Champions League 2025/2026
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685777.m3u8
-#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY0JTJGYXR0RlA0TmVNeURsZGVHT1YuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNCUyRmF0dGRzNlpCWFpYQWpiUjFjLmpwZ1x1MDAyNmJhZGdlPWxpdmVcdTAwMjZjb21wQ29sb3I9MDA3NjQ5XHUwMDI2Y29tcExvZ289JTJGY21zJTJGMjAyNSUyRjQlMkZhdHRMbGQ1dEhQSnZsTkJGeS5wbmdcdTAwMjZkZXNjPURheSs1XHUwMDI2ZmxhZzE9ZGVcdTAwMjZmbGFnMj1kZVx1MDAyNmZsYWczPWF1XHUwMDI2ZmxhZzQ9dXNcdTAwMjZoMT1XaW1ibGVkb25cdTAwMjZoMj1NZW4lMjdzK0RvdWJsZXMrUm91bmQrMlx1MDAyNmljb249bXV0ZVx1MDAyNmxpdmVFbmREYXRlPTBcdTAwMjZsaXZlU3RhcnREYXRlPTE3NTE2Mjg2NzcwMDBcdTAwMjZwMT1LcmF3aWV0eiUyQ1x1MDAyNnAyPVB1ZXR6XHUwMDI2cDM9Q2hyaXN0b3BoZXIrUm9taW9zJTJDXHUwMDI2cDQ9U2VnZ2VybWFuXHUwMDI2cGljPVRlbm5pc1x1MDAyNnNlZWQxPSUyODMlMjlcdTAwMjZzZWVkMj0lMjgzJTI5XHUwMDI2dGVtcGxhdGU9MnYyLWxhbmRzY2FwZSJ9.eXKsJCJvOTY_eozMj_AYrNVxCaywowrxZwhjyqsvbkw" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Barcelona v Eintracht Frankfurt - UEFA Champions League 2025/2026
+#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY0JTJGYXR0RlA0TmVNeURsZGVHT1YuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNCUyRmF0dGRzNlpCWFpYQWpiUjFjLmpwZ1x1MDAyNmJhZGdlPWxpdmVcdTAwMjZjb21wQ29sb3I9MDA3NjQ5XHUwMDI2Y29tcExvZ289JTJGY21zJTJGMjAyNSUyRjQlMkZhdHRMbGQ1dEhQSnZsTkJGeS5wbmdcdTAwMjZkZXNjPURheSs1XHUwMDI2ZmxhZzE9ZGVcdTAwMjZmbGFnMj1kZVx1MDAyNmZsYWczPWF1XHUwMDI2ZmxhZzQ9dXNcdTAwMjZoMT1XaW1ibGVkb25cdTAwMjZoMj1NZW4lMjdzK0RvdWJsZXMrUm91bmQrMlx1MDAyNmljb249bXV0ZVx1MDAyNmxpdmVFbmREYXRlPTBcdTAwMjZsaXZlU3RhcnREYXRlPTE3NTE2Mjg2NzcwMDBcdTAwMjZwMT1LcmF3aWV0eiUyQ1x1MDAyNnAyPVB1ZXR6XHUwMDI2cDM9Q2hyaXN0b3BoZXIrUm9taW9zJTJDXHUwMDI2cDQ9U2VnZ2VybWFuXHUwMDI2cGljPVRlbm5pc1x1MDAyNnNlZWQxPSUyODMlMjlcdTAwMjZzZWVkMj0lMjgzJTI5XHUwMDI2dGVtcGxhdGU9MnYyLWxhbmRzY2FwZSJ9.eXKsJCJvOTY_eozMj_AYrNVxCaywowrxZwhjyqsvbkw" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Villarreal v København - UEFA Champions League 2025/2026
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685776.m3u8
-#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY0JTJGYXR0RlA0TmVNeURsZGVHT1YuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNCUyRmF0dGRzNlpCWFpYQWpiUjFjLmpwZ1x1MDAyNmJhZGdlPWxpdmVcdTAwMjZjb21wQ29sb3I9MDA3NjQ5XHUwMDI2Y29tcExvZ289JTJGY21zJTJGMjAyNSUyRjQlMkZhdHRMbGQ1dEhQSnZsTkJGeS5wbmdcdTAwMjZkZXNjPURheSs1XHUwMDI2ZmxhZzE9aHVcdTAwMjZmbGFnMj1mclx1MDAyNmgxPVdpbWJsZWRvblx1MDAyNmgyPU1lbiUyN3MrU2luZ2xlcytSb3VuZCsyXHUwMDI2bGl2ZUVuZERhdGU9MFx1MDAyNmxpdmVTdGFydERhdGU9MTc1MTYyODkzNzAwMFx1MDAyNnAxPUZ1Y3Nvdmljc1x1MDAyNnAyPU1vbmZpbHNcdTAwMjZwaWM9VGVubmlzXHUwMDI2dGVtcGxhdGU9MXYxLWxhbmRzY2FwZSJ9.wF8DSeKmWIBIvDuQZjZMnDYpB3ujjR6VZoz-02hMQS8" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",PSV v Atlético de Madrid - UEFA Champions League 2025/2026
+#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY0JTJGYXR0RlA0TmVNeURsZGVHT1YuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNCUyRmF0dGRzNlpCWFpYQWpiUjFjLmpwZ1x1MDAyNmJhZGdlPWxpdmVcdTAwMjZjb21wQ29sb3I9MDA3NjQ5XHUwMDI2Y29tcExvZ289JTJGY21zJTJGMjAyNSUyRjQlMkZhdHRMbGQ1dEhQSnZsTkJGeS5wbmdcdTAwMjZkZXNjPURheSs1XHUwMDI2ZmxhZzE9aHVcdTAwMjZmbGFnMj1mclx1MDAyNmgxPVdpbWJsZWRvblx1MDAyNmgyPU1lbiUyN3MrU2luZ2xlcytSb3VuZCsyXHUwMDI2bGl2ZUVuZERhdGU9MFx1MDAyNmxpdmVTdGFydERhdGU9MTc1MTYyODkzNzAwMFx1MDAyNnAxPUZ1Y3Nvdmljc1x1MDAyNnAyPU1vbmZpbHNcdTAwMjZwaWM9VGVubmlzXHUwMDI2dGVtcGxhdGU9MXYxLWxhbmRzY2FwZSJ9.wF8DSeKmWIBIvDuQZjZMnDYpB3ujjR6VZoz-02hMQS8" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Real Madrid v Manchester City - UEFA Champions League 2025/2026
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685775.m3u8
-#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY0JTJGYXR0RlA0TmVNeURsZGVHT1YuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNCUyRmF0dGRzNlpCWFpYQWpiUjFjLmpwZ1x1MDAyNmJhZGdlPWxpdmVcdTAwMjZjb21wQ29sb3I9MDA3NjQ5XHUwMDI2Y29tcExvZ289JTJGY21zJTJGMjAyNSUyRjQlMkZhdHRMbGQ1dEhQSnZsTkJGeS5wbmdcdTAwMjZkZXNjPURheSs1XHUwMDI2ZmxhZzE9YnJcdTAwMjZmbGFnMj1iclx1MDAyNmZsYWczPWhyXHUwMDI2ZmxhZzQ9bnpcdTAwMjZoMT1XaW1ibGVkb25cdTAwMjZoMj1NZW4lMjdzK0RvdWJsZXMrUm91bmQrMlx1MDAyNmljb249bXV0ZVx1MDAyNmxpdmVFbmREYXRlPTBcdTAwMjZsaXZlU3RhcnREYXRlPTE3NTE2MjkzMjUwMDBcdTAwMjZwMT1NYXRvcyUyQ1x1MDAyNnAyPU1lbG9cdTAwMjZwMz1NZWt0aWMlMkNcdTAwMjZwND1WZW51c1x1MDAyNnBpYz1UZW5uaXNcdTAwMjZzZWVkMz0lMjg4JTI5XHUwMDI2c2VlZDQ9JTI4OCUyOVx1MDAyNnRlbXBsYXRlPTJ2Mi1sYW5kc2NhcGUifQ.XuXJX6iQjkbMo-sgSw67kB1ymXyDl7SaUsDMGd1ivqk" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Monaco v Galatasaray - UEFA Champions League 2025/2026
+#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY0JTJGYXR0RlA0TmVNeURsZGVHT1YuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNCUyRmF0dGRzNlpCWFpYQWpiUjFjLmpwZ1x1MDAyNmJhZGdlPWxpdmVcdTAwMjZjb21wQ29sb3I9MDA3NjQ5XHUwMDI2Y29tcExvZ289JTJGY21zJTJGMjAyNSUyRjQlMkZhdHRMbGQ1dEhQSnZsTkJGeS5wbmdcdTAwMjZkZXNjPURheSs1XHUwMDI2ZmxhZzE9YnJcdTAwMjZmbGFnMj1iclx1MDAyNmZsYWczPWhyXHUwMDI2ZmxhZzQ9bnpcdTAwMjZoMT1XaW1ibGVkb25cdTAwMjZoMj1NZW4lMjdzK0RvdWJsZXMrUm91bmQrMlx1MDAyNmljb249bXV0ZVx1MDAyNmxpdmVFbmREYXRlPTBcdTAwMjZsaXZlU3RhcnREYXRlPTE3NTE2MjkzMjUwMDBcdTAwMjZwMT1NYXRvcyUyQ1x1MDAyNnAyPU1lbG9cdTAwMjZwMz1NZWt0aWMlMkNcdTAwMjZwND1WZW51c1x1MDAyNnBpYz1UZW5uaXNcdTAwMjZzZWVkMz0lMjg4JTI5XHUwMDI2c2VlZDQ9JTI4OCUyOVx1MDAyNnRlbXBsYXRlPTJ2Mi1sYW5kc2NhcGUifQ.XuXJX6iQjkbMo-sgSw67kB1ymXyDl7SaUsDMGd1ivqk" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Football Zone: MD6 Wednesday - UEFA Champions League 2025/26
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685774.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Qarabağ v Ajax - UEFA Champions League 2025/2026
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685773.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Villarreal v København - UEFA Champions League 2025/2026
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685772.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Real Madrid v Manchester City - UEFA Champions League 2025/2026
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685771.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Football Zone: MD6 Wednesday - UEFA Champions League 2025/26
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685770.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Club Brugge v Arsenal - UEFA Champions League 2025/2026
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685769.m3u8
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685773.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Bayer Leverkusen v Newcastle United - UEFA Champions League 2025/2026
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685768.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Juventus v Pafos - UEFA Champions League 2025/2026
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685767.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Benfica v Napoli - UEFA Champions League 2025/2026
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685766.m3u8
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685772.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Athletic Club v Paris Saint-Germain - UEFA Champions League 2025/2026
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685765.m3u8
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685771.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Juventus v Pafos - UEFA Champions League 2025/2026
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685770.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Benfica v Napoli - UEFA Champions League 2025/2026
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685769.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Borussia Dortmund v Bodø / Glimt - UEFA Champions League 2025/2026
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685764.m3u8
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685768.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Utrecht v Nottingham Forest - UEFA Europa League 2025/2026
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685763.m3u8
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685767.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Dinamo Zagreb v Real Betis - UEFA Europa League 2025/2026
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685762.m3u8
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685766.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Ludogorets Razgrad v PAOK - UEFA Europa League 2025/2026
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685761.m3u8
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685765.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Ferencváros v Rangers - UEFA Europa League 2025/2026
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685760.m3u8
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685764.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Sturm Graz v Crvena zvezda - UEFA Europa League 2025/2026
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685759.m3u8
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685763.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Nice v Sporting Braga - UEFA Europa League 2025/2026
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685758.m3u8
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685762.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Young Boys v Lille - UEFA Europa League 2025/2026
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685757.m3u8
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685761.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Stuttgart v Maccabi Tel Aviv - UEFA Europa League 2025/2026
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685756.m3u8
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685760.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Häcken v AEK Larnaca - UEFA Conference League 2025/2026
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685759.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Breidablik v Shamrock Rovers - UEFA Conference League 2025/2026
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685758.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Drita v AZ - UEFA Conference League 2025/2026
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685757.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Fiorentina v Dynamo Kyiv - UEFA Conference League 2025/2026
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685756.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Samsunspor v AEK Athens - UEFA Conference League 2025/2026
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685755.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Breidablik v Shamrock Rovers - UEFA Conference League 2025/2026 (2025-12-11 17:40:06)
+#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Noah v Legia Warszawa - UEFA Conference League 2025/2026
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685754.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Drita v AZ - UEFA Conference League 2025/2026 (2025-12-11 17:40:06)
+#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Universitatea Craiova v Sparta Praha - UEFA Conference League 2025/2026
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685753.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Fiorentina v Dynamo Kyiv - UEFA Conference League 2025/2026 (2025-12-11 17:40:06)
+#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Jagiellonia Białystok v Rayo Vallecano - UEFA Conference League 2025/2026 (2025-12-11 17:40:06)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685752.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Samsunspor v AEK Athens - UEFA Conference League 2025/2026 (2025-12-11 17:40:06)
+#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Shkendija v Slovan Bratislava - UEFA Conference League 2025/2026 (2025-12-11 17:40:06)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685751.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Noah v Legia Warszawa - UEFA Conference League 2025/2026 (2025-12-11 17:40:06)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685750.m3u8
@@ -28025,4 +28021,4 @@ http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/293151.m3u8
 #EXTINF:-1 tvg-logo="http://tduc.tk/logo/vitv.png" group-title="Unknown",VN: VITV
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/293152.m3u8
 
-# Total: 13738
+# Total: 13736

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: kaliteiptv.live:8080
-# Generated: 2025-12-09 18:33:26
+# Generated: 2025-12-10 07:16:04
 # Expires: 2026-04-09
 # Family Safe Edition
 # ==============================================
@@ -3911,15 +3911,19 @@ http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/726922.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/belgesel/tarimtv.png" group-title="TR | BELGESEL",TR | TARIM TV
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/778834.m3u8
 
-# --- TR | BLU TV DİZİLER 7/24 (14) ---
+# --- TR | BLU TV DİZİLER 7/24 (29) ---
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/0paradeprensstreamlogo.png" group-title="TR | BLU TV DİZİLER 7/24",7/24 | PARADE PRENS
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/787792.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/0paradedogustreamlogo.png" group-title="TR | BLU TV DİZİLER 7/24",7/24 | PARADE DOĞU
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/790547.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/0paradesifirbirstreamlogo.png" group-title="TR | BLU TV DİZİLER 7/24",7/24 | PARADE SIFIR BİR
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/791757.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/0paradesokagincocuklaristreamlogo.png" group-title="TR | BLU TV DİZİLER 7/24",7/24 | PARADE SOKAĞIN ÇOCUKLARI
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/791761.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/0paradeyesilcamstreamlogo.png" group-title="TR | BLU TV DİZİLER 7/24",7/24 | PARADE YEŞİLÇAM
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1037186.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/0paradekiymastreamlogo.png" group-title="TR | BLU TV DİZİLER 7/24",7/24 | PARADE KIYMA
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/792761.m3u8
-#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/0paradesokagincocuklaristreamlogo.png" group-title="TR | BLU TV DİZİLER 7/24",7/24 | PARADE SOKAĞIN ÇOCUKLARI
-http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/791761.m3u8
-#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/0paradesifirbirstreamlogo.png" group-title="TR | BLU TV DİZİLER 7/24",7/24 | PARADE SIFIR BİR
-http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/791757.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/0paradesaygistreamlogo.png" group-title="TR | BLU TV DİZİLER 7/24",7/24 | PARADE SAYGI
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/791609.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/0paradebozkirstreamlogo.png" group-title="TR | BLU TV DİZİLER 7/24",7/24 | PARADE BOZKIR
@@ -3930,22 +3934,46 @@ http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/791056.m3u8
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/791055.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/0paradeaynenaynenstreamlogo.png" group-title="TR | BLU TV DİZİLER 7/24",7/24 | PARADE AYNEN AYNEN
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/790730.m3u8
-#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/0paradedogustreamlogo.png" group-title="TR | BLU TV DİZİLER 7/24",7/24 | PARADE DOĞU
-http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/790547.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/0paradecekicvegulbirbehzatchikayesistreamlogo.png" group-title="TR | BLU TV DİZİLER 7/24",7/24 | PARADE ÇEKİÇ VE GÜL: BİR BEHZAT Ç. HİKAYESİ
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/790209.m3u8
-#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/0paradeprensstreamlogo.png" group-title="TR | BLU TV DİZİLER 7/24",7/24 | PARADE PRENS
-http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/787792.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/0parade40streamlogo.png" group-title="TR | BLU TV DİZİLER 7/24",7/24 | PARADE 40
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/784338.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/0paradeboruveboru2039streamlogo.png" group-title="TR | BLU TV DİZİLER 7/24",7/24 | PARADE BÖRÜ & 2039
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/783154.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/yarimkalanasklartr.png" group-title="TR | BLU TV DİZİLER 7/24",7/24 | YARIM KALAN AŞKLAR
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1184724.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/seyyartr.png" group-title="TR | BLU TV DİZİLER 7/24",7/24 | SEYYAR
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1184722.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/yalnizimmesutbeytr.png" group-title="TR | BLU TV DİZİLER 7/24",7/24 | YALNIZIM MESUT BEY
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1184723.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/saklitr.png" group-title="TR | BLU TV DİZİLER 7/24",7/24 | SAKLI
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1184721.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/sahiplitr.png" group-title="TR | BLU TV DİZİLER 7/24",7/24 | SAHİPLİ
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1184720.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/hiletr.png" group-title="TR | BLU TV DİZİLER 7/24",7/24 | HİLE
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1184692.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/pavyontr.png" group-title="TR | BLU TV DİZİLER 7/24",7/24 | PAVYON
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1184691.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/oguzhanugurladundundurtr.png" group-title="TR | BLU TV DİZİLER 7/24",7/24 | OĞUZHAN UĞUR'LA DÜN DÜNDÜR
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1184690.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/kafayiyersintr.png" group-title="TR | BLU TV DİZİLER 7/24",7/24 | KAFAYI YERSİN
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1184689.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/fitr.png" group-title="TR | BLU TV DİZİLER 7/24",7/24 | Fİ
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1184688.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/bizdenolurmutr.png" group-title="TR | BLU TV DİZİLER 7/24",7/24 | BİZDEN OLUR MU?
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1184687.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/dudullupostasitr.png" group-title="TR | BLU TV DİZİLER 7/24",7/24 | DUDULLU POSTASI
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1184686.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/boombyibrahimselimtr.png" group-title="TR | BLU TV DİZİLER 7/24",7/24 | BOOM BY İBRAHİM SELİM
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1184685.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/akustikhaneyeniyerlitr.png" group-title="TR | BLU TV DİZİLER 7/24",7/24 | AKUSTİKHANE: YENİ YERLİ
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1184672.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/bartubentr.png" group-title="TR | BLU TV DİZİLER 7/24",7/24 | BARTU BEN
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1184684.m3u8
 
-# --- TR | CANLI RADYO (21) ---
+# --- TR | CANLI RADYO (20) ---
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzAbNR1XKwy4I2ASxHTAUr3ZrEmRzYwzeCEA&s" group-title="TR | CANLI RADYO",TR | RADYO MERHABA HAMBURG CANLI
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1176134.m3u8
-#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/radyo/dertfm.png" group-title="TR | CANLI RADYO",TR | RADYO DERT FM
-http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1057878.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/radyo/damar.png" group-title="TR | CANLI RADYO",TR | RADYO DAMAR CANLI
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/975705.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/radyo/kralfm-canli.png" group-title="TR | CANLI RADYO",TR | KRAL FM RADYO CANLI RADYO
@@ -6009,4 +6037,4 @@ http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/855313.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WO | WORLDSPORT",US | NBA 10
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/855314.m3u8
 
-# Total: 2941
+# Total: 2955

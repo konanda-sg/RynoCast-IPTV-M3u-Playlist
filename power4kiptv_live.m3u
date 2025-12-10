@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: power4kiptv.info:8080
-# Generated: 2025-12-09 18:29:07
+# Generated: 2025-12-10 07:04:01
 # Expires: 2026-01-21
 # Family Safe Edition
 # ==============================================
@@ -1602,9 +1602,9 @@ http://power4kiptv.info:8080/live/ernstalex/17012022/210703.m3u8
 # --- DE | FUßBALL EVENT (19) ---
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="DE | FUßBALL EVENT",★☆★ FOCUS  FUßBALL ★☆★
 http://power4kiptv.info:8080/live/ernstalex/17012022/706386.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="DE | FUßBALL EVENT",✨ 1 |  Bayern Munich v Sporting Lisbon
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="DE | FUßBALL EVENT",✨ 1 |  Kein Event
 http://power4kiptv.info:8080/live/ernstalex/17012022/706385.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="DE | FUßBALL EVENT",✨ 2 |  Bayern Munich v Sporting Lisbon
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="DE | FUßBALL EVENT",✨ 2 |  Kein Event
 http://power4kiptv.info:8080/live/ernstalex/17012022/706384.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="DE | FUßBALL EVENT",✨ 3 |  Barcelona v Eintracht Frankfurt
 http://power4kiptv.info:8080/live/ernstalex/17012022/706383.m3u8
@@ -4092,7 +4092,7 @@ http://power4kiptv.info:8080/live/ernstalex/17012022/698189.m3u8
 http://power4kiptv.info:8080/live/ernstalex/17012022/698188.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn/dazn.png" group-title="DE | UEFA CHAMPIONS LEAGUE",DAZN CL KONFERENZ
 http://power4kiptv.info:8080/live/ernstalex/17012022/864823.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn/dazn.png" group-title="DE | UEFA CHAMPIONS LEAGUE",DAZN CL EVENT 1 - Bayern Munich v Sporting Lisbon
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn/dazn.png" group-title="DE | UEFA CHAMPIONS LEAGUE",DAZN CL EVENT 1
 http://power4kiptv.info:8080/live/ernstalex/17012022/706396.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn/dazn.png" group-title="DE | UEFA CHAMPIONS LEAGUE",DAZN CL EVENT 2 - Barcelona v Eintracht Frankfurt
 http://power4kiptv.info:8080/live/ernstalex/17012022/706395.m3u8
@@ -4102,7 +4102,7 @@ http://power4kiptv.info:8080/live/ernstalex/17012022/706394.m3u8
 http://power4kiptv.info:8080/live/ernstalex/17012022/706393.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn/dazn.png" group-title="DE | UEFA CHAMPIONS LEAGUE",DAZN CL EVENT 5 - Atalanta v Chelsea
 http://power4kiptv.info:8080/live/ernstalex/17012022/706392.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn/dazn.png" group-title="DE | UEFA CHAMPIONS LEAGUE",DAZN CL EVENT 7 - Kairat Almaty v Olympiacos
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn/dazn.png" group-title="DE | UEFA CHAMPIONS LEAGUE",DAZN CL EVENT 7
 http://power4kiptv.info:8080/live/ernstalex/17012022/706390.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn/dazn.png" group-title="DE | UEFA CHAMPIONS LEAGUE",DAZN CL EVENT 8 - PSV Eindhoven v Atlético Madrid
 http://power4kiptv.info:8080/live/ernstalex/17012022/706389.m3u8

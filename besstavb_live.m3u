@@ -1,13 +1,15 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: besstavb.fans:8000
-# Generated: 2025-12-09 18:29:32
+# Generated: 2025-12-10 07:03:10
 # Expires: 2025-12-19
 # Family Safe Edition
 # ==============================================
 
 
-# --- ⚜️ROMANIA TV⚜️ (595) ---
+# --- ⚜️ROMANIA TV⚜️ (596) ---
+#EXTINF:-1 tvg-logo="" group-title="⚜️ROMANIA TV⚜️",GALA RXF
+http://besstavb.fans:8000/live/cismaru_bogdan/fWXWQJac/554858.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvFMSGRt/Whats-App-Image-2025-11-27-at-15-20-39-6e5d06cc.jpg" group-title="⚜️ROMANIA TV⚜️",⚜️WELCOME TO PRO EUROPA⚜️
 http://besstavb.fans:8000/live/cismaru_bogdan/fWXWQJac/540724.m3u8
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab67616d0000b273e9af6e6ace7bae5f933bdc04" group-title="⚜️ROMANIA TV⚜️",COLINDE ROMANESTI
@@ -1199,4 +1201,4 @@ http://besstavb.fans:8000/live/cismaru_bogdan/fWXWQJac/296306.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1Xsq73b1/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FLY AVENTURA ᶠᴴᴰ
 http://besstavb.fans:8000/live/cismaru_bogdan/fWXWQJac/296305.m3u8
 
-# Total: 595
+# Total: 596

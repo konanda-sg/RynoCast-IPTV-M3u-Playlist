@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: et1.xyz:25461
-# Generated: 2025-12-09 18:29:24
+# Generated: 2025-12-10 07:02:56
 # Expires: 2026-10-14
 # Family Safe Edition
 # ==============================================
@@ -873,7 +873,7 @@ http://et1.xyz:25461/live/JBUCK80/MASTERMIND80/160947.m3u8
 #EXTINF:-1 tvg-logo="" group-title="24/7 Series",24/7 Walker Texas Ranger
 http://et1.xyz:25461/live/JBUCK80/MASTERMIND80/161040.m3u8
 
-# --- ABC Locals (135) ---
+# --- ABC Locals (136) ---
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="ABC Locals",AK | FAIRBANKS | ABC Alaska
 http://et1.xyz:25461/live/JBUCK80/MASTERMIND80/179753.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="ABC Locals",AK | JUNEAU | ABC 8
@@ -930,7 +930,7 @@ http://et1.xyz:25461/live/JBUCK80/MASTERMIND80/179871.m3u8
 http://et1.xyz:25461/live/JBUCK80/MASTERMIND80/179876.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/62257405142d6bbb151e8f2a2def123e9ee80733b5d4a379c9a0fce429b1ff1e.png" group-title="ABC Locals",IL | CHICAGO | ABC 7 (WLS)
 http://et1.xyz:25461/live/JBUCK80/MASTERMIND80/179935.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="ABC Locals",IL | PEORIA | ABC
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/0b/9a/240b9a5f-db91-46f5-52d2-12f92fd4c710/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/1200x630wa.png" group-title="ABC Locals",IL | PEORIA | ABC
 http://et1.xyz:25461/live/JBUCK80/MASTERMIND80/179939.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="ABC Locals",IN | FORT WAYNE | ABC 21
 http://et1.xyz:25461/live/JBUCK80/MASTERMIND80/179961.m3u8
@@ -1144,8 +1144,10 @@ http://et1.xyz:25461/live/JBUCK80/MASTERMIND80/213587.m3u8
 http://et1.xyz:25461/live/JBUCK80/MASTERMIND80/178351.m3u8
 #EXTINF:-1 tvg-logo="https://d1pv4des13xhh9.cloudfront.net/prod/sized/14226/64x64.png" group-title="ABC Locals",CO | Grand Junction | ABC 8 KJCT
 http://et1.xyz:25461/live/JBUCK80/MASTERMIND80/180337.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/0b/9a/240b9a5f-db91-46f5-52d2-12f92fd4c710/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/1200x630wa.png" group-title="ABC Locals",IL | Peoria | ABC WEEK-D2
+http://et1.xyz:25461/live/JBUCK80/MASTERMIND80/160945.m3u8
 
-# --- ABC Locals (backup) (87) ---
+# --- ABC Locals (backup) (88) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/WMAR_2018_logo.png" group-title="ABC Locals (backup)",MD | Baltimore | ABC WMAR
 http://et1.xyz:25461/live/JBUCK80/MASTERMIND80/121453.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnghmhkEUuh-gtatRWELigaHxn5RHXxNMX-xsoho=s900-c-k-c0x00ffffff-no-rj" group-title="ABC Locals (backup)",NC | Asheville | ABC WLOS
@@ -1320,6 +1322,8 @@ http://et1.xyz:25461/live/JBUCK80/MASTERMIND80/178249.m3u8
 http://et1.xyz:25461/live/JBUCK80/MASTERMIND80/160511.m3u8
 #EXTINF:-1 tvg-logo="https://d1pv4des13xhh9.cloudfront.net/prod/sized/14216/64x64.png" group-title="ABC Locals (backup)",ABC 13 Toledo WTVG
 http://et1.xyz:25461/live/JBUCK80/MASTERMIND80/180434.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/0b/9a/240b9a5f-db91-46f5-52d2-12f92fd4c710/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/1200x630wa.png" group-title="ABC Locals (backup)",IL | PEORIA | WEEK 25
+http://et1.xyz:25461/live/JBUCK80/MASTERMIND80/179944.m3u8
 
 # --- Afghanistan (20) ---
 #EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/162cf89f831df3edeca7eb03abc027e0.jpg" group-title="Afghanistan",AFG:  Shamshad TV
@@ -6319,7 +6323,7 @@ http://et1.xyz:25461/live/JBUCK80/MASTERMIND80/145154.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ex-Yu",EX-YU:  SPORTKLUB 5 SD
 http://et1.xyz:25461/live/JBUCK80/MASTERMIND80/145155.m3u8
 
-# --- FOX Locals (193) ---
+# --- FOX Locals (195) ---
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/qr9I-WMPoZqn1PsAzy-JouQiyB3mqCsnk-aRWd5dcOwr-aMzytODm9mVgFf0mtDLhSUsEzADSOA=ns-nd" group-title="FOX Locals",AK | ANCHORAGE | FOX 4
 http://et1.xyz:25461/live/JBUCK80/MASTERMIND80/179752.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/qr9I-WMPoZqn1PsAzy-JouQiyB3mqCsnk-aRWd5dcOwr-aMzytODm9mVgFf0mtDLhSUsEzADSOA=ns-nd" group-title="FOX Locals",AK | FAIRBANKS | FOX Fairbanks
@@ -6706,6 +6710,10 @@ http://et1.xyz:25461/live/JBUCK80/MASTERMIND80/213303.m3u8
 http://et1.xyz:25461/live/JBUCK80/MASTERMIND80/213558.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/qr9I-WMPoZqn1PsAzy-JouQiyB3mqCsnk-aRWd5dcOwr-aMzytODm9mVgFf0mtDLhSUsEzADSOA=ns-nd" group-title="FOX Locals",CO | Grand Junction | Fox 4 KFQX
 http://et1.xyz:25461/live/JBUCK80/MASTERMIND80/180338.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/WYZZ_2015.png" group-title="FOX Locals",USL | IL | BLOOMINGTON | FOX WYZZ
+http://et1.xyz:25461/live/JBUCK80/MASTERMIND80/179948.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/WYZZ_2015.png" group-title="FOX Locals",IL | Peoria | FOX WYZZ
+http://et1.xyz:25461/live/JBUCK80/MASTERMIND80/213232.m3u8
 
 # --- FOX Locals (backup) (90) ---
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Wtnz_2016.png/revision/latest/scale-to-width-down/250?cb=20160704053824" group-title="FOX Locals (backup)",TN | Knoxville | FOX WTNZ
@@ -10641,7 +10649,7 @@ http://et1.xyz:25461/live/JBUCK80/MASTERMIND80/213985.m3u8
 #EXTINF:-1 tvg-logo="https://loodibee.com/wp-content/uploads/nba-logo-transparent.png" group-title="NBA 3",NBA 10
 http://et1.xyz:25461/live/JBUCK80/MASTERMIND80/213986.m3u8
 
-# --- NBC Locals (127) ---
+# --- NBC Locals (128) ---
 #EXTINF:-1 tvg-logo="" group-title="NBC Locals",REG: NBC (WEYI) Saginaw Michigan
 http://et1.xyz:25461/live/JBUCK80/MASTERMIND80/117805.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/3Vk3dVCzS6rKVdckp0n9frBKQfTAUyz8qyu_cH1wkqDX6FkNdIiP4qKag8fHzVGW7ZYT9vuUr_w=ns-nd" group-title="NBC Locals",AK | JUNEAU | NBC Southeast
@@ -10896,8 +10904,10 @@ http://et1.xyz:25461/live/JBUCK80/MASTERMIND80/160958.m3u8
 http://et1.xyz:25461/live/JBUCK80/MASTERMIND80/178352.m3u8
 #EXTINF:-1 tvg-logo="https://d1pv4des13xhh9.cloudfront.net/prod/sized/14230/64x64.png" group-title="NBC Locals",CO | Grand Junction | NBC KKCO
 http://et1.xyz:25461/live/JBUCK80/MASTERMIND80/213132.m3u8
+#EXTINF:-1 tvg-logo="https://chambermaster.blob.core.windows.net/images/members/526/577/WEEK.png" group-title="NBC Locals",IL | Peoria | NBC WEEK
+http://et1.xyz:25461/live/JBUCK80/MASTERMIND80/213240.m3u8
 
-# --- NBC Locals (backup) (192) ---
+# --- NBC Locals (backup) (193) ---
 #EXTINF:-1 tvg-logo="http://vstreams.tv:2082/images/7d8e04df6b3abf5f8491a130690fc49b.png" group-title="NBC Locals (backup)",MA | Springfield | NBC WWLP
 http://et1.xyz:25461/live/JBUCK80/MASTERMIND80/121808.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/3Vk3dVCzS6rKVdckp0n9frBKQfTAUyz8qyu_cH1wkqDX6FkNdIiP4qKag8fHzVGW7ZYT9vuUr_w=ns-nd" group-title="NBC Locals (backup)",NC | Charlotte | NBC WCNC
@@ -11000,7 +11010,7 @@ http://et1.xyz:25461/live/JBUCK80/MASTERMIND80/134106.m3u8
 http://et1.xyz:25461/live/JBUCK80/MASTERMIND80/134107.m3u8
 #EXTINF:-1 tvg-logo="http://vstreams.tv:2082/images/250ea02c8429450d4d7eb7114e3394f7.png" group-title="NBC Locals (backup)",IL | DECATUR | NBC WAND
 http://et1.xyz:25461/live/JBUCK80/MASTERMIND80/134108.m3u8
-#EXTINF:-1 tvg-logo="http://vstreams.tv:2082/images/c56e9d405f128c7bf86b21e52dceea50.png" group-title="NBC Locals (backup)",IL | PEORIA | NBC WEEK
+#EXTINF:-1 tvg-logo="https://chambermaster.blob.core.windows.net/images/members/526/577/WEEK.png" group-title="NBC Locals (backup)",IL | PEORIA | NBC WEEK
 http://et1.xyz:25461/live/JBUCK80/MASTERMIND80/134109.m3u8
 #EXTINF:-1 tvg-logo="http://vstreams.tv:2082/images/2c8dda768cf6fa9e7e1c42e13045cc68.png" group-title="NBC Locals (backup)",IL | QUINCY | NBC WGEM
 http://et1.xyz:25461/live/JBUCK80/MASTERMIND80/134110.m3u8
@@ -11282,6 +11292,8 @@ http://et1.xyz:25461/live/JBUCK80/MASTERMIND80/161165.m3u8
 http://et1.xyz:25461/live/JBUCK80/MASTERMIND80/146855.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/b/b8/WNWO_2014_alt.png" group-title="NBC Locals (backup)",OH | TOLEDO | NBC WNWO (backup)
 http://et1.xyz:25461/live/JBUCK80/MASTERMIND80/134186.m3u8
+#EXTINF:-1 tvg-logo="https://chambermaster.blob.core.windows.net/images/members/526/577/WEEK.png" group-title="NBC Locals (backup)",USA: NBC 25 (WEEK) Peoria VIP
+http://et1.xyz:25461/live/JBUCK80/MASTERMIND80/209287.m3u8
 
 # --- NCAAF College Football (80) ---
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/ncaa-football-logo-36487E0FA2-seeklogo.com.png" group-title="NCAAF College Football",NCAAF 001 | Schedule in Telegram
@@ -19881,4 +19893,4 @@ http://et1.xyz:25461/live/JBUCK80/MASTERMIND80/219058.m3u8
 #EXTINF:-1 tvg-logo="https://img.favpng.com/13/25/6/logo-venevisi-n-plus-ve-plus-tv-directv-png-favpng-Z9LmQe39rJ0EgvBV8sZkgG6QY.jpg" group-title="Venezuela",LA | (VEN) VENEVISION PLUS
 http://et1.xyz:25461/live/JBUCK80/MASTERMIND80/219062.m3u8
 
-# Total: 9829
+# Total: 9835

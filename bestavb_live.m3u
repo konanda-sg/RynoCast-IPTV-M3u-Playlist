@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: bestavb.top:8008
-# Generated: 2025-12-09 18:34:27
+# Generated: 2025-12-10 07:10:40
 # Expires: 2026-01-22
 # Family Safe Edition
 # ==============================================
@@ -23,7 +23,9 @@ http://bestavb.top:8008/live/Rares_cojocaru/pgyH3sxn4S/206557.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RADIO ROMANIA",(Favorit FM)
 http://bestavb.top:8008/live/Rares_cojocaru/pgyH3sxn4S/287654.m3u8
 
-# --- ⚜️ROMANIA TV⚜️ (595) ---
+# --- ⚜️ROMANIA TV⚜️ (596) ---
+#EXTINF:-1 tvg-logo="" group-title="⚜️ROMANIA TV⚜️",GALA RXF
+http://bestavb.top:8008/live/Rares_cojocaru/pgyH3sxn4S/554858.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvFMSGRt/Whats-App-Image-2025-11-27-at-15-20-39-6e5d06cc.jpg" group-title="⚜️ROMANIA TV⚜️",⚜️WELCOME TO PRO EUROPA⚜️
 http://bestavb.top:8008/live/Rares_cojocaru/pgyH3sxn4S/540724.m3u8
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab67616d0000b273e9af6e6ace7bae5f933bdc04" group-title="⚜️ROMANIA TV⚜️",COLINDE ROMANESTI
@@ -1215,4 +1217,4 @@ http://bestavb.top:8008/live/Rares_cojocaru/pgyH3sxn4S/296306.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1Xsq73b1/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FLY AVENTURA ᶠᴴᴰ
 http://bestavb.top:8008/live/Rares_cojocaru/pgyH3sxn4S/296305.m3u8
 
-# Total: 602
+# Total: 603

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 45.139.122.199:8080
-# Generated: 2025-12-09 18:34:18
+# Generated: 2025-12-10 07:03:19
 # Expires: 2026-08-11
 # Family Safe Edition
 # ==============================================
@@ -1820,6 +1820,10 @@ http://45.139.122.199:8080/movie/Martin1/Martin1/1196211.mkv
 http://45.139.122.199:8080/movie/Martin1/Martin1/1326849.mkv
 
 # --- Movies | VOD: Astrid Lindgren (25) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dkI20XzqUNLUk6Qa0sTKZcTauaz.jpg" group-title="Movies | VOD: Astrid Lindgren",Du är inte klok, Madicken [KIDS] [MULTI-AUDIO] [1979]
+http://45.139.122.199:8080/movie/Martin1/Martin1/2168258.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/klRD7VUMwER6Ba9ZYBFDYP7jNv7.jpg" group-title="Movies | VOD: Astrid Lindgren",Madicken på Junibacken [KIDS] [MULTI-AUDIO] [1980]
+http://45.139.122.199:8080/movie/Martin1/Martin1/2168251.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8rhTvhB0oiUUrpL0J6hO3OVcjwM.jpg" group-title="Movies | VOD: Astrid Lindgren",Emil I Lönneberga [1971]
 http://45.139.122.199:8080/movie/Martin1/Martin1/17545.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eqJmideoqOi1WBf7UctK0REgkqa.jpg" group-title="Movies | VOD: Astrid Lindgren",Pippi Longstocking [KIDS] [1969]
@@ -1830,10 +1834,6 @@ http://45.139.122.199:8080/movie/Martin1/Martin1/32472.mkv
 http://45.139.122.199:8080/movie/Martin1/Martin1/32464.mkv
 #EXTINF:-1 tvg-logo="https://img-cdn.b17g.net/011e7b53-c9f0-405f-99b3-655c9a51c45f/crop2x3.jpg" group-title="Movies | VOD: Astrid Lindgren",Kalle Blomkvist Masterdetektiven Lever Farligt [Kids] [1996]
 http://45.139.122.199:8080/movie/Martin1/Martin1/36858.mkv
-#EXTINF:-1 tvg-logo="http://Ptv.is:2095/images/movies/klRD7VUMwER6Ba9ZYBFDYP7jNv7.jpg" group-title="Movies | VOD: Astrid Lindgren",Madicken På Junibacken [KIDS] [1980]
-http://45.139.122.199:8080/movie/Martin1/Martin1/38495.mkv
-#EXTINF:-1 tvg-logo="http://Ptv.is:2095/images/movies/koYaZZAEY8idSlb97JOx14uH1Mr.jpg" group-title="Movies | VOD: Astrid Lindgren",Du Är Inte Klok Madicken [KIDS] [1979]
-http://45.139.122.199:8080/movie/Martin1/Martin1/38494.mkv
 #EXTINF:-1 tvg-logo="http://Ptv.is:2095/images/movies/zHvqBQOamWsQAf28Onot8qC1GfP.jpg" group-title="Movies | VOD: Astrid Lindgren",Karlsson På Taket [KIDS] [1974]
 http://45.139.122.199:8080/movie/Martin1/Martin1/38493.mkv
 #EXTINF:-1 tvg-logo="https://img-cdn.b17g.net/a75c9bc9-32b4-407a-b69d-740f9ea20942/crop2x3.jpg" group-title="Movies | VOD: Astrid Lindgren",Bröderna Lejonhjärta [KIDS] [1977]
@@ -5241,7 +5241,7 @@ http://45.139.122.199:8080/movie/Martin1/Martin1/2160326.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjWiVF2vFwd3mhs1dNoS0SOHxqt.jpg" group-title="Movies | VOD: Kids Movies",Ternet Ninja 2 [DK] [2021]
 http://45.139.122.199:8080/movie/Martin1/Martin1/135645.mkv
 
-# --- Movies | VOD: Old Popular Movies [Multi-Sub] (7529) ---
+# --- Movies | VOD: Old Popular Movies [Multi-Sub] (7530) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ivo09vYN76w3epqAv9jS9BEXi5N.jpg" group-title="Movies | VOD: Old Popular Movies [Multi-Sub]",How to Build a Better Boy [PRE] [Multi-AUDIO] [2014]
 http://45.139.122.199:8080/movie/Martin1/Martin1/617857.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8gsWYYYOCVWFy2JyMD7HRg6KfyC.jpg" group-title="Movies | VOD: Old Popular Movies [Multi-Sub]",Bad Hair Day [PRE] [Multi-AUDIO] [2015]
@@ -5256,6 +5256,8 @@ http://45.139.122.199:8080/movie/Martin1/Martin1/622339.mkv
 http://45.139.122.199:8080/movie/Martin1/Martin1/705280.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ko6myqd7b1B5lKaF3axVm6l7Vd9.jpg" group-title="Movies | VOD: Old Popular Movies [Multi-Sub]",You and I [PRE] [2011]
 http://45.139.122.199:8080/movie/Martin1/Martin1/713386.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ucFsh8uU0Lsw7zouQFaRrs2ElOs.jpg" group-title="Movies | VOD: Old Popular Movies [Multi-Sub]",Wild Tales [2014]
+http://45.139.122.199:8080/movie/Martin1/Martin1/2168252.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eVqTDE0seY23gw9aCpBmWTjIPdc.jpg" group-title="Movies | VOD: Old Popular Movies [Multi-Sub]",City of Men [2007]
 http://45.139.122.199:8080/movie/Martin1/Martin1/2164422.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tAu90qEpLqwqiZLsMqpaMVr55oN.jpg" group-title="Movies | VOD: Old Popular Movies [Multi-Sub]",Percy Jackson: Sea of Monsters [2013]
@@ -20301,7 +20303,7 @@ http://45.139.122.199:8080/movie/Martin1/Martin1/2166393.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qHQbXfdYhh3CRtIufoiD4AxPWi0.jpg" group-title="Movies | VOD: Old Popular Movies [Multi-Sub]",Zipper [PRE] [2015]
 http://45.139.122.199:8080/movie/Martin1/Martin1/2166394.mkv
 
-# --- Movies | VOD: Premiere Cinemas [Multi-Sub] (5332) ---
+# --- Movies | VOD: Premiere Cinemas [Multi-Sub] (5333) ---
 #EXTINF:-1 tvg-logo="http://Ptv.is:2095/images/movies//hPXSWiuYdJXHtcDS5wluYWgZldE.jpg" group-title="Movies | VOD: Premiere Cinemas [Multi-Sub]",Mickey's Once Upon a Christmas [KIDS] [1999]
 http://45.139.122.199:8080/movie/Martin1/Martin1/45093.mkv
 #EXTINF:-1 tvg-logo="http://Ptv.is:2095/images/5cbece1549ed329e896796657dc4fcdf.jpg" group-title="Movies | VOD: Premiere Cinemas [Multi-Sub]",Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog [PRE] [2021]
@@ -30966,6 +30968,8 @@ http://45.139.122.199:8080/movie/Martin1/Martin1/2167296.mkv
 http://45.139.122.199:8080/movie/Martin1/Martin1/2167297.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZcwX1aN2RdCLwamxdkoINIhVAm.jpg" group-title="Movies | VOD: Premiere Cinemas [Multi-Sub]",Two Worlds One Wish [PRE] [2025]
 http://45.139.122.199:8080/movie/Martin1/Martin1/2167298.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zo9SC1rfxO6Hxj86YgaFZ061Mgw.jpg" group-title="Movies | VOD: Premiere Cinemas [Multi-Sub]",Louvre Heist: Minute by Minute [PRE] [2025]
+http://45.139.122.199:8080/movie/Martin1/Martin1/2168209.mkv
 
 # --- Movies | VOD: Relaxing Music (7) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | VOD: Relaxing Music",Fall Asleep Fast Eliminates All Negative Energy
@@ -32563,4 +32567,4 @@ http://45.139.122.199:8080/movie/Martin1/Martin1/783852.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aciP8Km0waTLXEYf5ybFK5CSUxl.jpg" group-title="Movies | VOD: [Dolby Vision] 4k Movies [Multi-Sub] [Only On Dolby Vision Devices]",Joker: Folie à Deux [2024] [Dolby Vision] [Multi-Sub] [4K]
 http://45.139.122.199:8080/movie/Martin1/Martin1/1036211.mkv
 
-# Total: 16262
+# Total: 16264

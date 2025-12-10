@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: byasmartv.com:8080
-# Generated: 2025-12-09 18:31:56
+# Generated: 2025-12-10 07:12:58
 # Expires: 2026-01-03
 # Family Safe Edition
 # ==============================================
@@ -5530,7 +5530,7 @@ http://byasmartv.com:8080/movie/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/101
 http://byasmartv.com:8080/movie/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/101747.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/naPPLaTYNIL88yTS4cC89PaqVOP.jpg" group-title="Movies | Filme 2025",Bump: A Christmas Film (2025)
 http://byasmartv.com:8080/movie/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/101748.mp4
-#EXTINF:-1 tvg-logo="https://cdn.subs.ro/media/posters/31227572.jpg" group-title="Movies | Filme 2025",Predator: Wastelands (2025)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B2FZkcfS/predator.jpg" group-title="Movies | Filme 2025",Predator: Wastelands (2025)
 http://byasmartv.com:8080/movie/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/101749.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbGHijUc0C3fcM12l6ro6FgxIvg.jpg" group-title="Movies | Filme 2025",Keeper (2025)
 http://byasmartv.com:8080/movie/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/101750.mp4
@@ -11617,6 +11617,10 @@ http://byasmartv.com:8080/movie/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/254
 #EXTINF:-1 tvg-logo="" group-title="Movies | Testament: Story of Moses 2024",Testament: The Story of Moses
 http://byasmartv.com:8080/movie/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/141.mp4
 
+# --- Movies | The Continental (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | The Continental",The Continental: From the World of John Wick
+http://byasmartv.com:8080/movie/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/262.mp4
+
 # --- Movies | The Madness (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | The Madness",The Madness
 http://byasmartv.com:8080/movie/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/182.mp4
@@ -11633,4 +11637,4 @@ http://byasmartv.com:8080/movie/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/146
 #EXTINF:-1 tvg-logo="" group-title="Movies | Vikings Valhalla",Vikings: Valhalla
 http://byasmartv.com:8080/movie/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/152.mp4
 
-# Total: 5542
+# Total: 5543

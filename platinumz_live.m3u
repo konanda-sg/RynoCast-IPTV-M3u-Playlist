@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: platinumz.xyz:8080
-# Generated: 2025-12-09 18:40:27
+# Generated: 2025-12-10 07:15:41
 # Expires: 2025-12-23
 # Family Safe Edition
 # ==============================================
@@ -1210,7 +1210,7 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/622643.m3u8
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/622644.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn/dazn.png" group-title="DE ✨ CHAMPIONS LEAGUE",DAZN CL KONFERENZ
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/865310.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn/dazn.png" group-title="DE ✨ CHAMPIONS LEAGUE",DAZN CL EVENT 1 - Bayern Munich v Sporting Lisbon
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn/dazn.png" group-title="DE ✨ CHAMPIONS LEAGUE",DAZN CL EVENT 1
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/860043.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn/dazn.png" group-title="DE ✨ CHAMPIONS LEAGUE",DAZN CL EVENT 2 - Barcelona v Eintracht Frankfurt
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/860042.m3u8
@@ -1220,7 +1220,7 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/860041.m3u8
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/860040.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn/dazn.png" group-title="DE ✨ CHAMPIONS LEAGUE",DAZN CL EVENT 5 - Atalanta v Chelsea
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/860039.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn/dazn.png" group-title="DE ✨ CHAMPIONS LEAGUE",DAZN CL EVENT 7 - Kairat Almaty v Olympiacos
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn/dazn.png" group-title="DE ✨ CHAMPIONS LEAGUE",DAZN CL EVENT 7
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/860037.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn/dazn.png" group-title="DE ✨ CHAMPIONS LEAGUE",DAZN CL EVENT 8 - PSV Eindhoven v Atlético Madrid
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/860036.m3u8
@@ -4182,9 +4182,9 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/823800.m3u8
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/823799.m3u8
 
 # --- DE ✨ Z1 FUßBALL EVENT (18) ---
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/EV18HN3Z7wB.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ 1 |  Bayern Munich v Sporting Lisbon
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/EV18HN3Z7wB.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ 1 |  Kein Event
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861243.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/EVIr25fQFtj.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ 2 |  Bayern Munich v Sporting Lisbon
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/EVIr25fQFtj.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ 2 |  Kein Event
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861242.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/z_tUWxi.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ 3 |  Barcelona v Eintracht Frankfurt
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861241.m3u8

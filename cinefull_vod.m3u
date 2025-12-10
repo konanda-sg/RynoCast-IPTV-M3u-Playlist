@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: cinefull.space:80
-# Generated: 2025-12-09 18:28:02
+# Generated: 2025-12-10 07:03:25
 # Expires: 2026-06-14
 # Family Safe Edition
 # ==============================================
@@ -6557,7 +6557,7 @@ http://cinefull.space:80/movie/244678769/488953583/2435113.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/30kFBE0I4sG9zum3Tv2wz9ulv8g.jpg" group-title="Movies | Filmes | Aventura",Max: O Cão Herói
 http://cinefull.space:80/movie/244678769/488953583/2435124.mp4
 
-# --- Movies | Filmes | Cinema (14) ---
+# --- Movies | Filmes | Cinema (20) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/bnX7UzOcNzfgCZKSXzh5oOFsVRl.jpg" group-title="Movies | Filmes | Cinema",A Verdadeira Dor
 http://cinefull.space:80/movie/244678769/488953583/2411093.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/tfM1T6tAivjvy0sLwt6Y9WvlmzB.jpg" group-title="Movies | Filmes | Cinema",Sonic 3: O Filme
@@ -6586,6 +6586,18 @@ http://cinefull.space:80/movie/244678769/488953583/2430822.mp4
 http://cinefull.space:80/movie/244678769/488953583/2430828.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/gnuSSOVBVWlKL8dFEGKRoOiiKTS.jpg" group-title="Movies | Filmes | Cinema",Karatê Kid: Lendas
 http://cinefull.space:80/movie/244678769/488953583/2430837.mp4
+#EXTINF:-1 tvg-logo="http://cinevods.site:80/images/d3c1d9ee703233718619c282ff6ee82b.jpg" group-title="Movies | Filmes | Cinema",Truque de Mestre: O 3° Ato [Cinema] (2025)
+http://cinefull.space:80/movie/244678769/488953583/2548895.mp4
+#EXTINF:-1 tvg-logo="http://cinevods.site:80/images/131036b0c956a49c154b49b67060cba2.jpg" group-title="Movies | Filmes | Cinema",Tron: Ares [Cinema] (2025)
+http://cinefull.space:80/movie/244678769/488953583/2548896.mp4
+#EXTINF:-1 tvg-logo="http://iksds.site:80/images/8eaf89301c78b7ae4f8c579275754b22.jpg" group-title="Movies | Filmes | Cinema",GOAT [Cinema] (2025)
+http://cinefull.space:80/movie/244678769/488953583/2548894.mp4
+#EXTINF:-1 tvg-logo="http://cinevods.site:80/images/c050a2582cb22358a8e2d38ffb93c567.jpg" group-title="Movies | Filmes | Cinema",O Agente Secreto [Cinema] (2025)
+http://cinefull.space:80/movie/244678769/488953583/2548897.mp4
+#EXTINF:-1 tvg-logo="http://iksds.site:80/images/f8e57e4d338a0e7e7d00504c8ba22083.jpg" group-title="Movies | Filmes | Cinema",Transação Perigosa 2 [Cinema] (2025)
+http://cinefull.space:80/movie/244678769/488953583/2548893.mp4
+#EXTINF:-1 tvg-logo="http://cinevods.site:80/images/32efa2566986de16aa0bbcd3f6c59da8.jpg" group-title="Movies | Filmes | Cinema",Zootopia 2 [Cinema] (2025)
+http://cinefull.space:80/movie/244678769/488953583/2548898.mp4
 
 # --- Movies | Filmes | Comedia (2054) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/ucQEdBDoOHis0u0pgLKkmunS8Gf.jpg" group-title="Movies | Filmes | Comedia",Um Sonho Chamado Fred
@@ -41373,4 +41385,4 @@ http://cinefull.space:80/series/244678769/488953583/7441
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Univer",O Senhor e a Serva (2025)
 http://cinefull.space:80/series/244678769/488953583/7704
 
-# Total: 20639
+# Total: 20645

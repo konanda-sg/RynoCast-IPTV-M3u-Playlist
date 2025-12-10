@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: cname.dino.ws:80
-# Generated: 2025-12-09 18:30:37
+# Generated: 2025-12-10 07:10:20
 # Expires: 2026-02-27
 # Family Safe Edition
 # ==============================================
@@ -2183,22 +2183,20 @@ http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1177701.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/PRIME.png" group-title="|DE| AMAZON PRIME WIMBLEDON PPV",DE: PRIME PPV 50 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1177700.m3u8
 
-# --- |DE| DAZN PRIME (51) ---
+# --- |DE| DAZN PRIME (50) ---
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="|DE| DAZN PRIME",#####  DE DAZN/PRIME #####
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/699720.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="|DE| DAZN PRIME",DE: DAZN PPV 1 - UFC FIGHT NIGHT | AMANDA LEMOS VS VIRNA JANDIROBA (MAIN CARD)
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1179100.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="|DE| DAZN PRIME",DE: DAZN PPV 2 - SOUTH AFRICA | DAY 2 | Tue 09 Dec 11:20 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="|DE| DAZN PRIME",DE: DAZN PPV 2 - LIGHTNING @ CANADIENS | Wed 10 Dec 00:50 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1179099.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="|DE| DAZN PRIME",DE: DAZN PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="|DE| DAZN PRIME",DE: DAZN PPV 3 - SHARKS @ FLYERS | Wed 10 Dec 00:50 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1179098.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="|DE| DAZN PRIME",DE: DAZN PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="|DE| DAZN PRIME",DE: DAZN PPV 4 - DUCKS @ PENGUINS | Wed 10 Dec 00:50 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1179097.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="|DE| DAZN PRIME",DE: DAZN PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="|DE| DAZN PRIME",DE: DAZN PPV 5 - ILLINOIS @ OHIO STATE | Wed 10 Dec 01:20 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1179096.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="|DE| DAZN PRIME",DE: DAZN PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1179095.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="|DE| DAZN PRIME",DE: DAZN PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="|DE| DAZN PRIME",DE: DAZN PPV 7 - STARS @ JETS | Wed 10 Dec 01:50 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1179094.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="|DE| DAZN PRIME",DE: DAZN PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1179093.m3u8
@@ -3575,27 +3573,23 @@ http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/505691.m3u8
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/piconsnew/dmax.png" group-title="|ES| DOCUMENTALES",ES - DMAX
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/807801.m3u8
 
-# --- |ES| ESPAÑA DAZN PPV (51) ---
+# --- |ES| ESPAÑA DAZN PPV (49) ---
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| ESPAÑA DAZN PPV",###### ES| DAZN PPV VIP ######
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1309636.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| ESPAÑA DAZN PPV",ES: DAZN 1 ᴴᴰ ᵃᵐᶻ
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1309635.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| ESPAÑA DAZN PPV",ES: DAZN PPV 2 - DAY 2 | SOUTH AFRICA | Tue 09 Dec 11:20 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| ESPAÑA DAZN PPV",ES: DAZN PPV 2 - LIGHTNING @ CANADIENS | Wed 10 Dec 00:50 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1309634.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| ESPAÑA DAZN PPV",ES: DAZN PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| ESPAÑA DAZN PPV",ES: DAZN PPV 3 - DEVILS @ SENATORS | Wed 10 Dec 00:50 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1309633.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| ESPAÑA DAZN PPV",ES: DAZN PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| ESPAÑA DAZN PPV",ES: DAZN PPV 4 - GOLDEN KNIGHTS @ ISLANDERS | Wed 10 Dec 00:50 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1309632.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| ESPAÑA DAZN PPV",ES: DAZN PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| ESPAÑA DAZN PPV",ES: DAZN PPV 5 - SHARKS @ FLYERS | Wed 10 Dec 00:50 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1309631.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| ESPAÑA DAZN PPV",ES: DAZN PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| ESPAÑA DAZN PPV",ES: DAZN PPV 6 - DUCKS @ PENGUINS | Wed 10 Dec 00:50 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1309630.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| ESPAÑA DAZN PPV",ES: DAZN PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| ESPAÑA DAZN PPV",ES: DAZN PPV 7 - ILLINOIS @ OHIO STATE | Wed 10 Dec 01:20 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1309629.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| ESPAÑA DAZN PPV",ES: DAZN PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1309628.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| ESPAÑA DAZN PPV",ES: DAZN PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1309627.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| ESPAÑA DAZN PPV",ES: DAZN PPV 10 - HUNGRÍA | CARRERA | Sun 21 Jul 12:00
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1309626.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| ESPAÑA DAZN PPV",ES: DAZN PPV 11 - NO EVENT STREAMING - | 8K EXCLUSIVE
@@ -5023,4 +5017,4 @@ http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/250573.m3u8
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/piconsnew/zapvivahd.png" group-title="|PT| INTERNACIONAL",PT - ZAP VIVA UHD
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/250560.m3u8
 
-# Total: 2465
+# Total: 2462
