@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: hdhd.tk:80
-# Generated: 2025-12-11 07:06:18
+# Generated: 2025-12-11 18:40:50
 # Expires: 2027-01-09
 # Family Safe Edition
 # ==============================================
@@ -3094,7 +3094,7 @@ http://hdhd.tk:80/live/b0327/6685/351058.m3u8
 http://hdhd.tk:80/live/b0327/6685/351059.m3u8
 
 # --- PPV  EVENTS (24) ---
-#EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV01: 1FW: Episode 11 @ 06:30 PM EST
+#EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV01: OVW Live #1374 @ 07:00 PM EST
 http://hdhd.tk:80/live/b0327/6685/29427.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV02:
 http://hdhd.tk:80/live/b0327/6685/29428.m3u8
@@ -3455,14 +3455,16 @@ http://hdhd.tk:80/live/b0327/6685/42671.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS Golf",Golf 20
 http://hdhd.tk:80/live/b0327/6685/42672.m3u8
 
-# --- SPORTS NBA G (4) ---
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NBA G",NBA G League 01: Cleveland Charge vs. Motor City Cruise @ 7:00 pm
+# --- SPORTS NBA G (5) ---
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NBA G",NBA G League 01:
 http://hdhd.tk:80/live/b0327/6685/366875.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NBA G",NBA G League 02:  Long Island Nets vs. Westchester Knicks @ 7:00 pm
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NBA G",NBA G League 02:
 http://hdhd.tk:80/live/b0327/6685/366876.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NBA G",NBA G League 04: :Austin Spurs vs. Mexico City Capitanes @ 9:00 pm
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NBA G",NBA G League 03:
+http://hdhd.tk:80/live/b0327/6685/366877.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NBA G",NBA G League 04: :
 http://hdhd.tk:80/live/b0327/6685/366878.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NBA G",NBA G League 05: :South Bay Lakers vs. Stockton Kings @ 10:00 pm
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NBA G",NBA G League 05:
 http://hdhd.tk:80/live/b0327/6685/366879.m3u8
 
 # --- SPORTS NCAA Baseball (40) ---
@@ -3548,59 +3550,59 @@ http://hdhd.tk:80/live/b0327/6685/50138.m3u8
 http://hdhd.tk:80/live/b0327/6685/50139.m3u8
 
 # --- SPORTS NCAA MEN BASKETBALL (68) ---
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 01  Norfolk State vs. Baylor 12:00 pm
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 01  Green Bay vs IUI @6:30 pm est
 http://hdhd.tk:80/live/b0327/6685/39367.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 02 UTSA Men's Basketball Weekly Presser 12:30 pm
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 02 App. St. vs East Carolina @7:00 pm est
 http://hdhd.tk:80/live/b0327/6685/39368.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 03 Merrimack vs. Princeton 5:00 pm
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 03 Coastal Georgia vs Ga. Southern @7:00 pm est
 http://hdhd.tk:80/live/b0327/6685/39369.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 04 Fisher College vs. UMass Lowell 6:00 pm
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 04 Trinity Baptist vs Jacksonville @7:00 pm est
 http://hdhd.tk:80/live/b0327/6685/39370.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 05: Miami (OH) vs. UNC Asheville 6:00 pm
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 05: UT Arlington vs UT-Rio Grande Valley @7:30 pm est
 http://hdhd.tk:80/live/b0327/6685/39371.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 06  New Haven vs. NJIT 7:00 pm
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 06   Kevin Young Show 8:30 pm est
 http://hdhd.tk:80/live/b0327/6685/39372.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 07 Colgate vs. St. Bonaventure 7:00 pm
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 07 North Dakota State vs. Cal State Bakersfield 9:30 pm est
 http://hdhd.tk:80/live/b0327/6685/39373.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 08 Saint Leo vs. Florida Atlantic 7:00 pm
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 08
 http://hdhd.tk:80/live/b0327/6685/39374.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 09:  Maine vs. Boston University 7:00 pm
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 09:
 http://hdhd.tk:80/live/b0327/6685/39375.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 10: Charleston vs. South Florida 7:00 pm
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 10:
 http://hdhd.tk:80/live/b0327/6685/39376.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 11 Western Kentucky vs. Marshall 7:00 pm
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 11
 http://hdhd.tk:80/live/b0327/6685/47888.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 12  Bryant vs. Iona 7:00 pm
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 12
 http://hdhd.tk:80/live/b0327/6685/47889.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 13:Delaware vs. George Washington 7:00 pm
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 13:
 http://hdhd.tk:80/live/b0327/6685/47890.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 14: New Mexico vs. VCU 7:00 pm
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 14:
 http://hdhd.tk:80/live/b0327/6685/47891.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 15 Fairleigh Dickinson vs. Fordham 7:00 pm
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 15
 http://hdhd.tk:80/live/b0327/6685/47892.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 16  College of Biblical Studies vs. Nicholls 7:30 pm
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 16
 http://hdhd.tk:80/live/b0327/6685/47893.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 17   Tougaloo vs. Tulane 7:30 pm
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 17
 http://hdhd.tk:80/live/b0327/6685/47894.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 18 : Jackson State vs. #7 Houston 8:00 pm
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 18 :
 http://hdhd.tk:80/live/b0327/6685/47895.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 19:  Eastern Kentucky vs. Eastern Illinois 8:00 pm
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 19:
 http://hdhd.tk:80/live/b0327/6685/48437.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 20   Eastern Michigan vs. Purdue Fort Wayne 8:00 pm
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 20
 http://hdhd.tk:80/live/b0327/6685/48438.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 21 Idaho State vs. Utah Valley 8:00 pm
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 21
 http://hdhd.tk:80/live/b0327/6685/48439.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 22 UT Martin vs. Southern Illinois 8:00 pm
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 22
 http://hdhd.tk:80/live/b0327/6685/48440.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 23:  Arkansas-Pine Bluff vs. Tulsa 8:00 pm
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 23:
 http://hdhd.tk:80/live/b0327/6685/48441.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 24:  Southern vs. Texas State 8:30 pm
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 24:
 http://hdhd.tk:80/live/b0327/6685/48442.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 25   Salish Kootenai College vs. Montana 9:00 pm
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 25
 http://hdhd.tk:80/live/b0327/6685/48443.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 26  Fresno State vs. Cal State Northridge 10:00 pm
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 26
 http://hdhd.tk:80/live/b0327/6685/48444.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 27 Bethesda vs. Cal State Fullerton 10:00 pm
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 27
 http://hdhd.tk:80/live/b0327/6685/48888.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA MEN BASKETBALL",NCAAB 28
 http://hdhd.tk:80/live/b0327/6685/48889.m3u8
@@ -3692,39 +3694,39 @@ http://hdhd.tk:80/live/b0327/6685/42811.m3u8
 http://hdhd.tk:80/live/b0327/6685/42812.m3u8
 
 # --- SPORTS NCAA WOMEN BASKETBALL (56) ---
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA WOMEN BASKETBALL",NCAAW B 01:San Diego State vs. Kansas State 12:00 pm
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA WOMEN BASKETBALL",NCAAW B 01:Dillard vs. Norfolk State 11:00 am EST
 http://hdhd.tk:80/live/b0327/6685/39395.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA WOMEN BASKETBALL",NCAAW B 02: :South Dakota vs. Bradley 12:00 pm EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA WOMEN BASKETBALL",NCAAW B 02:  St. Mary's (TX) vs. Incarnate Word 2:00 pm EST
 http://hdhd.tk:80/live/b0327/6685/39396.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA WOMEN BASKETBALL",NCAAW B 03  Oakwood vs. Troy 1:00 pm EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA WOMEN BASKETBALL",NCAAW B 03   Dartmouth vs. NJIT 6:00 pm EST
 http://hdhd.tk:80/live/b0327/6685/39397.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA WOMEN BASKETBALL",NCAAW B 04: Eastern Kentucky vs. Arizona 1:00 pm EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA WOMEN BASKETBALL",NCAAW B 04: : Davis & Elkins vs. Marshall 6:00 pm EST
 http://hdhd.tk:80/live/b0327/6685/39398.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA WOMEN BASKETBALL",NCAAW B 05:Milwaukee vs. Purdue Fort Wayne 5:00 pm EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA WOMEN BASKETBALL",NCAAW B 05: UNC Asheville vs. East Tennessee State 7:00 pm EST
 http://hdhd.tk:80/live/b0327/6685/39399.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA WOMEN BASKETBALL",NCAAW B 06  UNC Greensboro vs. Coastal Carolina 6:00 pm EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA WOMEN BASKETBALL",NCAAW B 06   Indiana State vs. Butler 7:00 pm EST
 http://hdhd.tk:80/live/b0327/6685/39400.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA WOMEN BASKETBALL",NCAAW B 07:  UNT Dallas vs. Texas State 6:00 pm EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA WOMEN BASKETBALL",NCAAW B 07:  North Dakota State vs. Eastern Illinois 7:00 pm EST
 http://hdhd.tk:80/live/b0327/6685/39401.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA WOMEN BASKETBALL",NCAAW B 08   Fairleigh Dickinson vs. Saint Peter's 6:00 pm EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA WOMEN BASKETBALL",NCAAW B 08   Georgia Tech vs. West Virginia 7:00 pm EST
 http://hdhd.tk:80/live/b0327/6685/39402.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA WOMEN BASKETBALL",NCAAW B 09:  Green Bay vs. IU Indianapolis 6:30 pm EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA WOMEN BASKETBALL",NCAAW B 09:Chattanooga vs. Tennessee State 7:00 pm EST
 http://hdhd.tk:80/live/b0327/6685/39403.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA WOMEN BASKETBALL",NCAAW B 10  South Dakota State vs. Northern Iowa 7:00 pm EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA WOMEN BASKETBALL",NCAAW B 10  UMass Lowell vs. DePaul 7:00 pm EST
 http://hdhd.tk:80/live/b0327/6685/39404.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA WOMEN BASKETBALL",NCAAW B 11  George Washington vs. Delaware 7:00 pm EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA WOMEN BASKETBALL",NCAAW B 11   Portland vs. Long Beach State 9:00 pm EST
 http://hdhd.tk:80/live/b0327/6685/394044.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA WOMEN BASKETBALL",NCAAW B 12 :   Rhode Island vs. Providence 7:00 pm EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA WOMEN BASKETBALL",NCAAW B 12 : Idaho State vs. BYU 9:00 pm EST
 http://hdhd.tk:80/live/b0327/6685/394045.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA WOMEN BASKETBALL",NCAAW B 13  Rutgers vs. Princeton 7:30 pm EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA WOMEN BASKETBALL",NCAAW B 13
 http://hdhd.tk:80/live/b0327/6685/394046.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA WOMEN BASKETBALL",NCAAW B 14:   #2 Texas vs. UT Rio Grande Valley 7:30 pm EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA WOMEN BASKETBALL",NCAAW B 14:
 http://hdhd.tk:80/live/b0327/6685/394047.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA WOMEN BASKETBALL",NCAAW B 15: Boise State vs. Utah 9:00 pm EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA WOMEN BASKETBALL",NCAAW B 15:
 http://hdhd.tk:80/live/b0327/6685/394048.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA WOMEN BASKETBALL",NCAAW B 16Eastern Washington vs. Washington State 9:00 pm EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA WOMEN BASKETBALL",NCAAW B 16
 http://hdhd.tk:80/live/b0327/6685/394049.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA WOMEN BASKETBALL",NCAAW B 17:   Fresno State vs. Saint Mary's 9:30 pm EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA WOMEN BASKETBALL",NCAAW B 17:
 http://hdhd.tk:80/live/b0327/6685/394050.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA WOMEN BASKETBALL",NCAAW B 18:
 http://hdhd.tk:80/live/b0327/6685/394051.m3u8
@@ -6084,13 +6086,13 @@ http://hdhd.tk:80/live/b0327/6685/383428.m3u8
 # --- USA NBA (19) ---
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",US NBA TV
 http://hdhd.tk:80/live/b0327/6685/6634.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",USA NBA 01: Phoenix Sunsvs Oklahoma City Thunder @ 07:30 PM EST
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",USA NBA 01: LA Clippers vs Houston Rockets @ 08:00 PM EST
 http://hdhd.tk:80/live/b0327/6685/12701.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",USA NBA 02: San Antonio Spurs vs Los Angeles Lakers @ 10:00 PM EST
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",USA NBA 02: : Boston Celtics vs Milwaukee Bucks @ 08:00 PM EST
 http://hdhd.tk:80/live/b0327/6685/12702.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",USA NBA 03::
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",USA NBA 03::Portland Trail Blazers vs New Orleans Pelicans @ 08:00 PM EST
 http://hdhd.tk:80/live/b0327/6685/12703.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",USA NBA 04
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",USA NBA 04  Denver Nuggets vs Sacramento Kings @ 10:00 PM EST
 http://hdhd.tk:80/live/b0327/6685/12704.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",USA NBA 05:
 http://hdhd.tk:80/live/b0327/6685/12705.m3u8
@@ -6542,7 +6544,7 @@ http://hdhd.tk:80/live/b0327/6685/370325.m3u8
 http://hdhd.tk:80/live/b0327/6685/383412.m3u8
 
 # --- USA NFL (21) ---
-#EXTINF:-1 tvg-logo="" group-title="USA NFL",USA NFL Monday Night backup :
+#EXTINF:-1 tvg-logo="" group-title="USA NFL",USA NFL Thursday Night backup :
 http://hdhd.tk:80/live/b0327/6685/386128.m3u8
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/nflsundayticket3.png" group-title="USA NFL",USA NFL Sunday 705:
 http://hdhd.tk:80/live/b0327/6685/29017.m3u8
@@ -6576,7 +6578,7 @@ http://hdhd.tk:80/live/b0327/6685/29166.m3u8
 http://hdhd.tk:80/live/b0327/6685/29167.m3u8
 #EXTINF:-1 tvg-logo="https://static.www.nfl.com/image/private/f_auto/league/bwrjrkcn3slgas74kesz" group-title="USA NFL",USA NFL Monday Night:
 http://hdhd.tk:80/live/b0327/6685/29168.m3u8
-#EXTINF:-1 tvg-logo="https://static.www.nfl.com/image/private/f_auto/league/ajpwfrvipktwruhuws30" group-title="USA NFL",USA NFL Thursday Night:
+#EXTINF:-1 tvg-logo="https://static.www.nfl.com/image/private/f_auto/league/ajpwfrvipktwruhuws30" group-title="USA NFL",USA NFL Thursday Night:  Atlanta Falcons vs Tampa Bay Buccaneers @ 08:15 PM
 http://hdhd.tk:80/live/b0327/6685/29208.m3u8
 #EXTINF:-1 tvg-logo="https://static.www.nfl.com/image/private/f_auto/league/wecsp2tfaxklqiggisq3" group-title="USA NFL",USA NFL Sunday Night:
 http://hdhd.tk:80/live/b0327/6685/29429.m3u8
@@ -6585,34 +6587,30 @@ http://hdhd.tk:80/live/b0327/6685/32974.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA NFL",US NFL Network
 http://hdhd.tk:80/live/b0327/6685/386129.m3u8
 
-# --- USA NHL (41) ---
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 01: NYR VS CHI (TVAS Feed ) @ 7:30 pm
+# --- USA NHL (39) ---
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 01:  SJS VS TOR (NBCSCA Feed ) @ 7:00 pm
 http://hdhd.tk:80/live/b0327/6685/30025.m3u8
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 02 DET VS CGY (SN Feed ) @ 8:30 pm
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 02 TBL VS NJD (MSG Feed ) @ 7:00 pm
 http://hdhd.tk:80/live/b0327/6685/30026.m3u8
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 03:  FLA VS UTA (TVAS Feed ) @ 9:00 pm
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 03:   VGK VS PHI (SN Feed ) @ 7:00 pm
 http://hdhd.tk:80/live/b0327/6685/30027.m3u8
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 04::  LAK VS SEA (SN Feed ) @ 10:00 pm
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 04:: MTL VS PIT (RDS Feed ) @ 7:00 pm
 http://hdhd.tk:80/live/b0327/6685/30028.m3u8
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 05: NCAA Men's Hockey UMass Lowell vs. #15 Maine @ 7:00 pm
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 05:BOS VS WPG (NESN Feed ) @ 8:00 pm
 http://hdhd.tk:80/live/b0327/6685/30029.m3u8
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 06 :
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 06 : DET VS EDM (SNW Feed ) @ 9:00 pm
 http://hdhd.tk:80/live/b0327/6685/30030.m3u8
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 07 :
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 07 :FLA VS COL (SNE Feed ) @ 9:30 pm
 http://hdhd.tk:80/live/b0327/6685/30031.m3u8
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 08  :
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 08  : FLA VS COL (TVAS Feed ) @ 9:30 pm
 http://hdhd.tk:80/live/b0327/6685/30032.m3u8
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 09
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 09 Anaheim Ducks vs New York Islanders @ 07:00 PM EST
 http://hdhd.tk:80/live/b0327/6685/30033.m3u8
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 10:
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 10: Carolina Hurricanes vs Washington Capitals @ 07:00 PM EST
 http://hdhd.tk:80/live/b0327/6685/30034.m3u8
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 11 :
-http://hdhd.tk:80/live/b0327/6685/30035.m3u8
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 12:
-http://hdhd.tk:80/live/b0327/6685/30036.m3u8
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 13   ::
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 13   ::Dallas Stars vs Minnesota Wild @ 08:00 PM EST
 http://hdhd.tk:80/live/b0327/6685/30037.m3u8
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 14：
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 14：Buffalo Sabres vs Vancouver Canucks @ 10:00 PM EST
 http://hdhd.tk:80/live/b0327/6685/30038.m3u8
 #EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 15:
 http://hdhd.tk:80/live/b0327/6685/30039.m3u8
@@ -7683,4 +7681,4 @@ http://hdhd.tk:80/live/b0327/6685/330321.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Vietnam",VN FILM24H
 http://hdhd.tk:80/live/b0327/6685/330322.m3u8
 
-# Total: 3747
+# Total: 3746

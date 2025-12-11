@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tvpromas.com:8080
-# Generated: 2025-12-11 07:04:00
+# Generated: 2025-12-11 18:28:45
 # Expires: 2026-02-13
 # Family Safe Edition
 # ==============================================
@@ -4759,7 +4759,7 @@ http://tvpromas.com:8080/movie/stkandin/9301/90121.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLNPoAHTtrQT1hEVRixtTD4k6Qm.jpg" group-title="Movies | ANIME",SPY x FAMILY CÓDIGO: Blanco (2023)
 http://tvpromas.com:8080/movie/stkandin/9301/90456.mkv
 
-# --- Movies | ANIME & INFANTIL (109) ---
+# --- Movies | ANIME & INFANTIL (110) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | ANIME & INFANTIL",Chowder
 http://tvpromas.com:8080/movie/stkandin/9301/1422.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ANIME & INFANTIL",SAND LAND: THE SERIES
@@ -4978,6 +4978,8 @@ http://tvpromas.com:8080/movie/stkandin/9301/2467.mp4
 http://tvpromas.com:8080/movie/stkandin/9301/2475.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ANIME & INFANTIL",Doraemon
 http://tvpromas.com:8080/movie/stkandin/9301/2491.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | ANIME & INFANTIL",My Status as an Assassin Obviously Exceeds the Hero's
+http://tvpromas.com:8080/movie/stkandin/9301/2497.mp4
 
 # --- Movies | ARTES MARCIALES (90) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rxD09NPHYthJNO8KbiYmpS01CwE.jpg" group-title="Movies | ARTES MARCIALES",Contacto Sangriento (1988)
@@ -5541,7 +5543,7 @@ http://tvpromas.com:8080/movie/stkandin/9301/90426.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a7RnIVDCs02F0VWTMOWPnvNFHfB.jpg" group-title="Movies | AVENTURA",Three (2005)
 http://tvpromas.com:8080/movie/stkandin/9301/127687.mkv
 
-# --- Movies | CIENCIA FICCION (493) ---
+# --- Movies | CIENCIA FICCION (494) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJhjEpSlKGOIuaZg6sPJB9I75RV.jpg" group-title="Movies | CIENCIA FICCION",2012 (2009)
 http://tvpromas.com:8080/movie/stkandin/9301/321.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7EKGHMsm3nv87wvlqD7HBZYgAeP.jpg" group-title="Movies | CIENCIA FICCION",3022 (2019)
@@ -6528,6 +6530,8 @@ http://tvpromas.com:8080/movie/stkandin/9301/2418.mp4
 http://tvpromas.com:8080/movie/stkandin/9301/2481.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | CIENCIA FICCION",Talamasca: La orden secreta, de Anne Rice
 http://tvpromas.com:8080/movie/stkandin/9301/2493.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | CIENCIA FICCION",Pluribus
+http://tvpromas.com:8080/movie/stkandin/9301/2499.mp4
 
 # --- Movies | CINE CHILENO (96) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/edOnDxJC1UZmfWV9AluttEpj42p.jpg" group-title="Movies | CINE CHILENO",El chacotero sentimental (1999)
@@ -10681,7 +10685,7 @@ http://tvpromas.com:8080/movie/stkandin/9301/89336.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mdjD1JRmZvHrmG69C4NJSaVVkYq.jpg" group-title="Movies | CONCIERTOS & SHOWS",Ricardo Arjona Festival de Viña del Mar (2015)
 http://tvpromas.com:8080/movie/stkandin/9301/89337.mp4
 
-# --- Movies | CRIMEN & MISTERIO (151) ---
+# --- Movies | CRIMEN & MISTERIO (152) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | CRIMEN & MISTERIO",La primera muerte
 http://tvpromas.com:8080/movie/stkandin/9301/857.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | CRIMEN & MISTERIO",61st Street
@@ -10984,6 +10988,8 @@ http://tvpromas.com:8080/movie/stkandin/9301/2488.mp4
 http://tvpromas.com:8080/movie/stkandin/9301/2490.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | CRIMEN & MISTERIO",Killing Eve
 http://tvpromas.com:8080/movie/stkandin/9301/2492.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | CRIMEN & MISTERIO",El precio de una confesión
+http://tvpromas.com:8080/movie/stkandin/9301/2498.mp4
 
 # --- Movies | DISNEY (186) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzUvS1tW6WuJHYB4bbFOW89aNVc.jpg" group-title="Movies | DISNEY",101 dálmatas: ¡Ahora la magia es real! (1996)
@@ -21573,4 +21579,4 @@ http://tvpromas.com:8080/series/stkandin/9301/2451
 #EXTINF:-1 tvg-logo="" group-title="Series | TELESERIES",Apuesta por un amor
 http://tvpromas.com:8080/series/stkandin/9301/2452
 
-# Total: 10753
+# Total: 10756

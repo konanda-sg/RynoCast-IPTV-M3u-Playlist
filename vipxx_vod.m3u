@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: vipxx.p-0101.pw:80
-# Generated: 2025-12-11 07:11:46
+# Generated: 2025-12-11 18:39:18
 # Expires: 2026-08-12
 # Family Safe Edition
 # ==============================================
@@ -9161,7 +9161,7 @@ http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/4202.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR|DİZİ • Netflix Dizi TR Altyazı",Çamurlular (2025) [MULTI]
 http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/4209.mp4
 
-# --- Movies | TR|DİZİ • Netflix Dizileri TR Dublaj (584) ---
+# --- Movies | TR|DİZİ • Netflix Dizileri TR Dublaj (586) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR|DİZİ • Netflix Dizileri TR Dublaj",Wu Assassins
 http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/71.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR|DİZİ • Netflix Dizileri TR Dublaj",Supergirl
@@ -10330,8 +10330,12 @@ http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/4443.mp4
 http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/4480.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR|DİZİ • Netflix Dizileri TR Dublaj",The Price of Confession (2025)
 http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/4481.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR|DİZİ • Netflix Dizileri TR Dublaj",The Mess You Leave Behind (2020)
+http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/4503.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR|DİZİ • Netflix Dizileri TR Dublaj",Man Vs Baby (2025)
+http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/4504.mp4
 
-# --- Movies | TR|DİZİ • Netflix Türk Dizileri (31) ---
+# --- Movies | TR|DİZİ • Netflix Türk Dizileri (32) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR|DİZİ • Netflix Türk Dizileri",Hakan: Muhafız
 http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/17.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR|DİZİ • Netflix Türk Dizileri",Extreme Engagement
@@ -10394,6 +10398,8 @@ http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/4177.mp4
 http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/4323.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR|DİZİ • Netflix Türk Dizileri",Enfes Bir Akşam (2025)
 http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/4416.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR|DİZİ • Netflix Türk Dizileri",Kasaba (2025)
+http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/4505.mp4
 
 # --- Movies | TR|DİZİ • Netflix Yetişkin  TR Dublaj (5) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR|DİZİ • Netflix Yetişkin  TR Dublaj",Next in Fashion
@@ -31649,4 +31655,4 @@ http://vipxx.p-0101.pw:80/series/vpplus1129/6BQhtYhdLF/4440
 #EXTINF:-1 tvg-logo="" group-title="Series | DE|SERIES • Sky.de",[2025 DE] I Love LA
 http://vipxx.p-0101.pw:80/series/vpplus1129/6BQhtYhdLF/4490
 
-# Total: 15713
+# Total: 15716

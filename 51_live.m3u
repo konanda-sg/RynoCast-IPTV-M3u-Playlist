@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 51.89.85.237:2086
-# Generated: 2025-12-11 07:05:56
+# Generated: 2025-12-11 18:38:26
 # Expires: 2025-12-25
 # Family Safe Edition
 # ==============================================
@@ -225,39 +225,7 @@ http://51.89.85.237:2086/live/ahmetayar/frEKjZmvxA/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://51.89.85.237:2086/live/ahmetayar/frEKjZmvxA/170928.m3u8
 
-# --- DE-DAZN EVENT (46) ---
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/e4kg7t9ala7pxf7gsx5r8vfnp_image-header_pDach_1760689993000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Frühe Mittwochs-Konferenz | 6. Spieltag (2025-12-10 18:25:00)
-http://51.89.85.237:2086/live/ahmetayar/frEKjZmvxA/172371.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/83zgpr7efxx0bjdeb25wu4bse_image-header_pDach_1760520518000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Real Madrid - Man City
-http://51.89.85.237:2086/live/ahmetayar/frEKjZmvxA/172372.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/duaq0fgygs4zmo31ydgfw1h6k_image-header_pDach_1760520173000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Villarreal - Kopenhagen (2025-12-10 18:45:00)
-http://51.89.85.237:2086/live/ahmetayar/frEKjZmvxA/172373.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6fyves0j8hjl1zdnodxemdqcw_image-header_pDach_1761069615000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",1. FC Nürnberg - Eintracht Frankfurt (2025-12-10 19:30:00)
-http://51.89.85.237:2086/live/ahmetayar/frEKjZmvxA/172374.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/b9jh25nt4y3yzu2ruzh9czwgz_image-header_pDach_1760256897000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Bayer Leverkusen - Newcastle (2025-12-10 20:15:00)
-http://51.89.85.237:2086/live/ahmetayar/frEKjZmvxA/172375.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ajhalzho88ekkxo889h7yam0h_image-header_pDach_1756979284000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Späte Mittwochs-Konferenz | 6. Spieltag (2025-12-10 20:15:00)
-http://51.89.85.237:2086/live/ahmetayar/frEKjZmvxA/172376.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/as8it6c6bgwkdterbmm6vw09n_image-header_pDach_1760256691000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Borussia Dortmund - Bodö/Glimt (2025-12-10 20:15:00)
-http://51.89.85.237:2086/live/ahmetayar/frEKjZmvxA/172377.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1h5i5c5b6za7z3woldanl2hmf_image-header_pDach_1760448149000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Juventus - Pafos (2025-12-10 21:00:00)
-http://51.89.85.237:2086/live/ahmetayar/frEKjZmvxA/172378.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/595s43sip07ygp7yyvrjskhr5_image-header_pDach_1760449095000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Bilbao - PSG (2025-12-10 21:00:00)
-http://51.89.85.237:2086/live/ahmetayar/frEKjZmvxA/172379.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/674slfc9j7iki088buuunk41n_image-header_pDach_1760448793000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Benfica - Neapel (2025-12-10 21:00:00)
-http://51.89.85.237:2086/live/ahmetayar/frEKjZmvxA/172380.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dx3ipyun76pjg5dq7zkfh3f2m_image-header_pDach_1760448361000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Club Brügge - Arsenal (2025-12-10 21:00:00)
-http://51.89.85.237:2086/live/ahmetayar/frEKjZmvxA/172381.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4v10xphl1x07ygy7wcr5jkmlw_image-header_pDach_1760255617000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Real Madrid - Man City (2025-12-10 21:00:00)
-http://51.89.85.237:2086/live/ahmetayar/frEKjZmvxA/172382.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/o89w2kl27b81g6j4sypsf5cc_image-header_pDach_1765197631000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Lopez vs. Stevenson: Ankündigungs-PK (2025-12-10 22:00:00)
-http://51.89.85.237:2086/live/ahmetayar/frEKjZmvxA/172383.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1x0quls77iso81hvz30h3bcb3y_image-header_pDach_1765195642000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Minnesota @ Purdue (2025-12-11 01:00:00)
-http://51.89.85.237:2086/live/ahmetayar/frEKjZmvxA/172384.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/end6by9ca07l1s1gb281204ac_image-header_pDach_1763641131000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Rangers @ Blackhawks (2025-12-11 01:30:00)
-http://51.89.85.237:2086/live/ahmetayar/frEKjZmvxA/172385.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1jr3am6yncvny1ffbq54dizvic_image-header_pDach_1763641131000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Wings @ Flames (2025-12-11 02:30:00)
-http://51.89.85.237:2086/live/ahmetayar/frEKjZmvxA/172386.m3u8
+# --- DE-DAZN EVENT (30) ---
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/87m7pwqbyjwed7p7dqe86xpwd_image-header_pDach_1765286581000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",eFootball Console | Gruppenphase 2 (2025-12-11 09:30:00)
 http://51.89.85.237:2086/live/ahmetayar/frEKjZmvxA/172387.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/el1dbx7919xgwzylg157l4h3z_image-header_pDach_1764949892000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Südafrika | Tag 4 (Pro Stream) (2025-12-11 11:30:00)
@@ -3114,7 +3082,7 @@ http://51.89.85.237:2086/live/ahmetayar/frEKjZmvxA/165880.m3u8
 http://51.89.85.237:2086/live/ahmetayar/frEKjZmvxA/165889.m3u8
 #EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/CC/83/80b1d9d796a8cc83.png" group-title="WORLD SPORTS",SPORT 5 GOLD
 http://51.89.85.237:2086/live/ahmetayar/frEKjZmvxA/165892.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JEtHjJs.png" group-title="WORLD SPORTS",ESPN 1 COLOMBiA
+#EXTINF:-1 tvg-logo="https://iili.io/JEtHjJs.png" group-title="WORLD SPORTS",ESPN 4 HD E spania
 http://51.89.85.237:2086/live/ahmetayar/frEKjZmvxA/165881.m3u8
 #EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/CC/83/80b1d9d796a8cc83.png" group-title="WORLD SPORTS",ESPN 2 COLOMBiA
 http://51.89.85.237:2086/live/ahmetayar/frEKjZmvxA/165883.m3u8
@@ -3260,7 +3228,7 @@ http://51.89.85.237:2086/live/ahmetayar/frEKjZmvxA/165975.m3u8
 http://51.89.85.237:2086/live/ahmetayar/frEKjZmvxA/165976.m3u8
 #EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/CC/83/80b1d9d796a8cc83.png" group-title="WORLD SPORTS",TNT 1 HD
 http://51.89.85.237:2086/live/ahmetayar/frEKjZmvxA/165981.m3u8
-#EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/CC/83/80b1d9d796a8cc83.png" group-title="WORLD SPORTS",SPORT 5 PLUS HD
+#EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/CC/83/80b1d9d796a8cc83.png" group-title="WORLD SPORTS",ESPAN 4 HD  Espania
 http://51.89.85.237:2086/live/ahmetayar/frEKjZmvxA/165983.m3u8
 #EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/CC/83/80b1d9d796a8cc83.png" group-title="WORLD SPORTS",peacocktv NBC
 http://51.89.85.237:2086/live/ahmetayar/frEKjZmvxA/165984.m3u8
@@ -3276,11 +3244,11 @@ http://51.89.85.237:2086/live/ahmetayar/frEKjZmvxA/165990.m3u8
 http://51.89.85.237:2086/live/ahmetayar/frEKjZmvxA/165992.m3u8
 #EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/09/73/8831d1ef8a950973.png" group-title="WORLD SPORTS",La.Liga 2 HD [Espana]
 http://51.89.85.237:2086/live/ahmetayar/frEKjZmvxA/165993.m3u8
-#EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/2A/BA/92f3e4e63a552aba.png" group-title="WORLD SPORTS",Dazn 1 HD [Espana]
+#EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/2A/BA/92f3e4e63a552aba.png" group-title="WORLD SPORTS",ESPN 2 HD [Espana]
 http://51.89.85.237:2086/live/ahmetayar/frEKjZmvxA/165994.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/3R5CGK7.png" group-title="WORLD SPORTS",Dazn LaLiga  HD [Espana]
 http://51.89.85.237:2086/live/ahmetayar/frEKjZmvxA/165996.m3u8
-#EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/C8/97/26e210740991c897.png" group-title="WORLD SPORTS",DAZN F1 HD [Espana]
+#EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/C8/97/26e210740991c897.png" group-title="WORLD SPORTS",ESPN HD 1 [Espana]
 http://51.89.85.237:2086/live/ahmetayar/frEKjZmvxA/165997.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/prima-sport-1.png" group-title="WORLD SPORTS",Prima Sport 1 HD [Romania]
 http://51.89.85.237:2086/live/ahmetayar/frEKjZmvxA/165908.m3u8
@@ -3363,4 +3331,4 @@ http://51.89.85.237:2086/live/ahmetayar/frEKjZmvxA/165820.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JEtHjJs.png" group-title="WORLD SPORTS",Sky Sport Action HD [UK]
 http://51.89.85.237:2086/live/ahmetayar/frEKjZmvxA/165884.m3u8
 
-# Total: 1642
+# Total: 1626

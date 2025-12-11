@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: com.trt1000.com:80
-# Generated: 2025-12-11 07:06:39
+# Generated: 2025-12-11 18:34:45
 # Expires: 2026-01-09
 # Family Safe Edition
 # ==============================================
@@ -607,7 +607,7 @@ http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/1182.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | COCUK  NETFLIX & DISNEY+ AMAZON COK DiLLi",Newtopia
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/1263.mp4
 
-# --- Movies | COCUK FILMLERI (355) ---
+# --- Movies | COCUK FILMLERI (354) ---
 #EXTINF:-1 tvg-logo="https://mediacms01.digiturkplay.com/dzdy_web_turksat/PT0000453544/kensukes-kingdom-2023-turkce_220x286_raw.jpg" group-title="Movies | COCUK FILMLERI",Saklı Krallık
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/63653.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/55Zyp26dYeEz2Bav4m8Y38EJ2eT.jpg" group-title="Movies | COCUK FILMLERI",Orman Çocuğu (2016)
@@ -778,8 +778,6 @@ http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/40619.mp4
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/31616.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | COCUK FILMLERI",America The Motion Picture 2021
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/28764.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTgFwoqoBv5uVdnWMhiR7TuS3MJ.jpg" group-title="Movies | COCUK FILMLERI",Kral Şakir Geri Dönüşüm (2022)
-http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/39261.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Zfv4Ap1e8eKOYnZPtYaWhLkk0d.jpg" group-title="Movies | COCUK FILMLERI",The Sea Beast (2022)
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/39157.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGXWYbpakk8uX8OkW1ihPjVzapB.jpg" group-title="Movies | COCUK FILMLERI",King Tweety (2022)
@@ -3079,7 +3077,7 @@ http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/1243.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | GERMANY",1923
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/1271.mp4
 
-# --- Movies | GERMANY KINDER (164) ---
+# --- Movies | GERMANY KINDER (165) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/abPQVYyNfVuGoFUfGVhlNecu0QG.jpg" group-title="Movies | GERMANY KINDER",Pil's Adventures (2021)
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/42924.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8i2eQHH7Ruh0KduSIWT5lNlrrau.jpg" group-title="Movies | GERMANY KINDER",Heidi - Die Legende vom Luchs (2025)
@@ -3408,8 +3406,10 @@ http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/37658.mp4
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/37659.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nlHG4VW1Du00ySCZKy4KuLPR7nV.jpg" group-title="Movies | GERMANY KINDER",Dinocroc vs. Supergator (2010)
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/8964.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg" group-title="Movies | GERMANY KINDER",Zootopia 2 2025)
+http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/64460.mp4
 
-# --- Movies | GERMANY MOVIES (2121) ---
+# --- Movies | GERMANY MOVIES (2125) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n8ZpMwYT02XjpQHpSxn1eJw5Zpz.jpg" group-title="Movies | GERMANY MOVIES",Crater (2023)
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/45978.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oXsDTDt1MqxJreROd2cbd2FMOZ2.jpg" group-title="Movies | GERMANY MOVIES",Warfare (2025)
@@ -7158,7 +7158,7 @@ http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/8969.mkv
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/8970.mkv
 #EXTINF:-1 tvg-logo="None" group-title="Movies | GERMANY MOVIES",DE: Dumbo 2019
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/8971.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | GERMANY MOVIES",DE: Dunkirk
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg" group-title="Movies | GERMANY MOVIES",Dunkirk 2017)
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/8972.mkv
 #EXTINF:-1 tvg-logo="None" group-title="Movies | GERMANY MOVIES",DE: Dunkle Begierde 2018
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/8973.mkv
@@ -7652,6 +7652,14 @@ http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/64143.mp4
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/64144.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xZXHG1FoeDL54MqnxtamDXAUGih.jpg" group-title="Movies | GERMANY MOVIES",Ballerina Assassin (2025)
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/64145.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gK0cW0WvdSFRA1ukdIf869uH4Rw.jpg" group-title="Movies | GERMANY MOVIES",Jurassic Reborn (2025)
+http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/64461.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jdd0Qv6V8AJ3V7Dr8aMIMUWxZ2c.jpg" group-title="Movies | GERMANY MOVIES",Wicked: Teil 2 (2025)
+http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/64462.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8qTMRmC07XCGidnKQFLbRM3FoDU.jpg" group-title="Movies | GERMANY MOVIES",Muzzle: City of Wolves  2025)
+http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/64463.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Byv6nznAb2Izd0gHpODOXnuSbo.jpg" group-title="Movies | GERMANY MOVIES",Icefall (2025)
+http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/64466.mp4
 
 # --- Movies | HBO (6) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | HBO",Westworld
@@ -9219,7 +9227,7 @@ http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/1335.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX & DISNEY+ AMAZON COK DiLLi",The Bondsman
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/1336.mp4
 
-# --- Movies | NETFLIX +DISNEY AMAZON  VS. COK DiLLi (455) ---
+# --- Movies | NETFLIX +DISNEY AMAZON  VS. COK DiLLi (461) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fy7q7s3UNJFMCN5TxeViM322uwt.jpg" group-title="Movies | NETFLIX +DISNEY AMAZON  VS. COK DiLLi",AKA ( 2023 )
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/45503.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9YEGawvjaRgnyW6QVcUhFJPFDco.jpg" group-title="Movies | NETFLIX +DISNEY AMAZON  VS. COK DiLLi",Black Clover: Sword of the Wizard King  (2023)
@@ -10130,6 +10138,18 @@ http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/64442.mp4
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/64444.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vaw9Az5tPLMjNLj426KgKsp0k8.jpg" group-title="Movies | NETFLIX +DISNEY AMAZON  VS. COK DiLLi",Twinless (2025)
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/64445.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7oaie3ZBc9UuWZLF24crro1pone.jpg" group-title="Movies | NETFLIX +DISNEY AMAZON  VS. COK DiLLi",13. Kat (1999)
+http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/64468.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIOrDQ3Gg68k3qJAnRU7nIZr0BW.jpg" group-title="Movies | NETFLIX +DISNEY AMAZON  VS. COK DiLLi",Dersu Uzala (1975)
+http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/64469.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5m6tcSHF4Hjry7eTEtovm3wNMPp.jpg" group-title="Movies | NETFLIX +DISNEY AMAZON  VS. COK DiLLi",Love of Giant (1976)
+http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/64470.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdTtij6H0sX9AzIjUeynh5zbfm7.jpg" group-title="Movies | NETFLIX +DISNEY AMAZON  VS. COK DiLLi",Kayip Otoban(1997)
+http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/64471.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ibDGPgUZn6vxHiSgt2xeQyFp8Np.jpg" group-title="Movies | NETFLIX +DISNEY AMAZON  VS. COK DiLLi",The Best Offer - En iyi Teklif
+http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/64472.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wX0QD36a80hxulcizz7tyahYOF8.jpg" group-title="Movies | NETFLIX +DISNEY AMAZON  VS. COK DiLLi",Togo (2019)
+http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/64473.mp4
 
 # --- Movies | NETFLiX FRANCE (1528) ---
 #EXTINF:-1 tvg-logo="None" group-title="Movies | NETFLiX FRANCE",Netflix Fr: Black Lightning S01E02
@@ -13337,7 +13357,7 @@ http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/1209.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TOD - BEIN CONNECT",Serap
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/1261.mp4
 
-# --- Movies | TURK FiLMLERi (1347) ---
+# --- Movies | TURK FiLMLERi (1350) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlfTxlwcqFBU0OwTWQCHY7I6Tu2.jpg" group-title="Movies | TURK FiLMLERi",Nuh'un Gemisi Cudi'de 2  (2022)
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/48216.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yXYLyeMFspuPBjJBYk72GXI5lCn.jpg" group-title="Movies | TURK FiLMLERi",Evcilik (2024)
@@ -15538,7 +15558,7 @@ http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/5881.mkv
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/5882.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzA5NjRmNjQtZDJlOS00YzhiLTkwN2UtYTBmMjczMmRmYzQzXkEyXkFqcGdeQXVyNTcyNTg3Nzc@._V1_FMjpg_UX1000_.jpg" group-title="Movies | TURK FiLMLERi",Kizlar sinifi yarisiyor
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/5883.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDI0MzNiNjktODc5NC00ZmMxLTlhZGItMzQyMmQxZjdiYjc5XkEyXkFqcGdeQXVyMjQzMDU1Njc@._V1_.jpg" group-title="Movies | TURK FiLMLERi",Kostebekkiller
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/K%C3%B6stebekgillerAfi%C5%9F.jpg" group-title="Movies | TURK FiLMLERi",Kostebekkiller
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/5884.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTRjZDNmMzktMTQ5ZC00YzQ1LWJiNzEtNTcwZGIxNmQ2NjA0XkEyXkFqcGdeQXVyMjUyNjM5ODI@._V1_FMjpg_UX1000_.jpg" group-title="Movies | TURK FiLMLERi",Kötüler Konağı (2007)
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/5885.mkv
@@ -16032,6 +16052,12 @@ http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/7817.mkv
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/7818.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dIzw9ttkfQAzanKh8qga2IaQfVC.jpg" group-title="Movies | TURK FiLMLERi",Zehir Hafiye (1971)
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/7819.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ahzRKiIW7fyzR5h8Gsw6qzOOGBW.jpg" group-title="Movies | TURK FiLMLERi",Yalandan Sevgilim (2025)
+http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/64464.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fFkY7H9RG2AlcJKqkD1TH37szP8.jpg" group-title="Movies | TURK FiLMLERi",Aile Terbiyesi (2025)
+http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/64465.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZcwX1aN2RdCLwamxdkoINIhVAm.jpg" group-title="Movies | TURK FiLMLERi",Iki Dünya Bir Dilek (2025)
+http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/64467.mp4
 
 # --- Movies | TV+ (2) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TV+",The Walking Dead: Dead City
@@ -20700,7 +20726,7 @@ http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/6533.mkv
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/6534.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/deTOAcMWuHTjOUPQphwcPFFfTQz.jpg" group-title="Movies | YABANCI TURKCE DUBLAJ",Dumbo (2019)
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/6535.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | YABANCI TURKCE DUBLAJ",Dunkirk 2017
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg" group-title="Movies | YABANCI TURKCE DUBLAJ",Dunkirk 2017)
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/6536.mkv
 #EXTINF:-1 tvg-logo="None" group-title="Movies | YABANCI TURKCE DUBLAJ",Dunu kurtarmak 2019
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/6537.mkv
@@ -23319,4 +23345,4 @@ http://com.trt1000.com:80/series/kayaciahmet/08012023bas/1314
 #EXTINF:-1 tvg-logo="" group-title="Series | TURK DIZILERI SERIES",Rüya Gibi
 http://com.trt1000.com:80/series/kayaciahmet/08012023bas/1328
 
-# Total: 11626
+# Total: 11639

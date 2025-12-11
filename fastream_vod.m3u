@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: fastream.xyz:8080
-# Generated: 2025-12-10 18:37:07
+# Generated: 2025-12-11 18:34:36
 # Expires: 2026-10-20
 # Family Safe Edition
 # ==============================================
@@ -13247,7 +13247,13 @@ http://fastream.xyz:8080/movie/940246862tv/12ws79/75434.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RrMfaCYdsdNdRNUAR3TY0DvNV2.jpg" group-title="Movies | → VOD ESTRENOS 2024 ←",Bosco (2024)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/75435.mkv
 
-# --- Movies | → VOD ESTRENOS 2025 ← (247) ---
+# --- Movies | → VOD ESTRENOS 2025 ← (250) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sa1EA8TI8IbHiaIyjC5DWJZHonP.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",La primera nevada en Fraggle Rock (2025)
+http://fastream.xyz:8080/movie/940246862tv/12ws79/278736.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p0DR6j8wwHptbHTyWRawZtXVw0d.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Feliz NaviDAR con Elmo y Mark Rober (2025)
+http://fastream.xyz:8080/movie/940246862tv/12ws79/278737.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/feHTwv3BplNlLW3o9LtW2kqZLJg.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",La boda de mi madre (2025)
+http://fastream.xyz:8080/movie/940246862tv/12ws79/278738.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AisyKEN1zLKRcAPpeJ5G5DaBhyw.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Trol 2 (2025)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/278701.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hEF0Fjzx5EgA0X1ECa7POLVySDZ.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Fritos a balazos (2025)
@@ -19535,4 +19541,4 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://fastream.xyz:8080/series/940246862tv/12ws79/2492
 
-# Total: 9692
+# Total: 9695

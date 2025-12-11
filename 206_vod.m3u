@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 206.212.244.71:8080
-# Generated: 2025-12-11 07:11:28
+# Generated: 2025-12-11 18:28:43
 # Expires: 2026-06-05
 # Family Safe Edition
 # ==============================================
@@ -4663,7 +4663,7 @@ http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/224954.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mRO1wq5g4OJnEvRHfE1tpgIzQEV.jpg" group-title="Movies | 2024 Movies",Turn Me On (2024)
 http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/224955.mp4
 
-# --- Movies | 2025 MOVIES (940) ---
+# --- Movies | 2025 MOVIES (941) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/32NWI8EEJo8os5rHzhXE0dMYIqG.jpg" group-title="Movies | 2025 MOVIES",Laws of Man (2025)
 http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/222977.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcSJHAVNZSbqaoOHduKesZ01Wfj.jpg" group-title="Movies | 2025 MOVIES",Sunray: Fallen Soldier (2025)
@@ -6544,6 +6544,8 @@ http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/257097.mp4
 http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/257098.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bd1rZNyW7ZPtnT1JFduUHLWtruJ.jpg" group-title="Movies | 2025 MOVIES",The Girl in the Woods (2025)
 http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/257099.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z4gVnxTaks3anTycwKjDmvQSuWt.jpg" group-title="Movies | 2025 MOVIES",Regretting You (2025)
+http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/257171.mp4
 
 # --- Movies | Action Movies (1598) ---
 #EXTINF:-1 tvg-logo="None" group-title="Movies | Action Movies",'71 (2014)
@@ -28577,4 +28579,4 @@ http://206.212.244.71:8080/series/BRIDGITS@YAHOO.COM/BRIDGITS@2022/2306
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Black Sails
 http://206.212.244.71:8080/series/BRIDGITS@YAHOO.COM/BRIDGITS@2022/2319
 
-# Total: 14231
+# Total: 14232

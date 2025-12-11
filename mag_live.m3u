@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: mag.4k365.xyz:80
-# Generated: 2025-12-11 07:10:39
+# Generated: 2025-12-11 18:33:07
 # Expires: 2026-03-23
 # Family Safe Edition
 # ==============================================
@@ -1099,7 +1099,7 @@ http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1640652.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.92/images/1640651.png" group-title="PL| MAX PPV",PL: MAX PPV 100 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1640651.m3u8
 
-# --- PL| MUZYCZNE (49) ---
+# --- PL| MUZYCZNE (32) ---
 #EXTINF:-1 tvg-logo="" group-title="PL| MUZYCZNE",##### PL MUZYCZNE #####
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1288916.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.92/images/880216.png" group-title="PL| MUZYCZNE",PL| ESKA TV
@@ -1164,40 +1164,6 @@ http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1121752.m3u8
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1121753.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PL| MUZYCZNE",###### PL RADIO ######
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/882113.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/953570.png" group-title="PL| MUZYCZNE",PL| ZŁOTE PRZEBOJE
-http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/953570.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/953571.png" group-title="PL| MUZYCZNE",PL| RMF DEPECHE MODE
-http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/953571.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/953576.png" group-title="PL| MUZYCZNE",PL| ALT CLASSIC
-http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/953576.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/953577.png" group-title="PL| MUZYCZNE",PL| 90S HITS
-http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/953577.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/953578.png" group-title="PL| MUZYCZNE",PL| DISCO POLO
-http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/953578.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/953579.png" group-title="PL| MUZYCZNE",PL| 500 R'N'B HITS
-http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/953579.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/953580.png" group-title="PL| MUZYCZNE",PL| CREMA CAFÉ
-http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/953580.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/953581.png" group-title="PL| MUZYCZNE",PL| ITALO DISCO
-http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/953581.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/953582.png" group-title="PL| MUZYCZNE",PL| RADIOPARTY KANAŁ GŁÓWNY
-http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/953582.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/953583.png" group-title="PL| MUZYCZNE",PL| CLASSIC METAL
-http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/953583.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/953585.png" group-title="PL| MUZYCZNE",PL| TRANCE
-http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/953585.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/953586.png" group-title="PL| MUZYCZNE",PL| RMF 80S
-http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/953586.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/Smoothjazz-com-pl.jpeg" group-title="PL| MUZYCZNE",PL|  SMOOTH JAZZ
-http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/953587.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/953589.png" group-title="PL| MUZYCZNE",PL|  CHILLI ZET
-http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/953589.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/953590.png" group-title="PL| MUZYCZNE",PL|  RADIO  POGODA
-http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/953590.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/953592.png" group-title="PL| MUZYCZNE",PL|  TOK FM
-http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/953592.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/953594.png" group-title="PL| MUZYCZNE",PL|  RADIO ZET
-http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/953594.m3u8
 
 # --- PL| NA ŚWIĄTECZNIE 24/7 (36) ---
 #EXTINF:-1 tvg-logo="http://103.176.90.92/images/1735090.png" group-title="PL| NA ŚWIĄTECZNIE 24/7",PL| ARKA NOEGO KOLĘDY PIOSENKI ŚWIĄTECZNE POL
@@ -2948,25 +2914,25 @@ http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1370394.m3u8
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1370395.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK| CUP GAMES & INTERNATIONAL",##### EUROPA LEAGUE #####
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1363965.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363054.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA  | 01 - Qarabag vs Ajax 5:45pm
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363054.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA  | 01 - Dinamo Zagreb vs Real Betis 5:45pm
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1363054.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363055.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA  | 02- Villareal vs Copenhagen 5:45pm
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363055.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA  | 02- Ferencvaros vs Rangers 5:45pm
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1363055.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363056.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 03 - Ucl Goals Show 8:00pm
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363056.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 03 - Ludogorets vs Paok 5:45pm
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1363056.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363057.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 04 - Athletic Club vs PSG 8:00pm
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363057.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 04 - Midtjylland vs Genk 5:45pm
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1363057.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363993.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 05 - Benfica vs Napoli 8:00pm
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363993.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 05 - Nice vs Braga 5:45pm
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1363993.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPA.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 06 - Club Brugge vs Arsenal 8:00pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPA.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 06 - Sturm Graz vs Crvena Zvesda 5:45pm
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1363992.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363991.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 07 - Dortmund vs Bodo/Glimt 8:00pm
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363991.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 07 - Stuttgart vs Maccabi Tel Aviv 5:45pm
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1363991.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363990.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 08 - Juventus vs Pafos 8:00pm
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363990.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 08 - Utrecht vs Nottingham Forest 5:45pm
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1363990.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK| CUP GAMES & INTERNATIONAL",##### FA CUB  #####
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1363063.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1360817.png" group-title="UK| CUP GAMES & INTERNATIONAL",Live Football 01: Fa Cup Third Round Draw 6:30pm
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1360817.png" group-title="UK| CUP GAMES & INTERNATIONAL",Live Football 01: Aston Villa vs Liverpool 7:00pm
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1360817.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1360818.png" group-title="UK| CUP GAMES & INTERNATIONAL",Live Football 02: Brackley vs Burton 7:30pm
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1360818.m3u8
@@ -2978,7 +2944,7 @@ http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1360988.m3u8
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1360989.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK| CUP GAMES & INTERNATIONAL",##### CARABO  CUB  #####
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1926112.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363059.png" group-title="UK| CUP GAMES & INTERNATIONAL",Live Football 01: Fa Cup Third Round Draw 6:30pm
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363059.png" group-title="UK| CUP GAMES & INTERNATIONAL",Live Football 01: Aston Villa vs Liverpool 7:00pm
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1926115.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363061.png" group-title="UK| CUP GAMES & INTERNATIONAL",Live Football 03: Gatshead vs Walsall 3:30pm
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1926113.m3u8
@@ -2986,67 +2952,67 @@ http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1926113.m3u8
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1926114.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK| CUP GAMES & INTERNATIONAL",##### EUROPIEN QUALIFIER #####
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1370380.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363997.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA  | 01 - Qarabag vs Ajax 5:45pm
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363997.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA  | 01 - Dinamo Zagreb vs Real Betis 5:45pm
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1363997.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363058.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 05 - Benfica vs Napoli 8:00pm
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363058.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 05 - Nice vs Braga 5:45pm
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1363058.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363059.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 06 - Club Brugge vs Arsenal 8:00pm
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363059.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 06 - Sturm Graz vs Crvena Zvesda 5:45pm
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1363059.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363060.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 07 - Dortmund vs Bodo/Glimt 8:00pm
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363060.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 07 - Stuttgart vs Maccabi Tel Aviv 5:45pm
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1363060.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363061.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 08 - Juventus vs Pafos 8:00pm
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363061.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 08 - Utrecht vs Nottingham Forest 5:45pm
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1363061.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363989.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 09 -  Leverkusen vs Newcastle 8:00pm
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363989.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 09 -  Young Boys vs Lille 5:45pm
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1363989.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363988.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA |10 - Real Madrid vs Manchester City 8:00pm
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363988.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA |10 - Basel vs Aston Villa 8:00pm
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1363988.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363987.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 11 - Barcelona vs Benfica 5:45pm
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363987.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 11 - Brann vs Fenerbahce 8:00pm
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1363987.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363986.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 12 - Arsenal vs Twente 8:00pm
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1363986.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363985.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 13 - Go Ahead Eagles vs Stuttgart 8:00pm
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363985.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 13 - Celta Vigo vs Bologna 8:00pm
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1363985.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363969.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 13 - Sheriff Tiraspol vs Servette 20.00
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1363969.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363984.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 14 - Maccabi Tel Aviv vs Lyon 8:00pm
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363984.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 14 - Celtic vs Roma 8:00pm
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1363984.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363968.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 14 - Molde vs Häcken 17.45
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1363968.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363983.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 15 - Nottingham Forest vs Malmo 8:00pm
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363983.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 15 - FCSB vs Feyenoord 8:00pm
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1363983.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363982.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA  | 16 - Panathinaikos vs Sturm Graz 8:00pm
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363982.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA  | 16 - Freiburg vs Rb Salzburg 8:00pm
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1363982.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363981.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 17 - Rangers vs Braga 8:00pm
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363981.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 17 - Lyon vs Go Ahead Eagles 8:00pm
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1363981.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363980.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 18 - Real Betis vs Braga 8:00pm
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363980.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 18 - Panathinaikos vs Viktoria Plzen 8:00pm
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1363980.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363996.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 18 - KAA Gent vs Breidablik 17.45
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1363996.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363995.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA  | 19 - Ballkani vs Astana 17.45
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1363995.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/Champions-league.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA  | 19 - Az vs Shelbourne 5:45pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/Champions-league.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA  | 19 - Porto vs Malmo 8:00pm
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1363979.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363994.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 20 - Dinamo Zagreb vs Viktoria Plzen 20.00
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1363994.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363978.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 20 - Hamrun Sprtans vs Lincoln Red IMPS 5:45pm
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363978.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 20 - Breidablik vs Shamrock Rovers 5:45pm
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1363978.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363977.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 21 - Lech Poznan vs Lausanne 5:45pm
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363977.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 21 - Drita vs Az 5:45pm
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1363977.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363976.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 22 - Omonia Nicosia vs Dynamo Kyiv 5:45pm
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363976.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 22 - Fiorentina vs Dynamo Kyiv 5:45pm
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1363976.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363975.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 23 - Rakow Czestochowa vs Rapid Vienna 5:45pm
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363975.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 23 - Hacken vs Aek Larnaca 5:45pm
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1363975.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363974.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 24 - Celje vs Sigma Olomuc 5:45pm
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363974.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 24 - Jagiellonia vs Rayo Vallecano 5:45pm
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1363974.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363973.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 25 - Sk Slovan vs Rayo Vallecano 5:45pm
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363973.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 25 - Noah vs Legia Warszawa 5:45pm
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1363973.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363972.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 26 - Universitatea Craiova vs Mainz 5:45pm
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363972.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 26 - Samsunspor vs Aek Athens 5:45pm
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1363972.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/Champions-league.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 27 - Srinjski vs Hacken 5:45pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/Champions-league.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 27 - Shkendija vs Sk Slovan 5:45pm
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1363971.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363970.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 28 - Aberdeen vs Noah 8:00pm
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363970.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 28 - Universitatea Craiova vs Sparta Prague 5:45pm
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1363970.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363967.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 31 - Fiorentina vs Aek Athens 8:00pm
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363967.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 31 - Kups vs Lausanne 8:00pm
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1363967.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1363966.png" group-title="UK| CUP GAMES & INTERNATIONAL",UEFA | 32 - ARSENAL - ATHLETIC CLUB BILBAO | Sat 09 Aug 15:45
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1363966.m3u8
@@ -3054,13 +3020,13 @@ http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1363966.m3u8
 # --- UK| DAZN PPV (31) ---
 #EXTINF:-1 tvg-logo="" group-title="UK| DAZN PPV",####### DAZN PPV #######
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602972.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602973.png" group-title="UK| DAZN PPV",UK: DAZN PPV 1 - MINNESOTA @ PURDUE | Thu 11 Dec 00:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602973.png" group-title="UK| DAZN PPV",UK: DAZN PPV 1 - EFOOTBALL CONSOLE - GROUP STAGE 2 | Thu 11 Dec 09:20 | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602973.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602974.png" group-title="UK| DAZN PPV",UK: DAZN PPV 2 - LIBERTY @ NC STATE | Thu 11 Dec 00:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602974.png" group-title="UK| DAZN PPV",UK: DAZN PPV 2 - SOUTH AFRICA - DAY 4 (PRO STREAM) | Thu 11 Dec 11:20 | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602974.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602975.png" group-title="UK| DAZN PPV",UK: DAZN PPV 3 - BASKETBALL HALL OF FAME CLASSIC: BOSTON COLLEGE VS. UMASS | Thu 11 Dec 00:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602975.png" group-title="UK| DAZN PPV",UK: DAZN PPV 3 - SOUTH AFRICA - DAY 4 (STANDARD STREAM) | Thu 11 Dec 11:20 | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602975.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602976.png" group-title="UK| DAZN PPV",UK: DAZN PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602976.png" group-title="UK| DAZN PPV",UK: DAZN PPV 4 - RIYADH RACING SEASON RACE NIGHT #10 | Thu 11 Dec 12:40 | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602976.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602977.png" group-title="UK| DAZN PPV",UK: DAZN PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602977.m3u8
@@ -3144,9 +3110,9 @@ http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/549409.m3u8
 # --- UK| DISCOVERY + PPV (100) ---
 #EXTINF:-1 tvg-logo="" group-title="UK| DISCOVERY + PPV",####### DISCOVERY+ PPV #######
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602185.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602186.png" group-title="UK| DISCOVERY + PPV",UK: D+ PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602186.png" group-title="UK| DISCOVERY + PPV",UK: D+ PPV 1 - SAINT MORITZ | WOMEN'S DOWNHILL | Thu 11 Dec 09:15 | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602186.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602187.png" group-title="UK| DISCOVERY + PPV",UK: D+ PPV 2 - NEW ZEALAND - WEST INDIES | Wed 10 Dec 21:29 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602187.png" group-title="UK| DISCOVERY + PPV",UK: D+ PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602187.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602188.png" group-title="UK| DISCOVERY + PPV",UK: D+ PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602188.m3u8
@@ -4145,7 +4111,7 @@ http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1032832.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1032831.png" group-title="UK| GAA GO PPV",GaaGo Fixtures 10:  TBA vs TBA // UK Sun 23 Apr 10:15pm // ET Sun 23 Apr 5:15pm
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1032831.m3u8
 
-# --- UK| GENERAL (159) ---
+# --- UK| GENERAL (128) ---
 #EXTINF:-1 tvg-logo="" group-title="UK| GENERAL",##### GENERAL FHD #####
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/229420.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/30581.png" group-title="UK| GENERAL",UK| BBC 1 HD
@@ -4402,68 +4368,6 @@ http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/111554.m3u8
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/229426.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/229789.png" group-title="UK| GENERAL",UK| ITV BORDER SCOTLAND
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/229789.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/784411.png" group-title="UK| GENERAL",UK| 192 RADIO
-http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/784411.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/656282.png" group-title="UK| GENERAL",UK| ASIA FM
-http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/656282.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/735291.png" group-title="UK| GENERAL",UK| BBC BBC WORLD SERVICE
-http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/735291.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/735281.png" group-title="UK| GENERAL",UK| BBC RADIO 1
-http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/735281.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/735288.png" group-title="UK| GENERAL",UK| BBC RADIO 1XTRA
-http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/735288.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/735282.png" group-title="UK| GENERAL",UK| BBC RADIO 2
-http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/735282.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/735283.png" group-title="UK| GENERAL",UK| BBC RADIO 3
-http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/735283.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/735284.png" group-title="UK| GENERAL",UK| BBC RADIO 4
-http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/735284.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/735289.png" group-title="UK| GENERAL",UK| BBC RADIO 4 EXTRA
-http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/735289.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/735286.png" group-title="UK| GENERAL",UK| BBC RADIO 5 LIVE (NON-UK)
-http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/735286.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/735287.png" group-title="UK| GENERAL",UK| BBC RADIO 6 MUSIC
-http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/735287.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1104529.png" group-title="UK| GENERAL",UK| BRITAIN RADIO 355
-http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1104529.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/735295.png" group-title="UK| GENERAL",UK| CAPITAL GOLD
-http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/735295.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/735292.png" group-title="UK| GENERAL",UK| CLASSIC FM
-http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/735292.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/656281.png" group-title="UK| GENERAL",UK| EAST FM
-http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/656281.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1124070.png" group-title="UK| GENERAL",UK| FABULOUS 103 PATTAYA
-http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1124070.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/656285.png" group-title="UK| GENERAL",UK| MIRCHI RADIO
-http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/656285.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/735294.png" group-title="UK| GENERAL",UK| RADIO CAROLINE 648
-http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/735294.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/735297.png" group-title="UK| GENERAL",UK| RADIO CAROLINE FLASHBACK
-http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/735297.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/735296.png" group-title="UK| GENERAL",UK| RADIO MI AMIGO INTERNATIONAL
-http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/735296.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1199340.png" group-title="UK| GENERAL",UK| RADIO NORTH SEA INTERNATIONAL
-http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1199340.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1048826.png" group-title="UK| GENERAL",UK| RADIO PANJAB
-http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1048826.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1048823.png" group-title="UK| GENERAL",UK| RADIO SABRAS
-http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1048823.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/735293.png" group-title="UK| GENERAL",UK| RADIO SEAGUL
-http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/735293.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1048822.png" group-title="UK| GENERAL",UK| RADIO SPICE FM
-http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1048822.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1048825.png" group-title="UK| GENERAL",UK| RADIO SUNRISE
-http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1048825.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/735298.png" group-title="UK| GENERAL",UK| REWOUND RADIO
-http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/735298.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/656284.png" group-title="UK| GENERAL",UK| SABRAS RADION LONDON
-http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/656284.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/656283.png" group-title="UK| GENERAL",UK| SUNRISE FM LONDON
-http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/656283.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1199265.png" group-title="UK| GENERAL",UK| SWINGING RADIO ENGLAND
-http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1199265.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1128482.png" group-title="UK| GENERAL",UK| TIMES RADIO
-http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1128482.m3u8
 
 # --- UK| GENERAL HEVC (35) ---
 #EXTINF:-1 tvg-logo="" group-title="UK| GENERAL HEVC",##### GENERAL HEVC  #####
@@ -6130,7 +6034,7 @@ http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1362846.m3u8
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1362847.m3u8
 
 # --- UK| PDC BOARD PPV (8) ---
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1556649.png" group-title="UK| PDC BOARD PPV",PDC Board 1 : 2025 ladbrokes players championship finals day three // UK Sun 23 Nov 1:45pm // ET Sun 23 Nov 8:45am
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1556649.png" group-title="UK| PDC BOARD PPV",PDC Board 1 : 2025 world championships day one // UK Thu 11 Dec 8:00pm // ET Thu 11 Dec 3:00pm
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1556649.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1556650.png" group-title="UK| PDC BOARD PPV",PDC Board 2 : 2025 ladbrokes players championship finals day three board 2 // UK Sun 23 Nov 1:45pm // ET Sun 23 Nov 8:45am
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1556650.m3u8
@@ -7638,7 +7542,7 @@ http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1694290.m3u8
 # --- UK| UFC/BOXING PPV (18) ---
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1395687.png" group-title="UK| UFC/BOXING PPV",UFC| 24/7
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1395687.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1395686.png" group-title="UK| UFC/BOXING PPV",UFC 00 : BJJ CLUBES start:2025-12-07 23:55:00 stop:2025-12-08 05:00:00
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1395686.png" group-title="UK| UFC/BOXING PPV",UFC 00 : UFC BJJ 4: TACKETT VS DORSEY start:2025-12-12 01:55:00 stop:2025-12-12 07:00:00
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1395686.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1395685.png" group-title="UK| UFC/BOXING PPV",UFC 02: UFC 323: FIGHT PASS PRELIMS start:2025-12-06 23:55:00 stop:2025-12-07 02:00:00
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1395685.m3u8
@@ -9101,4 +9005,4 @@ http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1066678.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1066677.png" group-title="Unknown",EN| CHRISTMAS MOVIES 6 FHD
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1066677.m3u8
 
-# Total: 4443
+# Total: 4395
