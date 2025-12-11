@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2025-12-10 18:32:02
+# Generated: 2025-12-11 07:11:47
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -3799,7 +3799,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/80444.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Portugal",PT: ZAP VIVA FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/80443.m3u8
 
-# --- Shqiptare (437) ---
+# --- Shqiptare (439) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/1280px-Flag_of_Albania.svg.png" group-title="Shqiptare",====Shqiptare====
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/13104.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/240/240-2.png" group-title="Shqiptare",AL: RTK 1 ⁴ᴷ
@@ -3814,14 +3814,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/2013.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/76956.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: RTK 1 +6 USA
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/81477.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Big Brother VIP Kosova 1 ⁴ᴷ
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/81682.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Big Brother VIP Kosova 2 ⁴ᴷ
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/81683.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Big Brother VIP Kosova 1 ᴴᴰ
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/81711.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Big Brother VIP Kosova 2 ᴴᴰ
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/81712.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/240/240-9.png" group-title="Shqiptare",AL: Klan Kosova ⁴ᴷ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/840.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/240/240-9.png" group-title="Shqiptare",AL: Klan Kosova ᴴᴰ
@@ -3830,6 +3822,24 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/2963.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/79680.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Klan Kosova +6 USA
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/81476.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Big Brother VIP Kosova 1 ⁴ᴷ
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/81682.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Big Brother VIP Kosova 2 ⁴ᴷ
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/81683.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Big Brother VIP Kosova 1 ᴴᴰ
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/81711.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Big Brother VIP Kosova 2 ᴴᴰ
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/81712.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Big Brother VIP 1 ⁴ᴷ AL
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/81914.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Big Brother VIP 2 ⁴ᴷ AL
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/81915.m3u8
+#EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/240/240-4.png" group-title="Shqiptare",AL: Top Channel ⁴ᴷ
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/2965.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Top Channel ᴴᴰ
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/68019.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Top channel +6 USA
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/81544.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/240/240-16.png" group-title="Shqiptare",AL: KTV ⁴ᴷ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/842.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/240/240-16.png" group-title="Shqiptare",AL: KTV ᴴᴰ
@@ -3880,12 +3890,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/47303.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/80807.m3u8
 #EXTINF:-1 tvg-logo="https://pollogu.mk/IMG/sidebar_tvpollogu.png" group-title="Shqiptare",AL:  Pollogu Tv
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/45867.m3u8
-#EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/240/240-4.png" group-title="Shqiptare",AL: Top Channel ⁴ᴷ
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/2965.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Top Channel ᴴᴰ
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/68019.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Top channel +6 USA
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/81544.m3u8
 #EXTINF:-1 tvg-logo="https://tring.al/wp-content/uploads/2024/06/klan-hd.png" group-title="Shqiptare",AL: Tv Klan ⁴ᴷ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/9678.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Tv Klan ᴴᴰ
@@ -8935,4 +8939,4 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/13200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Real Madrid Tv
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62225.m3u8
 
-# Total: 4437
+# Total: 4439

@@ -1,13 +1,13 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: ginafelea.ddns.net:8008
-# Generated: 2025-12-10 18:28:17
+# Generated: 2025-12-11 07:03:28
 # Expires: 2026-07-15
 # Family Safe Edition
 # ==============================================
 
 
-# --- ⚜️ROMANIA TV⚜️ (595) ---
+# --- ⚜️ROMANIA TV⚜️ (596) ---
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvFMSGRt/Whats-App-Image-2025-11-27-at-15-20-39-6e5d06cc.jpg" group-title="⚜️ROMANIA TV⚜️",⚜️WELCOME TO PRO EUROPA⚜️
 http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/540724.m3u8
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab67616d0000b273e9af6e6ace7bae5f933bdc04" group-title="⚜️ROMANIA TV⚜️",COLINDE ROMANESTI
@@ -80,6 +80,8 @@ http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/277307.m3u8
 http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/255763.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kMRYdGgV/CF80-EEC2-7568-48-BC-A2-B9-55-E3-EB2-EACA8.png" group-title="⚜️ROMANIA TV⚜️",PRIMA COMEDY UHD
 http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/206428.m3u8
+#EXTINF:-1 tvg-logo="https://i.cdn.dejacast.com/foodandtravel/live-1764923030.png" group-title="⚜️ROMANIA TV⚜️",PRIMA WORLD UHD
+http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/555201.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FFPpF6KY/9-B84-D0-A3-56-F2-45-A1-8-AF3-F6-AE5962-EF10.png" group-title="⚜️ROMANIA TV⚜️",ACASA TV UHD
 http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/297585.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GmBdg641/ACBA358-E-AE15-4575-B8-C0-A1502-F0-F08-A5.png" group-title="⚜️ROMANIA TV⚜️",ACASA TV HD
@@ -1199,4 +1201,4 @@ http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/296305.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚜️ROMANIA TV⚜️",GALA RXF
 http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/554858.m3u8
 
-# Total: 595
+# Total: 596

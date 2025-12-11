@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: uzay.pro:8080
-# Generated: 2025-12-10 18:29:18
+# Generated: 2025-12-11 07:13:04
 # Expires: 2026-04-13
 # Family Safe Edition
 # ==============================================
@@ -2053,7 +2053,7 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/478228.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/zee-One.png" group-title="DE KINO - SERIEN",DE: ZEE ONE
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/524018.m3u8
 
-# --- DE KINO - SERIEN 24 - 7 (424) ---
+# --- DE KINO - SERIEN 24 - 7 (422) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="DE KINO - SERIEN 24 - 7",DE: ----- STREAMING PLATTFORM -----
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/476090.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/amazonPrime.png" group-title="DE KINO - SERIEN 24 - 7",DE: AMAZON FILME HD
@@ -2596,8 +2596,6 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/597278.m3u8
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/334271.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/cineStarAction.png" group-title="DE KINO - SERIEN 24 - 7",DE: CINE STAR ACTION HD
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/334270.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/cineStarAnimation.png" group-title="DE KINO - SERIEN 24 - 7",DE: CINE STAR ANIMATION HD
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/334269.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/cineStarAbenteuer.png" group-title="DE KINO - SERIEN 24 - 7",DE: CINE STAR ABENTEUER HD
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/334268.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/cineStarCrimer.png" group-title="DE KINO - SERIEN 24 - 7",DE: CINE STAR CRIME HD
@@ -2610,8 +2608,6 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/334265.m3u8
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/334263.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/cineStarHorror.png" group-title="DE KINO - SERIEN 24 - 7",DE: CINE STAR HORROR HD
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/334261.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/cineStarKino.png" group-title="DE KINO - SERIEN 24 - 7",DE: CINE STAR KINO HD
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/334258.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/cineStarPremiere.png" group-title="DE KINO - SERIEN 24 - 7",DE: CINE STAR PREMIRERE HD
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/334259.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="DE KINO - SERIEN 24 - 7",DE: ----- MOVIE TIME -----
@@ -4661,4 +4657,4 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/210664.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/macedonia/alsat.png" group-title="MK MACEDONIA",MK: ALSAT M TV
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/290212.m3u8
 
-# Total: 2296
+# Total: 2294

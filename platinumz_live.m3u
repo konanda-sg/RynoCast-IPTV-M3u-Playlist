@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: platinumz.xyz:8080
-# Generated: 2025-12-10 18:34:59
+# Generated: 2025-12-11 07:06:30
 # Expires: 2025-12-23
 # Family Safe Edition
 # ==============================================
@@ -1185,7 +1185,9 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/554132.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/uDkFM.png" group-title="DE ✨ 24/7 SERIEN",SERIE 24/7 THE WIRE
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/554131.m3u8
 
-# --- DE ✨ CHAMPIONS LEAGUE (37) ---
+# --- DE ✨ CHAMPIONS LEAGUE (38) ---
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/PmJ_o.jpg" group-title="DE ✨ CHAMPIONS LEAGUE",CHAMPIONS LEAGUE KONFERENZ
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/865310.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/primevideo.png" group-title="DE ✨ CHAMPIONS LEAGUE",AMAZON PRIME VIDEO HEVC
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/811504.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/primevideo.png" group-title="DE ✨ CHAMPIONS LEAGUE",AMAZON PRIME VIDEO FHD
@@ -1208,23 +1210,23 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/622642.m3u8
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/622643.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn2.png" group-title="DE ✨ CHAMPIONS LEAGUE",DAZN 2 HD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/622644.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn/dazn.png" group-title="DE ✨ CHAMPIONS LEAGUE",DAZN CL KONFERENZ
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/865310.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn/dazn.png" group-title="DE ✨ CHAMPIONS LEAGUE",DAZN CL EVENT 1
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/860043.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn/dazn.png" group-title="DE ✨ CHAMPIONS LEAGUE",DAZN CL EVENT 2 - Barcelona v Eintracht Frankfurt
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn/dazn.png" group-title="DE ✨ CHAMPIONS LEAGUE",DAZN CL EVENT 2
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/860042.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn/dazn.png" group-title="DE ✨ CHAMPIONS LEAGUE",DAZN CL EVENT 3 - Monaco v Galatasaray
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn/dazn.png" group-title="DE ✨ CHAMPIONS LEAGUE",DAZN CL EVENT 3
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/860041.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn/dazn.png" group-title="DE ✨ CHAMPIONS LEAGUE",DAZN CL EVENT 4 - Inter Milan v Liverpool
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn/dazn.png" group-title="DE ✨ CHAMPIONS LEAGUE",DAZN CL EVENT 4
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/860040.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn/dazn.png" group-title="DE ✨ CHAMPIONS LEAGUE",DAZN CL EVENT 5 - Atalanta v Chelsea
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn/dazn.png" group-title="DE ✨ CHAMPIONS LEAGUE",DAZN CL EVENT 5
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/860039.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn/dazn.png" group-title="DE ✨ CHAMPIONS LEAGUE",DAZN CL EVENT 6
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/860038.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn/dazn.png" group-title="DE ✨ CHAMPIONS LEAGUE",DAZN CL EVENT 7
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/860037.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn/dazn.png" group-title="DE ✨ CHAMPIONS LEAGUE",DAZN CL EVENT 8 - PSV Eindhoven v Atlético Madrid
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn/dazn.png" group-title="DE ✨ CHAMPIONS LEAGUE",DAZN CL EVENT 8
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/860036.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn/dazn.png" group-title="DE ✨ CHAMPIONS LEAGUE",DAZN CL EVENT 9 - Union St Gilloise v Marseille
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn/dazn.png" group-title="DE ✨ CHAMPIONS LEAGUE",DAZN CL EVENT 9
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/860035.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn/dazn.png" group-title="DE ✨ CHAMPIONS LEAGUE",DAZN CL EVENT 10
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/860034.m3u8
@@ -4855,4 +4857,4 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/809948.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ArenaSport_6.png" group-title="VIP ✨ SPORTS EX-YU",BH⚜️ ARENA SPORT 6
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/809947.m3u8
 
-# Total: 2378
+# Total: 2379

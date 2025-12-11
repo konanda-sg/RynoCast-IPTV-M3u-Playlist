@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: satpower.shop:8080
-# Generated: 2025-12-10 18:40:20
+# Generated: 2025-12-11 07:16:52
 # Expires: 2026-03-06
 # Family Safe Edition
 # ==============================================
@@ -2201,7 +2201,7 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/478228.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/zee-One.png" group-title="DE KINO - SERIEN",DE: ZEE ONE
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/524018.m3u8
 
-# --- DE KINO - SERIEN 24 - 7 (424) ---
+# --- DE KINO - SERIEN 24 - 7 (422) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="DE KINO - SERIEN 24 - 7",DE: ----- STREAMING PLATTFORM -----
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/476090.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/amazonPrime.png" group-title="DE KINO - SERIEN 24 - 7",DE: AMAZON FILME HD
@@ -2744,8 +2744,6 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/597278.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/334271.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/cineStarAction.png" group-title="DE KINO - SERIEN 24 - 7",DE: CINE STAR ACTION HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/334270.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/cineStarAnimation.png" group-title="DE KINO - SERIEN 24 - 7",DE: CINE STAR ANIMATION HD
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/334269.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/cineStarAbenteuer.png" group-title="DE KINO - SERIEN 24 - 7",DE: CINE STAR ABENTEUER HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/334268.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/cineStarCrimer.png" group-title="DE KINO - SERIEN 24 - 7",DE: CINE STAR CRIME HD
@@ -2758,8 +2756,6 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/334265.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/334263.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/cineStarHorror.png" group-title="DE KINO - SERIEN 24 - 7",DE: CINE STAR HORROR HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/334261.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/cineStarKino.png" group-title="DE KINO - SERIEN 24 - 7",DE: CINE STAR KINO HD
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/334258.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/cineStarPremiere.png" group-title="DE KINO - SERIEN 24 - 7",DE: CINE STAR PREMIRERE HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/334259.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="DE KINO - SERIEN 24 - 7",DE: ----- MOVIE TIME -----
@@ -7005,7 +7001,7 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/423894.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/htSpor.png" group-title="TR SPOR",TR: HT SPOR HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/512944.m3u8
 
-# --- TR TURKIYE (95) ---
+# --- TR TURKIYE (94) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/tr.png" group-title="TR TURKIYE",TR: ----- TURKIYE -----
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/135910.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/turkeyT/mozaikUlusal.png" group-title="TR TURKIYE",TR: ULUSAL MOZAIK HD
@@ -7176,8 +7172,6 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/598936.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/643898.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/turkeyT/D ANADOLU.png" group-title="TR TURKIYE",TR: D ANADOLU
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/643897.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/turkeyT/ege_tv_izmir.png" group-title="TR TURKIYE",TR: EGE TV
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/643896.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/turkeyT/koza_tv.png" group-title="TR TURKIYE",TR: KOZA TV
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/643894.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/turkeyT/MK TV.png" group-title="TR TURKIYE",TR: MK TV
@@ -10347,4 +10341,4 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/505896.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/USA/TVJ%20channel.png" group-title="US SPORTS",US: TVJ
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/282779.m3u8
 
-# Total: 5096
+# Total: 5093

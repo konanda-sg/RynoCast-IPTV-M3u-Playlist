@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: italians-app.net:8080
-# Generated: 2025-12-10 18:36:31
+# Generated: 2025-12-11 07:06:21
 # Expires: 2026-01-21
 # Family Safe Edition
 # ==============================================
@@ -19647,7 +19647,7 @@ http://italians-app.net:8080/movie/hele/cart@/46163.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/abb4cfb2e854c34820508bc95e63bd8e.jpg" group-title="Movies | NETFLIX AMAZON-Serie-Tv",The Protector 04x07
 http://italians-app.net:8080/movie/hele/cart@/46164.mkv
 
-# --- Movies | NETFLIX-AMAZON-SERIE (635) ---
+# --- Movies | NETFLIX-AMAZON-SERIE (636) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",Celebrity Hunted: Caccia all'uomo
 http://italians-app.net:8080/movie/hele/cart@/4.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",ZeroZeroZero
@@ -20918,6 +20918,8 @@ http://italians-app.net:8080/movie/hele/cart@/1561.mp4
 http://italians-app.net:8080/movie/hele/cart@/1568.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",The Abandons
 http://italians-app.net:8080/movie/hele/cart@/1571.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",The Lowdown
+http://italians-app.net:8080/movie/hele/cart@/1576.mp4
 
 # --- Movies | PRIMAFILA (9) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/2624638709dfb2624cdb24718c200256.jpg" group-title="Movies | PRIMAFILA",PRIMAFILA 1HD Una battaglia dopo l altra (2025)
@@ -32677,4 +32679,4 @@ http://italians-app.net:8080/movie/hele/cart@/2669.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | SerieTV",Timeless.S01E01 german
 http://italians-app.net:8080/movie/hele/cart@/20654.mkv
 
-# Total: 16307
+# Total: 16308

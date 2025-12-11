@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: lambda38705.cdnsilver.me
-# Generated: 2025-12-10 18:37:51
+# Generated: 2025-12-11 07:17:24
 # Expires: 2026-01-31
 # Family Safe Edition
 # ==============================================
@@ -2045,7 +2045,7 @@ http://lambda38705.cdnsilver.me/live/695be9689672/757cd33ab2/3150.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/156.jpg" group-title="AR| MBC 4K",AR: Zee Aflam
 http://lambda38705.cdnsilver.me/live/695be9689672/757cd33ab2/3149.m3u8
 
-# --- AR| MBC SHAHID ᴿᴬᵂ (22) ---
+# --- AR| MBC SHAHID ᴿᴬᵂ (19) ---
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SDFf00WJ/Shahid-GIF.gif" group-title="AR| MBC SHAHID ᴿᴬᵂ",##### MBC SHAHID REPLAY 4K #####
 http://lambda38705.cdnsilver.me/live/695be9689672/757cd33ab2/637409.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13616.jpg?99177" group-title="AR| MBC SHAHID ᴿᴬᵂ",AR: SHAHID AFLAM 4K
@@ -2068,12 +2068,6 @@ http://lambda38705.cdnsilver.me/live/695be9689672/757cd33ab2/485720.m3u8
 http://lambda38705.cdnsilver.me/live/695be9689672/757cd33ab2/496455.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13616.jpg?99177" group-title="AR| MBC SHAHID ᴿᴬᵂ",AR: SHAHID GAMES 4K
 http://lambda38705.cdnsilver.me/live/695be9689672/757cd33ab2/489484.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13616.jpg?99177" group-title="AR| MBC SHAHID ᴿᴬᵂ",AR: SHAHID WI-FI 4K
-http://lambda38705.cdnsilver.me/live/695be9689672/757cd33ab2/860821.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13616.jpg?99177" group-title="AR| MBC SHAHID ᴿᴬᵂ",AR: SHAHID WI-FI HD
-http://lambda38705.cdnsilver.me/live/695be9689672/757cd33ab2/860822.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13616.jpg?99177" group-title="AR| MBC SHAHID ᴿᴬᵂ",AR: SHAHID STUDIO 21 4K
-http://lambda38705.cdnsilver.me/live/695be9689672/757cd33ab2/1362429.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13616.jpg?99177" group-title="AR| MBC SHAHID ᴿᴬᵂ",AR: SHAHID FEROZ HD
 http://lambda38705.cdnsilver.me/live/695be9689672/757cd33ab2/1362426.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13616.jpg?99177" group-title="AR| MBC SHAHID ᴿᴬᵂ",AR: SHAHID RAMADAN WITH SAUDIA 4K
@@ -4647,4 +4641,4 @@ http://lambda38705.cdnsilver.me/live/695be9689672/757cd33ab2/207226.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12553.jpg?33706" group-title="FR| SPORT HD/4K",FR: AUTOMOTO TV HD
 http://lambda38705.cdnsilver.me/live/695be9689672/757cd33ab2/207245.m3u8
 
-# Total: 2252
+# Total: 2249

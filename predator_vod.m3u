@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2025-12-10 18:32:02
+# Generated: 2025-12-11 07:11:48
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -2527,9 +2527,11 @@ http://predator.digital:8080/movie/Edi/dWP7KSb4CM/52993.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ht6EfsM5hrsUPSR4ReJQFDVU71F.jpg" group-title="Movies | Filma me titra Shqip",Roald Dahl's The Witches (2020)
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/30398.mkv
 
-# --- Movies | Seriale me titra Shqip (194) ---
+# --- Movies | Seriale me titra Shqip (195) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",=====Seriale Me Titra Shqip=====
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/1.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",Pluribus (2025)
+http://predator.digital:8080/movie/Edi/dWP7KSb4CM/282.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",True Detective (2014)
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/281.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",Power Book IV: Force (US)
@@ -8981,4 +8983,4 @@ http://predator.digital:8080/movie/Edi/dWP7KSb4CM/69013.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Vod de",Your Place or Mine (2023) [DE]
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/69012.mkv
 
-# Total: 4478
+# Total: 4479

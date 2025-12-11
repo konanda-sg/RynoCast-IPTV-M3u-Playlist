@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nisay.xyz:8080
-# Generated: 2025-12-10 18:41:22
+# Generated: 2025-12-11 07:17:13
 # Expires: 2026-10-04
 # Family Safe Edition
 # ==============================================
@@ -19183,7 +19183,7 @@ http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1679
 #EXTINF:-1 tvg-logo="" group-title="Series | DE: KINDER SERIES",DE: Die Gangster Gang: Aller Anfang ist böse
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1760
 
-# --- Series | GERMANY SERIES (128) ---
+# --- Series | GERMANY SERIES (129) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | GERMANY SERIES",DE: Westworld
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/112
 #EXTINF:-1 tvg-logo="" group-title="Series | GERMANY SERIES",DE: Chernobyl
@@ -19440,6 +19440,8 @@ http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1805
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1806
 #EXTINF:-1 tvg-logo="" group-title="Series | GERMANY SERIES",DE: The Iris Affair
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1811
+#EXTINF:-1 tvg-logo="" group-title="Series | GERMANY SERIES",DE: Percy Jackson: Die Serie
+http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1823
 
 # --- Series | GERMANY SERIES FILME (92) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bXzmoW96LElKeNEEZElVlDAC1wF.jpg" group-title="Series | GERMANY SERIES FILME",DE: Shazam! Fury of the Gods (2023)
@@ -19643,4 +19645,4 @@ http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1503
 #EXTINF:-1 tvg-logo="" group-title="Series | TR ALTYAZI SERIES",Pluribus
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1803
 
-# Total: 9754
+# Total: 9755

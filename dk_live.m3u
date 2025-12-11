@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: dk.2665.ninja:8080
-# Generated: 2025-12-10 18:29:07
+# Generated: 2025-12-11 07:15:48
 # Expires: 2026-02-28
 # Family Safe Edition
 # ==============================================
@@ -1405,7 +1405,7 @@ http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/478228.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/zee-One.png" group-title="DE KINO - SERIEN",DE: ZEE ONE
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/524018.m3u8
 
-# --- DE KINO - SERIEN 24 - 7 (424) ---
+# --- DE KINO - SERIEN 24 - 7 (422) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="DE KINO - SERIEN 24 - 7",DE: ----- STREAMING PLATTFORM -----
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/476090.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/amazonPrime.png" group-title="DE KINO - SERIEN 24 - 7",DE: AMAZON FILME HD
@@ -1948,8 +1948,6 @@ http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/597278.m3u8
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/334271.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/cineStarAction.png" group-title="DE KINO - SERIEN 24 - 7",DE: CINE STAR ACTION HD
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/334270.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/cineStarAnimation.png" group-title="DE KINO - SERIEN 24 - 7",DE: CINE STAR ANIMATION HD
-http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/334269.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/cineStarAbenteuer.png" group-title="DE KINO - SERIEN 24 - 7",DE: CINE STAR ABENTEUER HD
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/334268.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/cineStarCrimer.png" group-title="DE KINO - SERIEN 24 - 7",DE: CINE STAR CRIME HD
@@ -1962,8 +1960,6 @@ http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/334265.m3u8
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/334263.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/cineStarHorror.png" group-title="DE KINO - SERIEN 24 - 7",DE: CINE STAR HORROR HD
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/334261.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/cineStarKino.png" group-title="DE KINO - SERIEN 24 - 7",DE: CINE STAR KINO HD
-http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/334258.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/cineStarPremiere.png" group-title="DE KINO - SERIEN 24 - 7",DE: CINE STAR PREMIRERE HD
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/334259.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="DE KINO - SERIEN 24 - 7",DE: ----- MOVIE TIME -----
@@ -5197,7 +5193,7 @@ http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/164957.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/fightbox.png" group-title="TR SPOR",TR: FIGHTBOX
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/240517.m3u8
 
-# --- TR TURKIYE (95) ---
+# --- TR TURKIYE (94) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/tr.png" group-title="TR TURKIYE",TR: ----- TURKIYE -----
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/135910.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/turkeyT/mozaikUlusal.png" group-title="TR TURKIYE",TR: ULUSAL MOZAIK HD
@@ -5368,8 +5364,6 @@ http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/598936.m3u8
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/643898.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/turkeyT/D ANADOLU.png" group-title="TR TURKIYE",TR: D ANADOLU
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/643897.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/turkeyT/ege_tv_izmir.png" group-title="TR TURKIYE",TR: EGE TV
-http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/643896.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/turkeyT/koza_tv.png" group-title="TR TURKIYE",TR: KOZA TV
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/643894.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/turkeyT/MK TV.png" group-title="TR TURKIYE",TR: MK TV
@@ -5421,4 +5415,4 @@ http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/531883.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/a_spor.png" group-title="TR VIP TURKIYE",TR: VIP A SPOR
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/531882.m3u8
 
-# Total: 2666
+# Total: 2663

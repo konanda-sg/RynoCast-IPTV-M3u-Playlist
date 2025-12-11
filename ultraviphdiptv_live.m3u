@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: ultraviphdiptv.com:8000
-# Generated: 2025-12-10 18:34:03
+# Generated: 2025-12-11 07:11:18
 # Expires: 2026-03-16
 # Family Safe Edition
 # ==============================================
@@ -65,7 +65,7 @@ http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/147856.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AT: AUSTRIA",ATV HD
 http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/147693.m3u8
 
-# --- DE: 24/7 FILME (93) ---
+# --- DE: 24/7 FILME (148) ---
 #EXTINF:-1 tvg-logo="" group-title="DE: 24/7 FILME",✶✶✶ DE 7/24 ✶✶✶
 http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/150908.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE: 24/7 FILME",DE: ProTV Marvel
@@ -128,6 +128,116 @@ http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/156291.m3u8
 http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/166590.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE: 24/7 FILME",DE: ProTV Komedie
 http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/166591.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/BOXSET/STAR.WARS.png" group-title="DE: 24/7 FILME",DE: STAR.WARS HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168763.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/BOXSET/SUPERMEN.png" group-title="DE: 24/7 FILME",DE: SUPERMEN HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168764.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/BOXSET/TERMINATOR.png" group-title="DE: 24/7 FILME",DE: TERMINATOR HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168765.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/BOXSET/TRANSFORMENS.png" group-title="DE: 24/7 FILME",DE: TRANSFORMENS HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168766.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/BOXSET/UNIVERSAL.SOLIDER.png" group-title="DE: 24/7 FILME",DE: UNIVERSAL SOLIDER HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168767.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/BOXSET/WRONG.TURN.png" group-title="DE: 24/7 FILME",DE: WRONG TURN HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168768.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/BOXSET/POLICE.ACADEMY.png" group-title="DE: 24/7 FILME",DE: POLICE ACADEMY HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168754.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/BOXSET/RAMBO.png" group-title="DE: 24/7 FILME",DE: RAMBO HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168755.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/BOXSET/RESIDENT.EVIL.png" group-title="DE: 24/7 FILME",DE: RESIDENT EVIL HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168756.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/BOXSET/ROCKY.png" group-title="DE: 24/7 FILME",DE: ROCKY HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168757.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/BOXSET/SAW.png" group-title="DE: 24/7 FILME",DE: SAW HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168758.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/BOXSET/SCARY.MOVIE.png" group-title="DE: 24/7 FILME",DE: SCARY MOVIE HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168759.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/BOXSET/SCREAM.png" group-title="DE: 24/7 FILME",DE: SCREAM HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168760.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/BOXSET/SHARKNADO.png" group-title="DE: 24/7 FILME",DE: SHARKNADO HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168761.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/BOXSET/STAR.TREK.png" group-title="DE: 24/7 FILME",DE: STAR TREK HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168762.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/STARZ/ROBERT.DE.NIRO.png" group-title="DE: 24/7 FILME",DE: ROBERT DE NIRO HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168743.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/STARZ/BRUCE.WILLIS.png" group-title="DE: 24/7 FILME",DE: BRUCE WILLIS HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168744.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/BOXSET/AMERICAN.PIE.png" group-title="DE: 24/7 FILME",DE: AMERICAN PIE HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168745.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/BOXSET/FAST.AND.FURIOUS.png" group-title="DE: 24/7 FILME",DE: FAST AND FURIOUS HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168746.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/BOXSET/FREITAG.DER.13.png" group-title="DE: 24/7 FILME",DE: FREITAG DER 13 HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168747.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/BOXSET/GODZILLA.KONG.png" group-title="DE: 24/7 FILME",DE: GODZILLA KONG HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168748.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/BOXSET/HARRY.POTTER.png" group-title="DE: 24/7 FILME",DE: HARRY POTTER HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168749.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/BOXSET/MISSION.IMPOSSIBLE.png" group-title="DE: 24/7 FILME",DE: MISSION IMPOSSIBLE HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168750.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/BOXSET/MIT.LEEBE.ZUM.MORD.png" group-title="DE: 24/7 FILME",DE: MIT LEEBE ZUM MORD HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168751.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/BOXSET/PARANORMAL.TV.png" group-title="DE: 24/7 FILME",DE: PARANORMAL.TV HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168752.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/STARZ/DENZEL.WASHINGTON.png" group-title="DE: 24/7 FILME",DE: DENZEL WASHINGTON HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168733.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/STARZ/TIL.SCHWEIGER.png" group-title="DE: 24/7 FILME",DE: TIL SCHWEIGER HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168734.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/STARZ/TOM.CRUISE.png" group-title="DE: 24/7 FILME",DE: TOM CRUISE HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168735.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/STARZ/MORGAN.FREEMAN.png" group-title="DE: 24/7 FILME",DE: MORGAN FREEMAN HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168736.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/STARZ/TOM.HANKS.png" group-title="DE: 24/7 FILME",DE: TOM HANKS HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168737.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/STARZ/BRAD.PITT.png" group-title="DE: 24/7 FILME",DE: BRAD PITT HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168738.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/STARZ/JASON.STATHAM.png" group-title="DE: 24/7 FILME",DE: JASON STATHAM HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168739.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/STARZ/SYLVESTER.STALLONE.png" group-title="DE: 24/7 FILME",DE: SYLVESTER STALLONE HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168740.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/STARZ/SAMUEL.L.JACKSON.png" group-title="DE: 24/7 FILME",DE: SAMUEL L. JACKSON HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168741.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/STARZ/LIAM.NEESON.png" group-title="DE: 24/7 FILME",DE: LIAM NEESON HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168742.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/STARZ/DWAYNE.JOHNSON.png" group-title="DE: 24/7 FILME",DE: DWAYNE JOHNSON HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168723.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/STARZ/JIM.CARRY.png" group-title="DE: 24/7 FILME",DE: JIM CARRY HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168724.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/STARZ/JOHNNY.DEPP.png" group-title="DE: 24/7 FILME",DE: JOHNNY DEPP HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168725.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/STARZ/RYAN.REYNOLDS.png" group-title="DE: 24/7 FILME",DE: RYAN REYNOLDS HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168726.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/STARZ/KEANU.REEVES.png" group-title="DE: 24/7 FILME",DE: KEANU REEVES HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168727.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/STARZ/MERYL.STREEP.png" group-title="DE: 24/7 FILME",DE: MERYL STREEP HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168728.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/STARZ/JEAN.CLAUDE.png" group-title="DE: 24/7 FILME",DE: JEAN CLAUDE HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168729.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/STARZ/MARK.WAHLBERG.png" group-title="DE: 24/7 FILME",DE: MARK WAHLBERG HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168730.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/STARZ/ROBERT.DOWNEY.JR.png" group-title="DE: 24/7 FILME",DE: ROBERT DOWNEY JR HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168731.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/STARZ/ARNOLD.SCHWARZENEGGER.png" group-title="DE: 24/7 FILME",DE: ARNOLD SCHWARZENEGGER HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168732.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/STARZ/JAMES.BOND.png" group-title="DE: 24/7 FILME",DE: JAMES BOND HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168713.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/STARZ/JACKIE.CHAN.png" group-title="DE: 24/7 FILME",DE: JACKIE CHAN HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168714.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/STARZ/AL.PACHINO.png" group-title="DE: 24/7 FILME",DE: AL PACHINO HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168715.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/STARZ/MARTIN.LAWRENCE.png" group-title="DE: 24/7 FILME",DE: MARTIN LAWRENCE HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168716.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/STARZ/GAL.GADOT.png" group-title="DE: 24/7 FILME",DE: GAL GADOT HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168717.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/STARZ/MEGAN.FOX.png" group-title="DE: 24/7 FILME",DE: MEGAN FOX HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168718.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/STARZ/SCARLETT.JOHANSSON.png" group-title="DE: 24/7 FILME",DE: SCARLETT JOHANSSON HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168719.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/STARZ/ANGELINA.JOLIE.png" group-title="DE: 24/7 FILME",DE: ANGELINA JOLIE HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168720.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/STARZ/LEONARDO.DICAPRIO.png" group-title="DE: 24/7 FILME",DE: LEONARDO DICAPRIO HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168721.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/STARZ/WILL.SMITH.png" group-title="DE: 24/7 FILME",DE: WILL SMITH HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168722.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE: 24/7 FILME",DE MAX 007 HD
 http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/156517.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE: 24/7 FILME",DE MAX Plus HD
@@ -253,7 +363,7 @@ http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/161159.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE: 24/7 FILME",DE: ProTV Drama
 http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/167441.m3u8
 
-# --- DE: 24/7 SERIEN (166) ---
+# --- DE: 24/7 SERIEN (224) ---
 #EXTINF:-1 tvg-logo="" group-title="DE: 24/7 SERIEN",✶✶✶ DE 7/24 SERIE ✶✶✶
 http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/152087.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE: 24/7 SERIEN",DE: Deperate Housewife’s 27/7
@@ -328,6 +438,154 @@ http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/163684.m3u8
 http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/163685.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE: 24/7 SERIEN",DE: SERIEAX The UnXplained HD+
 http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/163686.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE: 24/7 SERIEN",DE: ProTV Serie Power Book IV: Force
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/166255.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE: 24/7 SERIEN",DE: ProTV Karate
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/166256.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE: 24/7 SERIEN",DE: ProTV Abenteuer
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/166257.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE: 24/7 SERIEN",DE: ProTV Serie Squid Game
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/167442.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE: 24/7 SERIEN",DE: ProTV Serie Game of Thrones
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/167443.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE: 24/7 SERIEN",DE: ProTV Serie The Walking Dead
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/167444.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE: 24/7 SERIEN",DE: ProTV Serie Prison Break
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/167445.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE: 24/7 SERIEN",DE: ProTV Serie Power Book III: Raising Kanan
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/164352.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE: 24/7 SERIEN",DE: ProTV Serie Power Book II: Ghost
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/164351.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE: 24/7 SERIEN",DE: ProTV Serie Power
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/164350.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE: 24/7 SERIEN",DE: ProTV Serie The Big Bang Theory
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/164344.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE: 24/7 SERIEN",DE: ProTV Serie Two and a Half Man
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/164345.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE: 24/7 SERIEN",DE: ProTV Serie The Rookie
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/164346.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE: 24/7 SERIEN",DE: ProTV Serie Suits
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/164347.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE: 24/7 SERIEN",DE: ProTV Serie Breaking Bad
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/164348.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE: 24/7 SERIEN",DE: ProTV Serie The Clone Wars
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/164349.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/HOW.I.MET.YOUR.MOTHER.png" group-title="DE: 24/7 SERIEN",DE: HOW I MET YOUR MOTHER HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168653.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/GREYS.ANATOMY.png" group-title="DE: 24/7 SERIEN",DE: GREYS ANATOMY HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168654.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/CRIMINAL.MINDS.png" group-title="DE: 24/7 SERIEN",DE: CRIMINAL MINDS HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168655.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/AKTE.X-FILES.png" group-title="DE: 24/7 SERIEN",DE: AKTE X-FILES HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168656.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/SUPER.NATURAL.png" group-title="DE: 24/7 SERIEN",DE: SUPER NATURAL HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168657.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/DESPERATE.HOUSEWIVES.png" group-title="DE: 24/7 SERIEN",DE: DESPERATE HOUSEWIVES HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168658.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/AMERICAN.HOUSEWIFE.png" group-title="DE: 24/7 SERIEN",DE: AMERICAN HOUSEWIFE HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168659.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/SHAMELESS.png" group-title="DE: 24/7 SERIEN",DE: SHAMELESS HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168660.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/30.ROCK.png" group-title="DE: 24/7 SERIEN",DE: 30 ROCK HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168661.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/THE.WALKING.DEAD.png" group-title="DE: 24/7 SERIEN",DE: THE WALKING DEAD HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168662.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/NAVY.CIS.png" group-title="DE: 24/7 SERIEN",DE: NAVY CIS HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168663.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/COMMUNITY.png" group-title="DE: 24/7 SERIEN",DE: COMMUNITY HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168664.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/CSI.NY.png" group-title="DE: 24/7 SERIEN",DE CSI NY HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168666.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/SWAT.png" group-title="DE: 24/7 SERIEN",DE: S.W.A.T HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168667.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/THE.100.png" group-title="DE: 24/7 SERIEN",DE: THE 100 HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168668.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/CHICAGO.FIRE.png" group-title="DE: 24/7 SERIEN",DE: CHICAGO FIRE HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168669.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/9-1-1.png" group-title="DE: 24/7 SERIEN",DE: 9-1-1 HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168670.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/ALLE.HASSEN.CHRIS.png" group-title="DE: 24/7 SERIEN",DE: ALLE HASSEN CHRIS HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168671.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/GOTHAM.png" group-title="DE: 24/7 SERIEN",DE: GOTHAM HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168672.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/CHICAGO.P.D.png" group-title="DE: 24/7 SERIEN",DE: CHICAGO P.D HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168673.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/AMERICAN.HORROR.STORY.png" group-title="DE: 24/7 SERIEN",DE: AMERICAN HORROR STORY HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168674.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/BOSH.png" group-title="DE: 24/7 SERIEN",DE: BOSH HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168675.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/VIKINGS.png" group-title="DE: 24/7 SERIEN",DE: VIKINGS HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168676.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/GAME.OF.THRONES.png" group-title="DE: 24/7 SERIEN",DE: GAME OF THRONES HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168677.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/EMPIRE.png" group-title="DE: 24/7 SERIEN",DE: EMPIRE HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168678.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/ANIMAL.KINGDOM.png" group-title="DE: 24/7 SERIEN",DE: ANIMAL KINGDOM HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168679.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/ALEXA.AND.KATIE.png" group-title="DE: 24/7 SERIEN",DE: ALEXA & KATIE HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168680.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/BILLIONS.png" group-title="DE: 24/7 SERIEN",DE: BILLIONS HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168681.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/GOMORRA.png" group-title="DE: 24/7 SERIEN",DE: GOMORRA HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168682.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/SUPER.GIRL.png" group-title="DE: 24/7 SERIEN",DE: SUPER GIRL HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168683.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/YELLOW.STONE.png" group-title="DE: 24/7 SERIEN",DE: YELLOW STONE HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168684.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/JERKS.png" group-title="DE: 24/7 SERIEN",DE: JERKS HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168685.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/FARGO.png" group-title="DE: 24/7 SERIEN",DE: FARGO HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168686.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/LA.CASA.DE.PAPEL.png" group-title="DE: 24/7 SERIEN",DE: LA CASA DE PAPEL HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168687.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/HUSTLE.png" group-title="DE: 24/7 SERIEN",DE: HUSTLE HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168688.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/CHARMED.png" group-title="DE: 24/7 SERIEN",DE: CHARMED HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168689.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/BALLERS.png" group-title="DE: 24/7 SERIEN",DE: BALLERS HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168690.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/BLACK.SALIS.png" group-title="DE: 24/7 SERIEN",DE: BLACK SALIS HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168691.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/ARROW.png" group-title="DE: 24/7 SERIEN",DE: ARROW HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168692.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/ATALANTA.MECICAL.png" group-title="DE: 24/7 SERIEN",DE: ATALANTA MEDICAL HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168693.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/MR.ROBOT.png" group-title="DE: 24/7 SERIEN",DE: MR. ROBOT
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168694.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/MERLIN.png" group-title="DE: 24/7 SERIEN",DE: MERLIN HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168695.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/SUCCESSION.png" group-title="DE: 24/7 SERIEN",DE: SUCCESSION HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168696.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/HOMELAND.png" group-title="DE: 24/7 SERIEN",DE: HOMELAND HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168697.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/BRAKING.BAD.png" group-title="DE: 24/7 SERIEN",DE: BRAKING BAD HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168698.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/DAREDEVIL.png" group-title="DE: 24/7 SERIEN",DE: DAREDEVIL HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168699.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/ATYPICAL.png" group-title="DE: 24/7 SERIEN",DE: ATYPICAL HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168700.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/PEAKY.BLINDERS.png" group-title="DE: 24/7 SERIEN",DE: PEAKY BLINDERS HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168701.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/EL.CHAPO.png" group-title="DE: 24/7 SERIEN",DE: EL CHAPO HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168702.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/NARCOS.png" group-title="DE: 24/7 SERIEN",DE: NARCOS HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168703.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/AMERICAN.CRIME.STORY.png" group-title="DE: 24/7 SERIEN",DE: AMERICAN CRIME STORY HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168704.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/BABYLON.BERLIN.png" group-title="DE: 24/7 SERIEN",DE: BABYLON BERLIN HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168705.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/BRITANNIA.png" group-title="DE: 24/7 SERIEN",DE: BRITANNIA HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168706.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/DEUTSCHLAND.png" group-title="DE: 24/7 SERIEN",DE: DEUTSCHLAND HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168707.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/DARK.png" group-title="DE: 24/7 SERIEN",DE: DARK HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168708.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/HANNA.png" group-title="DE: 24/7 SERIEN",DE: HANNA HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168710.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/BLACK.MIRRIOR.png" group-title="DE: 24/7 SERIEN",DE: BLACK MIRRIOR HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168711.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/SERIES/HOUSE.OF.THE.DRAGON.png" group-title="DE: 24/7 SERIEN",DE: HOUSE OF THE DRAGON HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168712.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/uDkFM.png" group-title="DE: 24/7 SERIEN",DE: KARATE KID
 http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/160937.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/uDkFM.png" group-title="DE: 24/7 SERIEN",DE: POLICE ACADEMY
@@ -552,40 +810,8 @@ http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/161051.m3u8
 http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/161052.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="DE: 24/7 SERIEN",DE: YOUNG SHELDON
 http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/161053.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE: 24/7 SERIEN",DE: ProTV Serie Power Book III: Raising Kanan
-http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/164352.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE: 24/7 SERIEN",DE: ProTV Serie Power Book II: Ghost
-http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/164351.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE: 24/7 SERIEN",DE: ProTV Serie Power
-http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/164350.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE: 24/7 SERIEN",DE: ProTV Serie The Big Bang Theory
-http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/164344.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE: 24/7 SERIEN",DE: ProTV Serie Two and a Half Man
-http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/164345.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE: 24/7 SERIEN",DE: ProTV Serie The Rookie
-http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/164346.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE: 24/7 SERIEN",DE: ProTV Serie Suits
-http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/164347.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE: 24/7 SERIEN",DE: ProTV Serie Breaking Bad
-http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/164348.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE: 24/7 SERIEN",DE: ProTV Serie The Clone Wars
-http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/164349.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE: 24/7 SERIEN",DE: SERIEAX Ancient Aliens HD+
 http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/163683.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE: 24/7 SERIEN",DE: ProTV Serie Power Book IV: Force
-http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/166255.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE: 24/7 SERIEN",DE: ProTV Karate
-http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/166256.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE: 24/7 SERIEN",DE: ProTV Abenteuer
-http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/166257.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE: 24/7 SERIEN",DE: ProTV Serie Squid Game
-http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/167442.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE: 24/7 SERIEN",DE: ProTV Serie Game of Thrones
-http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/167443.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE: 24/7 SERIEN",DE: ProTV Serie The Walking Dead
-http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/167444.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE: 24/7 SERIEN",DE: ProTV Serie Prison Break
-http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/167445.m3u8
 
 # --- DE: AMAZON TOP 10 (11) ---
 #EXTINF:-1 tvg-logo="" group-title="DE: AMAZON TOP 10",✶✶✶ DE AMAZON TOP 10 ✶✶✶
@@ -897,7 +1123,7 @@ http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/149182.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE: H.265",DE: RTL 2 HD (H265)
 http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/149183.m3u8
 
-# --- DE: KINO (160) ---
+# --- DE: KINO (257) ---
 #EXTINF:-1 tvg-logo="http://svgicons.o7a.net/official/kino.png" group-title="DE: KINO",✶✶✶ DE KINO ✶✶✶
 http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/10.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE: KINO",DE: Sky Select Programmabersicht
@@ -938,6 +1164,200 @@ http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/147671.m3u8
 http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/147672.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE: KINO",DE: Sky Select 8 HD
 http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/147673.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/KINOWELLE/EROTISCHER.png" group-title="DE: KINO",DE: KinoWelt EROTISCHER HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168769.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/KINOWELLE/DRAMA.png" group-title="DE: KINO",DE: KinoWelt DRAMA HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168770.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/KINOWELLE/KRIEGSFILM.png" group-title="DE: KINO",DE: KinoWelt KRIEGSFILM HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168771.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/KINOWELLE/MYSTERY.png" group-title="DE: KINO",DE: KinoWelt MYSTERY HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168772.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/KINOWELLE/SPORFILM.png" group-title="DE: KINO",DE: KinoWelt SPORFILM HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168773.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/KINOWELLE/FAMILIE.png" group-title="DE: KINO",DE: KinoWelt FAMILIE HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168774.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/KINOWELLE/ABENTEUER.png" group-title="DE: KINO",DE: KinoWelt ABENTEUER HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168775.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/KINOWELLE/ACTION.png" group-title="DE: KINO",DE: KinoWelt ACTION HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168776.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/KINOWELLE/BOLLYWOOD.png" group-title="DE: KINO",DE: KinoWelt BOLLYWOOD HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168777.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/KINOWELLE/CLASSICS.png" group-title="DE: KINO",DE: KinoWelt CLASSICS HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168778.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/KINOWELLE/BIOGRAFIE.png" group-title="DE: KINO",DE: KinoWelt BIOGRAFIE HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168779.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/KINOWELLE/FANTASY.png" group-title="DE: KINO",DE: KinoWelt FANTASY HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168780.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/KINOWELLE/HORROR.png" group-title="DE: KINO",DE: KinoWelt HORROR HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168781.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/KINOWELLE/LIEBESFILM.png" group-title="DE: KINO",DE: KinoWelt LIEBESFILM HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168782.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/KINOWELLE/CINEMA.5.png" group-title="DE: KINO",DE: KinoWelt CINEMA 5 HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168783.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/KINOWELLE/KARATE.png" group-title="DE: KINO",DE: KinoWelt KARATE HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168784.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/KINOWELLE/KOMODIE.png" group-title="DE: KINO",DE: KinoWelt KOMODIE HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168785.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/KINOWELLE/KRIMI.png" group-title="DE: KINO",DE: KinoWelt KRIMI HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168786.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/KINOWELLE/CINEMA.2.png" group-title="DE: KINO",DE: KinoWelt CINEMA 2 HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168787.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/KINOWELLE/CINEMA.3.png" group-title="DE: KINO",DE: KinoWelt CINEMA 3 HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168788.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/KINOWELLE/THRILLER.png" group-title="DE: KINO",DE: KinoWelt THRILLER HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168789.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/KINOWELLE/WEIHNACHTS.png" group-title="DE: KINO",DE: KinoWelt WEIHNACHTS HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168790.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/KINOWELLE/CINEMA.4.png" group-title="DE: KINO",DE: KinoWelt CINEMA 4 HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168791.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/KINOWELLE/CINEMA.6.png" group-title="DE: KINO",DE: KinoWelt CINEMA 6 HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168792.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/KINOWELLE/HISTORY.png" group-title="DE: KINO",DE: KinoWelt HISTORY HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168793.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/KINOWELLE/MUSICFILM.png" group-title="DE: KINO",DE: KinoWelt MUSICFILM HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168794.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/KINOWELLE/SCI-FI.png" group-title="DE: KINO",DE: KinoWelt SCI - FI HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168795.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/KINOWELLE/CINEMA.1.png" group-title="DE: KINO",DE: KinoWelt CINEMA 1 HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168796.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/CINEDEUTSCH/HORROR.png" group-title="DE: KINO",DE: CineDeutsch HORROR HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168797.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/CINEDEUTSCH/BOLLYWOOD.png" group-title="DE: KINO",DE: CineDeutsch BOLLYWOOD HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168798.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/CINEDEUTSCH/ABENTEUER.png" group-title="DE: KINO",DE: CineDeutsch ABENTEUER HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168799.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/CINEDEUTSCH/CLASSICS.png" group-title="DE: KINO",DE: CineDeutsch CLASSICS HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168800.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/CINEDEUTSCH/FANTASY.png" group-title="DE: KINO",DE: CineDeutsch FANTASY HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168801.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/CINEDEUTSCH/ACTION.png" group-title="DE: KINO",DE: CineDeutsch  ACTION HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168802.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/CINEDEUTSCH/DRAMA.png" group-title="DE: KINO",DE: CineDeutsch DRAMA HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168803.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/CINEDEUTSCH/FAMILIE.png" group-title="DE: KINO",DE: CineDeutsch FAMILIE HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168804.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/CINEDEUTSCH/KARATE.png" group-title="DE: KINO",DE: CineDeutsch KARATE HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168805.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/CINEDEUTSCH/LIEBESFILM.png" group-title="DE: KINO",DE: CineDeutsch LIEBESFILM HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168806.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/CINEDEUTSCH/KRIMI.png" group-title="DE: KINO",DE: CineDeutsch KRIMI HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168807.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/CINEDEUTSCH/PREMIUM.1.png" group-title="DE: KINO",DE: CineDeutsch PREMIUM 1 HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168808.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/CINEDEUTSCH/EROTISCHER.png" group-title="DE: KINO",DE: CineDeutsch EROTISCHER HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168809.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/CINEDEUTSCH/KOMODIE.png" group-title="DE: KINO",DE: CineDeutsch KOMODIE HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168810.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/CINEDEUTSCH/PREMIUM.2.png" group-title="DE: KINO",DE: CineDeutsch PREMIUM 2 HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168811.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/CINEDEUTSCH/PREMIUM.3.png" group-title="DE: KINO",DE: CineDeutsch PREMIUM 3 HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168812.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/CINEDEUTSCH/PREMIUM.4.png" group-title="DE: KINO",DE: CineDeutsch PREMIUM 4 HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168813.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/CINEDEUTSCH/PREMIUM.5.png" group-title="DE: KINO",DE: CineDeutsch PREMIUM 5 HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168814.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/CINEDEUTSCH/PREMIUM.6.png" group-title="DE: KINO",DE: CineDeutsch PREMIUM 6 HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168815.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/CINEDEUTSCH/SCI-FI.png" group-title="DE: KINO",DE: CineDeutsch SCI - FI HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168816.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/CINEDEUTSCH/THRILLER.png" group-title="DE: KINO",DE: CineDeutsch THRILLER HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168817.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/CINEDEUTSCH/MYSTERY.png" group-title="DE: KINO",DE: CineDeutsch MYSTERY HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168818.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/CINEDEUTSCH/SPORFILM.png" group-title="DE: KINO",DE: CineDeutsch SPORFILM HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168819.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/CINEDEUTSCH/KRIEGSFILM.png" group-title="DE: KINO",DE: CineDeutsch KRIEGSFILM HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168820.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/CINEDEUTSCH/WEIHNACHTS.png" group-title="DE: KINO",DE: CineDeutsch WEIHNACHTS HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168821.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/CINEDEUTSCH/BIOGRAFIE.png" group-title="DE: KINO",DE: CineDeutsch BIOGRAFIE HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168822.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/CINEDEUTSCH/HISTORY.png" group-title="DE: KINO",DE: CineDeutsch HISTORY HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168823.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/CINEDEUTSCH/MUSICFILM.png" group-title="DE: KINO",DE: CineDeutsch MUSICFILM HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168824.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/DASKINO/ABENTEUER.png" group-title="DE: KINO",DE: DasKino ABENTEUER HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168825.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/DASKINO/ACTION.png" group-title="DE: KINO",DE: DasKino ACTION HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168826.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/DASKINO/BOLLYWOOD.png" group-title="DE: KINO",DE: DasKino BOLLYWOOD HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168827.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/DASKINO/CLASSICS.png" group-title="DE: KINO",DE: DasKino CLASSICS HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168828.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/DASKINO/DRAMA.png" group-title="DE: KINO",DE: DasKino DRAMA HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168829.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/DASKINO/FAMILIE.png" group-title="DE: KINO",DE: DasKino FAMILIE HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168830.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/DASKINO/FANTASY.png" group-title="DE: KINO",DE: DasKino FANTASY HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168831.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/DASKINO/HISTORY.png" group-title="DE: KINO",DE: DasKino HISTORY HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168832.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/DASKINO/HORROR.png" group-title="DE: KINO",DE: DasKino HORROR HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168833.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/DASKINO/KARATE.png" group-title="DE: KINO",DE: DasKino KARATE HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168834.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/DASKINO/KOMODIE.png" group-title="DE: KINO",DE: DasKino KOMODIE HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168835.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/DASKINO/KRIMI.png" group-title="DE: KINO",DE: DasKino KRIMI HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168836.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/DASKINO/LIEBESFILM.png" group-title="DE: KINO",DE: DasKino LIEBESFILM HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168837.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/DASKINO/MUSICFILM.png" group-title="DE: KINO",DE: DasKino MUSICFILM HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168838.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/DASKINO/SCI-FI.png" group-title="DE: KINO",DE: DasKino SCI - FI HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168839.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/DASKINO/THRILLER.png" group-title="DE: KINO",DE: DasKino THRILLER HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168840.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/DASKINO/WEIHNACHTS.png" group-title="DE: KINO",DE: DasKino WEIHNACHTS HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168841.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/DASKINO/PREMIEREN.1.png" group-title="DE: KINO",DE: DasKino PREMIEREN 1 HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168842.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/DASKINO/PREMIEREN.2.png" group-title="DE: KINO",DE: DasKino PREMIEREN 2 HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168843.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/DASKINO/PREMIEREN.3.png" group-title="DE: KINO",DE: DasKino PREMIEREN 3 HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168844.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/DASKINO/PREMIEREN.4.png" group-title="DE: KINO",DE: DasKino PREMIEREN 4 HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168845.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/DASKINO/PREMIEREN.5.png" group-title="DE: KINO",DE: DasKino PREMIEREN 5 HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168846.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/DASKINO/PREMIEREN.6.png" group-title="DE: KINO",DE: DasKino PREMIEREN 6 HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168847.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/NETFLIX/ABENTEUER.png" group-title="DE: KINO",DE: Netflix ABENTEUER HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168848.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/NETFLIX/ACTION.png" group-title="DE: KINO",DE: Netflix ACTION HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168849.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/NETFLIX/ANIMATION.png" group-title="DE: KINO",DE: Netflix ANIMATION HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168850.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/NETFLIX/KRIMI.png" group-title="DE: KINO",DE: Netflix KRIMI HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168851.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/NETFLIX/DOKU.png" group-title="DE: KINO",DE: Netflix DOKU HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168852.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/NETFLIX/DRAMA.png" group-title="DE: KINO",DE: Netflix DRAMA HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168853.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/NETFLIX/FAMILIE.png" group-title="DE: KINO",DE: Netflix FAMILIE HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168854.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/NETFLIX/HORROR.png" group-title="DE: KINO",DE: Netflix HORROR HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168855.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/NETFLIX/KOMODIE.png" group-title="DE: KINO",DE: Netflix KOMIE HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168856.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/NETFLIX/LIEBESFILM.png" group-title="DE: KINO",DE: Netflix LIEBESFILM HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168857.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/NETFLIX/SCI-FI.png" group-title="DE: KINO",DE: Netflix SCI-FI HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168858.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/NETFLIX/THRILLER.png" group-title="DE: KINO",DE: Netflix THRILLER HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168859.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/NETFLIX/WEIHNACHTSFILM.png" group-title="DE: KINO",DE: Netflix WEIHNACHTSFILM HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168860.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/NETFLIX/CINEMA.1.png" group-title="DE: KINO",DE: Netflix CINEMA 1 HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168861.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/NETFLIX/CINEMA.2.png" group-title="DE: KINO",DE: Netflix CINEMA 2 HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168862.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/NETFLIX/CINEMA.3.png" group-title="DE: KINO",DE: Netflix CINEMA 3 HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168863.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/NETFLIX/CINEMA.4.png" group-title="DE: KINO",DE: Netflix CINEMA 4 HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168864.m3u8
+#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/01.DE/NETFLIX/CINEMA.5.png" group-title="DE: KINO",DE: Netflix CINEMA 5 HD
+http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/168865.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE: KINO",DE: MAX KINO COLLECTION
 http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/156504.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE: KINO",DE: MAX KINO
@@ -4207,4 +4627,4 @@ http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/112029.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TR: YEREL",TR: TV 52 ᴴᴰ
 http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/112030.m3u8
 
-# Total: 2062
+# Total: 2272

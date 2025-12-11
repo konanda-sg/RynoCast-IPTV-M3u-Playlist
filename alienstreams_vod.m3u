@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alienstreams.fi:8080
-# Generated: 2025-12-10 18:32:28
+# Generated: 2025-12-11 07:04:21
 # Expires: 2025-12-26
 # Family Safe Edition
 # ==============================================
@@ -43,7 +43,7 @@ http://alienstreams.fi:8080/movie/nicknick/nicknick/382977.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iPPTGh2OXuIv6d7cwuoPkw8govp.jpg" group-title="Movies | 4K [VOD]",A Minecraft Movie
 http://alienstreams.fi:8080/movie/nicknick/nicknick/398367.mkv
 
-# --- Movies | Action [VOD] (933) ---
+# --- Movies | Action [VOD] (935) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Nl6GQZCjr2Ln5gkYzFXRIvWEdH.jpg" group-title="Movies | Action [VOD]",Doom
 http://alienstreams.fi:8080/movie/nicknick/nicknick/328061.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hdBUjfbdr1ymS0kycAT7qguOmWA.jpg" group-title="Movies | Action [VOD]",One Fast Move
@@ -1910,6 +1910,10 @@ http://alienstreams.fi:8080/movie/nicknick/nicknick/489504.mkv
 http://alienstreams.fi:8080/movie/nicknick/nicknick/489639.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg" group-title="Movies | Action [VOD]",Hunting Season
 http://alienstreams.fi:8080/movie/nicknick/nicknick/489724.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/2dI1Z427FPoicySnXmzwlEUX0RX.jpg" group-title="Movies | Action [VOD]",Smokey and the Bandit (1977)
+http://alienstreams.fi:8080/movie/nicknick/nicknick/489798.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/cYNZM1xdhOH6NybMcX9E1LPOl3l.jpg" group-title="Movies | Action [VOD]",Smokey and the Bandit II (1980)
+http://alienstreams.fi:8080/movie/nicknick/nicknick/489807.mkv
 
 # --- Movies | Adventure [VOD] (269) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZ1ft0QZ4e3zDUPMBftEkwI9ftd.jpg" group-title="Movies | Adventure [VOD]",Pocahontas
@@ -3061,7 +3065,7 @@ http://alienstreams.fi:8080/movie/nicknick/nicknick/366834.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/yake2myhbW7c6dKbmwYDy1i40bm.jpg" group-title="Movies | Christmas Horror [VOD]",The Lodge
 http://alienstreams.fi:8080/movie/nicknick/nicknick/366835.mkv
 
-# --- Movies | Comedy [VOD] (925) ---
+# --- Movies | Comedy [VOD] (921) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iLkefl9aLo29ALVBbViRVyLo3WF.jpg" group-title="Movies | Comedy [VOD]",The Good Half
 http://alienstreams.fi:8080/movie/nicknick/nicknick/328089.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/irEqWPmDqCuzsItzefFxX3xWpL8.jpg" group-title="Movies | Comedy [VOD]",My Big Fat Greek Wedding 3
@@ -3316,8 +3320,6 @@ http://alienstreams.fi:8080/movie/nicknick/nicknick/335563.mkv
 http://alienstreams.fi:8080/movie/nicknick/nicknick/335590.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4gRdMt4EPViLZjP1J4Act3vwyh.jpg" group-title="Movies | Comedy [VOD]",Cupid's Balls
 http://alienstreams.fi:8080/movie/nicknick/nicknick/335524.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6uOadrCfle0n2LOOxHbgWEdnrm2.jpg" group-title="Movies | Comedy [VOD]",Home Alone 3
-http://alienstreams.fi:8080/movie/nicknick/nicknick/335624.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qKkaG7HVFVe7C1JuxTGwNz0eSyL.jpg" group-title="Movies | Comedy [VOD]",Am I OK?
 http://alienstreams.fi:8080/movie/nicknick/nicknick/335587.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iFQrK0NHA4OMAvzyJVW4DA0kAFz.jpg" group-title="Movies | Comedy [VOD]",The Women
@@ -3366,8 +3368,6 @@ http://alienstreams.fi:8080/movie/nicknick/nicknick/335674.mkv
 http://alienstreams.fi:8080/movie/nicknick/nicknick/335706.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5EpIjplAtUiFyjR6C2gYN6xPiCP.jpg" group-title="Movies | Comedy [VOD]",Wild Wild Punjab
 http://alienstreams.fi:8080/movie/nicknick/nicknick/335692.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg" group-title="Movies | Comedy [VOD]",Home Alone
-http://alienstreams.fi:8080/movie/nicknick/nicknick/335717.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ekKCH7Zkb5ZTr1f1AczZY23FH.jpg" group-title="Movies | Comedy [VOD]",Be Cool
 http://alienstreams.fi:8080/movie/nicknick/nicknick/335713.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7jRrTQInT31hO81ATDuL3TNDOE9.jpg" group-title="Movies | Comedy [VOD]",Friday Night Plan
@@ -3492,8 +3492,6 @@ http://alienstreams.fi:8080/movie/nicknick/nicknick/337218.mkv
 http://alienstreams.fi:8080/movie/nicknick/nicknick/337275.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Pm0hYthiHVmTO4MCuP4mWfrJIa.jpg" group-title="Movies | Comedy [VOD]",Lisa Frankenstein
 http://alienstreams.fi:8080/movie/nicknick/nicknick/337228.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg" group-title="Movies | Comedy [VOD]",Home Alone 2: Lost in New York
-http://alienstreams.fi:8080/movie/nicknick/nicknick/337210.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg" group-title="Movies | Comedy [VOD]",Barbie
 http://alienstreams.fi:8080/movie/nicknick/nicknick/337229.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b6gnKDl7iMbW0LqrruhrzVArgVB.jpg" group-title="Movies | Comedy [VOD]",The Supremes at Earl's All-You-Can-Eat
@@ -4422,10 +4420,10 @@ http://alienstreams.fi:8080/movie/nicknick/nicknick/403119.mkv
 http://alienstreams.fi:8080/movie/nicknick/nicknick/443540.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/h8PafIg6XlvgR9NO6njX8i3PkqT.jpg" group-title="Movies | Comedy [VOD]",Demetri Martin: The Overthinker (2018)
 http://alienstreams.fi:8080/movie/nicknick/nicknick/443538.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/n8V61f1v7idya4WJzGEJNoIp9iL.jpg" group-title="Movies | Comedy [VOD]",Austin Powers in Goldmember (2002)
-http://alienstreams.fi:8080/movie/nicknick/nicknick/443523.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/hQKM2cefRD80N21NMFeztk3PnAk.jpg" group-title="Movies | Comedy [VOD]",The Sheriff and the Satellite Kid
 http://alienstreams.fi:8080/movie/nicknick/nicknick/443522.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/n8V61f1v7idya4WJzGEJNoIp9iL.jpg" group-title="Movies | Comedy [VOD]",Austin Powers in Goldmember (2002)
+http://alienstreams.fi:8080/movie/nicknick/nicknick/443523.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/14TmEac4bquNaEld9t0uIliYoKE.jpg" group-title="Movies | Comedy [VOD]",Half Baked (1998)
 http://alienstreams.fi:8080/movie/nicknick/nicknick/443517.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/pjKvQrVpekshVM6DUDOt3ImhAVH.jpg" group-title="Movies | Comedy [VOD]",Ali G Indahouse (2002)
@@ -4626,8 +4624,6 @@ http://alienstreams.fi:8080/movie/nicknick/nicknick/444264.mkv
 http://alienstreams.fi:8080/movie/nicknick/nicknick/444266.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/nWBPLkqNApY5pgrJFMiI9joSI30.jpg" group-title="Movies | Comedy [VOD]",Coming 2 America (2021)
 http://alienstreams.fi:8080/movie/nicknick/nicknick/444278.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/i5We88HdO9Nsrv8xLyo4toNsLUM.jpg" group-title="Movies | Comedy [VOD]",Home Alone (1990)
-http://alienstreams.fi:8080/movie/nicknick/nicknick/444052.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/7oZ5xE4AL4D5EbeQUaoRxahgzJX.jpg" group-title="Movies | Comedy [VOD]",A Night at the Roxbury (1998)
 http://alienstreams.fi:8080/movie/nicknick/nicknick/444048.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/8LlqOgKKU0BeZzEo1PMMIjtLuj4.jpg" group-title="Movies | Comedy [VOD]",Asterix vs. Caesar (1985)
@@ -4654,8 +4650,6 @@ http://alienstreams.fi:8080/movie/nicknick/nicknick/443992.mkv
 http://alienstreams.fi:8080/movie/nicknick/nicknick/443988.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/5MOOL38IZTylA7K04FvJ4PaklaI.jpg" group-title="Movies | Comedy [VOD]",The Miracle Club (2023)
 http://alienstreams.fi:8080/movie/nicknick/nicknick/443987.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/6uOadrCfle0n2LOOxHbgWEdnrm2.jpg" group-title="Movies | Comedy [VOD]",Home Alone 3 (1997)
-http://alienstreams.fi:8080/movie/nicknick/nicknick/443977.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/msG9awbLhVZwv1Eh9Ge7SofMexW.jpg" group-title="Movies | Comedy [VOD]",Dazed and Confused (1993)
 http://alienstreams.fi:8080/movie/nicknick/nicknick/443976.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/eLOUXzd5C7r04rov55maE6e9yrX.jpg" group-title="Movies | Comedy [VOD]",Bromates (2022)
@@ -4912,6 +4906,8 @@ http://alienstreams.fi:8080/movie/nicknick/nicknick/489356.mkv
 http://alienstreams.fi:8080/movie/nicknick/nicknick/489360.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/eBJEvKkhQ0tUt1dBAcTEYW6kCle.jpg" group-title="Movies | Comedy [VOD]",Beverly Hills Cop
 http://alienstreams.fi:8080/movie/nicknick/nicknick/489461.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/9yfwLB2BBBG5YSuJXtSRTaT8poS.jpg" group-title="Movies | Comedy [VOD]",Merv (2025)
+http://alienstreams.fi:8080/movie/nicknick/nicknick/489794.mkv
 
 # --- Movies | Crime [VOD] (242) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6A4WdvbWHJoIN4Y9Q5HXG8R1VYV.jpg" group-title="Movies | Crime [VOD]",Crossing Over
@@ -8041,7 +8037,7 @@ http://alienstreams.fi:8080/movie/nicknick/nicknick/377647.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1trQY5Q02a8N4ClCqmTMjRSgHFg.jpg" group-title="Movies | Falk  [VOD]",Johan Falk 13: Ur askan i elden
 http://alienstreams.fi:8080/movie/nicknick/nicknick/386471.mkv
 
-# --- Movies | Family [VOD] (143) ---
+# --- Movies | Family [VOD] (142) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWR1x6UCMCGN9xEf8RGhPS934X0.jpg" group-title="Movies | Family [VOD]",The Lion King II: Simba's Pride
 http://alienstreams.fi:8080/movie/nicknick/nicknick/328472.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h4FTjH1Mumr9jhHraeWwuaWme8E.jpg" group-title="Movies | Family [VOD]",Alla vi barn i Bullerbyn
@@ -8258,8 +8254,6 @@ http://alienstreams.fi:8080/movie/nicknick/nicknick/443543.mkv
 http://alienstreams.fi:8080/movie/nicknick/nicknick/443676.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/gdQml1N2kysb1wKAGqTu3ZuQADW.jpg" group-title="Movies | Family [VOD]",David and the Elves (2021)
 http://alienstreams.fi:8080/movie/nicknick/nicknick/443736.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/fP3VvqUjEBjawxZHL4sYCq2ZdJD.jpg" group-title="Movies | Family [VOD]",Home Sweet Home Alone (2021)
-http://alienstreams.fi:8080/movie/nicknick/nicknick/443734.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/Ah3J9OJVc2CNCuH2zMydXy9fmIC.jpg" group-title="Movies | Family [VOD]",A Bug's Life (1998)
 http://alienstreams.fi:8080/movie/nicknick/nicknick/443727.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/sJ4zNakOuWcsW6ssH1qk80JehQ2.jpg" group-title="Movies | Family [VOD]",Asterix & Obelix Take on Caesar (1999)
@@ -9559,7 +9553,13 @@ http://alienstreams.fi:8080/movie/nicknick/nicknick/335469.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3KfbxvqaiAvRJ6MpguA3GuLdDQ.jpg" group-title="Movies | James Bond [VOD]",On Her Majesty's Secret Service
 http://alienstreams.fi:8080/movie/nicknick/nicknick/383237.mkv
 
-# --- Movies | Julfilmer [VOD] (150) ---
+# --- Movies | Julfilmer [VOD] (159) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6uOadrCfle0n2LOOxHbgWEdnrm2.jpg" group-title="Movies | Julfilmer [VOD]",Home Alone 3
+http://alienstreams.fi:8080/movie/nicknick/nicknick/335624.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg" group-title="Movies | Julfilmer [VOD]",Home Alone
+http://alienstreams.fi:8080/movie/nicknick/nicknick/335717.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg" group-title="Movies | Julfilmer [VOD]",Home Alone 2: Lost in New York
+http://alienstreams.fi:8080/movie/nicknick/nicknick/337210.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/HBCqJIBogtq3u1uyCJyo2as8ic.jpg" group-title="Movies | Julfilmer [VOD]",A New York Christmas Wedding
 http://alienstreams.fi:8080/movie/nicknick/nicknick/350096.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b5jDEuUCrWJ9vQyKLMJyuv5mFeB.jpg" group-title="Movies | Julfilmer [VOD]",Christmas Perfection
@@ -9766,6 +9766,8 @@ http://alienstreams.fi:8080/movie/nicknick/nicknick/399006.mkv
 http://alienstreams.fi:8080/movie/nicknick/nicknick/399005.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/1sRejtiHOZGggZd9RcmdqbapLM5.jpg" group-title="Movies | Julfilmer [VOD]",A Boy Called Christmas (2021)
 http://alienstreams.fi:8080/movie/nicknick/nicknick/434381.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/k4kOxAqbDftvEZ7k1lYCApJB4al.jpg" group-title="Movies | Julfilmer [VOD]",Reisen til julestjernen (2012)
+http://alienstreams.fi:8080/movie/nicknick/nicknick/434376.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/gxzNvCMMXCyb9u6eQZ9l8sUodjU.jpg" group-title="Movies | Julfilmer [VOD]",Christmas She Wrote (2020)
 http://alienstreams.fi:8080/movie/nicknick/nicknick/434378.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/8JmaKH9dqO1y1hvY617W1pVavnG.jpg" group-title="Movies | Julfilmer [VOD]",Christmas in Pine Valley (2022)
@@ -9854,12 +9856,22 @@ http://alienstreams.fi:8080/movie/nicknick/nicknick/434506.mkv
 http://alienstreams.fi:8080/movie/nicknick/nicknick/434505.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/zNp1gPczg56bfzrwkZhhe6uf30U.jpg" group-title="Movies | Julfilmer [VOD]",A Furry Little Christmas (2021)
 http://alienstreams.fi:8080/movie/nicknick/nicknick/434504.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/fP3VvqUjEBjawxZHL4sYCq2ZdJD.jpg" group-title="Movies | Julfilmer [VOD]",Home Sweet Home Alone (2021)
+http://alienstreams.fi:8080/movie/nicknick/nicknick/443734.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/i5We88HdO9Nsrv8xLyo4toNsLUM.jpg" group-title="Movies | Julfilmer [VOD]",Home Alone (1990)
+http://alienstreams.fi:8080/movie/nicknick/nicknick/444052.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/6uOadrCfle0n2LOOxHbgWEdnrm2.jpg" group-title="Movies | Julfilmer [VOD]",Home Alone 3 (1997)
+http://alienstreams.fi:8080/movie/nicknick/nicknick/443977.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/1oqqPncrRREzk5D63YUL9CLbqVf.jpg" group-title="Movies | Julfilmer [VOD]",A Christmas Carousel (2020)
 http://alienstreams.fi:8080/movie/nicknick/nicknick/488688.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/tdSyQJe7vEDcH9kEVqzVcr0O9lS.jpg" group-title="Movies | Julfilmer [VOD]",Jack Frost (1998)
 http://alienstreams.fi:8080/movie/nicknick/nicknick/488918.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/qynCyBKCJUUcj4wo4PE2aQVvote.jpg" group-title="Movies | Julfilmer [VOD]",Oh. What. Fun. (2025)
 http://alienstreams.fi:8080/movie/nicknick/nicknick/488998.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/24G46pFg8o8IaPPvjlerRmaf0f3.jpg" group-title="Movies | Julfilmer [VOD]",Snekker Andersen og Julenissen (2016)
+http://alienstreams.fi:8080/movie/nicknick/nicknick/489797.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/nHHrZkTVFGveqxIFeTY6yWnQ1iT.jpg" group-title="Movies | Julfilmer [VOD]",Snekker Andersen og Julenissen - Den vesle bygda som glømte at det var jul (2019)
+http://alienstreams.fi:8080/movie/nicknick/nicknick/489808.mkv
 
 # --- Movies | Kids [VOD] (226) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/olOdJplnhgCdaStB0qXJyONRp0q.jpg" group-title="Movies | Kids [VOD]",Rabbit Academy
@@ -10802,8 +10814,6 @@ http://alienstreams.fi:8080/movie/nicknick/nicknick/399725.mkv
 http://alienstreams.fi:8080/movie/nicknick/nicknick/402004.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/g7akKOuep6QaaFEKahvUoaoAm31.jpg" group-title="Movies | Norwegian [VOD]",I Am Andrew Tate (2024)
 http://alienstreams.fi:8080/movie/nicknick/nicknick/434379.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/k4kOxAqbDftvEZ7k1lYCApJB4al.jpg" group-title="Movies | Norwegian [VOD]",Reisen til julestjernen (2012)
-http://alienstreams.fi:8080/movie/nicknick/nicknick/434376.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/tyv3iU87q5IdTAUVLWJeILJ4Cyf.jpg" group-title="Movies | Norwegian [VOD]",Troll (2022)
 http://alienstreams.fi:8080/movie/nicknick/nicknick/434374.mkv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KTeRKBI.png" group-title="Movies | Norwegian [VOD]",HVOR BLIR DET AV PENGA?
@@ -10832,6 +10842,8 @@ http://alienstreams.fi:8080/movie/nicknick/nicknick/488513.mkv
 http://alienstreams.fi:8080/movie/nicknick/nicknick/488564.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/gU4mmINWUF294Wzi8mqRvi6peMe.jpg" group-title="Movies | Norwegian [VOD]",Kampen om Narvik (2022)
 http://alienstreams.fi:8080/movie/nicknick/nicknick/488999.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/plyEn5uDNXXDYihF8Z7YOe2PVKE.jpg" group-title="Movies | Norwegian [VOD]",Troll 2 (2025)
+http://alienstreams.fi:8080/movie/nicknick/nicknick/489799.mkv
 
 # --- Movies | Romance (VOD) (148) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6214Uk9CZZcIibI84o5DEtbhfyk.jpg" group-title="Movies | Romance (VOD)",Beautiful Wedding
@@ -11273,7 +11285,7 @@ http://alienstreams.fi:8080/movie/nicknick/nicknick/489359.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/mZcwX1aN2RdCLwamxdkoINIhVAm.jpg" group-title="Movies | Romantic [VOD]",Two Worlds One Wish
 http://alienstreams.fi:8080/movie/nicknick/nicknick/489502.mkv
 
-# --- Movies | Sci-Fi & Fantasy [VOD] (294) ---
+# --- Movies | Sci-Fi & Fantasy [VOD] (296) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g3FXNYaCDFoQILCbYqFdv6V01ep.jpg" group-title="Movies | Sci-Fi & Fantasy [VOD]",Wishmaster 2: Evil Never Dies
 http://alienstreams.fi:8080/movie/nicknick/nicknick/328059.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZVEUPychdvZLrTNwWErr9xZFmu.jpg" group-title="Movies | Sci-Fi & Fantasy [VOD]",The Watchers
@@ -11862,6 +11874,10 @@ http://alienstreams.fi:8080/movie/nicknick/nicknick/488919.mkv
 http://alienstreams.fi:8080/movie/nicknick/nicknick/489002.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg" group-title="Movies | Sci-Fi & Fantasy [VOD]",Bugonia (2025)
 http://alienstreams.fi:8080/movie/nicknick/nicknick/489001.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/lYfRc57Kx9VgLZ48iulu0HKnM15.jpg" group-title="Movies | Sci-Fi & Fantasy [VOD]",Who Framed Roger Rabbit (1988)
+http://alienstreams.fi:8080/movie/nicknick/nicknick/489776.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/7fR3KxswtY8OHHZuOUB9td58CRX.jpg" group-title="Movies | Sci-Fi & Fantasy [VOD]",Survive (2024)
+http://alienstreams.fi:8080/movie/nicknick/nicknick/489796.mkv
 
 # --- Movies | Swedish [VOD] (118) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qrDx7n1BVsVI81kcO0Av8vVplz.jpg" group-title="Movies | Swedish [VOD]",Jönssonligan spelar högt
@@ -12101,7 +12117,7 @@ http://alienstreams.fi:8080/movie/nicknick/nicknick/486864.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/fmDpiLprSESeOW8oZmshgfyqdGL.jpg" group-title="Movies | Swedish [VOD]",Jägarna
 http://alienstreams.fi:8080/movie/nicknick/nicknick/486863.mkv
 
-# --- Movies | Thriller [VOD] (323) ---
+# --- Movies | Thriller [VOD] (324) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQaOymRoRpNBFOaFRnoxXj6dwJv.jpg" group-title="Movies | Thriller [VOD]",Wishmaster 3: Beyond the Gates of Hell
 http://alienstreams.fi:8080/movie/nicknick/nicknick/328058.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmh1likQEetSLIUs5MAvfWjEayY.jpg" group-title="Movies | Thriller [VOD]",Motherly
@@ -12748,6 +12764,8 @@ http://alienstreams.fi:8080/movie/nicknick/nicknick/489357.mkv
 http://alienstreams.fi:8080/movie/nicknick/nicknick/489638.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/oR3tbNzJMJmCKS5O5fanU9yxIOk.jpg" group-title="Movies | Thriller [VOD]",Who Am I
 http://alienstreams.fi:8080/movie/nicknick/nicknick/489641.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/a5b53cYM23bUA7OyoNyDtIJ38kc.jpg" group-title="Movies | Thriller [VOD]",Guilty as Sin (1993)
+http://alienstreams.fi:8080/movie/nicknick/nicknick/489795.mkv
 
 # --- Movies | UFC [FIGHTS] [VOD] (58) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g3PouuzBuE8Xj1mnbKDedhhFCmq.jpg" group-title="Movies | UFC [FIGHTS] [VOD]",UFC Fight Night 230: Yusuff vs. Barboza
@@ -13155,7 +13173,9 @@ http://alienstreams.fi:8080/movie/nicknick/nicknick/488704.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/2nkPrhf4YIyMFelfe4zdOnGRYz5.jpg" group-title="Movies | War [VOD]",Flags of Our Fathers (2006)
 http://alienstreams.fi:8080/movie/nicknick/nicknick/488921.mkv
 
-# --- Series | Action & Adventure [Series] (102) ---
+# --- Series | Action & Adventure [Series] (103) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Action & Adventure [Series]",Percy Jackson and the Olympians
+http://alienstreams.fi:8080/series/nicknick/nicknick/489777
 #EXTINF:-1 tvg-logo="" group-title="Series | Action & Adventure [Series]",NCIS: Tony & Ziva
 http://alienstreams.fi:8080/series/nicknick/nicknick/485993
 #EXTINF:-1 tvg-logo="" group-title="Series | Action & Adventure [Series]",The Last Ship
@@ -13464,14 +13484,14 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/404821
 http://alienstreams.fi:8080/series/nicknick/nicknick/404842
 #EXTINF:-1 tvg-logo="" group-title="Series | Anime [Series]",Devil May Cry
 http://alienstreams.fi:8080/series/nicknick/nicknick/404903
-#EXTINF:-1 tvg-logo="" group-title="Series | Anime [Series]",Lazarus
-http://alienstreams.fi:8080/series/nicknick/nicknick/404928
 #EXTINF:-1 tvg-logo="" group-title="Series | Anime [Series]",Bob's Burgers
 http://alienstreams.fi:8080/series/nicknick/nicknick/405015
 #EXTINF:-1 tvg-logo="" group-title="Series | Anime [Series]",Love, Death & Robots
 http://alienstreams.fi:8080/series/nicknick/nicknick/405082
 #EXTINF:-1 tvg-logo="" group-title="Series | Anime [Series]",The Summer Hikaru Died
 http://alienstreams.fi:8080/series/nicknick/nicknick/405256
+#EXTINF:-1 tvg-logo="" group-title="Series | Anime [Series]",Lazarus
+http://alienstreams.fi:8080/series/nicknick/nicknick/404928
 #EXTINF:-1 tvg-logo="" group-title="Series | Anime [Series]",Cat Bites Mouse
 http://alienstreams.fi:8080/series/nicknick/nicknick/403335
 #EXTINF:-1 tvg-logo="" group-title="Series | Anime [Series]",Star Wars: Young Jedi Adventures
@@ -13752,6 +13772,8 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/404888
 http://alienstreams.fi:8080/series/nicknick/nicknick/404890
 #EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Mom
 http://alienstreams.fi:8080/series/nicknick/nicknick/404905
+#EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",North of North
+http://alienstreams.fi:8080/series/nicknick/nicknick/404927
 #EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Hacks
 http://alienstreams.fi:8080/series/nicknick/nicknick/404938
 #EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Project UFO
@@ -13818,8 +13840,6 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/405255
 http://alienstreams.fi:8080/series/nicknick/nicknick/405262
 #EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Reframed: Next Gen Narratives
 http://alienstreams.fi:8080/series/nicknick/nicknick/405281
-#EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",North of North
-http://alienstreams.fi:8080/series/nicknick/nicknick/404927
 #EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Second Thoughts
 http://alienstreams.fi:8080/series/nicknick/nicknick/403239
 #EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",The Best Laid Plans
@@ -15008,10 +15028,12 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/404011
 http://alienstreams.fi:8080/series/nicknick/nicknick/404016
 
 # --- Series | Drama [Series] (586) ---
-#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Spartacus: House of Ashur
-http://alienstreams.fi:8080/series/nicknick/nicknick/489348
+#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Down Cemetery Road
+http://alienstreams.fi:8080/series/nicknick/nicknick/486407
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",All's Fair
 http://alienstreams.fi:8080/series/nicknick/nicknick/486800
+#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Spartacus: House of Ashur
+http://alienstreams.fi:8080/series/nicknick/nicknick/489348
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Outlander: Blood of My Blood
 http://alienstreams.fi:8080/series/nicknick/nicknick/486905
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Pluribus
@@ -15026,8 +15048,6 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/486531
 http://alienstreams.fi:8080/series/nicknick/nicknick/487163
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Malice
 http://alienstreams.fi:8080/series/nicknick/nicknick/488963
-#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Down Cemetery Road
-http://alienstreams.fi:8080/series/nicknick/nicknick/486407
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Playing Gracie Darling
 http://alienstreams.fi:8080/series/nicknick/nicknick/488914
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Mayfair Witches
@@ -16268,8 +16288,6 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/415217
 http://alienstreams.fi:8080/series/nicknick/nicknick/414751
 #EXTINF:-1 tvg-logo="" group-title="Series | Kids [Series]",Pokémon: The Arceus Chronicles
 http://alienstreams.fi:8080/series/nicknick/nicknick/414778
-#EXTINF:-1 tvg-logo="" group-title="Series | Kids [Series]",Madagascar: A Little Wild
-http://alienstreams.fi:8080/series/nicknick/nicknick/404026
 #EXTINF:-1 tvg-logo="" group-title="Series | Kids [Series]",Not Quite Narwhal
 http://alienstreams.fi:8080/series/nicknick/nicknick/404055
 #EXTINF:-1 tvg-logo="" group-title="Series | Kids [Series]",Victor and Valentino
@@ -16444,6 +16462,8 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/403953
 http://alienstreams.fi:8080/series/nicknick/nicknick/403977
 #EXTINF:-1 tvg-logo="" group-title="Series | Kids [Series]",Barbie Mysteries: The Great Horse Chase
 http://alienstreams.fi:8080/series/nicknick/nicknick/403997
+#EXTINF:-1 tvg-logo="" group-title="Series | Kids [Series]",Madagascar: A Little Wild
+http://alienstreams.fi:8080/series/nicknick/nicknick/404026
 
 # --- Series | Mystery [Series] (63) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Mystery [Series]",IT: Welcome to Derry
@@ -16574,6 +16594,16 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/403916
 http://alienstreams.fi:8080/series/nicknick/nicknick/403996
 
 # --- Series | Norska Serier [Series] (278) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Tiltalt
+http://alienstreams.fi:8080/series/nicknick/nicknick/488126
+#EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Kompani Lauritzen: Tropp
+http://alienstreams.fi:8080/series/nicknick/nicknick/486320
+#EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Jul Med Charterfeber
+http://alienstreams.fi:8080/series/nicknick/nicknick/487838
+#EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Åsted Norge
+http://alienstreams.fi:8080/series/nicknick/nicknick/481989
+#EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Spillet
+http://alienstreams.fi:8080/series/nicknick/nicknick/481646
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Rampenissen
 http://alienstreams.fi:8080/series/nicknick/nicknick/488867
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Nissene i Skjul
@@ -16584,18 +16614,8 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/486319
 http://alienstreams.fi:8080/series/nicknick/nicknick/489007
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Petter og Familien - Dit Ingen Drar
 http://alienstreams.fi:8080/series/nicknick/nicknick/489004
-#EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Kompani Lauritzen: Tropp
-http://alienstreams.fi:8080/series/nicknick/nicknick/486320
-#EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Tiltalt
-http://alienstreams.fi:8080/series/nicknick/nicknick/488126
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Smak & Ubehag
 http://alienstreams.fi:8080/series/nicknick/nicknick/484478
-#EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Åsted Norge
-http://alienstreams.fi:8080/series/nicknick/nicknick/481989
-#EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Spillet
-http://alienstreams.fi:8080/series/nicknick/nicknick/481646
-#EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Jul Med Charterfeber
-http://alienstreams.fi:8080/series/nicknick/nicknick/487838
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Tonight Med Timothy Dahle
 http://alienstreams.fi:8080/series/nicknick/nicknick/488915
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Magnus
@@ -17131,7 +17151,11 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/403989
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Matkontrollen
 http://alienstreams.fi:8080/series/nicknick/nicknick/404018
 
-# --- Series | Reality [Series] (154) ---
+# --- Series | Reality [Series] (155) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",Simon Cowell: The Next Act
+http://alienstreams.fi:8080/series/nicknick/nicknick/489791
+#EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",Mystery at Blind Frog Ranch
+http://alienstreams.fi:8080/series/nicknick/nicknick/472707
 #EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",Baylen Out Loud
 http://alienstreams.fi:8080/series/nicknick/nicknick/489006
 #EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",The Secret Lives of Mormon Wives
@@ -17206,8 +17230,6 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/474555
 http://alienstreams.fi:8080/series/nicknick/nicknick/404672
 #EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",Deadliest Catch: The Viking Returns
 http://alienstreams.fi:8080/series/nicknick/nicknick/473491
-#EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",Mystery at Blind Frog Ranch
-http://alienstreams.fi:8080/series/nicknick/nicknick/472707
 #EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",Vanderpump Villa
 http://alienstreams.fi:8080/series/nicknick/nicknick/471159
 #EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",Off Road
@@ -18313,4 +18335,4 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/475290
 #EXTINF:-1 tvg-logo="" group-title="Series | Western [Series]",How the West Was Won
 http://alienstreams.fi:8080/series/nicknick/nicknick/459987
 
-# Total: 9098
+# Total: 9109

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: world-panel.co:8080
-# Generated: 2025-12-10 18:39:43
+# Generated: 2025-12-11 07:12:32
 # Expires: 2026-03-09
 # Family Safe Edition
 # ==============================================
@@ -19279,7 +19279,7 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/46163.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/abb4cfb2e854c34820508bc95e63bd8e.jpg" group-title="Movies | NETFLIX AMAZON-Serie-Tv",The Protector 04x07
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/46164.mkv
 
-# --- Movies | NETFLIX-AMAZON-SERIE (633) ---
+# --- Movies | NETFLIX-AMAZON-SERIE (634) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",Celebrity Hunted: Caccia all'uomo
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/4.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",ZeroZeroZero
@@ -20546,6 +20546,8 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1558.mp4
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1568.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",The Abandons
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1571.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",The Lowdown
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1576.mp4
 
 # --- Movies | PRIMAFILA (9) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/2624638709dfb2624cdb24718c200256.jpg" group-title="Movies | PRIMAFILA",PRIMAFILA 1HD Una battaglia dopo l altra (2025)
@@ -32327,4 +32329,4 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/50888.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/96e97ef7e316fab54d133aa6fcdf30a2.jpg" group-title="Movies | SerieTV",Turner and Hooch 01x12 La Resa Dei Conti
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/50889.mkv
 
-# Total: 16132
+# Total: 16133

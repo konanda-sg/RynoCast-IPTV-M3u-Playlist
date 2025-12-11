@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: alperinho1907.kralsmart.xyz:2086
-# Generated: 2025-12-10 18:36:06
+# Generated: 2025-12-11 07:07:04
 # Expires: 2026-02-08
 # Family Safe Edition
 # ==============================================
@@ -979,18 +979,10 @@ http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/170928.m3u8
 
-# --- DE-DAZN EVENT (50) ---
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/72axrioh6ubh0xgzz23hxgjqg_image-header_pDach_1765286581000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",eFootball Console | Gruppenphase 1 (2025-12-10 08:30:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/172367.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6e1f7wri5sn7tc4kv2skftyqy_image-header_pDach_1764948821000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Südafrika | Tag 3 (Pro Stream) (2025-12-10 11:30:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/172368.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2qrx42xiltccxxii4ck8necg6_image-header_pDach_1764948657000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Südafrika | Tag 3 (2025-12-10 11:30:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/172369.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/czfmtppyk4rfzqkwvb7sfusta_image-header_pDach_1765286940000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",eFootball Mobile | Gruppenphase 1 (2025-12-10 13:45:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/172370.m3u8
+# --- DE-DAZN EVENT (46) ---
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/e4kg7t9ala7pxf7gsx5r8vfnp_image-header_pDach_1760689993000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Frühe Mittwochs-Konferenz | 6. Spieltag (2025-12-10 18:25:00)
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/172371.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/83zgpr7efxx0bjdeb25wu4bse_image-header_pDach_1760520518000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Qarabag - Ajax (2025-12-10 18:45:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/83zgpr7efxx0bjdeb25wu4bse_image-header_pDach_1760520518000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Real Madrid - Man City
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/172372.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/duaq0fgygs4zmo31ydgfw1h6k_image-header_pDach_1760520173000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Villarreal - Kopenhagen (2025-12-10 18:45:00)
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/172373.m3u8
@@ -6705,4 +6697,4 @@ http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/165820.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JEtHjJs.png" group-title="WORLD SPORTS",Sky Sport Action HD [UK]
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/165884.m3u8
 
-# Total: 3292
+# Total: 3288

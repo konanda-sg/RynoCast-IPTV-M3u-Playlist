@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: kaliteiptv.live:8080
-# Generated: 2025-12-10 18:35:51
+# Generated: 2025-12-11 07:11:33
 # Expires: 2026-04-09
 # Family Safe Edition
 # ==============================================
@@ -4407,7 +4407,7 @@ http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/778957.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/haberlogo/trtarabi.png" group-title="TR | HABER",TR | TRT ARABİ
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/778958.m3u8
 
-# --- TR | LYNX DİZİLER 7/24 (50) ---
+# --- TR | LYNX DİZİLER 7/24 (49) ---
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/esrefruya.png" group-title="TR | LYNX DİZİLER 7/24",7/24 | PARADE EŞREF RÜYA
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1183806.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/nemlizade.png" group-title="TR | LYNX DİZİLER 7/24",7/24 | PARADE NEMLIZADE
@@ -4446,8 +4446,6 @@ http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1176135.m3u8
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1176033.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/yaprakdokumu.png" group-title="TR | LYNX DİZİLER 7/24",7/24 | PARADE YAPRAK DOKUMU
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1176032.m3u8
-#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/selena.png" group-title="TR | LYNX DİZİLER 7/24",7/24 | PARADE SELENA
-http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1176031.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/behzatc.png" group-title="TR | LYNX DİZİLER 7/24",7/24 | PARADE BEHZAT Ç
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1176029.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/avrupayakasi.png" group-title="TR | LYNX DİZİLER 7/24",7/24 | PARADE AVRUPA YAKASI
@@ -6037,4 +6035,4 @@ http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/855313.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WO | WORLDSPORT",US | NBA 10
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/855314.m3u8
 
-# Total: 2955
+# Total: 2954
