@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2025-12-11 18:29:24
+# Generated: 2025-12-12 07:10:08
 # Expires: 2025-12-20
 # Family Safe Edition
 # ==============================================
@@ -9211,7 +9211,7 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/63375.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/76ZIgt8seQ0fdXdXg1tyAYK2ZIf.jpg" group-title="Movies | DE/FILM ~ WEIHNACHTEN",La Navidad en sus manos 2 (2025) DE
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/63389.mp4
 
-# --- Movies | DE/SERIE ~ ALL (197) ---
+# --- Movies | DE/SERIE ~ ALL (198) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ ALL",Sanditon (2019)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1306.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ ALL",The Veil (2024)
@@ -9606,6 +9606,8 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1801.mp4
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1808.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ ALL",DE: Spartacus - Das Haus Ashur (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1828.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ ALL",DE: Die neuen Zauberer vom Waverly Place (2024)
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1837.mp4
 
 # --- Movies | DE/SERIE ~ AMAZON PRIME (25) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ AMAZON PRIME",Die rote Königin (2024)
@@ -9733,9 +9735,7 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1812.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ APPLE",Die Snoopy Show (2021)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/427.mp4
 
-# --- Movies | DE/SERIE ~ CBS (4) ---
-#EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ CBS",Elsbeth (2024)
-http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1360.mp4
+# --- Movies | DE/SERIE ~ CBS (3) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ CBS",Matlock (2024)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1561.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ CBS",Elsbeth (2024)
@@ -9823,7 +9823,7 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1551.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ MARVEL",Agatha All Along (2024)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1567.mp4
 
-# --- Movies | DE/SERIE ~ NETFLIX (72) ---
+# --- Movies | DE/SERIE ~ NETFLIX (73) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ NETFLIX",ONE PIECE (2023)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1109.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ NETFLIX",How to Sell Drugs Online (Fast) (2019)
@@ -9948,6 +9948,8 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1779.mp4
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1780.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ NETFLIX",DE: Stranger Things (2016)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1813.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ NETFLIX",DE: Man vs Baby (2025)
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1836.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ NETFLIX",Asterix & Obelix: Der Kampf der Häuptlinge (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1528.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ NETFLIX",Alien TV (2020)
@@ -11187,7 +11189,7 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1658.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ HBO MAX/BLUTV",IT: Welcome to Derry (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1672.mp4
 
-# --- Movies | TR/DIZI ~ NETFLIX (DUAL) (459) ---
+# --- Movies | TR/DIZI ~ NETFLIX (DUAL) (460) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",Atiye (2019)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/28.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",Hierarchy
@@ -12106,6 +12108,8 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1696.mp4
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1727.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",The Beast in Me (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1728.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",Kasaba (2025)
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1835.mp4
 
 # --- Movies | TR/DIZI ~ PAZAR (5) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gwlxk1YjsaNQdRrmZ1I6j4fr2Zd.jpg" group-title="Movies | TR/DIZI ~ PAZAR",PAZ: Bahar 61. Bölüm (YENI GÜNÜNDE)
@@ -12128,9 +12132,9 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/39132.mkv
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/376.mkv
 
 # --- Movies | TR/DIZI ~ PERSEMBE (2) ---
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sQTx2hiwi9CmRYyt6CAV5sf8C1T.jpg" group-title="Movies | TR/DIZI ~ PERSEMBE",PER: Halef Koklerin Cagrisi 11.Bölüm (YENI DIZI)
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sQTx2hiwi9CmRYyt6CAV5sf8C1T.jpg" group-title="Movies | TR/DIZI ~ PERSEMBE",PER: Halef Koklerin Cagrisi 12.Bölüm (YENI DIZI)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/39404.mkv
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7kc0Mr2bRCpzIexZqq0ALnamvvY.jpg" group-title="Movies | TR/DIZI ~ PERSEMBE",PER: Veliaht 12.Bölüm (Yeni Dizi)
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7kc0Mr2bRCpzIexZqq0ALnamvvY.jpg" group-title="Movies | TR/DIZI ~ PERSEMBE",PER: Veliaht 13.Bölüm (Yeni Dizi)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/43582.mkv
 
 # --- Movies | TR/DIZI ~ PUHU TV (1) ---
@@ -20113,4 +20117,4 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/63372.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8EQllq34VC5mooiJw1vVFOlM4x.jpg" group-title="Movies | TR/FILM ~ YILBASI ÖZEL",O Ses Türkiye  Yilbasi Özel 2025
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/54778.mp4
 
-# Total: 9916
+# Total: 9918

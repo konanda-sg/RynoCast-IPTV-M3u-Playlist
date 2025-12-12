@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: platinumz.xyz:8080
-# Generated: 2025-12-11 18:30:06
+# Generated: 2025-12-12 07:07:20
 # Expires: 2025-12-23
 # Family Safe Edition
 # ==============================================
@@ -3033,9 +3033,11 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/849710.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="DE ✨ REGIONAL SPORT",LEAGUES - FC 08 Homburg
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/849709.m3u8
 
-# --- DE ✨ RTL+ EVENTS (11) ---
+# --- DE ✨ RTL+ EVENTS (12) ---
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/rIAyX-.jpg" group-title="DE ✨ RTL+ EVENTS",RTL+ PPV
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/708662.m3u8
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/rtl_plus.png" group-title="DE ✨ RTL+ EVENTS",RTL+ KONFERENZ
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/867753.m3u8
 #EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/rtl_plus.png" group-title="DE ✨ RTL+ EVENTS",RTL+ SPORT EVENT 1
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/579894.m3u8
 #EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/rtl_plus.png" group-title="DE ✨ RTL+ EVENTS",RTL+ SPORT EVENT 2
@@ -4857,4 +4859,4 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/809948.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ArenaSport_6.png" group-title="VIP ✨ SPORTS EX-YU",BH⚜️ ARENA SPORT 6
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/809947.m3u8
 
-# Total: 2379
+# Total: 2380

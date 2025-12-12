@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 51.89.85.237:2086
-# Generated: 2025-12-11 18:38:26
+# Generated: 2025-12-12 07:09:22
 # Expires: 2025-12-25
 # Family Safe Edition
 # ==============================================
@@ -225,13 +225,7 @@ http://51.89.85.237:2086/live/ahmetayar/frEKjZmvxA/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://51.89.85.237:2086/live/ahmetayar/frEKjZmvxA/170928.m3u8
 
-# --- DE-DAZN EVENT (30) ---
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/87m7pwqbyjwed7p7dqe86xpwd_image-header_pDach_1765286581000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",eFootball Console | Gruppenphase 2 (2025-12-11 09:30:00)
-http://51.89.85.237:2086/live/ahmetayar/frEKjZmvxA/172387.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/el1dbx7919xgwzylg157l4h3z_image-header_pDach_1764949892000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Südafrika | Tag 4 (Pro Stream) (2025-12-11 11:30:00)
-http://51.89.85.237:2086/live/ahmetayar/frEKjZmvxA/172388.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4xhg3qx4a8ionjpndqgot51dh_image-header_pDach_1764949052000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Südafrika | Tag 4 (2025-12-11 11:30:00)
-http://51.89.85.237:2086/live/ahmetayar/frEKjZmvxA/172389.m3u8
+# --- DE-DAZN EVENT (27) ---
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cj80h8d0fj5w3dnghj2cck6u9_image-header_pDach_1760438201000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Riyadh Racing Season Race Night 10 (2025-12-11 14:00:00)
 http://51.89.85.237:2086/live/ahmetayar/frEKjZmvxA/172390.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ctp2g3l3v0i1ryo18xab3fgn6_image-header_pDach_1765287760000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",eFootball Mobile | Gruppenphase 2 (2025-12-11 15:00:00)
@@ -3331,4 +3325,4 @@ http://51.89.85.237:2086/live/ahmetayar/frEKjZmvxA/165820.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JEtHjJs.png" group-title="WORLD SPORTS",Sky Sport Action HD [UK]
 http://51.89.85.237:2086/live/ahmetayar/frEKjZmvxA/165884.m3u8
 
-# Total: 1626
+# Total: 1623

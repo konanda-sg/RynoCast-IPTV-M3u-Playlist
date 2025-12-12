@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: wyveep.com:8080
-# Generated: 2025-12-11 18:30:51
+# Generated: 2025-12-12 07:10:07
 # Expires: 2025-12-25
 # Family Safe Edition
 # ==============================================
@@ -4767,7 +4767,7 @@ http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/173027.m3u8
 #EXTINF:-1 tvg-logo="https://infinity-logo.ddns.net/images/logo_channel/FR/cineplusfrisson.png" group-title="FRANCE Ⓗ②⑥⑤| TV ☆",|FR| CINE+ FRISSON H265
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/172995.m3u8
 
-# --- GERMANY  | TV (101) ---
+# --- GERMANY  | TV (103) ---
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net//images/picons/drapeau/GERMANIE.png" group-title="GERMANY  | TV",•●★★--GERMANY | OTT--★★●•
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/35181.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo/GERMANY/3SAT.png" group-title="GERMANY  | TV",|DE|  3sat HD
@@ -4924,6 +4924,10 @@ http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/645549.m3u8
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/645552.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY  | TV",==SPORTS==
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/645455.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/DE/sport1.png" group-title="GERMANY  | TV",|DE| SPORT1 HD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1402535.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/DE/sport1plus.png" group-title="GERMANY  | TV",|DE| SPORT1+ HD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1402536.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo/GERMANY/SKYSPORTNEWSHD.png" group-title="GERMANY  | TV",|DE| Sky Sport News HD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/645530.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fullpicons/skyspf1hd.png" group-title="GERMANY  | TV",|DE| SKY SPORT F1 HD
@@ -10753,4 +10757,4 @@ http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1202991.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/BEINSPORT3.png" group-title="⚽️ BEIN SPORT ARABIC  | TV",AR| BEIN SPORTS 3 ENGLISH HD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/237130.m3u8
 
-# Total: 5301
+# Total: 5303

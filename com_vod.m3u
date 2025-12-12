@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: com.trt1000.com:80
-# Generated: 2025-12-11 18:34:45
+# Generated: 2025-12-12 07:12:38
 # Expires: 2026-01-09
 # Family Safe Edition
 # ==============================================
@@ -1617,7 +1617,7 @@ http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/9530.mkv
 #EXTINF:-1 tvg-logo="None" group-title="Movies | DiNi FILMLER",Dini:Hz.Muhammed.Allah.in.Elcisi
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/9531.mkv
 
-# --- Movies | EXXEN TV (86) ---
+# --- Movies | EXXEN TV (87) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | EXXEN TV",2008 Milli Takım Hikayesi
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/7.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | EXXEN TV",Akıl Oyunları
@@ -1790,6 +1790,8 @@ http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/1321.mp4
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/1322.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | EXXEN TV",Ölüm Zamanı
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/1324.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | EXXEN TV",Nemlizade
+http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/1337.mp4
 
 # --- Movies | FRANCE FILMS (449) ---
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2NmMjJhY2MtZjkyYy00YWQ4LWI3ODQtZjIxODBkMmM1NjE0XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_.jpg" group-title="Movies | FRANCE FILMS",De Toutes Nos Forces
@@ -23345,4 +23347,4 @@ http://com.trt1000.com:80/series/kayaciahmet/08012023bas/1314
 #EXTINF:-1 tvg-logo="" group-title="Series | TURK DIZILERI SERIES",Rüya Gibi
 http://com.trt1000.com:80/series/kayaciahmet/08012023bas/1328
 
-# Total: 11639
+# Total: 11640

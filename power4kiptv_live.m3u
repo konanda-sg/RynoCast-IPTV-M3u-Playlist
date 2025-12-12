@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: power4kiptv.info:8080
-# Generated: 2025-12-11 18:30:17
+# Generated: 2025-12-12 07:03:20
 # Expires: 2026-01-21
 # Family Safe Edition
 # ==============================================
@@ -2811,11 +2811,13 @@ http://power4kiptv.info:8080/live/ernstalex/17012022/694497.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="DE | REGIONAL SPORT",LEAGUES - FC 08 Homburg
 http://power4kiptv.info:8080/live/ernstalex/17012022/694496.m3u8
 
-# --- DE | RTL EVENT (12) ---
+# --- DE | RTL EVENT (13) ---
 #EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/rtl_plus.png" group-title="DE | RTL EVENT",★☆★ RTL+ SPORT EVENTS ★☆★
 http://power4kiptv.info:8080/live/ernstalex/17012022/314486.m3u8
 #EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/rtl_plus.png" group-title="DE | RTL EVENT",RTL+ PPV
 http://power4kiptv.info:8080/live/ernstalex/17012022/624175.m3u8
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/rtl_plus.png" group-title="DE | RTL EVENT",RTL+ KONFERENZ
+http://power4kiptv.info:8080/live/ernstalex/17012022/866132.m3u8
 #EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/rtl_plus.png" group-title="DE | RTL EVENT",RTL EVENT 1 FHD
 http://power4kiptv.info:8080/live/ernstalex/17012022/314487.m3u8
 #EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/rtl_plus.png" group-title="DE | RTL EVENT",RTL EVENT 2 FHD
@@ -4807,4 +4809,4 @@ http://power4kiptv.info:8080/live/ernstalex/17012022/601228.m3u8
 #EXTINF:-1 tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg" group-title="VIP | SPORT VIAPLAY",VIAPLAY XTRA 53
 http://power4kiptv.info:8080/live/ernstalex/17012022/601227.m3u8
 
-# Total: 2352
+# Total: 2353

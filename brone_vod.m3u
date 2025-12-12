@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: brone.fyi
-# Generated: 2025-12-11 18:41:12
+# Generated: 2025-12-12 07:09:15
 # Expires: 2025-12-18
 # Family Safe Edition
 # ==============================================
@@ -19125,7 +19125,7 @@ http://brone.fyi/movie/felipe_irma/Teste44/209802.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vnGDpZXMcBZXX0MtF3Kx2l5MM6D.jpg" group-title="Movies | NACIONAL",A ESPERA
 http://brone.fyi/movie/felipe_irma/Teste44/328218.mp4
 
-# --- Movies | NOVELAS | BRASILEIRAS (170) ---
+# --- Movies | NOVELAS | BRASILEIRAS (171) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | NOVELAS | BRASILEIRAS",A FORCA DO QUERER
 http://brone.fyi/movie/felipe_irma/Teste44/470.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NOVELAS | BRASILEIRAS",ALEM DO TEMPO
@@ -19466,6 +19466,8 @@ http://brone.fyi/movie/felipe_irma/Teste44/3971.mp4
 http://brone.fyi/movie/felipe_irma/Teste44/3972.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NOVELAS | BRASILEIRAS",CUMPLICES DE UM RESGATE
 http://brone.fyi/movie/felipe_irma/Teste44/3974.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NOVELAS | BRASILEIRAS",TRES GRACAS
+http://brone.fyi/movie/felipe_irma/Teste44/4182.mp4
 
 # --- Movies | NOVELAS | MEXICANAS (8) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | NOVELAS | MEXICANAS",A USURPADORA
@@ -35203,7 +35205,7 @@ http://brone.fyi/series/felipe_irma/Teste44/4178
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | NETFLIX",VOCE ESTAVA LA
 http://brone.fyi/series/felipe_irma/Teste44/4179
 
-# --- Series | SERIES | PARAMOUNT (88) ---
+# --- Series | SERIES | PARAMOUNT (89) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | PARAMOUNT",TODO MUNDO ODEIA O CHRIS
 http://brone.fyi/series/felipe_irma/Teste44/94
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | PARAMOUNT",UNDER THE DOME
@@ -35380,6 +35382,8 @@ http://brone.fyi/series/felipe_irma/Teste44/4010
 http://brone.fyi/series/felipe_irma/Teste44/4011
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | PARAMOUNT",FRASIER
 http://brone.fyi/series/felipe_irma/Teste44/4109
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES | PARAMOUNT",KEY AND PEELE
+http://brone.fyi/series/felipe_irma/Teste44/4183
 
 # --- Series | SERIES | TURCAS (42) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | TURCAS",ASCENSAO IMPERIO OTOMANO
@@ -35479,4 +35483,4 @@ http://brone.fyi/series/felipe_irma/Teste44/3096
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | VIKI ROKUTEN",MERITISSIMO
 http://brone.fyi/series/felipe_irma/Teste44/3777
 
-# Total: 17694
+# Total: 17696

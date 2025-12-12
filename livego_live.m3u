@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: livego.club:8080
-# Generated: 2025-12-11 18:38:16
+# Generated: 2025-12-12 07:15:47
 # Expires: 2026-09-06
 # Family Safe Edition
 # ==============================================
@@ -12738,6 +12738,48 @@ http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/26507.m3u8
 http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/26506.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bulgaria",BG: World Fashion Channel FHD
 http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/26505.m3u8
+
+# --- Bulgaria - VOYO (20) ---
+#EXTINF:-1 tvg-logo="" group-title="Bulgaria - VOYO",BG: Voyo Sport+ 1
+http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/242684.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bulgaria - VOYO",BG: Voyo Sport+ 2
+http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/242685.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bulgaria - VOYO",BG: Voyo Sport+ 3
+http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/242686.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bulgaria - VOYO",BG: Voyo Sport+ 4
+http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/242687.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bulgaria - VOYO",BG: Voyo Sport+ 5
+http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/242688.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bulgaria - VOYO",BG: Voyo Sport+ 6
+http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/242689.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bulgaria - VOYO",BG: Voyo Sport+ 7
+http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/242690.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bulgaria - VOYO",BG: Voyo Sport+ 8
+http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/242691.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bulgaria - VOYO",BG: Voyo Sport+ 9
+http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/242692.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bulgaria - VOYO",BG: Voyo Sport+ 10
+http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/242693.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bulgaria - VOYO",BG: Voyo Sport+ 11
+http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/242694.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bulgaria - VOYO",BG: Voyo Sport+ 12
+http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/242695.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bulgaria - VOYO",BG: Voyo Sport+ 13
+http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/242696.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bulgaria - VOYO",BG: Voyo Sport+ 14
+http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/242697.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bulgaria - VOYO",BG: Voyo Sport+ 15
+http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/242698.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bulgaria - VOYO",BG: Voyo Sport+ 16
+http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/242699.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bulgaria - VOYO",BG: Voyo Sport+ 17
+http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/242700.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bulgaria - VOYO",BG: Voyo Sport+ 18
+http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/242701.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bulgaria - VOYO",BG: Voyo Sport+ 19
+http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/242702.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bulgaria - VOYO",BG: Voyo Sport+ 20
+http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/242703.m3u8
 
 # --- Canada (252) ---
 #EXTINF:-1 tvg-logo="[" group-title="Canada",CAN: A & E
@@ -50833,4 +50875,4 @@ http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/145386.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Vietnam",VN: YTV
 http://livego.club:8080/live/fu1T1SWS8Gua/dJaYXW8/145387.m3u8
 
-# Total: 24927
+# Total: 24947

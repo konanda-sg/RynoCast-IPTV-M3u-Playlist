@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: pw-iptv.online:8080
-# Generated: 2025-12-11 18:35:25
+# Generated: 2025-12-12 07:12:10
 # Expires: 2026-01-16
 # Family Safe Edition
 # ==============================================
@@ -4816,9 +4816,9 @@ http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/203151.m3u8
 # --- AR| TOD SPORT ⁸ᴷ & PPV ⚽ (51) ---
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rkv1rsh4/TOD-GIF.gif" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",#### TOD SPORT ⁸ᴷ & PPV ####
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1036848.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",AR: TOD PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",AR: TOD PPV 1 - MILWAUKEE BUCKS VS BOSTON CELTICS | Fri 12 Dec 01:40 | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1036847.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",AR: TOD PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",AR: TOD PPV 2 - TAMPA BAY BUCCANEERS VS ATLANTA FALCONS | Fri 12 Dec 01:55 | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1036846.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",AR: TOD PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1036845.m3u8
@@ -5685,18 +5685,16 @@ http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1174195.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN EXCLUSIVE ᴴᴰ/ᴿᴬᵂ",DE: DAZN MOTO AMERICA ᴿᴬᵂ
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1174193.m3u8
 
-# --- DE| DAZN PPV (51) ---
+# --- DE| DAZN PPV (50) ---
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vCPR3CSF/DAZN-Logo-Gif.gif" group-title="DE| DAZN PPV",##### DAZN PPV #####
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/299317.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 1 - EFOOTBALL CONSOLE | GROUP STAGE 2 | Thu 11 Dec 09:20 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 1 - DUCKS @ ISLANDERS | Fri 12 Dec 00:50 | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/919838.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 2 - SOUTH AFRICA | DAY 4 (PRO STREAM) | Thu 11 Dec 11:20 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 2 - PACHECO VS. SADJO: PRESS CONFERENCE | Fri 12 Dec 01:50 | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/919837.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 3 - SOUTH AFRICA | DAY 4 | Thu 11 Dec 11:20 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 3 - IOWA @ IOWA STATE | Fri 12 Dec 01:50 | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/919836.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 4 - RIYADH RACING SEASON RACE NIGHT 10 | Thu 11 Dec 12:40 | 8K EXCLUSIVE
-http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/919835.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 5 - BRUINS @ JETS | Fri 12 Dec 01:50 | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/919834.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/919833.m3u8
@@ -6112,7 +6110,7 @@ http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/587115.m3u8
 # --- DE| DYN PPV EXCLUSIVE (51) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Animated-Flag-Germany.gif" group-title="DE| DYN PPV EXCLUSIVE",####### DYN PPV EXCLUSIVE #######
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1045779.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13695.jpg?ver=35793" group-title="DE| DYN PPV EXCLUSIVE",DE: DYN PPV 1 - WTT FINALS HONGKONG TAG 2 NIGHTSESSION | Thu 11 Dec 11:00
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13695.jpg?ver=35793" group-title="DE| DYN PPV EXCLUSIVE",DE: DYN PPV 1 - NO EVENT STREAMING -
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1045778.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13695.jpg?ver=35793" group-title="DE| DYN PPV EXCLUSIVE",DE: DYN PPV 2 - NO EVENT STREAMING -
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1045777.m3u8
@@ -7670,9 +7668,9 @@ http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/816704.m3u8
 # --- DE| NOW TV SPORTS PPV (51) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Animated-Flag-Germany.gif" group-title="DE| NOW TV SPORTS PPV",####### NOW TV PPV #######
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1055929.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13809.png?ver=88754" group-title="DE| NOW TV SPORTS PPV",DE: NOW TV PPV 1 - ALFRED DUNHILL CHAMPIONSHIP | Thu 11 Dec 11:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13809.png?ver=88754" group-title="DE| NOW TV SPORTS PPV",DE: NOW TV PPV 1 - NHL: TAMPA BAY LIGHTNING @ NEW JERSEY DEVILS | Fri 12 Dec 01:00 | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1055928.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13809.png?ver=88754" group-title="DE| NOW TV SPORTS PPV",DE: NOW TV PPV 2 - PRESSEKONFERENZEN LIVE | Thu 11 Dec 12:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13809.png?ver=88754" group-title="DE| NOW TV SPORTS PPV",DE: NOW TV PPV 2 - NO EVENT STREAMING -
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1055927.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13809.png?ver=88754" group-title="DE| NOW TV SPORTS PPV",DE: NOW TV PPV 3 - NO EVENT STREAMING -
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1055926.m3u8
@@ -9126,11 +9124,11 @@ http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1324769.m3u8
 # --- DE| SPORT EUROPE PPV (101) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Animated-Flag-Germany.gif" group-title="DE| SPORT EUROPE PPV",##### SPORT EUROPE PPV #####
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1035021.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 1 - 127. DEUTSCHE MEISTERSCHAFTEN IM EISKUNSTLAUF TAG 4 | Thu 11 Dec 08:00
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 1 - NO EVENT STREAMING -
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1035020.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 2 - BOXEN_DEUTSCHE_MEISTERSCHAFT_ELITE_2025 | Thu 11 Dec 09:55
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 2 - NO EVENT STREAMING -
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1035019.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 3 - SAM OPEN 2025 DAY 1 | Thu 11 Dec 11:30
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 3 - NO EVENT STREAMING -
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1035018.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 14 - NO EVENT STREAMING -
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1035017.m3u8
@@ -9749,4 +9747,4 @@ http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1667444.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6454.png?76365" group-title="DE| WOW SPORT ᴴᴰ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",WOW: SKY SPORT 10 ᴴᴰ ◉
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1667443.m3u8
 
-# Total: 4762
+# Total: 4761

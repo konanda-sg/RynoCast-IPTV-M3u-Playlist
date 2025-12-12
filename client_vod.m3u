@@ -1,13 +1,19 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: client.canifer.com:81
-# Generated: 2025-12-11 18:29:30
+# Generated: 2025-12-12 07:05:18
 # Expires: 2026-07-02
 # Family Safe Edition
 # ==============================================
 
 
 # --- Movies | Filma 2025 (69) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3DBmBItPdy0A2ol59jgHhS54Lua.jpg" group-title="Movies | Filma 2025",Murder at the Embassy (2025)
+http://client.canifer.com:81/movie/NexhatMustafa/4hC8QgMEkR/8572.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/h893ImjM6Fsv5DFhKJdlZFZIJno.jpg" group-title="Movies | Filma 2025",Wildcat (2025)
+http://client.canifer.com:81/movie/NexhatMustafa/4hC8QgMEkR/8573.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sBeKHgOtjDRNMHeF9oMR8gpx3k8.jpg" group-title="Movies | Filma 2025",Lost Horizon (2025)
+http://client.canifer.com:81/movie/NexhatMustafa/4hC8QgMEkR/8574.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5G0pPDxAKWgQy24NHBGl8LYPxIH.jpg" group-title="Movies | Filma 2025",Escobank (2025)
 http://client.canifer.com:81/movie/NexhatMustafa/4hC8QgMEkR/8568.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/flMnawvBtLvMStfeAjuBE1K9ykX.jpg" group-title="Movies | Filma 2025",Exit Protocol (2025)
@@ -140,12 +146,6 @@ http://client.canifer.com:81/movie/NexhatMustafa/4hC8QgMEkR/8497.mp4
 http://client.canifer.com:81/movie/NexhatMustafa/4hC8QgMEkR/8498.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8qJfjFhNwpTONNAoE6gUSx2yGpg.jpg" group-title="Movies | Filma 2025",Ad Vitam (2025)
 http://client.canifer.com:81/movie/NexhatMustafa/4hC8QgMEkR/8499.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3DBmBItPdy0A2ol59jgHhS54Lua.jpg" group-title="Movies | Filma 2025",Murder at the Embassy (2025)
-http://client.canifer.com:81/movie/NexhatMustafa/4hC8QgMEkR/8572.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/h893ImjM6Fsv5DFhKJdlZFZIJno.jpg" group-title="Movies | Filma 2025",Wildcat (2025)
-http://client.canifer.com:81/movie/NexhatMustafa/4hC8QgMEkR/8573.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sBeKHgOtjDRNMHeF9oMR8gpx3k8.jpg" group-title="Movies | Filma 2025",Lost Horizon (2025)
-http://client.canifer.com:81/movie/NexhatMustafa/4hC8QgMEkR/8574.mp4
 
 # --- Movies | Filma Shqip (19) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Filma Shqip",***Filma Shqip***
