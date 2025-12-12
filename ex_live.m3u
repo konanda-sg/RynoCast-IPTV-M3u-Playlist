@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: ex.guteex.com:8000
-# Generated: 2025-12-12 07:15:07
+# Generated: 2025-12-12 18:29:45
 # Expires: 2026-04-01
 # Family Safe Edition
 # ==============================================
@@ -1454,7 +1454,7 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/24997.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/38513.m3u8
 #EXTINF:-1 tvg-logo="http://79.124.59.158:33387/logo/champions.jpg" group-title="DE | SPORTS HIGHLIGHTS",Champions League 6. Spieltag ( 10.12.2025 )
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/44181.m3u8
-#EXTINF:-1 tvg-logo="http://79.124.59.158:33387/logo/europaleague.png" group-title="DE | SPORTS HIGHLIGHTS",UEFA Europa League 5. Spieltag
+#EXTINF:-1 tvg-logo="http://79.124.59.158:33387/logo/europaleague.png" group-title="DE | SPORTS HIGHLIGHTS",UEFA Europa League 6. Spieltag
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/3882.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE | SPORTS HIGHLIGHTS",FIFA Klub-Weltmeisterschaft 2025
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/61744.m3u8
@@ -4036,15 +4036,15 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/31800.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/38516.m3u8
 #EXTINF:-1 tvg-logo="http://79.124.59.158:33387/logo/champions.jpg" group-title="| TR - SPOR",ŞAMPIYONLAR LIGI 6. Hafta ( 10.12.2025 )
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/44179.m3u8
-#EXTINF:-1 tvg-logo="http://79.124.59.158:33387/logo/europaleague.png" group-title="| TR - SPOR",AVRUPA LIGI 1. Hafta
+#EXTINF:-1 tvg-logo="http://79.124.59.158:33387/logo/europaleague.png" group-title="| TR - SPOR",AVRUPA LIGI 1.-4. Hafta
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/31853.m3u8
-#EXTINF:-1 tvg-logo="http://79.124.59.158:33387/logo/europaleague.png" group-title="| TR - SPOR",AVRUPA LIGI 2. Hafta
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/38515.m3u8
-#EXTINF:-1 tvg-logo="http://79.124.59.158:33387/logo/europaleague.png" group-title="| TR - SPOR",AVRUPA LIGI 3. Hafta
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/39297.m3u8
-#EXTINF:-1 tvg-logo="http://79.124.59.158:33387/logo/europaleague.png" group-title="| TR - SPOR",AVRUPA LIGI 4. Hafta
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/39298.m3u8
 #EXTINF:-1 tvg-logo="http://79.124.59.158:33387/logo/europaleague.png" group-title="| TR - SPOR",AVRUPA LIGI 5. Hafta
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/38515.m3u8
+#EXTINF:-1 tvg-logo="http://79.124.59.158:33387/logo/europaleague.png" group-title="| TR - SPOR",AVRUPA LIGI 6. Hafta
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/39297.m3u8
+#EXTINF:-1 tvg-logo="http://79.124.59.158:33387/logo/europaleague.png" group-title="| TR - SPOR",AVRUPA LIGI 7. Hafta
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/39298.m3u8
+#EXTINF:-1 tvg-logo="http://79.124.59.158:33387/logo/europaleague.png" group-title="| TR - SPOR",AVRUPA LIGI 8. Hafta
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/44180.m3u8
 
 # --- | TR - TV PROGRAMLARI (13) ---

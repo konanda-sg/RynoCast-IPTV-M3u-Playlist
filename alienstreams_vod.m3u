@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alienstreams.fi:8080
-# Generated: 2025-12-12 07:05:23
+# Generated: 2025-12-12 18:28:51
 # Expires: 2025-12-29
 # Family Safe Edition
 # ==============================================
@@ -17754,12 +17754,14 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/405122
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/403526
 
 # --- Series | Svenska Serier [Series] (267) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Bäst i test
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/489840
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Tidstjuven
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/488952
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Robinson
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/481721
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Kompani Svan
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/477254
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Tidstjuven
-http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/488952
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Robinson Exit
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/488853
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Här är ditt kylskåp
@@ -17798,8 +17800,6 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/489148
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/485474
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Deal or No Deal
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/486778
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Bäst i test
-http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/484563
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Vi kommer i fred
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/486741
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Race Across the World Sverige

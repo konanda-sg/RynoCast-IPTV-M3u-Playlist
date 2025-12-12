@@ -1,13 +1,13 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: funmitra.com:8080
-# Generated: 2025-12-11 18:34:40
+# Generated: 2025-12-12 18:32:45
 # Expires: 2026-03-01
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | (S|DE) Animation Serien (237) ---
+# --- Movies | (S|DE) Animation Serien (238) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) BoJack Horseman
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/629.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) Paw Patrol
@@ -482,6 +482,8 @@ http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11479.mp4
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11502.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) Janoschs Traumstunde
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11517.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) Shin-Chan
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11536.mp4
 
 # --- Movies | (S|DE) Deutsche Serien (1304) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) 4 Blocks
@@ -18113,7 +18115,7 @@ http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/635442.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/dh8mS9Zzhplmr0Q80BKw0dibZUS_big.jpg" group-title="Movies | (V|DE) Filme - 2024",(DE-) The Break-Up Club - 2024
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/634880.mp4
 
-# --- Movies | (V|DE) Filme - 2025 (442) ---
+# --- Movies | (V|DE) Filme - 2025 (444) ---
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/9yfwLB2BBBG5YSuJXtSRTaT8poS_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Merv - 2025
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/648505.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/oADha0l3dCm68rQfFL2AvZPs8pl_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) In Vitro - 2025
@@ -18998,6 +19000,10 @@ http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/635306.mp4
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/635194.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/uyyCQd14FzWz6BcwjJuZLFpn4JV_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Rudi Völler: Es Gibt Nur Einen - 2025
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/634879.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/3H8K5kDc5Fb1NeUz1xfo44wvlxZ_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Tron: Ares - 2025
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/647453.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/1BIOKfuEOukw2OoKZnAsPuW17kD_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Julian Assange: Mundtot Gemacht - 2025
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/647451.mp4
 
 # --- Movies | (V|DE) Filme - 4K (246) ---
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/crcyWg45cihTcp2eLjIG2wa81n2_big.jpg" group-title="Movies | (V|DE) Filme - 4K",(DE-) ZOMBIES 4 4K - 2025
@@ -22121,7 +22127,11 @@ http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/275545.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/o3dRENAwLg8Gs8oGPh8gLO5MHWB.jpg" group-title="Movies | (V|TR) Belgeseller",(TR-) Anafartalar - 2019
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/275553.mkv
 
-# --- Movies | (V|TR) Dizi Son Bölümleri (272) ---
+# --- Movies | (V|TR) Dizi Son Bölümleri (274) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/7kc0Mr2bRCpzIexZqq0ALnamvvY_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Veliaht (Bolum 13)
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/649074.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/sQTx2hiwi9CmRYyt6CAV5sf8C1T_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Halef: Köklerin Cagrisi (Bolum 12)
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/649072.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/azacGGRNAp3tRO197rEznDTdg7s_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Sakincali (Bolum 4)
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/648566.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k1FZ5cpY9kDaHrVpCFlZTlkcCkP.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Sahipsizler (Bolum 41)
@@ -22917,7 +22927,9 @@ http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/256374.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/f6Lb4bpUW2AJW42Hpnix2533RKU.jpg" group-title="Movies | (V|TR) Kovboy Filmleri",(TR-) Tombstone - 1993
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/262805.mkv
 
-# --- Movies | (V|TR) Programlar (700) ---
+# --- Movies | (V|TR) Programlar (701) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gTJZ9d49dLI2m1vv1Ufi3Cx7rMt.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Konusanlar Disney (Bolum 12)
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/649073.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6nmdHwVErYl9HOFhesRSMFC3HKj.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Güldür Güldür Show (06.12.2025)
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/648037.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gTJZ9d49dLI2m1vv1Ufi3Cx7rMt.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Konusanlar Disney (Bolum 11)
@@ -32287,4 +32299,4 @@ http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/583470.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Unknown",(DE-) Anaon:  Hüter Der Nacht
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/10625.mp4
 
-# Total: 16096
+# Total: 16102

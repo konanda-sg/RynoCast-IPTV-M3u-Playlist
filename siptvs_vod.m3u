@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: siptvs.com:8080
-# Generated: 2025-12-12 07:10:32
+# Generated: 2025-12-12 18:39:48
 # Expires: 2026-05-16
 # Family Safe Edition
 # ==============================================
@@ -11053,7 +11053,7 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/189305.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3Ri4XxXNCUKwlZWXgoVNftF7GIY.jpg" group-title="Movies | |DE| SCI-FI / FANTASY",Divinity (2023)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/191685.mkv
 
-# --- Movies | |DE| SERIEN (729) ---
+# --- Movies | |DE| SERIEN (730) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | |DE| SERIEN",Dragonball
 http://siptvs.com:8080/movie/Biljana12/Biljana12/11.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |DE| SERIEN",Dragonball Z Kai
@@ -12512,6 +12512,8 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/2274.mp4
 http://siptvs.com:8080/movie/Biljana12/Biljana12/2275.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |DE| SERIEN",DE: Monster: Die Geschichte von Ed Gein (2025)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/2276.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | |DE| SERIEN",DE: Spartacus - Das Haus Ashur (2025)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/2281.mp4
 
 # --- Movies | |DE| THRILLER (19) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYNuJd1vHOtHyeKoO87ehsGpBva.jpg" group-title="Movies | |DE| THRILLER",Nomis - Die Nacht des Jägers (2019)
@@ -32531,4 +32533,4 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/179055.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c44zM4fWJ55ImcEnqf7UL4dsCSB.jpg" group-title="Movies | |MU| MUSIC/CONCERTE",Avicii - Mein letztes Konzert (2024)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/181880.mkv
 
-# Total: 16202
+# Total: 16203

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 4kssl.com:8080
-# Generated: 2025-12-12 07:17:13
+# Generated: 2025-12-12 18:32:11
 # Expires: 2026-07-25
 # Family Safe Edition
 # ==============================================
@@ -1378,6 +1378,8 @@ http://4kssl.com:8080/live/1a1349093e46/c4256387cf/294539.m3u8
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/294538.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11002.png?25639" group-title="AL| LAJME",AL: RTV FONTANA
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/294535.m3u8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6397.jpg?65067" group-title="AL| LAJME",AL: RTV FONTANA HD
+http://4kssl.com:8080/live/1a1349093e46/c4256387cf/569375.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3345.png?8241" group-title="AL| LAJME",AL: CHANNEL ONE
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/294525.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/884.jpg?ver=20950" group-title="AL| LAJME",AL: ARTI TV
@@ -1394,8 +1396,6 @@ http://4kssl.com:8080/live/1a1349093e46/c4256387cf/294530.m3u8
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/294627.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10999.png?6717" group-title="AL| LAJME",AL: REPORT TV HD
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/578152.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6397.jpg?65067" group-title="AL| LAJME",AL: RTV FONTANA HD
-http://4kssl.com:8080/live/1a1349093e46/c4256387cf/569375.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3071.png?73676" group-title="AL| LAJME",AL: PANORAMA TV 4K
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/578178.m3u8
 
