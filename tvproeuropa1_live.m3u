@@ -1,13 +1,13 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tvproeuropa1.com:8008
-# Generated: 2025-12-11 18:39:50
+# Generated: 2025-12-13 06:59:35
 # Expires: 2026-01-07
 # Family Safe Edition
 # ==============================================
 
 
-# --- ⚜️ROMANIA TV⚜️ (596) ---
+# --- ⚜️ROMANIA TV⚜️ (595) ---
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvFMSGRt/Whats-App-Image-2025-11-27-at-15-20-39-6e5d06cc.jpg" group-title="⚜️ROMANIA TV⚜️",⚜️WELCOME TO PRO EUROPA⚜️
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/540724.m3u8
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab67616d0000b273e9af6e6ace7bae5f933bdc04" group-title="⚜️ROMANIA TV⚜️",COLINDE ROMANESTI
@@ -510,8 +510,6 @@ http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/522265.m3u8
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/522246.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚜️ROMANIA TV⚜️",TVR CLUJ
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/522245.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/905sKxtk/Whats-App-Image-2025-11-04-at-14-38-43-149ec173.jpg" group-title="⚜️ROMANIA TV⚜️",TELE MOLDOVA PLUS
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/498938.m3u8
 #EXTINF:-1 tvg-logo="http://135.125.239.110/icon/892301.png" group-title="⚜️ROMANIA TV⚜️",ALEPH NEWS
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/526873.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/alfaomega2.png" group-title="⚜️ROMANIA TV⚜️",ALFA OMEGA TV
@@ -1201,4 +1199,4 @@ http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/296305.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚜️ROMANIA TV⚜️",GALA RXF
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/554858.m3u8
 
-# Total: 596
+# Total: 595

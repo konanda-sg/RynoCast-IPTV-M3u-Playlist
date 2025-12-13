@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: italians-app.net:8080
-# Generated: 2025-12-12 18:37:01
+# Generated: 2025-12-13 07:13:05
 # Expires: 2026-01-21
 # Family Safe Edition
 # ==============================================
@@ -19647,7 +19647,7 @@ http://italians-app.net:8080/movie/hele/cart@/46163.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/abb4cfb2e854c34820508bc95e63bd8e.jpg" group-title="Movies | NETFLIX AMAZON-Serie-Tv",The Protector 04x07
 http://italians-app.net:8080/movie/hele/cart@/46164.mkv
 
-# --- Movies | NETFLIX-AMAZON-SERIE (636) ---
+# --- Movies | NETFLIX-AMAZON-SERIE (638) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",Celebrity Hunted: Caccia all'uomo
 http://italians-app.net:8080/movie/hele/cart@/4.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",ZeroZeroZero
@@ -20920,6 +20920,10 @@ http://italians-app.net:8080/movie/hele/cart@/1568.mp4
 http://italians-app.net:8080/movie/hele/cart@/1571.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",The Lowdown
 http://italians-app.net:8080/movie/hele/cart@/1576.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",Man vs Baby
+http://italians-app.net:8080/movie/hele/cart@/1577.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",kasaba The Town
+http://italians-app.net:8080/movie/hele/cart@/1579.mp4
 
 # --- Movies | PRIMAFILA (9) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/2624638709dfb2624cdb24718c200256.jpg" group-title="Movies | PRIMAFILA",PRIMAFILA 1HD Una battaglia dopo l altra (2025)
@@ -21209,7 +21213,7 @@ http://italians-app.net:8080/movie/hele/cart@/1350.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-DISNEY-PLUS",BAT-FAM
 http://italians-app.net:8080/movie/hele/cart@/1550.mp4
 
-# --- Movies | SERIE-TV (490) ---
+# --- Movies | SERIE-TV (492) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Inhumans
 http://italians-app.net:8080/movie/hele/cart@/1.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Stargate Atlantis
@@ -22190,6 +22194,10 @@ http://italians-app.net:8080/movie/hele/cart@/1573.mp4
 http://italians-app.net:8080/movie/hele/cart@/1574.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",All's Fair
 http://italians-app.net:8080/movie/hele/cart@/1575.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Little Disasters
+http://italians-app.net:8080/movie/hele/cart@/1578.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",All Her Fault
+http://italians-app.net:8080/movie/hele/cart@/1580.mp4
 
 # --- Movies | SERIE-TV-ITALIA (141) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Capri
@@ -32679,4 +32687,4 @@ http://italians-app.net:8080/movie/hele/cart@/2669.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | SerieTV",Timeless.S01E01 german
 http://italians-app.net:8080/movie/hele/cart@/20654.mkv
 
-# Total: 16308
+# Total: 16312

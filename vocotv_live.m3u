@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: vocotv.pro
-# Generated: 2025-12-12 18:33:47
+# Generated: 2025-12-13 07:13:25
 # Expires: 2026-06-28
 # Family Safe Edition
 # ==============================================
@@ -554,7 +554,7 @@ http://vocotv.pro/live/nowak1/nowak1/89384.m3u8
 http://vocotv.pro/live/nowak1/nowak1/89383.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Wy1SoeKjUiOQ48sXQi40DJupoZ.jpg" group-title="24/7 | CLASSIC SHOWS",24/7 Gomer Pyle, U.S.M.C.
 http://vocotv.pro/live/nowak1/nowak1/89382.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 Good Times
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/c316295e9b3307bc00d479b3ee8652c4.png" group-title="24/7 | CLASSIC SHOWS",24/7 Good Times
 http://vocotv.pro/live/nowak1/nowak1/89381.m3u8
 #EXTINF:-1 tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 Green Acres
 http://vocotv.pro/live/nowak1/nowak1/89380.m3u8
@@ -6016,17 +6016,17 @@ http://vocotv.pro/live/nowak1/nowak1/710258.m3u8
 http://vocotv.pro/live/nowak1/nowak1/710257.m3u8
 
 # --- LIVE | PPV Events (59) ---
-#EXTINF:-1 tvg-logo="https://i.ibb.co/w7fD2qB/PPVoco.png" group-title="LIVE | PPV Events",PPV 01: WWE RAW 8:00 PM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w7fD2qB/PPVoco.png" group-title="LIVE | PPV Events",PPV 01: One Friday Fights 136 Petkhaokradong v Kelat 7:30 AM
 http://vocotv.pro/live/nowak1/nowak1/2395.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/w7fD2qB/PPVoco.png" group-title="LIVE | PPV Events",PPV 02: wwe raw
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w7fD2qB/PPVoco.png" group-title="LIVE | PPV Events",PPV 02:Pulev v Gassiev 8:00 AM
 http://vocotv.pro/live/nowak1/nowak1/2394.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/w7fD2qB/PPVoco.png" group-title="LIVE | PPV Events",PPV 03:
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w7fD2qB/PPVoco.png" group-title="LIVE | PPV Events",PPV 03: Miloc v Garcia 7: 00 PM
 http://vocotv.pro/live/nowak1/nowak1/2393.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/w7fD2qB/PPVoco.png" group-title="LIVE | PPV Events",PPV 04:
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w7fD2qB/PPVoco.png" group-title="LIVE | PPV Events",PPV 04: XFN 405 9:00 PM
 http://vocotv.pro/live/nowak1/nowak1/2392.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/w7fD2qB/PPVoco.png" group-title="LIVE | PPV Events",PPV 05 :
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w7fD2qB/PPVoco.png" group-title="LIVE | PPV Events",PPV 05 : Tuff N Uff 150 10:00 PM
 http://vocotv.pro/live/nowak1/nowak1/2391.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/w7fD2qB/PPVoco.png" group-title="LIVE | PPV Events",PPV 06:
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w7fD2qB/PPVoco.png" group-title="LIVE | PPV Events",PPV 06: Snocross National Mt Zion 3:00 PM
 http://vocotv.pro/live/nowak1/nowak1/2390.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/w7fD2qB/PPVoco.png" group-title="LIVE | PPV Events",PPV 07:
 http://vocotv.pro/live/nowak1/nowak1/2389.m3u8
@@ -11536,19 +11536,19 @@ http://vocotv.pro/live/nowak1/nowak1/637150.m3u8
 http://vocotv.pro/live/nowak1/nowak1/643034.m3u8
 
 # --- USA | NBA (60) ---
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA | NBA",Houston Rockets vs LA Clippers @ Dec 11 8:00 PM :NBA  01
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA | NBA",Charlotte Hornets vs Chicago Bulls @ Dec 12 7:00 PM :NBA  01
 http://vocotv.pro/live/nowak1/nowak1/5438.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA | NBA",Milwaukee Bucks vs Boston Celtics @ Dec 11 8:00 PM :NBA  02
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA | NBA",Detroit Pistons vs Atlanta Hawks @ Dec 12 7:00 PM :NBA  02
 http://vocotv.pro/live/nowak1/nowak1/5437.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA | NBA",New Orleans Pelicans vs Portland Trail Blazers @ Dec 11 8:00 PM :NBA  03
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA | NBA",Philadelphia 76ers vs Indiana Pacers @ Dec 12 7:00 PM :NBA  03
 http://vocotv.pro/live/nowak1/nowak1/5436.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA | NBA",Sacramento Kings vs Denver Nuggets @ Dec 11 10:00 PM :NBA  04
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA | NBA",Washington Wizards vs Cleveland Cavaliers @ Dec 12 7:00 PM :NBA  04
 http://vocotv.pro/live/nowak1/nowak1/5435.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA | NBA",:NBA  05
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA | NBA",Memphis Grizzlies vs Utah Jazz @ Dec 12 8:00 PM :NBA  05
 http://vocotv.pro/live/nowak1/nowak1/5434.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA | NBA",:NBA  06
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA | NBA",Dallas Mavericks vs Brooklyn Nets @ Dec 12 8:30 PM :NBA  06
 http://vocotv.pro/live/nowak1/nowak1/5433.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA | NBA",:NBA  07
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA | NBA",Golden State Warriors vs Minnesota Timberwolves @ Dec 12 10:00 PM :NBA  07
 http://vocotv.pro/live/nowak1/nowak1/5432.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA | NBA",:NBA  08
 http://vocotv.pro/live/nowak1/nowak1/5431.m3u8
@@ -11760,21 +11760,21 @@ http://vocotv.pro/live/nowak1/nowak1/286396.m3u8
 http://vocotv.pro/live/nowak1/nowak1/286395.m3u8
 
 # --- USA | NBC Sports (50) ---
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",Asian Tour: Saudi Open Rd 2 @ Dec 11 4:30 AM :Nbc Sports  01
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",DP World Tour: Alfred Dunhill Championship Rd 2 @ Dec 12 5:00 AM :Nbc Sports  01
 http://vocotv.pro/live/nowak1/nowak1/780235.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",DP World Tour: Alfred Dunhill Championship Rd 1 @ Dec 11 5:00 AM :Nbc Sports  02
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",PGA TOUR: Grant Thornton Invitational Rd 1 @ Dec 12 1:00 PM :Nbc Sports  02
 http://vocotv.pro/live/nowak1/nowak1/780234.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",NHL: Sharks vs Maple Leafs @ Dec 11 6:30 PM :Nbc Sports  03
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",NBA: Pacers vs 76ers @ Dec 12 6:30 PM :Nbc Sports  03
 http://vocotv.pro/live/nowak1/nowak1/780233.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",NBA: Celtics vs Bucks @ Dec 11 7:00 PM :Nbc Sports  04
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",WWE: Friday Night SmackDown @ Dec 12 8:00 PM :Nbc Sports  04
 http://vocotv.pro/live/nowak1/nowak1/780232.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",Liga MX: Tigres vs Toluca @ Dec 11 8:30 PM :Nbc Sports  05
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",NBA: Timberwolves vs Warriors @ Dec 12 9:00 PM :Nbc Sports  05
 http://vocotv.pro/live/nowak1/nowak1/780231.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",NBA: Nuggets vs Kings @ Dec 11 9:30 PM :Nbc Sports  06
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",Asian Tour: Saudi Open Final Rd @ Dec 13 3:30 AM :Nbc Sports  06
 http://vocotv.pro/live/nowak1/nowak1/780230.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",Asian Tour: Saudi Open Rd 3 @ Dec 12 3:30 AM :Nbc Sports  07
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",DP World Tour: Alfred Dunhill Championship Rd 3 @ Dec 13 4:30 AM :Nbc Sports  07
 http://vocotv.pro/live/nowak1/nowak1/780229.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",DP World Tour: Alfred Dunhill Championship Rd 2 @ Dec 12 5:00 AM :Nbc Sports  08
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  08
 http://vocotv.pro/live/nowak1/nowak1/780228.m3u8
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  09
 http://vocotv.pro/live/nowak1/nowak1/780227.m3u8
@@ -11862,25 +11862,25 @@ http://vocotv.pro/live/nowak1/nowak1/780187.m3u8
 http://vocotv.pro/live/nowak1/nowak1/780186.m3u8
 
 # --- USA | NCAAB M (130) ---
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",Green Bay vs IU Indianapolis @ Dec 11 6:30 PM :NCAAB  01
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",Hawk Talk with Brandon Schneider @ Dec 12 11:00 AM :NCAAB  01
 http://vocotv.pro/live/nowak1/nowak1/705581.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",Trinity College of Jacksonville vs Jacksonville @ Dec 11 7:00 PM :NCAAB  02
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",Jerome Tang Show @ Dec 12 3:00 PM :NCAAB  02
 http://vocotv.pro/live/nowak1/nowak1/705580.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",App State vs East Carolina @ Dec 11 7:00 PM :NCAAB  03
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",Army vs UMBC @ Dec 12 6:00 PM :NCAAB  03
 http://vocotv.pro/live/nowak1/nowak1/705579.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",Coastal Georgia vs Georgia Southern @ Dec 11 7:00 PM :NCAAB  04
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",South Carolina State vs Queens University @ Dec 12 7:00 PM :NCAAB  04
 http://vocotv.pro/live/nowak1/nowak1/705578.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",UT Arlington vs UT Rio Grande Valley @ Dec 11 7:30 PM :NCAAB  05
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",Brevard vs Gardner Webb @ Dec 12 7:00 PM :NCAAB  05
 http://vocotv.pro/live/nowak1/nowak1/705577.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",Kevin Young Show @ Dec 11 8:30 PM :NCAAB  06
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",William Peace vs UNC Greensboro @ Dec 12 7:00 PM :NCAAB  06
 http://vocotv.pro/live/nowak1/nowak1/705576.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",North Dakota State vs Cal State Bakersfield @ Dec 11 9:30 PM :NCAAB  07
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",Dallas Christian vs Texas A&M Corpus Christi @ Dec 12 8:00 PM :NCAAB  07
 http://vocotv.pro/live/nowak1/nowak1/705575.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",:NCAAB  08
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",East Tennessee State vs Austin Peay @ Dec 12 8:00 PM :NCAAB  08
 http://vocotv.pro/live/nowak1/nowak1/705574.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",:NCAAB  09
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",East Texas A&M vs McNeese B @ Dec 12 8:30 PM :NCAAB  09
 http://vocotv.pro/live/nowak1/nowak1/705573.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",:NCAAB  10
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",California Baptist vs Eastern Washington @ Dec 12 9:00 PM :NCAAB  10
 http://vocotv.pro/live/nowak1/nowak1/705572.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB M",:NCAAB  11
 http://vocotv.pro/live/nowak1/nowak1/705571.m3u8
@@ -12124,29 +12124,29 @@ http://vocotv.pro/live/nowak1/nowak1/3417.m3u8
 http://vocotv.pro/live/nowak1/nowak1/3416.m3u8
 
 # --- USA | NCAAB W (130) ---
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Dillard vs Norfolk State @ Dec 11 11:00 AM :NCAAB W  01
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Coastal Georgia vs Georgia Southern @ Dec 12 11:00 AM :NCAAB W  01
 http://vocotv.pro/live/nowak1/nowak1/705662.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",St Marys TX vs Incarnate Word @ Dec 11 2:00 PM :NCAAB W  02
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Florida Gulf Coast vs Florida Atlantic @ Dec 12 11:00 AM :NCAAB W  02
 http://vocotv.pro/live/nowak1/nowak1/705661.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Dartmouth vs NJIT @ Dec 11 6:00 PM :NCAAB W  03
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",UT Arlington vs Rice @ Dec 12 12:15 PM :NCAAB W  03
 http://vocotv.pro/live/nowak1/nowak1/705660.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Davis & Elkins vs Marshall @ Dec 11 6:00 PM :NCAAB W  04
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",East Texas A&M vs McNeese A @ Dec 12 6:00 PM :NCAAB W  04
 http://vocotv.pro/live/nowak1/nowak1/705659.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",UNC Asheville vs East Tennessee State @ Dec 11 7:00 PM :NCAAB W  05
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Wright State vs Canisius @ Dec 12 6:30 PM :NCAAB W  05
 http://vocotv.pro/live/nowak1/nowak1/705658.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Indiana State vs Butler @ Dec 11 7:00 PM :NCAAB W  06
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Maine vs Fairfield @ Dec 12 7:00 PM :NCAAB W  06
 http://vocotv.pro/live/nowak1/nowak1/705657.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",North Dakota State vs Eastern Illinois @ Dec 11 7:00 PM :NCAAB W  07
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",SE Louisiana vs Houston Christian @ Dec 12 7:00 PM :NCAAB W  07
 http://vocotv.pro/live/nowak1/nowak1/705656.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Georgia Tech vs West Virginia @ Dec 11 7:00 PM :NCAAB W  08
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",SIUE vs Valparaiso @ Dec 12 7:00 PM :NCAAB W  08
 http://vocotv.pro/live/nowak1/nowak1/705655.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Chattanooga vs Tennessee State @ Dec 11 7:00 PM :NCAAB W  09
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Texas Tech vs Washington State @ Dec 12 9:00 PM :NCAAB W  09
 http://vocotv.pro/live/nowak1/nowak1/705654.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",UMass Lowell vs DePaul @ Dec 11 7:00 PM :NCAAB W  10
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  10
 http://vocotv.pro/live/nowak1/nowak1/705653.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Portland vs Long Beach State @ Dec 11 9:00 PM :NCAAB W  11
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  11
 http://vocotv.pro/live/nowak1/nowak1/705652.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",Idaho State vs BYU @ Dec 11 9:00 PM :NCAAB W  12
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  12
 http://vocotv.pro/live/nowak1/nowak1/705651.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ncaa-basketball-logo-svg-vector.svg" group-title="USA | NCAAB W",:NCAAB W  13
 http://vocotv.pro/live/nowak1/nowak1/705650.m3u8
@@ -13049,46 +13049,52 @@ http://vocotv.pro/live/nowak1/nowak1/268341.m3u8
 #EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/minnesotavikings.jpg" group-title="USA | NFL Teams",NFL Teams: FOX Vikings (KMSP) Minneapolis-St. Paul
 http://vocotv.pro/live/nowak1/nowak1/268340.m3u8
 
-# --- USA | NHL (26) ---
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",San Jose Sharks vs Toronto Maple Leafs (Sharks Broadcast) @ Dec 11 6:30 PM :NHL  01
-http://vocotv.pro/live/nowak1/nowak1/2598.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",San Jose Sharks vs Toronto Maple Leafs (Maple Leafs Broadcast) @ Dec 11 6:30 PM :NHL  02
+# --- USA | NHL (29) ---
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",Seattle Kraken vs Utah Mammoth (Kraken Broadcast) @ Dec 12 8:30 PM :NHL  02
 http://vocotv.pro/live/nowak1/nowak1/2597.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",Anaheim Ducks vs New York Islanders (Islanders Broadcast) @ Dec 11 6:30 PM :NHL  05
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",Seattle Kraken vs Utah Mammoth (Mammoth Broadcast) @ Dec 12 8:30 PM :NHL  03
+http://vocotv.pro/live/nowak1/nowak1/2596.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",:NHL  04
+http://vocotv.pro/live/nowak1/nowak1/2595.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",:NHL  05
 http://vocotv.pro/live/nowak1/nowak1/2594.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",Anaheim Ducks vs New York Islanders (Ducks Broadcast) @ Dec 11 6:30 PM :NHL  06
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",:NHL  06
 http://vocotv.pro/live/nowak1/nowak1/2593.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",Carolina Hurricanes vs Washington Capitals (Hurricanes Broadcast) @ Dec 11 6:30 PM :NHL  07
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",:NHL  07
 http://vocotv.pro/live/nowak1/nowak1/2592.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",Carolina Hurricanes vs Washington Capitals (Capitals Broadcast) @ Dec 11 6:30 PM :NHL  08
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",:NHL  08
 http://vocotv.pro/live/nowak1/nowak1/2591.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",Tampa Bay Lightning vs New Jersey Devils (Devils Broadcast) @ Dec 11 6:30 PM :NHL  09
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",:NHL  09
 http://vocotv.pro/live/nowak1/nowak1/2590.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",Tampa Bay Lightning vs New Jersey Devils (Lightning Broadcast) @ Dec 11 6:30 PM :NHL  10
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",:NHL  10
 http://vocotv.pro/live/nowak1/nowak1/2589.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",Vegas vs Philadelphia @ Dec 11 7:00 PM :NHL  11
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",:NHL  11
 http://vocotv.pro/live/nowak1/nowak1/2588.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",Montreal Canadiens vs Pittsburgh Penguins (Canadiens Broadcast) @ Dec 11 7:00 PM :NHL  12
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",:NHL  12
 http://vocotv.pro/live/nowak1/nowak1/2587.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",Montreal Canadiens vs Pittsburgh Penguins (Penguins Broadcast) @ Dec 11 7:00 PM :NHL  13
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",:NHL  13
 http://vocotv.pro/live/nowak1/nowak1/2586.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",Dallas Stars vs Minnesota Wild (Stars Broadcast) @ Dec 11 7:30 PM :NHL  16
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",:NHL  14
+http://vocotv.pro/live/nowak1/nowak1/2585.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",:NHL  15
+http://vocotv.pro/live/nowak1/nowak1/2584.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",:NHL  16
 http://vocotv.pro/live/nowak1/nowak1/2583.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",Dallas Stars vs Minnesota Wild (Wild Broadcast) @ Dec 11 7:30 PM :NHL  17
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",:NHL  17
 http://vocotv.pro/live/nowak1/nowak1/2582.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",Boston Bruins vs Winnipeg Jets (Bruins Broadcast) @ Dec 11 8:00 PM :NHL  18
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",:NHL  18
 http://vocotv.pro/live/nowak1/nowak1/2581.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",Boston Bruins vs Winnipeg Jets (Jets Broadcast) @ Dec 11 8:00 PM :NHL  19
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",:NHL  19
 http://vocotv.pro/live/nowak1/nowak1/2580.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",Detroit Red Wings vs Edmonton Oilers (Oilers Broadcast) @ Dec 11 8:30 PM :NHL  20
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",:NHL  20
 http://vocotv.pro/live/nowak1/nowak1/2579.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",Detroit Red Wings vs Edmonton Oilers (Red Wings Broadcast) @ Dec 11 8:30 PM :NHL  21
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",:NHL  21
 http://vocotv.pro/live/nowak1/nowak1/2578.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",Florida vs Colorado @ Dec 11 9:30 PM :NHL  22
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",:NHL  22
 http://vocotv.pro/live/nowak1/nowak1/2577.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",Buffalo Sabres vs Vancouver Canucks (Sabres Broadcast) @ Dec 11 10:00 PM :NHL  23
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",:NHL  23
 http://vocotv.pro/live/nowak1/nowak1/2576.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",Buffalo Sabres vs Vancouver Canucks (Canucks Broadcast) @ Dec 11 10:00 PM :NHL  24
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",:NHL  24
 http://vocotv.pro/live/nowak1/nowak1/2575.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",:NHL  25
 http://vocotv.pro/live/nowak1/nowak1/2574.m3u8
@@ -14290,79 +14296,79 @@ http://vocotv.pro/live/nowak1/nowak1/621981.m3u8
 http://vocotv.pro/live/nowak1/nowak1/621980.m3u8
 
 # --- USA | Paramount + (100) ---
-#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",UEFA Europa League: Utrecht vs Nottingham Forest @ Dec 11 12:00 PM :Paramount+  01
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",Serie A: Lecce vs Pisa @ Dec 12 2:35 PM :Paramount+  01
 http://vocotv.pro/live/nowak1/nowak1/297801.m3u8
-#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",UEFA Conference League: Fiorentina vs Dynamo Kyiv @ Dec 11 12:00 PM :Paramount+  02
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",SPFL: Ayr United vs St Johnstone @ Dec 12 2:40 PM :Paramount+  02
 http://vocotv.pro/live/nowak1/nowak1/297800.m3u8
-#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",UEFA Europa League: The Golazo Show @ Dec 11 12:00 PM :Paramount+  03
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",English Football League: West Bromwich Albion vs Sheffield United @ Dec 12 2:50 PM :Paramount+  03
 http://vocotv.pro/live/nowak1/nowak1/297799.m3u8
-#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",UEFA Conference League: Samsunspor vs AEK Athens @ Dec 11 12:00 PM :Paramount+  04
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",PBR: Unleash The Beast: PBR Manchester Day 1 @ Dec 12 8:00 PM :Paramount+  04
 http://vocotv.pro/live/nowak1/nowak1/297798.m3u8
-#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",UEFA Europa League: Sturm Graz vs Crvena Zvezda @ Dec 11 12:00 PM :Paramount+  05
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",:Paramount+  05
 http://vocotv.pro/live/nowak1/nowak1/297797.m3u8
-#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",UEFA Conference League: Häcken vs AEK Larnaca @ Dec 11 12:00 PM :Paramount+  06
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",:Paramount+  06
 http://vocotv.pro/live/nowak1/nowak1/297796.m3u8
-#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",UEFA Europa League: Young Boys vs Lille @ Dec 11 12:00 PM :Paramount+  07
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",:Paramount+  07
 http://vocotv.pro/live/nowak1/nowak1/297795.m3u8
-#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",UEFA Conference League: Shkëndija vs Slovan Bratislava @ Dec 11 12:00 PM :Paramount+  08
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",:Paramount+  08
 http://vocotv.pro/live/nowak1/nowak1/297794.m3u8
-#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",UEFA Europa League: Dinamo Zagreb vs Real Betis @ Dec 11 12:00 PM :Paramount+  09
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",:Paramount+  09
 http://vocotv.pro/live/nowak1/nowak1/297793.m3u8
-#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",UEFA Conference League: Jagiellonia Białystok vs Rayo Vallecano @ Dec 11 12:00 PM :Paramount+  10
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",:Paramount+  10
 http://vocotv.pro/live/nowak1/nowak1/297792.m3u8
-#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",UEFA Europa League: Nice vs Braga @ Dec 11 12:00 PM :Paramount+  11
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",:Paramount+  11
 http://vocotv.pro/live/nowak1/nowak1/297791.m3u8
-#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",UEFA Conference League: Breiðablik vs Shamrock Rovers @ Dec 11 12:00 PM :Paramount+  12
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",:Paramount+  12
 http://vocotv.pro/live/nowak1/nowak1/297790.m3u8
-#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",UEFA Europa League: Ferencváros vs Rangers @ Dec 11 12:00 PM :Paramount+  13
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",:Paramount+  13
 http://vocotv.pro/live/nowak1/nowak1/297789.m3u8
-#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",UEFA Conference League: Drita vs AZ Alkmaar @ Dec 11 12:00 PM :Paramount+  14
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",:Paramount+  14
 http://vocotv.pro/live/nowak1/nowak1/297788.m3u8
-#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",UEFA Europa League: Ludogorets vs PAOK @ Dec 11 12:00 PM :Paramount+  15
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",:Paramount+  15
 http://vocotv.pro/live/nowak1/nowak1/297787.m3u8
-#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",UEFA Conference League: U Craiova vs Sparta Praha @ Dec 11 12:00 PM :Paramount+  16
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",:Paramount+  16
 http://vocotv.pro/live/nowak1/nowak1/297786.m3u8
-#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",UEFA Europa League: Stuttgart vs Maccabi Tel Aviv @ Dec 11 12:00 PM :Paramount+  17
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",:Paramount+  17
 http://vocotv.pro/live/nowak1/nowak1/297785.m3u8
-#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",UEFA Conference League: Noah vs Legia Warszawa @ Dec 11 12:00 PM :Paramount+  18
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",:Paramount+  18
 http://vocotv.pro/live/nowak1/nowak1/297784.m3u8
-#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",UEFA Europa League: Midtjylland vs Genk @ Dec 11 12:00 PM :Paramount+  19
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",:Paramount+  19
 http://vocotv.pro/live/nowak1/nowak1/297783.m3u8
-#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",UEFA Europa League: Basel vs Aston Villa @ Dec 11 2:50 PM :Paramount+  20
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",:Paramount+  20
 http://vocotv.pro/live/nowak1/nowak1/297782.m3u8
-#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",UEFA Conference League: Shelbourne vs Crystal Palace @ Dec 11 2:50 PM :Paramount+  21
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",:Paramount+  21
 http://vocotv.pro/live/nowak1/nowak1/297781.m3u8
-#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",UEFA Conference League: Raków vs Zrinjski @ Dec 11 2:50 PM :Paramount+  22
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",:Paramount+  22
 http://vocotv.pro/live/nowak1/nowak1/297780.m3u8
-#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",UEFA Europa League: Porto vs Malmö @ Dec 11 2:50 PM :Paramount+  23
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",:Paramount+  23
 http://vocotv.pro/live/nowak1/nowak1/297779.m3u8
-#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",UEFA Conference League: SK Rapid vs Omonoia @ Dec 11 2:50 PM :Paramount+  24
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",:Paramount+  24
 http://vocotv.pro/live/nowak1/nowak1/297778.m3u8
-#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",UEFA Europa League: Lyon vs Go Ahead Eagles @ Dec 11 2:50 PM :Paramount+  25
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",:Paramount+  25
 http://vocotv.pro/live/nowak1/nowak1/297777.m3u8
-#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",UEFA Conference League: Rijeka vs Celje @ Dec 11 2:50 PM :Paramount+  26
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",:Paramount+  26
 http://vocotv.pro/live/nowak1/nowak1/297776.m3u8
-#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",UEFA Europa League: FCSB vs Feyenoord @ Dec 11 2:50 PM :Paramount+  27
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",:Paramount+  27
 http://vocotv.pro/live/nowak1/nowak1/297775.m3u8
-#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",UEFA Conference League: Hamrun Spartans vs Shakhtar Donetsk @ Dec 11 2:50 PM :Paramount+  28
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",:Paramount+  28
 http://vocotv.pro/live/nowak1/nowak1/297774.m3u8
-#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",UEFA Europa League: Freiburg vs RB Salzburg @ Dec 11 2:50 PM :Paramount+  29
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",:Paramount+  29
 http://vocotv.pro/live/nowak1/nowak1/297773.m3u8
-#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",UEFA Conference League: Lech Poznań vs Mainz @ Dec 11 2:50 PM :Paramount+  30
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",:Paramount+  30
 http://vocotv.pro/live/nowak1/nowak1/297772.m3u8
-#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",UEFA Europa League: Brann vs Fenerbahçe @ Dec 11 2:50 PM :Paramount+  31
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",:Paramount+  31
 http://vocotv.pro/live/nowak1/nowak1/297771.m3u8
-#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",UEFA Conference League: Aberdeen vs Strasbourg @ Dec 11 2:50 PM :Paramount+  32
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",:Paramount+  32
 http://vocotv.pro/live/nowak1/nowak1/297770.m3u8
-#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",UEFA Europa League: Celtic vs Roma @ Dec 11 2:50 PM :Paramount+  33
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",:Paramount+  33
 http://vocotv.pro/live/nowak1/nowak1/297769.m3u8
-#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",UEFA Conference League: L Red Imps vs Sigma Olomouc @ Dec 11 2:50 PM :Paramount+  34
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",:Paramount+  34
 http://vocotv.pro/live/nowak1/nowak1/297768.m3u8
-#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",UEFA Europa League: Celta vs Bologna @ Dec 11 2:50 PM :Paramount+  35
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",:Paramount+  35
 http://vocotv.pro/live/nowak1/nowak1/297767.m3u8
-#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",UEFA Conference League: KuPS Kuopio vs Lausanne Sport @ Dec 11 2:50 PM :Paramount+  36
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",:Paramount+  36
 http://vocotv.pro/live/nowak1/nowak1/297766.m3u8
-#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",UEFA Europa League: Panathinaikos vs Viktoria Plzeň @ Dec 11 2:50 PM :Paramount+  37
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",:Paramount+  37
 http://vocotv.pro/live/nowak1/nowak1/297765.m3u8
 #EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="USA | Paramount +",:Paramount+  38
 http://vocotv.pro/live/nowak1/nowak1/297764.m3u8
@@ -14516,13 +14522,13 @@ http://vocotv.pro/live/nowak1/nowak1/324398.m3u8
 http://vocotv.pro/live/nowak1/nowak1/324397.m3u8
 
 # --- USA | Peacock Events (50) ---
-#EXTINF:-1 tvg-logo="" group-title="USA | Peacock Events",Womens Qualifier 2 @ Dec 11 13:00 PM :Peacock Event  01
+#EXTINF:-1 tvg-logo="" group-title="USA | Peacock Events",World Cup SS Hamar 1 @ Dec 12 12:30 PM :Peacock Event  01
 http://vocotv.pro/live/nowak1/nowak1/698670.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/157571141760_image-header_pCa_1671040248000/fill/center/top/none/85/800/600/png/image" group-title="USA | Peacock Events",World Darts Champ Day 1 @ Dec 11 13:30 PM :Peacock Event  02
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/157571141760_image-header_pCa_1671040248000/fill/center/top/none/85/800/600/png/image" group-title="USA | Peacock Events",World Darts Champ Day 2 @ Dec 12 14:00 PM :Peacock Event  02
 http://vocotv.pro/live/nowak1/nowak1/698669.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA | Peacock Events",Mens Qualifier 2 @ Dec 11 18:00 PM :Peacock Event  03
+#EXTINF:-1 tvg-logo="" group-title="USA | Peacock Events",Luge World Cup Park City 1 @ Dec 12 17:00 PM :Peacock Event  03
 http://vocotv.pro/live/nowak1/nowak1/698668.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA | Peacock Events",Tigres vs Toluca Español @ Dec 11 20:30 PM :Peacock Event  04
+#EXTINF:-1 tvg-logo="" group-title="USA | Peacock Events",:Peacock Event  04
 http://vocotv.pro/live/nowak1/nowak1/698667.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/a70541484c82e651fdecae4f5938fc87.png" group-title="USA | Peacock Events",:Peacock Event  05
 http://vocotv.pro/live/nowak1/nowak1/698666.m3u8
@@ -15316,15 +15322,15 @@ http://vocotv.pro/live/nowak1/nowak1/623133.m3u8
 http://vocotv.pro/live/nowak1/nowak1/623131.m3u8
 
 # --- USA | SEC+ (200) ---
-#EXTINF:-1 tvg-logo="https://www.secsports.com/imgproxy/OlGCAttQzqP5qOmK1JLjpLB3XrnO8P9n67bYlnHug8I/rs:fit:1150:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3NlY3Nwb3J0cy1wcm9kL3VwbG9hZC8yMDIzLzExLzA5LzE5MzA3NWM4LTc3ZmItNDYyYi04ZjJhLWZlMWQzZjIxMmRiZC5qcGc.jpg" group-title="USA | SEC+",College: Kentucky vs Tennessee @ Dec 11 2:00 PM :SEC+  01
+#EXTINF:-1 tvg-logo="https://www.secsports.com/imgproxy/OlGCAttQzqP5qOmK1JLjpLB3XrnO8P9n67bYlnHug8I/rs:fit:1150:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3NlY3Nwb3J0cy1wcm9kL3VwbG9hZC8yMDIzLzExLzA5LzE5MzA3NWM4LTc3ZmItNDYyYi04ZjJhLWZlMWQzZjIxMmRiZC5qcGc.jpg" group-title="USA | SEC+",NCAA Football: South Carolina Football Press Conference @ Dec 12 10:00 AM :SEC+  01
 http://vocotv.pro/live/nowak1/nowak1/774902.m3u8
-#EXTINF:-1 tvg-logo="https://www.secsports.com/imgproxy/OlGCAttQzqP5qOmK1JLjpLB3XrnO8P9n67bYlnHug8I/rs:fit:1150:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3NlY3Nwb3J0cy1wcm9kL3VwbG9hZC8yMDIzLzExLzA5LzE5MzA3NWM4LTc3ZmItNDYyYi04ZjJhLWZlMWQzZjIxMmRiZC5qcGc.jpg" group-title="USA | SEC+",NCAAW: Little Rock vs #9 Oklahoma @ Dec 11 7:00 PM :SEC+  02
+#EXTINF:-1 tvg-logo="https://www.secsports.com/imgproxy/OlGCAttQzqP5qOmK1JLjpLB3XrnO8P9n67bYlnHug8I/rs:fit:1150:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3NlY3Nwb3J0cy1wcm9kL3VwbG9hZC8yMDIzLzExLzA5LzE5MzA3NWM4LTc3ZmItNDYyYi04ZjJhLWZlMWQzZjIxMmRiZC5qcGc.jpg" group-title="USA | SEC+",NCAA Football: Sooner Football with Brent Venables Postseason Preview @ Dec 12 4:00 PM :SEC+  02
 http://vocotv.pro/live/nowak1/nowak1/774901.m3u8
-#EXTINF:-1 tvg-logo="https://www.secsports.com/imgproxy/OlGCAttQzqP5qOmK1JLjpLB3XrnO8P9n67bYlnHug8I/rs:fit:1150:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3NlY3Nwb3J0cy1wcm9kL3VwbG9hZC8yMDIzLzExLzA5LzE5MzA3NWM4LTc3ZmItNDYyYi04ZjJhLWZlMWQzZjIxMmRiZC5qcGc.jpg" group-title="USA | SEC+",NCAAM: Alabama State vs Missouri @ Dec 11 8:00 PM :SEC+  03
+#EXTINF:-1 tvg-logo="https://www.secsports.com/imgproxy/OlGCAttQzqP5qOmK1JLjpLB3XrnO8P9n67bYlnHug8I/rs:fit:1150:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3NlY3Nwb3J0cy1wcm9kL3VwbG9hZC8yMDIzLzExLzA5LzE5MzA3NWM4LTc3ZmItNDYyYi04ZjJhLWZlMWQzZjIxMmRiZC5qcGc.jpg" group-title="USA | SEC+",NCAA Wrestling: West Virginia vs North Carolina @ Dec 12 7:00 PM :SEC+  03
 http://vocotv.pro/live/nowak1/nowak1/774900.m3u8
-#EXTINF:-1 tvg-logo="https://www.secsports.com/imgproxy/OlGCAttQzqP5qOmK1JLjpLB3XrnO8P9n67bYlnHug8I/rs:fit:1150:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3NlY3Nwb3J0cy1wcm9kL3VwbG9hZC8yMDIzLzExLzA5LzE5MzA3NWM4LTc3ZmItNDYyYi04ZjJhLWZlMWQzZjIxMmRiZC5qcGc.jpg" group-title="USA | SEC+",NCAAW: Morehead State vs #19 Notre Dame @ Dec 11 7:00 PM :SEC+  04
+#EXTINF:-1 tvg-logo="https://www.secsports.com/imgproxy/OlGCAttQzqP5qOmK1JLjpLB3XrnO8P9n67bYlnHug8I/rs:fit:1150:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3NlY3Nwb3J0cy1wcm9kL3VwbG9hZC8yMDIzLzExLzA5LzE5MzA3NWM4LTc3ZmItNDYyYi04ZjJhLWZlMWQzZjIxMmRiZC5qcGc.jpg" group-title="USA | SEC+",:SEC+  04
 http://vocotv.pro/live/nowak1/nowak1/774899.m3u8
-#EXTINF:-1 tvg-logo="https://www.secsports.com/imgproxy/OlGCAttQzqP5qOmK1JLjpLB3XrnO8P9n67bYlnHug8I/rs:fit:1150:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3NlY3Nwb3J0cy1wcm9kL3VwbG9hZC8yMDIzLzExLzA5LzE5MzA3NWM4LTc3ZmItNDYyYi04ZjJhLWZlMWQzZjIxMmRiZC5qcGc.jpg" group-title="USA | SEC+",NCAAM: Western Carolina vs Virginia Tech @ Dec 11 7:00 PM :SEC+  05
+#EXTINF:-1 tvg-logo="https://www.secsports.com/imgproxy/OlGCAttQzqP5qOmK1JLjpLB3XrnO8P9n67bYlnHug8I/rs:fit:1150:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3NlY3Nwb3J0cy1wcm9kL3VwbG9hZC8yMDIzLzExLzA5LzE5MzA3NWM4LTc3ZmItNDYyYi04ZjJhLWZlMWQzZjIxMmRiZC5qcGc.jpg" group-title="USA | SEC+",:SEC+  05
 http://vocotv.pro/live/nowak1/nowak1/774898.m3u8
 #EXTINF:-1 tvg-logo="https://www.secsports.com/imgproxy/OlGCAttQzqP5qOmK1JLjpLB3XrnO8P9n67bYlnHug8I/rs:fit:1150:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3NlY3Nwb3J0cy1wcm9kL3VwbG9hZC8yMDIzLzExLzA5LzE5MzA3NWM4LTc3ZmItNDYyYi04ZjJhLWZlMWQzZjIxMmRiZC5qcGc.jpg" group-title="USA | SEC+",:SEC+  06
 http://vocotv.pro/live/nowak1/nowak1/774897.m3u8
@@ -17253,4 +17259,4 @@ http://vocotv.pro/live/nowak1/nowak1/782969.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/29/1/christmas-tree-logo-png_seeklogo-294102.png" group-title="❄ Xmas Specials",❄  Ambient 5 ᴴᴰ
 http://vocotv.pro/live/nowak1/nowak1/782968.m3u8
 
-# Total: 8535
+# Total: 8538

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: client.newborntv.xyz:88
-# Generated: 2025-12-12 18:33:21
+# Generated: 2025-12-13 07:01:06
 # Expires: 2026-02-22
 # Family Safe Edition
 # ==============================================
@@ -7513,9 +7513,35 @@ http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/86834.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4bKlTeOUr5AKrLky8mwWvlQqyVd.jpg" group-title="Movies | Unknown",The Killer's Game (2024)
 http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/100934.mp4
 
-# --- Movies | VOD DE (584) ---
+# --- Movies | VOD DE (597) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgEoCEMWWt7E1esLeok7G99uXtq.jpg" group-title="Movies | VOD DE",Greedy People: Gelegenheit macht gierig (2024)
 http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/97812.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2dJC5X6EW5pW986MwRkKc5fVCnR.jpg" group-title="Movies | VOD DE",Wake Up Dead Man: A Knives Out Mystery (2025)
+http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/114520.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0pR5aBVvPn5uncaZjl94ZEnuEF.jpg" group-title="Movies | VOD DE",The Witcher: Sirens of the Deep (2025)
+http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/114519.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0o7XtI0WWdLzlK9hVT8lQTB6Yd.jpg" group-title="Movies | VOD DE",The Thursday Murder Club (2025)
+http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/114518.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qja3dCWOJsqKMuJCmTb31pWvgY5.jpg" group-title="Movies | VOD DE",The Smashing Machine (2025)
+http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/114517.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pvchnSWODuH4ON3HM9hMIH8Fqxo.jpg" group-title="Movies | VOD DE",The Running Man (2025)
+http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/114516.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uubL8yvtEBjz3V7DFQHjCuSQO8w.jpg" group-title="Movies | VOD DE",The Ritual (2025)
+http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/114515.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dj7h3ioawIvoipj0k0zfP3XjB1x.jpg" group-title="Movies | VOD DE",The Death of Snow White (2025)
+http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/114514.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvebFZgb6HczmYkOA43bGfSrvYl.jpg" group-title="Movies | VOD DE",Tell Me Softly (2025)
+http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/114513.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmLoMyofbseLfxiGgk1Iz5H97c3.jpg" group-title="Movies | VOD DE",Steve (2025)
+http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/114512.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/izTH8rYFW9l1zJIQCqVnA748iJb.jpg" group-title="Movies | VOD DE",Die Rache der Polly McClusky (2025)
+http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/114511.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/keLqJFA2W7T1d9fhSVbjmJIobUU.jpg" group-title="Movies | VOD DE",Rave On (2025)
+http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/114510.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fi7GXCxe0hIQRWwvIkZ1wI3fCHk.jpg" group-title="Movies | VOD DE",Nürnberg (2025)
+http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/114509.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bT2qcTXVNUbeIMjbggB14Wyymgi.jpg" group-title="Movies | VOD DE",Mononoke the Movie: Chapter II - The Ashes of Rage (2025)
+http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/114508.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iK6c0hV0FcClqnKQdisCLACnucr.jpg" group-title="Movies | VOD DE",Zoomania 2 (2025)
 http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/114487.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aPJVxNLNffSeiEgJPo1b3yAkZP2.jpg" group-title="Movies | VOD DE",Wunderschöner (2025)
@@ -11861,4 +11887,4 @@ http://client.newborntv.xyz:88/series/khFzEWQn/fP85XcC7E/248
 #EXTINF:-1 tvg-logo="" group-title="Series | Netflix Series",Squid Game: The Challenge
 http://client.newborntv.xyz:88/series/khFzEWQn/fP85XcC7E/247
 
-# Total: 5897
+# Total: 5910

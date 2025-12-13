@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: exclusifott.pro:80
-# Generated: 2025-12-12 18:29:58
+# Generated: 2025-12-13 07:11:31
 # Expires: 2026-05-21
 # Family Safe Edition
 # ==============================================
@@ -15559,7 +15559,9 @@ http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/20559
 #EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| DISNEY+ SERIES",D+ - American Born Chinese (2023)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/28051
 
-# --- Series | |MULTI| NETFLIX SERIES (1120) ---
+# --- Series | |MULTI| NETFLIX SERIES (1121) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - City of Shadows (2025) (ES)
+http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/46944
 #EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - Love Is Blind: Italy (2025) (IT)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/46821
 #EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - Gilmore Girls: A Year in the Life (2016) (US)
@@ -15720,7 +15722,7 @@ http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/850
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/852
 #EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - Hache
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/853
-#EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - Home for Christmas
+#EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - Home for Christmas (2019) (NO)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/854
 #EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - Money Heist (ES)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/855
@@ -18009,4 +18011,4 @@ http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35745
 #EXTINF:-1 tvg-logo="" group-title="Series | |RO| ROMANIAN SERIES",RO - Resident Evil: Infinite Darkness (2021)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35746
 
-# Total: 8957
+# Total: 8958

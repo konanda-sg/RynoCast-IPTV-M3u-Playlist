@@ -1,8 +1,8 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: brone.fyi
-# Generated: 2025-12-12 18:39:44
-# Expires: 2025-12-18
+# Generated: 2025-12-13 07:10:00
+# Expires: 2026-01-17
 # Family Safe Edition
 # ==============================================
 
@@ -5385,7 +5385,7 @@ http://brone.fyi/movie/felipe_irma/Teste44/331051.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wB4C9JFgI7YHlxeI5QM9GrpTbTf.jpg" group-title="Movies | CLASSICO",VAMPIROS DE JOHN CARPENTER
 http://brone.fyi/movie/felipe_irma/Teste44/331053.mp4
 
-# --- Movies | COMEDIA (1703) ---
+# --- Movies | COMEDIA (1704) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxHwFDH0HlAZjVAnX0gd619Bahk.jpg" group-title="Movies | COMEDIA",10 ANOS DE PURA AMIZADE
 http://brone.fyi/movie/felipe_irma/Teste44/263742.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WImK7UIRY7fZ0l9UwnxbP74w1p.jpg" group-title="Movies | COMEDIA",10 COISAS QUE EU ODEIO EM VOCE
@@ -8792,6 +8792,8 @@ http://brone.fyi/movie/felipe_irma/Teste44/330035.mp4
 http://brone.fyi/movie/felipe_irma/Teste44/330038.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIyWIT8LuJ7D9Q4AgM7QcSwDx4m.jpg" group-title="Movies | COMEDIA",PRECISAMOS CONVERSAR
 http://brone.fyi/movie/felipe_irma/Teste44/331028.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/higgVcog1KXGC2uHjzZNNNb5xa3.jpg" group-title="Movies | COMEDIA",VOANDO ALTO 2003
+http://brone.fyi/movie/felipe_irma/Teste44/331631.mp4
 
 # --- Movies | DESENHOS (89) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DESENHOS",O MASKARA
@@ -29193,7 +29195,7 @@ http://brone.fyi/movie/felipe_irma/Teste44/330153.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9I5XZ0izVJ0CHqInfv5X9sl2o0.jpg" group-title="Movies | TOP MENSAL",OS SNEETCHES
 http://brone.fyi/movie/felipe_irma/Teste44/330154.mp4
 
-# --- Series | SERIES | AMAZON PRIME (368) ---
+# --- Series | SERIES | AMAZON PRIME (369) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | AMAZON PRIME",FEAR THE WALKING DEAD
 http://brone.fyi/series/felipe_irma/Teste44/18
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | AMAZON PRIME",UMA NOITE DE CRIME
@@ -29930,6 +29932,8 @@ http://brone.fyi/series/felipe_irma/Teste44/4108
 http://brone.fyi/series/felipe_irma/Teste44/4133
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | AMAZON PRIME",THE HUNTING PARTY
 http://brone.fyi/series/felipe_irma/Teste44/4159
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES | AMAZON PRIME",BOONDOCKS
+http://brone.fyi/series/felipe_irma/Teste44/4184
 
 # --- Series | SERIES | APPLE TV (158) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | APPLE TV",TRUTH BE TOLD
@@ -35483,4 +35487,4 @@ http://brone.fyi/series/felipe_irma/Teste44/3096
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | VIKI ROKUTEN",MERITISSIMO
 http://brone.fyi/series/felipe_irma/Teste44/3777
 
-# Total: 17696
+# Total: 17698

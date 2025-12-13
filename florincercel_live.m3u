@@ -1,13 +1,13 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: florincercel.gotdns.ch:8008
-# Generated: 2025-12-12 18:33:33
+# Generated: 2025-12-13 07:01:39
 # Expires: 2026-01-08
 # Family Safe Edition
 # ==============================================
 
 
-# --- ALBANIA (542) ---
+# --- ALBANIA (541) ---
 #EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="ALBANIA",AL: Zhunica Humor
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/543544.m3u8
 #EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="ALBANIA",AL: WebStar Thriller
@@ -756,8 +756,6 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/543163.m3u8
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/543162.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/f366c3269e64ff77d0a400580951a96e.png" group-title="ALBANIA",AL: Klan Plus
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/543161.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/f5069fbc944f9b037859da85c68e725e.png" group-title="ALBANIA",AL: Klan Kosova
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/543160.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c7fd10691cc843f95f0908905480eea0.png" group-title="ALBANIA",AL: First Channel
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/543158.m3u8
 #EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="ALBANIA",AL: Fashion TV
@@ -1265,7 +1263,7 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/544878.m3u8
 #EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="CANADA",CA: ABC EAST
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/544877.m3u8
 
-# --- FRANTA (76) ---
+# --- FRANTA (75) ---
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/82df7506a0d95b7de2d63e1717860e63.png" group-title="FRANTA",FR: Vosges TV
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/544502.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/30215d94d574102bea81c3169446bdac.jpg" group-title="FRANTA",FR: TV8 Mont Blanc
@@ -1394,8 +1392,6 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/544422.m3u8
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/544421.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="FRANTA",FR: Bob leponge
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/544420.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="FRANTA",FR: BFM Grand Littoral
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/544417.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/390b7a05da50b0b9768b41bc0e730434.png" group-title="FRANTA",FR: BFM Business
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/544416.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="FRANTA",FR: A LA CARTE 19
@@ -1419,7 +1415,7 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/544407.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="FRANTA",FR: A La Carte 10
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/544406.m3u8
 
-# --- GERMANIA (160) ---
+# --- GERMANIA (159) ---
 #EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="GERMANIA",DE: Willkommen bei den Louds
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/544819.m3u8
 #EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="GERMANIA",DE: Wicked Tuna
@@ -1432,8 +1428,6 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/544815.m3u8
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/544814.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GERMANIA",DE: Totally Turtles
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/544813.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GERMANIA",DE: Stern Filme 9
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/544811.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GERMANIA",DE: Stern Filme 7
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/544809.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GERMANIA",DE: Stern Filme 6
@@ -2105,9 +2099,7 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/544211.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f788bcac32ac0fa2c85d6174ac269779.png" group-title="GRECIA",GR: Baby TV
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/544210.m3u8
 
-# --- ITALIA (291) ---
-#EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="ITALIA",IT: Yu-Gi-Oh! Italy
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/544179.m3u8
+# --- ITALIA (290) ---
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/60609cb2b41d68f6915265893f8053c3.jpg" group-title="ITALIA",IT: WWE Channel
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/544178.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/02a705e9a6716b14b07da7d8d5e3b355.png" group-title="ITALIA",IT: VideoTolentino
@@ -2688,70 +2680,6 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/543865.m3u8
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/543864.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/4e6fb769f0d5c77677d7913c75377044.png" group-title="ITALIA",IT: Baby TV
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/543863.m3u8
-
-# --- MOLDOVA TV (31) ---
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/protvchisinau.png" group-title="MOLDOVA TV",PRO TV CHISINAU
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/555210.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8e5pWqDR3xEag_ZKeI2ISF-CQAa5GoGXpiQiA2Mq9bO-TuIaLzAg-XWyaXb64eY6cfU4&usqp=CAU" group-title="MOLDOVA TV",MOLDOVA 1 HD
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/555205.m3u8
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/2.png" group-title="MOLDOVA TV",MOLDOVA 2 HD
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/555226.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Gurinel_TV_Logo_2.png/revision/latest/scale-to-width-down/985?cb=20250103193357" group-title="MOLDOVA TV",GURINEL HD
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/555228.m3u8
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/7tv.png" group-title="MOLDOVA TV",7 TV HD
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/555236.m3u8
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/agrotv.png" group-title="MOLDOVA TV",AGRO TV MOLDOVA HD
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/555235.m3u8
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/drochiatv.png" group-title="MOLDOVA TV",DROCHIA TV HD
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/555233.m3u8
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/elitatv.png" group-title="MOLDOVA TV",ELITA TV HD
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/555232.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Axial_TV.jpg?20181118213640" group-title="MOLDOVA TV",AXIAL HD
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/555231.m3u8
-#EXTINF:-1 tvg-logo="https://global24.com/wp-content/uploads/2022/10/Global24-logo-1.png" group-title="MOLDOVA TV",GLOBAL 24 MD
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/555230.m3u8
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/grt.png" group-title="MOLDOVA TV",GRT GAGAUZIA HD
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/555229.m3u8
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/mega.png" group-title="MOLDOVA TV",MEGA HD
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/555227.m3u8
-#EXTINF:-1 tvg-logo="https://ntstv.md/wp-content/uploads/2024/05/logo_nts_blue.png" group-title="MOLDOVA TV",NTS TARACLIA HD
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/555225.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Popas_TV_2015.png/revision/latest?cb=20230402092301" group-title="MOLDOVA TV",POPAS TV HD
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/555224.m3u8
-#EXTINF:-1 tvg-logo="https://canalregionaltv.md/wp-content/uploads/2023/10/Logo_r.png" group-title="MOLDOVA TV",REGIONAL TV HD
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/555223.m3u8
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/sortv.png" group-title="MOLDOVA TV",SOR TV HD
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/555222.m3u8
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/studiol.png" group-title="MOLDOVA TV",STUDIO L HD
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/555220.m3u8
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/voceabasarabiei.png" group-title="MOLDOVA TV",VOCEA BASARABIEI HD
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/555219.m3u8
-#EXTINF:-1 tvg-logo="https://fmf.md/cdn/news/10458/1%20wesport-blue%20full%20(2)%20-10458-1730802411.png" group-title="MOLDOVA TV",WE SPORT HD
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/555218.m3u8
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/zonam.png" group-title="MOLDOVA TV",ZONA M HD
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/555217.m3u8
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tezaurtv.png" group-title="MOLDOVA TV",TEZAUR HD
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/555216.m3u8
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tht.png" group-title="MOLDOVA TV",THT EXCLUSIVE HD
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/555215.m3u8
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tv8.png" group-title="MOLDOVA TV",TV8 HD
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/555214.m3u8
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tvc21.png" group-title="MOLDOVA TV",TVC21 HD
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/555213.m3u8
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/jurnaltv.png" group-title="MOLDOVA TV",JURNAL TV HD
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/555212.m3u8
-#EXTINF:-1 tvg-logo="https://www.privesc.eu/images/logo.png" group-title="MOLDOVA TV",PRIVESC.EU HD
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/555211.m3u8
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/realitateatv.png" group-title="MOLDOVA TV",REALITATEA MD
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/555209.m3u8
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/onetv.png" group-title="MOLDOVA TV",ONE TV HD
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/555208.m3u8
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/n4.png" group-title="MOLDOVA TV",N4 HD
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/555207.m3u8
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/noroctv.png" group-title="MOLDOVA TV",NOROC TV
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/555206.m3u8
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/busuioctv.png" group-title="MOLDOVA TV",BUSUIOC HD
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/555204.m3u8
 
 # --- NORVEGIA (57) ---
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="NORVEGIA",NO: Vísir Reykjavík
@@ -5111,7 +5039,7 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545526.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Baby TV
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545525.m3u8
 
-# --- UNITED STATES (USA) (1131) ---
+# --- UNITED STATES (USA) (1130) ---
 #EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="UNITED STATES (USA)",US: Wild West TV
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/542504.m3u8
 #EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="UNITED STATES (USA)",US: WGN-DT1
@@ -7260,8 +7188,6 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/541408.m3u8
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/541407.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/05d6c14b8971c0456e87fa460b0f6319.png" group-title="UNITED STATES (USA)",US: Big Ten Network
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/541406.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/3fd301641bce0168b1acca2acfd8c8f7.jpg" group-title="UNITED STATES (USA)",US: beIN Sports Xtra 1
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/541405.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-11/c969d06348f1ca1e1fe437a8b63699eb.jpeg" group-title="UNITED STATES (USA)",US: beIN Sports 8
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/541404.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/35bdc00f1836b7669f614ffa005537c1.png" group-title="UNITED STATES (USA)",US: beIN Sports 7
@@ -7375,7 +7301,7 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/541346.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/f04179c97ecd8db1355cb859066ff8c2.png" group-title="UNITED STATES (USA)",US: 3ABN Kids
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/541345.m3u8
 
-# --- ⚜️ROMANIA TV⚜️ (596) ---
+# --- ⚜️ROMANIA TV⚜️ (595) ---
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvFMSGRt/Whats-App-Image-2025-11-27-at-15-20-39-6e5d06cc.jpg" group-title="⚜️ROMANIA TV⚜️",⚜️WELCOME TO PRO EUROPA⚜️
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/540724.m3u8
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab67616d0000b273e9af6e6ace7bae5f933bdc04" group-title="⚜️ROMANIA TV⚜️",COLINDE ROMANESTI
@@ -7878,8 +7804,6 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/522265.m3u8
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/522246.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚜️ROMANIA TV⚜️",TVR CLUJ
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/522245.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/905sKxtk/Whats-App-Image-2025-11-04-at-14-38-43-149ec173.jpg" group-title="⚜️ROMANIA TV⚜️",TELE MOLDOVA PLUS
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/498938.m3u8
 #EXTINF:-1 tvg-logo="http://135.125.239.110/icon/892301.png" group-title="⚜️ROMANIA TV⚜️",ALEPH NEWS
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/526873.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/alfaomega2.png" group-title="⚜️ROMANIA TV⚜️",ALFA OMEGA TV
@@ -8569,4 +8493,4 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/296305.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚜️ROMANIA TV⚜️",GALA RXF
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/554858.m3u8
 
-# Total: 4264
+# Total: 4227

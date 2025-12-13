@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: gimenes.top:8080
-# Generated: 2025-12-12 18:28:35
+# Generated: 2025-12-13 07:06:58
 # Expires: 2026-11-07
 # Family Safe Edition
 # ==============================================
@@ -1690,7 +1690,7 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/9022334.mp4
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022361.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > DORAMAS",UMA SEUL DESCONHECIDA
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022370.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | > DORAMAS",A ESPOSA DO MEU MARIDO: JAPÃO (LEG)
+#EXTINF:-1 tvg-logo="" group-title="Movies | > DORAMAS",A ESPOSA DO MEU MARIDO: JAPÃO
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022372.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > DORAMAS",SOLTEIROS NUNCA MAIS
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022418.mp4
@@ -16761,7 +16761,9 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/42735.mp4
 #EXTINF:-1 tvg-logo="http://fiqueemcasa.club:80/images/yo2rBT7vdsyWFBH5aoJ8pk7am79_big.jpg" group-title="Movies | FILMES DOCUMENTÁRIOS",TOME SUAS PÍLULAS (2018)
 http://gimenes.top:8080/movie/denisfonseca/4915334/4641.mp4
 
-# --- Movies | FILMES DRAMA (1466) ---
+# --- Movies | FILMES DRAMA (1467) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRqvE6dABictKuLwqQMzq6AptiZ.jpg" group-title="Movies | FILMES DRAMA",A GESTORA (2022)
+http://gimenes.top:8080/movie/denisfonseca/4915334/255836.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l4nRnHbJGWnlKWihm3lkMxnxXVi.jpg" group-title="Movies | FILMES DRAMA",REGRESSAO (2013)
 http://gimenes.top:8080/movie/denisfonseca/4915334/255763.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oi9yZXiTfpXHXk02sRyUY2PlaPi.jpg" group-title="Movies | FILMES DRAMA",COMO ESTRELAS NA TERRA (2007)
@@ -21157,7 +21159,11 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/142362.mp4
 #EXTINF:-1 tvg-logo="http://fiqueemcasa.club/images/omKzydOrom9kpdfQUE0G9Y9sPl0_small.jpg" group-title="Movies | FILMES GUERRA",WHERE HANDS TOUCH
 http://gimenes.top:8080/movie/denisfonseca/4915334/48749.mp4
 
-# --- Movies | FILMES LANÇAMENTOS (439) ---
+# --- Movies | FILMES LANÇAMENTOS (441) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lfHzGlhnfFWSsvjaZGmZI0d7Czn.jpg" group-title="Movies | FILMES LANÇAMENTOS",MISSAO PET (2025)
+http://gimenes.top:8080/movie/denisfonseca/4915334/255841.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6qQBPlWj5PEFPsVObUIy9SMZ9P.jpg" group-title="Movies | FILMES LANÇAMENTOS",BOM MENINO (2025)
+http://gimenes.top:8080/movie/denisfonseca/4915334/255840.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6lX4ueVaWLNYF3Y3oRdz8unDI3q.jpg" group-title="Movies | FILMES LANÇAMENTOS",ALVO DA MAFIA (2025)
 http://gimenes.top:8080/movie/denisfonseca/4915334/255789.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vzKPrW87h8w8ZhKKUNQLeucGzZS.jpg" group-title="Movies | FILMES LANÇAMENTOS",O BOM BANDIDO (2025)
@@ -29977,4 +29983,4 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/166843.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhTm83svrLTM4JdwzJ1FjL63SQN.jpg" group-title="Movies | SHOWS",BEBE REXHA - THE TOWN (2023)
 http://gimenes.top:8080/movie/denisfonseca/4915334/166842.mp4
 
-# Total: 14944
+# Total: 14947

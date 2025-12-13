@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: awsxcore.uk:8080
-# Generated: 2025-12-12 18:39:42
+# Generated: 2025-12-13 07:10:52
 # Expires: 2026-11-18
 # Family Safe Edition
 # ==============================================
@@ -7119,7 +7119,7 @@ http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/204770.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sx86KHWwWbW5ZckPEQh39J0Fio3.jpg" group-title="Movies | ⭐FILME 2024",That Christmas (2024)
 http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/204771.mp4
 
-# --- Movies | ⭐FILME 2025 (778) ---
+# --- Movies | ⭐FILME 2025 (781) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xqBSapk1nC35WlZ6PraMjOVMQBy.jpg" group-title="Movies | ⭐FILME 2025",Ad Vitam (2025)
 http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/205013.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/v313aUGmMNj6yNveaiQXysBmjVS.jpg" group-title="Movies | ⭐FILME 2025",Alarum (2025)
@@ -8676,6 +8676,12 @@ http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/209760.mp4
 http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/209778.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nfGlYjINEcGtxV46viW4olwHHSz.jpg" group-title="Movies | ⭐FILME 2025",Merv (2025)
 http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/209779.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yQ44md3qKEv4ZCDugkYaYIU2T4k.jpg" group-title="Movies | ⭐FILME 2025",Pierdut în lumina reflectoarelor (2025)
+http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/209784.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oByEpwQEU0gtSzVO8nVTyu8fmjm.jpg" group-title="Movies | ⭐FILME 2025",Gașca răpitorilor stângaci (2025)
+http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/209785.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg" group-title="Movies | ⭐FILME 2025",Fugarul: Vânătoare de oameni (2025)
+http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/209786.mp4
 
 # --- Movies | ⭐FILME ACTIUNE (1704) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uTTGRvnqCI9ZC7WkyP9u7XRiOaA.jpg" group-title="Movies | ⭐FILME ACTIUNE",Mindhunters (2004)
@@ -21649,4 +21655,4 @@ http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/590.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ⭐TURCESTI",Ömer
 http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/595.mp4
 
-# Total: 10775
+# Total: 10778

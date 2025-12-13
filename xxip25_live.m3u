@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: xxip25.top:8080
-# Generated: 2025-12-12 18:27:49
+# Generated: 2025-12-13 07:08:39
 # Expires: 2026-02-23
 # Family Safe Edition
 # ==============================================
@@ -3385,93 +3385,65 @@ http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/17779.m3u8
 #EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US Starz West (S)
 http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/21091.m3u8
 
-# --- NBA (14) ---
+# --- NBA (9) ---
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",CA-NBA TV
 http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/22995.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",USA: NBA TV
 http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/20073.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 01: Boston Celtics @ Milwaukee Bucks | Away Stream | 12/11/2025 8:00 PM ET
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257172.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 01: LA Clippers vs Houston Rockets @ 08:00 PM EST
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257173.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 02: Boston Celtics @ Milwaukee Bucks | Home Stream | 12/11/2025 8:00 PM ET
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257174.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 02: Boston Celtics vs Milwaukee Bucks @ 08:00 PM EST
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257175.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 03: Portland Trail Blazers @ New Orleans Pelicans | Away Stream | 12/11/2025 8:00 PM ET
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257176.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 03: Portland Trail Blazers vs New Orleans Pelicans @ 08:00 PM EST
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257177.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 04: Portland Trail Blazers @ New Orleans Pelicans | Home Stream | 12/11/2025 8:00 PM ET
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257178.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 04: Denver Nuggets vs Sacramento Kings @ 10:00 PM EST
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257179.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 05: Denver Nuggets @ Sacramento Kings | Home Stream | 12/11/2025 10:00 PM ET
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257180.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 06: Denver Nuggets @ Sacramento Kings | Away Stream | 12/11/2025 10:00 PM ET
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257181.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 07: LA Clippers @ Houston Rockets | Home Stream | 12/11/2025 8:00 PM ET
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257182.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 08: LA Clippers @ Houston Rockets | Away Stream | 12/11/2025 8:00 PM ET
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257183.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 01: ATL Hawks VS DET Pistons ( NBA TV Feed ) @ 7:00 PM
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257226.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 02: MIN Timberwolves VS GSW Warriors ( NBA TV Feed ) @ 10:00 PM
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257227.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 03: Chicago Bulls vs Charlotte Hornets @ 07:00 PM EST
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257228.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 04: Indiana Pacers vs Philadelphia 76ers @ 07:00 PM EST
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257229.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 05: Cleveland Cavaliers vs Washington Wizards @ 07:00 PM EST
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257230.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 06: Utah Jazz vs Memphis Grizzlies @ 08:00 PM EST
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257231.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 07: Brooklyn Nets vs Dallas Mavericks @ 08:30 PM EST
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257232.m3u8
 
-# --- NCAAB (28) ---
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 001 | DILLARD @ NORFOLK STATE (W) | 12.11 11:00 AM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257198.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 002 | LIPSCOMB @ PURDUE (W) | 12.11 11:00 AM | B1G+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257199.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 003 | ST. MARYS (TX) @ INCARNATE WORD (W) | 12.11 2:00 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 004 | DARTMOUTH @ NJIT (W) | 12.11 6:00 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257201.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 005 | DAVIS & ELKINS @ MARSHALL (W) | 12.11 6:00 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257202.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 006 | GREEN BAY @ IU INDIANAPOLIS (M) | 12.11 6:30 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257203.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 007 | NORTHERN KENTUCKY @ 21 OHIO STATE (W) | 12.11 6:30 PM | B1G+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257204.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 008 | APP STATE @ EAST CAROLINA (M) | 12.11 7:00 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257205.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 009 | CHATTANOOGA @ TENNESSEE STATE (W) | 12.11 7:00 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257206.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 010 | COASTAL GEORGIA @ GEORGIA SOUTHERN (M) | 12.11 7:00 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257207.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 011 | GEORGIA TECH @ WEST VIRGINIA (W) | 12.11 7:00 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257208.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 012 | INDIANA STATE @ BUTLER (W) | 12.11 7:00 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257209.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 013 | LITTLE ROCK @ 9 OKLAHOMA (W) | 12.11 7:00 PM | SECN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257210.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 014 | MOREHEAD STATE @ 19 NOTRE DAME (W) | 12.11 7:00 PM | ACC EXTRA
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257211.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 015 | NORTH DAKOTA STATE @ EASTERN ILLINOIS (W) | 12.11 7:00 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257212.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 016 | TRINITY COLLEGE OF JACKSONVILLE @ JACKSONVILLE (M) | 12.11 7:00 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257213.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 017 | UL MONROE @ INDIANA (W) | 12.11 7:00 PM | B1G+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257214.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 018 | UMASS LOWELL @ DEPAUL (W) | 12.11 7:00 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257215.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 019 | UNC ASHEVILLE @ EAST TENNESSEE STATE (W) | 12.11 7:00 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257216.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 020 | WESTERN CAROLINA @ VIRGINIA TECH (M) | 12.11 7:00 PM | ACC EXTRA
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257217.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 021 | UT ARLINGTON @ UT RIO GRANDE VALLEY (M) | 12.11 7:30 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257218.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 022 | ALABAMA STATE @ MISSOURI (M) | 12.11 8:00 PM | SECN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257219.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 023 | IOWA @ 4 IOWA STATE (M) | 12.11 8:00 PM | FS1
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257220.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 024 | IDAHO STATE @ BYU (W) | 12.11 9:00 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257221.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 025 | PORTLAND @ LONG BEACH STATE (W) | 12.11 9:00 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257222.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 026 | SAINT JOSEPHS @ SYRACUSE (M) | 12.11 9:00 PM | ACC NETWORK
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257223.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 027 | NORTH DAKOTA STATE @ CAL STATE BAKERSFIELD (M) | 12.11 9:30 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257224.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 028 | HAWAII HILO @ HAWAII (W) | 12.11 11:59 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257225.m3u8
+# --- NCAAB (19) ---
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 001 | COASTAL GEORGIA @ GEORGIA SOUTHERN (W) | 12.12 11:00 AM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257236.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 002 | FLORIDA GULF COAST @ FLORIDA ATLANTIC (W) | 12.12 11:00 AM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257237.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 003 | UT ARLINGTON @ RICE (W) | 12.12 12:15 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257238.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 004 | ARMY @ UMBC (M) | 12.12 6:00 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257239.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 005 | EAST TEXAS A&M @ MCNEESE (W) | 12.12 6:00 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257240.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 006 | WRIGHT STATE @ CANISIUS (W) | 12.12 6:30 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257241.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 007 | BREVARD @ GARDNER-WEBB (M) | 12.12 7:00 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257242.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 008 | MAINE @ FAIRFIELD (W) | 12.12 7:00 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257243.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 009 | MISSOURI STATE @ XAVIER (M) | 12.12 7:00 PM | TRUTV
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257244.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 010 | SE LOUISIANA @ HOUSTON CHRISTIAN (W) | 12.12 7:00 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257245.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 011 | SIU EDWARDSVILLE @ VALPARAISO (W) | 12.12 7:00 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257246.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 012 | SOUTH CAROLINA STATE @ QUEENS UNIVERSITY (M) | 12.12 7:00 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257247.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 013 | WILLIAM PEACE @ UNC GREENSBORO (M) | 12.12 7:00 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257248.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 014 | DALLAS CHRISTIAN @ TEXAS A&M-CORPUS CHRISTI (M) | 12.12 8:00 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257249.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 015 | EAST TENNESSEE STATE @ AUSTIN PEAY (M) | 12.12 8:00 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257250.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 016 | TEXAS @ 5 UCONN (M) | 12.12 8:00 PM | FOX
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257251.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 017 | EAST TEXAS A&M @ MCNEESE (M) | 12.12 8:30 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257252.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 018 | CALIFORNIA BAPTIST @ EASTERN WASHINGTON (M) | 12.12 9:00 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257253.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 019 | TEXAS TECH @ WASHINGTON STATE (W) | 12.12 9:00 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257254.m3u8
 
 # --- NFL (23) ---
 #EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/5438735-nfl-team-logos-transparent-png-history-logos-lists-brands-nfl-logo-png-300_300_preview.png" group-title="NFL",US NFL Network
@@ -3521,33 +3493,15 @@ http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/253677.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NFL",NFL 01: Baltimore Ravens at Miami Dolphins 8:15pm
 http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/253678.m3u8
 
-# --- NHL (13) ---
+# --- NHL (4) ---
 #EXTINF:-1 tvg-logo="" group-title="NHL",US NHL Network
 http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/253636.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 01: SJS VS TOR (NBCSCA Feed ) @ 7:00 pm
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257184.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 02: TBL VS NJD (MSG Feed ) @ 7:00 pm
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257185.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 03: VGK VS PHI (SN Feed ) @ 7:00 pm
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257186.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 04: MTL VS PIT (RDS Feed ) @ 7:00 pm
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257187.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 05: BOS VS WPG (NESN Feed ) @ 8:00 pm
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257188.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 06: DET VS EDM (SNW Feed ) @ 9:00 pm
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257189.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 07: FLA VS COL (SNE Feed ) @ 9:30 pm
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257190.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 08: FLA VS COL (TVAS Feed ) @ 9:30 pm
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257191.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 09: Anaheim Ducks vs New York Islanders @ 07:00 PM EST
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257192.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 10: Carolina Hurricanes vs Washington Capitals @ 07:00 PM EST
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257193.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 13: Dallas Stars vs Minnesota Wild  @ 08:00 PM EST
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257196.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 14: Buffalo Sabres vs Vancouver Canucks @ 10:00 PM EST
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257197.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 01: CHI VS STL (SN Feed ) @ 8:00 pm
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257233.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 02: CHI VS STL (TVAS Feed ) @ 8:00 pm
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257234.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 03: Seattle Kraken  vs  Utah Mammoth @ 09:00 PM
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257235.m3u8
 
 # --- PERU (7) ---
 #EXTINF:-1 tvg-logo="" group-title="PERU",PE: PANAMERICANA HD
@@ -13375,4 +13329,4 @@ http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/121046.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Vietnam",VN DA NANG 1 HD
 http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/121048.m3u8
 
-# Total: 6648
+# Total: 6625

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: alperinho1907.kralsmart.xyz:2086
-# Generated: 2025-12-12 18:36:43
+# Generated: 2025-12-13 07:12:30
 # Expires: 2026-02-08
 # Family Safe Edition
 # ==============================================
@@ -979,19 +979,7 @@ http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/170928.m3u8
 
-# --- DE-DAZN EVENT (81) ---
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ankx3b6ga6b4p8i3ad1fwi7v2_image-header_pDach_1765286581000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",eFootball Console | Viertelfinale & Halbfinale (2025-12-12 08:30:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/172401.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2qqzbsyt4l4ypokmophsoq2go_image-header_pDach_1765286940000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",eFootball Mobile | Viertelfinale & Halbfinale (2025-12-12 13:30:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/172402.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8fne2aj01617ta5e48uxpc6ux_image-header_pDach_1764583330000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Darts-WM | Tag 2 (Session 1) (2025-12-12 13:30:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/172403.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cph8un5c9jx4wl9owem49kb59_image-header_pDach_1764930232000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Darts-WM | Tag 2 (Session 1 mit Originalkommentar) (2025-12-12 13:30:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/172404.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/86ztvyvvppqacz9y85oke7nlx_image-header_pDach_1760437988000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Ministry of National Guard Cup Race Night (2025-12-12 14:00:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/172405.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3xrzax9v9ut3iua3gjrogeipx_image-header_pDach_1764334233000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",SV Werder Bremen - Bayer Leverkusen (2025-12-12 18:30:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/172406.m3u8
+# --- DE-DAZN EVENT (75) ---
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6a2otf3reugkiq9g9o59bxrrt_image-header_pDach_1764930316000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Darts-WM | Tag 2 (Session 2 mit Originalkommentar) (2025-12-12 20:00:00)
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/172407.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3rqle0au8td6bmjz8k53rcmn0_image-header_pDach_1764583438000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Darts-WM | Tag 2 (Session 2) (2025-12-12 20:00:00)
@@ -6767,4 +6755,4 @@ http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/165820.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JEtHjJs.png" group-title="WORLD SPORTS",Sky Sport Action HD [UK]
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/165884.m3u8
 
-# Total: 3323
+# Total: 3317
