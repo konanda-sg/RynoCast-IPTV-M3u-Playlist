@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: power4kiptv.info:8080
-# Generated: 2025-12-13 07:10:07
+# Generated: 2025-12-13 18:25:11
 # Expires: 2026-01-21
 # Family Safe Edition
 # ==============================================
@@ -499,9 +499,11 @@ http://power4kiptv.info:8080/live/ernstalex/17012022/281688.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="DE | BEST KIDS 2023",SPECIAL SELECT KIDS 10
 http://power4kiptv.info:8080/live/ernstalex/17012022/281689.m3u8
 
-# --- DE | DAZN  LEAGUES (41) ---
+# --- DE | DAZN  LEAGUES (42) ---
 #EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/%C4%B0TALYA/DAZNSPORT1.png" group-title="DE | DAZN  LEAGUES",★☆★ DAZN  LEAGUES ★☆★
 http://power4kiptv.info:8080/live/ernstalex/17012022/865425.m3u8
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/TcxeJ.png" group-title="DE | DAZN  LEAGUES",DAZN BUNDESLIGA  KONFERENZ
+http://power4kiptv.info:8080/live/ernstalex/17012022/866309.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/TcxeJ.png" group-title="DE | DAZN  LEAGUES",DAZN BUNDESLIGA 1
 http://power4kiptv.info:8080/live/ernstalex/17012022/865413.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/TcxeJ.png" group-title="DE | DAZN  LEAGUES",DAZN BUNDESLIGA 2
@@ -1602,13 +1604,13 @@ http://power4kiptv.info:8080/live/ernstalex/17012022/210703.m3u8
 # --- DE | FUßBALL EVENT (21) ---
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="DE | FUßBALL EVENT",★☆★ FOCUS  FUßBALL ★☆★
 http://power4kiptv.info:8080/live/ernstalex/17012022/706386.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="DE | FUßBALL EVENT",✨ Stadion 1
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="DE | FUßBALL EVENT",✨ 1 - Konferenz
 http://power4kiptv.info:8080/live/ernstalex/17012022/706385.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="DE | FUßBALL EVENT",✨ Stadion 2
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="DE | FUßBALL EVENT",✨ 2 - Arminia Bielefeld v Kaiserslautern
 http://power4kiptv.info:8080/live/ernstalex/17012022/706384.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="DE | FUßBALL EVENT",✨ Stadion 3
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="DE | FUßBALL EVENT",✨ 3 - Karlsruhe v Paderborn
 http://power4kiptv.info:8080/live/ernstalex/17012022/706383.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="DE | FUßBALL EVENT",✨ Stadion 4
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="DE | FUßBALL EVENT",✨ 4 - Magdeburg v Holstein Kiel
 http://power4kiptv.info:8080/live/ernstalex/17012022/706382.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="DE | FUßBALL EVENT",✨ Stadion 5
 http://power4kiptv.info:8080/live/ernstalex/17012022/706381.m3u8
@@ -4809,4 +4811,4 @@ http://power4kiptv.info:8080/live/ernstalex/17012022/601228.m3u8
 #EXTINF:-1 tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg" group-title="VIP | SPORT VIAPLAY",VIAPLAY XTRA 53
 http://power4kiptv.info:8080/live/ernstalex/17012022/601227.m3u8
 
-# Total: 2353
+# Total: 2354

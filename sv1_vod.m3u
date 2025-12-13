@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: sv1.casahd.com
-# Generated: 2025-12-13 07:03:06
+# Generated: 2025-12-13 18:34:17
 # Expires: 2026-05-02
 # Family Safe Edition
 # ==============================================
@@ -7331,7 +7331,7 @@ http://sv1.casahd.com/movie/528398/824141/2231035.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/30kFBE0I4sG9zum3Tv2wz9ulv8g.jpg" group-title="Movies | Filmes | Aventura",Max: O Cão Herói
 http://sv1.casahd.com/movie/528398/824141/2231036.mp4
 
-# --- Movies | Filmes | Cinema (19) ---
+# --- Movies | Filmes | Cinema (20) ---
 #EXTINF:-1 tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/bnX7UzOcNzfgCZKSXzh5oOFsVRl.jpg" group-title="Movies | Filmes | Cinema",A Verdadeira Dor [Cinema]
 http://sv1.casahd.com/movie/528398/824141/1783174.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/zNAw7jK8bwCK56rIW676pdgkwhd.jpg" group-title="Movies | Filmes | Cinema",Ainda Estou Aqui [Cinema]
@@ -7370,6 +7370,8 @@ http://sv1.casahd.com/movie/528398/824141/2217033.mp4
 http://sv1.casahd.com/movie/528398/824141/2217034.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/gnuSSOVBVWlKL8dFEGKRoOiiKTS.jpg" group-title="Movies | Filmes | Cinema",Karatê Kid: Lendas [Cinema]
 http://sv1.casahd.com/movie/528398/824141/2217035.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/c55sXCaQBj3vuHqZe62tv90xCQS.jpg" group-title="Movies | Filmes | Cinema",Zootopia 2 [Cinema]
+http://sv1.casahd.com/movie/528398/824141/2247793.mp4
 
 # --- Movies | Filmes | Comedia (2259) ---
 #EXTINF:-1 tvg-logo="http://imagecdn.sh:80/images/f214f258a0df06af83fcf0072ff75692.jpg" group-title="Movies | Filmes | Comedia",#ComVocê: Volume: 1
@@ -29279,7 +29281,7 @@ http://sv1.casahd.com/series/528398/824141/46620
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | AMC Plus",This Is Going to Hurt
 http://sv1.casahd.com/series/528398/824141/47476
 
-# --- Series | Series | Amazon Prime Video (692) ---
+# --- Series | Series | Amazon Prime Video (693) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",1 Contra Todos
 http://sv1.casahd.com/series/528398/824141/45271
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",90 Dias De Volta Pra Pista
@@ -30664,6 +30666,8 @@ http://sv1.casahd.com/series/528398/824141/53258
 http://sv1.casahd.com/series/528398/824141/53259
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",Orgulho e Preconceito
 http://sv1.casahd.com/series/528398/824141/53261
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",Film Club
+http://sv1.casahd.com/series/528398/824141/53263
 
 # --- Series | Series | Apple TV Plus (230) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Apple TV Plus",12 Monkeys
@@ -32149,7 +32153,7 @@ http://sv1.casahd.com/series/528398/824141/52969
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Discovery Plus",Caca Tempestades
 http://sv1.casahd.com/series/528398/824141/53161
 
-# --- Series | Series | Disney Plus (418) ---
+# --- Series | Series | Disney Plus (419) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Disney Plus",3Hz
 http://sv1.casahd.com/series/528398/824141/49089
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Disney Plus",9-1-1
@@ -32986,6 +32990,8 @@ http://sv1.casahd.com/series/528398/824141/53211
 http://sv1.casahd.com/series/528398/824141/53214
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Disney Plus",911 Nashville
 http://sv1.casahd.com/series/528398/824141/53251
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Disney Plus",Its Always Sunny in Philadelphia
+http://sv1.casahd.com/series/528398/824141/53265
 
 # --- Series | Series | Dorama (529) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Dorama",20th Century Boy and Girl [L]
@@ -34093,7 +34099,7 @@ http://sv1.casahd.com/series/528398/824141/46983
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Funimation Now",Vivy: Fluorite Eye’s Song
 http://sv1.casahd.com/series/528398/824141/46890
 
-# --- Series | Series | Globoplay (415) ---
+# --- Series | Series | Globoplay (416) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Globoplay",220 Volts
 http://sv1.casahd.com/series/528398/824141/45717
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Globoplay",A Bela e o Padeiro
@@ -34924,6 +34930,8 @@ http://sv1.casahd.com/series/528398/824141/53091
 http://sv1.casahd.com/series/528398/824141/53232
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Globoplay",Vespera
 http://sv1.casahd.com/series/528398/824141/53236
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Globoplay",O Natal dos Silva
+http://sv1.casahd.com/series/528398/824141/53268
 
 # --- Series | Series | Legendadas (1163) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",007 Estrada para o Milhao [L]
@@ -38239,7 +38247,7 @@ http://sv1.casahd.com/series/528398/824141/53230
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Max",Angela Diniz Assassinada e Condenada
 http://sv1.casahd.com/series/528398/824141/53237
 
-# --- Series | Series | Netflix (1436) ---
+# --- Series | Series | Netflix (1441) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",(A)mar
 http://sv1.casahd.com/series/528398/824141/48857
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",(Des)encanto
@@ -41112,6 +41120,16 @@ http://sv1.casahd.com/series/528398/824141/53254
 http://sv1.casahd.com/series/528398/824141/53255
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Pro Bono
 http://sv1.casahd.com/series/528398/824141/53257
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Amores Bandidos
+http://sv1.casahd.com/series/528398/824141/53262
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Homem X Bebe
+http://sv1.casahd.com/series/528398/824141/53264
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Nossa Cidade
+http://sv1.casahd.com/series/528398/824141/53266
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",O Futuro
+http://sv1.casahd.com/series/528398/824141/53267
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Simon Cowell O Proximo Sucesso
+http://sv1.casahd.com/series/528398/824141/53270
 
 # --- Series | Series | Outras Produtoras (701) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Outras Produtoras",100 Days Wild
@@ -42517,7 +42535,7 @@ http://sv1.casahd.com/series/528398/824141/53238
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Outras Produtoras",Inside No 9
 http://sv1.casahd.com/series/528398/824141/53241
 
-# --- Series | Series | Paramount (166) ---
+# --- Series | Series | Paramount (167) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Paramount",100 Code
 http://sv1.casahd.com/series/528398/824141/46744
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Paramount",1883
@@ -42850,6 +42868,8 @@ http://sv1.casahd.com/series/528398/824141/52789
 http://sv1.casahd.com/series/528398/824141/52903
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Paramount",Parallel Me
 http://sv1.casahd.com/series/528398/824141/52947
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Paramount",Pequenos Desastres
+http://sv1.casahd.com/series/528398/824141/53269
 
 # --- Series | Series | Play Plus (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Play Plus",Doc Investigacao
@@ -43201,4 +43221,4 @@ http://sv1.casahd.com/series/528398/824141/52667
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Univer",O Senhor e a Serva
 http://sv1.casahd.com/series/528398/824141/52936
 
-# Total: 21552
+# Total: 21562

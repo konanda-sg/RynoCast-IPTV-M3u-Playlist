@@ -1,14 +1,14 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: ggrrth.htvsat.info:8880
-# Generated: 2025-12-13 07:03:04
+# Generated: 2025-12-13 18:23:59
 # Expires: 2025-12-28
 # Family Safe Edition
 # ==============================================
 
 
 # --- CANAIS: 4K (1) ---
-#EXTINF:-1 tvg-logo="http://playback.v3xplus.com:8880/images/6fc08878f3be999a9671861377b14a21.png" group-title="CANAIS: 4K",ESPN HD
+#EXTINF:-1 tvg-logo="http://ggrrth.htvsat.info:8880/images/6fc08878f3be999a9671861377b14a21.png" group-title="CANAIS: 4K",ESPN HD
 http://ggrrth.htvsat.info:8880/live/287994017732/287994017732/39800.m3u8
 
 # --- CANAIS: ESPORTES ESPECIAIS (1) ---

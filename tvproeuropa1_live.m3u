@@ -1,13 +1,13 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tvproeuropa1.com:8008
-# Generated: 2025-12-13 06:59:35
+# Generated: 2025-12-13 18:30:21
 # Expires: 2026-01-07
 # Family Safe Edition
 # ==============================================
 
 
-# --- ⚜️ROMANIA TV⚜️ (595) ---
+# --- ⚜️ROMANIA TV⚜️ (594) ---
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvFMSGRt/Whats-App-Image-2025-11-27-at-15-20-39-6e5d06cc.jpg" group-title="⚜️ROMANIA TV⚜️",⚜️WELCOME TO PRO EUROPA⚜️
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/540724.m3u8
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab67616d0000b273e9af6e6ace7bae5f933bdc04" group-title="⚜️ROMANIA TV⚜️",COLINDE ROMANESTI
@@ -554,8 +554,6 @@ http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/492836.m3u8
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/492835.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YCBssc5T/VOYO-MOVIE.jpg" group-title="⚜️ROMANIA TV⚜️",VOYO TV
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/492834.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCBssc5T/VOYO-MOVIE.jpg" group-title="⚜️ROMANIA TV⚜️",VOYO GOLD
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/492833.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YCBssc5T/VOYO-MOVIE.jpg" group-title="⚜️ROMANIA TV⚜️",VOYO PLEX
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/492832.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YCBssc5T/VOYO-MOVIE.jpg" group-title="⚜️ROMANIA TV⚜️",VOYO ONE
@@ -1199,4 +1197,4 @@ http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/296305.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚜️ROMANIA TV⚜️",GALA RXF
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/554858.m3u8
 
-# Total: 595
+# Total: 594

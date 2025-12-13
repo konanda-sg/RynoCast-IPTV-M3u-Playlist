@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: platinumz.xyz:8080
-# Generated: 2025-12-13 07:07:59
+# Generated: 2025-12-13 18:30:52
 # Expires: 2025-12-23
 # Family Safe Edition
 # ==============================================
@@ -1263,7 +1263,9 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/860045.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportaustria7hd.png" group-title="DE ✨ CHAMPIONS LEAGUE",SKY SPORT AUSTRIA 8 HD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/860044.m3u8
 
-# --- DE ✨ DAZN LEAGUES (40) ---
+# --- DE ✨ DAZN LEAGUES (41) ---
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/TcxeJ.png" group-title="DE ✨ DAZN LEAGUES",DAZN BUNDESLIGA  KONFERENZ
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/867960.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/TcxeJ.png" group-title="DE ✨ DAZN LEAGUES",DAZN BUNDESLIGA 1
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/865791.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/TcxeJ.png" group-title="DE ✨ DAZN LEAGUES",DAZN BUNDESLIGA 2
@@ -4186,13 +4188,13 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/823800.m3u8
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/823799.m3u8
 
 # --- DE ✨ Z1 FUßBALL EVENT (20) ---
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/EV18HN3Z7wB.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ Stadion 1
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/EV18HN3Z7wB.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ 1 - Konferenz
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861243.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/EVIr25fQFtj.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ Stadion 2
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/EVIr25fQFtj.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ 2 - Arminia Bielefeld v Kaiserslautern
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861242.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/z_tUWxi.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ Stadion 3
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/z_tUWxi.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ 3 - Karlsruhe v Paderborn
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861241.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/af7OD.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ Stadion 4
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/af7OD.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ 4 - Magdeburg v Holstein Kiel
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861240.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/cfi1hWpLTEu.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ Stadion 5
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861239.m3u8
@@ -4859,4 +4861,4 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/809948.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ArenaSport_6.png" group-title="VIP ✨ SPORTS EX-YU",BH⚜️ ARENA SPORT 6
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/809947.m3u8
 
-# Total: 2380
+# Total: 2381

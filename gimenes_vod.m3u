@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: gimenes.top:8080
-# Generated: 2025-12-13 07:06:58
+# Generated: 2025-12-13 18:34:19
 # Expires: 2026-11-07
 # Family Safe Edition
 # ==============================================
@@ -21159,7 +21159,17 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/142362.mp4
 #EXTINF:-1 tvg-logo="http://fiqueemcasa.club/images/omKzydOrom9kpdfQUE0G9Y9sPl0_small.jpg" group-title="Movies | FILMES GUERRA",WHERE HANDS TOUCH
 http://gimenes.top:8080/movie/denisfonseca/4915334/48749.mp4
 
-# --- Movies | FILMES LANÇAMENTOS (441) ---
+# --- Movies | FILMES LANÇAMENTOS (446) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8nBuPCAXLFSuUBjO1WvJ2blEVmK.jpg" group-title="Movies | FILMES LANÇAMENTOS",O SOBREVIVENTE (2025)
+http://gimenes.top:8080/movie/denisfonseca/4915334/255848.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wJnb4ikygiVuYLuvj4b4Jpvudn1.jpg" group-title="Movies | FILMES LANÇAMENTOS",NE ZHA 2: O RENASCER DA ALMA (2025)
+http://gimenes.top:8080/movie/denisfonseca/4915334/255847.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fkMrqJxCgTgJWXnf5SaMT6hZ85E.jpg" group-title="Movies | FILMES LANÇAMENTOS",VIVO OU MORTO: UM MISTÉRIO KNIVES OUT (2025)
+http://gimenes.top:8080/movie/denisfonseca/4915334/255846.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nfGlYjINEcGtxV46viW4olwHHSz.jpg" group-title="Movies | FILMES LANÇAMENTOS",MERV (2025)
+http://gimenes.top:8080/movie/denisfonseca/4915334/255845.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vgcx6hyj4k4qTcU2tOt8N7sOSSV.jpg" group-title="Movies | FILMES LANÇAMENTOS",FERAS NO JARDIM (2025)
+http://gimenes.top:8080/movie/denisfonseca/4915334/255844.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lfHzGlhnfFWSsvjaZGmZI0d7Czn.jpg" group-title="Movies | FILMES LANÇAMENTOS",MISSAO PET (2025)
 http://gimenes.top:8080/movie/denisfonseca/4915334/255841.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6qQBPlWj5PEFPsVObUIy9SMZ9P.jpg" group-title="Movies | FILMES LANÇAMENTOS",BOM MENINO (2025)
@@ -22043,7 +22053,11 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/223641.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1aZxghCHlQK07xymiqs1C4YdqC.jpg" group-title="Movies | FILMES LANÇAMENTOS",UMJOLO: ENTRE DOIS AMORES (2025)
 http://gimenes.top:8080/movie/denisfonseca/4915334/223573.mp4
 
-# --- Movies | FILMES LEGENDADOS (1063) ---
+# --- Movies | FILMES LEGENDADOS (1065) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gd5KP6N47heuT1zb5vSp97OMON5.jpg" group-title="Movies | FILMES LEGENDADOS",TRUE BEAUTY: THE MOVIE - LEG (2025)
+http://gimenes.top:8080/movie/denisfonseca/4915334/255843.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NncPn9afuyPEqf48zofeSF4uq7.jpg" group-title="Movies | FILMES LEGENDADOS",TRUE BEAUTY: THE MOVIE - PART 2 - LEG (2025)
+http://gimenes.top:8080/movie/denisfonseca/4915334/255842.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A8s9WG1GOv8e17rmEDCTNQx8nms.jpg" group-title="Movies | FILMES LEGENDADOS",O BOM BANDIDO - LEG (2025)
 http://gimenes.top:8080/movie/denisfonseca/4915334/254766.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rZvTm1Yg1HUfpC1Z20E0211kXqI.jpg" group-title="Movies | FILMES LEGENDADOS",NE ZHA 2: O RENASCER DA ALMA - LEG (2025)
@@ -29983,4 +29997,4 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/166843.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhTm83svrLTM4JdwzJ1FjL63SQN.jpg" group-title="Movies | SHOWS",BEBE REXHA - THE TOWN (2023)
 http://gimenes.top:8080/movie/denisfonseca/4915334/166842.mp4
 
-# Total: 14947
+# Total: 14954

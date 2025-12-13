@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: cms-portals.com:80
-# Generated: 2025-12-13 07:02:01
+# Generated: 2025-12-13 18:32:38
 # Expires: 2026-05-22
 # Family Safe Edition
 # ==============================================
@@ -3731,7 +3731,15 @@ http://cms-portals.com:80/movie/norveska2/5q4bSDvhzT/13188.mp4
 #EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://m.media-amazon.com/images/M/MV5BM2IzNDEyNmUtNjE1OC00NzI5LThjZTQtMzNhMTNkNjMwZjczXkEyXkFqcGc@._V1_.jpg" group-title="Movies | VIDEOTEKA 2024",Bitconned (2024)
 http://cms-portals.com:80/movie/norveska2/5q4bSDvhzT/13189.mp4
 
-# --- Movies | VIDEOTEKA 2025 (113) ---
+# --- Movies | VIDEOTEKA 2025 (117) ---
+#EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://upload.wikimedia.org/wikipedia/en/thumb/2/25/Eddington_poster.jpg/250px-Eddington_poster.jpg" group-title="Movies | VIDEOTEKA 2025",Eddington (2025)
+http://cms-portals.com:80/movie/norveska2/5q4bSDvhzT/13628.mp4
+#EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/One_Battle_After_Another.jpg/250px-One_Battle_After_Another.jpg" group-title="Movies | VIDEOTEKA 2025",One Battle After Another (2025)
+http://cms-portals.com:80/movie/norveska2/5q4bSDvhzT/13629.mp4
+#EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=" group-title="Movies | VIDEOTEKA 2025",Playdate (2025)
+http://cms-portals.com:80/movie/norveska2/5q4bSDvhzT/13630.mp4
+#EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=http://195.201.245.177:2451/img-proxy?url=https://www.themoviedb.org/t/p/w600_and_h900_face/kRMzvzxjClWJn7bQtaRLQ2qhb6c.jpg" group-title="Movies | VIDEOTEKA 2025",Stay (2025)
+http://cms-portals.com:80/movie/norveska2/5q4bSDvhzT/13631.mp4
 #EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Altered_%282024_film%29.jpg/250px-Altered_%282024_film%29.jpg" group-title="Movies | VIDEOTEKA 2025",Altered (2025)
 http://cms-portals.com:80/movie/norveska2/5q4bSDvhzT/13624.mp4
 #EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Bugonia_film_poster.jpg/250px-Bugonia_film_poster.jpg" group-title="Movies | VIDEOTEKA 2025",Bugonia (2025)
@@ -3959,4 +3967,4 @@ http://cms-portals.com:80/movie/norveska2/5q4bSDvhzT/13432.mp4
 #EXTINF:-1 tvg-logo="http://85.14.243.71/images/220px-Den_of_thieves_two_pantera_ver2.jpg" group-title="Movies | VIDEOTEKA 2025",Den of Thieves 2: Pantera (2025)
 http://cms-portals.com:80/movie/norveska2/5q4bSDvhzT/13433.mp4
 
-# Total: 1961
+# Total: 1965

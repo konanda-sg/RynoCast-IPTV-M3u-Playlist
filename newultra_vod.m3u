@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: newultra.xyz:8080
-# Generated: 2025-12-13 07:11:28
+# Generated: 2025-12-13 18:35:16
 # Expires: 2026-06-03
 # Family Safe Edition
 # ==============================================
@@ -13247,7 +13247,9 @@ http://newultra.xyz:8080/movie/34802209tv/ncwdu27491/75434.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RrMfaCYdsdNdRNUAR3TY0DvNV2.jpg" group-title="Movies | → VOD ESTRENOS 2024 ←",Bosco (2024)
 http://newultra.xyz:8080/movie/34802209tv/ncwdu27491/75435.mkv
 
-# --- Movies | → VOD ESTRENOS 2025 ← (250) ---
+# --- Movies | → VOD ESTRENOS 2025 ← (251) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/trGWfaYTkzkalkosXfxidpLum50.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Puñales por la espalda: De entre los muertos (2025)
+http://newultra.xyz:8080/movie/34802209tv/ncwdu27491/278739.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sa1EA8TI8IbHiaIyjC5DWJZHonP.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",La primera nevada en Fraggle Rock (2025)
 http://newultra.xyz:8080/movie/34802209tv/ncwdu27491/278736.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p0DR6j8wwHptbHTyWRawZtXVw0d.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Feliz NaviDAR con Elmo y Mark Rober (2025)
@@ -19541,4 +19543,4 @@ http://newultra.xyz:8080/series/34802209tv/ncwdu27491/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://newultra.xyz:8080/series/34802209tv/ncwdu27491/2492
 
-# Total: 9695
+# Total: 9696

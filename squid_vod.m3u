@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2025-12-13 07:07:47
+# Generated: 2025-12-13 18:34:16
 # Expires: 2026-01-17
 # Family Safe Edition
 # ==============================================
@@ -17141,6 +17141,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/943.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Man Vs Bee",Man Vs Bee
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/331.mp4
 
+# --- Movies | Man vs Baby (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Man vs Baby",Man vs Baby (2025)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1123.mp4
+
 # --- Movies | Mangalita (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Mangalita",Mangalița
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/43.mp4
@@ -19441,4 +19445,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8561
+# Total: 8562

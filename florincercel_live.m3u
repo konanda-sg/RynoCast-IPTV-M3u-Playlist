@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: florincercel.gotdns.ch:8008
-# Generated: 2025-12-13 07:01:39
+# Generated: 2025-12-13 18:29:39
 # Expires: 2026-01-08
 # Family Safe Edition
 # ==============================================
@@ -2797,7 +2797,7 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545154.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0e833491b8157e0fc3d94bfcf087117e.png" group-title="NORVEGIA",NO: Boomerang
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545153.m3u8
 
-# --- POLONIA (197) ---
+# --- POLONIA (196) ---
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/137a1339b4766198379d29b494663f32.png" group-title="POLONIA",PL: TVP 3 Warszawa
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545524.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/189d714ee217fdb8bb3dd12b2bad0752.jpeg" group-title="POLONIA",PL: TVP 3 Szczecin
@@ -3166,8 +3166,6 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545323.m3u8
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545322.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e7f38e78c7bb189b1c59b905083968a4.png" group-title="POLONIA",PL: Nick Junior
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545321.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/86f5712162a0e49be151a5b16e2fdc49.png" group-title="POLONIA",PL: MiniMini+
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545320.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/845f4c07817c175e823d9086532ec51b.png" group-title="POLONIA",PL: JimJam Polsat
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545319.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/feb43bd0e37c845f765b10e13ee750d1.png" group-title="POLONIA",PL: Disney XD
@@ -3209,7 +3207,7 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/206557.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RADIO ROMANIA",(Favorit FM)
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/287654.m3u8
 
-# --- RUSIA (165) ---
+# --- RUSIA (163) ---
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/f738b8429554f5fb2f3a8a3420ba39b5.png" group-title="RUSIA",RU: Эхо TV (Рязань)
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545089.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/66f247e6cc5ec83a12cf671abef2494e.png" group-title="RUSIA",RU: Хузур ТВ
@@ -3226,8 +3224,6 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545084.m3u8
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545083.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/9c124975ad2b798f9a4b95d7e198b055.png" group-title="RUSIA",RU: Тамыр
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545082.m3u8
-#EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="RUSIA",RU: Сибирь 24 (Красноярск)
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545080.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/0e1b1a734f975272b61bfda4c71bfb62.png" group-title="RUSIA",RU: Север (Нарьян-Мар)
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545079.m3u8
 #EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="RUSIA",RU: Самара 24
@@ -3348,8 +3344,6 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545020.m3u8
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545019.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/9021feb88b2c9b369c7135370267e9fc.png" group-title="RUSIA",RU: Vetta 24
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545018.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/9af28f08a83f582d33052e77a95420a1.png" group-title="RUSIA",RU: Vera 24 TV (Вера 24)
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545017.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/a83c14388d980ef4d301422d278ae08f.png" group-title="RUSIA",RU: Usadba (Усадьба)
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545016.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/fb29c21b79d4929ee4114fe372f17dce.jpg" group-title="RUSIA",RU: Univer
@@ -7301,7 +7295,7 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/541346.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/f04179c97ecd8db1355cb859066ff8c2.png" group-title="UNITED STATES (USA)",US: 3ABN Kids
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/541345.m3u8
 
-# --- ⚜️ROMANIA TV⚜️ (595) ---
+# --- ⚜️ROMANIA TV⚜️ (594) ---
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvFMSGRt/Whats-App-Image-2025-11-27-at-15-20-39-6e5d06cc.jpg" group-title="⚜️ROMANIA TV⚜️",⚜️WELCOME TO PRO EUROPA⚜️
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/540724.m3u8
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab67616d0000b273e9af6e6ace7bae5f933bdc04" group-title="⚜️ROMANIA TV⚜️",COLINDE ROMANESTI
@@ -7848,8 +7842,6 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/492836.m3u8
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/492835.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YCBssc5T/VOYO-MOVIE.jpg" group-title="⚜️ROMANIA TV⚜️",VOYO TV
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/492834.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCBssc5T/VOYO-MOVIE.jpg" group-title="⚜️ROMANIA TV⚜️",VOYO GOLD
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/492833.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YCBssc5T/VOYO-MOVIE.jpg" group-title="⚜️ROMANIA TV⚜️",VOYO PLEX
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/492832.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YCBssc5T/VOYO-MOVIE.jpg" group-title="⚜️ROMANIA TV⚜️",VOYO ONE
@@ -8493,4 +8485,4 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/296305.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚜️ROMANIA TV⚜️",GALA RXF
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/554858.m3u8
 
-# Total: 4227
+# Total: 4223

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: ex.guteex.com:8000
-# Generated: 2025-12-13 07:09:20
+# Generated: 2025-12-13 18:27:23
 # Expires: 2026-04-01
 # Family Safe Edition
 # ==============================================
@@ -1459,7 +1459,7 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/3882.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE | SPORTS HIGHLIGHTS",FIFA Klub-Weltmeisterschaft 2025
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/61744.m3u8
 
-# --- EX-YU (158) ---
+# --- EX-YU (155) ---
 #EXTINF:-1 tvg-logo="" group-title="EX-YU",-------| EX-YU CHANNEL |-------
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/4345.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX-YU",OBN
@@ -1564,8 +1564,6 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/60347.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/60348.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX-YU",SUPER STAR 2 HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/60349.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EX-YU",SUPER STAR 3 HD
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/60350.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX-YU",KINO TV HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/18267.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX-YU",MAXCRO GORA 5
@@ -1612,10 +1610,6 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/60365.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/60366.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX-YU",LOV I RIBOLOV
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/60362.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EX-YU",BALKAN TRIP
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/60367.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EX-YU",HRT DOCUMENTARY HD
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/60368.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX-YU",NICKELODEON
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/18275.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX-YU",Zadruga Live 1
@@ -4371,4 +4365,4 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/40596.m3u8
 #EXTINF:-1 tvg-logo="" group-title="| TR- RADIO",RADYO | Diyanet Kur'ân Radyo
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/40597.m3u8
 
-# Total: 2147
+# Total: 2144

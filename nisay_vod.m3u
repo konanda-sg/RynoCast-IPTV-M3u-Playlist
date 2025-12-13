@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nisay.xyz:8080
-# Generated: 2025-12-13 07:09:33
+# Generated: 2025-12-13 18:24:53
 # Expires: 2026-10-04
 # Family Safe Edition
 # ==============================================
@@ -13273,7 +13273,7 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1749.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: HBO MAX",DE: I Love LA
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1808.mp4
 
-# --- Movies | DE: NETFLIX (125) ---
+# --- Movies | DE: NETFLIX (126) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: NETFLIX",DE: Squid Game
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/328.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: NETFLIX",DE: Vikings: Valhalla
@@ -13524,6 +13524,8 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1777.mp4
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1814.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: NETFLIX",DE: Man vs Baby
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1825.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE: NETFLIX",DE: Kasaba: Die Kleinstadt
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1829.mp4
 
 # --- Movies | DE: PARAMOUNT+ (14) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: PARAMOUNT+",DE: Star Trek: Strange New Worlds
@@ -19695,4 +19697,4 @@ http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1503
 #EXTINF:-1 tvg-logo="" group-title="Series | TR ALTYAZI SERIES",Pluribus
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1803
 
-# Total: 9780
+# Total: 9781
