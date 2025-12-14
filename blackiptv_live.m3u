@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2025-12-14 07:15:46
+# Generated: 2025-12-14 18:34:02
 # Expires: 2025-12-20
 # Family Safe Edition
 # ==============================================
@@ -924,7 +924,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/25028.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/25011.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",AZ: CBC Sport
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/534.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",AZ: IDMAN TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WE5RZ7w.png" group-title="ALL COUNTRY SPORTS",AZ: IDMAN TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/538.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",IND: SONY SPORTS 1HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/28719.m3u8

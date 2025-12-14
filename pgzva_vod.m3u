@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: pgzva.my
-# Generated: 2025-12-14 07:18:52
+# Generated: 2025-12-14 18:30:54
 # Expires: 2025-12-29
 # Family Safe Edition
 # ==============================================
@@ -6679,7 +6679,7 @@ http://pgzva.my/movie/Camila/C1a2m3ila!/1221224.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/30kFBE0I4sG9zum3Tv2wz9ulv8g.jpg" group-title="Movies | Filmes | Aventura",Max: O Cão Herói (2015)
 http://pgzva.my/movie/Camila/C1a2m3ila!/1221229.mp4
 
-# --- Movies | Filmes | Cinema (14) ---
+# --- Movies | Filmes | Cinema (15) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/bnX7UzOcNzfgCZKSXzh5oOFsVRl.jpg" group-title="Movies | Filmes | Cinema",A Verdadeira Dor (2024)
 http://pgzva.my/movie/Camila/C1a2m3ila!/1211927.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/tfM1T6tAivjvy0sLwt6Y9WvlmzB.jpg" group-title="Movies | Filmes | Cinema",Sonic 3: O Filme (2024)
@@ -6708,6 +6708,8 @@ http://pgzva.my/movie/Camila/C1a2m3ila!/1218707.mp4
 http://pgzva.my/movie/Camila/C1a2m3ila!/1218713.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/gnuSSOVBVWlKL8dFEGKRoOiiKTS.jpg" group-title="Movies | Filmes | Cinema",Karatê Kid: Lendas (2025)
 http://pgzva.my/movie/Camila/C1a2m3ila!/1218718.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ncqVGCX9P3EKQfsOXiB3XxQ0Dip.jpg" group-title="Movies | Filmes | Cinema",Zootopia: Essa Cidade é o Bicho (2016)
+http://pgzva.my/movie/Camila/C1a2m3ila!/1424154.mp4
 
 # --- Movies | Filmes | Comedia (2076) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/ucQEdBDoOHis0u0pgLKkmunS8Gf.jpg" group-title="Movies | Filmes | Comedia",Um Sonho Chamado Fred (1991)
@@ -40131,4 +40133,4 @@ http://pgzva.my/series/Camila/C1a2m3ila!/7465
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Univer",O Senhor e a Serva (2025)
 http://pgzva.my/series/Camila/C1a2m3ila!/7729
 
-# Total: 20018
+# Total: 20019

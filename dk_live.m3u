@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: dk.2665.ninja:8080
-# Generated: 2025-12-14 07:12:07
+# Generated: 2025-12-14 18:28:30
 # Expires: 2026-02-28
 # Family Safe Edition
 # ==============================================
@@ -5296,7 +5296,7 @@ http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/332555.m3u8
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/306.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/aksu_tv.png" group-title="TR TURKIYE",TR: AKSU TV (KAHRAMANMARAS)
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/291.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/yol_tv.png" group-title="TR TURKIYE",TR: YOL TV
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/yol_tv.png" group-title="TR TURKIYE",TR: YOL TV HD
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/2119.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/sat_7_turk.png" group-title="TR TURKIYE",TR: SAT7 TURK
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/94551.m3u8

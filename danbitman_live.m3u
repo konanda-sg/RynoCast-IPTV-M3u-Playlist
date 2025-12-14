@@ -1,13 +1,13 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: danbitman.ddns.net:8008
-# Generated: 2025-12-14 07:10:58
+# Generated: 2025-12-14 18:25:46
 # Expires: 2026-09-28
 # Family Safe Edition
 # ==============================================
 
 
-# --- ⚜️ROMANIA TV⚜️ (594) ---
+# --- ⚜️ROMANIA TV⚜️ (595) ---
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvFMSGRt/Whats-App-Image-2025-11-27-at-15-20-39-6e5d06cc.jpg" group-title="⚜️ROMANIA TV⚜️",⚜️WELCOME TO PRO EUROPA⚜️
 http://danbitman.ddns.net:8008/live/Cristinel_Ciorascu/jkAEH821DU/540724.m3u8
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab67616d0000b273e9af6e6ace7bae5f933bdc04" group-title="⚜️ROMANIA TV⚜️",COLINDE ROMANESTI
@@ -496,6 +496,8 @@ http://danbitman.ddns.net:8008/live/Cristinel_Ciorascu/jkAEH821DU/296318.m3u8
 http://danbitman.ddns.net:8008/live/Cristinel_Ciorascu/jkAEH821DU/296285.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52LKfVth/drrrrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FluxRO KIDS 2 ᶠᴴᴰ
 http://danbitman.ddns.net:8008/live/Cristinel_Ciorascu/jkAEH821DU/296284.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJR4PTwxysR2We9w9inAqS6gtihlHMkLC6Qw&s" group-title="⚜️ROMANIA TV⚜️",TELE MOLDOVA PLUS
+http://danbitman.ddns.net:8008/live/Cristinel_Ciorascu/jkAEH821DU/555237.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/okHBf1SqytU0xxY2z9uby1LWLY08VmCOTcs4HFZCXQXkUEKxQUgKLwaVz4cVenDoXDAKA9JUbA=s900-c-k-c0x00ffffff-no-rj" group-title="⚜️ROMANIA TV⚜️",NOSTALGIA TV SD
 http://danbitman.ddns.net:8008/live/Cristinel_Ciorascu/jkAEH821DU/287446.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/inedittv.png" group-title="⚜️ROMANIA TV⚜️",INEDIT TV FHD
@@ -1197,4 +1199,4 @@ http://danbitman.ddns.net:8008/live/Cristinel_Ciorascu/jkAEH821DU/296305.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚜️ROMANIA TV⚜️",GALA RXF
 http://danbitman.ddns.net:8008/live/Cristinel_Ciorascu/jkAEH821DU/554858.m3u8
 
-# Total: 594
+# Total: 595

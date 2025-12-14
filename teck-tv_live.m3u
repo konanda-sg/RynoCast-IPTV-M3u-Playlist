@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: teck-tv.com
-# Generated: 2025-12-14 07:15:51
+# Generated: 2025-12-14 18:24:00
 # Expires: 2026-07-14
 # Family Safe Edition
 # ==============================================
@@ -2633,7 +2633,7 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1309911.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/CANADA/FAIRCHILD_2.png" group-title="AM | CA | ENTERTAINMENT",CA - FAIRCHILD 2
 http://teck-tv.com/live/2605201443100597/C655BF416768/1041497.m3u8
 
-# --- AM | CA | GENERAL (150) ---
+# --- AM | CA | GENERAL (146) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/CANADA/Canada_flag.png" group-title="AM | CA | GENERAL",##### CA - CANADA #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/30546.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/CANADA/SPACE.png" group-title="AM | CA | GENERAL",CA - VIP SPACE HD
@@ -2800,8 +2800,6 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/796272.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/796273.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/CANADA/salt11.png" group-title="AM | CA | GENERAL",CA - SALT HD
 http://teck-tv.com/live/2605201443100597/C655BF416768/796274.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/THE-NEWS-FORUM.png" group-title="AM | CA | GENERAL",CA - THE NEWS FORUM
-http://teck-tv.com/live/2605201443100597/C655BF416768/796275.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/SOUTH-AFRICA/faith-l.png" group-title="AM | CA | GENERAL",CA - FAITH TV
 http://teck-tv.com/live/2605201443100597/C655BF416768/796277.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/CANADA/EWTN.png" group-title="AM | CA | GENERAL",CA - ETERNAL WORD TELEVISION NETWORK
@@ -2826,16 +2824,12 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/796297.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/796298.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/CANADA/AMI_TV_HD.png" group-title="AM | CA | GENERAL",CA - AMI TV HD
 http://teck-tv.com/live/2605201443100597/C655BF416768/796299.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/WILDBRAIN.png" group-title="AM | CA | GENERAL",CA - WILDBRAIN
-http://teck-tv.com/live/2605201443100597/C655BF416768/796301.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/CANADA/REWIND.png" group-title="AM | CA | GENERAL",CA - REWIND
 http://teck-tv.com/live/2605201443100597/C655BF416768/796302.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tln77.png" group-title="AM | CA | GENERAL",CA - TLN +
 http://teck-tv.com/live/2605201443100597/C655BF416768/796303.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/SOMALIA/AFRICA.png" group-title="AM | CA | GENERAL",CA - (FR) AFRICA TV HD
 http://teck-tv.com/live/2605201443100597/C655BF416768/796304.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/AFROGLOBAL NETWORK TELEVISION.png" group-title="AM | CA | GENERAL",CA - (AF) AFROGLOBAL NETWORK TELEVISION HD
-http://teck-tv.com/live/2605201443100597/C655BF416768/796305.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/NEDERLAND/Love_Nature_TV(1).png" group-title="AM | CA | GENERAL",CA - LOVE NATURE
 http://teck-tv.com/live/2605201443100597/C655BF416768/796306.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/CANADA/omni-11111.png" group-title="AM | CA | GENERAL",CA - OMNI 1
@@ -2880,8 +2874,6 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/796326.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/796327.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/LATINO/MEXICO/FOXNEWSCHANNEL.png" group-title="AM | CA | GENERAL",CA - FOX NEWS
 http://teck-tv.com/live/2605201443100597/C655BF416768/796328.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/FAMILYJR.png" group-title="AM | CA | GENERAL",CA - FAMILY JR
-http://teck-tv.com/live/2605201443100597/C655BF416768/796329.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/CANADA/canadafr/eee.png" group-title="AM | CA | GENERAL",CA - EVASION
 http://teck-tv.com/live/2605201443100597/C655BF416768/796330.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/E!(1).png" group-title="AM | CA | GENERAL",CA - E!
@@ -2935,7 +2927,7 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1212582.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/CANADA/chek.png" group-title="AM | CA | GENERAL",CA - CHEK TV
 http://teck-tv.com/live/2605201443100597/C655BF416768/1278952.m3u8
 
-# --- AM | CA | KIDS (20) ---
+# --- AM | CA | KIDS (18) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/CANADA/Canada_flag.png" group-title="AM | CA | KIDS",##### CA - KIDS #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1308973.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/CANADA/Disney_Junior.png" group-title="AM | CA | KIDS",CA - DISNEY JR HD
@@ -2944,8 +2936,6 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/30477.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/30479.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/CANADA/FAMILYCHRGD.png" group-title="AM | CA | KIDS",CA - FAMILY CHRGD HD
 http://teck-tv.com/live/2605201443100597/C655BF416768/30469.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/FAMILYJR.png" group-title="AM | CA | KIDS",CA - FAMILY JR HD
-http://teck-tv.com/live/2605201443100597/C655BF416768/30467.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/CANADA/YTV_HD_EAST.png" group-title="AM | CA | KIDS",CA - YTV EAST HD
 http://teck-tv.com/live/2605201443100597/C655BF416768/513656.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/CANADA/YTV_HD.png" group-title="AM | CA | KIDS",CA - YTV WEST HD
@@ -2968,8 +2958,6 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/106683.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/513652.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/CANADA/SHOPPING.png" group-title="AM | CA | KIDS",CA - HOPE TV
 http://teck-tv.com/live/2605201443100597/C655BF416768/30442.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/NICKTOON.png" group-title="AM | CA | KIDS",CA - NICK
-http://teck-tv.com/live/2605201443100597/C655BF416768/30414.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/CANADA/TELETOONEAST.png" group-title="AM | CA | KIDS",CA - TELE TOON EAST
 http://teck-tv.com/live/2605201443100597/C655BF416768/30370.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/CANADA/TELEMAGINO111.png" group-title="AM | CA | KIDS",CA - TELEMAGINO
@@ -2977,13 +2965,11 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/30367.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/CANADA/TELENINOS.png" group-title="AM | CA | KIDS",CA - TELENINOS (ES)
 http://teck-tv.com/live/2605201443100597/C655BF416768/1041498.m3u8
 
-# --- AM | CA | MOVIES (30) ---
+# --- AM | CA | MOVIES (28) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/CANADA/Canada_flag.png" group-title="AM | CA | MOVIES",##### CA - MOVIES #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1308972.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/E!(1).png" group-title="AM | CA | MOVIES",CA - VIP E! HD
 http://teck-tv.com/live/2605201443100597/C655BF416768/42950.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/ABCSPARKCANADA.png" group-title="AM | CA | MOVIES",CA - VIP ABC SPARK HD
-http://teck-tv.com/live/2605201443100597/C655BF416768/42973.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/CANADA/amc-hd.png" group-title="AM | CA | MOVIES",CA - VIP AMC HD
 http://teck-tv.com/live/2605201443100597/C655BF416768/42972.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/CANADA/HBO_2_.png" group-title="AM | CA | MOVIES",CA - VIP HBO 2 HD
@@ -3010,8 +2996,6 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/186859.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/30541.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/CANADA/amc.png" group-title="AM | CA | MOVIES",CA - AMC HD
 http://teck-tv.com/live/2605201443100597/C655BF416768/30538.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/ABCSPARKCANADA.png" group-title="AM | CA | MOVIES",CA - ABC SPARK HD
-http://teck-tv.com/live/2605201443100597/C655BF416768/30543.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/CANADA/DEJAVIEW.png" group-title="AM | CA | MOVIES",CA - DEJAVIEW HD
 http://teck-tv.com/live/2605201443100597/C655BF416768/30482.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/CANADA/WNETWORK.png" group-title="AM | CA | MOVIES",CA - W NETWORK HD
@@ -3545,7 +3529,7 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1092555.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AM | CA | PLUTO TV",CA - YO! MTV
 http://teck-tv.com/live/2605201443100597/C655BF416768/1092556.m3u8
 
-# --- AM | CA | QUÉBEC (137) ---
+# --- AM | CA | QUÉBEC (136) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/CANADA/Canada_flag.png" group-title="AM | CA | QUÉBEC",###### CAFR - GENERAL ######
 http://teck-tv.com/live/2605201443100597/C655BF416768/1298495.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/CANADA/canadafr/ayh7Ms8.png" group-title="AM | CA | QUÉBEC",CAFR - ICI RADIO CANADA TELE MONCTON HD
@@ -3738,8 +3722,6 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1017515.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1017516.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/NHLNETWORK.png" group-title="AM | CA | QUÉBEC",CAFR - NHL CENTRE ICE FULL PACKAGE (CH465)
 http://teck-tv.com/live/2605201443100597/C655BF416768/1017517.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/euro_world_sport.png" group-title="AM | CA | QUÉBEC",CAFR - EURO WORLD SPORT
-http://teck-tv.com/live/2605201443100597/C655BF416768/1019787.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/CANADA/Canada_flag.png" group-title="AM | CA | QUÉBEC",##### CAFR - KIDS #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1298488.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/CANADA/canadafr/dark.png" group-title="AM | CA | QUÉBEC",CAFR - TELETOON FRENCH HD
@@ -5207,7 +5189,7 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1308995.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | CA | NHL PPV",CA - NHL GAME 15 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1308996.m3u8
 
-# --- AM | CA | SUPER SPORTS (48) ---
+# --- AM | CA | SUPER SPORTS (45) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/CANADA/Canada_flag.png" group-title="AM | CA | SUPER SPORTS",##### SUPER SPORTS #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1308978.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/CANADA/SUPER-SPORTS.png" group-title="AM | CA | SUPER SPORTS",CA - SUPER SPORTS CH 267
@@ -5252,8 +5234,6 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/796290.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/796289.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/CANADA/SUPER-SPORTS.png" group-title="AM | CA | SUPER SPORTS",CA - SUPER SPORTS CH 448
 http://teck-tv.com/live/2605201443100597/C655BF416768/796288.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/SUPER-SPORTS.png" group-title="AM | CA | SUPER SPORTS",CA - SUPER SPORTS CH 450
-http://teck-tv.com/live/2605201443100597/C655BF416768/317148.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/CANADA/SUPER-SPORTS.png" group-title="AM | CA | SUPER SPORTS",CA - SUPER SPORTS CH 452
 http://teck-tv.com/live/2605201443100597/C655BF416768/317149.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/CANADA/SUPER-SPORTS.png" group-title="AM | CA | SUPER SPORTS",CA - SUPER SPORTS CH 453
@@ -5278,10 +5258,6 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/317158.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/317159.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/CANADA/SUPER-SPORTS.png" group-title="AM | CA | SUPER SPORTS",CA - SUPER SPORTS CH 463
 http://teck-tv.com/live/2605201443100597/C655BF416768/796281.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/SUPER-SPORTS.png" group-title="AM | CA | SUPER SPORTS",CA - SUPER SPORTS CH 464
-http://teck-tv.com/live/2605201443100597/C655BF416768/317160.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/SUPER-SPORTS.png" group-title="AM | CA | SUPER SPORTS",CA - SUPER SPORTS CH 465
-http://teck-tv.com/live/2605201443100597/C655BF416768/317161.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/CANADA/SUPER-SPORTS.png" group-title="AM | CA | SUPER SPORTS",CA - SUPER SPORTS CH 466
 http://teck-tv.com/live/2605201443100597/C655BF416768/796282.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/CANADA/SUPER-SPORTS.png" group-title="AM | CA | SUPER SPORTS",CA - SUPER SPORTS CH 467
@@ -27635,4 +27611,4 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/363875.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",ES - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/682940.m3u8
 
-# Total: 13666
+# Total: 13654

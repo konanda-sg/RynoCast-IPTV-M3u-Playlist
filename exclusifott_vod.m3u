@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: exclusifott.pro:80
-# Generated: 2025-12-14 07:12:29
+# Generated: 2025-12-14 18:24:08
 # Expires: 2026-05-21
 # Family Safe Edition
 # ==============================================
@@ -13403,7 +13403,11 @@ http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/837897.mp4
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7397.jpg" group-title="Movies | |SPT| SPORT BOXING",SPT Katie Taylor vs. Natasha Jonas
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/837889.mp4
 
-# --- Movies | |SPT| SPORT UFC (452) ---
+# --- Movies | |SPT| SPORT UFC (454) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ruecaJTlopSfXQ6WvXnbbL6eSIK.jpg" group-title="Movies | |SPT| SPORT UFC",SPT - UFC on ESPN 73: Royval vs. Kape (Prelims) (2025)
+http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1985953.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ruecaJTlopSfXQ6WvXnbbL6eSIK.jpg" group-title="Movies | |SPT| SPORT UFC",SPT - UFC on ESPN 73: Royval vs. Kape (Main Card) (2025)
+http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1985952.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/srXw1G93XpZh5YVarzDBAu6veh5.jpg" group-title="Movies | |SPT| SPORT UFC",SPT - UFC 323: Dvalishvili vs. Yan 2 (Prelims) (2025)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1981996.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/srXw1G93XpZh5YVarzDBAu6veh5.jpg" group-title="Movies | |SPT| SPORT UFC",SPT - UFC 323: Dvalishvili vs. Yan 2 (Main Card) (2025)
@@ -18011,4 +18015,4 @@ http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35745
 #EXTINF:-1 tvg-logo="" group-title="Series | |RO| ROMANIAN SERIES",RO - Resident Evil: Infinite Darkness (2021)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35746
 
-# Total: 8958
+# Total: 8960

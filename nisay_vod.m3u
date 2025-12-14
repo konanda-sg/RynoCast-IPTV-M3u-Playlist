@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nisay.xyz:8080
-# Generated: 2025-12-14 07:11:30
+# Generated: 2025-12-14 18:23:56
 # Expires: 2026-10-04
 # Family Safe Edition
 # ==============================================
@@ -11389,7 +11389,11 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/112211.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYWdLZCS9W1Xli9bynzFSddLx02.jpg" group-title="Movies | DE: FILME 2023",DE: Dog Gone 2023
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/112207.mkv
 
-# --- Movies | DE: FILME 2024 (584) ---
+# --- Movies | DE: FILME 2024 (586) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/32cweIQc2fyG0NRc47ZTo37XCcy.jpg" group-title="Movies | DE: FILME 2024",DE: Die Gesandte des Papstes (2024)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159294.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUi9cgPUv0Mellt8eARSCK7lVzK.jpg" group-title="Movies | DE: FILME 2024",DE: The Sleeping Woman (2024)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159295.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUi9cgPUv0Mellt8eARSCK7lVzK.jpg" group-title="Movies | DE: FILME 2024",DE: La mujer dormida (2024)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159223.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzxIUS5GFMmDVActt9IPMQ0XZde.jpg" group-title="Movies | DE: FILME 2024",DE: Ur mörkret (2024)
@@ -12559,7 +12563,13 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/139884.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5y0hFRhfx34Be04B7GGqg5TMTM0.jpg" group-title="Movies | DE: FILME 2024",DE: City Hunter (2024)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/139885.mp4
 
-# --- Movies | DE: FILME 2025 (348) ---
+# --- Movies | DE: FILME 2025 (351) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIeHhOqCQysfed98TKjZhRWRc7x.jpg" group-title="Movies | DE: FILME 2025",DE: Wake Up Dead Man: A Knives Out Mystery (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159291.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rjazrpUyHBzSzEcVlvuhOQ6D2pL.jpg" group-title="Movies | DE: FILME 2025",DE: Prange - Man ist ja Nachbar (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159292.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvebFZgb6HczmYkOA43bGfSrvYl.jpg" group-title="Movies | DE: FILME 2025",DE: Tell Me Softly (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159293.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cvKfxdKaV20YikapsiYA23ETXG.jpg" group-title="Movies | DE: FILME 2025",DE: Fog of War - Spion im Nebel (2025)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159215.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x84psre99S5nqaFatB8wtHVXFYA.jpg" group-title="Movies | DE: FILME 2025",DE: Whiteout (2025)
@@ -19697,4 +19707,4 @@ http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1503
 #EXTINF:-1 tvg-logo="" group-title="Series | TR ALTYAZI SERIES",Pluribus
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1803
 
-# Total: 9781
+# Total: 9786
