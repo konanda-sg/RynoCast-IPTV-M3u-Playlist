@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: wyveep.com:8080
-# Generated: 2025-12-13 18:28:47
+# Generated: 2025-12-14 07:16:33
 # Expires: 2025-12-25
 # Family Safe Edition
 # ==============================================
@@ -9795,7 +9795,7 @@ http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1277167.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR360000680_20250805T005522SQUARE.png" group-title="|EN| INFINITY SERIES ▶️",|FR| Zee Magic ▶️
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1344664.m3u8
 
-# --- |FR|  DAZN SERIE A  | TV ⚽️ (21) ---
+# --- |FR|  DAZN SERIE A  | TV ⚽️ (25) ---
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/DAZN.png" group-title="|FR|  DAZN SERIE A  | TV ⚽️",•●★★DAZN SPORT WORLD★★•●
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1350386.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/DAZN.png" group-title="|FR|  DAZN SERIE A  | TV ⚽️",|FR| DAZN SPORT EVENT 1 FHD
@@ -9838,6 +9838,14 @@ http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1350383.m3u8
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1350384.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/DAZN.png" group-title="|FR|  DAZN SERIE A  | TV ⚽️",|FR| DAZN SPORT EVENT 20 FHD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1350385.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/DAZN.png" group-title="|FR|  DAZN SERIE A  | TV ⚽️",|FR| DAZN SPORT EVENT 21 FHD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1402698.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/DAZN.png" group-title="|FR|  DAZN SERIE A  | TV ⚽️",|FR| DAZN SPORT EVENT 22 FHD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1402699.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/DAZN.png" group-title="|FR|  DAZN SERIE A  | TV ⚽️",|FR| DAZN SPORT EVENT 23 FHD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1402700.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/DAZN.png" group-title="|FR|  DAZN SERIE A  | TV ⚽️",|FR| DAZN SPORT EVENT 24 FHD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1402701.m3u8
 
 # --- |FR|  DAZN_LIGUE 1+  SPORT | TV ⚽️ (41) ---
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/LIGUE1PLUS.PNG" group-title="|FR|  DAZN_LIGUE 1+  SPORT | TV ⚽️",•●★★LIGUE1+ FRANCE •●★★
@@ -10835,4 +10843,4 @@ http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1402563.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/BEINSPORT3.png" group-title="⚽️ BEIN SPORT ARABIC  | TV",AR| BEIN SPORTS 3 ENGLISH HD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/237130.m3u8
 
-# Total: 5342
+# Total: 5346

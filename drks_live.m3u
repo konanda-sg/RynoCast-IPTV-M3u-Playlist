@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: drks.info:8080
-# Generated: 2025-12-13 18:26:07
+# Generated: 2025-12-14 07:14:55
 # Expires: 2025-12-20
 # Family Safe Edition
 # ==============================================
@@ -11489,387 +11489,771 @@ http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/54845.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tschechien Channals",CZ | V (1080p)
 http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/54846.m3u8
 
-# --- Turkey Channals (190) ---
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: ATV HEVC+
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45692.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: ATV FHD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45693.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TRT 1
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45694.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TRT 2 HD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45695.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TRT 2
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45696.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TRT AVAZ
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45697.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TRT TÜRK
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45698.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TV 8.5 HD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45699.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TV 360 HD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45700.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TEVE 2 HD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45701.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: A2 HD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45702.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: SHOW TÜRK
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45703.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TON TV (CANAKKALE)
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45705.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: VIZYON 58 (SIVAS)
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45709.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TEMPO TV
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45710.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: EKO TÜRK
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45711.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: VUSLAT TV (MALATYA)
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45712.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TV 52 (ORDU)
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45713.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: KENT TÜRK TV (KAYSERI)
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45716.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: YOL TV
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45717.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: CAN TV
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45718.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: BEYKENT TV
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45719.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: ER TV (MALATYA)
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45722.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: KADIRGA TV (TRABZON)
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45726.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: MAVI KARADENIZ
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45727.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: SAT 7 TÜRK
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45728.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TV 41 (KOCAELI)
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45729.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: BRIC VE SATRANC TV
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45733.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: GRT TV
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45734.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: MERCAN TV
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45737.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: VAV TV
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45738.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: YENI KOCAELI TV
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45740.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: BRTV B KRDNIZ
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45741.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: CIFTCI TV
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45742.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: UR FANATİK TV
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45743.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: SARIYER TV
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45744.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: ORDU BELEDİYESİ TV
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45745.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: OLAY TURK KAYSERİ
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45746.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: HABER 61
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45752.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: GURBET ERZİNCAN TV
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45753.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: DENİZ POSTASI TV
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45760.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: BURSA LINE TV
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45763.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: BRTV KARABUK
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45764.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: ANGARA TV
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45767.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: ALNAYA POSTA TV
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45768.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TV AVRUPA HD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45770.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Euro D
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45773.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Star TV HD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45774.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Star TV EU FHD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45775.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Show TV HEVC+
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45776.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Show TV FHD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45777.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Show Max HD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45778.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Fox FHD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45780.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TRT 1 HEVC+
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45781.m3u8
+# --- Turkey Channals (382) ---
 #EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TRT 1 FHD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45782.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TV 8
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45783.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TV 8 FHD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45784.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",=== Belgesel ===
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45785.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TRT BELGESEL HD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45786.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TLC
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45787.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: DISCOVERY SCIENCE
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45788.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: DISCOVERY IDX
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45789.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: NAT GEO WILD HD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45790.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: VIASAT HISTORY
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45791.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: BBC EARTH
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45792.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: HISTORY HD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45793.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: LOVE NATURE
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45794.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: beIN IZ TV HD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45795.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TGRT BELGESEL
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45796.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: 24 KITCHEN HD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45797.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: YABAN TV
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45798.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: NATIONAL GEOGRAPHIC
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45799.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: VIASAT HISTORY HD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45800.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TRT Belgesel FHD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45802.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: beIN Gurme
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45803.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: FX
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45804.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: FX FHD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45805.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: DMAX FHD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45806.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: DMAX HD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45807.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: NAT GEO WİLD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45808.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Discovery Channel FHD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45809.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Discovery Channel FHD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45810.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Da Vinci Learning
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45811.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",=== Haber ===
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45812.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: A HABER 4K
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45814.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TRT HABER 4K
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45815.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TV 100 4K
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45816.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: CNN TÜRK 4K
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45817.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: HABERTÜRK 4K
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45818.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: NTV 4K
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45819.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TGRT HABER 4K
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45820.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: BLOOMBERG HT 4K
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45821.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: HABER GLOBAL 4K
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45823.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: KRT TV 4K
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45824.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: ÜLKE TV 4K
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45825.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: HALK TV 4K
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45826.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TRT HABER HD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45828.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TV100 HD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45829.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TV 100
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45830.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: HABERTÜRK HD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45831.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: A PARA
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45832.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: ÜLKE TV HD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45833.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: FLASH TV
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45834.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TELE 1
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45835.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: KRT HD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45836.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TGRT Haber FHD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45838.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TGRT Haber FHD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45839.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Ulusal TV
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45840.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: AKIT TV
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45841.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TV Net HD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45843.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Bloomberg HT HD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45844.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Bloomberg HT
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45845.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Haber Global FHD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45846.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: CNN Turk FHD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45847.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: A Haber FHD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45848.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: NTV Haber FHD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45850.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: NTV Haber HEVC+
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45851.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TRT Avaz HD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45852.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TRT Haber
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45853.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TRT Turk
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45854.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TJK
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45855.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TEVE 2 FHD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45856.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: 38 Kent TV
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45857.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",=== Cocuk ===
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45858.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TRT Cocuk FHD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45859.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Boomerang
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45861.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Cartoon Network
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45862.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Disney Channel HD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45863.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Minika Cocuk
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45865.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Minika Go
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45866.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Nick Jr
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45867.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",=== Egitim ===
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45868.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TRT EBA TV ILKOKUL
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45869.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TRT EBA TV ORTAOKUL
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45871.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",=== Muzik ===
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45872.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Dream Turk
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45873.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Kral POP
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45874.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TRT Muzik FHD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45875.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Power Turk FHD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45877.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: NR1 Turk
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45879.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Kral TV
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45880.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Vatan TV
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45881.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",=== Dini ===
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45882.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Semerkand TV
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45883.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Dost TV
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45884.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Altas TV
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45885.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: As TV Bursa
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45886.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Meltem TV
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45887.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Lalegul TV
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45888.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: 24 TV
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45889.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",=== Sinema ===
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45890.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Sinema TV Yerli 2 HD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45891.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Sinema TV 1001 HD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45892.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: SINEMA 1001 FHD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45893.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Sinema 1002
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45894.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Sinema Aile 2 HD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45895.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Sinema TV Aile HD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45896.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Sinema TV Aksiyon
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45897.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Sinema TV Komedi HD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45898.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Sinema TV Yerli HD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45899.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: movie SMART Classic FHD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45900.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: movie SMART Premium  FHD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45901.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: movie SMART Star
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45902.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: movie SMART TÜRK FHD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45903.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: movie SMART Türk FHD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45904.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: beIN Box Office 1 HD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45905.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: beIN Box Office 2 HD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45906.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: beIN Box Office 3 HD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45909.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: beIN Movie Turk FHD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45910.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: beIN Movie Premiere FHD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45911.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: beIN Movie Premiere 2 FHD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45912.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: beIN Movies Stars FHD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45913.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: beIN Series Comedy FHD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45914.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: beIN Series Drama FHD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45915.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: beIN Series Sci-Fi FHD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45916.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: beIN Series Vice FHD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45917.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Tay TV
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45930.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TRT Diyanet HD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45931.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Aksu TV (Kahramanmaras)
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45932.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: BEYAZ TV FHD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45933.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: BEYAZ TV  HEVC
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45934.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: CAY TV
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45936.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: DEHA TV DENIZLI
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45937.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: 360 HD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45938.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TLC FHD
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45941.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: RUMELI TV
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45942.m3u8
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55898.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TRT 1 HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55899.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TRT 4K UHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55900.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TRT 4K
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45944.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TV 4
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45945.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: DIZI SMART Premium
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/45946.m3u8
-#EXTINF:-1 tvg-logo="http://drks.info:8080/images/2c95dcade5c399ea918fbcd63a011548.png" group-title="Turkey Channals",TR: NOW TV
-http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/53511.m3u8
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55901.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TRT 2 FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55902.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TRT AVAZ HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55903.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TRT TURK HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55904.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: ATV FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55905.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: ATV HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55906.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: STAR TV FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55907.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: STAR TV HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55908.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: SHOW TV FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55909.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: SHOW TV HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55910.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: FOX TV FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55913.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: FOX TV HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55914.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TV 8 FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55915.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TV 8 HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55916.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TV 8.5 FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55917.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TV 8.5 HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55918.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TV 8.5
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55919.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: A2 FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55920.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: A2 HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55921.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: BEYAZ TV FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55922.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: BEYAZ TV HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55923.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TEVE 2 FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55927.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TEVE 2 HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55928.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TGRT EU HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55929.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: ATV AVRUPA
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55930.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: SHOW MAX FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55931.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: EURO STAR
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55932.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: EURO D
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55933.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TV 8 INT
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55934.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Vatan TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55935.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: FLASH FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55936.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TRT EBATV ORTAOKUL
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55937.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: 360 FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55938.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TV NET HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55939.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TV 4 FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55940.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TVO
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55941.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: BİZİMEV TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55942.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: AKILLI TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55943.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: SHOW TURK
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55944.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",- - - - TURK SPOR - - - -
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55945.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: S-SPORT 1 FHD+
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55946.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: S-SPORT 1 FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55947.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: S-SPORT HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55948.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: S-SPORT 2 FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55949.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: S-SPORT 2 HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55950.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: SPOR SMART FHD+
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55951.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: SPOR SMART HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55952.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: SPORT SMART FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55953.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: SPORT SMART HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55954.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: SPOR SMART SD (1280)
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55955.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: SPOR SMART 2 FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55956.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TiViBUSPOR 1 FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55957.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TiViBUSPOR 2 FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55958.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TiViBUSPOR 3 FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55959.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TIVIBUSPOR 4(maczamani)
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55960.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TIVIBUSPOR 1 HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55961.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TIVIBUSPOR 2 HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55962.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TIVIBUSPOR 3 HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55963.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: EXXEN 1 FHD (maczamani)
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55964.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: EXXEN 1 FEED (maczamani)
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55965.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: EXXEN 1 SD+ (maczamani)
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55966.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: EXXEN 2 FHD (maczamani)
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55967.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: EXXEN 3 FHD (maczamani)
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55968.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: EXXEN 4 FHD (maczamani)
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55969.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: EXXEN 5 FHD (maczamani)
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55970.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: EXXEN 6 FHD (maczamani)
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55971.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: EXXEN 7 FHD (maczamani)
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55972.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: EXXEN 8 FHD (maczamani)
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55973.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: S Sport+1 Mac Saati
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55974.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: S Sport+2 Mac Saati
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55975.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: S Sport+3 Mac Saati
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55976.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: S Sport+4 Mac Saati
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55977.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: S Sport+5 Mac Saati
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55978.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: NBA TV FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55979.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: NBA TV HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55980.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: EUROSPORT 1 FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55981.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: EUROSPORT 2 FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55982.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TRT SPOR FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55983.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TRT SPOR HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55984.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TRT 3 SPOR
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55985.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: A SPOR FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55986.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: A SPOR HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55987.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TRT SPOR YILDIZ FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55988.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TRT SPOR YILDIZ HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55989.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: GS TV HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55990.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: FB TV HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55991.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: SPORTSTV HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55992.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TJK TV HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55993.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: b**N SP0RT 1 FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55994.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: b**N SP0RT 1 FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55995.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: b**N SP0RT 1 HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55996.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: b**N SP0RT 3 FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55997.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: b**N SP0RT 4 FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55998.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: b**N SP0RT 5 FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55999.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: b**N SP0RTS MAX 1 FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: b**N SP0RT MAX 2 FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56001.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: b**N SP0RT HABER FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56002.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: b**N CONNECT 1 maczamani
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56003.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: b**N CPNNECT 2 maczamani
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56004.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: b**N CONNECT 3 maczamani
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56005.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",- - - - TURK BELGESEL - - - -
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56006.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TLC TV FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56007.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TLC TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56008.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Animal Planet HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56009.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: 24 KiTCHEN FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56010.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: 24 KiTCHEN HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56011.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: BBC Earth FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56012.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: BBC Earth HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56013.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: b**N G*RME FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56014.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: CİFTCİ TV FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56015.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: DISCOVERY CHANNEL FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56016.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: DISCOVERY CHANNEL HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56017.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: DISCOVERY SCIENCE FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56018.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: DISCOVERY SCIENCE FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56019.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: DISCOVERY ID
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56020.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: DISCOVERY IDX HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56021.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: ViASAT HiSTORY FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56022.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: ViASAT HiSTORY HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56023.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: History HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56024.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: YABAN TV HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56025.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: DOCUBOX FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56026.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: DOCUBOX FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56027.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TGRT BELGESEL
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56028.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: LOVE NATURE HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56029.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: LOVE NATURE FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56030.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: National Geographic FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56031.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: National Geographic HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56032.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: NAT GEO WILD FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56033.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Nat Geo Wild HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56034.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TRT BELGESEL FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56035.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TRT Belgesel HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56036.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: DMAX HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56037.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: DMAX FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56038.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: OUTDOOR FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56039.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TARIM TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56040.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: KOY TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56041.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: VIASAT EXPLORE HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56042.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: b**N MOVIES FAMILY FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56043.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: b**N MOVIES ACTION FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56044.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: b**N M0VIES ACTI0N 2 FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56045.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: b**N M0VIES P*EMIER FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56046.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: b**N MOVIES P*EMIERE 2 FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56047.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: b**N M0VIES STARS FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56048.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: b**N M0VIES TURK FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56049.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: b**N S*RIES 1 FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56050.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: b**N S*RIES 3 FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56051.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: b**N S*RIES 2 FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56052.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: b**N S*RIES 4 FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56053.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: MOVİESMART CLASSİC FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56054.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: MOVIESMART COCUK FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56055.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: MOVİESMART TURK FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56056.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: DİZİ SMART PREMIUM FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56057.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: DIZI SMART PREMIUM HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56058.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: DIZI SMART MAX HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56059.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: DIZI SMART MAX FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56060.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: SINEMA TV 1001 FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56061.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: SINEMA TV 1002 FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56062.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: SINEMA TV FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56063.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: SINEMA TV 2 FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56064.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: SINEMA TV ACTION FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56065.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: SINEMA TV ACTION 2 FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56066.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: SINEMA TV KOMEDI FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56067.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: SINEMA TV AILE FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56068.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: SINEMA TV AILE 2 FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56069.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: SINEMA TV YERLI  FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56070.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: SINEMA TV YERLI 2 FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56071.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: SINEMA TV KOMEDI 2 FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56072.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: FX FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56073.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: FOX CRIME FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56074.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: DIZIAX Kanit
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56075.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",- - - - TURK SİNEMA - - - -
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56076.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: b**N B0X 0FFİCE HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56077.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: b**N B0X 0FFİCE 1 HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56078.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: b**N B*X OFFİCE 2 HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56079.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: MAX Aksiyon HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56080.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: MAX Aksiyon 2 HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56081.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: MAX Premier HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56082.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: MAX Orjinal HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56083.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: MAX Western HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56084.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: MAX Hint Filimleri
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56085.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: MAX Vizyon HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56086.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: MAX Vizyon 2 HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56087.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: MAX Vizyon 3 HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56088.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: MAX Vizyon 4 HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56089.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: MAX 007 HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56090.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: MAX STAR WARS HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56091.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: MAX TURK HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56092.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: MAX PLUS HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56093.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: MAX GOLD HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56094.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: SINEMA AKSIYON HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56095.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: REDBOX PREMIERE
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56096.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: REDBOX VIZYON 1 HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56097.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: REDBOX VIZYON 2  HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56098.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: REDBOX SINEMA TURK 1 HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56099.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: REDBOX SINEMA TURK  2 HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56100.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: REDBOX ACTIE 1 HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56101.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: REDBOX BILIMKURGU 1 HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56102.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: REDBOX HORROR 1 HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56103.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: REDBOX MIX 1 HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56104.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: REDBOX DRAMA HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56105.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Kemal Sunal TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56107.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TRT HABER FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56109.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TRT HABER HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56110.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: HABER TURK FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56111.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: HABER TURK HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56112.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: CNN TURK FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56113.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: CNN TURK HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56114.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: NTV HABER FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56115.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: NTV HABER HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56116.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: GLOBAL HABER FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56117.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: GLOBAL HABER HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56118.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: HALK TV FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56119.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: HALK TV HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56120.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: A PARA FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56121.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: A PARA FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56122.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: A HABER FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56123.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TELE 1 FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56124.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TELE 1 HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56125.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: ON6 HABER
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56126.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: KRT TV HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56127.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: ULKETV HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56128.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TV 100 FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56129.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TV 100 HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56130.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Bloomberg HT
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56131.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TGRT HABER HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56133.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: 360 HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56134.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: A NEWS FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56135.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: BRT 3
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56136.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: EKOTURK TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56137.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: UZAY HABER
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56138.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TH TURKHABER
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56140.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: SOZCU TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56141.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",- - - - TURK MUZIK - - - -
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56142.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TRT MUZiK FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56143.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: DREAM TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56144.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: DREAM TURK
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56145.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: POWER HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56146.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: POWER TURK HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56147.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: NR 1 HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56148.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: NR1 TURK HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56149.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: KRAL TV HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56150.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: KRAL POP FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56151.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: REDBOX TURKCE POP
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56152.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: REDBOX ARABESK TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56153.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: NR1 AŞK
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56154.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Radyo 45'lik
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56155.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: ZEKI BABA
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56156.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: NR1 DANCE
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56157.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: NR1 DAMAR
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56158.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: DONMASIZ GECICI
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56159.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",- - - - TURK COCUK - - - -
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56160.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: SMART COCUK HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56161.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: CARTOON NETWORK HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56162.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: DUCK TV HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56163.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TRT ÇOCUK FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56164.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TRT COCUK HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56165.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: NICKELODEON HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56166.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: NICK JR HD HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56167.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: DISNEY JR HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56168.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: CBEEBiES HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56169.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: BABY TV HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56170.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: BOOMERANG HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56171.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: MINICA GO
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56172.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: MINIKA COCUK
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56173.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TOM & JERRY
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56174.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: PIJAMA MASKELILER TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56175.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: SiRiNLER TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56176.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: DISNEY JR FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56177.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Cizgi Film HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56178.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: KUKULI TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56179.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Niloya FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56180.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: PEPEE TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56181.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Filmax Animation HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56182.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Animation 1 HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56183.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Animation 2 HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56184.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: FILMAX COCUK
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56185.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: FILMAX COCUK 1
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56186.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: FILMAX COCUK 2
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56187.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: FILMAX COCUK 3
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56188.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: BOOBA TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56189.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: KIDSAX KUKULI
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56190.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: KIDSAX NILOYA
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56191.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: KIDSAX PEPE
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56192.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: KIDSAX ITFAIYECI SAM
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56193.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: KIDSAX RAFADAN TAYFA
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56194.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: KIDSAX TELETABILER
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56195.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: 64 KARE ULKESI
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56196.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: ADIBESA MASALLARI
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56197.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: ANKA TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56198.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: ASLAN TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56199.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: BARBAROS TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56200.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: BEN 10 TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56201.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: BULMACA KULESI
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56202.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: CAILLOU TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56203.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: CHICKY TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56205.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: CILGIN ORMAN TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56206.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: ILAHI COCUK TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56207.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: DORU TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56208.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: EGE ILE GAGA
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56209.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: ELIF VE ARKADASLARI
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56210.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: ELIFIN RUYASI
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56211.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: GIZEMLER DIYARI
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56212.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: HAPSUU TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56213.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: ITFAYECI SAM
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56214.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: KARE TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56215.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: KELOGLAN TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56216.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: KOSTEBEKGILLER TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56217.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: KRAL SAKIR TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56218.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: KUKILI TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56219.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: LEYLEK KARDES
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56220.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: LIMON ZEYTIN
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56221.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: MASA KOCAAYI
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56222.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: MIMOCAN TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56223.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: NASREDDIN HOCA
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56224.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: NILOYA TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56225.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: OSCAR COLLERDE
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56226.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: PAK PIRPIR TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56227.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: PAW PETROL
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56228.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: PEPPA PIG
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56229.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: PEPE TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56230.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: PIJAMA MASKE
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56231.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: PIRIL TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56232.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: PISI TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56233.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: POKEMON TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56234.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: RAFADAN TAYFA
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56235.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: RUYA TRENI
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56236.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: SEF ROKKA TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56237.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: SEKER HOCA
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56238.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: SERCE KUS TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56239.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: SEVIMLI DOSTLAR
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56240.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: SIRINLER TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56241.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: SPIDERMAN TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56242.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TAVSAN MOMO
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56243.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TAYO TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56244.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: VIKINGLER TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56245.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: ALVIN
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56246.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: ANGRY BIRDS
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56247.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: GABBY
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56248.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: MUFFETIS GADGET
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56249.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: HEIDI
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56250.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: JURASSIC WORLD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56251.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: MAYMUNLAR KRALI KONG
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56252.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: KONUSAN TOM
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56253.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: SONİC BOOM
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56254.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TRANSFORMERS
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56255.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TROL AVCILARI
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56256.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: WAKFU
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56257.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: YILDIZ KIZ
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56258.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: ASHABI KEHF
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56259.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: İMAM EBU HANIFE
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56260.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",### TURK DINI - - - -
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56261.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: DIYANET TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56262.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: REHBER TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56263.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: DOST TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56264.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: FM TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56265.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: TV5
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56266.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: SEMERKAND TV HD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56267.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: LALEGUL TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56268.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: KABE TV CANLI
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56269.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Meltem TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56270.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: KUDUS TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56271.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: FMTV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56272.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: SAT 7 TURK
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56273.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",- - - - TURK YEREL - - - -
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56274.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: DRT DENIZLI
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56275.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: PAMUKKALE TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56276.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: GAZIANTEP OLAY TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56277.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: GRT TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56278.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: ADANA TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56279.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Sivas VIZYON 58 TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56280.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: ÇANAKKALE TON TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56281.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: ADIYAMAN MERCAN TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56282.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Malatya ERTV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56283.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Mavi Karadeniz
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56284.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Yeni Kocaeli TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56285.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: ANKARA Türkiyem TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56287.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: LINE TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56290.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: Karadeniz BRTV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56291.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey Channals",TR: KOZA TV
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56292.m3u8
 
 # --- USA Channals (537) ---
 #EXTINF:-1 tvg-logo="" group-title="USA Channals",USA:  5 STARMAX
@@ -13323,4 +13707,4 @@ http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/53611.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ViP SPORT Bouquets",UK | MUTV
 http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/53612.m3u8
 
-# Total: 6611
+# Total: 6803

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: stklatino.dynns.com:2082
-# Generated: 2025-12-13 18:30:10
+# Generated: 2025-12-14 07:21:06
 # Expires: 2026-02-11
 # Family Safe Edition
 # ==============================================
@@ -2251,7 +2251,7 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/41798.m3u8
 #EXTINF:-1 tvg-logo="https://www.tv-online.es/wp-content/uploads/2022/02/Be-Mad-en-Directo-Logo.png" group-title="ESPAÑA",Be Mad
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/77026.m3u8
 
-# --- ESTADOS UNIDOS (256) ---
+# --- ESTADOS UNIDOS (255) ---
 #EXTINF:-1 tvg-logo="http://pluspng.com/img-png/abc-logo-png-file-abc-logo-png-400.png" group-title="ESTADOS UNIDOS",ABC
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/450.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZYBYXM9k/usa2.png" group-title="ESTADOS UNIDOS",30A Sidewalks
@@ -2390,8 +2390,6 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/423.m3u8
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/19717.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZYBYXM9k/usa2.png" group-title="ESTADOS UNIDOS",CNBC TV18
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/19721.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZYBYXM9k/usa2.png" group-title="ESTADOS UNIDOS",CNBC WORLD
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/14027.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZYBYXM9k/usa2.png" group-title="ESTADOS UNIDOS",ConTV
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/19723.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZYBYXM9k/usa2.png" group-title="ESTADOS UNIDOS",Court TV
@@ -16907,4 +16905,4 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/2429.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/520_Venevision.png" group-title="VENEZUELA",Venevision 2
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/74736.m3u8
 
-# Total: 8418
+# Total: 8417

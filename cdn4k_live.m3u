@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: cdn4k.us:80
-# Generated: 2025-12-13 18:29:46
+# Generated: 2025-12-14 07:10:20
 # Expires: 2025-12-15
 # Family Safe Edition
 # ==============================================
@@ -1134,13 +1134,13 @@ http://cdn4k.us:80/live/Adrianobrito16/910989645a/6546.m3u8
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/100517.m3u8
 
 # --- DISNEY+ (30) ---
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/2ba9f40e-b243-4737-9cff-a1f9774ac58d/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="DISNEY+",FIS Ski World Cup: Etapa de Val D'Isere (ITA): Giant Slalom
+#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Disney 01
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/346368.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019ae167-bddf-7beb-80a1-24b9bb224faa/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="DISNEY+",Premier Padel: Barcelona Finals - Centre Court (Semifinales)
+#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Disney 02
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/346369.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/2ba9f40e-b243-4737-9cff-a1f9774ac58d/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="DISNEY+",Audi FIS Ski World Cup
+#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Disney 03
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/346370.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019ac1e2-abe3-7782-a014-1eaf9a1b1286/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="DISNEY+",Everton x Arsenal
+#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Disney 04
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/346371.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Disney 05
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/346372.m3u8
@@ -2838,9 +2838,9 @@ http://cdn4k.us:80/live/Adrianobrito16/910989645a/355637.m3u8
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355638.m3u8
 #EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Mallorca x Elche - 12:15 HD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355639.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Casa Pia x Gil Vicente - 12:30 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Antalyaspor x Galatasaray - 14:00 FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355640.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Casa Pia x Gil Vicente - 12:30 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Antalyaspor x Galatasaray - 14:00 HD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355641.m3u8
 #EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Parma x Lazio - 14:00 FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355642.m3u8

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: siptvs.com:8080
-# Generated: 2025-12-13 18:33:10
+# Generated: 2025-12-14 07:10:18
 # Expires: 2026-05-16
 # Family Safe Edition
 # ==============================================
@@ -22221,7 +22221,7 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/2066.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| SPANSKE SERIJE",Scars of Beauty (2025)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/2138.mp4
 
-# --- Movies | |EXYU| STRANE SERIJE (849) ---
+# --- Movies | |EXYU| STRANE SERIJE (850) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| STRANE SERIJE",YOU
 http://siptvs.com:8080/movie/Biljana12/Biljana12/22.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| STRANE SERIJE",Breaking Bad
@@ -23920,6 +23920,8 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/2287.mp4
 http://siptvs.com:8080/movie/Biljana12/Biljana12/2288.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| STRANE SERIJE",Washington Black (2025)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/2289.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| STRANE SERIJE",Man vs Baby (2025)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/2290.mp4
 
 # --- Movies | |EXYU| STRANI 2022 (351) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cwIZp4fVMGK6GZVAM5SU5ZHXSoU.jpg" group-title="Movies | |EXYU| STRANI 2022",Amandla (2022)
@@ -27223,7 +27225,7 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/196891.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xKEcbWxQYEgDrNWj0sXDHxRyxl9.jpg" group-title="Movies | |EXYU| STRANI 2024",American Warrior (2024)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/197043.mp4
 
-# --- Movies | |EXYU| STRANI 2025 (516) ---
+# --- Movies | |EXYU| STRANI 2025 (520) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8qJfjFhNwpTONNAoE6gUSx2yGpg.jpg" group-title="Movies | |EXYU| STRANI 2025",Ad Vitam  (2025)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/183381.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDdwuxEr6GTtl0o7PbVvVo4ht5i.jpg" group-title="Movies | |EXYU| STRANI 2025",Back in Action  (2025)
@@ -28256,6 +28258,14 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/197356.mp4
 http://siptvs.com:8080/movie/Biljana12/Biljana12/197358.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/d7kHHlf3QKjnEx9fDKk90tblZgs.jpg" group-title="Movies | |EXYU| STRANI 2025",Paws in the City (2025)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/197359.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zha2hXQTUzvxwy0ayBedACS6jHx.jpg" group-title="Movies | |EXYU| STRANI 2025",MMA Cop (2025)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/197566.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iV5rMrld86kNBWEy75Cjq8RRFaO.jpg" group-title="Movies | |EXYU| STRANI 2025",Jaat (2025)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/197567.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/koj6YOGltFo8L42NFldJMw5M0dU.jpg" group-title="Movies | |EXYU| STRANI 2025",Fateh (2025)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/197568.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nWHx1vchbmLU3HTEJSAiBgpWPqn.jpg" group-title="Movies | |EXYU| STRANI 2025",Worldbreaker (2025)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/197569.mp4
 
 # --- Movies | |EXYU| STRANI ARHIVA (732) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDiAfxcjz5bydpbqTtBYBfaYHKD.jpg" group-title="Movies | |EXYU| STRANI ARHIVA",1 Buck (2017)
@@ -32573,4 +32583,4 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/179055.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c44zM4fWJ55ImcEnqf7UL4dsCSB.jpg" group-title="Movies | |MU| MUSIC/CONCERTE",Avicii - Mein letztes Konzert (2024)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/181880.mkv
 
-# Total: 16223
+# Total: 16228

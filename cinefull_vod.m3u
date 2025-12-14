@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: cinefull.space:80
-# Generated: 2025-12-13 18:25:09
+# Generated: 2025-12-14 07:10:03
 # Expires: 2026-05-07
 # Family Safe Edition
 # ==============================================
@@ -6586,17 +6586,17 @@ http://cinefull.space:80/movie/148419948/828744451/2430822.mp4
 http://cinefull.space:80/movie/148419948/828744451/2430828.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/gnuSSOVBVWlKL8dFEGKRoOiiKTS.jpg" group-title="Movies | Filmes | Cinema",Karatê Kid: Lendas
 http://cinefull.space:80/movie/148419948/828744451/2430837.mp4
-#EXTINF:-1 tvg-logo="http://64.31.13.86:80/images/d3c1d9ee703233718619c282ff6ee82b.jpg" group-title="Movies | Filmes | Cinema",Truque de Mestre: O 3° Ato [Cinema] (2025)
+#EXTINF:-1 tvg-logo="http://cinevods.site:80/images/d3c1d9ee703233718619c282ff6ee82b.jpg" group-title="Movies | Filmes | Cinema",Truque de Mestre: O 3° Ato [Cinema] (2025)
 http://cinefull.space:80/movie/148419948/828744451/2548895.mp4
-#EXTINF:-1 tvg-logo="http://64.31.13.86:80/images/131036b0c956a49c154b49b67060cba2.jpg" group-title="Movies | Filmes | Cinema",Tron: Ares [Cinema] (2025)
+#EXTINF:-1 tvg-logo="http://cinevods.site:80/images/131036b0c956a49c154b49b67060cba2.jpg" group-title="Movies | Filmes | Cinema",Tron: Ares [Cinema] (2025)
 http://cinefull.space:80/movie/148419948/828744451/2548896.mp4
 #EXTINF:-1 tvg-logo="http://iksds.site:80/images/8eaf89301c78b7ae4f8c579275754b22.jpg" group-title="Movies | Filmes | Cinema",GOAT [Cinema] (2025)
 http://cinefull.space:80/movie/148419948/828744451/2548894.mp4
-#EXTINF:-1 tvg-logo="http://64.31.13.86:80/images/c050a2582cb22358a8e2d38ffb93c567.jpg" group-title="Movies | Filmes | Cinema",O Agente Secreto [Cinema] (2025)
+#EXTINF:-1 tvg-logo="http://cinevods.site:80/images/c050a2582cb22358a8e2d38ffb93c567.jpg" group-title="Movies | Filmes | Cinema",O Agente Secreto [Cinema] (2025)
 http://cinefull.space:80/movie/148419948/828744451/2548897.mp4
 #EXTINF:-1 tvg-logo="http://iksds.site:80/images/f8e57e4d338a0e7e7d00504c8ba22083.jpg" group-title="Movies | Filmes | Cinema",Transação Perigosa 2 [Cinema] (2025)
 http://cinefull.space:80/movie/148419948/828744451/2548893.mp4
-#EXTINF:-1 tvg-logo="http://64.31.13.86:80/images/32efa2566986de16aa0bbcd3f6c59da8.jpg" group-title="Movies | Filmes | Cinema",Zootopia 2 [Cinema] (2025)
+#EXTINF:-1 tvg-logo="http://cinevods.site:80/images/32efa2566986de16aa0bbcd3f6c59da8.jpg" group-title="Movies | Filmes | Cinema",Zootopia 2 [Cinema] (2025)
 http://cinefull.space:80/movie/148419948/828744451/2548898.mp4
 
 # --- Movies | Filmes | Comedia (2054) ---
@@ -25643,7 +25643,7 @@ http://cinefull.space:80/movie/148419948/828744451/2403166.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/896f2gM70WHA8NJQ6AWVgpUuYvJ.jpg" group-title="Movies | Filmes | Terror",A Piscina
 http://cinefull.space:80/movie/148419948/828744451/2403179.mp4
 
-# --- Movies | Novelas (237) ---
+# --- Movies | Novelas (243) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Novelas",O Sétimo Guardião (2018)
 http://cinefull.space:80/movie/148419948/828744451/210.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Novelas",Verdades Secretas (2015)
@@ -26118,6 +26118,18 @@ http://cinefull.space:80/movie/148419948/828744451/7834.mp4
 http://cinefull.space:80/movie/148419948/828744451/7912.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Novelas",Esmeralda (2004)
 http://cinefull.space:80/movie/148419948/828744451/8018.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Novelas",Renascer (1993) (1993)
+http://cinefull.space:80/movie/148419948/828744451/8025.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Novelas",Vale Tudo (1988) (1988)
+http://cinefull.space:80/movie/148419948/828744451/8027.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Novelas",Malhação (1996) (1995)
+http://cinefull.space:80/movie/148419948/828744451/8028.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Novelas",Malhação (2004) (1995)
+http://cinefull.space:80/movie/148419948/828744451/8034.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Novelas",Malhacao (1998) (1995)
+http://cinefull.space:80/movie/148419948/828744451/8044.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Novelas",Malhacao (1999) (1995)
+http://cinefull.space:80/movie/148419948/828744451/8045.mp4
 
 # --- Movies | Programas de TV (13) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Programas de TV",The Voice Kids (2016)
@@ -26155,7 +26167,7 @@ http://cinefull.space:80/series/148419948/828744451/2240
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | AMC Plus",This Is Going to Hurt (2022)
 http://cinefull.space:80/series/148419948/828744451/2384
 
-# --- Series | Series | Amazon Prime Video (720) ---
+# --- Series | Series | Amazon Prime Video (731) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",Absentia (2017)
 http://cinefull.space:80/series/148419948/828744451/4
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",American Horror Story (2011)
@@ -26486,7 +26498,7 @@ http://cinefull.space:80/series/148419948/828744451/2238
 http://cinefull.space:80/series/148419948/828744451/2271
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",The Boys Apresenta: Diabólicos (2022)
 http://cinefull.space:80/series/148419948/828744451/2288
-#EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",A Agencia (2020)
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",A Agencia (2024)
 http://cinefull.space:80/series/148419948/828744451/2294
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",Harina (2022)
 http://cinefull.space:80/series/148419948/828744451/2301
@@ -27596,8 +27608,30 @@ http://cinefull.space:80/series/148419948/828744451/7993
 http://cinefull.space:80/series/148419948/828744451/7997
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",Schooled (2016)
 http://cinefull.space:80/series/148419948/828744451/3679
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",Jovens Bruxas (1998)
+http://cinefull.space:80/series/148419948/828744451/8021
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",As Meninas Superpoderosas (2016) (2016)
+http://cinefull.space:80/series/148419948/828744451/8035
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",Fantasmas (2024) (2024)
+http://cinefull.space:80/series/148419948/828744451/8041
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",Zorro (2024) (2024)
+http://cinefull.space:80/series/148419948/828744451/8048
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",Beach Life (2024)
+http://cinefull.space:80/series/148419948/828744451/8061
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",Despachos de Outro Lugar (2020)
+http://cinefull.space:80/series/148419948/828744451/8062
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",Os Osbournes Investigacao Paranormal
+http://cinefull.space:80/series/148419948/828744451/8065
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",Spartacus House of Ashur (2025)
+http://cinefull.space:80/series/148419948/828744451/8067
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",The Real CSI Miami (2024)
+http://cinefull.space:80/series/148419948/828744451/8068
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",Orgulho e Preconceito (1995)
+http://cinefull.space:80/series/148419948/828744451/8070
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",Film Club (2025)
+http://cinefull.space:80/series/148419948/828744451/8072
 
-# --- Series | Series | Apple TV Plus (240) ---
+# --- Series | Series | Apple TV Plus (242) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Apple TV Plus",Motel Bates (2013)
 http://cinefull.space:80/series/148419948/828744451/16
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Apple TV Plus",Colony (2016)
@@ -27818,7 +27852,7 @@ http://cinefull.space:80/series/148419948/828744451/2285
 http://cinefull.space:80/series/148419948/828744451/2287
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Apple TV Plus",Os Últimos Dias de Ptolemy Grey (2022)
 http://cinefull.space:80/series/148419948/828744451/2306
-#EXTINF:-1 tvg-logo="" group-title="Series | Series | Apple TV Plus",A Ilha da Fantasia (1978)
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Apple TV Plus",A Ilha da Fantasia (2021)
 http://cinefull.space:80/series/148419948/828744451/2328
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Apple TV Plus",Raising Hope (2010)
 http://cinefull.space:80/series/148419948/828744451/2344
@@ -28078,6 +28112,10 @@ http://cinefull.space:80/series/148419948/828744451/7774
 http://cinefull.space:80/series/148419948/828744451/7851
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Apple TV Plus",Pluribus (2025)
 http://cinefull.space:80/series/148419948/828744451/7929
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Apple TV Plus",Invasão (2005) (2005)
+http://cinefull.space:80/series/148419948/828744451/8023
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Apple TV Plus",Bleach (2004) (2004)
+http://cinefull.space:80/series/148419948/828744451/8031
 
 # --- Series | Series | Brasil Paralelo (26) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Brasil Paralelo",Entre Lobos (2022)
@@ -29251,7 +29289,7 @@ http://cinefull.space:80/series/148419948/828744451/7737
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Discovery Plus",Caca Tempestades (2025)
 http://cinefull.space:80/series/148419948/828744451/7922
 
-# --- Series | Series | Disney Plus (435) ---
+# --- Series | Series | Disney Plus (438) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Disney Plus",9-1-1 (2018)
 http://cinefull.space:80/series/148419948/828744451/2
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Disney Plus",Castle (2009)
@@ -30122,8 +30160,14 @@ http://cinefull.space:80/series/148419948/828744451/7971
 http://cinefull.space:80/series/148419948/828744451/7974
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Disney Plus",Tudo e Justo (2025)
 http://cinefull.space:80/series/148419948/828744451/7984
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Disney Plus",Doctor Who (2024) (2024)
+http://cinefull.space:80/series/148419948/828744451/8039
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Disney Plus",911 Nashville
+http://cinefull.space:80/series/148419948/828744451/8060
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Disney Plus",Its Always Sunny in Philadelphia (2005)
+http://cinefull.space:80/series/148419948/828744451/8074
 
-# --- Series | Series | Dorama (645) ---
+# --- Series | Series | Dorama (648) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Dorama",Love Alarm (2019)
 http://cinefull.space:80/series/148419948/828744451/325
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Dorama",Tudo Bem Nao Ser Normal [L] (2020)
@@ -31414,6 +31458,12 @@ http://cinefull.space:80/series/148419948/828744451/7899
 http://cinefull.space:80/series/148419948/828744451/7908
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Dorama",Amor de Mentirinha (2025)
 http://cinefull.space:80/series/148419948/828744451/7945
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Dorama",Minha Confusao de Amor (2021) [L] (2021)
+http://cinefull.space:80/series/148419948/828744451/8046
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Dorama",Meritissimo (2024) [L] (2024)
+http://cinefull.space:80/series/148419948/828744451/8052
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Dorama",Talvez Amanha (2025)
+http://cinefull.space:80/series/148419948/828744451/8069
 
 # --- Series | Series | Funimation Now (22) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Funimation Now",Dragon Ball Z (1989)
@@ -31461,7 +31511,7 @@ http://cinefull.space:80/series/148419948/828744451/2478
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Funimation Now",Uzaki-chan wa Asobitai!
 http://cinefull.space:80/series/148419948/828744451/3215
 
-# --- Series | Series | Globoplay (446) ---
+# --- Series | Series | Globoplay (451) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Globoplay",Assédio (2018)
 http://cinefull.space:80/series/148419948/828744451/12
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Globoplay",Chicago Fire: Heróis Contra o Fogo (2012)
@@ -31470,7 +31520,7 @@ http://cinefull.space:80/series/148419948/828744451/27
 http://cinefull.space:80/series/148419948/828744451/28
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Globoplay",Chicago P.D.: Distrito 21 (2014)
 http://cinefull.space:80/series/148419948/828744451/29
-#EXTINF:-1 tvg-logo="" group-title="Series | Series | Globoplay",Doctor Who (2024)
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Globoplay",Doctor Who (2005)
 http://cinefull.space:80/series/148419948/828744451/41
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Globoplay",Ilha de Ferro (2018)
 http://cinefull.space:80/series/148419948/828744451/63
@@ -32210,7 +32260,7 @@ http://cinefull.space:80/series/148419948/828744451/5289
 http://cinefull.space:80/series/148419948/828744451/5291
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Globoplay",Baseado Numa Historia Real (2023)
 http://cinefull.space:80/series/148419948/828744451/5321
-#EXTINF:-1 tvg-logo="" group-title="Series | Series | Globoplay",Cilada (2025)
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Globoplay",Cilada (2005)
 http://cinefull.space:80/series/148419948/828744451/5333
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Globoplay",Montecristo (2023)
 http://cinefull.space:80/series/148419948/828744451/5412
@@ -32224,7 +32274,7 @@ http://cinefull.space:80/series/148419948/828744451/5471
 http://cinefull.space:80/series/148419948/828744451/5473
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Globoplay",Suite Magnolia (2024)
 http://cinefull.space:80/series/148419948/828744451/5477
-#EXTINF:-1 tvg-logo="" group-title="Series | Series | Globoplay",Os Trapalhoes (2017)
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Globoplay",Os Trapalhoes (1977)
 http://cinefull.space:80/series/148419948/828744451/5493
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Globoplay",Quanto Vale Esse Doce (2023)
 http://cinefull.space:80/series/148419948/828744451/5497
@@ -32354,8 +32404,18 @@ http://cinefull.space:80/series/148419948/828744451/7857
 http://cinefull.space:80/series/148419948/828744451/7990
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Globoplay",Vespera (2022)
 http://cinefull.space:80/series/148419948/828744451/7994
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Globoplay",A Ilha da Fantasia (1978) (1978)
+http://cinefull.space:80/series/148419948/828744451/8029
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Globoplay",Carnaval RJ (2023)
+http://cinefull.space:80/series/148419948/828744451/8032
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Globoplay",Carnaval SP (2023)
+http://cinefull.space:80/series/148419948/828744451/8033
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Globoplay",Os Trapalhoes (2017) (2017)
+http://cinefull.space:80/series/148419948/828744451/8043
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Globoplay",O Natal dos Silva (2025)
+http://cinefull.space:80/series/148419948/828744451/8077
 
-# --- Series | Series | Legendadas (1355) ---
+# --- Series | Series | Legendadas (1361) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Cobra Kai [L] (2018)
 http://cinefull.space:80/series/148419948/828744451/30
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Krypton [L] (2018)
@@ -33912,7 +33972,7 @@ http://cinefull.space:80/series/148419948/828744451/5888
 http://cinefull.space:80/series/148419948/828744451/5890
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",The Magical Girl and the Evil Lieutenant Used to Be Archenemies [L] (2024)
 http://cinefull.space:80/series/148419948/828744451/5891
-#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",The Kings Avatar [L] (2017)
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",The Kings Avatar [L] (2019)
 http://cinefull.space:80/series/148419948/828744451/5896
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Como Morrer Sozinha [L] (2024)
 http://cinefull.space:80/series/148419948/828744451/5907
@@ -35066,6 +35126,18 @@ http://cinefull.space:80/series/148419948/828744451/8004
 http://cinefull.space:80/series/148419948/828744451/8005
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",RuPauls Drag Race [L] (2009)
 http://cinefull.space:80/series/148419948/828744451/8006
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Kingdom [L] (2012) (2012)
+http://cinefull.space:80/series/148419948/828744451/8037
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Nova York Contra o Crime [L] (1993) (1993)
+http://cinefull.space:80/series/148419948/828744451/8038
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",The Kings Avatar (2017) [L] (2017)
+http://cinefull.space:80/series/148419948/828744451/8050
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",20000 Lguas Submarinas (2025) [L]
+http://cinefull.space:80/series/148419948/828744451/8055
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Greys Anatomy [L] (2005)
+http://cinefull.space:80/series/148419948/828744451/8058
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",The Boys [L] (2019)
+http://cinefull.space:80/series/148419948/828744451/8059
 
 # --- Series | Series | Lionsgate (7) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Lionsgate",Da Vinci's Demons (2013)
@@ -35083,7 +35155,7 @@ http://cinefull.space:80/series/148419948/828744451/3515
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Lionsgate",Survivor's Remorse (2014)
 http://cinefull.space:80/series/148419948/828744451/3859
 
-# --- Series | Series | Max (516) ---
+# --- Series | Series | Max (518) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Max",A Sete Palmos (2001)
 http://cinefull.space:80/series/148419948/828744451/11
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Max",Ballers (2015)
@@ -36116,8 +36188,12 @@ http://cinefull.space:80/series/148419948/828744451/7988
 http://cinefull.space:80/series/148419948/828744451/7995
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Max",Quilos Mortais Adolescentes (2024)
 http://cinefull.space:80/series/148419948/828744451/6952
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Max",Objetos Cortantes (2018) (2018)
+http://cinefull.space:80/series/148419948/828744451/8019
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Max",As Meninas Superpoderosas (1998) (1998)
+http://cinefull.space:80/series/148419948/828744451/8036
 
-# --- Series | Series | Netflix (1490) ---
+# --- Series | Series | Netflix (1501) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",A Bíblia (2021)
 http://cinefull.space:80/series/148419948/828744451/3
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Altered Carbon (2018)
@@ -37898,7 +37974,7 @@ http://cinefull.space:80/series/148419948/828744451/3585
 http://cinefull.space:80/series/148419948/828744451/3588
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Três Dias que Mudaram Tudo (2023)
 http://cinefull.space:80/series/148419948/828744451/3592
-#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Arnold (1978)
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Arnold (2023)
 http://cinefull.space:80/series/148419948/828744451/3595
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Cães de Caça (2023)
 http://cinefull.space:80/series/148419948/828744451/3598
@@ -39098,8 +39174,30 @@ http://cinefull.space:80/series/148419948/828744451/7992
 http://cinefull.space:80/series/148419948/828744451/7998
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Dissociacao (2025)
 http://cinefull.space:80/series/148419948/828744451/8001
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Back Street Girls Gokudolls (2018) (2018)
+http://cinefull.space:80/series/148419948/828744451/8051
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Cilada (2025) (2025)
+http://cinefull.space:80/series/148419948/828744451/8053
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Bad Genius The Series (2020) (2025)
+http://cinefull.space:80/series/148419948/828744451/8057
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Dominando Manhattan (2024)
+http://cinefull.space:80/series/148419948/828744451/8063
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",O Preco da Confissao (2025)
+http://cinefull.space:80/series/148419948/828744451/8064
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Pro Bono (2025)
+http://cinefull.space:80/series/148419948/828744451/8066
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Amores Bandidos (2025)
+http://cinefull.space:80/series/148419948/828744451/8071
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Homem X Bebe (2025)
+http://cinefull.space:80/series/148419948/828744451/8073
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Nossa Cidade
+http://cinefull.space:80/series/148419948/828744451/8075
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",O Futuro (2022)
+http://cinefull.space:80/series/148419948/828744451/8076
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Simon Cowell O Proximo Sucesso (2025)
+http://cinefull.space:80/series/148419948/828744451/8079
 
-# --- Series | Series | Outras Produtoras (735) ---
+# --- Series | Series | Outras Produtoras (743) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Outras Produtoras",3 Palavrinhas (2013)
 http://cinefull.space:80/series/148419948/828744451/1
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Outras Produtoras",Lifeline (2017)
@@ -40570,8 +40668,24 @@ http://cinefull.space:80/series/148419948/828744451/7996
 http://cinefull.space:80/series/148419948/828744451/7999
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Outras Produtoras",Pânico: A Série De TV
 http://cinefull.space:80/series/148419948/828744451/8007
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Outras Produtoras",Contagem Regressiva (2018) (2018)
+http://cinefull.space:80/series/148419948/828744451/8020
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Outras Produtoras",Clube do Terror (1992) (2019)
+http://cinefull.space:80/series/148419948/828744451/8022
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Outras Produtoras",Law & Order: Crime Organizado (2021) (2021)
+http://cinefull.space:80/series/148419948/828744451/8026
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Outras Produtoras",Joao Rock (2022)
+http://cinefull.space:80/series/148419948/828744451/8030
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Outras Produtoras",Arnold (1978) (1978)
+http://cinefull.space:80/series/148419948/828744451/8040
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Outras Produtoras",Taken (2002) (2002)
+http://cinefull.space:80/series/148419948/828744451/8042
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Outras Produtoras",A Familia Addams (1964) (1964)
+http://cinefull.space:80/series/148419948/828744451/8047
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Outras Produtoras",Jornada nas Estrelas (1966) (1966)
+http://cinefull.space:80/series/148419948/828744451/8056
 
-# --- Series | Series | Paramount (179) ---
+# --- Series | Series | Paramount (181) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Paramount",Anos Incríveis (2021)
 http://cinefull.space:80/series/148419948/828744451/9
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Paramount",CSI: Miami (2002)
@@ -40806,7 +40920,7 @@ http://cinefull.space:80/series/148419948/828744451/3894
 http://cinefull.space:80/series/148419948/828744451/3939
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Paramount",Drag Race Brasil (2023)
 http://cinefull.space:80/series/148419948/828744451/3982
-#EXTINF:-1 tvg-logo="" group-title="Series | Series | Paramount",Fantasmas (2024)
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Paramount",Fantasmas (2021)
 http://cinefull.space:80/series/148419948/828744451/4070
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Paramount",Drag Race Mexico (2023)
 http://cinefull.space:80/series/148419948/828744451/4078
@@ -40930,6 +41044,10 @@ http://cinefull.space:80/series/148419948/828744451/7561
 http://cinefull.space:80/series/148419948/828744451/7672
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Paramount",Parallel Me (2025)
 http://cinefull.space:80/series/148419948/828744451/7715
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Paramount",A Agencia (2024) (2024)
+http://cinefull.space:80/series/148419948/828744451/8049
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Paramount",Pequenos Desastres (2025)
+http://cinefull.space:80/series/148419948/828744451/8078
 
 # --- Series | Series | PlutoTV (3) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | PlutoTV",Luluzinha (1995)
@@ -41215,7 +41333,7 @@ http://cinefull.space:80/series/148419948/828744451/5138
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Star Plus",Vanderpump Villa Luxos e Segredos
 http://cinefull.space:80/series/148419948/828744451/5160
 
-# --- Series | Series | Turcas (72) ---
+# --- Series | Series | Turcas (73) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Turcas",O Ultimo Guardiao (2018)
 http://cinefull.space:80/series/148419948/828744451/113
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Turcas",O Segredo do Templo (2019)
@@ -41360,6 +41478,8 @@ http://cinefull.space:80/series/148419948/828744451/7076
 http://cinefull.space:80/series/148419948/828744451/7077
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Turcas",Full Moon [L] (2017)
 http://cinefull.space:80/series/148419948/828744451/7109
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Turcas",A Agencia (2020) (2020)
+http://cinefull.space:80/series/148419948/828744451/8054
 
 # --- Series | Series | Univer (12) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Univer",Ate Onde Ela Vai (2024)
@@ -41387,4 +41507,4 @@ http://cinefull.space:80/series/148419948/828744451/7441
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Univer",O Senhor e a Serva (2025)
 http://cinefull.space:80/series/148419948/828744451/7704
 
-# Total: 20646
+# Total: 20706

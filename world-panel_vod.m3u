@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: world-panel.co:8080
-# Generated: 2025-12-13 18:23:56
+# Generated: 2025-12-14 07:10:50
 # Expires: 2026-03-09
 # Family Safe Edition
 # ==============================================
@@ -1483,9 +1483,43 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/2034.mkv
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | NAPOLI",Tradimento
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/2046.mkv
 
-# --- Movies | NETFLIX AMAZON AZIONE (1424) ---
+# --- Movies | NETFLIX AMAZON AZIONE (1441) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",==== NETFLIX AZIONE ====
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/62556.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/c8092c5070de22366189f97e1d94c275.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",A dangerous man - Solo contro tutti (2009)
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/85952.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/0b99cfeb0f8ccce1b04bedee9e130538.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",A Good Man (2014)
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/85953.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/71880a71db355ebcc8301b93aea786f2.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Belly of the Beast - Ultima missione (2003)
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/85954.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/ea18883939fcd90db5a3b9aebef2ce9c.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Decisione critica (1996)
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/85955.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/f3ce8aee068b78c335b968500c00dc28.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Delitti inquietanti (1996)
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/85956.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/531c021e842dd8bb3b55e2593f8eca3d.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Duro da uccidere (1990)
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/85957.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/579b69aaf73f2360fd5b13e18bacdcc6.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Fire Down Below - L'inferno sepolto (1997)
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/85958.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/9a41ae39b97eba9a3c4f58df15471210.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Giustizia a tutti i costi (1991)
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/85959.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/5cc53591d868e40d3936ae48eaf97660.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Infiltrato speciale (2002)
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/85960.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/758f17039e9e058b7faaa864a5d74926.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Machete (2010)
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/85961.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/6f46efd21783b6cbd762337df8e93b31.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Nico (1988)
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/85962.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/ab7fea9b33a91b4fe4b0b8abc569f5d0.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Out of Reach (2004)
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/85963.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/ef7d7acea644061881ce9f9dd7349075.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",ruslan Driven to Kill - Guidato per uccidere (2009)
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/85964.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/2d7f27ff3b5ef9f0c89aaa4af2d1afc7.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Sfida tra i ghiacci (1994)
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/85965.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/624b19b580142b3a5876b776cf553548.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",The Patriot (1998)
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/85966.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/7ba7137e7458d72cd6f5d961d794f372.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Trappola in alto mare (1992)
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/85967.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/9fdb3f3c225df5dffed6da2c3114d02c.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Urban Justice - Città violenta (2007)
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/85968.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/4bc982ba63a76cfb2861b3f83b3bc709.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Karate Kid Legends (2025)
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/85897.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/87c03c31a3a6f00a8f8de73108396590.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",The Bourne Ultimatum - Il ritorno dello sciacallo (2007)
@@ -32337,4 +32371,4 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/50888.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/96e97ef7e316fab54d133aa6fcdf30a2.jpg" group-title="Movies | SerieTV",Turner and Hooch 01x12 La Resa Dei Conti
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/50889.mkv
 
-# Total: 16137
+# Total: 16154

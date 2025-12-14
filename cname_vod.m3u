@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: cname.dino.ws:80
-# Generated: 2025-12-13 18:29:40
+# Generated: 2025-12-14 07:09:43
 # Expires: 2026-01-31
 # Family Safe Edition
 # ==============================================
@@ -299,7 +299,51 @@ http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/22132.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - SERIJE [EXYU]",EX - Toma
 http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/22476.mp4
 
-# --- Movies | SRS - STRANE SERIJE [EXYU] (552) ---
+# --- Movies | SRS - STRANE SERIJE [EXYU] (574) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - STRANE SERIJE [EXYU]",EX - The Wire (2002)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/31945.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - STRANE SERIJE [EXYU]",EX - The Murky Stream (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/31944.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - STRANE SERIJE [EXYU]",EX - The First (2018)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/31943.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - STRANE SERIJE [EXYU]",EX - The Empress (2022)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/31942.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - STRANE SERIJE [EXYU]",EX - The Beast in Me (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/31941.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - STRANE SERIJE [EXYU]",EX - The Alienist (2018)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/31940.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - STRANE SERIJE [EXYU]",EX - Six Four (2023)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/31939.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - STRANE SERIJE [EXYU]",EX - Scrublands (2023)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/31938.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - STRANE SERIJE [EXYU]",EX - Robin Hood (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/31937.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - STRANE SERIJE [EXYU]",EX - Pluribus (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/31936.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - STRANE SERIJE [EXYU]",EX - Penny Dreadful: City of Angels (2020)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/31935.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - STRANE SERIJE [EXYU]",EX - Painkiller (2023)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/31934.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - STRANE SERIJE [EXYU]",EX - Our House (2022)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/31933.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - STRANE SERIJE [EXYU]",EX - Marianne (2019)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/31932.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - STRANE SERIJE [EXYU]",EX - Malice (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/31931.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - STRANE SERIJE [EXYU]",EX - Litvinenko (2022)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/31930.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - STRANE SERIJE [EXYU]",EX - Lisey's Story (2021)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/31929.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - STRANE SERIJE [EXYU]",EX - Liaison (2023)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/31928.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - STRANE SERIJE [EXYU]",EX - Heated Rivalry (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/31927.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - STRANE SERIJE [EXYU]",EX - A Woman's Fate (2021)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/31926.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - STRANE SERIJE [EXYU]",EX - Black Monday (2019)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/31925.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - STRANE SERIJE [EXYU]",EX - Tears of a Bride (2024)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/31924.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - STRANE SERIJE [EXYU]",EX - We Were Liars (2025)
 http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/31689.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - STRANE SERIJE [EXYU]",EX - Utopia (2020)
@@ -1991,7 +2035,137 @@ http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/996620.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg" group-title="Movies | VOD - FILMOVI CRTANI [EXYU]",EX - Elemental (2023)
 http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/996619.mkv
 
-# --- Movies | VOD - FILMOVI [EXYU] (2701) ---
+# --- Movies | VOD - FILMOVI [EXYU] (2766) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h893ImjM6Fsv5DFhKJdlZFZIJno.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - Wildcat (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333539.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLY5yN4MKVynZ2HMZWElTOGBgBe.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - Until Dawn (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333538.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xanYKxuFkDPrMngvm1NSHVGOEjS.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - Unstoppable (2024)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333537.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n9GS1mUAVMiC3gBn9rb8jrDoK4D.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - Trust (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333536.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chpWmskl3aKm1aTZqUHRCtviwPy.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - TRON: Ares (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333535.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6xAExLNFbHcLfvSuvLPoM8aqZU.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - Troll 2 (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333534.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l3zS4YnpOi4usyEXGJMtxSqDDyb.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - Train Dreams (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333533.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wB5fVj1Se9TFt9q1CHAtoPiuMyZ.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - The Wailing (2024)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333532.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ysgnrkXwfFCxaBwviG2yNvzpfw5.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - The Starling Girl (2023)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333531.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ze9sz0S1eto58QRiaA2FcIEjnIi.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - The Son of a Thousand Men (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333530.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1T0kO1cgR430AC9I6jurMOezKwg.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - The Rats: A Witcher Tale (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333529.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A98LHlo4wvgV3d79IovLhL0KSL5.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - The Man in the White Van (2024)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333528.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/semFxuYx6HcrkZzslgAkBqfJvZk.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - The Family Plan 2 (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333527.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jLLtx3nTRSLGPAKl4RoIv1FbEBr.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - The Family Plan (2023)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333526.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iseyProRsPyu3rOCzsXDDnDGrl.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - The Cut (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333525.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kfQvaLi9P5JdyWjz0b5IhIjLCu1.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - The Children's Train (2024)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333524.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ig00LBM2rv4fmCJOPATyRWOJnlL.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - Tee Yai: Born to Be Bad (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333523.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZlNXEHZsBp7unqw009MeBbMv87.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - Stolen Girl (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333522.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0ynvZ89tV1t8MAL9FmeQELfXH0.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - Snakes on a Plane (2006)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333521.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c1vxdtbIyKE31mX9znwIsrHJ30S.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - Salve Maria (2024)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333520.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUpFD3Oq1eN5mdF9MDwCwH874P8.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - Roofman (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333519.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - Predator: Badlands (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333518.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhyyyWrHUbl6QG4udAJj17CBa5.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - Pose (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333517.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGodXWqJkkkbSebPIlxLSygV8GY.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - Playdate (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333516.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d1u5BVSM60JgA8XT4bWXwu83ywM.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - Perfect Match (2024)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333515.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1DekOcoIk9sXok8a9mcin3OSrXK.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - On the Beach (2000)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333514.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - One Battle After Another (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333513.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sBpxTGLzKnvPSVtL5yQYpSxvKEb.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - No Other Choice (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333512.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tpOAzBasKPsKwsUtPZOx1Mzuqq3.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - My Secret Santa (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333511.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/apthwI5WmRT3cpiMg9sppEJ0PsN.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - Samurai Fury (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333510.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3DBmBItPdy0A2ol59jgHhS54Lua.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - Murder at the Embassy (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333509.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5SxwmxZnGNkTe8VBlXuVJnKH7JY.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - Meanwhile on Earth (2024)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333508.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8aTla8ofmtJdfhInKyLTyZifA3k.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - Mango (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333507.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/elKEzHpbdoTMkK0IpUKcK6x1Ttl.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - Lost on a Mountain in Maine (2024)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333506.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lwKD20JbeZAX4BswSlWKpmB8Qke.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - Lone Samurai (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333505.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n1YtLc6viVt93gOdU8SX7mnq22y.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - The Night My Dad Saved Christmas 2 (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333504.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h5L48S86c97UUb83ZPtyxZkZTHo.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - Red Silk (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333503.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c8zDeDq0Uatjly6Fh4ycmWuoLYy.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - Kiss of the Spider Woman (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333502.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qtNdrKvD5MqvUbAQEja5WaKuVN1.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - King Ivory (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333501.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rVOQF2Ucekug1B80A9crVx7Jn90.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - Jingle Bell Heist (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333500.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bKLm1xS9DsODWB4i1SxTEvLXab9.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - Jay Kelly (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333499.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTioKbfWfuCZOycyDtfiipDrNzD.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - I Wish You All the Best (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333498.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Byv6nznAb2Izd0gHpODOXnuSbo.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - Icefall (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333497.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r83HIGA0mUiy7I9qVr17pF7SCDP.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - Good Fortune (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333496.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4JtvGlQO7DByTI6frUobqvSL3R.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - Frankenstein (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333495.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZ3OgBMzR3UZEbm9otRYFBwL8Ao.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - Fairyland (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333494.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4GIqZUgPZ146BhibsPHMHef2nXX.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - Eddington (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333493.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1trZagH7r4YyAR37xoRJ1bmlVlZ.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - Dogs on the Sendero (2024)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333492.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/je3sZZpcfPeiR4eIqBKbxomOw6d.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - Disturbia (2007)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333491.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEI3DnzQC1afAjJOAizx6UX27pL.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - Deathstalker (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333490.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A2TCPPkzmWd5SwjBlxMlB6yQ4yK.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - Champagne Problems (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333489.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - Bugonia (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333488.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jeyTQrNEpyE1LZIgVlswYh3sc34.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - Bottoms (2023)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333487.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGo5ti82LlydAZrvcsaj31iPuEI.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - Bone Lake (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333486.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e9tyjbF2rugENtBolTtEhHOXgzD.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - Blitz (2024)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333484.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFddBLQ8wj9M9O82iPzgX5KVNHz.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - Black Phone 2 (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333483.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xm5ER19nTk7iuWFaiNRUYe3Zlz.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - Baramulla (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333482.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yiXpXNiBWENaSJmdKfoT5DU0bL4.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - Ballad of a Small Player (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333481.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aP21fy2I12PCliYCNIvm4n6aDWV.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - A Widow Seduced (2024)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333480.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSdpXGBNt3mQzjZZVK6eV5NcPdc.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - Anniversary (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333479.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kXFHVJqZkWtkSRlLpv2clN8KP6E.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - Anemone (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333478.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4ytu75uJ1b0AgPd0wLm7iZMsWJ.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - A Merry Little Ex-Mas (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333477.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/83Gis9pOKCvAdaKXCNChey4IZyL.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - Americana (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333476.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6QlAcGRaUrgHcZ4WTBh5lsPnzKx.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - Altered (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333475.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ryF8QPGUGlo8gRB4OYKb4J0r3aJ.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - After the Hunt (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333474.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYxrsyUEdFOOq7xzIuvEb1858Sg.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - Vicious (2025)
 http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1324786.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnINnXC7KHAVodspt9xIepEE9f6.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - Traumatika (2025)
@@ -7409,4 +7583,4 @@ http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1309721.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg" group-title="Movies | VOD - LEKTOR / DUBBING / NAPISY [PL]",Nosferatu (2024)
 http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1226324.mkv
 
-# Total: 3693
+# Total: 3780
