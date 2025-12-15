@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: notivi-stream.com:64640
-# Generated: 2025-12-15 07:13:17
+# Generated: 2025-12-15 18:39:59
 # Expires: Unlimited
 # Family Safe Edition
 # ==============================================
@@ -6011,7 +6011,7 @@ http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/133664.mkv
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/p7OyrLOe3x64BAjKQa3Jfix0slderWO9OZun0WHY_rnTZm6wOpdcHOjYYtjUL31Kwqn9KxiIqqdzDxauFkYrWDJA7PW2xw2ftAmaJhzKu0Y.jpg" group-title="Movies | [ DE- ANIMATION ]",Demon Slayer: Kimetsu no Yaiba Infinity Castle
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/134300.mkv
 
-# --- Movies | [ DE- ANIME ] (38) ---
+# --- Movies | [ DE- ANIME ] (39) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ DE- ANIME ]",Dragon Ball Z
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/606.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ DE- ANIME ]",Naruto Shippuden
@@ -6088,6 +6088,8 @@ http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/1040.mp4
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/1041.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ DE- ANIME ]",Marvel's Guardians of the Galaxy
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/1042.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | [ DE- ANIME ]",Chaos Dragon
+http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/1017.mp4
 
 # --- Movies | [ DE- APPLE TV ] (24) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ DE- APPLE TV ]",Fire in the Sky
@@ -7669,7 +7671,7 @@ http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/133662.mkv
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/p7OyrLOe3x64BAjKQa3Jfix0slderWO9OZun0WHY_rnTZm6wOpdcHOjYYtjUL31K06U4vzjPiR1W6fvc-uhj-cgCCAn1OBseQLIrSs_qgxM.jpg" group-title="Movies | [ MULTI NETFLIX ]",Der Elefant des Magiers
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/133663.mkv
 
-# --- Movies | [ PARAMONT +] (21) ---
+# --- Movies | [ PARAMONT +] (24) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ PARAMONT +]",A Thin Line
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/644.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ PARAMONT +]",Eine verhängnisvolle Affäre
@@ -7712,6 +7714,12 @@ http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/713.mp4
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/722.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ PARAMONT +]",Das Gold
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/723.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | [ PARAMONT +]",Dexter: Wiedererwachen
+http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/1071.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | [ PARAMONT +]",NCIS: Tony & Ziva
+http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/1072.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | [ PARAMONT +]",Parallel Me
+http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/1073.mp4
 
 # --- Movies | [ PAZAR DIZILERI ] (4) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ PAZAR DIZILERI ]",Teşkilat
@@ -9811,4 +9819,4 @@ http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/127922.mkv
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/p7OyrLOe3x64BAjKQa3Jfix0slderWO9OZun0WHY_rnTZm6wOpdcHOjYYtjUL31KJ4GOhBiWenAfGqAV5rAK3dmqahVBHEEa21qXpOChZzU.jpg" group-title="Movies | [ TÜRKCE 4K FiLME ]",Uncharted
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/127923.mkv
 
-# Total: 4851
+# Total: 4855

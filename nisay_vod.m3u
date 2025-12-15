@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nisay.xyz:8080
-# Generated: 2025-12-15 07:15:42
+# Generated: 2025-12-15 18:31:36
 # Expires: 2026-10-04
 # Family Safe Edition
 # ==============================================
@@ -15241,11 +15241,9 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/101615.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/go70h8uby3OfECZEiIGDQETPnzV.jpg" group-title="Movies | GERMANY WESTERN FILME",DE: Ich, Tom Horn 1980
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/138508.mp4
 
-# --- Movies | GUNCEL DIZI (24) ---
+# --- Movies | GUNCEL DIZI (23) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Lh8xbSr43ZVl3cI5Lu0hdW2ckW.jpg" group-title="Movies | GUNCEL DIZI",DIZI: ARKA SOKAKLAR (SON BOLUM)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/24076.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5HkjNXxhYNDsrJDPd9DEjk7wDqT.jpg" group-title="Movies | GUNCEL DIZI",DIZI: AYNADAKI YABANCI ( FiNAL BOLUM )
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/157055.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u28XMjRU7i0xdqlplNE080uD4Gj.jpg" group-title="Movies | GUNCEL DIZI",DIZI: BAHAR ( SON BOLUM )
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/137496.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1mPhUUEGZFZdlLHUtPHENZae91g.jpg" group-title="Movies | GUNCEL DIZI",DIZI: BEN LEMAN ( SON BOLUM )
@@ -17775,7 +17773,7 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/278.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TALK SHOW",BKM Mutfak Stand-Up
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/340.mp4
 
-# --- Movies | TURK DIZILERI (100) ---
+# --- Movies | TURK DIZILERI (99) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TURK DIZILERI",Yasak Elma(FiNAL)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/6.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TURK DIZILERI",Eşkıya Dünyaya Hükümdar Olmaz (FİNAL)
@@ -17960,8 +17958,6 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1673.mp4
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1674.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TURK DIZILERI",Aşk ve Gözyaşı (FiNAL)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1677.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | TURK DIZILERI",Aynadaki Yabancı (FiNAL)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1704.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TURK DIZILERI",Ben Leman
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1705.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TURK DIZILERI",Taşacak Bu Deniz
@@ -19709,4 +19705,4 @@ http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1503
 #EXTINF:-1 tvg-logo="" group-title="Series | TR ALTYAZI SERIES",Pluribus
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1803
 
-# Total: 9787
+# Total: 9785

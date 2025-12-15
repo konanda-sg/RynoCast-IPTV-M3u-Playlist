@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: canal-pro.xyz:8080
-# Generated: 2025-12-15 07:13:00
+# Generated: 2025-12-15 18:30:42
 # Expires: 2026-02-11
 # Family Safe Edition
 # ==============================================
@@ -18465,7 +18465,7 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2499
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DOCUMENTALES ←",MARINES
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2502
 
-# --- Series | → SERIES DRAMA ← (288) ---
+# --- Series | → SERIES DRAMA ← (289) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",4 Blocks
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/7
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Por trece razones
@@ -19042,6 +19042,8 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2508
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2509
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Spartacus: House of Ashur
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2510
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Pequeños Desastres
+http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2511
 
 # --- Series | → SERIES INFANTILES ← (43) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES INFANTILES ←",¡La serie de Cuphead!
@@ -19543,4 +19545,4 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2492
 
-# Total: 9696
+# Total: 9697

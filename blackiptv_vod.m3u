@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2025-12-15 07:13:23
+# Generated: 2025-12-15 18:32:30
 # Expires: 2025-12-20
 # Family Safe Edition
 # ==============================================
@@ -12359,7 +12359,7 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1583.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ TURKCELL TV+",BMF
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1602.mp4
 
-# --- Movies | TR/DIZI ~ TV (46) ---
+# --- Movies | TR/DIZI ~ TV (44) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ TV",Sakıncalı (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1772.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ TV",Bahar (2024)
@@ -12446,10 +12446,6 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1840.mp4
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1843.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ TV",Bahar (2024)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1846.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ TV",Sahtekarlar (2025)
-http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1847.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ TV",Teşkilat (2021)
-http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1848.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ TV",Uzak Şehir (2024)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1611.mp4
 
@@ -20141,4 +20137,4 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/63372.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8EQllq34VC5mooiJw1vVFOlM4x.jpg" group-title="Movies | TR/FILM ~ YILBASI ÖZEL",O Ses Türkiye  Yilbasi Özel 2025
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/54778.mp4
 
-# Total: 9930
+# Total: 9928

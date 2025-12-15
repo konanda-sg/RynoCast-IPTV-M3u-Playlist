@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: drks.info:8080
-# Generated: 2025-12-15 07:12:53
+# Generated: 2025-12-15 18:38:09
 # Expires: 2025-12-20
 # Family Safe Edition
 # ==============================================
@@ -37,7 +37,7 @@ http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/49158.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Africa Channels",AF: IBN TV
 http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/49159.m3u8
 
-# --- Albanian Channals (173) ---
+# --- Albanian Channals (175) ---
 #EXTINF:-1 tvg-logo="http://logo.arkks.info:8080/i/6f343657-7cab-45d6-b05c-e838b9c2d7e9.png" group-title="Albanian Channals",AL | BB4 VIP Kosova 1 FHD
 http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55801.m3u8
 #EXTINF:-1 tvg-logo="http://logo.arkks.info:8080/i/6f343657-7cab-45d6-b05c-e838b9c2d7e9.png" group-title="Albanian Channals",AL | BB4 VIP Kosova 2 FHD
@@ -46,6 +46,10 @@ http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55802.m3u8
 http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55803.m3u8
 #EXTINF:-1 tvg-logo="http://logo.arkks.info:8080/i/6f343657-7cab-45d6-b05c-e838b9c2d7e9.png" group-title="Albanian Channals",AL | BIG BROTHER VIP KS 2 (backup)
 http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/55804.m3u8
+#EXTINF:-1 tvg-logo="http://logo.arkks.info:8080/i/a1fa0a2a-964d-4360-a154-4c14449ce39f.png" group-title="Albanian Channals",AL | BB VIP 5 Albania 1 FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56294.m3u8
+#EXTINF:-1 tvg-logo="http://logo.arkks.info:8080/i/a1fa0a2a-964d-4360-a154-4c14449ce39f.png" group-title="Albanian Channals",AL | BB VIP 5 Albania 2 FHD
+http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/56295.m3u8
 #EXTINF:-1 tvg-logo="http://drks.info:8080/images/59de266ab45718d59d007e3cf871c818.png" group-title="Albanian Channals",AL: RTK Toksor
 http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/7413.m3u8
 #EXTINF:-1 tvg-logo="http://drks.info:8080/images/59de266ab45718d59d007e3cf871c818.png" group-title="Albanian Channals",AL: RTK 1 UHD 4K+
@@ -13707,4 +13711,4 @@ http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/53611.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ViP SPORT Bouquets",UK | MUTV
 http://drks.info:8080/live/8ZWhFHYjtVqJ/sZbHxmhJHACP/53612.m3u8
 
-# Total: 6803
+# Total: 6805
