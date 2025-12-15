@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: cname.dino.ws:80
-# Generated: 2025-12-14 07:09:43
+# Generated: 2025-12-15 07:05:41
 # Expires: 2026-01-31
 # Family Safe Edition
 # ==============================================
@@ -299,7 +299,9 @@ http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/22132.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - SERIJE [EXYU]",EX - Toma
 http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/22476.mp4
 
-# --- Movies | SRS - STRANE SERIJE [EXYU] (574) ---
+# --- Movies | SRS - STRANE SERIJE [EXYU] (575) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - STRANE SERIJE [EXYU]",EX - Man vs Baby (2025)
+http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/31953.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - STRANE SERIJE [EXYU]",EX - The Wire (2002)
 http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/31945.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - STRANE SERIJE [EXYU]",EX - The Murky Stream (2025)
@@ -2108,7 +2110,7 @@ http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333506.mkv
 http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333505.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n1YtLc6viVt93gOdU8SX7mnq22y.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - The Night My Dad Saved Christmas 2 (2025)
 http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333504.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h5L48S86c97UUb83ZPtyxZkZTHo.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - Red Silk (2025)
+#EXTINF:-1 tvg-logo="" group-title="Movies | VOD - FILMOVI [EXYU]",EX - Red Silk (2025)
 http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333503.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c8zDeDq0Uatjly6Fh4ycmWuoLYy.jpg" group-title="Movies | VOD - FILMOVI [EXYU]",EX - Kiss of the Spider Woman (2025)
 http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1333502.mkv
@@ -7583,4 +7585,4 @@ http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1309721.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg" group-title="Movies | VOD - LEKTOR / DUBBING / NAPISY [PL]",Nosferatu (2024)
 http://cname.dino.ws:80/movie/c6cd1c10a7/615b4f7d1ab1/1226324.mkv
 
-# Total: 3780
+# Total: 3781

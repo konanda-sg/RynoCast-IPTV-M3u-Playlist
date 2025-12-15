@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: pw-iptv.online:8080
-# Generated: 2025-12-14 18:24:05
+# Generated: 2025-12-15 07:11:34
 # Expires: 2026-09-06
 # Family Safe Edition
 # ==============================================
@@ -4690,7 +4690,7 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1340994.m3u8
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/4260.m3u8
 
 # --- AR| MBC +6H USA ⎋ (17) ---
-#EXTINF:-1 tvg-logo="" group-title="AR| MBC +6H USA ⎋",###### MBC +6H  NA ######
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GfGx9jCj/MBC.gif" group-title="AR| MBC +6H USA ⎋",###### MBC +6H  NA ######
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/252016.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1205.jpg?95824" group-title="AR| MBC +6H USA ⎋",AR: MBC 1 HD +6H
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/171707.m3u8
@@ -4911,29 +4911,19 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/3150.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/156.jpg" group-title="AR| MBC 4K",AR: Zee Aflam
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/3149.m3u8
 
-# --- AR| MBC SHAHID ᴿᴬᵂ (19) ---
+# --- AR| MBC SHAHID ᴿᴬᵂ (10) ---
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SDFf00WJ/Shahid-GIF.gif" group-title="AR| MBC SHAHID ᴿᴬᵂ",##### MBC SHAHID REPLAY 4K #####
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/637409.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13616.jpg?99177" group-title="AR| MBC SHAHID ᴿᴬᵂ",AR: SHAHID AFLAM 4K
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/637406.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13616.jpg?99177" group-title="AR| MBC SHAHID ᴿᴬᵂ",AR: SHAHID AFLAM HD
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/637404.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13616.jpg?99177" group-title="AR| MBC SHAHID ᴿᴬᵂ",AR: SHAHID AHLA TASH 4K
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/418832.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13616.jpg?99177" group-title="AR| MBC SHAHID ᴿᴬᵂ",AR: SHAHID FEROZ 4K
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/402833.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13616.jpg?99177" group-title="AR| MBC SHAHID ᴿᴬᵂ",AR: SHAHID BAB  AL HARA 4K
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/478470.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13616.jpg?99177" group-title="AR| MBC SHAHID ᴿᴬᵂ",AR: SHAHID AL SHARQ HD
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/424362.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13616.jpg?99177" group-title="AR| MBC SHAHID ᴿᴬᵂ",AR: SHAHID THAQAFEYYAH 4K
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/437226.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13616.jpg?99177" group-title="AR| MBC SHAHID ᴿᴬᵂ",AR: SHAHID AB TALKS 4K
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/485720.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13616.jpg?99177" group-title="AR| MBC SHAHID ᴿᴬᵂ",AR: SHAHID GHUMUD 4K
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/496455.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13616.jpg?99177" group-title="AR| MBC SHAHID ᴿᴬᵂ",AR: SHAHID GAMES 4K
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/489484.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13616.jpg?99177" group-title="AR| MBC SHAHID ᴿᴬᵂ",AR: SHAHID FEROZ HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1362426.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13616.jpg?99177" group-title="AR| MBC SHAHID ᴿᴬᵂ",AR: SHAHID RAMADAN WITH SAUDIA 4K
@@ -4942,14 +4932,6 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1362424.m3u8
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1362413.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13616.jpg?99177" group-title="AR| MBC SHAHID ᴿᴬᵂ",AR: SHAHID MBC MASR DRAMA HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1362403.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13616.jpg?99177" group-title="AR| MBC SHAHID ᴿᴬᵂ",AR: SHAHID ABDULMAJEED ABDULLAH HD
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/529738.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13616.jpg?99177" group-title="AR| MBC SHAHID ᴿᴬᵂ",AR: SHAHID ABDULMAJEED ABDULLAH 4K
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/529737.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13616.jpg?99177" group-title="AR| MBC SHAHID ᴿᴬᵂ",AR: SHAHID MOHAMMED ABDOU 4K
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/529733.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13616.jpg?99177" group-title="AR| MBC SHAHID ᴿᴬᵂ",AR: SHAHID MOHAMMED ABDOU HD
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/529734.m3u8
 
 # --- AR| MOROCCO +6H USA ⎋ (15) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Animated-Flag-Morrocco-2.gif" group-title="AR| MOROCCO +6H USA ⎋",###### MOROCCO +6H  NA ######
@@ -7230,13 +7212,13 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/203151.m3u8
 # --- AR| TOD SPORT ⁸ᴷ & PPV ⚽ (51) ---
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rkv1rsh4/TOD-GIF.gif" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",#### TOD SPORT ⁸ᴷ & PPV ####
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1036848.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",AR: TOD PPV 1 - SOFIA ARAUJO & ANDREA USTERO PRIETO VS ARIANA SANCHEZ FALLADA & PAULA JOSEMARIA MARTIN - ARABIC | Sun 14 Dec 10:25 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",AR: TOD PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1036847.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",AR: TOD PPV 2 - SOFIA ARAUJO & ANDREA USTERO PRIETO VS ARIANA SANCHEZ FALLADA & PAULA JOSEMARIA MARTIN - ENGLISH | Sun 14 Dec 10:25 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",AR: TOD PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1036846.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",AR: TOD PPV 3 - FRANCO STUPACZUK & MARTIN DI NENNO VS FRANCISCO NAVARRO & JON SANZ | Sun 14 Dec 12:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",AR: TOD PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1036845.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",AR: TOD PPV 4 - ROUND 1 - SUNDAY DECEMBER 14 AFTERNOON SESSION | Sun 14 Dec 13:10 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",AR: TOD PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1036844.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",AR: TOD PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1036843.m3u8
@@ -19531,4 +19513,4 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443446.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/logos/tv5monde.png" group-title="VI| VIETNAM",VN: TV5 MONDE
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443444.m3u8
 
-# Total: 9508
+# Total: 9499

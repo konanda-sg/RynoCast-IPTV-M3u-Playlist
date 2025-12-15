@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: wyveep.com:8080
-# Generated: 2025-12-14 18:32:45
+# Generated: 2025-12-15 07:05:53
 # Expires: 2025-12-25
 # Family Safe Edition
 # ==============================================
@@ -6012,28 +6012,42 @@ http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1216120.m3u8
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1216119.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo/ARABE/TOPCHEF.png" group-title="MBC-BEIN MOVIES | ☾ TV",|AR| TOP CHEF FHD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1216122.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fullpicons/mbc1.png" group-title="MBC-BEIN MOVIES | ☾ TV",MYHD| MBC 1 HD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19072.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fullpicons/mbc1.png" group-title="MBC-BEIN MOVIES | ☾ TV",AR| MBC 1
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19073.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo/MYHD/MBC2.png" group-title="MBC-BEIN MOVIES | ☾ TV",AR| MBC 2
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19075.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fullpicons/mbc3.png" group-title="MBC-BEIN MOVIES | ☾ TV",MYHD| MBC 3 HD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19076.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fullpicons/mbc3.png" group-title="MBC-BEIN MOVIES | ☾ TV",AR| MBC 3
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19077.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fullpicons/mbc4.png" group-title="MBC-BEIN MOVIES | ☾ TV",MYHD| MBC 4 HD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19078.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fullpicons/mbc4.png" group-title="MBC-BEIN MOVIES | ☾ TV",AR| MBC 4
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19079.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fullpicons/mbcaction.png" group-title="MBC-BEIN MOVIES | ☾ TV",AR| MBC ACTION HD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19081.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fullpicons/mbcmax.png" group-title="MBC-BEIN MOVIES | ☾ TV",MYHD| MBC MAX FHD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19086.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fullpicons/mbcmax.png" group-title="MBC-BEIN MOVIES | ☾ TV",AR| MBC MAX
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19087.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fullpicons/mbcmasr.png" group-title="MBC-BEIN MOVIES | ☾ TV",MYHD| MBC MASR 2 FHD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19089.m3u8
 #EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/COBRALOGO/AR/EGYPT/MBCMASR2.png" group-title="MBC-BEIN MOVIES | ☾ TV",AR| MBC MASR 2
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/218794.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fullpicons/mbcdrama.png" group-title="MBC-BEIN MOVIES | ☾ TV",AR| MBC DRAMA HD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19083.m3u8
+#EXTINF:-1 tvg-logo="http://www.tunisvista.com/medias/mbc-drama-plus-tv-live-online-streaming.png" group-title="MBC-BEIN MOVIES | ☾ TV",MYHD| MBC DRAMA+ HD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19085.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net//images/logo/ARABE/MBC-BOLLYWOOD.png" group-title="MBC-BEIN MOVIES | ☾ TV",AR| MBC BOLLYWOOD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19082.m3u8
 #EXTINF:-1 tvg-logo="http://vod-logo.net/photos/f2e7d1345d4b66759b8befa8cf8651e4.png" group-title="MBC-BEIN MOVIES | ☾ TV",AR| MBC Persia HD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/717986.m3u8
 #EXTINF:-1 tvg-logo="http://vod-logo.net/photos/56178c75b22877751d97c616b36aa24f.png" group-title="MBC-BEIN MOVIES | ☾ TV",AR|MBC  Variety HD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/717982.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/MBC5.png" group-title="MBC-BEIN MOVIES | ☾ TV",AR| MBC 5 HD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19080.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo/GL_ARABIC/WANASHA-TV-opt.jpg" group-title="MBC-BEIN MOVIES | ☾ TV",AR|MBC WANASHA TV
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/173376.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo//ARABE/B4UAFLAM.png" group-title="MBC-BEIN MOVIES | ☾ TV",AR| B4U AFLAM
@@ -6042,22 +6056,8 @@ http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19093.m3u8
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19094.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo/ARABE/ZEEAFLAM.png" group-title="MBC-BEIN MOVIES | ☾ TV",AR|  ZEE AFLAM
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/114730.m3u8
-#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fullpicons/mbc1.png" group-title="MBC-BEIN MOVIES | ☾ TV",MYHD| MBC 1 HD
-http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19072.m3u8
-#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fullpicons/mbc3.png" group-title="MBC-BEIN MOVIES | ☾ TV",MYHD| MBC 3 HD
-http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19076.m3u8
-#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fullpicons/mbc4.png" group-title="MBC-BEIN MOVIES | ☾ TV",MYHD| MBC 4 HD
-http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19078.m3u8
-#EXTINF:-1 tvg-logo="http://www.tunisvista.com/medias/mbc-drama-plus-tv-live-online-streaming.png" group-title="MBC-BEIN MOVIES | ☾ TV",MYHD| MBC DRAMA+ HD
-http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19085.m3u8
-#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fullpicons/mbcmax.png" group-title="MBC-BEIN MOVIES | ☾ TV",MYHD| MBC MAX FHD
-http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19086.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fullpicons/mbcmasr.png" group-title="MBC-BEIN MOVIES | ☾ TV",MYHD| MBC MASR 1  HD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19088.m3u8
-#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fullpicons/mbcmasr.png" group-title="MBC-BEIN MOVIES | ☾ TV",MYHD| MBC MASR 2 FHD
-http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19089.m3u8
-#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/MBC5.png" group-title="MBC-BEIN MOVIES | ☾ TV",AR| MBC 5 HD
-http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19080.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo/SahbiGL_LOGO/Bein%20SERIES%20HD%202.png" group-title="MBC-BEIN MOVIES | ☾ TV",BEIN| SERIES HD 2
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/169143.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo/SahbiGL_LOGO/Bein%20SERIES%20HD%201.png" group-title="MBC-BEIN MOVIES | ☾ TV",BEIN| SERIES HD 1

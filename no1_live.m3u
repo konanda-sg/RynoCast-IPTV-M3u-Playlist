@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: no1.no1turk.com:2086
-# Generated: 2025-12-14 18:26:44
+# Generated: 2025-12-15 07:18:55
 # Expires: 2026-09-21
 # Family Safe Edition
 # ==============================================
@@ -405,7 +405,7 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/41870.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",BE:  bx1 Redif HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/47962.m3u8
 
-# --- BG: BULGARIA (100) ---
+# --- BG: BULGARIA (56) ---
 #EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",##### BULGARIA #####
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/37241.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Max Sport 1
@@ -426,38 +426,8 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82674.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82716.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: RING
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82735.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: BNT 1
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82647.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: BNT 2
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82648.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: BNT 3
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82649.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: BNT 4
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82650.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: BTV
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82653.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: BTV Action
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82654.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: BTV Cinema
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82655.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: BTV Comedy
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82656.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: BTV Lady
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82657.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Diema
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82670.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Diema Family
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82671.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: HBO
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82695.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: HBO 2
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82696.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: HBO 3
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82697.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Planeta TV
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82719.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: 24 Kitchen
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82632.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: 7/8 TV
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82633.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Action box
@@ -468,46 +438,24 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82635.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82636.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG:  AMC
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82637.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: ANIMAL PLANET
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82638.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Auto Motor Sport
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82639.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: AXN
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82640.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: AXN Black
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82641.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: B1B BOX
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82642.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Baby TV
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82643.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Balkanika Music TV
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82644.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: BG Music Channel
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82645.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Bloomberg TV
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82646.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Boomerang
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82651.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Box TV
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82652.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Bulgaria 24
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82658.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Cartoon Network
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82660.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: CBS Reality
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82661.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Cine box
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82662.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Cinemax
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82663.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Cinemax  Plus
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82664.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: City Music TV
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82665.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Code Fashion TV
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82666.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Comedy box
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82667.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Crime+ Investigation
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82668.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Da Vinci Learning
@@ -526,8 +474,6 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82679.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/88193.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Cinemax 2 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/88194.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: DSTV
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82680.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: EKids
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82682.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Duck TV
@@ -542,34 +488,14 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82685.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82686.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Fen Folk
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82687.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Fen TV
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82688.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: FilmBox Extra
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82689.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Folklor TV
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82690.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Food Network
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82691.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: FOX
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82692.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Fox Crime
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82693.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: History
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82698.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Hit Mix Channel
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82699.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Hobby Lov
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82700.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Investigation Discovery
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82701.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: NAT GEO
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82711.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: NAT GEO Wild
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82712.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: JimJam
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82702.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Kino Nova
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82703.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Light Channel
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82704.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Magic TV
@@ -578,34 +504,20 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82705.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82710.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Nick Junior
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82713.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: nickelodeon
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82714.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Nova TV
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82717.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Rodina
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82721.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Roma TV
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82722.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: SKAT
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82723.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: The Voice TV
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82724.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Tiankov Folk
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82726.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Tiankov Orient Folk
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82727.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: TLC
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82728.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Bloomberg BG
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82729.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: BG+
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82730.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: TV 1000
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82731.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Viasat Explore
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82734.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: NICKELODEON TV
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/82737.m3u8
 
 # --- CH: Switzerland (32) ---
 #EXTINF:-1 tvg-logo="" group-title="CH: Switzerland",##### SWITZERLAND #####
@@ -761,7 +673,7 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165929.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sportklub-1.png" group-title="CRO: KROATIEN",Sport Klub 1 HD [CRO]
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165928.m3u8
 
-# --- DE-CINEMA/SELECT (93) ---
+# --- DE-CINEMA/SELECT (72) ---
 #EXTINF:-1 tvg-logo="http://147.135.221.50/img/germany.png" group-title="DE-CINEMA/SELECT",##### DE CINEMA/SELECT #####
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/36246.m3u8
 #EXTINF:-1 tvg-logo="http://icon.sporcpu.com/germanycinema/vipaktuelfilme1.png" group-title="DE-CINEMA/SELECT",DE: VIP Aktuel Filme 1 (2025) HD
@@ -894,48 +806,6 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/167866.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/167867.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE-CINEMA/SELECT",DE: ProTV DC
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/159292.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-CINEMA/SELECT",DE MAX KINO COLLECTION
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/113078.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-CINEMA/SELECT",DE MAX KINO
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/113081.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-CINEMA/SELECT",DE MAX KINO 2
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/113080.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-CINEMA/SELECT",DE MAX KINO 3
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/113079.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-CINEMA/SELECT",DE MAX KINO 4 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/113068.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-CINEMA/SELECT",DE MAX KINO 5 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/113069.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-CINEMA/SELECT",DE MAX SELECT HD 1
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/113077.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-CINEMA/SELECT",DE MAX SELECT HD 2
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/113076.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-CINEMA/SELECT",DE MAX SELECT HD 3
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/113075.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-CINEMA/SELECT",DE MAX SELECT HD 4
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/113074.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-CINEMA/SELECT",DE MAX SELECT HD 5
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/113073.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-CINEMA/SELECT",DE MAX SELECT HD 6
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/113072.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-CINEMA/SELECT",DE MAX SELECT HD 7
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/113071.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-CINEMA/SELECT",DE MAX 007 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/113059.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-CINEMA/SELECT",DE MAX Plus HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/113065.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-CINEMA/SELECT",DE MAX STAR WARS HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/113060.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-CINEMA/SELECT",DE | MAX Premiere HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/113067.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-CINEMA/SELECT",DE Max Bollywood HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/113063.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-CINEMA/SELECT",Max 4K UHD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/113070.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-CINEMA/SELECT",DE Max Select 4K UHD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/113061.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-CINEMA/SELECT",DE Max Select 4K MIX UHD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/113064.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE-CINEMA/SELECT",DE: ProTV Abenteuer
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/169305.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE-CINEMA/SELECT",DE: ProTV Drama
@@ -979,49 +849,7 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/170928.m3u8
 
-# --- DE-DAZN EVENT (79) ---
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8xg7bgonxa82r7oq7elemyhqy_image-header_pDach_1755857841000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Doppelpass | 14. Dezember (2025-12-14 11:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/172589.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4dmwt69ktr7yc4xiwr0odkyrv_image-header_pDach_1763022322000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Milan - Sassuolo (italienischer Kommentar) (2025-12-14 11:45:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/172590.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5s67r02y5a0mm3r1htajfhbr9_image-header_pDach_1757503112000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Eibar - Atletico Madrid (2025-12-14 12:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/172591.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/79fr2v8q7ahzekw7kc1elhjfr_image-header_pDach_1763022322000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Milan - Sassuolo (2025-12-14 12:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/172592.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ec3m2ze4pnm4ie20v1nzvitdp_image-header_pDach_1763839057000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Nantes - Marseille (2025-12-14 13:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/172593.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/988191fj79ldp57v3t5nft4ps_image-header_pDach_1764931046000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Darts-WM | Tag 4 (Session 1) (2025-12-14 13:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/172594.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/58hdjyk1lf3x2741gpe1yclhr_image-header_pDach_1764931630000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Darts-WM | Tag 4 (Session 1 mit Originalkommentar) (2025-12-14 13:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/172595.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/edlih75x0h9l63dolzrftv01v_image-header_pDach_1765271822000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Gent - Antwerpen (2025-12-14 13:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/172596.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/39sf4r073zpch5vswzz060v04_image-header_pDach_1763585926000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",FC Sevilla - Oviedo (2025-12-14 14:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/172597.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9brwl1jtat2ywq0rtdboq2wmg_image-header_pDach_1764334239000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",FC Bayern München - Hamburger SV (2025-12-14 14:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/172598.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7fn8fxm29rxvl1998no2usx85_image-header_pDach_1762210584000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Udinese - Neapel (italienischer Kommentar) (2025-12-14 14:15:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/172599.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8ghisal33ttfom8p7j1uq523f_image-header_pDach_1763541741000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Ajax - Feyenoord (2025-12-14 14:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/172600.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/586t1xfivvqk9oaabn6j5gz25_image-header_pDach_1762210696000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Fiorentina - Hellas Verona (italienischer Kommentar) (2025-12-14 14:45:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/172601.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/e68cfci2fk2yhjc03xs0xb64f_image-header_pDach_1742477982000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",SC Freiburg - Borussia Dortmund (2025-12-14 14:45:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/172602.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/355fvk1v6kwadqfvy6z5ujg4m_image-header_pDach_1740701144000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Lyon - Le Havre (2025-12-14 15:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/172603.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2cr7ld5kefy2eb428frgkyneo_image-header_pDach_1762210696000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Fiorentina - Hellas Verona (2025-12-14 15:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/172604.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3bppjom5di42jqt3x7vv07hwn_image-header_pDach_1762210584000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Udinese - Neapel (2025-12-14 15:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/172605.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/auzb7ubwusdk34cbeihobs4q3_image-header_pDach_1762768364000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Lazio - Parma (2025-12-14 15:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/172606.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/e1gm32c1maa6gm95mxa0qfh7u_image-header_pDach_1764334244000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",1. FC Köln - FC Carl Zeiss Jena (2025-12-14 16:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/172607.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dfzsk31w055r5g713i6b72b3z_image-header_pDach_1764325823000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Leicester Riders - Manchester Basketball (2025-12-14 16:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/172608.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3l1fxo7wd8o4j1332arpz1rd8_image-header_pDach_1764156982000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Celta Vigo - Bilbao (2025-12-14 16:15:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/172609.m3u8
+# --- DE-DAZN EVENT (58) ---
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/arfuli055082syvu98n5otiqx_image-header_pDach_1763124196000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",FC Bayern München - 1. FSV Mainz 05 (2025-12-14 16:45:00)
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/172610.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/eu1fruyj6g223tj0ikuuqegs7_image-header_pDach_1756898607000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Sheffield Sharks - Caledonia Gladiators (2025-12-14 17:00:00)
@@ -5785,7 +5613,7 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165256.m3u8
 #EXTINF:-1 tvg-logo="http://icon.sporcpu.com/spor/ssportplus10.png" group-title="TR | S SPORT",TR: S Sport Plus 10 HD (only Match Time)
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165257.m3u8
 
-# --- TR | SINEMA (98) ---
+# --- TR | SINEMA (81) ---
 #EXTINF:-1 tvg-logo="http://147.135.221.50/img/turkey.png" group-title="TR | SINEMA",##### TURK SINEMA PAKETI #####
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/36221.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/aco3wim.png" group-title="TR | SINEMA",TR: NextBox Turk
@@ -5842,38 +5670,6 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/140738.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/140739.m3u8
 #EXTINF:-1 tvg-logo="http://icon.sporcpu.com/sinema/fboxaile.png" group-title="TR | SINEMA",TR: FerBox Aile
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/141040.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR | SINEMA",TR: MAX Aksiyon  HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/9927.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR | SINEMA",TR: MAX Aksiyon 2 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/9930.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR | SINEMA",TR: MAX Animasyon HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/10761.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR | SINEMA",TR: MAX Animasyon 2 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/9928.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR | SINEMA",TR: MAX Vizyon HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/10770.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR | SINEMA",TR: MAX Vizyon 2 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/10768.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR | SINEMA",TR: MAX Vizyon 3 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/10769.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR | SINEMA",TR: MAX Vizyon 4 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/97925.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR | SINEMA",TR: MAX Westrn HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/10750.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR | SINEMA",TR: MAX Premier HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/10765.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR | SINEMA",TR: MAX Turk HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/10767.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR | SINEMA",TR: MAX Orjinal HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/9926.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR | SINEMA",TR: Max Hint Filimleri
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/10762.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR | SINEMA",TR: MAX Gold HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/10763.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR | SINEMA",TR: MAX Plus HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/10752.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR | SINEMA",TR: MAX 007 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/10758.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TR | SINEMA",TR: FIX NETFLIX FILMLERI
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/156683.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TR | SINEMA",TR: FIX AKSIYON FILMLERI
@@ -5912,8 +5708,6 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/157774.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/157776.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TR | SINEMA",TR: DRAM & ROMANTiK 3
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/157777.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR | SINEMA",TR: MAX Star Wars HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/10766.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TR | SINEMA",TR: FERDi TAYFUR
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/157778.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TR | SINEMA",TR: KADiR iNANIR
@@ -6763,4 +6557,4 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165820.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JEtHjJs.png" group-title="WORLD SPORTS",Sky Sport Action HD [UK]
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165884.m3u8
 
-# Total: 3321
+# Total: 3218

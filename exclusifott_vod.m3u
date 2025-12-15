@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: exclusifott.pro:80
-# Generated: 2025-12-14 18:24:08
+# Generated: 2025-12-15 07:07:27
 # Expires: 2026-05-21
 # Family Safe Edition
 # ==============================================
@@ -6367,7 +6367,15 @@ http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1984014.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xyxAOTToALUkeFS9x5V6MOv8YWr.jpg" group-title="Movies | |EN| 4K CHILDREN",EN - The First Snow of Fraggle Rock 4K (2025)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1984033.mkv
 
-# --- Movies | |EN| 4K MOVIES (7) ---
+# --- Movies | |EN| 4K MOVIES (11) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kajpShbFhOdpl6yCrLezMrr9tB4.jpg" group-title="Movies | |EN| 4K MOVIES",EN - Die My Love 4K (2025)
+http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1986010.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nfGlYjINEcGtxV46viW4olwHHSz.jpg" group-title="Movies | |EN| 4K MOVIES",EN - Merv 4K (2025)
+http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1986017.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tXEtdZjoaHqjDjSxZJWwDVjIfx9.jpg" group-title="Movies | |EN| 4K MOVIES",EN - The Carpenter's Son 4K (2025)
+http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1986023.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg" group-title="Movies | |EN| 4K MOVIES",EN - The Running Man 4K (2025)
+http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1986025.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tpOAzBasKPsKwsUtPZOx1Mzuqq3.jpg" group-title="Movies | |EN| 4K MOVIES",EN - My Secret Santa 4K (2025)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1982730.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qynCyBKCJUUcj4wo4PE2aQVvote.jpg" group-title="Movies | |EN| 4K MOVIES",EN - Oh. What. Fun. 4K (2025)
@@ -9924,7 +9932,7 @@ http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/6114.mp4
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/6117.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |MULTI| NETFLIX ASIA",NF - Black Knight
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/6118.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | |MULTI| NETFLIX ASIA",NF - Color of Woman
+#EXTINF:-1 tvg-logo="" group-title="Movies | |MULTI| NETFLIX ASIA",NF - 컬러 오브 우먼 (KR)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/6131.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |MULTI| NETFLIX ASIA",NF - Doctor Prisoner
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/6136.mp4
@@ -10552,7 +10560,7 @@ http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/6681.mp4
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/6787.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |MULTI| NETFLIX KIDS",NF - Transformers: War For Cybertron: Siege (2020)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/6839.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | |MULTI| NETFLIX KIDS",NF - Mighty Express
+#EXTINF:-1 tvg-logo="" group-title="Movies | |MULTI| NETFLIX KIDS",Mighty Express (2020) (CA)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/7123.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |MULTI| NETFLIX KIDS",NF - City of Ghosts
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/9344.mp4
@@ -10822,7 +10830,7 @@ http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/28773.mp4
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/28787.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |MULTI| NETFLIX KIDS",NF - Yu Yu Hakusho (1992)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/29672.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | |MULTI| NETFLIX KIDS",NF - Pokémon Master Journeys (2021)
+#EXTINF:-1 tvg-logo="" group-title="Movies | |MULTI| NETFLIX KIDS",NF - Pokémon (1997) (JP)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/29678.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |MULTI| NETFLIX KIDS",NF - Onmyoji (2023)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/29703.mp4
@@ -16118,7 +16126,7 @@ http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/3416
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/3417
 #EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - Floor is Lava
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/3422
-#EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - I'm a Celebrity... Get Me Out of Here!
+#EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - I'm a Celebrity...Get Me Out of Here! (US)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/3450
 #EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - Coronavirus, Explained
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/3452
@@ -16270,7 +16278,7 @@ http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/6108
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/6109
 #EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - Back in Very Small Business
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/6110
-#EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - 21 again
+#EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - 21 Again (2019) (GB)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/6115
 #EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - Call The Midwife (2012)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/6121
@@ -17334,7 +17342,7 @@ http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/23793
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/23794
 #EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - Dance Monsters
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/23795
-#EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - Cunk on Earth
+#EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - Cunk on Earth (US)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/23796
 #EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - Community Squad
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/23797
@@ -18015,4 +18023,4 @@ http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35745
 #EXTINF:-1 tvg-logo="" group-title="Series | |RO| ROMANIAN SERIES",RO - Resident Evil: Infinite Darkness (2021)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35746
 
-# Total: 8960
+# Total: 8964

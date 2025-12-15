@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: funmitra.com:8080
-# Generated: 2025-12-14 18:31:14
+# Generated: 2025-12-15 07:06:12
 # Expires: 2026-03-01
 # Family Safe Edition
 # ==============================================
@@ -4547,7 +4547,7 @@ http://funmitra.com:8080/live/gamzemesut/wWuV3yAmXt/479419.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EI IRELAND",GAAGO 15: NO SCHEDULED EVENT
 http://funmitra.com:8080/live/gamzemesut/wWuV3yAmXt/479418.m3u8
 
-# --- ES CINE - SERIES (122) ---
+# --- ES CINE - SERIES (119) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/spain.png" group-title="ES CINE - SERIES",ES: ----- CINE -----
 http://funmitra.com:8080/live/gamzemesut/wWuV3yAmXt/178155.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/XTRM.png" group-title="ES CINE - SERIES",ES: XTRM FHD
@@ -4686,8 +4686,6 @@ http://funmitra.com:8080/live/gamzemesut/wWuV3yAmXt/488024.m3u8
 http://funmitra.com:8080/live/gamzemesut/wWuV3yAmXt/488023.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/franceT-220x132/COMMEDYCENTRAL.png" group-title="ES CINE - SERIES",ES:|VIP| COMEDY CENTRAL HD
 http://funmitra.com:8080/live/gamzemesut/wWuV3yAmXt/488019.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/COSMOHD.png" group-title="ES CINE - SERIES",ES:|VIP| COSMO HD
-http://funmitra.com:8080/live/gamzemesut/wWuV3yAmXt/488018.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/FOXHD.png" group-title="ES CINE - SERIES",ES:|VIP| FOX HD
 http://funmitra.com:8080/live/gamzemesut/wWuV3yAmXt/488017.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/FOXHD.png" group-title="ES CINE - SERIES",ES:|VIP| FOX LIFE HD
@@ -4712,8 +4710,6 @@ http://funmitra.com:8080/live/gamzemesut/wWuV3yAmXt/487887.m3u8
 http://funmitra.com:8080/live/gamzemesut/wWuV3yAmXt/487886.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/COSMOHD.png" group-title="ES CINE - SERIES",ES:|VIP|.COSMO HD
 http://funmitra.com:8080/live/gamzemesut/wWuV3yAmXt/487885.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/franceT-220x132/COMMEDYCENTRAL.png" group-title="ES CINE - SERIES",ES:|VIP|.COMEDY CENTRAL HD
-http://funmitra.com:8080/live/gamzemesut/wWuV3yAmXt/487883.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/ENERGY.png" group-title="ES CINE - SERIES",ES:|VIP|.ENERGY
 http://funmitra.com:8080/live/gamzemesut/wWuV3yAmXt/487878.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/desaca.png" group-title="ES CINE - SERIES",ES:|VIP|.DECASA HD
@@ -4722,8 +4718,6 @@ http://funmitra.com:8080/live/gamzemesut/wWuV3yAmXt/487860.m3u8
 http://funmitra.com:8080/live/gamzemesut/wWuV3yAmXt/487857.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/BLAZE.png" group-title="ES CINE - SERIES",ES:|VIP|.BLAZE
 http://funmitra.com:8080/live/gamzemesut/wWuV3yAmXt/487855.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/taquilla.png" group-title="ES CINE - SERIES",ES:|VIP|.TAQUILLA 1
-http://funmitra.com:8080/live/gamzemesut/wWuV3yAmXt/487853.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/taquilla.png" group-title="ES CINE - SERIES",ES:|VIP|.TAQUILLA 2
 http://funmitra.com:8080/live/gamzemesut/wWuV3yAmXt/487852.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/taquilla.png" group-title="ES CINE - SERIES",ES:|VIP|.TAQUILLA 3
@@ -11114,6 +11108,26 @@ http://funmitra.com:8080/live/gamzemesut/wWuV3yAmXt/2028.m3u8
 http://funmitra.com:8080/live/gamzemesut/wWuV3yAmXt/378165.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/gs_tv.png" group-title="TR SPOR",TR: GS TV HD
 http://funmitra.com:8080/live/gamzemesut/wWuV3yAmXt/2626.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/eurosport1.png" group-title="TR SPOR",TR: EUROSPORT 1
+http://funmitra.com:8080/live/gamzemesut/wWuV3yAmXt/7177.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/eurosport2.png" group-title="TR SPOR",TR: EUROSPORT 2
+http://funmitra.com:8080/live/gamzemesut/wWuV3yAmXt/7178.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/nba_tv.png" group-title="TR SPOR",TR: NBA TV HD
+http://funmitra.com:8080/live/gamzemesut/wWuV3yAmXt/13245.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/sports_tv.png" group-title="TR SPOR",TR: SPORTS TV
+http://funmitra.com:8080/live/gamzemesut/wWuV3yAmXt/2105.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/tay_tv.png" group-title="TR SPOR",TR: TAY TV
+http://funmitra.com:8080/live/gamzemesut/wWuV3yAmXt/129265.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/tjk_tv.png" group-title="TR SPOR",TR: TJK TV HD
+http://funmitra.com:8080/live/gamzemesut/wWuV3yAmXt/8571.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/fightbox.png" group-title="TR SPOR",TR: FIGHTBOX
+http://funmitra.com:8080/live/gamzemesut/wWuV3yAmXt/240517.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/Fight_network.png" group-title="TR SPOR",TR: FIGHT NETWORK
+http://funmitra.com:8080/live/gamzemesut/wWuV3yAmXt/423772.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/TraceSpS.png" group-title="TR SPOR",TR: TRACE SPORT STARS
+http://funmitra.com:8080/live/gamzemesut/wWuV3yAmXt/423893.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/USA/UFCFIGHTPASS.png" group-title="TR SPOR",TR: UFC FIGHT PASS
+http://funmitra.com:8080/live/gamzemesut/wWuV3yAmXt/423894.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/bein_sp_haber.png" group-title="TR SPOR",TR: BEIN SPORTS HABER
 http://funmitra.com:8080/live/gamzemesut/wWuV3yAmXt/383650.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/bein_sports_1.png" group-title="TR SPOR",TR: BEIN SPORTS 1 SD
@@ -11268,26 +11282,6 @@ http://funmitra.com:8080/live/gamzemesut/wWuV3yAmXt/391895.m3u8
 http://funmitra.com:8080/live/gamzemesut/wWuV3yAmXt/389167.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/Exxen.png.png" group-title="TR SPOR",TR: EXXEN SPOR 8 FHD (MAC ZAMANI)
 http://funmitra.com:8080/live/gamzemesut/wWuV3yAmXt/391894.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/eurosport1.png" group-title="TR SPOR",TR: EUROSPORT 1
-http://funmitra.com:8080/live/gamzemesut/wWuV3yAmXt/7177.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/eurosport2.png" group-title="TR SPOR",TR: EUROSPORT 2
-http://funmitra.com:8080/live/gamzemesut/wWuV3yAmXt/7178.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/nba_tv.png" group-title="TR SPOR",TR: NBA TV HD
-http://funmitra.com:8080/live/gamzemesut/wWuV3yAmXt/13245.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/sports_tv.png" group-title="TR SPOR",TR: SPORTS TV
-http://funmitra.com:8080/live/gamzemesut/wWuV3yAmXt/2105.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/tay_tv.png" group-title="TR SPOR",TR: TAY TV
-http://funmitra.com:8080/live/gamzemesut/wWuV3yAmXt/129265.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/tjk_tv.png" group-title="TR SPOR",TR: TJK TV HD
-http://funmitra.com:8080/live/gamzemesut/wWuV3yAmXt/8571.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/fightbox.png" group-title="TR SPOR",TR: FIGHTBOX
-http://funmitra.com:8080/live/gamzemesut/wWuV3yAmXt/240517.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/Fight_network.png" group-title="TR SPOR",TR: FIGHT NETWORK
-http://funmitra.com:8080/live/gamzemesut/wWuV3yAmXt/423772.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/TraceSpS.png" group-title="TR SPOR",TR: TRACE SPORT STARS
-http://funmitra.com:8080/live/gamzemesut/wWuV3yAmXt/423893.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/USA/UFCFIGHTPASS.png" group-title="TR SPOR",TR: UFC FIGHT PASS
-http://funmitra.com:8080/live/gamzemesut/wWuV3yAmXt/423894.m3u8
 
 # --- TR TURKIYE (94) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/tr.png" group-title="TR TURKIYE",TR: ----- TURKIYE -----
@@ -14169,4 +14163,4 @@ http://funmitra.com:8080/live/gamzemesut/wWuV3yAmXt/505896.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/USA/TVJ%20channel.png" group-title="US SPORTS",US: TVJ
 http://funmitra.com:8080/live/gamzemesut/wWuV3yAmXt/282779.m3u8
 
-# Total: 6969
+# Total: 6966

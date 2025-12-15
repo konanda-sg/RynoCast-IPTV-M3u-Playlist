@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: xxip25.top:8080
-# Generated: 2025-12-14 18:31:46
+# Generated: 2025-12-15 07:13:15
 # Expires: 2026-02-23
 # Family Safe Edition
 # ==============================================
@@ -3385,23 +3385,55 @@ http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/17779.m3u8
 #EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US Starz West (S)
 http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/21091.m3u8
 
-# --- NBA (8) ---
+# --- NBA (24) ---
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",CA-NBA TV
 http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/22995.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",USA: NBA TV
 http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/20073.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 01: New York Knicks @ Orlando Magic | Home Stream | 12/13/2025 5:30 PM ET
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257255.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 01: New York Knicks vs Orlando Magic @ 05:30 PM EST
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257256.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 02: New York Knicks @ Orlando Magic | Away Stream | 12/13/2025 5:30 PM ET
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257257.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 02: San Antonio Spurs vs Oklahoma City Thunder @ 09:00 PM EST
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257258.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 03: San Antonio Spurs @ Oklahoma City Thunder | Home Stream | 12/13/2025 9:00 PM ET
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257259.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 04: San Antonio Spurs @ Oklahoma City Thunder | Away Stream | 12/13/2025 9:00 PM ET
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257260.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 01: Washington Wizards @ Indiana Pacers | Home Stream | 12/14/2025 3:00 PM ET
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257417.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 01: Washington Wizards vs Indiana Pacers @ 03:00 PM  EST
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257418.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 02: Washington Wizards @ Indiana Pacers | Away Stream | 12/14/2025 3:00 PM ET
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257419.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 02: Charlotte Hornets vs Cleveland Cavaliers @ 03:30 PM EST
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257420.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 03: Charlotte Hornets @ Cleveland Cavaliers | Home Stream | 12/14/2025 3:30 PM ET
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257421.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 03: Philadelphia 76ers vs Atlanta Hawks @ 06:00 PM EST
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257422.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 04: Charlotte Hornets @ Cleveland Cavaliers | Away Stream | 12/14/2025 3:30 PM ET
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257423.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 04: Milwaukee Bucks vs Brooklyn Nets @ 06:00 PM  EST
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257424.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 05: Milwaukee Bucks @ Brooklyn Nets | Away Stream | 12/14/2025 6:00 PM ET
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257425.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 05: Sacramento Kings vs Minnesota Timberwolves @ 07:00 PM EST
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257426.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 06: Milwaukee Bucks @ Brooklyn Nets | Home Stream | 12/14/2025 6:00 PM ET
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257427.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 06: New Orleans Pelicans vs Chicago Bulls @ 07:00 PM EST
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257428.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 07: New Orleans Pelicans @ Chicago Bulls | Away Stream | 12/14/2025 7:00 PM ET
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257429.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 07: Los Angeles Lakers vs Phoenix Suns @ 08:00 PM EST
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257430.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 08: New Orleans Pelicans @ Chicago Bulls | Home Stream | 12/14/2025 7:00 PM ET
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257431.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 08: Golden State Warriors vs Portland Trail Blazers @ 09:00 PM EST
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257432.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 09: Sacramento Kings @ Minnesota Timberwolves | Away Stream | 12/14/2025 7:00 PM ET
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257433.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 10: Sacramento Kings @ Minnesota Timberwolves | Home Stream | 12/14/2025 7:00 PM ET
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257434.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 11: Los Angeles Lakers @ Phoenix Suns | Away Stream | 12/14/2025 8:00 PM ET
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257435.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 12: Los Angeles Lakers @ Phoenix Suns | Home Stream | 12/14/2025 8:00 PM ET
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257436.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 13: Golden State Warriors @ Portland Trail Blazers | Away Stream | 12/14/2025 9:00 PM ET
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257437.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 14: Golden State Warriors @ Portland Trail Blazers | Home Stream | 12/14/2025 9:00 PM ET
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257438.m3u8
 
 # --- NCAAB (121) ---
 #EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 001 | 17 ARKANSAS @ 16 TEXAS TECH (M) | 12.13 12:00 PM | ESPN2
@@ -3664,70 +3696,64 @@ http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/159120.m3u8
 http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/208830.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NFL",USA | NFL
 http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/208896.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 01:  Atlanta Falcons  vs  Tampa Bay Buccaneers @ 08:15 PM
+#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 01: Cleveland Browns vs Chicago Bears 1pm
 http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/252010.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 02:  Pittsburgh Steelers vs. Baltimore Ravens 1pm
+#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 02:  Baltimore Ravens vs Cincinnati Bengals 1pm
 http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/252011.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 03: Tennessee Titans vs Cleveland Browns 1pm
+#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 03: Arizona Cardinals vs Houston Texans @ 1:00 pm
 http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/252012.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 04: Indianapolis Colts vs Jacksonville Jaguars 1pm
+#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 04: NY Jets vs Jacksonville Jaguars 1pm
 http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/252013.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 05:  Washington Commanders vs Minnesota Vikings 1pm
+#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 05:  LA Chargers vs Kansas City Chiefs 1pm
 http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/252014.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 06: Miami Dolphins vs New York Jets 1pm
+#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 06: Buffalo Bills vs New England Patriots 1pm
 http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/252015.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 07: New Orleans Saints vs Tampa Bay Buccaneers 1pm
+#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 07: Washington Commanders vs NY Giants 1pm
 http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/252016.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 08: Cincinnati Bengals vs Buffalo Bills 1pm
+#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 08: Las Vegas Raiders vs Philadelphia Eagles @ 1:00 pm
 http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/252017.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 09: Denver Broncos vs Las Vegas Raiders 4:05pm
+#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 09: Green Bay Packers vs Denver Broncos @ 4:25 pm
 http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/252018.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 10: Chicago Bears vs Green Bay Packers 4:25pm
+#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 10: Detroit Lions vs Los Angeles Rams @ 4:25 pm
 http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/252019.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 11:  LA Rams vs Arizona Cardinals 4:25pm
+#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 11: Carolina Panthers vs New Orleans Saints @ 4:25 pm
 http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/252020.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 12: Houston Texans vs Kansas City Chiefs 8:20pm
+#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 12: Indianapolis Colts vs Seattle Seahawks 4:25pm
 http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/252021.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 13: Detroit Lions vs Philadelphia Eagles 8:20pm
+#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 13: Tennessee Titans vs San Francisco 49ers 4:25pm
 http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/252022.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NFL",USA NFL Thursday Night: Baltimore Ravens vs Miami Dolphins @ 08:15 PM
+#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 14: Minnesota Vikings vs Dallas Cowboys 8:20pm
 http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/253677.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NFL",NFL 01: Baltimore Ravens at Miami Dolphins 8:15pm
 http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/253678.m3u8
 
-# --- NHL (16) ---
+# --- NHL (13) ---
 #EXTINF:-1 tvg-logo="" group-title="NHL",US NHL Network
 http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/253636.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 01: ANA VS NJD (NHLN Feed ) @ 12:30 pm
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257281.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 02: ANA VS NJD (SN Feed ) @ 12:30 pm
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257282.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 03: ANA VS NJD (MSG Feed ) @ 12:30 pm
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257283.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 04: OTT VS MIN (TVAS Feed ) @ 2:00 pm
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257284.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 05: SJS VS PIT (SN Feed ) @ 3:00 pm
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257285.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 06: SJS VS PIT (SN1 Feed ) @ 3:00 pm
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257286.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 07: SJS VS PIT (NBCSCA Feed ) @ 3:00 pm
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257287.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 08: EDM VS TOR (SN Feed ) @ 7:00 pm
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257288.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 09: MTL VS NYR (SNE Feed ) @ 7:00 pm
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257289.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 10: MTL VS NYR (TVAS Feed ) @ 7:00 pm
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257290.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 11: MTL VS NYR (MSG Feed ) @ 7:00 pm
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257291.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 12: CAR VS PHI (NBCSP Feed ) @ 7:00 pm
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257292.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 13: WSH VS WPG (SNW Feed ) @ 7:00 pm
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257293.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 14: NSH VS COL (ALT Feed ) @ 9:00 pm
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257294.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 15: CGY VS LAK (SN Feed ) @ 10:00 pm
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257295.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 01: VAN VS NJD (NHLN Feed ) @ 12:30 pm
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257439.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 02: VAN VS NJD (SN Feed ) @ 12:30 pm
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257440.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 03: UTA VS PIT (SN Feed ) @ 3:00 pm
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257441.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 04: UTA VS PIT (SN1 Feed ) @ 3:00 pm
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257442.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 05: UTA VS PIT (TVAS Feed ) @ 3:00 pm
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257443.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 06: PHI VS CAR (NBCSP Feed ) @ 5:00 pm
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257444.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 07: BOS VS MIN (SN Feed ) @ 6:00 pm
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257445.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 08: BOS VS MIN (NESN Feed ) @ 6:00 pm
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257446.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 09: EDM VS MTL (SNW Feed ) @ 7:00 pm
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257447.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 10: EDM VS MTL (NHLN Feed ) @ 7:00 pm
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257448.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 11: EDM VS MTL (RDS Feed ) @ 7:00 pm
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257449.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 12: BUF VS SEA (SN360 Feed ) @ 8:00 pm
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257450.m3u8
 
 # --- PERU (7) ---
 #EXTINF:-1 tvg-logo="" group-title="PERU",PE: PANAMERICANA HD
@@ -13595,4 +13621,4 @@ http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/121046.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Vietnam",VN DA NANG 1 HD
 http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/121048.m3u8
 
-# Total: 6758
+# Total: 6771

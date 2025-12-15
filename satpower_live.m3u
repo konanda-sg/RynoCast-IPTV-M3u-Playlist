@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: satpower.shop:8080
-# Generated: 2025-12-14 18:27:31
+# Generated: 2025-12-15 07:16:50
 # Expires: 2026-03-06
 # Family Safe Edition
 # ==============================================
@@ -6824,6 +6824,26 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/2028.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/378165.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/gs_tv.png" group-title="TR SPOR",TR: GS TV HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/2626.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/eurosport1.png" group-title="TR SPOR",TR: EUROSPORT 1
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/7177.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/eurosport2.png" group-title="TR SPOR",TR: EUROSPORT 2
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/7178.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/nba_tv.png" group-title="TR SPOR",TR: NBA TV HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/13245.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/sports_tv.png" group-title="TR SPOR",TR: SPORTS TV
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/2105.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/tay_tv.png" group-title="TR SPOR",TR: TAY TV
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/129265.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/tjk_tv.png" group-title="TR SPOR",TR: TJK TV HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/8571.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/fightbox.png" group-title="TR SPOR",TR: FIGHTBOX
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/240517.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/Fight_network.png" group-title="TR SPOR",TR: FIGHT NETWORK
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/423772.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/TraceSpS.png" group-title="TR SPOR",TR: TRACE SPORT STARS
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/423893.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/USA/UFCFIGHTPASS.png" group-title="TR SPOR",TR: UFC FIGHT PASS
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/423894.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/bein_sp_haber.png" group-title="TR SPOR",TR: BEIN SPORTS HABER
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/383650.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/bein_sports_1.png" group-title="TR SPOR",TR: BEIN SPORTS 1 SD
@@ -6978,26 +6998,6 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/391895.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/389167.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/Exxen.png.png" group-title="TR SPOR",TR: EXXEN SPOR 8 FHD (MAC ZAMANI)
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/391894.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/eurosport1.png" group-title="TR SPOR",TR: EUROSPORT 1
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/7177.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/eurosport2.png" group-title="TR SPOR",TR: EUROSPORT 2
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/7178.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/nba_tv.png" group-title="TR SPOR",TR: NBA TV HD
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/13245.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/sports_tv.png" group-title="TR SPOR",TR: SPORTS TV
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/2105.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/tay_tv.png" group-title="TR SPOR",TR: TAY TV
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/129265.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/tjk_tv.png" group-title="TR SPOR",TR: TJK TV HD
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/8571.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/fightbox.png" group-title="TR SPOR",TR: FIGHTBOX
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/240517.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/Fight_network.png" group-title="TR SPOR",TR: FIGHT NETWORK
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/423772.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/TraceSpS.png" group-title="TR SPOR",TR: TRACE SPORT STARS
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/423893.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/USA/UFCFIGHTPASS.png" group-title="TR SPOR",TR: UFC FIGHT PASS
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/423894.m3u8
 
 # --- TR TURKIYE (94) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/tr.png" group-title="TR TURKIYE",TR: ----- TURKIYE -----

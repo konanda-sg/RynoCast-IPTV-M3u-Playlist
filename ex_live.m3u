@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: ex.guteex.com:8000
-# Generated: 2025-12-14 18:27:10
+# Generated: 2025-12-15 07:17:31
 # Expires: 2026-04-01
 # Family Safe Edition
 # ==============================================
@@ -498,6 +498,8 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/40269.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/40270.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE | DAZN Sports",DAZN UEFA Champions League 10
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/40271.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE | DAZN Sports",DAZN UEFA Champions League 11
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/41052.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE | DAZN Sports",DAZN Event INFO
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/18522.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE | DAZN Sports",DAZN Event 1
@@ -542,8 +544,6 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/41054.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65055.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE | DAZN Sports",DAZN Ligue 1
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/41051.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | DAZN Sports",DAZN Ligue 2
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/41052.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE | DAZN Sports",DAZN RISE HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/48180.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE | DAZN Sports",DAZN FAST + HD

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: premiumvipzone.com:8080
-# Generated: 2025-12-14 18:30:17
+# Generated: 2025-12-15 07:15:49
 # Expires: 2026-03-11
 # Family Safe Edition
 # ==============================================
@@ -13391,7 +13391,9 @@ http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/200.m3u8
 #EXTINF:-1 tvg-logo="https://static.cinemagia.ro/img/tv_station/tralala.jpg" group-title="✰ Romania - COPII ✰",TraLaLa
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/82673.m3u8
 
-# --- ✰ Romania - Documentare HD+SD ✰ (48) ---
+# --- ✰ Romania - Documentare HD+SD ✰ (49) ---
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/28k4PYfC/photo_2025_12_14_22_01_25.jpg" group-title="✰ Romania - Documentare HD+SD ✰",Vip Documentare 3 HD
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/274069.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/vQl0f8aAyYdhpJQ8hl0fJBT8EizPCoF_81wT1LuVk0ciR_x1AhtNEp13gZBWwWIxmrPyry_Y8lM=s900-c-k-c0x00ffffff-no-rj" group-title="✰ Romania - Documentare HD+SD ✰",Love Nature 4K
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/108343.m3u8
 #EXTINF:-1 tvg-logo="http://5.189.181.7/extract/travelmixhd.png" group-title="✰ Romania - Documentare HD+SD ✰",TRAVEL MIX 4K
@@ -13856,6 +13858,24 @@ http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/122338.m3u8
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/122339.m3u8
 #EXTINF:-1 tvg-logo="" group-title="✰ Romania - FILME HD+SD ✰",E Cinema Xtreme { HD }
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/122963.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwJB0y8F/download.jpg" group-title="✰ Romania - FILME HD+SD ✰",Max By HBO { HD }
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/215226.m3u8
+#EXTINF:-1 tvg-logo="" group-title="✰ Romania - FILME HD+SD ✰",Tele Film { HD }
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/140851.m3u8
+#EXTINF:-1 tvg-logo="" group-title="✰ Romania - FILME HD+SD ✰",Tele Film 2 { HD }
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/140886.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pr2X9w43/Chat-GPT-Image-Nov-12-2025-01-12-35-PM.png" group-title="✰ Romania - FILME HD+SD ✰",Kino Action { HD }
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/270870.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pTv5VFdr/Copilot-20251112-035507.png" group-title="✰ Romania - FILME HD+SD ✰",Fly Premium { HD }
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/270867.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0FjJGvW/Chat-GPT-Image-Nov-11-2025-04-24-01-PM.png" group-title="✰ Romania - FILME HD+SD ✰",Fly Action { HD }
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/270851.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1RKhs0FX/flyhorroralb.png" group-title="✰ Romania - FILME HD+SD ✰",Fly Horror { HD }
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/270853.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7LGpVKSC/Fly-CINEMA-transparent.png" group-title="✰ Romania - FILME HD+SD ✰",Fly Cinema { HD }
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/270859.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGyWFTWL/Chat-GPT-Image-Nov-12-2025-03-36-00-PM.png" group-title="✰ Romania - FILME HD+SD ✰",Flux Aventura { HD }
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/271616.m3u8
 #EXTINF:-1 tvg-logo="" group-title="✰ Romania - FILME HD+SD ✰",Magura Media 4K
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/45580.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bJm0gnyc/magura-action.png" group-title="✰ Romania - FILME HD+SD ✰",Magura  Action { HD }
@@ -13938,32 +13958,14 @@ http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/222357.m3u8
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/222358.m3u8
 #EXTINF:-1 tvg-logo="" group-title="✰ Romania - FILME HD+SD ✰",Universal Cinema 5 { HD }
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/222355.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwJB0y8F/download.jpg" group-title="✰ Romania - FILME HD+SD ✰",Max By HBO { HD }
-http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/215226.m3u8
 #EXTINF:-1 tvg-logo="" group-title="✰ Romania - FILME HD+SD ✰",RO Film Mania { HD }
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/123491.m3u8
-#EXTINF:-1 tvg-logo="" group-title="✰ Romania - FILME HD+SD ✰",Tele Film 2 { HD }
-http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/140886.m3u8
-#EXTINF:-1 tvg-logo="" group-title="✰ Romania - FILME HD+SD ✰",Tele Film { HD }
-http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/140851.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2jPcdDqt/Chat-GPT-Image-Nov-16-2025-04-01-03-AM.png" group-title="✰ Romania - FILME HD+SD ✰",Vip Christmas { HD }
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/271827.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mgb9DqVk/Vip_Cinema_Sci_Fiction.png" group-title="✰ Romania - FILME HD+SD ✰",Vip Cinema Sci-Fiction { HD }
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/32817.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pr2X9w43/Chat-GPT-Image-Nov-12-2025-01-12-35-PM.png" group-title="✰ Romania - FILME HD+SD ✰",Kino Action { HD }
-http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/270870.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0FjJGvW/Chat-GPT-Image-Nov-11-2025-04-24-01-PM.png" group-title="✰ Romania - FILME HD+SD ✰",Fly Action { HD }
-http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/270851.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1RKhs0FX/flyhorroralb.png" group-title="✰ Romania - FILME HD+SD ✰",Fly Horror { HD }
-http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/270853.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7LGpVKSC/Fly-CINEMA-transparent.png" group-title="✰ Romania - FILME HD+SD ✰",Fly Cinema { HD }
-http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/270859.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pTv5VFdr/Copilot-20251112-035507.png" group-title="✰ Romania - FILME HD+SD ✰",Fly Premium { HD }
-http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/270867.m3u8
 #EXTINF:-1 tvg-logo="" group-title="✰ Romania - FILME HD+SD ✰",Screen X Galaxy { HD }
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/140913.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGyWFTWL/Chat-GPT-Image-Nov-12-2025-03-36-00-PM.png" group-title="✰ Romania - FILME HD+SD ✰",Flux Aventura { HD }
-http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/271616.m3u8
 #EXTINF:-1 tvg-logo="" group-title="✰ Romania - FILME HD+SD ✰",Galaxy Cinema 2 { HD }
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/185843.m3u8
 #EXTINF:-1 tvg-logo="" group-title="✰ Romania - FILME HD+SD ✰",Galaxy Cinema { HD }
@@ -15055,11 +15057,13 @@ http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/150784.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W1zW9dt4/antena1.jpg" group-title="✰ Romania - Generale HD+SD ✰",Antena 1 4k
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/271905.m3u8
 
-# --- ✰ Romania - MUZICA ✰ (49) ---
+# --- ✰ Romania - MUZICA ✰ (50) ---
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wB226PtM/craciun.png" group-title="✰ Romania - MUZICA ✰",Christmas Time HD
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/270109.m3u8
 #EXTINF:-1 tvg-logo="" group-title="✰ Romania - MUZICA ✰",Manele Deluxe 4K
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/272053.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T31XQWy7/photo-2025-12-14-19-58-34.jpg" group-title="✰ Romania - MUZICA ✰",Gaither Music TV
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/274048.m3u8
 #EXTINF:-1 tvg-logo="http://5.189.181.7/extract/kisstvhd.png" group-title="✰ Romania - MUZICA ✰",Kiss TV ᴴᴰ
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/52.m3u8
 #EXTINF:-1 tvg-logo="http://5.189.181.7/extract/utvhd.png" group-title="✰ Romania - MUZICA ✰",UTV ᴴᴰ
@@ -15689,4 +15693,4 @@ http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/140783.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LXWKshQx/ddikh.jpg" group-title="✰Hungary-Általános (General)✰",HU* Dikh TV FHD
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/175834.m3u8
 
-# Total: 7759
+# Total: 7761
