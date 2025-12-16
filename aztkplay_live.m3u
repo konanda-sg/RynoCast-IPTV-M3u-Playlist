@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: aztkplay.pro:8080
-# Generated: 2025-12-15 18:39:15
+# Generated: 2025-12-16 07:09:02
 # Expires: 2025-12-18
 # Family Safe Edition
 # ==============================================
@@ -2053,243 +2053,77 @@ http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/197164.m3u8
 #EXTINF:-1 tvg-logo="http://allstar.is-by.us:25461/images/4ce8f6ad68bf634e2332d766d587880c.png" group-title="ESPN PACKAGE",ESPN 3 Argentina
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/197166.m3u8
 
-# --- EVENTOS DE HOY AND TODAY SPORTS (118) ---
+# --- EVENTOS DE HOY AND TODAY SPORTS (35) ---
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/58afdad6829958a978a4a693.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",* SOCCER *
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593586.m3u8
-#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/serie-a-logo-transparent.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",05:30 SERIE A MILAN VS SASSUOLO
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593587.m3u8
-#EXTINF:-1 tvg-logo="https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2314.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",06:00 WOMEN'S SUPER LEAGUE MANCHESTER CITY VS ASTON VILLA
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593588.m3u8
-#EXTINF:-1 tvg-logo="https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2314.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",06:00 WOMEN'S SUPER LEAGUE BRIGHTON & HOVE ALBION VS CHELSEA FC
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593589.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/c/cc/2._Bundesliga_logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",06:30 2. BUNDESLIGA DARMSTADT 98 VS PREUßEN MÜNSTER
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593590.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/c/cc/2._Bundesliga_logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",06:30 2. BUNDESLIGA SCHALKE 04 VS NÜRNBERG
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593591.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/c/cc/2._Bundesliga_logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",06:30 2. BUNDESLIGA ELVERSBERG VS FORTUNA DÜSSELDORF
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593592.m3u8
-#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/LALIGA_EA_SPORTS_RGB_h_color/LALIGA_EA_SPORTS_RGB_h_color.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",07:00 LALIGA SEVILLA VS REAL OVIEDO
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593593.m3u8
-#EXTINF:-1 tvg-logo="https://a3.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F11.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",07:30 EREDIVISIE EN PAÍSES BAJOS AJAX VS FEYENOORD
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593594.m3u8
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/Premier-League-Logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",08:00 PREMIER LEAGUE CRYSTAL PALACE VS MANCHESTER CITY
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593595.m3u8
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/Premier-League-Logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",08:00 PREMIER LEAGUE WEST HAM UNITED VS ASTON VILLA
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593597.m3u8
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/Premier-League-Logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",08:00 PREMIER LEAGUE SUNDERLAND VS NEWCASTLE UNITED
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593598.m3u8
-#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/serie-a-logo-transparent.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",08:00 SERIE A UDINESE VS NAPOLI
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593599.m3u8
-#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/serie-a-logo-transparent.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",08:00 SERIE A FIORENTINA VS HELLAS VERONA
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593600.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ligue1_Uber_Eats_logo.png/409px-Ligue1_Uber_Eats_logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",08:00 LIGUE 1 OLYMPIQUE LYONNAIS VS LE HAVRE
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593601.m3u8
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/German-Bundesliga-logo-1.jpg" group-title="EVENTOS DE HOY AND TODAY SPORTS",08:30 BUNDESLIGA FREIBURG VS BORUSSIA DORTMUND
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593602.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vjw3eCN.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",Freiburg vs Dortmund (08:30 CT) OPC 1
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593603.m3u8
-#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/LALIGA_EA_SPORTS_RGB_h_color/LALIGA_EA_SPORTS_RGB_h_color.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",09:15 LALIGA CELTA DE VIGO VS ATHLETIC CLUB
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593605.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/512px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",09:15 LALIGA SMARTBANK ALBACETE VS MÁLAGA
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593606.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/S%C3%ADmbolo_da_Liga_Portuguesa_de_Futebol_Profissional.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",09:30 PORTUGAL FAMALICÃO VS ESTORIL
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593607.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e4/Women_FA_Cup_Logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",10:00 FA WOMEN'S CUP LEWES VS CRYSTAL PALACE
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593608.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ligue1_Uber_Eats_logo.png/409px-Ligue1_Uber_Eats_logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",10:15 LIGUE 1 STRASBOURG VS LORIENT
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593609.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ligue1_Uber_Eats_logo.png/409px-Ligue1_Uber_Eats_logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",10:15 LIGUE 1 LENS VS NICE
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593610.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ligue1_Uber_Eats_logo.png/409px-Ligue1_Uber_Eats_logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",10:15 LIGUE 1 AUXERRE VS LILLE
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593611.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/7/75/Logo_Serie_B_2014.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",10:15 SERIE B PESCARA VS FROSINONE
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593612.m3u8
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/Premier-League-Logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",10:30 PREMIER LEAGUE BRENTFORD VS LEEDS UNITED
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593613.m3u8
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/German-Bundesliga-logo-1.jpg" group-title="EVENTOS DE HOY AND TODAY SPORTS",10:30 BUNDESLIGA BAYERN MÜNCHEN VS MAINZ 05
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593614.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vjw3eCN.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",10:30 BUNDESLIGA BAYERN MÜNCHEN VS MAINZ 05 OPC 1
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593615.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vjw3eCN.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",10:30 BUNDESLIGA BAYERN MÜNCHEN VS MAINZ 05 OPC 2
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593616.m3u8
-#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/serie-a-logo-transparent.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",11:00 SERIE A GENOA VS INTERNAZIONALE
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593617.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/S%C3%BCper_Lig_logo.svg/2160px-S%C3%BCper_Lig_logo.svg_logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",11:00 TURQUIA TRABZONSPOR VS BEŞIKTAŞ
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593618.m3u8
-#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/LALIGA_EA_SPORTS_RGB_h_color/LALIGA_EA_SPORTS_RGB_h_color.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",11:30 LALIGA LEVANTE VS VILLARREAL
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593619.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/512px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",11:30 LALIGA SMARTBANK ALMERÍA VS BURGOS
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593620.m3u8
-#EXTINF:-1 tvg-logo="https://i.etsystatic.com/48875513/r/il/8fa99b/6708945125/il_300x300.6708945125_euai.jpg" group-title="EVENTOS DE HOY AND TODAY SPORTS",12:15 MESSI CUP | 3° PUESTO
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593621.m3u8
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/German-Bundesliga-logo-1.jpg" group-title="EVENTOS DE HOY AND TODAY SPORTS",12:30 BUNDESLIGA WERDER BREMEN VS STUTTGART
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593622.m3u8
-#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/serie-a-logo-transparent.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",13:45 SERIE A BOLOGNA VS JUVENTUS
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593623.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ligue1_Uber_Eats_logo.png/409px-Ligue1_Uber_Eats_logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",13:45 LIGUE 1 OLYMPIQUE MARSEILLE VS MONACO
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593624.m3u8
-#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/LALIGA_EA_SPORTS_RGB_h_color/LALIGA_EA_SPORTS_RGB_h_color.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",14:00 LALIGA DEPORTIVO ALAVÉS VS REAL MADRID
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593625.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gnX0TCo.jpg" group-title="EVENTOS DE HOY AND TODAY SPORTS",14:00 LALIGA DEPORTIVO ALAVÉS VS REAL MADRID OPC 1
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593626.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gnX0TCo.jpg" group-title="EVENTOS DE HOY AND TODAY SPORTS",14:00 LALIGA DEPORTIVO ALAVÉS VS REAL MADRID) OPC 2
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593627.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OeI4u34.jpg" group-title="EVENTOS DE HOY AND TODAY SPORTS",14:00 LALIGA DEPORTIVO ALAVÉS VS REAL MADRID) OPC 3
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593628.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Primera_B_Nacional_logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",14:00 PRIMERA B METROPOLITANA ACASSUSO VS DEPORTIVO ARMENIO
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593629.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/512px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",14:00 LALIGA SMARTBANK CEUTA VS LAS PALMAS
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593630.m3u8
-#EXTINF:-1 tvg-logo="https://i.etsystatic.com/48875513/r/il/8fa99b/6708945125/il_300x300.6708945125_euai.jpg" group-title="EVENTOS DE HOY AND TODAY SPORTS",14:30 MESSI CUP | FINAL
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593631.m3u8
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/211/548/png-clipart-2018-copa-do-brasil-2018-world-cup-2014-fifa-world-cup-clube-de-regatas-do-flamengo-brazilian-football-confederation-brasil-copa-logo-tie.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",15:00 COPA DE BRASIL CORINTHIANS VS CRUZEIRO
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593632.m3u8
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/league/badge/94pogz1646830106.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",15:00 HONDURAS PLATENSE VS OLANCHO
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593633.m3u8
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/league/badge/97r4et1716292122.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",16:00 COSTA RICA DEPORTIVO SAPRISSA VS CARTAGINÉS
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593634.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/222x/47/45/76/4745769af544f2771531c6751a48eb98.jpg" group-title="EVENTOS DE HOY AND TODAY SPORTS",17:00 PERÚ CUSCO VS SPORTING CRISTAL
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593635.m3u8
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/211/548/png-clipart-2018-copa-do-brasil-2018-world-cup-2014-fifa-world-cup-clube-de-regatas-do-flamengo-brazilian-football-confederation-brasil-copa-logo-tie.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",17:30 COPA DE BRASIL FLUMINENSE VS VASCO DA GAMA
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593636.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MX_logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",19:00 LIGA MX TOLUCA VS TIGRES UANL
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593637.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e869L70.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",19:00 LIGA MX TOLUCA VS TIGRES UANL OPC 1
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593638.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e869L70.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",19:00 LIGA MX TOLUCA VS TIGRES UANL OPC 2
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593639.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e869L70.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",19:00 LIGA MX TOLUCA VS TIGRES UANL OPC 3
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593640.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e869L70.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",19:00 LIGA MX TOLUCA VS TIGRES UANL OPC 4
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593641.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e869L70.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",19:00 LIGA MX TOLUCA VS TIGRES UANL OPC 5
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593642.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e869L70.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",19:00 LIGA MX TOLUCA VS TIGRES UANL) OPC 6
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593643.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e869L70.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",T19:00 LIGA MX TOLUCA VS TIGRES UANL OPC 7
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593644.m3u8
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/58afdad6829958a978a4a693.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",* HANDBALL *
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593645.m3u8
-#EXTINF:-1 tvg-logo="https://asianhandball.org/wp-content/uploads/2025/03/IHF-1.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",07:30 IHF WORLD WOMENS HANDBALL CHAMPIONSHIP FRANCIA VS PAISES BAJOS
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593646.m3u8
-#EXTINF:-1 tvg-logo="https://asianhandball.org/wp-content/uploads/2025/03/IHF-1.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",10:30 IHF WORLD WOMENS HANDBALL CHAMPIONSHIP ALEMANIA VS NORUEGA
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593647.m3u8
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/58afdad6829958a978a4a693.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",* GOLF *
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593648.m3u8
-#EXTINF:-1 tvg-logo="https://www.tiburonnaples.com/Images/Library/Grant_Thornton.JPG" group-title="EVENTOS DE HOY AND TODAY SPORTS",13:00 GOLF | GRANT THORNTON INVIT: RD. 3
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593649.m3u8
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/58afdad6829958a978a4a693.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",* LMP *
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593650.m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/19/1/liga-mexicana-del-pacifico-logo-png_seeklogo-196649.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",18:00 LMP | 14 DIC | VENADOS DE MAZATLAN VS JAGUARES DE NAYARIT
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593651.m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/19/1/liga-mexicana-del-pacifico-logo-png_seeklogo-196649.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",18:00 LMP | 14 DIC | CAÑEROS DE LOS MOCHIS VS CHARROS DE JALISCO
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593652.m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/19/1/liga-mexicana-del-pacifico-logo-png_seeklogo-196649.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",18:05 LMP | 14 DIC | TOMATEROS DE CULIACAN VS TUCSON
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593653.m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/19/1/liga-mexicana-del-pacifico-logo-png_seeklogo-196649.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",18:10 LMP | 14 DIC | YAQUIS DE OBREGON VS ALGODONEROS DE GUASAVE
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593654.m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/19/1/liga-mexicana-del-pacifico-logo-png_seeklogo-196649.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",19:00 LMP | 14 DIC | NARANJEROS DE HERMOSILLO VS AGUILAS DE MEXICALI VS
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593655.m3u8
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/58afdad6829958a978a4a693.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",* NFL *
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593656.m3u8
-#EXTINF:-1 tvg-logo="https://www.rev.bs/wp-content/uploads/2021/09/REDZONE-LOGO-1-1024x478.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",Sunday NFL Red Zone
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593657.m3u8
-#EXTINF:-1 tvg-logo="https://www.rev.bs/wp-content/uploads/2021/09/REDZONE-LOGO-1-1024x478.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",Sunday NFL Red Zone
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593658.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/55oc6mr09zhb104m6wwwbept8_image-header_pRow_1751969213000/fill/none/top/none/85/668/374/png" group-title="EVENTOS DE HOY AND TODAY SPORTS",12:00 NFL GAME PASS 1 | RAVENS @ BENGALS | SUN 14TH
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593659.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/t8ygabzjkoxj1bcxatdcf746z_image-header_pRow_1751969213000/fill/none/top/none/85/668/374/png" group-title="EVENTOS DE HOY AND TODAY SPORTS",12:00 NFL GAME PASS 2 | COMMANDERS @ GIANTS | SUN 14TH
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593660.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1ei5xxwdgaq121h88ioq0irznj_image-header_pRow_1751969213000/fill/none/top/none/85/668/374/png" group-title="EVENTOS DE HOY AND TODAY SPORTS",12:00 NFL GAME PASS 3 | RAIDERS @ EAGLES | SUN 14TH
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593661.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1ryv3pp7t09sp1oskbtw8jr7y0_image-header_pRow_1751969214000/fill/none/top/none/85/668/374/png" group-title="EVENTOS DE HOY AND TODAY SPORTS",12:00 NFL GAME PASS 4 | CARDINALS @ TEXANS | SUN 14TH
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593662.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6n2kxvvsey381335k7fnpiqw0_image-header_pRow_1751969213000/fill/none/top/none/85/668/374/png" group-title="EVENTOS DE HOY AND TODAY SPORTS",12:00 NFL GAME PASS 5 | BROWNS @ BEARS | SUN 14TH
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593663.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/n6yredl0uv2g1cn4aht5vp1i2_image-header_pRow_1751969213000/fill/none/top/none/85/668/374/png" group-title="EVENTOS DE HOY AND TODAY SPORTS",12:00 NFL GAME PASS 6 | CHARGERS @ CHIEFS | SUN 14TH
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593664.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/x4rs4rlt6vz91xbpmj0hp6o57_image-header_pRow_1751969213000/fill/none/top/none/85/668/374/png" group-title="EVENTOS DE HOY AND TODAY SPORTS",12:00 NFL GAME PASS 7 | BILLS @ PATRIOTS | SUN 14TH
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593665.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1wsk6dhyece1714bkvf9l4hiam_image-header_pRow_1751969213000/fill/none/top/none/85/668/374/png" group-title="EVENTOS DE HOY AND TODAY SPORTS",12:00 NFL GAME PASS 8 | JETS @ JAGUARS | SUN 14TH
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593666.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ivj5ciys6q131hotcfdl13dy4_image-header_pRow_1724327650000/fill/none/top/none/85/668/374/png" group-title="EVENTOS DE HOY AND TODAY SPORTS",12:00 NFL GAME PASS 9 | REDZONE | SEMANA 15 | SUN 14TH
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593667.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1h42bxaf296u182mikc1uqovh_image-header_pRow_1751969214000/fill/none/top/none/85/668/374/png" group-title="EVENTOS DE HOY AND TODAY SPORTS",15:25 NFL GAME PASS 10 | COLTS @ SEAHAWKS | SUN 14TH
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593668.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1k7v9ehwg1lhu1bo6ddaz41au7_image-header_pRow_1751969214000/fill/none/top/none/85/668/374/png" group-title="EVENTOS DE HOY AND TODAY SPORTS",15:25 NFL GAME PASS 11 | TITANS @ 49ERS | SUN 14TH
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593669.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/y86rgfqan1uj12cg8hp50zjc0_image-header_pRow_1751731715000/fill/none/top/none/85/668/374/png" group-title="EVENTOS DE HOY AND TODAY SPORTS",15:25 NFL GAME PASS 12 | PANTHERS @ SAINTS | SUN 14TH
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593670.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/uyw8879n4afa108v6lf83k6n1_image-header_pRow_1751969214000/fill/none/top/none/85/668/374/png" group-title="EVENTOS DE HOY AND TODAY SPORTS",15:25 NFL GAME PASS 13 | LIONS @ RAMS | SUN 14TH
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593671.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5tzvjvsvh1di1h1pck4unofxa_image-header_pRow_1751969214000/fill/none/top/none/85/668/374/png" group-title="EVENTOS DE HOY AND TODAY SPORTS",15:25 NFL GAME PASS 14 | PACKERS @ BRONCOS | SUN 14TH
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593672.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/66as29bh8cdh1582ues42p7pk_image-header_pRow_1751969214000/fill/none/top/none/85/668/374/png" group-title="EVENTOS DE HOY AND TODAY SPORTS",19:20 NFL GAME PASS 15 | VIKINGS @ COWBOYS (EN ESPAÑOL) | SUN 14TH
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593673.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1mepl90bsaxhf1ebaka47agmtx_image-header_pRow_1751969214000/fill/none/top/none/85/668/374/png" group-title="EVENTOS DE HOY AND TODAY SPORTS",19:20 NFL GAME PASS 16 | VIKINGS @ COWBOYS | SUN 14TH
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593674.m3u8
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593707.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/S%C3%BCper_Lig_logo.svg/2160px-S%C3%BCper_Lig_logo.svg_logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",11:00 Turquía  Fenerbahçe vs Konyaspor
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593708.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/S%C3%ADmbolo_da_Liga_Portuguesa_de_Futebol_Profissional.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",12:45 Portugal  Sporting Braga vs Santa Clara
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593709.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/512px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",13:30 LaLiga SmartBank  CD Castellon vs Mirandés
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593710.m3u8
+#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/serie-a-logo-transparent.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",13:45 Serie A  Roma vs Como
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593711.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/sky-bet-championship-logo-C4F6910987-seeklogo.com.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",14:00 Championship  Sheffield Wednesday vs Derby County
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593712.m3u8
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/Premier-League-Logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",14:00 Premier League  Manchester United vs AFC Bournemouth
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593713.m3u8
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/LALIGA_EA_SPORTS_RGB_h_color/LALIGA_EA_SPORTS_RGB_h_color.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",14:00 LaLiga  Rayo Vallecano vs Real Betis
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593714.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/S%C3%ADmbolo_da_Liga_Portuguesa_de_Futebol_Profissional.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",14:45 Portugal  Porto vs Estrela
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593715.m3u8
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/58afdad6829958a978a4a693.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",* NBA *
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593675.m3u8
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",14:00 NBA INDIANA PACERS VS WASHINGTON WIZARDS
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593676.m3u8
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",14:30 NBA CLEVELAND CAVALIERS VS CHARLOTTE HORNETS
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593677.m3u8
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",17:00 NBA ATLANTA HAWKS VS PHILADLEPHIA 76ERS
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593678.m3u8
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",17:00 NBA BROOKLYN NETS VS MILWAUKEE BUCKS
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593679.m3u8
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",18:00 NBA CHICAGO BULLS VS NEW ORLEANS PELICANS
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593680.m3u8
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",18:00 NBA MINNESOTA TIMBERWOLVES VS SACRAMENTO KINGS
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593681.m3u8
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",19:00 NBA PHOENIX SUNS VS LOS ANGELES LAKERS
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593682.m3u8
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",20:00 NBA PORTLAND TRAIL BLAZERS VS GOLDEN STATE WARRIORS
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593683.m3u8
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593716.m3u8
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",18:00 NBA 01 | Detroit Pistons at Boston Celtics
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593717.m3u8
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",18:30 NBA 02 | Toronto Raptors at Miami Heat
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593718.m3u8
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",20:00 NBA 03 | Dallas Mavericks at Utah Jazz
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593719.m3u8
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",20:30 NBA 04 | Houston Rockets at Denver Nuggets
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593720.m3u8
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",21:30 NBA 05 | Memphis Grizzlies at LA Clippers
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593721.m3u8
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/58afdad6829958a978a4a693.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",* NFL *
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593722.m3u8
+#EXTINF:-1 tvg-logo="https://static.www.nfl.com/image/upload/t_editorial_landscape_8_desktop_mobile/f_png/league/tcp95iupej0tedrctirl.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",NFL 19:15 Pittsburgh Steelers vs Miami Dolphins Español
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593723.m3u8
+#EXTINF:-1 tvg-logo="https://static.www.nfl.com/image/upload/t_editorial_landscape_8_desktop_mobile/f_png/league/tcp95iupej0tedrctirl.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",NFL 19:15 Pittsburgh Steelers vs Miami Dolphins
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593724.m3u8
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/58afdad6829958a978a4a693.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",* NHL *
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593684.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="EVENTOS DE HOY AND TODAY SPORTS",NHL NEW JERSEY DEVILS VS VANCOUVER CANUCKS
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593685.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="EVENTOS DE HOY AND TODAY SPORTS",14:00 NHL PITTSBURGH PENGUINS VS UTAH MAMMOTH
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593686.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="EVENTOS DE HOY AND TODAY SPORTS",16:00 NHL CAROLINA HURRICANES VS PHILADELPHIA FLYERS
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593687.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="EVENTOS DE HOY AND TODAY SPORTS",17:00 NHL MINNESOTA WILD VS BOSTON BRUINS
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593688.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="EVENTOS DE HOY AND TODAY SPORTS",18:00 NHL MONTREAL CANADIENS VS EDMONTON OILERS
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593689.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="EVENTOS DE HOY AND TODAY SPORTS",19:00 NHL SEATTLE KRAKEN VS BUFFALO SABRES
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593690.m3u8
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/58afdad6829958a978a4a693.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",* NCAA *
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593691.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",11:00 NCAA MENS BASKETBALL SAINT FRANCIS (PA) VS.TEMPLE
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593692.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",12:00 NCAA WOMENS BASKETBALL AUBURN VS.SETON HALL
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593693.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",12:00 NCAA MENS BASKETBALL EASTERN ILLINOIS VS.#4 IOWA STATE
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593694.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",13:00 NCAA WOMENS BASKETBALL AMERICAN UNIVERSITY VS.GEORGE WASHINGTON
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593695.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",13:30 NCAA MENS BASKETBALL COPPIN STATE VS.RADFORD
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593696.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",14:00 NCAA WOMENS BASKETBALL #15 KENTUCKY VS.BELMONT
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593697.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",15:00 NCAA WOMENS BASKETBALL #19 NOTRE DAME VS.JAMES MADISON
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593698.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",15:00 NCAA MENS HOCKEY #8 DARTMOUTH VS.NEW HAMPSHIRE
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593699.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",15:00 NCAA MENS HOCKEY LINDENWOOD VS.#15 MAINE
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593700.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",15:30 NCAA WOMENS BASKETBALL HARRIS-STOWE VS.SIU EDWARDSVILL
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593701.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",16:00 NCAA WOMENS BASKETBALL JACKSONVILLE VS.#8 TCU
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593702.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",16:30 NCAA MENS BASKETBALL CHAMPION CHRISTIAN VS.UT MARTIN
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593703.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",17:00 NCAA WOMENS BASKETBALL NORTHERN IOWA VS.#10 IOWA STATE
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593704.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",18:00 NCAA WOMENS BASKETBALL DAVIDSON VS.CHARLOTTE
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593705.m3u8
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593725.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="EVENTOS DE HOY AND TODAY SPORTS",NHL 18:00 New York Rangers vs Anaheim Ducks
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593726.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="EVENTOS DE HOY AND TODAY SPORTS",NHL 18:00 Tampa Bay Lightningh vs Florida Panthers
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593727.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="EVENTOS DE HOY AND TODAY SPORTS",NHL 18:30 Winnipeg Jets vs Ottawa Senators
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593728.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="EVENTOS DE HOY AND TODAY SPORTS",NHL 19:00 Dallas Stars vs Los Angeles Kings
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593729.m3u8
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/58afdad6829958a978a4a693.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",* NCA *
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593731.m3u8
+#EXTINF:-1 tvg-logo="https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",NCAA Men's Soccer 18:00 NC State vs Washington
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593732.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",NCAA Womens Basketball 10:30 Texas Southern vs.East Texas A&M
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593733.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",NCAA Womens Basketball 11:00 Oakland vs.Loyola Chicago
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593734.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",NCAA Mens Basketball 12:00 Bryan vs.Samford
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593735.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",NCAA Womens Basketball 17:00 Central Connecticut vs.Siena
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593736.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",NCAA Womens Basketball 18:00 UT Rio Grande Valley vs.Stephen F.Austin
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593737.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",NCAA Womens Basketball 18:30 Northwestern State vs.McNeese
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593738.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",NCAA Womens Basketball 18:30 Tulsa vs.#23 Oklahoma State
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593739.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",NCAA Mens Basketball 19:00 East West University vs.Southern Indiana
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593740.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",NCAA Womens Basketball 20:00 UC San Diego vs.California Baptist
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593741.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",NCAA Womens Basketball 20:30 Simpson (CA) vs.Sacramento State
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/593742.m3u8
 
 # --- FIBA (13) ---
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/58afdad6829958a978a4a693.png" group-title="FIBA",* FIBA *
@@ -4145,4 +3979,4 @@ http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/206304.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VIX Plus",Las Estrellas -1 VIX
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/206305.m3u8
 
-# Total: 2006
+# Total: 1923

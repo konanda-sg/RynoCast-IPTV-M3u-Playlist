@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: funmitra.com:8080
-# Generated: 2025-12-15 07:06:12
+# Generated: 2025-12-16 07:06:37
 # Expires: 2026-03-01
 # Family Safe Edition
 # ==============================================
@@ -3829,7 +3829,7 @@ http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11231.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Eski Diziler",(TR-) Bereketli Topraklar
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11284.mp4
 
-# --- Movies | (S|TR) Yabanci Diziler (1007) ---
+# --- Movies | (S|TR) Yabanci Diziler (1008) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Mars
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/313.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) 1983
@@ -5844,6 +5844,8 @@ http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11523.mp4
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11534.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) City Of Shadows
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11539.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) The Hunting Wives
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11551.mp4
 
 # --- Movies | (S|TR) Yerli Diziler (397) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Hakan: Muhafız
@@ -18125,9 +18127,17 @@ http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/635442.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/dh8mS9Zzhplmr0Q80BKw0dibZUS_big.jpg" group-title="Movies | (V|DE) Filme - 2024",(DE-) The Break-Up Club - 2024
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/634880.mp4
 
-# --- Movies | (V|DE) Filme - 2025 (450) ---
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/n6ROqQ3AcNe5XLUMIDoj1lOQXXq_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Silent Night, Deadly Night - 2025
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/649318.mp4
+# --- Movies | (V|DE) Filme - 2025 (454) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/2JYSb2qiOSkAdCuIRmXRWBecAAr_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) The Best You Can - 2025
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/649470.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/2HvVlaPGkM5TU1qbquRxTCf2THI_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Das Kanu Des Manitu - 2025
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/649469.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/n6ROqQ3AcNe5XLUMIDoj1lOQXXq_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-)  Silent Night, Deadly Night - 2025
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/649466.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/nQQoQ4JxJvGTUzrJ8anugNF3kbB_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Weihnachten Der Tiere - 2024
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/649465.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/k8cwwFfOmwf2Z5shWBSfp6QesHb_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) The End - 2025
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/649464.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/xDPdWbOOhgCSeMgdv1v71QY7HJb_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Wake Up Dead Man: A Knives Out Mystery - 2025
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/649234.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/pvchnSWODuH4ON3HM9hMIH8Fqxo_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) The Running Man - 2025
@@ -22149,7 +22159,15 @@ http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/275545.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/o3dRENAwLg8Gs8oGPh8gLO5MHWB.jpg" group-title="Movies | (V|TR) Belgeseller",(TR-) Anafartalar - 2019
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/275553.mkv
 
-# --- Movies | (V|TR) Dizi Son Bölümleri (280) ---
+# --- Movies | (V|TR) Dizi Son Bölümleri (284) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jJ7kZ2KK8VlXCeFRluqSuFzbL3z.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Teskilat (Bolum 161)
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/649510.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/zgVgcthDQ8pYgBkKzi1AaXmmeFO_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Sahtekarlar (Bolum 10)
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/649509.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zCdzrmQL1GKy7bsj2gh5t3wxHS6.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kod Adi Kirlangic (Bolum 67)
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/649508.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/Adjn7rsb1picDMUcYNjEDobhvAk.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Bahar (Bolum 62)
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/649507.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/3Qwhs7xxf9LILllWLnxbSaCBNDf_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Güller Ve Günahlar (Bolum 10)
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/649329.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/lZL5RSSgLSewP0pi8rK4znb9FYZ.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Gönül Dagi (Bolum 197)
@@ -32339,4 +32357,4 @@ http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/583470.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Unknown",(DE-) Anaon:  Hüter Der Nacht
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/10625.mp4
 
-# Total: 16122
+# Total: 16131

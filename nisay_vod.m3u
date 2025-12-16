@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nisay.xyz:8080
-# Generated: 2025-12-15 18:31:36
+# Generated: 2025-12-16 07:16:31
 # Expires: 2026-10-04
 # Family Safe Edition
 # ==============================================
@@ -12563,7 +12563,11 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/139884.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5y0hFRhfx34Be04B7GGqg5TMTM0.jpg" group-title="Movies | DE: FILME 2024",DE: City Hunter (2024)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/139885.mp4
 
-# --- Movies | DE: FILME 2025 (351) ---
+# --- Movies | DE: FILME 2025 (353) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2HvVlaPGkM5TU1qbquRxTCf2THI.jpg" group-title="Movies | DE: FILME 2025",DE: Das Kanu des Manitu (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159315.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2JYSb2qiOSkAdCuIRmXRWBecAAr.jpg" group-title="Movies | DE: FILME 2025",DE: The Best You Can (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159316.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIeHhOqCQysfed98TKjZhRWRc7x.jpg" group-title="Movies | DE: FILME 2025",DE: Wake Up Dead Man: A Knives Out Mystery (2025)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159291.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rjazrpUyHBzSzEcVlvuhOQ6D2pL.jpg" group-title="Movies | DE: FILME 2025",DE: Prange - Man ist ja Nachbar (2025)
@@ -19173,7 +19177,7 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/103815.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tFiA48c0pqDAv34r9TB4OVGntZz.jpg" group-title="Movies | WESTERN FILM",Jeremiah Johnson 1972
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/105193.mkv
 
-# --- Series | DE: KINDER SERIES (32) ---
+# --- Series | DE: KINDER SERIES (33) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | DE: KINDER SERIES",DE: Star Wars: Geschichten der Jedi
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/517
 #EXTINF:-1 tvg-logo="" group-title="Series | DE: KINDER SERIES",DE: Invincible
@@ -19238,6 +19242,8 @@ http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1663
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1679
 #EXTINF:-1 tvg-logo="" group-title="Series | DE: KINDER SERIES",DE: Die Gangster Gang: Aller Anfang ist böse
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1760
+#EXTINF:-1 tvg-logo="" group-title="Series | DE: KINDER SERIES",DE: Tomb Raider: The Legend of Lara Croft
+http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1831
 
 # --- Series | GERMANY SERIES (131) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | GERMANY SERIES",DE: Westworld
@@ -19705,4 +19711,4 @@ http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1503
 #EXTINF:-1 tvg-logo="" group-title="Series | TR ALTYAZI SERIES",Pluribus
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1803
 
-# Total: 9785
+# Total: 9788

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tkosportz.live:25461
-# Generated: 2025-12-15 18:30:40
+# Generated: 2025-12-16 07:05:41
 # Expires: 2026-01-06
 # Family Safe Edition
 # ==============================================
@@ -22545,9 +22545,17 @@ http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/99277.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2025/10/nbatvHD.png" group-title="27.1 NBA TEAM FEEDS",01. NBA TV
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/208214.m3u8
 
-# --- 28. NHL (1) ---
+# --- 28. NHL (5) ---
 #EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/7efeeaa72cfe67ba4c96433c437250cb.png" group-title="28. NHL",1. US : NHL NETWORK
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/99197.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="28. NHL",NHL 01 | Florida Panthers @ Tampa Bay Lightning | 7 PM ET | 12.15
+http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/218200.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="28. NHL",NHL 02 | Anaheim Ducks @ New York Rangers | 7 PM ET | 12.15
+http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/218201.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="28. NHL",NHL 03 | Ottawa Senators @ Winnipeg Jets | 7.30 PM ET | 12.15
+http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/218202.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="28. NHL",NHL 05 | Los Angeles Kings @ Dallas Stars  | 8 PM ET | 12.15
+http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/218204.m3u8
 
 # --- 29. MLB TEAM FEEDS (31) ---
 #EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/5d45e165ca38cb86952dd8ca8a86e4ce.png" group-title="29. MLB TEAM FEEDS",US : MLB ARIZONA DIAMONDBACKS
@@ -23657,4 +23665,4 @@ http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/191009.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Red_Noticias2019.png/revision/latest/scale-to-width-down/274?cb=20210424015309&path-prefix=es" group-title="37. COLUMBIA",CO: Red+ Noticias FHD
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/191010.m3u8
 
-# Total: 11794
+# Total: 11798

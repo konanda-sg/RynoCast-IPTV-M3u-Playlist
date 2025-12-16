@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: play.tecnomolly.com:8080
-# Generated: 2025-12-15 18:33:18
+# Generated: 2025-12-16 07:10:03
 # Expires: 2026-07-14
 # Family Safe Edition
 # ==============================================
@@ -961,27 +961,9 @@ http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/393607.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/999207042198880256/UHyziQ06_400x400.jpg" group-title="Musica",Mx | Mtv Club
 http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/436025.m3u8
 
-# --- NBA 14/12/25 (presiona boton update) (9) ---
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/25/de/21/25de21fc90070ec3bcbe776a8203bb3d.jpg" group-title="NBA 14/12/25 (presiona boton update)",NBA Tv
+# --- NBA 15/12/25 (presiona boton update) (6) ---
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/25/de/21/25de21fc90070ec3bcbe776a8203bb3d.jpg" group-title="NBA 15/12/25 (presiona boton update)",NBA Tv
 http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/496768.m3u8
-#EXTINF:-1 tvg-logo="https://blog.logomyway.com/wp-content/uploads/2017/01/nba-logo-design.jpg" group-title="NBA 14/12/25 (presiona boton update)",14:00 Wizards vs Pacers
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/512082.m3u8
-#EXTINF:-1 tvg-logo="https://blog.logomyway.com/wp-content/uploads/2017/01/nba-logo-design.jpg" group-title="NBA 14/12/25 (presiona boton update)",14:30 Hornets vs Cavs
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/512084.m3u8
-#EXTINF:-1 tvg-logo="https://blog.logomyway.com/wp-content/uploads/2017/01/nba-logo-design.jpg" group-title="NBA 14/12/25 (presiona boton update)",17:00 76ers vs Hawks
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/512091.m3u8
-#EXTINF:-1 tvg-logo="https://blog.logomyway.com/wp-content/uploads/2017/01/nba-logo-design.jpg" group-title="NBA 14/12/25 (presiona boton update)",17:00 Bucks vs Nets
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/512097.m3u8
-#EXTINF:-1 tvg-logo="https://blog.logomyway.com/wp-content/uploads/2017/01/nba-logo-design.jpg" group-title="NBA 14/12/25 (presiona boton update)",18:00 Kings vs Timberwolves
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/512101.m3u8
-#EXTINF:-1 tvg-logo="https://blog.logomyway.com/wp-content/uploads/2017/01/nba-logo-design.jpg" group-title="NBA 14/12/25 (presiona boton update)",18:00 Pelicans vs Bulls
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/512106.m3u8
-#EXTINF:-1 tvg-logo="https://blog.logomyway.com/wp-content/uploads/2017/01/nba-logo-design.jpg" group-title="NBA 14/12/25 (presiona boton update)",17:00 Lakers vs Suns
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/512109.m3u8
-#EXTINF:-1 tvg-logo="https://blog.logomyway.com/wp-content/uploads/2017/01/nba-logo-design.jpg" group-title="NBA 14/12/25 (presiona boton update)",20:00 Warriors vs Trail Blazers
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/512115.m3u8
-
-# --- NBA 15/12/25 (presiona boton update) (5) ---
 #EXTINF:-1 tvg-logo="https://blog.logomyway.com/wp-content/uploads/2017/01/nba-logo-design.jpg" group-title="NBA 15/12/25 (presiona boton update)",18:00 Pistons vs Celtics
 http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/512121.m3u8
 #EXTINF:-1 tvg-logo="https://blog.logomyway.com/wp-content/uploads/2017/01/nba-logo-design.jpg" group-title="NBA 15/12/25 (presiona boton update)",18:30 Raptors vs Heat
@@ -993,41 +975,9 @@ http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/512135.m3u8
 #EXTINF:-1 tvg-logo="https://blog.logomyway.com/wp-content/uploads/2017/01/nba-logo-design.jpg" group-title="NBA 15/12/25 (presiona boton update)",21:30 Grizzlies vs Clippers
 http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/512139.m3u8
 
-# --- NFL 14/12/25 (presiona boton update) (16) ---
-#EXTINF:-1 tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2023/02/nfl-network_NFL-graphics.jpg" group-title="NFL 14/12/25 (presiona boton update)",NFL Network
+# --- NFL 15/12/25 (presiona boton update) (2) ---
+#EXTINF:-1 tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2023/02/nfl-network_NFL-graphics.jpg" group-title="NFL 15/12/25 (presiona boton update)",NFL Network
 http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/485323.m3u8
-#EXTINF:-1 tvg-logo="https://images.daznservices.com/di/library/DAZN_News/50/9f/nfl-redzone_1rcm5ouf9516w1axll1bpmx637.png?t=860992668" group-title="NFL 14/12/25 (presiona boton update)",NFL Red Zone Week 15
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/512143.m3u8
-#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/sports/football/nfl/events/401772930.png?templateId=espn.com.share.1" group-title="NFL 14/12/25 (presiona boton update)",12:00 Ravens vs Bengals
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/512145.m3u8
-#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/sports/football/nfl/events/401772906.png?templateId=espn.com.share.1" group-title="NFL 14/12/25 (presiona boton update)",12:00 Raiders vs Eagles
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/512146.m3u8
-#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/sports/football/nfl/events/401772903.png?templateId=espn.com.share.1" group-title="NFL 14/12/25 (presiona boton update)",12:00 Cardinals vs Texans
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/512147.m3u8
-#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/sports/football/nfl/events/401772714.png?templateId=espn.com.share.1" group-title="NFL 14/12/25 (presiona boton update)",12:00 Chargers vs Chiefs
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/512148.m3u8
-#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/sports/football/nfl/events/401772922.png?templateId=espn.com.share.1" group-title="NFL 14/12/25 (presiona boton update)",12:00 Bills vs Patriots
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/512149.m3u8
-#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/sports/football/nfl/events/401671706.png?templateId=espn.com.share.1" group-title="NFL 14/12/25 (presiona boton update)",12:00 Jets vs Jaguars
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/512150.m3u8
-#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/sports/football/nfl/events/401671711.png?templateId=espn.com.share.1" group-title="NFL 14/12/25 (presiona boton update)",12:00 Commanders vs Giants
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/512151.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDanHHdfY0R6P0K0X85tayUG71E651uPzzTg&s" group-title="NFL 14/12/25 (presiona boton update)",12:00 Browns vs Bears
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/512152.m3u8
-#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/sports/football/nfl/events/401772908.png?templateId=espn.com.share.1" group-title="NFL 14/12/25 (presiona boton update)",15:25 Panthers vs Saints
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/512153.m3u8
-#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/sports/football/nfl/events/401772909.png?templateId=espn.com.share.1" group-title="NFL 14/12/25 (presiona boton update)",15:25 Lions vs Rams
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/512154.m3u8
-#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/sports/football/nfl/events/401772799.png?templateId=espn.com.share.1" group-title="NFL 14/12/25 (presiona boton update)",15:25 Colts vs Seahawks
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/512155.m3u8
-#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/sports/football/nfl/events/401772800.png?templateId=espn.com.share.1" group-title="NFL 14/12/25 (presiona boton update)",15:25 Packers vs Broncos
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/512156.m3u8
-#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/sports/football/nfl/events/401772907.png?templateId=espn.com.share.1" group-title="NFL 14/12/25 (presiona boton update)",15:25 Titans vs 49ers
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/512157.m3u8
-#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/sports/football/nfl/events/401772933.png?templateId=espn.com.share.1" group-title="NFL 14/12/25 (presiona boton update)",19:20 Vikings vs Cowboys
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/512158.m3u8
-
-# --- NFL 15/12/25 (presiona boton update) (1) ---
 #EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/sports/football/nfl/events/401772823.png?templateId=espn.com.share.1" group-title="NFL 15/12/25 (presiona boton update)",19:15 Dolphins vs Steelers
 http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/512159.m3u8
 
@@ -1259,9 +1209,11 @@ http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/340635.m3u8
 #EXTINF:-1 tvg-logo="http://sunset-app.com/picons/noticias/rainews24.jpg" group-title="Noticias",Mx | Rai news 24
 http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/446283.m3u8
 
-# --- PAY PER VIEW - SUNSET EXCLUSIVE (1) ---
+# --- PAY PER VIEW - SUNSET EXCLUSIVE (2) ---
 #EXTINF:-1 tvg-logo="https://www.grantthornton.com/_jcr_content/root/main-par/section_639337394/section-par/grid_container/grid/section_copy/section-par/image_v2/mobileImage.coreimg.png/1765186173367/gt-invitational-image-with-logo-600x500.png" group-title="PAY PER VIEW - SUNSET EXCLUSIVE",12:00 Ronda Final Grand Thornton
 http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/512171.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/raw.jpg" group-title="PAY PER VIEW - SUNSET EXCLUSIVE",19:00 Raw
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/512416.m3u8
 
 # --- Panama (7) ---
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvFRyWkH/rpc.jpg" group-title="Panama",PA | RCP TV
@@ -1783,4 +1735,4 @@ http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/279047.m3u8
 #EXTINF:-1 tvg-logo="http://valetv.info/wp-content/uploads/2019/10/LOGO-VALE-TV-1.jpg" group-title="Venezuela",VE | Vale tv
 http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/279058.m3u8
 
-# Total: 832
+# Total: 810

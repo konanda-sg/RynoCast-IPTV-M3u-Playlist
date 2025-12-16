@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2025-12-15 18:32:30
+# Generated: 2025-12-16 07:07:25
 # Expires: 2025-12-20
 # Family Safe Edition
 # ==============================================
@@ -9677,7 +9677,7 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1606.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ AMAZON PRIME",Gen V (2023)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1612.mp4
 
-# --- Movies | DE/SERIE ~ ANIMATION (12) ---
+# --- Movies | DE/SERIE ~ ANIMATION (14) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ ANIMATION",The Boys - Diabolical (2022)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/740.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ ANIMATION",Arcane (2021)
@@ -9700,6 +9700,10 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1540.mp4
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1796.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ ANIMATION",DE: Star Wars: Die Abenteuer der jungen Jedi (2023)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1844.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ ANIMATION",DE: Rubble & Crew (2023)
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1849.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ ANIMATION",DE: Action Pack (2022)
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1850.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ ANIMATION",100 Prozent Wolf - Die Legende des Mondsteins (2020)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1541.mp4
 
@@ -12144,9 +12148,9 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/60873.mkv
 # --- Movies | TR/DIZI ~ PAZARTESI (3) ---
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/82/322/png-clipart-flag-of-turkey-national-flag-yukselen-bayrak-turk-bayra%C4%9F%C4%B1-100x150-flag-miscellaneous-flag.png" group-title="Movies | TR/DIZI ~ PAZARTESI",*****TURK DIZI*****
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/4968.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/b6QGAQBiAWXVPQvc9um8o9Q90jY.jpg" group-title="Movies | TR/DIZI ~ PAZARTESI",PAZT: Cennetin Cocuklari 13.Bölüm (YENI DIZI)
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/b6QGAQBiAWXVPQvc9um8o9Q90jY.jpg" group-title="Movies | TR/DIZI ~ PAZARTESI",PAZT: Cennetin Cocuklari 14.Bölüm (YENI DIZI)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/39132.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/E8tR39iX2XNZdqeDA5REFDquU6.jpg" group-title="Movies | TR/DIZI ~ PAZARTESI",PAZT: Uzak Sehir 41.Bölüm (YENI SEZON)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/E8tR39iX2XNZdqeDA5REFDquU6.jpg" group-title="Movies | TR/DIZI ~ PAZARTESI",PAZT: Uzak Sehir 42.Bölüm (YENI SEZON)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/376.mkv
 
 # --- Movies | TR/DIZI ~ PERSEMBE (2) ---
@@ -20137,4 +20141,4 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/63372.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8EQllq34VC5mooiJw1vVFOlM4x.jpg" group-title="Movies | TR/FILM ~ YILBASI ÖZEL",O Ses Türkiye  Yilbasi Özel 2025
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/54778.mp4
 
-# Total: 9928
+# Total: 9930

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: cinefull.space:80
-# Generated: 2025-12-15 18:31:24
+# Generated: 2025-12-16 07:04:36
 # Expires: 2026-05-07
 # Family Safe Edition
 # ==============================================
@@ -26167,7 +26167,7 @@ http://cinefull.space:80/series/148419948/828744451/2240
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | AMC Plus",This Is Going to Hurt (2022)
 http://cinefull.space:80/series/148419948/828744451/2384
 
-# --- Series | Series | Amazon Prime Video (731) ---
+# --- Series | Series | Amazon Prime Video (732) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",Absentia (2017)
 http://cinefull.space:80/series/148419948/828744451/4
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",American Horror Story (2011)
@@ -27630,6 +27630,8 @@ http://cinefull.space:80/series/148419948/828744451/8068
 http://cinefull.space:80/series/148419948/828744451/8070
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",Film Club (2025)
 http://cinefull.space:80/series/148419948/828744451/8072
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",A Ex mulher (2022)
+http://cinefull.space:80/series/148419948/828744451/8080
 
 # --- Series | Series | Apple TV Plus (242) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Apple TV Plus",Motel Bates (2013)
@@ -32415,7 +32417,7 @@ http://cinefull.space:80/series/148419948/828744451/8043
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Globoplay",O Natal dos Silva (2025)
 http://cinefull.space:80/series/148419948/828744451/8077
 
-# --- Series | Series | Legendadas (1361) ---
+# --- Series | Series | Legendadas (1365) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Cobra Kai [L] (2018)
 http://cinefull.space:80/series/148419948/828744451/30
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Krypton [L] (2018)
@@ -35138,6 +35140,14 @@ http://cinefull.space:80/series/148419948/828744451/8055
 http://cinefull.space:80/series/148419948/828744451/8058
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",The Boys [L] (2019)
 http://cinefull.space:80/series/148419948/828744451/8059
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Como Defender um Assassino [L] (2014)
+http://cinefull.space:80/series/148419948/828744451/8081
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",O Estudio [L] (2025)
+http://cinefull.space:80/series/148419948/828744451/8082
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Pluribus [L] (2025)
+http://cinefull.space:80/series/148419948/828744451/8083
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",The Morning Show [L] (2019)
+http://cinefull.space:80/series/148419948/828744451/8084
 
 # --- Series | Series | Lionsgate (7) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Lionsgate",Da Vinci's Demons (2013)
@@ -36193,7 +36203,7 @@ http://cinefull.space:80/series/148419948/828744451/8019
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Max",As Meninas Superpoderosas (1998) (1998)
 http://cinefull.space:80/series/148419948/828744451/8036
 
-# --- Series | Series | Netflix (1501) ---
+# --- Series | Series | Netflix (1502) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",A Bíblia (2021)
 http://cinefull.space:80/series/148419948/828744451/3
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Altered Carbon (2018)
@@ -39196,6 +39206,8 @@ http://cinefull.space:80/series/148419948/828744451/8075
 http://cinefull.space:80/series/148419948/828744451/8076
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Simon Cowell O Proximo Sucesso (2025)
 http://cinefull.space:80/series/148419948/828744451/8079
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Cidade de Sombras (2025)
+http://cinefull.space:80/series/148419948/828744451/8085
 
 # --- Series | Series | Outras Produtoras (743) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Outras Produtoras",3 Palavrinhas (2013)
@@ -41507,4 +41519,4 @@ http://cinefull.space:80/series/148419948/828744451/7441
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Univer",O Senhor e a Serva (2025)
 http://cinefull.space:80/series/148419948/828744451/7704
 
-# Total: 20706
+# Total: 20712

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: dk.2665.ninja:8080
-# Generated: 2025-12-15 07:08:40
+# Generated: 2025-12-16 07:16:56
 # Expires: 2026-02-28
 # Family Safe Edition
 # ==============================================
@@ -14583,9 +14583,17 @@ http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/635442.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/dh8mS9Zzhplmr0Q80BKw0dibZUS_big.jpg" group-title="Movies | (V|DE) Filme - 2024",(DE-) The Break-Up Club - 2024
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/634880.mp4
 
-# --- Movies | (V|DE) Filme - 2025 (450) ---
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/n6ROqQ3AcNe5XLUMIDoj1lOQXXq_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Silent Night, Deadly Night - 2025
-http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/649318.mp4
+# --- Movies | (V|DE) Filme - 2025 (454) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/2JYSb2qiOSkAdCuIRmXRWBecAAr_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) The Best You Can - 2025
+http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/649470.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/2HvVlaPGkM5TU1qbquRxTCf2THI_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Das Kanu Des Manitu - 2025
+http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/649469.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/n6ROqQ3AcNe5XLUMIDoj1lOQXXq_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-)  Silent Night, Deadly Night - 2025
+http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/649466.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/nQQoQ4JxJvGTUzrJ8anugNF3kbB_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Weihnachten Der Tiere - 2024
+http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/649465.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/k8cwwFfOmwf2Z5shWBSfp6QesHb_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) The End - 2025
+http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/649464.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/xDPdWbOOhgCSeMgdv1v71QY7HJb_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Wake Up Dead Man: A Knives Out Mystery - 2025
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/649234.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/pvchnSWODuH4ON3HM9hMIH8Fqxo_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) The Running Man - 2025
@@ -16189,4 +16197,4 @@ http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/248353.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Unknown",(DE-) Anaon:  Hüter Der Nacht
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/10625.mp4
 
-# Total: 8075
+# Total: 8079

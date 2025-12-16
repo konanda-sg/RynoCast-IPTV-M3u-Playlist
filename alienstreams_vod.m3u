@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alienstreams.fi:8080
-# Generated: 2025-12-15 18:30:04
+# Generated: 2025-12-16 07:04:30
 # Expires: 2026-04-03
 # Family Safe Edition
 # ==============================================
@@ -1917,7 +1917,7 @@ http://alienstreams.fi:8080/movie/karekare/karekare/489807.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg" group-title="Movies | Action [VOD]",The Running Man
 http://alienstreams.fi:8080/movie/karekare/karekare/489971.mkv
 
-# --- Movies | Adventure [VOD] (269) ---
+# --- Movies | Adventure [VOD] (266) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZ1ft0QZ4e3zDUPMBftEkwI9ftd.jpg" group-title="Movies | Adventure [VOD]",Pocahontas
 http://alienstreams.fi:8080/movie/karekare/karekare/329457.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNDVBFNz4XyYzM9Lwip6atSTFqf.jpg" group-title="Movies | Adventure [VOD]",Crouching Tiger, Hidden Dragon
@@ -2196,12 +2196,6 @@ http://alienstreams.fi:8080/movie/karekare/karekare/382513.mkv
 http://alienstreams.fi:8080/movie/karekare/karekare/382864.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWJC8om086h01f0CMGR9ombdpnI.jpg" group-title="Movies | Adventure [VOD]",The NeverEnding Story
 http://alienstreams.fi:8080/movie/karekare/karekare/382881.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pP27zlm9yeKrCeDZLFLP2HKELot.jpg" group-title="Movies | Adventure [VOD]",The Chronicles of Narnia: The Voyage of the Dawn Treader
-http://alienstreams.fi:8080/movie/karekare/karekare/382978.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg" group-title="Movies | Adventure [VOD]",The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
-http://alienstreams.fi:8080/movie/karekare/karekare/382980.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qxz3WIyjZiSKUhaTIEJ3c1GcC9z.jpg" group-title="Movies | Adventure [VOD]",The Chronicles of Narnia: Prince Caspian
-http://alienstreams.fi:8080/movie/karekare/karekare/382979.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lurEK87kukWNaHd0zYnsi3yzJrs.jpg" group-title="Movies | Adventure [VOD]",Mufasa: The Lion King (Sv.Tal)
 http://alienstreams.fi:8080/movie/karekare/karekare/382982.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tY6ypjKOOtujhxiSwTmvA4OZ5IE.jpg" group-title="Movies | Adventure [VOD]",The Secret Life of Walter Mitty
@@ -2457,7 +2451,7 @@ http://alienstreams.fi:8080/movie/karekare/karekare/488643.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/9YDKLbBmWGpxG5bO3TBawtNNOAr.jpg" group-title="Movies | Adventure [VOD]",Who Am I? (1998)
 http://alienstreams.fi:8080/movie/karekare/karekare/488980.mkv
 
-# --- Movies | Animation [VOD] (228) ---
+# --- Movies | Animation [VOD] (225) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r27iDZNaoyLJyKlD8eNchRtvq8C.jpg" group-title="Movies | Animation [VOD]",Resident Evil: Vendetta
 http://alienstreams.fi:8080/movie/karekare/karekare/328096.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wBT40NqmBz65WYmIGhDnWcgzPcA.jpg" group-title="Movies | Animation [VOD]",Arthur 3: The War of the Two Worlds
@@ -2560,8 +2554,6 @@ http://alienstreams.fi:8080/movie/karekare/karekare/335496.mkv
 http://alienstreams.fi:8080/movie/karekare/karekare/335649.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zR6C66EDklgTPLHRSmmMt5878MR.jpg" group-title="Movies | Animation [VOD]",Justice League: Crisis on Infinite Earths Part One
 http://alienstreams.fi:8080/movie/karekare/karekare/335627.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qxtpbcbf6KEIHzLetWZOVGJT2lv.jpg" group-title="Movies | Animation [VOD]",Beauty and the Beast: The Enchanted Christmas
-http://alienstreams.fi:8080/movie/karekare/karekare/335522.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zZTlF2eVVUkbdmccd3bNUU9T9sD.jpg" group-title="Movies | Animation [VOD]",Sing
 http://alienstreams.fi:8080/movie/karekare/karekare/335657.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYubl9T67KKgggQUawHs0xYMWEU.jpg" group-title="Movies | Animation [VOD]",Under the Boardwalk
@@ -2694,8 +2686,6 @@ http://alienstreams.fi:8080/movie/karekare/karekare/338180.mkv
 http://alienstreams.fi:8080/movie/karekare/karekare/338175.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fHMqfsYyl3lskPK2RiFRwhzwuep.jpg" group-title="Movies | Animation [VOD]",Strange World
 http://alienstreams.fi:8080/movie/karekare/karekare/338236.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t41VHjYItCYHBh2hijsTID44cNv.jpg" group-title="Movies | Animation [VOD]",A Christmas Carol
-http://alienstreams.fi:8080/movie/karekare/karekare/338326.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg" group-title="Movies | Animation [VOD]",Elemental
 http://alienstreams.fi:8080/movie/karekare/karekare/340105.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vn7sNO6CD8FBHBEVcOiNv08mjy1.jpg" group-title="Movies | Animation [VOD]",Bigfoot Family
@@ -2890,8 +2880,6 @@ http://alienstreams.fi:8080/movie/karekare/karekare/475568.mkv
 http://alienstreams.fi:8080/movie/karekare/karekare/475570.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/bT2qcTXVNUbeIMjbggB14Wyymgi.jpg" group-title="Movies | Animation [VOD]",Mononoke the Movie: Chapter II - The Ashes of Rage
 http://alienstreams.fi:8080/movie/karekare/karekare/475571.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/1gjT65lS29BbclJlmGvtwnT7hya.jpg" group-title="Movies | Animation [VOD]",The Smurfs: A Christmas Carol (2011)
-http://alienstreams.fi:8080/movie/karekare/karekare/475608.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/5W46jEHM0qDIWoH0iy03dPZOtIK.jpg" group-title="Movies | Animation [VOD]",Elio
 http://alienstreams.fi:8080/movie/karekare/karekare/475776.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/26oSPnq0ct59l07QOXZKyzsiRtN.jpg" group-title="Movies | Animation [VOD]",The Bad Guys 2
@@ -3067,7 +3055,7 @@ http://alienstreams.fi:8080/movie/karekare/karekare/366834.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/yake2myhbW7c6dKbmwYDy1i40bm.jpg" group-title="Movies | Christmas Horror [VOD]",The Lodge
 http://alienstreams.fi:8080/movie/karekare/karekare/366835.mkv
 
-# --- Movies | Comedy [VOD] (923) ---
+# --- Movies | Comedy [VOD] (912) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iLkefl9aLo29ALVBbViRVyLo3WF.jpg" group-title="Movies | Comedy [VOD]",The Good Half
 http://alienstreams.fi:8080/movie/karekare/karekare/328089.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/irEqWPmDqCuzsItzefFxX3xWpL8.jpg" group-title="Movies | Comedy [VOD]",My Big Fat Greek Wedding 3
@@ -3346,8 +3334,6 @@ http://alienstreams.fi:8080/movie/karekare/karekare/335582.mkv
 http://alienstreams.fi:8080/movie/karekare/karekare/335561.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQpJbMzfmzwb14MiUVC991LEyTV.jpg" group-title="Movies | Comedy [VOD]",Bill Burr: Walk Your Way Out
 http://alienstreams.fi:8080/movie/karekare/karekare/335497.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5QeoDiiIFY9VF87Rm79WpCFZbwf.jpg" group-title="Movies | Comedy [VOD]",A Christmas Story Christmas
-http://alienstreams.fi:8080/movie/karekare/karekare/335481.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r6tDFLtLzlzkm27OOOsdjlK58wD.jpg" group-title="Movies | Comedy [VOD]",A Night at the Kindergarten
 http://alienstreams.fi:8080/movie/karekare/karekare/335491.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ku1UvTWYvhFQbSesOD6zteY7bXT.jpg" group-title="Movies | Comedy [VOD]",Bo Burnham: Inside
@@ -3374,8 +3360,6 @@ http://alienstreams.fi:8080/movie/karekare/karekare/335692.mkv
 http://alienstreams.fi:8080/movie/karekare/karekare/335713.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7jRrTQInT31hO81ATDuL3TNDOE9.jpg" group-title="Movies | Comedy [VOD]",Friday Night Plan
 http://alienstreams.fi:8080/movie/karekare/karekare/335693.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Vivy2G7Kx8duhN35eUG74B8JXK.jpg" group-title="Movies | Comedy [VOD]",Christmas Is Canceled
-http://alienstreams.fi:8080/movie/karekare/karekare/335712.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/liosTyTUf0ObasR2HLTOrHQlzth.jpg" group-title="Movies | Comedy [VOD]",Phenomena
 http://alienstreams.fi:8080/movie/karekare/karekare/335724.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kD35dB3KOHrLo1Y3RU5xXJ1hI7.jpg" group-title="Movies | Comedy [VOD]",Zom 100: Bucket List of the Dead
@@ -3436,8 +3420,6 @@ http://alienstreams.fi:8080/movie/karekare/karekare/336602.mkv
 http://alienstreams.fi:8080/movie/karekare/karekare/336604.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4K7gQjD19CDEPd7A9KZwr2D9Nco.jpg" group-title="Movies | Comedy [VOD]",No Hard Feelings
 http://alienstreams.fi:8080/movie/karekare/karekare/336633.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhW480dt2LCJH0PcoDeFkw4nFnh.jpg" group-title="Movies | Comedy [VOD]",Christmas Bedtime Stories
-http://alienstreams.fi:8080/movie/karekare/karekare/336607.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOznYqIAxPT1JnHy3Qy0M9HhdxQ.jpg" group-title="Movies | Comedy [VOD]",Buba
 http://alienstreams.fi:8080/movie/karekare/karekare/336774.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/heHmq8R7M5B8KZTksteu9PXlx4U.jpg" group-title="Movies | Comedy [VOD]",Down Low
@@ -3512,8 +3494,6 @@ http://alienstreams.fi:8080/movie/karekare/karekare/337295.mkv
 http://alienstreams.fi:8080/movie/karekare/karekare/337215.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8CpMgdyihz9Td7amQDqubPuzfN.jpg" group-title="Movies | Comedy [VOD]",Violent Night
 http://alienstreams.fi:8080/movie/karekare/karekare/337239.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WKIDanEhGkaEmoEoxntk1YBcqj.jpg" group-title="Movies | Comedy [VOD]",Christmas in Paradise
-http://alienstreams.fi:8080/movie/karekare/karekare/337258.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vj649F5QB3OQbTKqpMX3UiCkp5q.jpg" group-title="Movies | Comedy [VOD]",Maybe I Do
 http://alienstreams.fi:8080/movie/karekare/karekare/337293.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hCdsU5xEW1ZKoheTonRZQABrCMF.jpg" group-title="Movies | Comedy [VOD]",Alex Borstein: Corsets & Clown Suits
@@ -3736,8 +3716,6 @@ http://alienstreams.fi:8080/movie/karekare/karekare/345584.mkv
 http://alienstreams.fi:8080/movie/karekare/karekare/345902.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLInRxGU9kp1o2djoS2xK75Ilmk.jpg" group-title="Movies | Comedy [VOD]",Arthur's Whisky
 http://alienstreams.fi:8080/movie/karekare/karekare/347207.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nF0Ya225sdZr5ytdOPuhzxirbBm.jpg" group-title="Movies | Comedy [VOD]",National Lampoon's Christmas Vacation
-http://alienstreams.fi:8080/movie/karekare/karekare/347209.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yCeabh22fxbiKPhiyWLWYpoRaiA.jpg" group-title="Movies | Comedy [VOD]",Rocky VI
 http://alienstreams.fi:8080/movie/karekare/karekare/347804.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tlzx1Ghh9A399vE6ljKf5DRitlg.jpg" group-title="Movies | Comedy [VOD]",Are You There God? It's Me, Margaret.
@@ -3852,8 +3830,6 @@ http://alienstreams.fi:8080/movie/karekare/karekare/373074.mkv
 http://alienstreams.fi:8080/movie/karekare/karekare/373180.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cPB3ZMM4UdsSAhNdS4c7ps5nypY.jpg" group-title="Movies | Comedy [VOD]",The Terminal
 http://alienstreams.fi:8080/movie/karekare/karekare/373334.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDEjffiKgjuGo2DRzsqfjvW0CQh.jpg" group-title="Movies | Comedy [VOD]",Last Christmas
-http://alienstreams.fi:8080/movie/karekare/karekare/373336.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wt2TRBmFmBn5M5MBcPTwovlREaB.jpg" group-title="Movies | Comedy [VOD]",Lock, Stock and Two Smoking Barrels
 http://alienstreams.fi:8080/movie/karekare/karekare/373402.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yaIPNOcC7ZRuwH3maNwP9qzIo5G.jpg" group-title="Movies | Comedy [VOD]",Bride of Chucky
@@ -3868,8 +3844,6 @@ http://alienstreams.fi:8080/movie/karekare/karekare/373714.mkv
 http://alienstreams.fi:8080/movie/karekare/karekare/373717.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wCXd5tpUSc12LVPd2oN9OKU1EVQ.jpg" group-title="Movies | Comedy [VOD]",Snack Shack
 http://alienstreams.fi:8080/movie/karekare/karekare/373788.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tzNm9lRIXJ6xrIKasRhvV1Nmv2B.jpg" group-title="Movies | Comedy [VOD]",A Bad Moms Christmas
-http://alienstreams.fi:8080/movie/karekare/karekare/374399.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9PaIkUnfOcU1wi5cFbamnmAkjEs.jpg" group-title="Movies | Comedy [VOD]",Bad Moms
 http://alienstreams.fi:8080/movie/karekare/karekare/374398.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yqKKhbaofSHfqHGNYHz9yqSPvYR.jpg" group-title="Movies | Comedy [VOD]",Nutcrackers
@@ -3878,8 +3852,6 @@ http://alienstreams.fi:8080/movie/karekare/karekare/374531.mkv
 http://alienstreams.fi:8080/movie/karekare/karekare/374579.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aHNeKtkNnyQcietzi2cgiYL8sC9.jpg" group-title="Movies | Comedy [VOD]",Spaceballs
 http://alienstreams.fi:8080/movie/karekare/karekare/375311.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5j9MxMx24tPuTSTuWMW1eZP1w1M.jpg" group-title="Movies | Comedy [VOD]",Jack in Time for Christmas
-http://alienstreams.fi:8080/movie/karekare/karekare/375541.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0EsPcoUhQ4YVPk4Kn6vhXTiTGU.jpg" group-title="Movies | Comedy [VOD]",And Mrs
 http://alienstreams.fi:8080/movie/karekare/karekare/375542.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3iCiTqsmJz1mO85AHzTiHNkRmb6.jpg" group-title="Movies | Comedy [VOD]",Talladega Nights: The Ballad of Ricky Bobby
@@ -4446,8 +4418,6 @@ http://alienstreams.fi:8080/movie/karekare/karekare/443828.mkv
 http://alienstreams.fi:8080/movie/karekare/karekare/443827.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/r6tDFLtLzlzkm27OOOsdjlK58wD.jpg" group-title="Movies | Comedy [VOD]",A Night at the Kindergarten (2022)
 http://alienstreams.fi:8080/movie/karekare/karekare/443826.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/5QeoDiiIFY9VF87Rm79WpCFZbwf.jpg" group-title="Movies | Comedy [VOD]",A Christmas Story Christmas (2022)
-http://alienstreams.fi:8080/movie/karekare/karekare/443818.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/tximyCXMEnWIIyOy9STkOduUprG.jpg" group-title="Movies | Comedy [VOD]",Good Boys (2019)
 http://alienstreams.fi:8080/movie/karekare/karekare/443814.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/hsyPTPoFDhUw5aGcj7dxAx3i1Qp.jpg" group-title="Movies | Comedy [VOD]",Dave Chappelle: Sticks & Stones (2019)
@@ -4620,8 +4590,6 @@ http://alienstreams.fi:8080/movie/karekare/karekare/444249.mkv
 http://alienstreams.fi:8080/movie/karekare/karekare/444255.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/pMh1dCw5vhMATmJs0ve0OpoSVED.jpg" group-title="Movies | Comedy [VOD]",Accepted (2006)
 http://alienstreams.fi:8080/movie/karekare/karekare/444258.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/2Vivy2G7Kx8duhN35eUG74B8JXK.jpg" group-title="Movies | Comedy [VOD]",Christmas Is Canceled (2021)
-http://alienstreams.fi:8080/movie/karekare/karekare/444264.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/6PFJrMvoQwBxQITLYHj09VeJ37q.jpg" group-title="Movies | Comedy [VOD]",Free Guy (2021)
 http://alienstreams.fi:8080/movie/karekare/karekare/444266.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/nWBPLkqNApY5pgrJFMiI9joSI30.jpg" group-title="Movies | Comedy [VOD]",Coming 2 America (2021)
@@ -4868,8 +4836,6 @@ http://alienstreams.fi:8080/movie/karekare/karekare/487292.mkv
 http://alienstreams.fi:8080/movie/karekare/karekare/487301.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/98n5HnCJ5LnXKIMNP9SBfVNyxCE.jpg" group-title="Movies | Comedy [VOD]",The Roses
 http://alienstreams.fi:8080/movie/karekare/karekare/487355.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/kGLgaDrYWmTAdRFzGP5pBquRnhO.jpg" group-title="Movies | Comedy [VOD]",A Very Jonas Christmas Movie
-http://alienstreams.fi:8080/movie/karekare/karekare/487360.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/np7ZzU2rmUqqIPQ4HtfcC8JLOvS.jpg" group-title="Movies | Comedy [VOD]",In Your Dreams
 http://alienstreams.fi:8080/movie/karekare/karekare/487361.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/r83HIGA0mUiy7I9qVr17pF7SCDP.jpg" group-title="Movies | Comedy [VOD]",Good Fortune
@@ -4915,7 +4881,7 @@ http://alienstreams.fi:8080/movie/karekare/karekare/489812.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/fJm3kmd9NLZWypMas7g34oNFgbk.jpg" group-title="Movies | Comedy [VOD]",Honey Don't! (2025)
 http://alienstreams.fi:8080/movie/karekare/karekare/489976.mkv
 
-# --- Movies | Crime [VOD] (242) ---
+# --- Movies | Crime [VOD] (240) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6A4WdvbWHJoIN4Y9Q5HXG8R1VYV.jpg" group-title="Movies | Crime [VOD]",Crossing Over
 http://alienstreams.fi:8080/movie/karekare/karekare/328057.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pIz9csYn1yjrzQi0BuBZNJrTMi0.jpg" group-title="Movies | Crime [VOD]",The Instigators
@@ -4976,8 +4942,6 @@ http://alienstreams.fi:8080/movie/karekare/karekare/334858.mkv
 http://alienstreams.fi:8080/movie/karekare/karekare/334907.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aj9jS1dUdqaw5F3qte1DsfbQrL7.jpg" group-title="Movies | Crime [VOD]",The Troubles: A Dublin Story
 http://alienstreams.fi:8080/movie/karekare/karekare/334937.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4GgMfd9wAbnqCSVnT13uFYyFcYJ.jpg" group-title="Movies | Crime [VOD]",A Christmas Mystery
-http://alienstreams.fi:8080/movie/karekare/karekare/335503.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1MIDERaEUMw1rYDM99tGZPY80Ap.jpg" group-title="Movies | Crime [VOD]",Chor Nikal Ke Bhaga
 http://alienstreams.fi:8080/movie/karekare/karekare/335583.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvpr3DsCJ0COoZa9FG7EnKwenz0.jpg" group-title="Movies | Crime [VOD]",Echo Boomers
@@ -5294,8 +5258,6 @@ http://alienstreams.fi:8080/movie/karekare/karekare/443777.mkv
 http://alienstreams.fi:8080/movie/karekare/karekare/443775.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/svqlPJDCaKGSRFDk8a3zp19xjwf.jpg" group-title="Movies | Crime [VOD]",Calm with Horses (2020)
 http://alienstreams.fi:8080/movie/karekare/karekare/443762.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/4GgMfd9wAbnqCSVnT13uFYyFcYJ.jpg" group-title="Movies | Crime [VOD]",A Christmas Mystery (2014)
-http://alienstreams.fi:8080/movie/karekare/karekare/443753.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/rWTr0Or0YvhaH8oageJwVdUlnjC.jpg" group-title="Movies | Crime [VOD]",Drifters (2015)
 http://alienstreams.fi:8080/movie/karekare/karekare/443641.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/rNksI6UiuTgLtBy69WvKT1PrG0R.jpg" group-title="Movies | Crime [VOD]",Death Wish (1974)
@@ -6291,7 +6253,7 @@ http://alienstreams.fi:8080/movie/karekare/karekare/489000.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/9rWoEzxiAoOfvXJg88DmwDVgeIK.jpg" group-title="Movies | Documentaries [VOD]",Min pappa är en clown
 http://alienstreams.fi:8080/movie/karekare/karekare/489969.mp4
 
-# --- Movies | Drama [VOD] (871) ---
+# --- Movies | Drama [VOD] (870) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xc24joXS49iMQR648GwDRKt6fh8.jpg" group-title="Movies | Drama [VOD]",Mitt liv som hund
 http://alienstreams.fi:8080/movie/karekare/karekare/260102.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e0vrbTmTf2ZcW5CIS9qJ8FDbsU9.jpg" group-title="Movies | Drama [VOD]",Luckiest Girl Alive
@@ -6910,8 +6872,6 @@ http://alienstreams.fi:8080/movie/karekare/karekare/371088.mkv
 http://alienstreams.fi:8080/movie/karekare/karekare/371907.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGjIvtVvTlWnia2zfJfHz81pZ9Q.jpg" group-title="Movies | Drama [VOD]",Pride & Prejudice
 http://alienstreams.fi:8080/movie/karekare/karekare/372145.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vOKXkoap7SbchRiDZZcoGI7XJEl.jpg" group-title="Movies | Drama [VOD]",Christmas Eve in Miller’s Point
-http://alienstreams.fi:8080/movie/karekare/karekare/372398.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggf37TpcKaxwguhvtNn6MQpyqBn.jpg" group-title="Movies | Drama [VOD]",The Greatest Beer Run Ever
 http://alienstreams.fi:8080/movie/karekare/karekare/372527.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bhkrj58Vtu7enYsRolD1fZdja1.jpg" group-title="Movies | Drama [VOD]",The Godfather
@@ -8047,7 +8007,7 @@ http://alienstreams.fi:8080/movie/karekare/karekare/377647.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1trQY5Q02a8N4ClCqmTMjRSgHFg.jpg" group-title="Movies | Falk  [VOD]",Johan Falk 13: Ur askan i elden
 http://alienstreams.fi:8080/movie/karekare/karekare/386471.mkv
 
-# --- Movies | Family [VOD] (142) ---
+# --- Movies | Family [VOD] (138) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWR1x6UCMCGN9xEf8RGhPS934X0.jpg" group-title="Movies | Family [VOD]",The Lion King II: Simba's Pride
 http://alienstreams.fi:8080/movie/karekare/karekare/328472.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h4FTjH1Mumr9jhHraeWwuaWme8E.jpg" group-title="Movies | Family [VOD]",Alla vi barn i Bullerbyn
@@ -8138,8 +8098,6 @@ http://alienstreams.fi:8080/movie/karekare/karekare/336657.mkv
 http://alienstreams.fi:8080/movie/karekare/karekare/336729.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/imFLUF2TYkm13GpFYTKYF7T27sP.jpg" group-title="Movies | Family [VOD]",Good Burger
 http://alienstreams.fi:8080/movie/karekare/karekare/336822.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGCwI76dylPViDF9VXFY0ORRhls.jpg" group-title="Movies | Family [VOD]",Christmas on Mistletoe Farm
-http://alienstreams.fi:8080/movie/karekare/karekare/336759.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bTvHlcqiOjGa3lFtbrTLTM3zasY.jpg" group-title="Movies | Family [VOD]",Tarzan
 http://alienstreams.fi:8080/movie/karekare/karekare/336743.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQhFoqby8UYq4uGQXOtV7P8JLBl.jpg" group-title="Movies | Family [VOD]",Alvin and the Chipmunks: The Road Chip
@@ -8182,8 +8140,6 @@ http://alienstreams.fi:8080/movie/karekare/karekare/350373.mkv
 http://alienstreams.fi:8080/movie/karekare/karekare/374337.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aaIlHoinJscLP1FfVy30WbPUEWk.jpg" group-title="Movies | Family [VOD]",The Snow Sister
 http://alienstreams.fi:8080/movie/karekare/karekare/374529.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6XjvhydAlXbQodoWbIf77H0Dd9R.jpg" group-title="Movies | Family [VOD]",The Best Christmas Pageant Ever
-http://alienstreams.fi:8080/movie/karekare/karekare/377269.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRSLCuO2B6owYBtUwGYGqWZCVo6.jpg" group-title="Movies | Family [VOD]",The NeverEnding Story II: The Next Chapter
 http://alienstreams.fi:8080/movie/karekare/karekare/382988.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hz9VF1TfaM0D04pYneSXUkNeOZv.jpg" group-title="Movies | Family [VOD]",Miracles from Heaven
@@ -8272,14 +8228,10 @@ http://alienstreams.fi:8080/movie/karekare/karekare/443895.mkv
 http://alienstreams.fi:8080/movie/karekare/karekare/443871.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/yeW1gOLWauwhFVleLwcW29RHLG2.jpg" group-title="Movies | Family [VOD]",Full Out 2: You Got This! (2020)
 http://alienstreams.fi:8080/movie/karekare/karekare/443839.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/rGCwI76dylPViDF9VXFY0ORRhls.jpg" group-title="Movies | Family [VOD]",Christmas on Mistletoe Farm (2022)
-http://alienstreams.fi:8080/movie/karekare/karekare/443923.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/5OvHpzWXBzOvgZwOoUsqNSouSwy.jpg" group-title="Movies | Family [VOD]",Asterix: The Secret of the Magic Potion (2018)
 http://alienstreams.fi:8080/movie/karekare/karekare/444181.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/3SKAqh6Ya2eVnpH3wPU0uFN30IY.jpg" group-title="Movies | Family [VOD]",Every Other Holiday (2018)
 http://alienstreams.fi:8080/movie/karekare/karekare/444211.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/gNDykr69pEIrh66LMtOqswIpcXI.jpg" group-title="Movies | Family [VOD]",A Christmas Carol (1954)
-http://alienstreams.fi:8080/movie/karekare/karekare/444259.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/7IRy0iHdaS0JI3ng4ZYlk5gLSFn.jpg" group-title="Movies | Family [VOD]",Descendants 3 (2019)
 http://alienstreams.fi:8080/movie/karekare/karekare/444031.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/xWpahhg9ETkiPPsG10RtxecjK0v.jpg" group-title="Movies | Family [VOD]",Beauty and the Beast: A 30th Celebration (2022)
@@ -8443,7 +8395,7 @@ http://alienstreams.fi:8080/movie/karekare/karekare/487296.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | History [VOD]",Hitler's Entourage
 http://alienstreams.fi:8080/movie/karekare/karekare/481997.mp4
 
-# --- Movies | Horror [VOD] (522) ---
+# --- Movies | Horror [VOD] (520) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t7rep7SCqiy4COUsq2cOcdQwzU0.jpg" group-title="Movies | Horror [VOD]",Wishmaster
 http://alienstreams.fi:8080/movie/karekare/karekare/328060.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9u6HEtZJdZDjPGGJq6YEuhPnoan.jpg" group-title="Movies | Horror [VOD]",Imaginary
@@ -8702,8 +8654,6 @@ http://alienstreams.fi:8080/movie/karekare/karekare/338204.mkv
 http://alienstreams.fi:8080/movie/karekare/karekare/338197.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvJSdbruD4e5cUxruoUFUkJrsqt.jpg" group-title="Movies | Horror [VOD]",Creepshow 3
 http://alienstreams.fi:8080/movie/karekare/karekare/338222.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xGB5yVlVxa9bYlSOVaI1AJR7neZ.jpg" group-title="Movies | Horror [VOD]",A Christmas Horror Story
-http://alienstreams.fi:8080/movie/karekare/karekare/338210.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rxiz9zHLrqC5JfKVPbkKBboiSzI.jpg" group-title="Movies | Horror [VOD]",Don't Knock Twice
 http://alienstreams.fi:8080/movie/karekare/karekare/338219.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ySQ3v4Fzpy3fePs86eoLiDzwLYM.jpg" group-title="Movies | Horror [VOD]",Fright Night
@@ -9234,8 +9184,6 @@ http://alienstreams.fi:8080/movie/karekare/karekare/443604.mkv
 http://alienstreams.fi:8080/movie/karekare/karekare/443602.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/nNWj62BGRoQH4g6kDhi3GlDMnLh.jpg" group-title="Movies | Horror [VOD]",Apollo 18 (2011)
 http://alienstreams.fi:8080/movie/karekare/karekare/443598.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/v7GkDorZgmD090U4Uhf0g6gng05.jpg" group-title="Movies | Horror [VOD]",A Christmas Horror Story (2015)
-http://alienstreams.fi:8080/movie/karekare/karekare/443590.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/cHoeg3gAD5w63Et5DImY1Jb7HaO.jpg" group-title="Movies | Horror [VOD]",Event Horizon (1997)
 http://alienstreams.fi:8080/movie/karekare/karekare/443582.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/fFdG5U2PzhRrHRpbbORQrcAMn8D.jpg" group-title="Movies | Horror [VOD]",The Loch Ness Horror (2023)
@@ -9563,13 +9511,37 @@ http://alienstreams.fi:8080/movie/karekare/karekare/335469.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3KfbxvqaiAvRJ6MpguA3GuLdDQ.jpg" group-title="Movies | James Bond [VOD]",On Her Majesty's Secret Service
 http://alienstreams.fi:8080/movie/karekare/karekare/383237.mkv
 
-# --- Movies | Julfilmer [VOD] (159) ---
+# --- Movies | Julfilmer [VOD] (190) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4GgMfd9wAbnqCSVnT13uFYyFcYJ.jpg" group-title="Movies | Julfilmer [VOD]",A Christmas Mystery
+http://alienstreams.fi:8080/movie/karekare/karekare/335503.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sqdbF40nBzS2IZVAGPxJT7loxoM.jpg" group-title="Movies | Julfilmer [VOD]",Christmas Inheritance
+http://alienstreams.fi:8080/movie/karekare/karekare/335614.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6uOadrCfle0n2LOOxHbgWEdnrm2.jpg" group-title="Movies | Julfilmer [VOD]",Home Alone 3
 http://alienstreams.fi:8080/movie/karekare/karekare/335624.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5QeoDiiIFY9VF87Rm79WpCFZbwf.jpg" group-title="Movies | Julfilmer [VOD]",A Christmas Story Christmas
+http://alienstreams.fi:8080/movie/karekare/karekare/335481.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qxtpbcbf6KEIHzLetWZOVGJT2lv.jpg" group-title="Movies | Julfilmer [VOD]",Beauty and the Beast: The Enchanted Christmas
+http://alienstreams.fi:8080/movie/karekare/karekare/335522.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg" group-title="Movies | Julfilmer [VOD]",Home Alone
 http://alienstreams.fi:8080/movie/karekare/karekare/335717.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Vivy2G7Kx8duhN35eUG74B8JXK.jpg" group-title="Movies | Julfilmer [VOD]",Christmas Is Canceled
+http://alienstreams.fi:8080/movie/karekare/karekare/335712.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ptv35iECZ2jwHZQi2x6byrUHpoi.jpg" group-title="Movies | Julfilmer [VOD]",Broadcasting Christmas
+http://alienstreams.fi:8080/movie/karekare/karekare/335803.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhW480dt2LCJH0PcoDeFkw4nFnh.jpg" group-title="Movies | Julfilmer [VOD]",Christmas Bedtime Stories
+http://alienstreams.fi:8080/movie/karekare/karekare/336607.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGCwI76dylPViDF9VXFY0ORRhls.jpg" group-title="Movies | Julfilmer [VOD]",Christmas on Mistletoe Farm
+http://alienstreams.fi:8080/movie/karekare/karekare/336759.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg" group-title="Movies | Julfilmer [VOD]",Home Alone 2: Lost in New York
 http://alienstreams.fi:8080/movie/karekare/karekare/337210.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WKIDanEhGkaEmoEoxntk1YBcqj.jpg" group-title="Movies | Julfilmer [VOD]",Christmas in Paradise
+http://alienstreams.fi:8080/movie/karekare/karekare/337258.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xGB5yVlVxa9bYlSOVaI1AJR7neZ.jpg" group-title="Movies | Julfilmer [VOD]",A Christmas Horror Story
+http://alienstreams.fi:8080/movie/karekare/karekare/338210.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t41VHjYItCYHBh2hijsTID44cNv.jpg" group-title="Movies | Julfilmer [VOD]",A Christmas Carol
+http://alienstreams.fi:8080/movie/karekare/karekare/338326.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nF0Ya225sdZr5ytdOPuhzxirbBm.jpg" group-title="Movies | Julfilmer [VOD]",National Lampoon's Christmas Vacation
+http://alienstreams.fi:8080/movie/karekare/karekare/347209.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/HBCqJIBogtq3u1uyCJyo2as8ic.jpg" group-title="Movies | Julfilmer [VOD]",A New York Christmas Wedding
 http://alienstreams.fi:8080/movie/karekare/karekare/350096.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b5jDEuUCrWJ9vQyKLMJyuv5mFeB.jpg" group-title="Movies | Julfilmer [VOD]",Christmas Perfection
@@ -9704,6 +9676,8 @@ http://alienstreams.fi:8080/movie/karekare/karekare/370802.mkv
 http://alienstreams.fi:8080/movie/karekare/karekare/370805.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oti9TovTMLJtniCHZuCgbT6BumE.jpg" group-title="Movies | Julfilmer [VOD]",An Almost Christmas Story
 http://alienstreams.fi:8080/movie/karekare/karekare/370808.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vOKXkoap7SbchRiDZZcoGI7XJEl.jpg" group-title="Movies | Julfilmer [VOD]",Christmas Eve in Miller’s Point
+http://alienstreams.fi:8080/movie/karekare/karekare/372398.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sVRiiNfen5uEQPGXsHSToS3TnPS.jpg" group-title="Movies | Julfilmer [VOD]",The Secret Gift of Christmas
 http://alienstreams.fi:8080/movie/karekare/karekare/373177.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o8nPpvhMQq3GFVCjyooIqJNCy6o.jpg" group-title="Movies | Julfilmer [VOD]",To All a Good Night
@@ -9712,6 +9686,10 @@ http://alienstreams.fi:8080/movie/karekare/karekare/373178.mkv
 http://alienstreams.fi:8080/movie/karekare/karekare/373176.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6j3A3Rnm0SyMuGmROAsUaGb4Klx.jpg" group-title="Movies | Julfilmer [VOD]",Where Are You, Christmas?
 http://alienstreams.fi:8080/movie/karekare/karekare/373179.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDEjffiKgjuGo2DRzsqfjvW0CQh.jpg" group-title="Movies | Julfilmer [VOD]",Last Christmas
+http://alienstreams.fi:8080/movie/karekare/karekare/373336.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tzNm9lRIXJ6xrIKasRhvV1Nmv2B.jpg" group-title="Movies | Julfilmer [VOD]",A Bad Moms Christmas
+http://alienstreams.fi:8080/movie/karekare/karekare/374399.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yGQIre0Q9TVf9sjMNUZ1FNzfkNI.jpg" group-title="Movies | Julfilmer [VOD]",A Very Merry Bridesmaid
 http://alienstreams.fi:8080/movie/karekare/karekare/374682.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s50BmBzMHJG2gXvOngCMb7QTcu5.jpg" group-title="Movies | Julfilmer [VOD]",Christmas for Keeps
@@ -9726,6 +9704,8 @@ http://alienstreams.fi:8080/movie/karekare/karekare/374679.mkv
 http://alienstreams.fi:8080/movie/karekare/karekare/374789.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/20xZjYZqeZXw3qEghOtWQ8Ckjkf.jpg" group-title="Movies | Julfilmer [VOD]",Tomten är far till alla barnen
 http://alienstreams.fi:8080/movie/karekare/karekare/375320.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5j9MxMx24tPuTSTuWMW1eZP1w1M.jpg" group-title="Movies | Julfilmer [VOD]",Jack in Time for Christmas
+http://alienstreams.fi:8080/movie/karekare/karekare/375541.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dz3qFUUmwmNt1QwJITuvlC4v3MB.jpg" group-title="Movies | Julfilmer [VOD]",En underbar jävla jul
 http://alienstreams.fi:8080/movie/karekare/karekare/375544.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bX6dx2U4hOk1esI7mYwtD3cEKdC.jpg" group-title="Movies | Julfilmer [VOD]",That Christmas
@@ -9738,6 +9718,8 @@ http://alienstreams.fi:8080/movie/karekare/karekare/376394.mkv
 http://alienstreams.fi:8080/movie/karekare/karekare/376774.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aPyJE1kiBK2R9shzQuOYUqouqCB.jpg" group-title="Movies | Julfilmer [VOD]",Christmas on Candy Cane Lane
 http://alienstreams.fi:8080/movie/karekare/karekare/377129.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6XjvhydAlXbQodoWbIf77H0Dd9R.jpg" group-title="Movies | Julfilmer [VOD]",The Best Christmas Pageant Ever
+http://alienstreams.fi:8080/movie/karekare/karekare/377269.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zixj44TC7rwzpxtJAG5OzFJnEqe.jpg" group-title="Movies | Julfilmer [VOD]",Four Christmases
 http://alienstreams.fi:8080/movie/karekare/karekare/378358.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6sG0kbEvAi3RRLcGGU5h8l3qAPa.jpg" group-title="Movies | Julfilmer [VOD]",The Christmas Chronicles: Part Two
@@ -9748,6 +9730,12 @@ http://alienstreams.fi:8080/movie/karekare/karekare/380363.mkv
 http://alienstreams.fi:8080/movie/karekare/karekare/380456.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vp0hm8BvFkeFXv67dv97fciGXz.jpg" group-title="Movies | Julfilmer [VOD]",The Holiday List
 http://alienstreams.fi:8080/movie/karekare/karekare/380543.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pP27zlm9yeKrCeDZLFLP2HKELot.jpg" group-title="Movies | Julfilmer [VOD]",The Chronicles of Narnia: The Voyage of the Dawn Treader
+http://alienstreams.fi:8080/movie/karekare/karekare/382978.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg" group-title="Movies | Julfilmer [VOD]",The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
+http://alienstreams.fi:8080/movie/karekare/karekare/382980.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qxz3WIyjZiSKUhaTIEJ3c1GcC9z.jpg" group-title="Movies | Julfilmer [VOD]",The Chronicles of Narnia: Prince Caspian
+http://alienstreams.fi:8080/movie/karekare/karekare/382979.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cncxLilRHKayn8VKhzjAMHkbN4f.jpg" group-title="Movies | Julfilmer [VOD]",A Very Harold & Kumar Christmas
 http://alienstreams.fi:8080/movie/karekare/karekare/394429.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4jS66Qmq2Ru5S2YzHVknGd4xJyT.jpg" group-title="Movies | Julfilmer [VOD]",Serendipity
@@ -9866,12 +9854,34 @@ http://alienstreams.fi:8080/movie/karekare/karekare/434506.mkv
 http://alienstreams.fi:8080/movie/karekare/karekare/434505.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/zNp1gPczg56bfzrwkZhhe6uf30U.jpg" group-title="Movies | Julfilmer [VOD]",A Furry Little Christmas (2021)
 http://alienstreams.fi:8080/movie/karekare/karekare/434504.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/5QeoDiiIFY9VF87Rm79WpCFZbwf.jpg" group-title="Movies | Julfilmer [VOD]",A Christmas Story Christmas (2022)
+http://alienstreams.fi:8080/movie/karekare/karekare/443818.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/4GgMfd9wAbnqCSVnT13uFYyFcYJ.jpg" group-title="Movies | Julfilmer [VOD]",A Christmas Mystery (2014)
+http://alienstreams.fi:8080/movie/karekare/karekare/443753.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/v7GkDorZgmD090U4Uhf0g6gng05.jpg" group-title="Movies | Julfilmer [VOD]",A Christmas Horror Story (2015)
+http://alienstreams.fi:8080/movie/karekare/karekare/443590.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/fP3VvqUjEBjawxZHL4sYCq2ZdJD.jpg" group-title="Movies | Julfilmer [VOD]",Home Sweet Home Alone (2021)
 http://alienstreams.fi:8080/movie/karekare/karekare/443734.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/rGCwI76dylPViDF9VXFY0ORRhls.jpg" group-title="Movies | Julfilmer [VOD]",Christmas on Mistletoe Farm (2022)
+http://alienstreams.fi:8080/movie/karekare/karekare/443923.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/gNDykr69pEIrh66LMtOqswIpcXI.jpg" group-title="Movies | Julfilmer [VOD]",A Christmas Carol (1954)
+http://alienstreams.fi:8080/movie/karekare/karekare/444259.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/2Vivy2G7Kx8duhN35eUG74B8JXK.jpg" group-title="Movies | Julfilmer [VOD]",Christmas Is Canceled (2021)
+http://alienstreams.fi:8080/movie/karekare/karekare/444264.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/sqdbF40nBzS2IZVAGPxJT7loxoM.jpg" group-title="Movies | Julfilmer [VOD]",Christmas Inheritance (2017)
+http://alienstreams.fi:8080/movie/karekare/karekare/444054.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/i5We88HdO9Nsrv8xLyo4toNsLUM.jpg" group-title="Movies | Julfilmer [VOD]",Home Alone (1990)
 http://alienstreams.fi:8080/movie/karekare/karekare/444052.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/6uOadrCfle0n2LOOxHbgWEdnrm2.jpg" group-title="Movies | Julfilmer [VOD]",Home Alone 3 (1997)
 http://alienstreams.fi:8080/movie/karekare/karekare/443977.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/c8VrxCL42EejLOWbzSfkLoLix5Q.jpg" group-title="Movies | Julfilmer [VOD]",Broadcasting Christmas (2016)
+http://alienstreams.fi:8080/movie/karekare/karekare/444099.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/1gjT65lS29BbclJlmGvtwnT7hya.jpg" group-title="Movies | Julfilmer [VOD]",The Smurfs: A Christmas Carol (2011)
+http://alienstreams.fi:8080/movie/karekare/karekare/475608.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/vQ85dFvwHjstOTG3dt4ZqPMQD1w.jpg" group-title="Movies | Julfilmer [VOD]",Melt My Heart This Christmas
+http://alienstreams.fi:8080/movie/karekare/karekare/487352.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/kGLgaDrYWmTAdRFzGP5pBquRnhO.jpg" group-title="Movies | Julfilmer [VOD]",A Very Jonas Christmas Movie
+http://alienstreams.fi:8080/movie/karekare/karekare/487360.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/1oqqPncrRREzk5D63YUL9CLbqVf.jpg" group-title="Movies | Julfilmer [VOD]",A Christmas Carousel (2020)
 http://alienstreams.fi:8080/movie/karekare/karekare/488688.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/tdSyQJe7vEDcH9kEVqzVcr0O9lS.jpg" group-title="Movies | Julfilmer [VOD]",Jack Frost (1998)
@@ -10859,7 +10869,7 @@ http://alienstreams.fi:8080/movie/karekare/karekare/488999.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/plyEn5uDNXXDYihF8Z7YOe2PVKE.jpg" group-title="Movies | Norwegian [VOD]",Troll 2 (2025)
 http://alienstreams.fi:8080/movie/karekare/karekare/489799.mkv
 
-# --- Movies | Romance (VOD) (148) ---
+# --- Movies | Romance (VOD) (146) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6214Uk9CZZcIibI84o5DEtbhfyk.jpg" group-title="Movies | Romance (VOD)",Beautiful Wedding
 http://alienstreams.fi:8080/movie/karekare/karekare/328092.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2CbJ3HTb6SFbMeguYH52UQSHOwY.jpg" group-title="Movies | Romance (VOD)",Safe Haven
@@ -10930,8 +10940,6 @@ http://alienstreams.fi:8080/movie/karekare/karekare/335598.mkv
 http://alienstreams.fi:8080/movie/karekare/karekare/335594.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v4Bb70dpIIQoEnZAHnm3nzCPauU.jpg" group-title="Movies | Romance (VOD)",Irish Wish
 http://alienstreams.fi:8080/movie/karekare/karekare/335604.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sqdbF40nBzS2IZVAGPxJT7loxoM.jpg" group-title="Movies | Romance (VOD)",Christmas Inheritance
-http://alienstreams.fi:8080/movie/karekare/karekare/335614.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5OItLBY5T38ew1YI4VSIXjl5G2.jpg" group-title="Movies | Romance (VOD)",Humanist Vampire Seeking Consenting Suicidal Person
 http://alienstreams.fi:8080/movie/karekare/karekare/335533.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygtnnkiGfRQhhlXBurqp9DR2Zqi.jpg" group-title="Movies | Romance (VOD)",Love Tactics 2
@@ -10968,8 +10976,6 @@ http://alienstreams.fi:8080/movie/karekare/karekare/335728.mkv
 http://alienstreams.fi:8080/movie/karekare/karekare/335778.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bwdLflvCcOCRPqb1x13KPuYIzVx.jpg" group-title="Movies | Romance (VOD)",Beautiful Disaster
 http://alienstreams.fi:8080/movie/karekare/karekare/335759.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ptv35iECZ2jwHZQi2x6byrUHpoi.jpg" group-title="Movies | Romance (VOD)",Broadcasting Christmas
-http://alienstreams.fi:8080/movie/karekare/karekare/335803.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/moogpu8rNkEjTgFyLXwhPghft5w.jpg" group-title="Movies | Romance (VOD)",After Ever Happy
 http://alienstreams.fi:8080/movie/karekare/karekare/335805.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQxjZGU6rxSPSMeAJPJQlmfV3ys.jpg" group-title="Movies | Romance (VOD)",After Everything
@@ -11157,7 +11163,7 @@ http://alienstreams.fi:8080/movie/karekare/karekare/402031.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrAYdezO3h1mjdYTaQyTXoj8IZ4.jpg" group-title="Movies | Romance (VOD)",The Perfect Date
 http://alienstreams.fi:8080/movie/karekare/karekare/402718.mkv
 
-# --- Movies | Romantic [VOD] (71) ---
+# --- Movies | Romantic [VOD] (68) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/dxxOmTq4LgQxiyU4rW53qdj9FoN.jpg" group-title="Movies | Romantic [VOD]",Good Luck to You, Leo Grande (2022)
 http://alienstreams.fi:8080/movie/karekare/karekare/443530.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/AvpZ3pBQiX3UNHQIh39G3IR7u93.jpg" group-title="Movies | Romantic [VOD]",A Sunday Affair (2023)
@@ -11204,8 +11210,6 @@ http://alienstreams.fi:8080/movie/karekare/karekare/444174.mkv
 http://alienstreams.fi:8080/movie/karekare/karekare/444205.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/ovHxxphDgjyEpYriDoGoIHfrdZL.jpg" group-title="Movies | Romantic [VOD]",Somebody I Used to Know (2023)
 http://alienstreams.fi:8080/movie/karekare/karekare/444283.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/sqdbF40nBzS2IZVAGPxJT7loxoM.jpg" group-title="Movies | Romantic [VOD]",Christmas Inheritance (2017)
-http://alienstreams.fi:8080/movie/karekare/karekare/444054.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/9fwY72YdYuQW8hzC3bQXFVc8QRi.jpg" group-title="Movies | Romantic [VOD]",Blind Date Book Club (2024)
 http://alienstreams.fi:8080/movie/karekare/karekare/444029.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/q6cB61IEyP6484Grmsex1WLVaHe.jpg" group-title="Movies | Romantic [VOD]",Good Night (2016)
@@ -11218,8 +11222,6 @@ http://alienstreams.fi:8080/movie/karekare/karekare/443990.mkv
 http://alienstreams.fi:8080/movie/karekare/karekare/443972.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/pcnjUHvKTrdpaA3F3yiaK7XaP5N.jpg" group-title="Movies | Romantic [VOD]",Hero (2015)
 http://alienstreams.fi:8080/movie/karekare/karekare/444110.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/c8VrxCL42EejLOWbzSfkLoLix5Q.jpg" group-title="Movies | Romantic [VOD]",Broadcasting Christmas (2016)
-http://alienstreams.fi:8080/movie/karekare/karekare/444099.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/moogpu8rNkEjTgFyLXwhPghft5w.jpg" group-title="Movies | Romantic [VOD]",After Ever Happy (2022)
 http://alienstreams.fi:8080/movie/karekare/karekare/444073.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/5dliMQ2ODbGNoq0hlefdnuXQxMw.jpg" group-title="Movies | Romantic [VOD]",The Out-Laws (2023)
@@ -11276,8 +11278,6 @@ http://alienstreams.fi:8080/movie/karekare/karekare/487238.mkv
 http://alienstreams.fi:8080/movie/karekare/karekare/487303.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/yzqHt4m1SeY9FbPrfZ0C2Hi9x1s.jpg" group-title="Movies | Romantic [VOD]",Our Fault (2025)
 http://alienstreams.fi:8080/movie/karekare/karekare/487306.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/vQ85dFvwHjstOTG3dt4ZqPMQD1w.jpg" group-title="Movies | Romantic [VOD]",Melt My Heart This Christmas
-http://alienstreams.fi:8080/movie/karekare/karekare/487352.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/w4ytu75uJ1b0AgPd0wLm7iZMsWJ.jpg" group-title="Movies | Romantic [VOD]",A Merry Little Ex-Mas (2025)
 http://alienstreams.fi:8080/movie/karekare/karekare/487591.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/a66w2eVNFHMgevJlw0d6f4TTrrD.jpg" group-title="Movies | Romantic [VOD]",Champagne Problems
@@ -13192,10 +13192,10 @@ http://alienstreams.fi:8080/movie/karekare/karekare/488704.mkv
 http://alienstreams.fi:8080/movie/karekare/karekare/488921.mkv
 
 # --- Series | Action & Adventure [Series] (103) ---
-#EXTINF:-1 tvg-logo="" group-title="Series | Action & Adventure [Series]",Percy Jackson and the Olympians
-http://alienstreams.fi:8080/series/karekare/karekare/489777
 #EXTINF:-1 tvg-logo="" group-title="Series | Action & Adventure [Series]",NCIS: Tony & Ziva
 http://alienstreams.fi:8080/series/karekare/karekare/485993
+#EXTINF:-1 tvg-logo="" group-title="Series | Action & Adventure [Series]",Percy Jackson and the Olympians
+http://alienstreams.fi:8080/series/karekare/karekare/489777
 #EXTINF:-1 tvg-logo="" group-title="Series | Action & Adventure [Series]",The Last Ship
 http://alienstreams.fi:8080/series/karekare/karekare/488365
 #EXTINF:-1 tvg-logo="" group-title="Series | Action & Adventure [Series]",Taken
@@ -13248,12 +13248,6 @@ http://alienstreams.fi:8080/series/karekare/karekare/472231
 http://alienstreams.fi:8080/series/karekare/karekare/471427
 #EXTINF:-1 tvg-logo="" group-title="Series | Action & Adventure [Series]",Cóyotl, Hero and Beast
 http://alienstreams.fi:8080/series/karekare/karekare/450191
-#EXTINF:-1 tvg-logo="" group-title="Series | Action & Adventure [Series]",All of Us Are Dead
-http://alienstreams.fi:8080/series/karekare/karekare/404033
-#EXTINF:-1 tvg-logo="" group-title="Series | Action & Adventure [Series]",The Last Kingdom
-http://alienstreams.fi:8080/series/karekare/karekare/404035
-#EXTINF:-1 tvg-logo="" group-title="Series | Action & Adventure [Series]",Falling Skies
-http://alienstreams.fi:8080/series/karekare/karekare/404040
 #EXTINF:-1 tvg-logo="" group-title="Series | Action & Adventure [Series]",Paris Has Fallen
 http://alienstreams.fi:8080/series/karekare/karekare/404057
 #EXTINF:-1 tvg-logo="" group-title="Series | Action & Adventure [Series]",Vikings: Valhalla
@@ -13398,8 +13392,16 @@ http://alienstreams.fi:8080/series/karekare/karekare/404006
 http://alienstreams.fi:8080/series/karekare/karekare/404008
 #EXTINF:-1 tvg-logo="" group-title="Series | Action & Adventure [Series]",Hell on Wheels
 http://alienstreams.fi:8080/series/karekare/karekare/404012
+#EXTINF:-1 tvg-logo="" group-title="Series | Action & Adventure [Series]",All of Us Are Dead
+http://alienstreams.fi:8080/series/karekare/karekare/404033
+#EXTINF:-1 tvg-logo="" group-title="Series | Action & Adventure [Series]",The Last Kingdom
+http://alienstreams.fi:8080/series/karekare/karekare/404035
+#EXTINF:-1 tvg-logo="" group-title="Series | Action & Adventure [Series]",Falling Skies
+http://alienstreams.fi:8080/series/karekare/karekare/404040
 
-# --- Series | Anime [Series] (66) ---
+# --- Series | Anime [Series] (67) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Anime [Series]",SpongeBob SquarePants
+http://alienstreams.fi:8080/series/karekare/karekare/490313
 #EXTINF:-1 tvg-logo="" group-title="Series | Anime [Series]",The Mighty Nein
 http://alienstreams.fi:8080/series/karekare/karekare/488040
 #EXTINF:-1 tvg-logo="" group-title="Series | Anime [Series]",Bob's Burgers
@@ -13533,19 +13535,23 @@ http://alienstreams.fi:8080/series/karekare/karekare/403901
 #EXTINF:-1 tvg-logo="" group-title="Series | Anime [Series]",Tom and Jerry
 http://alienstreams.fi:8080/series/karekare/karekare/403910
 
-# --- Series | Comedy [Series] (249) ---
+# --- Series | Comedy [Series] (251) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Based on a True Story
+http://alienstreams.fi:8080/series/karekare/karekare/490295
+#EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",I Love LA
+http://alienstreams.fi:8080/series/karekare/karekare/487739
+#EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Single Papa
+http://alienstreams.fi:8080/series/karekare/karekare/490296
+#EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",The Paper
+http://alienstreams.fi:8080/series/karekare/karekare/487469
 #EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Tires
 http://alienstreams.fi:8080/series/karekare/karekare/489985
 #EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Man.vs.Baby
 http://alienstreams.fi:8080/series/karekare/karekare/489977
 #EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Man vs Baby
 http://alienstreams.fi:8080/series/karekare/karekare/489816
-#EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",I Love LA
-http://alienstreams.fi:8080/series/karekare/karekare/487739
 #EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Shoresy
 http://alienstreams.fi:8080/series/karekare/karekare/489241
-#EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",The Paper
-http://alienstreams.fi:8080/series/karekare/karekare/487469
 #EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",The Chair Company
 http://alienstreams.fi:8080/series/karekare/karekare/484477
 #EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Georgie & Mandy's First Marriage
@@ -14034,10 +14040,10 @@ http://alienstreams.fi:8080/series/karekare/karekare/404022
 http://alienstreams.fi:8080/series/karekare/karekare/404030
 
 # --- Series | Crime [Series] (182) ---
-#EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Rizzoli & Isles
-http://alienstreams.fi:8080/series/karekare/karekare/489506
 #EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",The Iris Affair
 http://alienstreams.fi:8080/series/karekare/karekare/489295
+#EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Rizzoli & Isles
+http://alienstreams.fi:8080/series/karekare/karekare/489506
 #EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",The Friday the 13th Murders
 http://alienstreams.fi:8080/series/karekare/karekare/488866
 #EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Reykjavik 112
@@ -14461,7 +14467,9 @@ http://alienstreams.fi:8080/series/karekare/karekare/403590
 #EXTINF:-1 tvg-logo="" group-title="Series | Danish [Series]",Ikke et ord
 http://alienstreams.fi:8080/series/karekare/karekare/403839
 
-# --- Series | Documentary [Series] (294) ---
+# --- Series | Documentary [Series] (295) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Taylor Swift | The Eras Tour | The End of an Era
+http://alienstreams.fi:8080/series/karekare/karekare/490244
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Inside the Freemasons
 http://alienstreams.fi:8080/series/karekare/karekare/489102
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Sean Combs: The Reckoning
@@ -14824,8 +14832,6 @@ http://alienstreams.fi:8080/series/karekare/karekare/404922
 http://alienstreams.fi:8080/series/karekare/karekare/404931
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",100 Foot Wave
 http://alienstreams.fi:8080/series/karekare/karekare/403205
-#EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Gaming Wall St
-http://alienstreams.fi:8080/series/karekare/karekare/404935
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Lost Cities with Albert Lin
 http://alienstreams.fi:8080/series/karekare/karekare/404940
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Lost Cities Revealed with Albert Lin
@@ -14936,6 +14942,8 @@ http://alienstreams.fi:8080/series/karekare/karekare/405257
 http://alienstreams.fi:8080/series/karekare/karekare/405265
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Born to Be Viral: The Real Lives of Kidfluencers
 http://alienstreams.fi:8080/series/karekare/karekare/405273
+#EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Gaming Wall St
+http://alienstreams.fi:8080/series/karekare/karekare/404935
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Suffer the Little Children
 http://alienstreams.fi:8080/series/karekare/karekare/403250
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Close Encounters
@@ -15051,7 +15059,15 @@ http://alienstreams.fi:8080/series/karekare/karekare/404016
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Kim vs Kanye: The Divorce
 http://alienstreams.fi:8080/series/karekare/karekare/404028
 
-# --- Series | Drama [Series] (587) ---
+# --- Series | Drama [Series] (588) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Spartacus: House of Ashur
+http://alienstreams.fi:8080/series/karekare/karekare/489348
+#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",All Her Fault
+http://alienstreams.fi:8080/series/karekare/karekare/490281
+#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Outlander: Blood of My Blood
+http://alienstreams.fi:8080/series/karekare/karekare/486905
+#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Landman
+http://alienstreams.fi:8080/series/karekare/karekare/488173
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Pluribus
 http://alienstreams.fi:8080/series/karekare/karekare/486816
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",The Town
@@ -15060,14 +15076,8 @@ http://alienstreams.fi:8080/series/karekare/karekare/489817
 http://alienstreams.fi:8080/series/karekare/karekare/486407
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",All's Fair
 http://alienstreams.fi:8080/series/karekare/karekare/486800
-#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Spartacus: House of Ashur
-http://alienstreams.fi:8080/series/karekare/karekare/489348
-#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Outlander: Blood of My Blood
-http://alienstreams.fi:8080/series/karekare/karekare/486905
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",The Last Frontier
 http://alienstreams.fi:8080/series/karekare/karekare/484076
-#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Landman
-http://alienstreams.fi:8080/series/karekare/karekare/488173
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Mayor of Kingstown
 http://alienstreams.fi:8080/series/karekare/karekare/486531
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Tracker
@@ -15272,10 +15282,6 @@ http://alienstreams.fi:8080/series/karekare/karekare/403218
 http://alienstreams.fi:8080/series/karekare/karekare/403275
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Devils
 http://alienstreams.fi:8080/series/karekare/karekare/403287
-#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",The Lost Flowers of Alice Hart
-http://alienstreams.fi:8080/series/karekare/karekare/404036
-#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Black Sails
-http://alienstreams.fi:8080/series/karekare/karekare/404039
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Link: Eat, Love, Kill
 http://alienstreams.fi:8080/series/karekare/karekare/404041
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",The Tower
@@ -16226,6 +16232,10 @@ http://alienstreams.fi:8080/series/karekare/karekare/404010
 http://alienstreams.fi:8080/series/karekare/karekare/404015
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",End of Summer
 http://alienstreams.fi:8080/series/karekare/karekare/404031
+#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",The Lost Flowers of Alice Hart
+http://alienstreams.fi:8080/series/karekare/karekare/404036
+#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Black Sails
+http://alienstreams.fi:8080/series/karekare/karekare/404039
 
 # --- Series | English [Series] (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | English [Series]",Sugar
@@ -16621,13 +16631,17 @@ http://alienstreams.fi:8080/series/karekare/karekare/403916
 #EXTINF:-1 tvg-logo="" group-title="Series | Mystery [Series]",Rematch
 http://alienstreams.fi:8080/series/karekare/karekare/403996
 
-# --- Series | Norska Serier [Series] (279) ---
-#EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Der ingen skulle tru at nokon kunne bu
-http://alienstreams.fi:8080/series/karekare/karekare/489839
+# --- Series | Norska Serier [Series] (280) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Hjem til jul
+http://alienstreams.fi:8080/series/karekare/karekare/490312
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Rampenissen
 http://alienstreams.fi:8080/series/karekare/karekare/488867
+#EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Der ingen skulle tru at nokon kunne bu
+http://alienstreams.fi:8080/series/karekare/karekare/489839
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Nissene i Skjul
 http://alienstreams.fi:8080/series/karekare/karekare/488892
+#EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Ekspedisjonen
+http://alienstreams.fi:8080/series/karekare/karekare/486319
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Kompani Lauritzen: Tropp
 http://alienstreams.fi:8080/series/karekare/karekare/486320
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Tiltalt
@@ -16638,8 +16652,6 @@ http://alienstreams.fi:8080/series/karekare/karekare/487838
 http://alienstreams.fi:8080/series/karekare/karekare/481989
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Spillet
 http://alienstreams.fi:8080/series/karekare/karekare/481646
-#EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Ekspedisjonen
-http://alienstreams.fi:8080/series/karekare/karekare/486319
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Svarte penger, hvite løgner
 http://alienstreams.fi:8080/series/karekare/karekare/489007
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Petter og Familien - Dit Ingen Drar
@@ -17548,10 +17560,6 @@ http://alienstreams.fi:8080/series/karekare/karekare/461037
 http://alienstreams.fi:8080/series/karekare/karekare/446166
 #EXTINF:-1 tvg-logo="" group-title="Series | Sci-Fi & Fantasy [Series]",Upload
 http://alienstreams.fi:8080/series/karekare/karekare/403305
-#EXTINF:-1 tvg-logo="" group-title="Series | Sci-Fi & Fantasy [Series]",Resident Alien
-http://alienstreams.fi:8080/series/karekare/karekare/404034
-#EXTINF:-1 tvg-logo="" group-title="Series | Sci-Fi & Fantasy [Series]",Fallout
-http://alienstreams.fi:8080/series/karekare/karekare/404038
 #EXTINF:-1 tvg-logo="" group-title="Series | Sci-Fi & Fantasy [Series]",Penny Dreadful
 http://alienstreams.fi:8080/series/karekare/karekare/404068
 #EXTINF:-1 tvg-logo="" group-title="Series | Sci-Fi & Fantasy [Series]",The Strain
@@ -17646,6 +17654,8 @@ http://alienstreams.fi:8080/series/karekare/karekare/404837
 http://alienstreams.fi:8080/series/karekare/karekare/404853
 #EXTINF:-1 tvg-logo="" group-title="Series | Sci-Fi & Fantasy [Series]",Marvel's The Defenders
 http://alienstreams.fi:8080/series/karekare/karekare/404854
+#EXTINF:-1 tvg-logo="" group-title="Series | Sci-Fi & Fantasy [Series]",Black Mirror
+http://alienstreams.fi:8080/series/karekare/karekare/404932
 #EXTINF:-1 tvg-logo="" group-title="Series | Sci-Fi & Fantasy [Series]",His Dark Materials
 http://alienstreams.fi:8080/series/karekare/karekare/404967
 #EXTINF:-1 tvg-logo="" group-title="Series | Sci-Fi & Fantasy [Series]",The Good Place
@@ -17670,8 +17680,6 @@ http://alienstreams.fi:8080/series/karekare/karekare/405215
 http://alienstreams.fi:8080/series/karekare/karekare/405220
 #EXTINF:-1 tvg-logo="" group-title="Series | Sci-Fi & Fantasy [Series]",Goosebumps
 http://alienstreams.fi:8080/series/karekare/karekare/405263
-#EXTINF:-1 tvg-logo="" group-title="Series | Sci-Fi & Fantasy [Series]",Black Mirror
-http://alienstreams.fi:8080/series/karekare/karekare/404932
 #EXTINF:-1 tvg-logo="" group-title="Series | Sci-Fi & Fantasy [Series]",The Phoenix
 http://alienstreams.fi:8080/series/karekare/karekare/403242
 #EXTINF:-1 tvg-logo="" group-title="Series | Sci-Fi & Fantasy [Series]",Saving Grace
@@ -17766,6 +17774,10 @@ http://alienstreams.fi:8080/series/karekare/karekare/403975
 http://alienstreams.fi:8080/series/karekare/karekare/403982
 #EXTINF:-1 tvg-logo="" group-title="Series | Sci-Fi & Fantasy [Series]",Silo
 http://alienstreams.fi:8080/series/karekare/karekare/404003
+#EXTINF:-1 tvg-logo="" group-title="Series | Sci-Fi & Fantasy [Series]",Resident Alien
+http://alienstreams.fi:8080/series/karekare/karekare/404034
+#EXTINF:-1 tvg-logo="" group-title="Series | Sci-Fi & Fantasy [Series]",Fallout
+http://alienstreams.fi:8080/series/karekare/karekare/404038
 
 # --- Series | Soap [Series] (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Soap [Series]",Betty la Fea, the Story Continues
@@ -17777,7 +17789,13 @@ http://alienstreams.fi:8080/series/karekare/karekare/405122
 #EXTINF:-1 tvg-logo="" group-title="Series | Sports[Series]",Startelvan
 http://alienstreams.fi:8080/series/karekare/karekare/403526
 
-# --- Series | Svenska Serier [Series] (267) ---
+# --- Series | Svenska Serier [Series] (268) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Så mycket bättre 15 år
+http://alienstreams.fi:8080/series/karekare/karekare/489296
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Barna Hedenhös uppfinner julen
+http://alienstreams.fi:8080/series/karekare/karekare/490143
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Veronika
+http://alienstreams.fi:8080/series/karekare/karekare/489720
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Frusna Vägar
 http://alienstreams.fi:8080/series/karekare/karekare/489466
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Hjälp, vi har köpt ett franskt ruckel!
@@ -17786,8 +17804,6 @@ http://alienstreams.fi:8080/series/karekare/karekare/489465
 http://alienstreams.fi:8080/series/karekare/karekare/482103
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Tidstjuven
 http://alienstreams.fi:8080/series/karekare/karekare/488952
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Veronika
-http://alienstreams.fi:8080/series/karekare/karekare/489720
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Race Across the World Sverige
 http://alienstreams.fi:8080/series/karekare/karekare/477801
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Svenska nyheter
@@ -17820,8 +17836,6 @@ http://alienstreams.fi:8080/series/karekare/karekare/488942
 http://alienstreams.fi:8080/series/karekare/karekare/489643
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Idol
 http://alienstreams.fi:8080/series/karekare/karekare/476139
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Så mycket bättre 15 år
-http://alienstreams.fi:8080/series/karekare/karekare/489296
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Hey Baberiba
 http://alienstreams.fi:8080/series/karekare/karekare/489161
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Gränsbevakarna Sverige
@@ -18365,4 +18379,4 @@ http://alienstreams.fi:8080/series/karekare/karekare/475290
 #EXTINF:-1 tvg-logo="" group-title="Series | Western [Series]",How the West Was Won
 http://alienstreams.fi:8080/series/karekare/karekare/459987
 
-# Total: 9124
+# Total: 9131

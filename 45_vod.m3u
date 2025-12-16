@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 45.139.122.199:8080
-# Generated: 2025-12-15 18:29:49
+# Generated: 2025-12-16 07:10:36
 # Expires: 2026-07-13
 # Family Safe Edition
 # ==============================================
@@ -16425,7 +16425,7 @@ http://45.139.122.199:8080/movie/Susanne1/susanne1/2166393.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qHQbXfdYhh3CRtIufoiD4AxPWi0.jpg" group-title="Movies | VOD: Old Popular Movies [Multi-Sub]",Zipper [PRE] [2015]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/2166394.mkv
 
-# --- Movies | VOD: Premiere Cinemas [Multi-Sub] (5346) ---
+# --- Movies | VOD: Premiere Cinemas [Multi-Sub] (5350) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMmT1IWPEJSSLaklHZi7XyrTVyM.jpg" group-title="Movies | VOD: Premiere Cinemas [Multi-Sub]",Matt Rife: Unwrapped - A Christmas Crowd Work Special [PRE] [2025]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/2159374.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wobVTa99eW0ht6c1rNNzLkazPtR.jpg" group-title="Movies | VOD: Premiere Cinemas [Multi-Sub]",The Long Walk [PRE] [2025]
@@ -27118,6 +27118,14 @@ http://45.139.122.199:8080/movie/Susanne1/susanne1/2173169.mkv
 http://45.139.122.199:8080/movie/Susanne1/susanne1/2173259.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/73wbpsAR1OK0faQCNXYHA37rAld.jpg" group-title="Movies | VOD: Premiere Cinemas [Multi-Sub]",Sarah Squirm: Live + in the Flesh [PRE] [2025]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/2175109.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wCT73zvdbX8gkvocS5nU68T1IG.jpg" group-title="Movies | VOD: Premiere Cinemas [Multi-Sub]",The Trouble with Jessica [PRE] [2024]
+http://45.139.122.199:8080/movie/Susanne1/susanne1/2176780.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pbH4C2nZRqLGEKTGmoaVIgLGniZ.jpg" group-title="Movies | VOD: Premiere Cinemas [Multi-Sub]",Wizkid: Long Live Lagos [PRE] [2025]
+http://45.139.122.199:8080/movie/Susanne1/susanne1/2176781.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tPUC1q4zfxxoAPvz9ssF5QQ0sYk.jpg" group-title="Movies | VOD: Premiere Cinemas [Multi-Sub]",Kill Me Again [PRE] [2025]
+http://45.139.122.199:8080/movie/Susanne1/susanne1/2176912.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xyKdcbzqX8pG17S4cLKURHlNlvN.jpg" group-title="Movies | VOD: Premiere Cinemas [Multi-Sub]",The Last Redemption [PRE] [2025]
+http://45.139.122.199:8080/movie/Susanne1/susanne1/2176913.mkv
 
 # --- Movies | VOD: Relaxing Music (7) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | VOD: Relaxing Music",Fall Asleep Fast Eliminates All Negative Energy
@@ -27187,4 +27195,4 @@ http://45.139.122.199:8080/movie/Susanne1/susanne1/503111.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FrRyIOrnCin795JjaxJgu7VeHR.jpg" group-title="Movies | VOD: Svenska",När mörkret faller [SE] [2006]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/798230.mkv
 
-# Total: 13579
+# Total: 13583
