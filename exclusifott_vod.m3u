@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: exclusifott.pro:80
-# Generated: 2025-12-16 07:03:51
+# Generated: 2025-12-16 18:35:27
 # Expires: 2026-05-21
 # Family Safe Edition
 # ==============================================
@@ -6367,7 +6367,9 @@ http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1984014.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xyxAOTToALUkeFS9x5V6MOv8YWr.jpg" group-title="Movies | |EN| 4K CHILDREN",EN - The First Snow of Fraggle Rock 4K (2025)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1984033.mkv
 
-# --- Movies | |EN| 4K MOVIES (11) ---
+# --- Movies | |EN| 4K MOVIES (12) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg" group-title="Movies | |EN| 4K MOVIES",EN  - Wake Up Dead Man: A Knives Out Mystery 4K (2025)
+http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1987228.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kajpShbFhOdpl6yCrLezMrr9tB4.jpg" group-title="Movies | |EN| 4K MOVIES",EN - Die My Love 4K (2025)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1986010.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nfGlYjINEcGtxV46viW4olwHHSz.jpg" group-title="Movies | |EN| 4K MOVIES",EN - Merv 4K (2025)
@@ -18023,4 +18025,4 @@ http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35745
 #EXTINF:-1 tvg-logo="" group-title="Series | |RO| ROMANIAN SERIES",RO - Resident Evil: Infinite Darkness (2021)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35746
 
-# Total: 8964
+# Total: 8965

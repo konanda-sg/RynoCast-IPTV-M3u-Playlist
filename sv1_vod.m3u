@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: sv1.casahd.com
-# Generated: 2025-12-16 07:14:08
+# Generated: 2025-12-16 18:30:58
 # Expires: 2026-05-02
 # Family Safe Edition
 # ==============================================
@@ -34933,7 +34933,7 @@ http://sv1.casahd.com/series/528398/824141/53236
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Globoplay",O Natal dos Silva
 http://sv1.casahd.com/series/528398/824141/53268
 
-# --- Series | Series | Legendadas (1163) ---
+# --- Series | Series | Legendadas (1167) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",007 Estrada para o Milhao [L]
 http://sv1.casahd.com/series/528398/824141/49501
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",100 Coisas para Fazer Antes de Virar Zumbi [L]
@@ -37260,6 +37260,14 @@ http://sv1.casahd.com/series/528398/824141/53248
 http://sv1.casahd.com/series/528398/824141/53249
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",The Boys [L]
 http://sv1.casahd.com/series/528398/824141/53250
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Como Defender um Assassino [L]
+http://sv1.casahd.com/series/528398/824141/53271
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",O Estudio [L]
+http://sv1.casahd.com/series/528398/824141/53272
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Pluribus [L]
+http://sv1.casahd.com/series/528398/824141/53273
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",The Morning Show [L]
+http://sv1.casahd.com/series/528398/824141/53274
 
 # --- Series | Series | Lionsgate (7) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Lionsgate",Da Vinci's Demons
@@ -38247,7 +38255,7 @@ http://sv1.casahd.com/series/528398/824141/53230
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Max",Angela Diniz Assassinada e Condenada
 http://sv1.casahd.com/series/528398/824141/53237
 
-# --- Series | Series | Netflix (1441) ---
+# --- Series | Series | Netflix (1442) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",(A)mar
 http://sv1.casahd.com/series/528398/824141/48857
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",(Des)encanto
@@ -41130,6 +41138,8 @@ http://sv1.casahd.com/series/528398/824141/53266
 http://sv1.casahd.com/series/528398/824141/53267
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Simon Cowell O Proximo Sucesso
 http://sv1.casahd.com/series/528398/824141/53270
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Cidade de Sombras
+http://sv1.casahd.com/series/528398/824141/53275
 
 # --- Series | Series | Outras Produtoras (701) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Outras Produtoras",100 Days Wild
@@ -43221,4 +43231,4 @@ http://sv1.casahd.com/series/528398/824141/52667
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Univer",O Senhor e a Serva
 http://sv1.casahd.com/series/528398/824141/52936
 
-# Total: 21562
+# Total: 21567

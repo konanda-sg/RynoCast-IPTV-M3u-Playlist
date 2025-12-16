@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: wyveep.com:8080
-# Generated: 2025-12-16 07:04:31
+# Generated: 2025-12-16 18:39:39
 # Expires: 2025-12-25
 # Family Safe Edition
 # ==============================================
@@ -3879,7 +3879,7 @@ http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1298772.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Netflix_2015_N_logo.svg/120px-Netflix_2015_N_logo.svg.png" group-title="FRANCE CINEMA   | TV ▶️",|FR| NETFLIX ACTION 2▶️
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1298773.m3u8
 
-# --- FRANCE FHD | 4K TV⁴ᴷ ☆ (200) ---
+# --- FRANCE FHD | 4K TV⁴ᴷ ☆ (205) ---
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FLAGS/fr.png" group-title="FRANCE FHD | 4K TV⁴ᴷ ☆",▬▬ GENERALE  FHD ▬▬
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/22009.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/tf1.png" group-title="FRANCE FHD | 4K TV⁴ᴷ ☆",|FR| TF1 FHD
@@ -3894,6 +3894,8 @@ http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1203567.m3u8
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1285719.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/MYTF1s.jpg" group-title="FRANCE FHD | 4K TV⁴ᴷ ☆",|FR| MY TF1 MAX FHD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1205902.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/a3/TheVoiceKids2018.jpeg" group-title="FRANCE FHD | 4K TV⁴ᴷ ☆",|FR|  TF1+ PLAY The Voice Kids
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1207008.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/france2.png" group-title="FRANCE FHD | 4K TV⁴ᴷ ☆",|FR| FRANCE 2 FHD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/9630.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/france2.png" group-title="FRANCE FHD | 4K TV⁴ᴷ ☆",|FR| FRANCE 2 HDR
@@ -3924,26 +3926,32 @@ http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/9633.m3u8
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1332939.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/m64k.png" group-title="FRANCE FHD | 4K TV⁴ᴷ ☆",|FR| M6 4K
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/753670.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/a3/TheVoiceKids2018.jpeg" group-title="FRANCE FHD | 4K TV⁴ᴷ ☆",|FR|  TF1+ PLAY The Voice Kids
-http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1207008.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/arte.png" group-title="FRANCE FHD | 4K TV⁴ᴷ ☆",|FR| ARTE FHD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/9634.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/arte.png" group-title="FRANCE FHD | 4K TV⁴ᴷ ☆",|FR| ARTE HDR
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1402812.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/arte.png" group-title="FRANCE FHD | 4K TV⁴ᴷ ☆",|FR| ARTE 4K
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1203568.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/w9.png" group-title="FRANCE FHD | 4K TV⁴ᴷ ☆",|FR| W9 FHD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/9636.m3u8
-#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/tfx.png" group-title="FRANCE FHD | 4K TV⁴ᴷ ☆",|FR| TFX FHD
-http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/9638.m3u8
-#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/cstar.png" group-title="FRANCE FHD | 4K TV⁴ᴷ ☆",|FR| CSTAR FHD
-http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/9644.m3u8
-#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/telenantes.png" group-title="FRANCE FHD | 4K TV⁴ᴷ ☆",|FR| TELENANTES FHD
-http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1389891.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_la_chaine_T18.svg/langfr-330px-Logo_de_la_chaine_T18.svg.png" group-title="FRANCE FHD | 4K TV⁴ᴷ ☆",|↕FR| T18 FHD
-http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1330527.m3u8
-#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/6ter.png" group-title="FRANCE FHD | 4K TV⁴ᴷ ☆",|FR| 6TER FHD
-http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/9647.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/w9.png" group-title="FRANCE FHD | 4K TV⁴ᴷ ☆",|FR| W9 HDR
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1402815.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/tmc.png" group-title="FRANCE FHD | 4K TV⁴ᴷ ☆",|FR| TMC FHD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/9637.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/tfx.png" group-title="FRANCE FHD | 4K TV⁴ᴷ ☆",|FR| TFX FHD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/9638.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/tfx.png" group-title="FRANCE FHD | 4K TV⁴ᴷ ☆",|FR| TFX HDR
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1402814.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/NOVO19.jpg" group-title="FRANCE FHD | 4K TV⁴ᴷ ☆",|FR| NOVO 19 FHD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1341609.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/cstar.png" group-title="FRANCE FHD | 4K TV⁴ᴷ ☆",|FR| CSTAR FHD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/9644.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/tf1seriesfilms.png" group-title="FRANCE FHD | 4K TV⁴ᴷ ☆",|FR| TF1 SERIES FILMS FHD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/9645.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/6ter.png" group-title="FRANCE FHD | 4K TV⁴ᴷ ☆",|FR| 6TER FHD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/9647.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/6ter.png" group-title="FRANCE FHD | 4K TV⁴ᴷ ☆",|FR| 6TER HDR
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1402813.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/RMCLIVE.png" group-title="FRANCE FHD | 4K TV⁴ᴷ ☆",|FR| RMC LIFE FHD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1389441.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/rmcstory.png" group-title="FRANCE FHD | 4K TV⁴ᴷ ☆",|FR| RMC STORY FHD
@@ -3968,12 +3976,16 @@ http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1140479.m3u8
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1345896.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/cherie25.png" group-title="FRANCE FHD | 4K TV⁴ᴷ ☆",|FR| CHERIE 25 FHD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/9650.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_la_chaine_T18.svg/langfr-330px-Logo_de_la_chaine_T18.svg.png" group-title="FRANCE FHD | 4K TV⁴ᴷ ☆",|↕FR| T18 FHD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1330527.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/Culturebox.png" group-title="FRANCE FHD | 4K TV⁴ᴷ ☆",|FR|  CULTUREBOX FHD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1298765.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/ARDIVISION .jpg" group-title="FRANCE FHD | 4K TV⁴ᴷ ☆",|FR|  ARDIVISION FHD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1298848.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/TV_Monaco_logo.png" group-title="FRANCE FHD | 4K TV⁴ᴷ ☆",|FR|  TV MONACO FHD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1298764.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/telenantes.png" group-title="FRANCE FHD | 4K TV⁴ᴷ ☆",|FR| TELENANTES FHD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1389891.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/Logo_PTV_2022.png" group-title="FRANCE FHD | 4K TV⁴ᴷ ☆",|FR|  PUISSANCE TELEVISION FHD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1298762.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net//images/picons/fr/TV8MontBlanc.fr.png" group-title="FRANCE FHD | 4K TV⁴ᴷ ☆",|FR| TV8 MONT-BLANC FHD
@@ -3982,8 +3994,6 @@ http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/9768.m3u8
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1389449.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/REALLIFE .png" group-title="FRANCE FHD | 4K TV⁴ᴷ ☆",|FR|  REAL LIFE  FHD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1298849.m3u8
-#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/NOVO19.jpg" group-title="FRANCE FHD | 4K TV⁴ᴷ ☆",|FR| NOVO 19 FHD
-http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1341609.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/BFMGRANDSREP.jpg" group-title="FRANCE FHD | 4K TV⁴ᴷ ☆",|FR| BFM GRANDS REPORTAGES FHD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1389442.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/tvpi.png" group-title="FRANCE FHD | 4K TV⁴ᴷ ☆",|FR| TVPI FHD
@@ -4082,8 +4092,6 @@ http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/646714.m3u8
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1389494.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/FRANCESERIE.jpg" group-title="FRANCE FHD | 4K TV⁴ᴷ ☆",|FR| FRANCE TV SERIES  FHD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1335103.m3u8
-#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/tf1seriesfilms.png" group-title="FRANCE FHD | 4K TV⁴ᴷ ☆",|FR| TF1 SERIES FILMS FHD
-http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/9645.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/tvbreizh.png" group-title="FRANCE FHD | 4K TV⁴ᴷ ☆",|FR| TV BREIZH FHD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/9689.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/13emerue.png" group-title="FRANCE FHD | 4K TV⁴ᴷ ☆",|FR| 13EME RUE FHD
@@ -4138,6 +4146,8 @@ http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1298752.m3u8
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1298751.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/BBCDRAMA.png" group-title="FRANCE FHD | 4K TV⁴ᴷ ☆",|FR|  BBC DRAMA FHD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1298847.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/CHEF.png" group-title="FRANCE FHD | 4K TV⁴ᴷ ☆",|FR| CHEF CLUB TV HDR
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1402816.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/eentertainment.png" group-title="FRANCE FHD | 4K TV⁴ᴷ ☆",|FR| E! FHD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/9681.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/mggtv.png" group-title="FRANCE FHD | 4K TV⁴ᴷ ☆",|FR| MGG TV FHD
@@ -4312,24 +4322,6 @@ http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19902.m3u8
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/10128.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fr/M6.fr.png" group-title="FRANCE HD-SD | TV ☆",|FR| M6 SD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19903.m3u8
-#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/SCENEDEMENAGEe.PNG" group-title="FRANCE HD-SD | TV ☆",|FR| 6PLAY SCENES DES MENAGES HD
-http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1339156.m3u8
-#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/LESREINES.PNG" group-title="FRANCE HD-SD | TV ☆",|FR| 6PLAY LES REINES DU SHOPPING HD
-http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1339155.m3u8
-#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/MARSEILLAIS.PNG" group-title="FRANCE HD-SD | TV ☆",|FR| 6PLAY MARSEILLAIS HD
-http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1338756.m3u8
-#EXTINF:-1 tvg-logo="http://5.253.86.111:8080/u=Pagio/p=d3ad7e7059b9e40ac15f41c0e6adfd221be71449af349e7ec376cc8b10eb955c/logos/6play-enqutescriminelles.png" group-title="FRANCE HD-SD | TV ☆",|FR| 6PLAY ENQUETES  CRIMINELLES HD
-http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1338755.m3u8
-#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/ENQUETESACTION.jpg" group-title="FRANCE HD-SD | TV ☆",|FR| 6PLAY ENQUETES  D'ACTION  HD
-http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1339997.m3u8
-#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/ENQUETE.jpg" group-title="FRANCE HD-SD | TV ☆",|FR| MPLAY ENQUETES  CHANNEL HD
-http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1340124.m3u8
-#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/ENQUETEDECHOC.jpg" group-title="FRANCE HD-SD | TV ☆",|FR| 6PLAY ENQUETES  DE CHOC HD
-http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1340312.m3u8
-#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/novelastv.png" group-title="FRANCE HD-SD | TV ☆",|FR| MPLAY NOVELAS HD
-http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1340137.m3u8
-#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/DOCSSTORY.jpg" group-title="FRANCE HD-SD | TV ☆",|FR| FRANCE TV DOCS HD
-http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1340138.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/arte.png" group-title="FRANCE HD-SD | TV ☆",|FR| ARTE HD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/10129.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fr/ARTE.fr.png" group-title="FRANCE HD-SD | TV ☆",|FR| ARTE SD
@@ -4346,14 +4338,26 @@ http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19907.m3u8
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/10133.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fr/TFX.fr.png" group-title="FRANCE HD-SD | TV ☆",|FR| TFX SD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19908.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_la_chaine_T18.svg/langfr-330px-Logo_de_la_chaine_T18.svg.png" group-title="FRANCE HD-SD | TV ☆",|↕FR| T18 HD
-http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1341204.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/cstar.png" group-title="FRANCE HD-SD | TV ☆",|FR| CSTAR HD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/10139.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fr/CStar.fr.png" group-title="FRANCE HD-SD | TV ☆",|FR| CSTAR SD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19914.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/tf1seriesfilms.png" group-title="FRANCE HD-SD | TV ☆",|FR| TF1 SERIES FILMS HD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/10140.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/6ter.png" group-title="FRANCE HD-SD | TV ☆",|FR| 6TER HD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/10142.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fr/6ter.fr.png" group-title="FRANCE HD-SD | TV ☆",|FR| 6TER SD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19917.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/tf1seriesfilms.png" group-title="FRANCE HD-SD | TV ☆",|FR| TF1 SERIES FILMS SD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19915.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_la_chaine_T18.svg/langfr-330px-Logo_de_la_chaine_T18.svg.png" group-title="FRANCE HD-SD | TV ☆",|↕FR| T18 HD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1341204.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/Logo_PTV_2022.png" group-title="FRANCE HD-SD | TV ☆",|FR|  PUISSANCE TELEVISION HD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1341565.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fr/Cherie25.fr.png" group-title="FRANCE HD-SD | TV ☆",|FR| CHERIE 25 HD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/10145.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fr/Cherie25.fr.png" group-title="FRANCE HD-SD | TV ☆",|FR| CHERIE 25 SD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19920.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fr/LaChaineParlementaire.fr.png" group-title="FRANCE HD-SD | TV ☆",|FR| LCP HD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/10135.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fr/LaChaineParlementaire.fr.png" group-title="FRANCE HD-SD | TV ☆",|FR| LCP SD
@@ -4362,26 +4366,18 @@ http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19910.m3u8
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/10137.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fr/BFMTV.fr.png" group-title="FRANCE HD-SD | TV ☆",|FR| BFM TV SD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19912.m3u8
-#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/cstar.png" group-title="FRANCE HD-SD | TV ☆",|FR| CSTAR HD
-http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/10139.m3u8
-#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fr/CStar.fr.png" group-title="FRANCE HD-SD | TV ☆",|FR| CSTAR SD
-http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19914.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fr/LEquipe21.fr.png" group-title="FRANCE HD-SD | TV ☆",|FR| L'EQUIPE 21 HD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/10141.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fr/LEquipe21.fr.png" group-title="FRANCE HD-SD | TV ☆",|FR| L'EQUIPE 21 SD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19916.m3u8
-#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fr/Cherie25.fr.png" group-title="FRANCE HD-SD | TV ☆",|FR| CHERIE 25 HD
-http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/10145.m3u8
-#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fr/Cherie25.fr.png" group-title="FRANCE HD-SD | TV ☆",|FR| CHERIE 25 SD
-http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19920.m3u8
-#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/rmcdecouverte.png" group-title="FRANCE HD-SD | TV ☆",|FR| RMC DECOUVERTE HD
-http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/10144.m3u8
-#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/rmcdecouverte.png" group-title="FRANCE HD-SD | TV ☆",|FR| RMC DECOUVERTE SD
-http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19919.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/rmcstory.png" group-title="FRANCE HD-SD | TV ☆",|FR| RMC STORY HD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/10143.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/rmcstory.png" group-title="FRANCE HD-SD | TV ☆",|FR| RMC STORY SD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19918.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/rmcdecouverte.png" group-title="FRANCE HD-SD | TV ☆",|FR| RMC DECOUVERTE HD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/10144.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/rmcdecouverte.png" group-title="FRANCE HD-SD | TV ☆",|FR| RMC DECOUVERTE SD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19919.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/RMC_MYSTERE.png" group-title="FRANCE HD-SD | TV ☆",FR|  RMC MYSTERE SD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1140495.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/RMC_MYSTERE.png" group-title="FRANCE HD-SD | TV ☆",FR| RMC MYSTERE HD
@@ -4404,6 +4400,22 @@ http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1140481.m3u8
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1140480.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/RMC_Talk_Sport.png" group-title="FRANCE HD-SD | TV ☆",FR| RMC TALK SPORT HD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1140478.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/SCENEDEMENAGEe.PNG" group-title="FRANCE HD-SD | TV ☆",|FR| 6PLAY SCENES DES MENAGES HD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1339156.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/LESREINES.PNG" group-title="FRANCE HD-SD | TV ☆",|FR| 6PLAY LES REINES DU SHOPPING HD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1339155.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/MARSEILLAIS.PNG" group-title="FRANCE HD-SD | TV ☆",|FR| 6PLAY MARSEILLAIS HD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1338756.m3u8
+#EXTINF:-1 tvg-logo="http://5.253.86.111:8080/u=Pagio/p=d3ad7e7059b9e40ac15f41c0e6adfd221be71449af349e7ec376cc8b10eb955c/logos/6play-enqutescriminelles.png" group-title="FRANCE HD-SD | TV ☆",|FR| 6PLAY ENQUETES  CRIMINELLES HD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1338755.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/ENQUETESACTION.jpg" group-title="FRANCE HD-SD | TV ☆",|FR| 6PLAY ENQUETES  D'ACTION  HD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1339997.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/ENQUETE.jpg" group-title="FRANCE HD-SD | TV ☆",|FR| MPLAY ENQUETES  CHANNEL HD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1340124.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/ENQUETEDECHOC.jpg" group-title="FRANCE HD-SD | TV ☆",|FR| 6PLAY ENQUETES  DE CHOC HD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1340312.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/novelastv.png" group-title="FRANCE HD-SD | TV ☆",|FR| MPLAY NOVELAS HD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1340137.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/cineplusclassic.png" group-title="FRANCE HD-SD | TV ☆",|FR| CINE+ CLASSIC SD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19934.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/cineplusocs.png" group-title="FRANCE HD-SD | TV ☆",|FR| CINE+ OCS HD
@@ -4432,10 +4444,6 @@ http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19933.m3u8
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/10156.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/cineplusemotion.png" group-title="FRANCE HD-SD | TV ☆",|FR| CINE+ EMOTION SD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19931.m3u8
-#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/tf1seriesfilms.png" group-title="FRANCE HD-SD | TV ☆",|FR| TF1 SERIES FILMS HD
-http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/10140.m3u8
-#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/tf1seriesfilms.png" group-title="FRANCE HD-SD | TV ☆",|FR| TF1 SERIES FILMS SD
-http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19915.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fullpicons/tcmcinemahd.png" group-title="FRANCE HD-SD | TV ☆",|FR| TCM CINEMA HD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/10165.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fullpicons/tcmcinemahd.png" group-title="FRANCE HD-SD | TV ☆",|FR| TCM CINEMA SD
@@ -4500,10 +4508,6 @@ http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19959.m3u8
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/10187.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fr/Syfy.fr.png" group-title="FRANCE HD-SD | TV ☆",|FR| SYFY SD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19963.m3u8
-#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/crimedistrict.png" group-title="FRANCE HD-SD | TV ☆",|FR| CRIME DISTRICT HD
-http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/10188.m3u8
-#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/CrimeDistrict.fr.png" group-title="FRANCE HD-SD | TV ☆",|FR| CRIME DISTRICT SD
-http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19964.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fullpicons/myzentv.png" group-title="FRANCE HD-SD | TV ☆",|FR| MY ZEN TV HD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/10193.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/20minutestv.png" group-title="FRANCE HD-SD | TV ☆",[FR| 20 MINUTES TV HD
@@ -4524,6 +4528,8 @@ http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/10176.m3u8
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19950.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fr/MTV.fr.png" group-title="FRANCE HD-SD | TV ☆",|FR| MTV SD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19949.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/DOCSSTORY.jpg" group-title="FRANCE HD-SD | TV ☆",|FR| FRANCE TV DOCS HD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1340138.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fr/PlanetePlus.fr.png" group-title="FRANCE HD-SD | TV ☆",|FR| PLANETE+ HD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/10249.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/planeteplus.png" group-title="FRANCE HD-SD | TV ☆",|FR| PLANETE+ SD
@@ -4540,6 +4546,8 @@ http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19998.m3u8
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/10265.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/discoverychannel.png" group-title="FRANCE HD-SD | TV ☆",|FR| DISCOVERY CHANNEL SD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/20008.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/TLC.png" group-title="FRANCE HD-SD | TV ☆",|FR| TLC HD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/10266.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/TLC.png" group-title="FRANCE HD-SD | TV ☆",|FR| TLC SD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/20009.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo/FRANCE/DISCOVERYINVESTIGATIONHD.png" group-title="FRANCE HD-SD | TV ☆",|FR| DISCOVERY ID HD
@@ -4568,14 +4576,18 @@ http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/10263.m3u8
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/10262.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fr/Seasons.fr.png" group-title="FRANCE HD-SD | TV ☆",|FR| SEASONS SD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/20007.m3u8
-#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/animaux.png" group-title="FRANCE HD-SD | TV ☆",|FR| ANIMAUX HD
-http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/10260.m3u8
-#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/animaux.png" group-title="FRANCE HD-SD | TV ☆",|FR| ANIMAUX SD
-http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/20005.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/scienceetvie.png" group-title="FRANCE HD-SD | TV ☆",|FR| SCIENCE & VIE TV HD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/10259.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/scienceetvie.png" group-title="FRANCE HD-SD | TV ☆",|FR| SCIENCE & VIE TV SD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/20004.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/crimedistrict.png" group-title="FRANCE HD-SD | TV ☆",|FR| CRIME DISTRICT HD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/10188.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/CrimeDistrict.fr.png" group-title="FRANCE HD-SD | TV ☆",|FR| CRIME DISTRICT SD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19964.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/animaux.png" group-title="FRANCE HD-SD | TV ☆",|FR| ANIMAUX HD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/10260.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/animaux.png" group-title="FRANCE HD-SD | TV ☆",|FR| ANIMAUX SD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/20005.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/toutelhistoire.png" group-title="FRANCE HD-SD | TV ☆",|FR| TOUTE L'HISTOIRE HD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/10258.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/histoire.png" group-title="FRANCE HD-SD | TV ☆",|FR| HISTOIRE TV HD
@@ -4636,8 +4648,6 @@ http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1140620.m3u8
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1140619.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/france3viastella.png" group-title="FRANCE HD-SD | TV ☆",|FR|  FRANCE 3 Viastella (Corse)
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1140618.m3u8
-#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/TLC.png" group-title="FRANCE HD-SD | TV ☆",|FR| TLC HD
-http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/10266.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/infosportplus.png" group-title="FRANCE HD-SD | TV ☆",|FR| INFOSPORT+ SD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/19967.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/uk/MTVHITS.png" group-title="FRANCE HD-SD | TV ☆",|FR| MTV HITS SD
@@ -10843,4 +10853,4 @@ http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1402563.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/BEINSPORT3.png" group-title="⚽️ BEIN SPORT ARABIC  | TV",AR| BEIN SPORTS 3 ENGLISH HD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/237130.m3u8
 
-# Total: 5346
+# Total: 5351

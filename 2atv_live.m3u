@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 2atv.xyz:83
-# Generated: 2025-12-16 07:11:45
+# Generated: 2025-12-16 18:34:03
 # Expires: 2026-01-16
 # Family Safe Edition
 # ==============================================
@@ -3918,7 +3918,7 @@ http://2atv.xyz:83/live/os4124/os1234/775795.m3u8
 http://2atv.xyz:83/live/os4124/os1234/775796.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MEXICO",MEX: E!
 http://2atv.xyz:83/live/os4124/os1234/775797.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MEXICO",MEX: GOURMET
+#EXTINF:-1 tvg-logo="" group-title="MEXICO",MEX: EL GOURMET
 http://2atv.xyz:83/live/os4124/os1234/775798.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MEXICO",MEX: ENLACE
 http://2atv.xyz:83/live/os4124/os1234/775799.m3u8
@@ -6780,7 +6780,7 @@ http://2atv.xyz:83/live/os4124/os1234/761294.m3u8
 http://2atv.xyz:83/live/os4124/os1234/761295.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK | ENTERTAINMENT",UK: SKY CINEMA PREMIERE
 http://2atv.xyz:83/live/os4124/os1234/761296.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK | ENTERTAINMENT",UK: SKY CINEMA SCI-FI
+#EXTINF:-1 tvg-logo="" group-title="UK | ENTERTAINMENT",UK: SKY CINEMA SCI-FI HORROR
 http://2atv.xyz:83/live/os4124/os1234/761297.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK | ENTERTAINMENT",UK: SKY CINEMA SELECT
 http://2atv.xyz:83/live/os4124/os1234/761298.m3u8
@@ -6798,7 +6798,7 @@ http://2atv.xyz:83/live/os4124/os1234/761303.m3u8
 http://2atv.xyz:83/live/os4124/os1234/761304.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK | ENTERTAINMENT",UK: SONY TV
 http://2atv.xyz:83/live/os4124/os1234/761305.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK | ENTERTAINMENT",UK: STAR BHARAT
+#EXTINF:-1 tvg-logo="" group-title="UK | ENTERTAINMENT",UK: UTSAV BHARAT
 http://2atv.xyz:83/live/os4124/os1234/761306.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK | ENTERTAINMENT",UK: STAR GOLD
 http://2atv.xyz:83/live/os4124/os1234/761307.m3u8
@@ -6832,7 +6832,7 @@ http://2atv.xyz:83/live/os4124/os1234/761320.m3u8
 http://2atv.xyz:83/live/os4124/os1234/761321.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK | ENTERTAINMENT",UK: WATCH
 http://2atv.xyz:83/live/os4124/os1234/761322.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK | ENTERTAINMENT",UK: YESTERDAY
+#EXTINF:-1 tvg-logo="" group-title="UK | ENTERTAINMENT",UK: U&YESTERDAY
 http://2atv.xyz:83/live/os4124/os1234/761323.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK | ENTERTAINMENT",UK: ZEE CINEMA
 http://2atv.xyz:83/live/os4124/os1234/761324.m3u8
@@ -7041,7 +7041,7 @@ http://2atv.xyz:83/live/os4124/os1234/814624.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA | ABC LOCALS",MS | BILOXI | ABC WLOX
 http://2atv.xyz:83/live/os4124/os1234/814628.m3u8
 
-# --- USA | BASIC (151) ---
+# --- USA | BASIC (152) ---
 #EXTINF:-1 tvg-logo="https://puddintap.click/ico/USA-Color/AE.png" group-title="USA | BASIC",BASICS: A&E
 http://2atv.xyz:83/live/os4124/os1234/776274.m3u8
 #EXTINF:-1 tvg-logo="https://puddintap.click/ico/USA-Color/AE.png" group-title="USA | BASIC",USA: A&E (WEST)
@@ -7344,6 +7344,8 @@ http://2atv.xyz:83/live/os4124/os1234/814391.m3u8
 http://2atv.xyz:83/live/os4124/os1234/824060.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA | BASIC",USA: DAZN 1
 http://2atv.xyz:83/live/os4124/os1234/824061.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA | BASIC",USA: ROAR
+http://2atv.xyz:83/live/os4124/os1234/824822.m3u8
 
 # --- USA | CBS LOCALS (95) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/WVLT-TV_logo.svg/180px-WVLT-TV_logo.svg.png" group-title="USA | CBS LOCALS",TN | KNOXVILLE | CBS 8 WVLT
@@ -8471,4 +8473,4 @@ http://2atv.xyz:83/live/os4124/os1234/798161.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WNBA",WNBA 15:
 http://2atv.xyz:83/live/os4124/os1234/798162.m3u8
 
-# Total: 4193
+# Total: 4194

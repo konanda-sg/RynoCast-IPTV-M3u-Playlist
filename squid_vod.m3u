@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2025-12-16 07:12:46
+# Generated: 2025-12-16 18:31:13
 # Expires: 2026-01-17
 # Family Safe Edition
 # ==============================================
@@ -214,6 +214,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1114.mp4
 # --- Movies | All of Us Are Dead (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | All of Us Are Dead",All of Us Are Dead
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/182.mp4
+
+# --- Movies | All the Light we cannot see (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | All the Light we cannot see",All the Light We Cannot See (2023)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1124.mp4
 
 # --- Movies | Altered Carbon (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Altered Carbon",Altered Carbon
@@ -5869,7 +5873,11 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/14154.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/qndubIQalyxBJI5EBNZKGXEX74q.jpg" group-title="Movies | Filme 2024",Y2K (2024)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/48365.mp4
 
-# --- Movies | Filme 2025 (566) ---
+# --- Movies | Filme 2025 (568) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUiAm0jbrPgbUDCOhRKsvdT0u5h.jpg" group-title="Movies | Filme 2025",Sisu: Road to Revenge - 2025
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65599.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg" group-title="Movies | Filme 2025",Now You See Me: Now You Don't - 2025
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65598.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PdAODwR9amGEq5ER42FsuzV7op.jpg" group-title="Movies | Filme 2025",Turbulence - 2025
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65587.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3fKDnw1i2Or7qHgB5gmT0wWZNtw.jpg" group-title="Movies | Filme 2025",Posthouse - 2025
@@ -19473,4 +19481,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8576
+# Total: 8579

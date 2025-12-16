@@ -1,8 +1,8 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: brone.fyi
-# Generated: 2025-12-16 07:08:40
-# Expires: 2026-01-17
+# Generated: 2025-12-16 18:29:08
+# Expires: 2026-01-18
 # Family Safe Edition
 # ==============================================
 
@@ -106,7 +106,7 @@ http://brone.fyi/live/felipe_irma/Teste44/320563.m3u8
 http://brone.fyi/live/felipe_irma/Teste44/320562.m3u8
 #EXTINF:-1 tvg-logo="" group-title="+SBT",SBT PI HD *
 http://brone.fyi/live/felipe_irma/Teste44/320561.m3u8
-#EXTINF:-1 tvg-logo="" group-title="+SBT",SBR PR HD*
+#EXTINF:-1 tvg-logo="" group-title="+SBT",SBT PR HD*
 http://brone.fyi/live/felipe_irma/Teste44/320564.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/sbtplus/novelas.png" group-title="+SBT",SBT+ NOVELAS
 http://brone.fyi/live/felipe_irma/Teste44/310744.m3u8

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: fastream.xyz:8080
-# Generated: 2025-12-16 07:15:44
+# Generated: 2025-12-16 18:33:26
 # Expires: 2026-10-20
 # Family Safe Edition
 # ==============================================
@@ -13247,7 +13247,9 @@ http://fastream.xyz:8080/movie/940246862tv/12ws79/75434.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RrMfaCYdsdNdRNUAR3TY0DvNV2.jpg" group-title="Movies | → VOD ESTRENOS 2024 ←",Bosco (2024)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/75435.mkv
 
-# --- Movies | → VOD ESTRENOS 2025 ← (251) ---
+# --- Movies | → VOD ESTRENOS 2025 ← (252) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDSdgH26sX3ctZIG1CWM7bgkmZB.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",A pesar de ti (2025)
+http://fastream.xyz:8080/movie/940246862tv/12ws79/278758.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/trGWfaYTkzkalkosXfxidpLum50.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Puñales por la espalda: De entre los muertos (2025)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/278739.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sa1EA8TI8IbHiaIyjC5DWJZHonP.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",La primera nevada en Fraggle Rock (2025)
@@ -19545,4 +19547,4 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://fastream.xyz:8080/series/940246862tv/12ws79/2492
 
-# Total: 9697
+# Total: 9698

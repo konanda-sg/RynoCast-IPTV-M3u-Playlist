@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: vip.europaiptv.vip:2086
-# Generated: 2025-12-16 07:05:03
+# Generated: 2025-12-16 18:29:50
 # Expires: 2026-11-07
 # Family Safe Edition
 # ==============================================
@@ -849,31 +849,7 @@ http://vip.europaiptv.vip:2086/live/Abdullahtaxiev/JHAVPBpZPX/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://vip.europaiptv.vip:2086/live/Abdullahtaxiev/JHAVPBpZPX/170928.m3u8
 
-# --- DE-DAZN EVENT (33) ---
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/a3w042drx4rk757hl5joo3i33_image-header_pDach_1765289532000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Rocket League | Gruppe B (Runde 1) (2025-12-15 11:30:00)
-http://vip.europaiptv.vip:2086/live/Abdullahtaxiev/JHAVPBpZPX/172635.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6schqd3ix6fa1yi4q5vhryiu0_image-header_pDach_1765383416000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Darts-WM | Tag 5 (Session 1) (2025-12-15 13:30:00)
-http://vip.europaiptv.vip:2086/live/Abdullahtaxiev/JHAVPBpZPX/172636.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/39gwm6hr09hcatsjbi9lwehjc_image-header_pDach_1765383702000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Darts-WM | Tag 5 (Session 1 mit Originalkommentar) (2025-12-15 13:30:00)
-http://vip.europaiptv.vip:2086/live/Abdullahtaxiev/JHAVPBpZPX/172637.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cewkskursmnfvzh15pgsvoagd_image-header_pDach_1764334265000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",1. FC Union Berlin - Eintracht Frankfurt (2025-12-15 18:00:00)
-http://vip.europaiptv.vip:2086/live/Abdullahtaxiev/JHAVPBpZPX/172638.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/eo8xxu00idi05i5gx0915fqad_image-header_pDach_1765383844000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Darts-WM | Tag 5 (Session 2 mit Originalkommentar) (2025-12-15 20:00:00)
-http://vip.europaiptv.vip:2086/live/Abdullahtaxiev/JHAVPBpZPX/172639.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/vm4ibb6rppbd285j7zioj3pv_image-header_pDach_1763022417000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",AS Rom - Como (italienischer Kommentar) (2025-12-15 20:00:00)
-http://vip.europaiptv.vip:2086/live/Abdullahtaxiev/JHAVPBpZPX/172640.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1moq5gpoflir316sjhe1xi41yv_image-header_pDach_1760437439000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Inside The Ring - Dec. 15 (2025-12-15 20:00:00)
-http://vip.europaiptv.vip:2086/live/Abdullahtaxiev/JHAVPBpZPX/172641.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bb2zgcjsf2ujf7kyu13jg3irn_image-header_pDach_1765383542000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Darts-WM | Tag 5 (Session 2) (2025-12-15 20:00:00)
-http://vip.europaiptv.vip:2086/live/Abdullahtaxiev/JHAVPBpZPX/172642.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/b1tz2rk1iqys2kgrubmyt1v0k_image-header_pDach_1765209375000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Castellon - Mirandes (2025-12-15 20:30:00)
-http://vip.europaiptv.vip:2086/live/Abdullahtaxiev/JHAVPBpZPX/172643.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3bd5vlaykablhl6cz0iumj26r_image-header_pDach_1763022417000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",AS Rom - Como (2025-12-15 20:45:00)
-http://vip.europaiptv.vip:2086/live/Abdullahtaxiev/JHAVPBpZPX/172644.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/80y43o94dfokadhqhgy1bjccp_image-header_pDach_1758274979000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Vallecano - Real Betis (2025-12-15 21:00:00)
-http://vip.europaiptv.vip:2086/live/Abdullahtaxiev/JHAVPBpZPX/172645.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3xjf9ft7c00sbczu7zl4s2p78_image-header_pDach_1765209518000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Porto - Estrela (2025-12-15 21:45:00)
-http://vip.europaiptv.vip:2086/live/Abdullahtaxiev/JHAVPBpZPX/172646.m3u8
+# --- DE-DAZN EVENT (21) ---
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ak19ttr144jkoeuivetwkeazi_image-header_pDach_1764340785000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Dolphins @ Steelers (deutscher Kommentar) (2025-12-16 02:15:00)
 http://vip.europaiptv.vip:2086/live/Abdullahtaxiev/JHAVPBpZPX/172647.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/753rwl0lskeakrcfnhpsglxu0_image-header_pDach_1765289532000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Rocket League | Gruppe B (Runde 2) (2025-12-16 11:30:00)
@@ -6507,4 +6483,4 @@ http://vip.europaiptv.vip:2086/live/Abdullahtaxiev/JHAVPBpZPX/165820.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JEtHjJs.png" group-title="WORLD SPORTS",Sky Sport Action HD [UK]
 http://vip.europaiptv.vip:2086/live/Abdullahtaxiev/JHAVPBpZPX/165884.m3u8
 
-# Total: 3193
+# Total: 3181
