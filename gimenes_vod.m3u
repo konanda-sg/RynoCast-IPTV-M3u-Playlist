@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: gimenes.top:8080
-# Generated: 2025-12-16 18:31:47
+# Generated: 2025-12-17 18:40:24
 # Expires: 2026-11-07
 # Family Safe Edition
 # ==============================================
@@ -11787,7 +11787,9 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/251273.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/16k6yE0ctAGIBQbfIMYzvpI3Jwi.jpg" group-title="Movies | FILMES AÇÃO",A PRIMEIRA FILHA (1999)
 http://gimenes.top:8080/movie/denisfonseca/4915334/251850.mp4
 
-# --- Movies | FILMES COMÉDIA (1541) ---
+# --- Movies | FILMES COMÉDIA (1542) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ozZ7B5AJp8l7OA5hWH8BMQU5QB.jpg" group-title="Movies | FILMES COMÉDIA",PAI DO ANO (2024)
+http://gimenes.top:8080/movie/denisfonseca/4915334/255940.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/esiS0CHZJ5wVxnlvmM1NrjHLivj.jpg" group-title="Movies | FILMES COMÉDIA",UMA FAISCA DE NATAL (2022)
 http://gimenes.top:8080/movie/denisfonseca/4915334/255771.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c8FgK92umNLI4KU2WcXoyt8oyrH.jpg" group-title="Movies | FILMES COMÉDIA",NATAL NA FAZENDA (2021)
@@ -16761,7 +16763,9 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/42735.mp4
 #EXTINF:-1 tvg-logo="http://fiqueemcasa.club:80/images/yo2rBT7vdsyWFBH5aoJ8pk7am79_big.jpg" group-title="Movies | FILMES DOCUMENTÁRIOS",TOME SUAS PÍLULAS (2018)
 http://gimenes.top:8080/movie/denisfonseca/4915334/4641.mp4
 
-# --- Movies | FILMES DRAMA (1467) ---
+# --- Movies | FILMES DRAMA (1468) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3jDgXLcbYH5EfrzghJGwsZRVnZ.jpg" group-title="Movies | FILMES DRAMA",SEM MEDO NO CORAÇÃO (1993)
+http://gimenes.top:8080/movie/denisfonseca/4915334/255939.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRqvE6dABictKuLwqQMzq6AptiZ.jpg" group-title="Movies | FILMES DRAMA",A GESTORA (2022)
 http://gimenes.top:8080/movie/denisfonseca/4915334/255836.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l4nRnHbJGWnlKWihm3lkMxnxXVi.jpg" group-title="Movies | FILMES DRAMA",REGRESSAO (2013)
@@ -21159,7 +21163,21 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/142362.mp4
 #EXTINF:-1 tvg-logo="http://fiqueemcasa.club/images/omKzydOrom9kpdfQUE0G9Y9sPl0_small.jpg" group-title="Movies | FILMES GUERRA",WHERE HANDS TOUCH
 http://gimenes.top:8080/movie/denisfonseca/4915334/48749.mp4
 
-# --- Movies | FILMES LANÇAMENTOS (446) ---
+# --- Movies | FILMES LANÇAMENTOS (453) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZ8C2vVGfK5SYASiioTmtZDJjpv.jpg" group-title="Movies | FILMES LANÇAMENTOS",TRUQUE DE MESTRE: O 3° ATO (2025)
+http://gimenes.top:8080/movie/denisfonseca/4915334/255949.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJcthdoBAug14cmphiHAfngV3zK.jpg" group-title="Movies | FILMES LANÇAMENTOS",SISU: ESTRADA DA VINGANÇA (2025)
+http://gimenes.top:8080/movie/denisfonseca/4915334/255948.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZcmQ7tbjsshE4e9rcOKx10ukKM.jpg" group-title="Movies | FILMES LANÇAMENTOS",HONEY, NÃO! (2025)
+http://gimenes.top:8080/movie/denisfonseca/4915334/255947.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vJyme99bj0AP599hnDdesTnPAGL.jpg" group-title="Movies | FILMES LANÇAMENTOS",CRONICAS DE EXORCISMO: O INÍCIO (2025)
+http://gimenes.top:8080/movie/denisfonseca/4915334/255946.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o92hSn5kSJiyTCdJXuoVOIS2Ai0.jpg" group-title="Movies | FILMES LANÇAMENTOS",LEGUA TIRANA (2025)
+http://gimenes.top:8080/movie/denisfonseca/4915334/255945.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nXlmi60bayyqqJY85Fx9nKkRogp.jpg" group-title="Movies | FILMES LANÇAMENTOS",ESPECIAL BELEZA FATAL (2025)
+http://gimenes.top:8080/movie/denisfonseca/4915334/255944.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nUHX8dLriLUlafp8rZlMPBkFj4a.jpg" group-title="Movies | FILMES LANÇAMENTOS",ENTRE CHEGADAS E DESPEDIDAS (2025)
+http://gimenes.top:8080/movie/denisfonseca/4915334/255943.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8nBuPCAXLFSuUBjO1WvJ2blEVmK.jpg" group-title="Movies | FILMES LANÇAMENTOS",O SOBREVIVENTE (2025)
 http://gimenes.top:8080/movie/denisfonseca/4915334/255848.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wJnb4ikygiVuYLuvj4b4Jpvudn1.jpg" group-title="Movies | FILMES LANÇAMENTOS",NE ZHA 2: O RENASCER DA ALMA (2025)
@@ -22053,7 +22071,11 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/223641.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1aZxghCHlQK07xymiqs1C4YdqC.jpg" group-title="Movies | FILMES LANÇAMENTOS",UMJOLO: ENTRE DOIS AMORES (2025)
 http://gimenes.top:8080/movie/denisfonseca/4915334/223573.mp4
 
-# --- Movies | FILMES LEGENDADOS (1065) ---
+# --- Movies | FILMES LEGENDADOS (1067) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81RvWWnNdjjkZhleMGjSqj601XS.jpg" group-title="Movies | FILMES LEGENDADOS",O RESPONDENTE - LEG (2025)
+http://gimenes.top:8080/movie/denisfonseca/4915334/255942.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eEnBsnTnqUFDQADJMMHmQsR2rWe.jpg" group-title="Movies | FILMES LEGENDADOS",ORWELL: 2+2=5 - LEG (2025)
+http://gimenes.top:8080/movie/denisfonseca/4915334/255941.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gd5KP6N47heuT1zb5vSp97OMON5.jpg" group-title="Movies | FILMES LEGENDADOS",TRUE BEAUTY: THE MOVIE - LEG (2025)
 http://gimenes.top:8080/movie/denisfonseca/4915334/255843.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NncPn9afuyPEqf48zofeSF4uq7.jpg" group-title="Movies | FILMES LEGENDADOS",TRUE BEAUTY: THE MOVIE - PART 2 - LEG (2025)
@@ -29997,4 +30019,4 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/166843.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhTm83svrLTM4JdwzJ1FjL63SQN.jpg" group-title="Movies | SHOWS",BEBE REXHA - THE TOWN (2023)
 http://gimenes.top:8080/movie/denisfonseca/4915334/166842.mp4
 
-# Total: 14954
+# Total: 14965

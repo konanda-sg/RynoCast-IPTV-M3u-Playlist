@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: line.queen-pro.cc
-# Generated: 2025-12-17 06:58:59
+# Generated: 2025-12-17 18:28:00
 # Expires: 2026-01-29
 # Family Safe Edition
 # ==============================================
@@ -5502,7 +5502,7 @@ http://line.queen-pro.cc/live/GTAHVWZZ2P/YZMKO1BKVK/1442089.m3u8
 http://line.queen-pro.cc/live/GTAHVWZZ2P/YZMKO1BKVK/1442090.m3u8
 
 # --- SC ▎SPFL (7) ---
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc//spfl.png" group-title="SC ▎SPFL",SPFL 01 :
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc//spfl.png" group-title="SC ▎SPFL",SPFL 01 : 20:00 Dundee United vs Celtic
 http://line.queen-pro.cc/live/GTAHVWZZ2P/YZMKO1BKVK/546776.m3u8
 #EXTINF:-1 tvg-logo="https://img.logo-cdn.cc//spfl.png" group-title="SC ▎SPFL",SPFL 02 :
 http://line.queen-pro.cc/live/GTAHVWZZ2P/YZMKO1BKVK/546777.m3u8
@@ -11512,9 +11512,9 @@ http://line.queen-pro.cc/live/GTAHVWZZ2P/YZMKO1BKVK/1457421.m3u8
 http://line.queen-pro.cc/live/GTAHVWZZ2P/YZMKO1BKVK/1457428.m3u8
 
 # --- US ▎NBA (15) ---
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/nbatv.png" group-title="US ▎NBA",NBA 01:
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/nbatv.png" group-title="US ▎NBA",NBA 01:  Cleveland Cavaliers vs Chicago Bulls | Wed 17th Dec 8:00PM ET
 http://line.queen-pro.cc/live/GTAHVWZZ2P/YZMKO1BKVK/717751.m3u8
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/nbatv.png" group-title="US ▎NBA",NBA 02:
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/nbatv.png" group-title="US ▎NBA",NBA 02:  Memphis Grizzlies vs Minnesota Timberwolves | Wed 17th Dec 8:00PM ET
 http://line.queen-pro.cc/live/GTAHVWZZ2P/YZMKO1BKVK/717752.m3u8
 #EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/nbatv.png" group-title="US ▎NBA",NBA 03:
 http://line.queen-pro.cc/live/GTAHVWZZ2P/YZMKO1BKVK/717753.m3u8
@@ -12501,16 +12501,14 @@ http://line.queen-pro.cc/live/GTAHVWZZ2P/YZMKO1BKVK/361950.m3u8
 #EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/nflnetwork.png" group-title="US ▎NFL TEAMS",NFL: VIKINGS HD
 http://line.queen-pro.cc/live/GTAHVWZZ2P/YZMKO1BKVK/361951.m3u8
 
-# --- US ▎NHL (16) ---
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/nhlnetwork.png" group-title="US ▎NHL",NHL 00:
+# --- US ▎NHL (15) ---
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/nhlnetwork.png" group-title="US ▎NHL",NHL 00:  Los Angeles Kings vs Florida Panthers | Wed 17th Dec 7:00 PM ET
 http://line.queen-pro.cc/live/GTAHVWZZ2P/YZMKO1BKVK/745244.m3u8
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/nhlnetwork.png" group-title="US ▎NHL",NHL 01:
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/nhlnetwork.png" group-title="US ▎NHL",NHL 01:  Utah Mammoth vs Detroit Red Wings | Wed 17th Dec 7:30 PM ET
 http://line.queen-pro.cc/live/GTAHVWZZ2P/YZMKO1BKVK/409600.m3u8
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/nhlnetwork.png" group-title="US ▎NHL",NHL 02:
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/nhlnetwork.png" group-title="US ▎NHL",NHL 02:  Carolina Hurricanes vs Nashville Predators | Wed 17th Dec 8:00 PM ET
 http://line.queen-pro.cc/live/GTAHVWZZ2P/YZMKO1BKVK/409599.m3u8
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/nhlnetwork.png" group-title="US ▎NHL",NHL 03:
-http://line.queen-pro.cc/live/GTAHVWZZ2P/YZMKO1BKVK/409598.m3u8
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/nhlnetwork.png" group-title="US ▎NHL",NHL 04:
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/nhlnetwork.png" group-title="US ▎NHL",NHL 04:   New Jersey Devils vs Vegas Golden Knights | Wed 17th Dec 10:00 PM ET
 http://line.queen-pro.cc/live/GTAHVWZZ2P/YZMKO1BKVK/409601.m3u8
 #EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/nhlnetwork.png" group-title="US ▎NHL",NHL 05:
 http://line.queen-pro.cc/live/GTAHVWZZ2P/YZMKO1BKVK/409602.m3u8
@@ -13874,29 +13872,29 @@ http://line.queen-pro.cc/live/GTAHVWZZ2P/YZMKO1BKVK/1453035.m3u8
 http://line.queen-pro.cc/live/GTAHVWZZ2P/YZMKO1BKVK/1453036.m3u8
 
 # --- US ▎SOCCER (100) ---
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/soccer.png" group-title="US ▎SOCCER",SOCCER 01:
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/soccer.png" group-title="US ▎SOCCER",SOCCER 01:  Netherlands. KNVB beker | Excelsior Maassluis vs. Ajax Amsterdam | Wednesday. 17 December 2025 17:45
 http://line.queen-pro.cc/live/GTAHVWZZ2P/YZMKO1BKVK/734942.m3u8
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/soccer.png" group-title="US ▎SOCCER",SOCCER 02:
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/soccer.png" group-title="US ▎SOCCER",SOCCER 02:Spain. Copa del Rey | Racing Santander vs. Villarreal CF | Wednesday. 17 December 2025 18:00
 http://line.queen-pro.cc/live/GTAHVWZZ2P/YZMKO1BKVK/734943.m3u8
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/soccer.png" group-title="US ▎SOCCER",SOCCER 03:
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/soccer.png" group-title="US ▎SOCCER",SOCCER 03:  Netherlands. KNVB beker | Roda JC Kerkrade vs. Go Ahead Eagles | Wednesday. 17 December 2025 19:00
 http://line.queen-pro.cc/live/GTAHVWZZ2P/YZMKO1BKVK/734944.m3u8
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/soccer.png" group-title="US ▎SOCCER",SOCCER 04:
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/soccer.png" group-title="US ▎SOCCER",SOCCER 04:  England. EFL Cup | Manchester City vs. Brentford FC | Wednesday. 17 December 2025 19:30
 http://line.queen-pro.cc/live/GTAHVWZZ2P/YZMKO1BKVK/734945.m3u8
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/soccer.png" group-title="US ▎SOCCER",SOCCER 05:
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/soccer.png" group-title="US ▎SOCCER",SOCCER 05:   Switzerland. Super League | Young Boys Bern vs. Grasshopper Club Zurich | Wednesday. 17 December 2025 19:30
 http://line.queen-pro.cc/live/GTAHVWZZ2P/YZMKO1BKVK/734946.m3u8
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/soccer.png" group-title="US ▎SOCCER",SOCCER 06:
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/soccer.png" group-title="US ▎SOCCER",SOCCER 06:  UEFA Champions League. Women | AS Roma vs. SKN St. Polten | Wednesday. 17 December 2025 20:00
 http://line.queen-pro.cc/live/GTAHVWZZ2P/YZMKO1BKVK/734947.m3u8
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/soccer.png" group-title="US ▎SOCCER",SOCCER 07:
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/soccer.png" group-title="US ▎SOCCER",SOCCER 07: Netherlands. KNVB beker | Feyenoord Rotterdam vs. SC Heerenveen | Wednesday. 17 December 2025 20:00
 http://line.queen-pro.cc/live/GTAHVWZZ2P/YZMKO1BKVK/734948.m3u8
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/soccer.png" group-title="US ▎SOCCER",SOCCER 08:
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/soccer.png" group-title="US ▎SOCCER",SOCCER 08:  UEFA Champions League. Women | Juventus Turin vs. Manchester United WFC | Wednesday. 17 December 2025 20:00
 http://line.queen-pro.cc/live/GTAHVWZZ2P/YZMKO1BKVK/734949.m3u8
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/soccer.png" group-title="US ▎SOCCER",SOCCER 09:
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/soccer.png" group-title="US ▎SOCCER",SOCCER 09:  UEFA Champions League. Women | Paris FC vs. FC Barcelona | Wednesday. 17 December 2025 20:00
 http://line.queen-pro.cc/live/GTAHVWZZ2P/YZMKO1BKVK/734950.m3u8
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/soccer.png" group-title="US ▎SOCCER",SOCCER 10:
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/soccer.png" group-title="US ▎SOCCER",SOCCER 10:  Spain. Copa del Rey | CF Talavera de La Reina vs. Real Madrid | Wednesday. 17 December 2025 20:00
 http://line.queen-pro.cc/live/GTAHVWZZ2P/YZMKO1BKVK/734951.m3u8
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/soccer.png" group-title="US ▎SOCCER",SOCCER 11:
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/soccer.png" group-title="US ▎SOCCER",SOCCER 11:   England. EFL Cup | Newcastle United vs. Fulham FC | Wednesday. 17 December 2025 20:15
 http://line.queen-pro.cc/live/GTAHVWZZ2P/YZMKO1BKVK/734952.m3u8
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/soccer.png" group-title="US ▎SOCCER",SOCCER 12:
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/soccer.png" group-title="US ▎SOCCER",SOCCER 12:  Portugal. Taca de Portugal | SC Farense vs. Benfica Lisbon | Wednesday. 17 December 2025 20:45
 http://line.queen-pro.cc/live/GTAHVWZZ2P/YZMKO1BKVK/734953.m3u8
 #EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/soccer.png" group-title="US ▎SOCCER",SOCCER 13:
 http://line.queen-pro.cc/live/GTAHVWZZ2P/YZMKO1BKVK/734954.m3u8
@@ -14579,4 +14577,4 @@ http://line.queen-pro.cc/live/GTAHVWZZ2P/YZMKO1BKVK/1770572.m3u8
 #EXTINF:-1 tvg-logo="" group-title="XMAS ▎CHRISTMAS",XMAS ▎ONEPLAY XMAS-MUSIC 2 HD
 http://line.queen-pro.cc/live/GTAHVWZZ2P/YZMKO1BKVK/1770573.m3u8
 
-# Total: 7097
+# Total: 7096

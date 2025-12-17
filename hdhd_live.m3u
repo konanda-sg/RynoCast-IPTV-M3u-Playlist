@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: hdhd.tk:80
-# Generated: 2025-12-17 07:03:47
+# Generated: 2025-12-17 18:28:20
 # Expires: 2027-01-09
 # Family Safe Edition
 # ==============================================
@@ -5116,7 +5116,7 @@ http://hdhd.tk:80/live/b0327/6685/91.m3u8
 http://hdhd.tk:80/live/b0327/6685/638.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/NatGeoWild.us.png" group-title="USA Documentary",US Nat Geo Wild
 http://hdhd.tk:80/live/b0327/6685/640.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/NatGeo.us.png" group-title="USA Documentary",US Nat Geo East
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/NatGeo.us.png" group-title="USA Documentary",US Nat Geo
 http://hdhd.tk:80/live/b0327/6685/641.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/DestinationAmerica.us.png" group-title="USA Documentary",US Destination America
 http://hdhd.tk:80/live/b0327/6685/642.m3u8
@@ -6669,7 +6669,7 @@ http://hdhd.tk:80/live/b0327/6685/396926.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/nhl.png" group-title="USA NHL",USA NHL 42:
 http://hdhd.tk:80/live/b0327/6685/396927.m3u8
 
-# --- USA Network (131) ---
+# --- USA Network (185) ---
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/AandE.us.png" group-title="USA Network",US A&E
 http://hdhd.tk:80/live/b0327/6685/55.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/AMC.us.png" group-title="USA Network",US AMC
@@ -6842,8 +6842,6 @@ http://hdhd.tk:80/live/b0327/6685/350516.m3u8
 http://hdhd.tk:80/live/b0327/6685/351471.m3u8
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/bouncetv.png" group-title="USA Network",US Bounce TV (KMCI-DT1) Lawrence
 http://hdhd.tk:80/live/b0327/6685/351476.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA Network",US Bounce TV (KMCI-DT1) Lawrence
-http://hdhd.tk:80/live/b0327/6685/351477.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA Network",US TCN - The Country Network (HG)
 http://hdhd.tk:80/live/b0327/6685/354694.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA Network",US BYUtv
@@ -6932,6 +6930,116 @@ http://hdhd.tk:80/live/b0327/6685/384951.m3u8
 http://hdhd.tk:80/live/b0327/6685/384957.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA Network",US Shop LC
 http://hdhd.tk:80/live/b0327/6685/384958.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Network",US FXM
+http://hdhd.tk:80/live/b0327/6685/397919.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Network",US (NBC) MS NOW
+http://hdhd.tk:80/live/b0327/6685/397920.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Network",US All Day Drama
+http://hdhd.tk:80/live/b0327/6685/397921.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Network",US CBS News Baltimore
+http://hdhd.tk:80/live/b0327/6685/397922.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Network",US CBS News Bay Area
+http://hdhd.tk:80/live/b0327/6685/397923.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Network",US CBS News Boston
+http://hdhd.tk:80/live/b0327/6685/397924.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Network",US CBS News Chicago
+http://hdhd.tk:80/live/b0327/6685/397925.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Network",US CBS News Colorado
+http://hdhd.tk:80/live/b0327/6685/397926.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Network",US CBS News Detroit
+http://hdhd.tk:80/live/b0327/6685/397927.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Network",US CBS News Miami
+http://hdhd.tk:80/live/b0327/6685/397928.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Network",US CBS News Minnesota
+http://hdhd.tk:80/live/b0327/6685/397929.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Network",US CBS News Philadelphia
+http://hdhd.tk:80/live/b0327/6685/397930.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Network",US CBS News Pittsburgh
+http://hdhd.tk:80/live/b0327/6685/397931.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Network",US CBS News Sacramento
+http://hdhd.tk:80/live/b0327/6685/397932.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Network",US CBS News Texas
+http://hdhd.tk:80/live/b0327/6685/397933.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Network",US CBS News Local
+http://hdhd.tk:80/live/b0327/6685/397934.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Network",US CBS News Los Angeles
+http://hdhd.tk:80/live/b0327/6685/397935.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Network",US CBS News New York
+http://hdhd.tk:80/live/b0327/6685/397936.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Network",US CBS Sports Golazo Network
+http://hdhd.tk:80/live/b0327/6685/397937.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Network",US South Park
+http://hdhd.tk:80/live/b0327/6685/397938.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Network",US aspireTV
+http://hdhd.tk:80/live/b0327/6685/397939.m3u8
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/bounce.png" group-title="USA Network",US Bounce
+http://hdhd.tk:80/live/b0327/6685/397940.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Network",US (FD) BYU TV
+http://hdhd.tk:80/live/b0327/6685/397941.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Network",US (FD) Classic Rock
+http://hdhd.tk:80/live/b0327/6685/397942.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Network",US (FD) CLEO TV
+http://hdhd.tk:80/live/b0327/6685/397943.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Network",US (FD) Cowboy Way
+http://hdhd.tk:80/live/b0327/6685/397944.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Network",US (FD) Craftsy TV
+http://hdhd.tk:80/live/b0327/6685/397945.m3u8
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/dabl.png" group-title="USA Network",US (FD) dabl
+http://hdhd.tk:80/live/b0327/6685/397946.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Network",US (FD) Dove Channel
+http://hdhd.tk:80/live/b0327/6685/397947.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Network",US (FD) Dove Movies
+http://hdhd.tk:80/live/b0327/6685/397948.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Network",US (FD) Dove Spirit of the Heart Land
+http://hdhd.tk:80/live/b0327/6685/397949.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Network",US (FD) Envoy TV
+http://hdhd.tk:80/live/b0327/6685/397950.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Network",US (FD) Family Movie Classics
+http://hdhd.tk:80/live/b0327/6685/397951.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Network",US (FD) Flashback 70s
+http://hdhd.tk:80/live/b0327/6685/397952.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Network",US (FD) Frndly Holiday Yule Log
+http://hdhd.tk:80/live/b0327/6685/397953.m3u8
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/greatamericanliving.png" group-title="USA Network",US (FD) Great American Faith & Living
+http://hdhd.tk:80/live/b0327/6685/397954.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Network",US (FD) grit
+http://hdhd.tk:80/live/b0327/6685/397955.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Network",US (FD) GZ Curse of Oak Island
+http://hdhd.tk:80/live/b0327/6685/397956.m3u8
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/hallmarkfamily.png" group-title="USA Network",US Hallmark Family
+http://hdhd.tk:80/live/b0327/6685/397959.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Network",US (FD) Hallmark Movies Mysteries
+http://hdhd.tk:80/live/b0327/6685/397960.m3u8
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/history.png" group-title="USA Network",US (FD) History
+http://hdhd.tk:80/live/b0327/6685/397961.m3u8
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/ionmystery.png" group-title="USA Network",US (FD) ion Mystery
+http://hdhd.tk:80/live/b0327/6685/397963.m3u8
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/ionplus.png" group-title="USA Network",US (FD) ion PLUS
+http://hdhd.tk:80/live/b0327/6685/397964.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Network",US (FD) JZ Travel Through the Decades Retro TV Banner
+http://hdhd.tk:80/live/b0327/6685/397967.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Network",US (FD) Lifetime Movie Network
+http://hdhd.tk:80/live/b0327/6685/397968.m3u8
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/localnow.png" group-title="USA Network",US (FD) Local Now
+http://hdhd.tk:80/live/b0327/6685/397969.m3u8
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/militaryhistory.png" group-title="USA Network",US (FD) Military History
+http://hdhd.tk:80/live/b0327/6685/397970.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Network",US (FD) MovieSphere Gold
+http://hdhd.tk:80/live/b0327/6685/397971.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Network",US (FD) OZ Generic Banner
+http://hdhd.tk:80/live/b0327/6685/397972.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Network",US (FD) Remember the 80s
+http://hdhd.tk:80/live/b0327/6685/397973.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Network",US (FD) Stingray Greatest Holiday Hits
+http://hdhd.tk:80/live/b0327/6685/397974.m3u8
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/stingrayholidayhits.png" group-title="USA Network",US (FD) Stingray Holidayscapes
+http://hdhd.tk:80/live/b0327/6685/397975.m3u8
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/uptv.png" group-title="USA Network",US (FD) UPTV
+http://hdhd.tk:80/live/b0327/6685/397976.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Network",US (FD) WEST
+http://hdhd.tk:80/live/b0327/6685/397977.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Network",US (FD) Z Stingray Marketing Banner
+http://hdhd.tk:80/live/b0327/6685/397978.m3u8
 
 # --- USA News (104) ---
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/bbcamerica.png" group-title="USA News",US BBC America
@@ -7681,4 +7789,4 @@ http://hdhd.tk:80/live/b0327/6685/330321.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Vietnam",VN FILM24H
 http://hdhd.tk:80/live/b0327/6685/330322.m3u8
 
-# Total: 3746
+# Total: 3800

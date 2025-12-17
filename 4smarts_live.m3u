@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 4smarts.xyz
-# Generated: 2025-12-17 07:06:23
+# Generated: 2025-12-17 18:38:53
 # Expires: 2026-01-01
 # Family Safe Edition
 # ==============================================
@@ -1881,7 +1881,7 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1339221.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 10 4K
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1339222.m3u8
 
-# --- AR | BEIN SPORTS (218) ---
+# --- AR | BEIN SPORTS (171) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/bein/bein-sports-special.png" group-title="AR | BEIN SPORTS",##### AR - BEIN SPORTS FHD #####
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/79702.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_NEWS1.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS NEWS FHD
@@ -2110,100 +2110,6 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/551291.m3u8
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1347397.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_NBA.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS NBA SD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/987020.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/bein/bein-sports-special.png" group-title="AR | BEIN SPORTS",#### AR - BEIN SPORTS MAX #####
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/986991.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_1.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS MAX 1 FHD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914502.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_1.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS MAX 1 FHD²
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914585.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_1.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS MAX 1 FHD³
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914515.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_1.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS MAX 1 FHD⁴
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914519.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_1.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS MAX 1 HD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914591.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_1.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS MAX 1 HD²
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914503.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_1.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS MAX 1 SD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914490.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_1.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS MAX 1 SD ²
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914597.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_1.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS MAX 1 SD ³
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914495.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_1.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS MAX 1 SD⁴
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914507.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_2.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS MAX 2 FHD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914501.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_2.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS MAX 2 FHD²
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914586.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_2.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS MAX 2 FHD³
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914516.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_2.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS MAX 2 FHD⁴
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914520.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_2.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS MAX 2 HD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914592.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_2.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS MAX 2 HD²
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914504.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_2.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS MAX 2 SD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914489.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_2.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS MAX 2 SD ²
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914598.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_2.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS MAX 2 SD ³
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914496.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_2.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS MAX 2 SD⁴
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914508.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_3.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS MAX 3 FHD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914500.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_3.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS MAX 3 FHD²
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914587.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_3.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS MAX 3 HD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914593.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_3.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS MAX 3  SD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914488.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_3.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS MAX 3 SD ²
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914599.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_3.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS MAX 3 SD³
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914497.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_3.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS MAX 3 ENGLISH FHD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914517.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_3.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS MAX 3 ENGLISH FHD²
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914521.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_3.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS MAX 3 ENGLISH HD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914505.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_3.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS MAX 3 ENGLISH SD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914509.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_4.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS MAX 4 FHD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914499.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_4.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS MAX 4 FHD²
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914588.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_4.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS MAX 4 HD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914594.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_4.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS MAX 4  SD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914487.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_4.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS MAX 4 SD ²
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914600.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_4.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS MAX 4 SD ³
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914498.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_4.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS MAX 4 FRENCH FHD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914518.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_4.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS MAX 4 FRENCH FHD²
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914522.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_4.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS MAX 4 FRENCH HD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914506.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_4.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS MAX 4 FRENCH SD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914510.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_5.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS MAX 5 FHD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914589.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_5.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS MAX 5 HD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914595.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_5.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS MAX 5  SD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914601.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_6.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS MAX 6 FHD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914590.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_6.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS MAX 6 HD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914596.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_6.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS MAX 6  SD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914602.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/bein/bein-sports-special.png" group-title="AR | BEIN SPORTS",##### AR - BEIN SPORTS XTRA #####
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1142665.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_XTRA_1.png" group-title="AR | BEIN SPORTS",AR - beIN SPORTS XTRA 1 HEVC
@@ -2319,15 +2225,15 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/551305.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2_ENGLISH2.png" group-title="AR | BEIN SPORTS",EN - BEIN SPORTS 2 ENGLISH SD³
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/550000.m3u8
 
-# --- AR | BEIN SPORTS 4K (82) ---
+# --- AR | BEIN SPORTS 4K (75) ---
+#EXTINF:-1 tvg-logo="https://go4.pw/BEIN/bss4k.png" group-title="AR | BEIN SPORTS 4K",##### AR - BEIN SPORTS 4K #####
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/207574.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_NEWS1.png" group-title="AR | BEIN SPORTS 4K",AR - BEIN SPORTS NEWS 4K
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/333932.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_GLOBAL.png" group-title="AR | BEIN SPORTS 4K",AR - BEIN SPORTS GLOBAL 4K
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/333931.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_NBA.png" group-title="AR | BEIN SPORTS 4K",AR - BEIN SPORTS NBA 4K
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/271226.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/BEIN/bss4k.png" group-title="AR | BEIN SPORTS 4K",##### AR - BEIN SPORTS 4K #####
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/207574.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png" group-title="AR | BEIN SPORTS 4K",AR - BEIN SPORTS 1 4K
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/203885.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png" group-title="AR | BEIN SPORTS 4K",AR - BEIN SPORTS 1 4K²
@@ -2360,20 +2266,6 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/552076.m3u8
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/552077.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_9.png" group-title="AR | BEIN SPORTS 4K",AR - BEIN SPORTS 9 4K²
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/552078.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/BEIN/bss4k.png" group-title="AR | BEIN SPORTS 4K",##### AR - BEIN SPORTS MAX 4K #####
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1306287.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_1.png" group-title="AR | BEIN SPORTS 4K",AR - BEIN SPORTS MAX 1 4K
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914472.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_2.png" group-title="AR | BEIN SPORTS 4K",AR - BEIN SPORTS MAX 2 4K
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914473.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_3.png" group-title="AR | BEIN SPORTS 4K",AR - BEIN SPORTS MAX 3 4K
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914474.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_4.png" group-title="AR | BEIN SPORTS 4K",AR - BEIN SPORTS MAX 4 4K
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914475.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_5.png" group-title="AR | BEIN SPORTS 4K",AR - BEIN SPORTS MAX 5 4K
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914476.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_6.png" group-title="AR | BEIN SPORTS 4K",AR - BEIN SPORTS MAX 6 4K
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914477.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/BEIN/bss4k.png" group-title="AR | BEIN SPORTS 4K",##### AR - BEIN SPORTS XTRA 4K #####
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1306288.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_XTRA_1.png" group-title="AR | BEIN SPORTS 4K",AR - BEIN SPORTS 1 XTRA 4K²
@@ -2484,6 +2376,74 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1306297.m3u8
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/149625.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2_FRENCH2.png" group-title="AR | BEIN SPORTS 4K",AR - BEIN SPORTS FRENCH 2 UHD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/211673.m3u8
+
+# --- AR | BEIN SPORTS MAX (33) ---
+#EXTINF:-1 tvg-logo="https://go4.pw/bein/bein-sports-special.png" group-title="AR | BEIN SPORTS MAX",#### AR - BEIN SPORTS MAX #####
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/986991.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_1.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 1 4K
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914472.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_1.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 1 FHD
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914502.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_1.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 1 FHD²
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914585.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_1.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 1 FHD³
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914515.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_1.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 1 HD
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914591.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_1.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 1 HD²
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914503.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_1.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 1 SD
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914490.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_1.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 1 SD ²
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914597.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_1.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 1 SD ³
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914495.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_2.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 2 4K
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914473.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_2.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 2 FHD
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914501.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_2.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 2 FHD²
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914586.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_2.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 2 FHD³
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914516.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_2.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 2 HD
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914592.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_2.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 2 HD²
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914504.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_2.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 2 SD
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914489.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_2.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 2 SD ²
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914598.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_2.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 2 SD ³
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914496.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_3.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 3 4K
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914474.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_3.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 3 FHD
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914500.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_3.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 3 FHD²
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914587.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_3.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 3 HD
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914593.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_3.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 3  SD
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914488.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_3.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 3 SD ²
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914599.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_3.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 3 SD³
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914497.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_4.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 4 4K
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914475.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_4.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 4 FHD
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914499.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_4.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 4 FHD²
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914588.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_4.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 4 HD
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914594.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_4.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 4  SD
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914487.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_4.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 4 SD ²
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914600.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_4.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 4 SD ³
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914498.m3u8
 
 # --- AS | MALAYSIA (243) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/MALAYSIA.png" group-title="AS | MALAYSIA",##### MY - MALAYSIA #####
@@ -14281,6 +14241,48 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1287083.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="VIP | 4K ULTRA HD",VIP - SKY PRIMAFILA 9 4K
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1287084.m3u8
 
+# --- VIP | AFCON MOROCCO 2025 (20) ---
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="VIP | AFCON MOROCCO 2025",##### ARABIC #####
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1095960.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/afcon2025.png" group-title="VIP | AFCON MOROCCO 2025",AR - MOROCCO VS COMOROS - 21 DEC 20:00 CET
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1095953.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/afcon2025.png" group-title="VIP | AFCON MOROCCO 2025",AR - NO MATCH
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1095952.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/afcon2025.png" group-title="VIP | AFCON MOROCCO 2025",AR - NO MATCH
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1095951.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/afcon2025.png" group-title="VIP | AFCON MOROCCO 2025",AR - NO MATCH
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1095950.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/frlog.png" group-title="VIP | AFCON MOROCCO 2025",##### FRENCH #####
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1095959.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/afcon2025.png" group-title="VIP | AFCON MOROCCO 2025",FR - MOROCCO VS COMOROS - 21 DEC 20:00 CET
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1095948.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/afcon2025.png" group-title="VIP | AFCON MOROCCO 2025",FR - NO MATCH
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1095947.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/afcon2025.png" group-title="VIP | AFCON MOROCCO 2025",FR - NO MATCH
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1095946.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/afcon2025.png" group-title="VIP | AFCON MOROCCO 2025",FR - NO MATCH
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1095944.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="VIP | AFCON MOROCCO 2025",##### ENGLISH #####
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1095955.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/afcon2025.png" group-title="VIP | AFCON MOROCCO 2025",EN - MOROCCO VS COMOROS - 21 DEC 20:00 CET
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1095943.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/afcon2025.png" group-title="VIP | AFCON MOROCCO 2025",EN - NO MATCH
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1095942.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/afcon2025.png" group-title="VIP | AFCON MOROCCO 2025",EN - NO MATCH
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1095941.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/afcon2025.png" group-title="VIP | AFCON MOROCCO 2025",EN - NO MATCH
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1095940.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/SPAIN.png" group-title="VIP | AFCON MOROCCO 2025",##### SPANISH #####
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1095954.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/afcon2025.png" group-title="VIP | AFCON MOROCCO 2025",SP - MOROCCO VS COMOROS - 21 DEC 20:00 CET
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1095939.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/afcon2025.png" group-title="VIP | AFCON MOROCCO 2025",SP - NO MATCH
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1095933.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/afcon2025.png" group-title="VIP | AFCON MOROCCO 2025",SP - NO MATCH
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1095932.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/afcon2025.png" group-title="VIP | AFCON MOROCCO 2025",SP - NO MATCH
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1095931.m3u8
+
 # --- VIP | BUNDESLIGA (40) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/FLAGS/flag_germany.png" group-title="VIP | BUNDESLIGA",##### DEUTSCH #####
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1017979.m3u8
@@ -15383,4 +15385,4 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/363875.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",ES - NO MATCH
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/682940.m3u8
 
-# Total: 7591
+# Total: 7590

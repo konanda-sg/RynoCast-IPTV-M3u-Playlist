@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: kaliteiptv.live:8080
-# Generated: 2025-12-17 07:06:00
+# Generated: 2025-12-17 18:40:21
 # Expires: 2026-04-09
 # Family Safe Edition
 # ==============================================
@@ -4407,7 +4407,9 @@ http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/778957.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/haberlogo/trtarabi.png" group-title="TR | HABER",TR | TRT ARABİ
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/778958.m3u8
 
-# --- TR | LYNX DİZİLER 7/24 (42) ---
+# --- TR | LYNX DİZİLER 7/24 (43) ---
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/0paradegassalstreamlogo.png" group-title="TR | LYNX DİZİLER 7/24",7/24 | PARADE GASSAL
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1187971.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/esrefruya.png" group-title="TR | LYNX DİZİLER 7/24",7/24 | PARADE EŞREF RÜYA
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1183806.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/nemlizade.png" group-title="TR | LYNX DİZİLER 7/24",7/24 | PARADE NEMLIZADE
@@ -6031,4 +6033,4 @@ http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/855313.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WO | WORLDSPORT",US | NBA 10
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/855314.m3u8
 
-# Total: 2952
+# Total: 2953

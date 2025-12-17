@@ -1,13 +1,13 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: exploding.one
-# Generated: 2025-12-17 06:59:16
+# Generated: 2025-12-17 18:28:34
 # Expires: 2026-03-12
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | 4K Ultra HD (628) ---
+# --- Movies | 4K Ultra HD (629) ---
 #EXTINF:-1 tvg-logo="https://porky.pro/movie/55721/poster.jpg" group-title="Movies | 4K Ultra HD",Bridesmaids (2011)
 http://exploding.one/movie/CBrito972/3jqZ2qMCn3/329685.mkv
 #EXTINF:-1 tvg-logo="https://porky.pro/movie/100402/poster.jpg" group-title="Movies | 4K Ultra HD",Captain America: The Winter Soldier (2014)
@@ -1264,6 +1264,8 @@ http://exploding.one/movie/CBrito972/3jqZ2qMCn3/330312.mkv
 http://exploding.one/movie/CBrito972/3jqZ2qMCn3/508612.mkv
 #EXTINF:-1 tvg-logo="https://porky.pro/movie/425274/poster.jpg" group-title="Movies | 4K Ultra HD",Now You See Me: Now You Don't (2025)
 http://exploding.one/movie/CBrito972/3jqZ2qMCn3/553410.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/798645/poster.jpg" group-title="Movies | 4K Ultra HD",The Running Man (2025)
+http://exploding.one/movie/CBrito972/3jqZ2qMCn3/553864.mkv
 
 # --- Movies | A&E (44) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | A&E",Duck Dynasty
@@ -1781,7 +1783,7 @@ http://exploding.one/movie/CBrito972/3jqZ2qMCn3/10975.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | AMC",Monsieur Spade
 http://exploding.one/movie/CBrito972/3jqZ2qMCn3/11014.mp4
 
-# --- Movies | Action (1490) ---
+# --- Movies | Action (1492) ---
 #EXTINF:-1 tvg-logo="https://porky.pro/movie/757725/poster.jpg" group-title="Movies | Action",Shadow Force (2025)
 http://exploding.one/movie/CBrito972/3jqZ2qMCn3/314600.mkv
 #EXTINF:-1 tvg-logo="https://porky.pro/movie/8374/poster.jpg" group-title="Movies | Action",The Boondock Saints (1999)
@@ -4762,6 +4764,10 @@ http://exploding.one/movie/CBrito972/3jqZ2qMCn3/508608.mp4
 http://exploding.one/movie/CBrito972/3jqZ2qMCn3/508610.mkv
 #EXTINF:-1 tvg-logo="https://porky.pro/movie/1387382/poster.jpg" group-title="Movies | Action",Hunting Season (2025)
 http://exploding.one/movie/CBrito972/3jqZ2qMCn3/553407.mp4
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/37835/poster.jpg" group-title="Movies | Action",The Exterminator (1980)
+http://exploding.one/movie/CBrito972/3jqZ2qMCn3/553898.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/798645/poster.jpg" group-title="Movies | Action",The Running Man (2025)
+http://exploding.one/movie/CBrito972/3jqZ2qMCn3/553899.mp4
 
 # --- Movies | Action & Adventure (89) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Action & Adventure",Burn Notice
@@ -16801,7 +16807,7 @@ http://exploding.one/movie/CBrito972/3jqZ2qMCn3/10909.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Disney +",WandaVision
 http://exploding.one/movie/CBrito972/3jqZ2qMCn3/10942.mp4
 
-# --- Movies | Documentaries (411) ---
+# --- Movies | Documentaries (412) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Documentaries",Haunted History
 http://exploding.one/movie/CBrito972/3jqZ2qMCn3/5122.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Documentaries",Celebrity Obsessed
@@ -17624,6 +17630,8 @@ http://exploding.one/movie/CBrito972/3jqZ2qMCn3/11082.mp4
 http://exploding.one/movie/CBrito972/3jqZ2qMCn3/11092.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Documentaries",Baseball
 http://exploding.one/movie/CBrito972/3jqZ2qMCn3/11096.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Documentaries",Stax: Soulsville USA
+http://exploding.one/movie/CBrito972/3jqZ2qMCn3/11100.mp4
 
 # --- Movies | Documentary (1377) ---
 #EXTINF:-1 tvg-logo="https://porky.pro/movie/888676/poster.jpg" group-title="Movies | Documentary",Women of the White Buffalo (2022)
@@ -20381,7 +20389,7 @@ http://exploding.one/movie/CBrito972/3jqZ2qMCn3/553408.mkv
 #EXTINF:-1 tvg-logo="https://porky.pro/movie/1058680/poster.jpg" group-title="Movies | Documentary",Space: The Longest Goodbye (2024)
 http://exploding.one/movie/CBrito972/3jqZ2qMCn3/553610.mkv
 
-# --- Movies | Drama (3051) ---
+# --- Movies | Drama (3052) ---
 #EXTINF:-1 tvg-logo="https://porky.pro/movie/145/poster.jpg" group-title="Movies | Drama",Breaking the Waves (1996)
 http://exploding.one/movie/CBrito972/3jqZ2qMCn3/314605.mkv
 #EXTINF:-1 tvg-logo="https://porky.pro/movie/859/poster.jpg" group-title="Movies | Drama",Dangerous Liaisons (1988)
@@ -26484,6 +26492,8 @@ http://exploding.one/movie/CBrito972/3jqZ2qMCn3/11088.mp4
 http://exploding.one/movie/CBrito972/3jqZ2qMCn3/11090.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Drama",Paradise Lost
 http://exploding.one/movie/CBrito972/3jqZ2qMCn3/11094.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Drama",The Runarounds
+http://exploding.one/movie/CBrito972/3jqZ2qMCn3/11101.mp4
 
 # --- Movies | E! (15) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | E!",Nicki Minaj: My Truth
@@ -49293,4 +49303,4 @@ http://exploding.one/movie/CBrito972/3jqZ2qMCn3/8754.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Western",Damnation
 http://exploding.one/movie/CBrito972/3jqZ2qMCn3/10691.mp4
 
-# Total: 24564
+# Total: 24569

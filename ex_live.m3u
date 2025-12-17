@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: ex.guteex.com:8000
-# Generated: 2025-12-17 07:04:12
+# Generated: 2025-12-17 18:40:31
 # Expires: 2026-04-01
 # Family Safe Edition
 # ==============================================
@@ -171,7 +171,7 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/37331.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALBANIA",Kujtesa Sport 4 HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/37333.m3u8
 
-# --- ARABIC (104) ---
+# --- ARABIC (102) ---
 #EXTINF:-1 tvg-logo="" group-title="ARABIC",-------| ARABIC |-------
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/521.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ARABIC",AR | LBC LEBANON
@@ -180,8 +180,6 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/518.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/1013.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ARABIC",AR | LBCI INTERNATIONAL
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/517.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ARABIC",AR | LDC LEBANON 2
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/584.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ARABIC",AR | ALJADEED LEBANON
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/520.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ARABIC",AR | ALJADEED LEBANON 2
@@ -288,8 +286,6 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/567.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/566.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ARABIC",AR | ALARABIA HADATH
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/1728.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ARABIC",AR | AL HAYAT MUSALSALAT
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/827.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ARABIC",AR | AL HAYAT
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/825.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ARABIC",AR | IQRAA
@@ -2099,7 +2095,7 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/29077.m3u8
 #EXTINF:-1 tvg-logo="https://media-upload.net/uploads/itU6lFkeVKqC.png" group-title="ITALIA",EUROSPORT 2 FHD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/29086.m3u8
 
-# --- NETHERLANDS (88) ---
+# --- NETHERLANDS (84) ---
 #EXTINF:-1 tvg-logo="" group-title="NETHERLANDS",-------| HOLLAND CHANNEL |-------
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/2833.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NETHERLANDS",NPO HD
@@ -2210,22 +2206,14 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/16117.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/9048.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NETHERLANDS",FOX CHANNEL HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/40518.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NETHERLANDS",FOX SPORTS 1 HD
+#EXTINF:-1 tvg-logo="" group-title="NETHERLANDS",ESPN HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/371.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NETHERLANDS",Fox Sport HD +
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/19033.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NETHERLANDS",FOX SPORTS 2 HD
+#EXTINF:-1 tvg-logo="" group-title="NETHERLANDS",ESPN 2 HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/372.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NETHERLANDS",FOX SPORTS 2 HD +
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/19034.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NETHERLANDS",FOX SPORTS 3 HD
+#EXTINF:-1 tvg-logo="" group-title="NETHERLANDS",ESPN 3 HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/373.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NETHERLANDS",FOX SPORTS 3 HD +
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/19035.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NETHERLANDS",FOX SPORTS 4 HD
+#EXTINF:-1 tvg-logo="" group-title="NETHERLANDS",ESPN 4 HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/374.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NETHERLANDS",FOX SPORTS 4 HD +
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/19036.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NETHERLANDS",ZIGGO SPORT SELECT HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/416.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NETHERLANDS",ZIGGO SPORT SELECT HD +
@@ -2242,9 +2230,9 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/6669.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/6670.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NETHERLANDS",ZIGGO SPORTS GOLF
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/6668.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NETHERLANDS",ViaPlay Xtra 5 HD
+#EXTINF:-1 tvg-logo="" group-title="NETHERLANDS",SLAM TV
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/44271.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NETHERLANDS",Viaplay Main Event
+#EXTINF:-1 tvg-logo="" group-title="NETHERLANDS",100% NL TV
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/44275.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NETHERLANDS",FILM 1 PREMIERE HD +
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/19041.m3u8
@@ -4367,4 +4355,4 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/40596.m3u8
 #EXTINF:-1 tvg-logo="" group-title="| TR- RADIO",RADYO | Diyanet Kur'ân Radyo
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/40597.m3u8
 
-# Total: 2145
+# Total: 2139

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: teck-tv.com
-# Generated: 2025-12-17 07:05:25
+# Generated: 2025-12-17 18:37:48
 # Expires: 2026-07-14
 # Family Safe Edition
 # ==============================================
@@ -17237,15 +17237,15 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1224830.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/odbein.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN OD 2023 4 UHD
 http://teck-tv.com/live/2605201443100597/C655BF416768/1224831.m3u8
 
-# --- AR | BEIN SPORTS 4K (82) ---
+# --- AR | BEIN SPORTS 4K (75) ---
+#EXTINF:-1 tvg-logo="https://go4.pw/BEIN/bss4k.png" group-title="AR | BEIN SPORTS 4K",##### AR - BEIN SPORTS 4K #####
+http://teck-tv.com/live/2605201443100597/C655BF416768/207574.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_NEWS1.png" group-title="AR | BEIN SPORTS 4K",AR - BEIN SPORTS NEWS 4K
 http://teck-tv.com/live/2605201443100597/C655BF416768/333932.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_GLOBAL.png" group-title="AR | BEIN SPORTS 4K",AR - BEIN SPORTS GLOBAL 4K
 http://teck-tv.com/live/2605201443100597/C655BF416768/333931.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_NBA.png" group-title="AR | BEIN SPORTS 4K",AR - BEIN SPORTS NBA 4K
 http://teck-tv.com/live/2605201443100597/C655BF416768/271226.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/BEIN/bss4k.png" group-title="AR | BEIN SPORTS 4K",##### AR - BEIN SPORTS 4K #####
-http://teck-tv.com/live/2605201443100597/C655BF416768/207574.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png" group-title="AR | BEIN SPORTS 4K",AR - BEIN SPORTS 1 4K
 http://teck-tv.com/live/2605201443100597/C655BF416768/203885.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png" group-title="AR | BEIN SPORTS 4K",AR - BEIN SPORTS 1 4K²
@@ -17278,20 +17278,6 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/552076.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/552077.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_9.png" group-title="AR | BEIN SPORTS 4K",AR - BEIN SPORTS 9 4K²
 http://teck-tv.com/live/2605201443100597/C655BF416768/552078.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/BEIN/bss4k.png" group-title="AR | BEIN SPORTS 4K",##### AR - BEIN SPORTS MAX 4K #####
-http://teck-tv.com/live/2605201443100597/C655BF416768/1306287.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_1.png" group-title="AR | BEIN SPORTS 4K",AR - BEIN SPORTS MAX 1 4K
-http://teck-tv.com/live/2605201443100597/C655BF416768/914472.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_2.png" group-title="AR | BEIN SPORTS 4K",AR - BEIN SPORTS MAX 2 4K
-http://teck-tv.com/live/2605201443100597/C655BF416768/914473.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_3.png" group-title="AR | BEIN SPORTS 4K",AR - BEIN SPORTS MAX 3 4K
-http://teck-tv.com/live/2605201443100597/C655BF416768/914474.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_4.png" group-title="AR | BEIN SPORTS 4K",AR - BEIN SPORTS MAX 4 4K
-http://teck-tv.com/live/2605201443100597/C655BF416768/914475.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_5.png" group-title="AR | BEIN SPORTS 4K",AR - BEIN SPORTS MAX 5 4K
-http://teck-tv.com/live/2605201443100597/C655BF416768/914476.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_6.png" group-title="AR | BEIN SPORTS 4K",AR - BEIN SPORTS MAX 6 4K
-http://teck-tv.com/live/2605201443100597/C655BF416768/914477.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/BEIN/bss4k.png" group-title="AR | BEIN SPORTS 4K",##### AR - BEIN SPORTS XTRA 4K #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1306288.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_XTRA_1.png" group-title="AR | BEIN SPORTS 4K",AR - BEIN SPORTS 1 XTRA 4K²
@@ -26415,6 +26401,48 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1287083.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="VIP | 4K ULTRA HD",VIP - SKY PRIMAFILA 9 4K
 http://teck-tv.com/live/2605201443100597/C655BF416768/1287084.m3u8
 
+# --- VIP | AFCON MOROCCO 2025 (20) ---
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="VIP | AFCON MOROCCO 2025",##### ARABIC #####
+http://teck-tv.com/live/2605201443100597/C655BF416768/1095960.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/afcon2025.png" group-title="VIP | AFCON MOROCCO 2025",AR - MOROCCO VS COMOROS - 21 DEC 20:00 CET
+http://teck-tv.com/live/2605201443100597/C655BF416768/1095953.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/afcon2025.png" group-title="VIP | AFCON MOROCCO 2025",AR - NO MATCH
+http://teck-tv.com/live/2605201443100597/C655BF416768/1095952.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/afcon2025.png" group-title="VIP | AFCON MOROCCO 2025",AR - NO MATCH
+http://teck-tv.com/live/2605201443100597/C655BF416768/1095951.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/afcon2025.png" group-title="VIP | AFCON MOROCCO 2025",AR - NO MATCH
+http://teck-tv.com/live/2605201443100597/C655BF416768/1095950.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/frlog.png" group-title="VIP | AFCON MOROCCO 2025",##### FRENCH #####
+http://teck-tv.com/live/2605201443100597/C655BF416768/1095959.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/afcon2025.png" group-title="VIP | AFCON MOROCCO 2025",FR - MOROCCO VS COMOROS - 21 DEC 20:00 CET
+http://teck-tv.com/live/2605201443100597/C655BF416768/1095948.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/afcon2025.png" group-title="VIP | AFCON MOROCCO 2025",FR - NO MATCH
+http://teck-tv.com/live/2605201443100597/C655BF416768/1095947.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/afcon2025.png" group-title="VIP | AFCON MOROCCO 2025",FR - NO MATCH
+http://teck-tv.com/live/2605201443100597/C655BF416768/1095946.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/afcon2025.png" group-title="VIP | AFCON MOROCCO 2025",FR - NO MATCH
+http://teck-tv.com/live/2605201443100597/C655BF416768/1095944.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="VIP | AFCON MOROCCO 2025",##### ENGLISH #####
+http://teck-tv.com/live/2605201443100597/C655BF416768/1095955.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/afcon2025.png" group-title="VIP | AFCON MOROCCO 2025",EN - MOROCCO VS COMOROS - 21 DEC 20:00 CET
+http://teck-tv.com/live/2605201443100597/C655BF416768/1095943.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/afcon2025.png" group-title="VIP | AFCON MOROCCO 2025",EN - NO MATCH
+http://teck-tv.com/live/2605201443100597/C655BF416768/1095942.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/afcon2025.png" group-title="VIP | AFCON MOROCCO 2025",EN - NO MATCH
+http://teck-tv.com/live/2605201443100597/C655BF416768/1095941.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/afcon2025.png" group-title="VIP | AFCON MOROCCO 2025",EN - NO MATCH
+http://teck-tv.com/live/2605201443100597/C655BF416768/1095940.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/SPAIN.png" group-title="VIP | AFCON MOROCCO 2025",##### SPANISH #####
+http://teck-tv.com/live/2605201443100597/C655BF416768/1095954.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/afcon2025.png" group-title="VIP | AFCON MOROCCO 2025",SP - MOROCCO VS COMOROS - 21 DEC 20:00 CET
+http://teck-tv.com/live/2605201443100597/C655BF416768/1095939.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/afcon2025.png" group-title="VIP | AFCON MOROCCO 2025",SP - NO MATCH
+http://teck-tv.com/live/2605201443100597/C655BF416768/1095933.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/afcon2025.png" group-title="VIP | AFCON MOROCCO 2025",SP - NO MATCH
+http://teck-tv.com/live/2605201443100597/C655BF416768/1095932.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/afcon2025.png" group-title="VIP | AFCON MOROCCO 2025",SP - NO MATCH
+http://teck-tv.com/live/2605201443100597/C655BF416768/1095931.m3u8
+
 # --- VIP | BUNDESLIGA (40) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/FLAGS/flag_germany.png" group-title="VIP | BUNDESLIGA",##### DEUTSCH #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1017979.m3u8
@@ -27517,4 +27545,4 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/363875.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",ES - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/682940.m3u8
 
-# Total: 13607
+# Total: 13620

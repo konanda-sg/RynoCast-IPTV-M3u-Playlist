@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: lemon.catchmeifyo.com:8000
-# Generated: 2025-12-17 07:01:08
+# Generated: 2025-12-17 18:34:59
 # Expires: 2026-04-05
 # Family Safe Edition
 # ==============================================
@@ -2103,7 +2103,7 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/187066.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hNEokmUke0dazoBhttFN0o3L7Xv.jpg" group-title="Movies | Actie / Action",X-Men: First Class (2011)
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/190855.mkv
 
-# --- Movies | Amazon Prime (247) ---
+# --- Movies | Amazon Prime (248) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Amazon Prime",APB
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/61.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Amazon Prime",Condor
@@ -2598,6 +2598,8 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3552.mp4
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3559.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Amazon Prime",Helluva Boss
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3568.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Amazon Prime",Beauty and the Geek
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3585.mp4
 
 # --- Movies | Animatie / Animation (189) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygmrU2F2JwUtjpn6EBOrRq0pKCD.jpg" group-title="Movies | Animatie / Animation",Music Land
@@ -21079,7 +21081,7 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/77701.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/by6iZd4FxSTLCtnyCjyKYao57Ar.jpg" group-title="Movies | WWE PPV's",WWE WrestleMania Backlash (2021)
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/77702.mkv
 
-# --- Series | INTERNATIONALE SERIES (407) ---
+# --- Series | INTERNATIONALE SERIES (408) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | INTERNATIONALE SERIES",Tytgat Chocolat
 http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/17
 #EXTINF:-1 tvg-logo="" group-title="Series | INTERNATIONALE SERIES",Eigen Kweek
@@ -21894,6 +21896,8 @@ http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/3574
 http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/3576
 #EXTINF:-1 tvg-logo="" group-title="Series | INTERNATIONALE SERIES",Sheriff Country
 http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/3581
+#EXTINF:-1 tvg-logo="" group-title="Series | INTERNATIONALE SERIES",All Her Fault
+http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/3584
 
 # --- Series | NL GESPROKEN KINDERSERIES (21) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | NL GESPROKEN KINDERSERIES",Pieter Konijn
@@ -22069,4 +22073,4 @@ http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/2750
 #EXTINF:-1 tvg-logo="" group-title="Series | NL GESPROKEN SERIES",The Hunt (Een van Ons)
 http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/2751
 
-# Total: 10979
+# Total: 10981

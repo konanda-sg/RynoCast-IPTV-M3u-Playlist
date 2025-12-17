@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: hatayiptv.com:8000
-# Generated: 2025-12-17 06:59:34
+# Generated: 2025-12-17 18:37:14
 # Expires: 2025-12-26
 # Family Safe Edition
 # ==============================================
@@ -9717,7 +9717,7 @@ http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/164227.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ou9QDYkusEuylPEe3CaFirsnUOt.jpg" group-title="Movies | DE: WWE",WWE SmackDown 02.08
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/164228.mp4
 
-# --- Movies | DiZi CARSAMBA (37) ---
+# --- Movies | DiZi CARSAMBA (34) ---
 #EXTINF:-1 tvg-logo="https://iili.io/2T1Csqb.jpg" group-title="Movies | DiZi CARSAMBA",Annem Ankara 15.BLM FiNAL
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/155347.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/2T1Csqb.jpg" group-title="Movies | DiZi CARSAMBA",Annem Ankara 14.BLM
@@ -9738,12 +9738,6 @@ http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/167969.mkv
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/167661.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/3dFihRp.jpg" group-title="Movies | DiZi CARSAMBA",Eşref Rüya 20.BLM
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/167514.mkv
-#EXTINF:-1 tvg-logo="https://iili.io/3dFihRp.jpg" group-title="Movies | DiZi CARSAMBA",Eşref Rüya 19.BLM
-http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/167360.mkv
-#EXTINF:-1 tvg-logo="https://iili.io/3dFihRp.jpg" group-title="Movies | DiZi CARSAMBA",Eşref Rüya 18.BLM
-http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/167203.mkv
-#EXTINF:-1 tvg-logo="https://iili.io/3dFihRp.jpg" group-title="Movies | DiZi CARSAMBA",Eşref Rüya 17.BLM
-http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/167054.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/2T1MfiG.jpg" group-title="Movies | DiZi CARSAMBA",Sahipsizler 41.BLM
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/168891.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/2T1MfiG.jpg" group-title="Movies | DiZi CARSAMBA",Sahipsizler 40.BLM
@@ -10143,7 +10137,7 @@ http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/162519.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTlkYzU1NmItMzU0ZC00ZDkzLWI0YjgtMDk5YzIyMjg4MGYwXkEyXkFqcGc@._V1_.jpg" group-title="Movies | DiZi PERSEMBE",Aşka Mahkum 78.Bölüm
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/168241.mkv
 
-# --- Movies | DiZi SALI (27) ---
+# --- Movies | DiZi SALI (29) ---
 #EXTINF:-1 tvg-logo="https://iili.io/2tpDHF9.jpg" group-title="Movies | DiZi SALI",Kral Kaybederse 29.BLM
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/168219.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/2tpDHF9.jpg" group-title="Movies | DiZi SALI",Kral Kaybederse 28.BLM
@@ -10158,6 +10152,8 @@ http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/161933.mkv
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/160698.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/2T1CQrx.jpg" group-title="Movies | DiZi SALI",Bir Gece Masalı 32.BLM
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/160540.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vFmQa8yyuirssDatMME4FQtoG65.jpg" group-title="Movies | DiZi SALI",Gözleri Karadeniz 16.Bölüm Final
+http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/169015.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vFmQa8yyuirssDatMME4FQtoG65.jpg" group-title="Movies | DiZi SALI",Gözleri Karadeniz 15.Bölüm
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/168630.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vFmQa8yyuirssDatMME4FQtoG65.jpg" group-title="Movies | DiZi SALI",Gözleri Karadeniz 14.Bölüm
@@ -10166,8 +10162,8 @@ http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/168218.mkv
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/168140.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vFmQa8yyuirssDatMME4FQtoG65.jpg" group-title="Movies | DiZi SALI",Gözleri Karadeniz 12.Bölüm
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/167961.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vFmQa8yyuirssDatMME4FQtoG65.jpg" group-title="Movies | DiZi SALI",Gözleri Karadeniz 11.Bölüm
-http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/167809.mkv
+#EXTINF:-1 tvg-logo="https://iili.io/2T1EKmX.jpg" group-title="Movies | DiZi SALI",Mehmed: Fetihler Sultanı 62.BLM
+http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/169018.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/2T1EKmX.jpg" group-title="Movies | DiZi SALI",Mehmed: Fetihler Sultanı 61.BLM
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/168633.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/2T1EKmX.jpg" group-title="Movies | DiZi SALI",Mehmed: Fetihler Sultanı 60.BLM
@@ -10176,8 +10172,8 @@ http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/168222.mkv
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/167963.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/2T1EKmX.jpg" group-title="Movies | DiZi SALI",Mehmed: Fetihler Sultanı 58.BLM
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/167812.mkv
-#EXTINF:-1 tvg-logo="https://iili.io/2T1EKmX.jpg" group-title="Movies | DiZi SALI",Mehmed: Fetihler Sultanı 57.BLM
-http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/167651.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/herjCgzFTKF3tCN8bW9cNfrvKjW.jpg" group-title="Movies | DiZi SALI",Kıskanmak 14.Bölüm
+http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/169016.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/herjCgzFTKF3tCN8bW9cNfrvKjW.jpg" group-title="Movies | DiZi SALI",Kıskanmak 13.Bölüm
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/168632.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/herjCgzFTKF3tCN8bW9cNfrvKjW.jpg" group-title="Movies | DiZi SALI",Kıskanmak 12.Bölüm
@@ -10186,8 +10182,8 @@ http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/168220.mkv
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/168138.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/herjCgzFTKF3tCN8bW9cNfrvKjW.jpg" group-title="Movies | DiZi SALI",Kıskanmak 10.Bölüm
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/167965.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/herjCgzFTKF3tCN8bW9cNfrvKjW.jpg" group-title="Movies | DiZi SALI",Kıskanmak 9.Bölüm
-http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/167811.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/ylpluerF3X4QQYBXEwztfYNMkOh.jpg" group-title="Movies | DiZi SALI",Rüya Gibi 3.Bölüm
+http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/169019.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/ylpluerF3X4QQYBXEwztfYNMkOh.jpg" group-title="Movies | DiZi SALI",Rüya Gibi 2.Bölüm
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/168634.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/ylpluerF3X4QQYBXEwztfYNMkOh.jpg" group-title="Movies | DiZi SALI",Rüya Gibi 1.Bölüm
@@ -10198,6 +10194,8 @@ http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/168141.mkv
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/167960.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/2T1C4I9.jpg" group-title="Movies | DiZi SALI",Bahar 58.BLM
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/167814.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4FCK9wIPWjORP7EUht3jsDwzngr.jpg" group-title="Movies | DiZi SALI",Master Şef Türkiye 16.12.2025
+http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/169017.mkv
 
 # --- Movies | TR: ALTYAZI (12) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKApVX9hc5otPxa3Jbf27sW6tsi.jpg" group-title="Movies | TR: ALTYAZI",Konkeuriteu yutopia
@@ -11757,7 +11755,9 @@ http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/1789.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR: DISNEY+",Little Disasters
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/1796.mp4
 
-# --- Movies | TR: DUBLAJ (1620) ---
+# --- Movies | TR: DUBLAJ (1621) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yfdfYkbBMkexGadunQasqkq2Kqp.jpg" group-title="Movies | TR: DUBLAJ",Only on Earth
+http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/169020.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/roGKQ15z08A7hiOKRQm6NTPmEHX.jpg" group-title="Movies | TR: DUBLAJ",Önemsiz Biri 2
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/168624.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nfGlYjINEcGtxV46viW4olwHHSz.jpg" group-title="Movies | TR: DUBLAJ",Merv
@@ -16743,7 +16743,7 @@ http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/1807.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR: PRIME VIDEO",Kötülük
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/1811.mp4
 
-# --- Movies | TR: TV SHOW´S (32) ---
+# --- Movies | TR: TV SHOW´S (31) ---
 #EXTINF:-1 tvg-logo="https://iili.io/2SzRY6F.jpg" group-title="Movies | TR: TV SHOW´S",Survivor 2025 All Star & Gönüllüler 13.06.2025 (büyük final)
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/162545.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/2SzRY6F.jpg" group-title="Movies | TR: TV SHOW´S",Survivor 2025 All Star & Gönüllüler 12.06.2025 (yarı final)
@@ -16806,8 +16806,6 @@ http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/168975.mkv
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/168955.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4FCK9wIPWjORP7EUht3jsDwzngr.jpg" group-title="Movies | TR: TV SHOW´S",Master Şef Türkiye 11.12.2025
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/168949.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4FCK9wIPWjORP7EUht3jsDwzngr.jpg" group-title="Movies | TR: TV SHOW´S",Master Şef Türkiye 10.12.2025
-http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/168890.mkv
 
 # --- Movies | TR: Tabii (44) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR: Tabii",Yeşil Deniz Milenyum
@@ -19185,4 +19183,4 @@ http://hatayiptv.com:8000/series/Ertanguclu/tR0BFZiXDe/1225
 #EXTINF:-1 tvg-logo="" group-title="Series | TR: BEIN SERIES",Sorgu
 http://hatayiptv.com:8000/series/Ertanguclu/tR0BFZiXDe/1409
 
-# Total: 9545
+# Total: 9544
