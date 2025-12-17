@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: world-panel.co:8080
-# Generated: 2025-12-16 18:39:22
+# Generated: 2025-12-17 07:06:32
 # Expires: 2026-03-09
 # Family Safe Edition
 # ==============================================
@@ -1483,7 +1483,7 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/2034.mkv
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | NAPOLI",Tradimento
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/2046.mkv
 
-# --- Movies | NETFLIX AMAZON AZIONE (1444) ---
+# --- Movies | NETFLIX AMAZON AZIONE (1445) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",==== NETFLIX AZIONE ====
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/62556.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/2624638709dfb2624cdb24718c200256.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Una battaglia dopo l altra (2025)
@@ -4372,6 +4372,8 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/77990.mkv
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/35312.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2r3Z9Th1eplDoIQAtC14WONMrpI.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Thor: The Dark World (2013)
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/6011.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/9a02a6a437b97184b40947792722886b.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",London Calling (2025)
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/86010.mkv
 
 # --- Movies | NETFLIX AMAZON BAMBINI (1420) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON BAMBINI",====NETFLIX CARTONI BAMBINI====
@@ -20670,7 +20672,7 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/78906.mkv
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/78907.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/a041ef74b447f4349a163da198fecf24.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA 4 High Forces Emergenza ad alta quota
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/4540.mkv
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/e9ecda3f8df7b30a832c6942590bd937.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA  5 Grand Prix (2025)
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/a98aaa117236003037fc3ce7397701ea.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA  5 Elisa (2025)
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/78903.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/8cba343cea143e0b115e0ab3337962eb.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA  6 Muori di lei (2025)
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/78902.mkv
@@ -20678,15 +20680,15 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/78902.mkv
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/64571.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/d98fd21a84782981bfa729e148a93cbe.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA 8 Nights at Freddy's 2 (2025)
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/78905.mkv
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/f6330576eb5b97efc58a877ca68a1966.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA  9  Black Phone 2 (2025)
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/eb65b31d3806b6f6762e58f48dc4813f.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA  9 Jane Austen ha stravolto la mia vita (2025)
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/78904.mkv
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/65bc827f1ce8db4fab69ce5b16f01f83.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA 10 Enzo (2025)
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/f0f355844ef82f556c0a98153fe40030.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA 10 Unicorni (2025)
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/78901.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/990a160877cf03e900f1aa194f8df3ef.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA 11  I Play Mother  Il gioco del male (2025)
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/21092.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/40d45d9b84a4ed037c93d9b657aa8260.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA 12 Una pallottola spuntata (2025)
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/78908.mkv
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/086339c8939ac9119a2bd6bb81b50b86.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA 13 13 Giorni, 13 Notti (2025)
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/e7a8dbbbee6b416531316af8ff96c0cc.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA 13 Bad Hombres (2025)
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/78909.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/8e6d456c919bfc9bdcf6638e19df287e.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA 14 Operazione: Raqqa (2024)
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/64844.mkv
@@ -20885,7 +20887,7 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1350.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-DISNEY-PLUS",BAT-FAM
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1550.mp4
 
-# --- Movies | SERIE-TV (491) ---
+# --- Movies | SERIE-TV (492) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Inhumans
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Stargate Atlantis
@@ -21868,6 +21870,8 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1578.mp4
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1580.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Nido di vipere
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1583.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Law e Order Criminal Intent
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1584.mp4
 
 # --- Movies | SERIE-TV-ITALIA (141) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Capri
@@ -32393,4 +32397,4 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/50888.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/96e97ef7e316fab54d133aa6fcdf30a2.jpg" group-title="Movies | SerieTV",Turner and Hooch 01x12 La Resa Dei Conti
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/50889.mkv
 
-# Total: 16165
+# Total: 16167

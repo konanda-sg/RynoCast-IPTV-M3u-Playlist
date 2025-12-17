@@ -1,13 +1,13 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: ultraviphdiptv.com:8000
-# Generated: 2025-12-16 07:11:15
+# Generated: 2025-12-17 07:03:25
 # Expires: 2026-03-16
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | DE: AMAZON PRIME SERIEN (150) ---
+# --- Movies | DE: AMAZON PRIME SERIEN (151) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: AMAZON PRIME SERIEN",DE: Power
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/48.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: AMAZON PRIME SERIEN",DE: 4 Blocks
@@ -308,6 +308,8 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1778.mp4
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1780.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: AMAZON PRIME SERIEN",Landman
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1793.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE: AMAZON PRIME SERIEN",Spartacus - Das Haus Ashur
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1818.mp4
 
 # --- Movies | DE: ANIME (27) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: ANIME",DE: Attack on Titan
@@ -8897,7 +8899,7 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/80196.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jMrtq1X4JT8iPYbc18k0XmydnqI.jpg" group-title="Movies | DE: MARVEL FILMSTUDIOS",Avengers: Endgame
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/80197.mkv
 
-# --- Movies | DE: NETFLIX (139) ---
+# --- Movies | DE: NETFLIX (140) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: NETFLIX",DE: Haus des Geldes
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/9.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: NETFLIX",DE: Vikings
@@ -9176,6 +9178,8 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1791.mp4
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1794.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: NETFLIX",The Price of Confession
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1801.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE: NETFLIX",Man vs Baby
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1819.mp4
 
 # --- Movies | DE: SERIEN-BOX (170) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: SERIEN-BOX",DE: Narcos
@@ -19181,4 +19185,4 @@ http://ultraviphdiptv.com:8000/series/Figo/KDYwefapLL/1225
 #EXTINF:-1 tvg-logo="" group-title="Series | TR: BEIN SERIES",Sorgu
 http://ultraviphdiptv.com:8000/series/Figo/KDYwefapLL/1409
 
-# Total: 9543
+# Total: 9545

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: dnsit.click:80
-# Generated: 2025-12-16 18:37:44
+# Generated: 2025-12-17 07:09:58
 # Expires: 2025-12-26
 # Family Safe Edition
 # ==============================================
@@ -2457,7 +2457,7 @@ http://dnsit.click:80/live/1junior6227luiz/62728juni73729/970253.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/NHL%20Network.png" group-title="NHL CENTER ICE",NHL: 10
 http://dnsit.click:80/live/1junior6227luiz/62728juni73729/970254.m3u8
 
-# --- NOTÍCIAS (22) ---
+# --- NOTÍCIAS (25) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/GloboNews_logo.svg/512px-GloboNews_logo.svg.png" group-title="NOTÍCIAS",Globo News FHD
 http://dnsit.click:80/live/1junior6227luiz/62728juni73729/1888.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/GloboNews_logo.svg/512px-GloboNews_logo.svg.png" group-title="NOTÍCIAS",Globo News HD
@@ -2486,6 +2486,12 @@ http://dnsit.click:80/live/1junior6227luiz/62728juni73729/66549.m3u8
 http://dnsit.click:80/live/1junior6227luiz/62728juni73729/66550.m3u8
 #EXTINF:-1 tvg-logo="https://s.jpimg.com.br/wp-content/themes/jovempan/assets/build/images/logo-jovempan-white.png?v2" group-title="NOTÍCIAS",Jovem Pan News
 http://dnsit.click:80/live/1junior6227luiz/62728juni73729/66548.m3u8
+#EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/3461-s-1765896662468.png" group-title="NOTÍCIAS",SBT News FHD
+http://dnsit.click:80/live/1junior6227luiz/62728juni73729/1277675.m3u8
+#EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/3461-s-1765896662468.png" group-title="NOTÍCIAS",SBT News HD
+http://dnsit.click:80/live/1junior6227luiz/62728juni73729/1277676.m3u8
+#EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/3461-s-1765896662468.png" group-title="NOTÍCIAS",SBT News
+http://dnsit.click:80/live/1junior6227luiz/62728juni73729/1277677.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/Record%20News.png" group-title="NOTÍCIAS",Record News FHD
 http://dnsit.click:80/live/1junior6227luiz/62728juni73729/1861.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/Record%20News.png" group-title="NOTÍCIAS",Record News HD
@@ -3197,4 +3203,4 @@ http://dnsit.click:80/live/1junior6227luiz/62728juni73729/2294.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/NHK.png" group-title="VARIEDADES",NHK
 http://dnsit.click:80/live/1junior6227luiz/62728juni73729/1210.m3u8
 
-# Total: 1552
+# Total: 1555

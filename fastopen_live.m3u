@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: fastopen.live:8080
-# Generated: 2025-12-16 18:41:17
+# Generated: 2025-12-17 07:00:27
 # Expires: 2026-12-09
 # Family Safe Edition
 # ==============================================
@@ -26183,7 +26183,7 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/118745.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UHD 4K",Now Sports 3 UHD HK
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/118744.m3u8
 
-# --- United Kingdom (483) ---
+# --- United Kingdom (484) ---
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",##########   United Kingdom   ##########
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/2524.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",E4 Extra UK
@@ -26546,6 +26546,8 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/343.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/344.m3u8
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/skycinemagreatsuk.png" group-title="United Kingdom",Sky Cinema Greats UK
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/342.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/premier-sports-1-uk.png?raw=true" group-title="United Kingdom",Premier Sports 1 HD UK
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/133210.m3u8
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/skycinemapremiereplus1uk.png" group-title="United Kingdom",Sky Cinema Premiere +1 FHD UK
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/1824.m3u8
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/skycinemapremiereuk.png" group-title="United Kingdom",S Cinema Premiere UK
@@ -31963,4 +31965,4 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104838.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ex-Yu VIP",K1 HD ex-YU
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104749.m3u8
 
-# Total: 15876
+# Total: 15877

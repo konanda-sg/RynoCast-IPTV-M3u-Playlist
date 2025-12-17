@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tzuraganu.gotdns.ch:8008
-# Generated: 2025-12-16 18:30:20
+# Generated: 2025-12-17 07:04:04
 # Expires: 2026-09-17
 # Family Safe Edition
 # ==============================================
@@ -23,7 +23,7 @@ http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/206557.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RADIO ROMANIA",(Favorit FM)
 http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/287654.m3u8
 
-# --- ⚜️ROMANIA TV⚜️ (595) ---
+# --- ⚜️ROMANIA TV⚜️ (594) ---
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvFMSGRt/Whats-App-Image-2025-11-27-at-15-20-39-6e5d06cc.jpg" group-title="⚜️ROMANIA TV⚜️",⚜️WELCOME TO PRO EUROPA⚜️
 http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/540724.m3u8
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab67616d0000b273e9af6e6ace7bae5f933bdc04" group-title="⚜️ROMANIA TV⚜️",COLINDE ROMANESTI
@@ -782,8 +782,6 @@ http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/491661.m3u8
 http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/491679.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4yY8QMS3/1.gif" group-title="⚜️ROMANIA TV⚜️",DIGI KINO TWO
 http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/491680.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4yY8QMS3/1.gif" group-title="⚜️ROMANIA TV⚜️",DIGI KINO THREE
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/491681.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4yY8QMS3/1.gif" group-title="⚜️ROMANIA TV⚜️",DIGI KINO FOUR
 http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/491682.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4yY8QMS3/1.gif" group-title="⚜️ROMANIA TV⚜️",DIGI KINO FIVE
@@ -1215,4 +1213,4 @@ http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296305.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚜️ROMANIA TV⚜️",GALA RXF
 http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/554858.m3u8
 
-# Total: 602
+# Total: 601

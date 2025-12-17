@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2025-12-16 18:37:03
+# Generated: 2025-12-17 07:02:42
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -3799,7 +3799,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/80444.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Portugal",PT: ZAP VIVA FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/80443.m3u8
 
-# --- Shqiptare (439) ---
+# --- Shqiptare (444) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/1280px-Flag_of_Albania.svg.png" group-title="Shqiptare",====Shqiptare====
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/13104.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/240/240-2.png" group-title="Shqiptare",AL: RTK 1 ⁴ᴷ
@@ -4480,7 +4480,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/13137.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/9932.m3u8
 #EXTINF:-1 tvg-logo="https://tring.al/wp-content/uploads/2024/06/folk-plus-1.png" group-title="Shqiptare",AL: Folk+
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/76206.m3u8
-#EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/kanalet/channels/20/21popullore.png" group-title="Shqiptare",AL: 21 Popullore FHD ♫
+#EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/kanalet/channels/20/21popullore.png" group-title="Shqiptare",AL: RTV 21 Popullore FHD ♫
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/2262.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/21%20Mix.png" group-title="Shqiptare",AL: 21 Mix ♫
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/23641.m3u8
@@ -4496,6 +4496,16 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/63480.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/53981.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Muzike.png" group-title="Shqiptare",AL: RTSH Muzikë ♫
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/9929.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: D Festive 1 ᴴᴰ ♫
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/81929.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: D Festive 2 ᴴᴰ ♫
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/81928.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: D Festive 3 ᴴᴰ ♫
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/81927.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: D Festive 4 ᴴᴰ ♫
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/81926.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: D Festive 5 ᴴᴰ ♫
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/81925.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: 360 TuneBox HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/76861.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: MTV Live FHD ♫
@@ -8939,4 +8949,4 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/13200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Real Madrid Tv
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62225.m3u8
 
-# Total: 4439
+# Total: 4444

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: premiumvipzone.com:8080
-# Generated: 2025-12-16 18:32:56
+# Generated: 2025-12-17 07:01:29
 # Expires: 2026-03-11
 # Family Safe Edition
 # ==============================================
@@ -15223,7 +15223,9 @@ http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/95791.m3u8
 #EXTINF:-1 tvg-logo="" group-title="✰ Romania - REGIONALE ✰",Tv Sat
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/95802.m3u8
 
-# --- ✰ Romania - RELIGIOASE ✰ (11) ---
+# --- ✰ Romania - RELIGIOASE ✰ (12) ---
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJxzCVvG/Chat-GPT-Image-Dec-16-2025-11-17-47-PM.png" group-title="✰ Romania - RELIGIOASE ✰",Vip Predici HD
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/274426.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZjdLhb/690cbe4b997bc.png" group-title="✰ Romania - RELIGIOASE ✰",Vip Colinde Crestine HD
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/270119.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hPC6qfyH/alfa-omega.jpg" group-title="✰ Romania - RELIGIOASE ✰",Alfa & Omega
@@ -15695,4 +15697,4 @@ http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/140783.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LXWKshQx/ddikh.jpg" group-title="✰Hungary-Általános (General)✰",HU* Dikh TV FHD
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/175834.m3u8
 
-# Total: 7762
+# Total: 7763

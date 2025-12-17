@@ -1,13 +1,13 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: hatayiptv.com:8000
-# Generated: 2025-12-16 07:08:51
+# Generated: 2025-12-17 06:59:34
 # Expires: 2025-12-26
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | DE: AMAZON PRIME SERIEN (150) ---
+# --- Movies | DE: AMAZON PRIME SERIEN (151) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: AMAZON PRIME SERIEN",DE: Power
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/48.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: AMAZON PRIME SERIEN",DE: 4 Blocks
@@ -308,6 +308,8 @@ http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/1778.mp4
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/1780.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: AMAZON PRIME SERIEN",Landman
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/1793.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE: AMAZON PRIME SERIEN",Spartacus - Das Haus Ashur
+http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/1818.mp4
 
 # --- Movies | DE: ANIME (27) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: ANIME",DE: Attack on Titan
@@ -8897,7 +8899,7 @@ http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/80196.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jMrtq1X4JT8iPYbc18k0XmydnqI.jpg" group-title="Movies | DE: MARVEL FILMSTUDIOS",Avengers: Endgame
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/80197.mkv
 
-# --- Movies | DE: NETFLIX (139) ---
+# --- Movies | DE: NETFLIX (140) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: NETFLIX",DE: Haus des Geldes
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/9.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: NETFLIX",DE: Vikings
@@ -9176,6 +9178,8 @@ http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/1791.mp4
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/1794.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: NETFLIX",The Price of Confession
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/1801.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE: NETFLIX",Man vs Baby
+http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/1819.mp4
 
 # --- Movies | DE: SERIEN-BOX (170) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: SERIEN-BOX",DE: Narcos
@@ -19181,4 +19185,4 @@ http://hatayiptv.com:8000/series/Ertanguclu/tR0BFZiXDe/1225
 #EXTINF:-1 tvg-logo="" group-title="Series | TR: BEIN SERIES",Sorgu
 http://hatayiptv.com:8000/series/Ertanguclu/tR0BFZiXDe/1409
 
-# Total: 9543
+# Total: 9545

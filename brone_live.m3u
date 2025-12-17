@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: brone.fyi
-# Generated: 2025-12-16 18:29:08
+# Generated: 2025-12-17 07:09:25
 # Expires: 2026-01-18
 # Family Safe Edition
 # ==============================================
@@ -4405,7 +4405,7 @@ http://brone.fyi/live/felipe_irma/Teste44/275210.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/ppv/nhl.png" group-title="NHL CENTER ICE",NHL: 16
 http://brone.fyi/live/felipe_irma/Teste44/275209.m3u8
 
-# --- NOTICIAS (41) ---
+# --- NOTICIAS (42) ---
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/noticias/bandnewsh265.png" group-title="NOTICIAS",BAND NEWS H265
 http://brone.fyi/live/felipe_irma/Teste44/59871.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/noticias/bandnewsfhd.png" group-title="NOTICIAS",BAND NEWS FHD
@@ -4488,6 +4488,8 @@ http://brone.fyi/live/felipe_irma/Teste44/324872.m3u8
 http://brone.fyi/live/felipe_irma/Teste44/310138.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/noticias/timesbrasilfhd.png" group-title="NOTICIAS",TIMES BRASIL HD ²
 http://brone.fyi/live/felipe_irma/Teste44/324873.m3u8
+#EXTINF:-1 tvg-logo="https://classic.exame.com/wp-content/uploads/2025/12/sbt.png" group-title="NOTICIAS",SBT NEWS HD
+http://brone.fyi/live/felipe_irma/Teste44/331669.m3u8
 
 # --- PARAMOUNT+ | MAX (27) ---
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/streaming/paramountsd.png" group-title="PARAMOUNT+ | MAX",PARAMOUNT+ (ALT 1)
@@ -7859,4 +7861,4 @@ http://brone.fyi/live/felipe_irma/Teste44/327934.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="VARIEDADES 24H",[24H] YOGA
 http://brone.fyi/live/felipe_irma/Teste44/328699.m3u8
 
-# Total: 3877
+# Total: 3878

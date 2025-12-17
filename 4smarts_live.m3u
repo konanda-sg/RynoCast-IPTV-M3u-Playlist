@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 4smarts.xyz
-# Generated: 2025-12-16 18:35:45
+# Generated: 2025-12-17 07:06:23
 # Expires: 2026-01-01
 # Family Safe Edition
 # ==============================================
@@ -1798,7 +1798,7 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/325608.m3u8
 # --- AM | USA | TRILLER TV (15) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/USA.png" group-title="AM | USA | TRILLER TV",##### TRILLER TV #####
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/428570.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/FITE.png" group-title="AM | USA | TRILLER TV",US - TRILLER TV 01 :
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/FITE.png" group-title="AM | USA | TRILLER TV",US - TRILLER TV 01 : THE BARE KNUCKLE SHOW WITH BRIAN SOSCIA S02 E129 DEC 16 – 12:05 PM ET / 5:05 PM UK
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/428599.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/FITE.png" group-title="AM | USA | TRILLER TV",US - TRILLER TV 02 :
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/428600.m3u8
@@ -13001,41 +13001,55 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1274570.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/ITALY/DAZNSPORT1.png" group-title="EU | SWITZERLAND",CH - DAZN 50
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1274571.m3u8
 
-# --- EU | UK | GENERAL (103) ---
+# --- EU | UK | GENERAL (99) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="EU | UK | GENERAL",##### UK - GENERAL #####
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69422.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC PARLIAMENT FHD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/17335.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC 1 FHD ◉
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/17305.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC 2 FHD ◉
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/17318.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC 3  FHD ◉
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/17321.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC 4 FHD ◉
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/17331.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",Uk - BBC 1 HEVC
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1094354.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC 1 HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/17402.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC 2 FHD ◉
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/17318.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC 2 HEVC
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015500.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC 2 HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/27592.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC 3 HD
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC 3  FHD ◉
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/17321.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC 3 HEVC
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/17705.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC 4 HD / CBEEBIES HEVC
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC 4 FHD ◉
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/17331.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC 4 / CBEEBIES HEVC
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/17401.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC 4/CBEEBIES HD
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC 4 /CBEEBIES HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/17282.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/CBBC.png" group-title="EU | UK | GENERAL",UK - BBC THREE CBBC HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/811641.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/CBBC.png" group-title="EU | UK | GENERAL",UK - BBC CBBC HD ◉
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/17399.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/BBC_Alba.png" group-title="EU | UK | GENERAL",UK - BBC ALBA HD
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/bbcalba.png" group-title="EU | UK | GENERAL",UK - BBC ALBA HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/812121.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/ITVQUIZ.png" group-title="EU | UK | GENERAL",UK - ITV QUIZ FHD
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC RED BUTTON HD 25
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/980417.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/itvquiz.png" group-title="EU | UK | GENERAL",UK - ITV QUIZ FHD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/17394.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/ITVQUIZ.png" group-title="EU | UK | GENERAL",UK - ITV QUIZ HD
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/itvquiz.png" group-title="EU | UK | GENERAL",UK - ITV QUIZ HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1257080.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/ITVQUIZ.png" group-title="EU | UK | GENERAL",UK - ITV QUIZ SD
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/itvquiz.png" group-title="EU | UK | GENERAL",UK - ITV QUIZ SD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/764567.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/itv1.png" group-title="EU | UK | GENERAL",UK - ITV 1 HD
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015501.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/itv2.png" group-title="EU | UK | GENERAL",UK - ITV 2 HD ◉
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015502.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/itv3.png" group-title="EU | UK | GENERAL",UK - ITV 3 HD
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015503.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/itv4.png" group-title="EU | UK | GENERAL",UK - ITV 4 HD
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015504.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/ch4.png" group-title="EU | UK | GENERAL",UK - CHANNEL 4 HEVC
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/980472.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/ch5.png" group-title="EU | UK | GENERAL",UK - CHANNEL 5 HEVC
@@ -13044,29 +13058,19 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015506.m3u8
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/17389.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/ch5.png" group-title="EU | UK | GENERAL",UK - CHANNEL 5 HD ◉
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/17388.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/CRIME%26INVESTIGATION.png" group-title="EU | UK | GENERAL",UK - CRIME+INV HEVC
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/980459.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/ITV.png" group-title="EU | UK | GENERAL",UK - ITV 1 HD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015501.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/ITV.png" group-title="EU | UK | GENERAL",UK - ITV 2 HD ◉
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015502.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/ITV.png" group-title="EU | UK | GENERAL",UK - ITV 3 HD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015503.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/ITV.png" group-title="EU | UK | GENERAL",UK - ITV 4 HD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015504.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/alib.png" group-title="EU | UK | GENERAL",UK - ALIBI HEVC
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/alibi.png" group-title="EU | UK | GENERAL",UK - ALIBI HEVC
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/980466.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/alib.png" group-title="EU | UK | GENERAL",UK - ALIBI HD
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/alibi.png" group-title="EU | UK | GENERAL",UK - ALIBI HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/17385.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/alib.png" group-title="EU | UK | GENERAL",UK - ALIBI SD
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/alibi.png" group-title="EU | UK | GENERAL",UK - ALIBI SD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/17384.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/SD/17.png" group-title="EU | UK | GENERAL",UK - QVC SD
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/qvc.png" group-title="EU | UK | GENERAL",UK - QVC SD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/980398.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/SD/17.png" group-title="EU | UK | GENERAL",UK - QVC EXTRA SD
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/qvc.png" group-title="EU | UK | GENERAL",UK - QVC EXTRA SD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/980399.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/SD/17.png" group-title="EU | UK | GENERAL",UK - QVC BEAUTY SD
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/qvc.png" group-title="EU | UK | GENERAL",UK - QVC BEAUTY SD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/980400.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/Deen-tv.png" group-title="EU | UK | GENERAL",UK - DEEN TV SD
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/deen.png" group-title="EU | UK | GENERAL",UK - DEEN TV SD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/770848.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/KANSHI.png" group-title="EU | UK | GENERAL",UK - KANSHI TV SD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/770847.m3u8
@@ -13088,15 +13092,15 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/17347.m3u8
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/17400.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/CNBC.png" group-title="EU | UK | GENERAL",UK - CNBC HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/17693.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/CNN.png" group-title="EU | UK | GENERAL",UK - CNN HD
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/cnn.png" group-title="EU | UK | GENERAL",UK - CNN HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/17390.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/gb.png" group-title="EU | UK | GENERAL",UK - GB NEWS HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/344380.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/chs1.png" group-title="EU | UK | GENERAL",UK - CHSTV SD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/770846.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/gb.png" group-title="EU | UK | GENERAL",UK - GB NEWS SD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/812125.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/rte.png" group-title="EU | UK | GENERAL",UK - RTE NEWS HD
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/chs1.png" group-title="EU | UK | GENERAL",UK - CHSTV SD
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/770846.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/rtenews.png" group-title="EU | UK | GENERAL",UK - RTE NEWS HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/17392.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/germany/eurns.png" group-title="EU | UK | GENERAL",UK - EURO NEWS SD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/17694.m3u8
@@ -13104,24 +13108,22 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/17694.m3u8
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/17356.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/FRANCE24.png" group-title="EU | UK | GENERAL",UK - FRANCE 24 SD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/17361.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/alj.png" group-title="EU | UK | GENERAL",UK - AL JAZEERA EN SD
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/aljazeera.png" group-title="EU | UK | GENERAL",UK - AL JAZEERA EN SD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/17695.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="EU | UK | GENERAL",##### UK - LOCAL #####
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69425.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC ONE CHANNEL ISLANDS FHD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69428.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC ONE EAST MIDLANDS FHD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69430.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC ONE EAST FHD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69429.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC ONE LONDON FHD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69431.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC ONE CHANNEL ISLANDS FHD
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69428.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC ONE NORTH EAST & CUMBRIA FHD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69432.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC ONE NORTH WEST FHD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69433.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC ONE SCOTLAND FHD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69437.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC ONE EAST MIDLANDS FHD
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69430.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC ONE EAST FHD
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69429.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC ONE SOUTH FHD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69438.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC ONE SOUTH EAST FHD
@@ -13132,10 +13134,10 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69440.m3u8
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69442.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC ONE WEST MIDLANDS FHD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69443.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC ONE YORK FHD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69444.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC ONE YORKSHIRE & LINCOLNSHIRE FHD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69445.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC ONE YORK FHD
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69444.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC ONE WALES HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/17403.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC TWO WALES HD
@@ -13148,6 +13150,40 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1292045.m3u8
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69447.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC ONE WALES SD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69441.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/tg4.png" group-title="EU | UK | GENERAL",UK - TG4 FHD
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/70093.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/itv1.png" group-title="EU | UK | GENERAL",UK - ITV MERIDIAN TV NORTH HD
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69463.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/itv1.png" group-title="EU | UK | GENERAL",UK - ITV MERIDIAN TV SOUTH HD
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69465.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/itv1.png" group-title="EU | UK | GENERAL",UK - ITV MERIDIAN EAST HD
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69462.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/itv1.png" group-title="EU | UK | GENERAL",UK - ITV ANGLIA EAST HD
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69456.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/itv1.png" group-title="EU | UK | GENERAL",UK - ITV CENTRAL EAST HD
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69458.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/itv1.png" group-title="EU | UK | GENERAL",UK - ITV CENTRAL WEST SD
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/980393.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/itv1.png" group-title="EU | UK | GENERAL",UK - ITV TYNE TEES HD
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69455.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/itv1.png" group-title="EU | UK | GENERAL",UK - ITV GRANADA HD
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69460.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/itv1.png" group-title="EU | UK | GENERAL",UK - ITV YORKSHIRE WEST HD
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69472.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/itv1.png" group-title="EU | UK | GENERAL",UK - ITV WESTCOUNTRY WEST
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69469.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/itv1.png" group-title="EU | UK | GENERAL",UK - ITV WALES HD
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69474.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/itv1.png" group-title="EU | UK | GENERAL",UK - ITV LONDON SD
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/812123.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/stvv.png" group-title="EU | UK | GENERAL",UK - STV HEVC
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/980476.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/stvv.png" group-title="EU | UK | GENERAL",UK - STV HD
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69476.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/stvv.png" group-title="EU | UK | GENERAL",UK - STV CENTRAL WEST HD
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69477.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/stvv.png" group-title="EU | UK | GENERAL",UK - STV NORTH HD
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69479.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="EU | UK | GENERAL",##### UK - SCOTLAND #####
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69475.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC SCOTLAND FHD
@@ -13155,59 +13191,15 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/764565.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC SCOTLAND FHD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/17292.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC ONE SCOTLAND FHD
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69437.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC ONE SCOTLAND FHD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/812124.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC ONE SCOTTLAND HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/17404.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC ONE SCOTLAND HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/980392.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",Uk - BBC 1 HD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1094354.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC 2 HD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015500.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC RED BUTTON HD 25 (ONLY MATCH TIME)
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/980417.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/ITV.png" group-title="EU | UK | GENERAL",UK - ITV MERIDIAN TV NORTH HD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69463.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/ITV.png" group-title="EU | UK | GENERAL",UK - ITV MERIDIAN TV SOUTH HD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69465.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/ITV.png" group-title="EU | UK | GENERAL",UK - ITV MERIDIAN EAST HD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69462.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/ITV.png" group-title="EU | UK | GENERAL",UK - ITV ANGLIA EAST HD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69456.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/ITV.png" group-title="EU | UK | GENERAL",UK - ITV CENTRAL EAST HD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69458.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/ITV.png" group-title="EU | UK | GENERAL",UK - ITV CENTRAL WEST SD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/980393.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/ITV.png" group-title="EU | UK | GENERAL",UK - ITV TYNE TEES HD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69455.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/ITV.png" group-title="EU | UK | GENERAL",UK - ITV GRANADA HD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69460.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/ITV.png" group-title="EU | UK | GENERAL",UK - ITV YORKSHIRE WEST HD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69472.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/ITV.png" group-title="EU | UK | GENERAL",UK - ITV WESTCOUNTRY WEST
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69469.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/ITV.png" group-title="EU | UK | GENERAL",UK - ITV WALES HD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69474.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/ITV.png" group-title="EU | UK | GENERAL",UK - ITV LONDON SD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/812123.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/STV.png" group-title="EU | UK | GENERAL",UK - STV HEVC
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/980476.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/STV.png" group-title="EU | UK | GENERAL",UK - STV HD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69476.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/STV.png" group-title="EU | UK | GENERAL",UK - STV CENTRAL WEST HD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69477.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/STV.png" group-title="EU | UK | GENERAL",UK - STV NORTH HD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69479.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/broder.png" group-title="EU | UK | GENERAL",UK - BORDER SCOTLAND TV FHD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69480.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/TG4-1.png" group-title="EU | UK | GENERAL",UK - TG4 FHD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/70093.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/DAVE.png" group-title="EU | UK | GENERAL",UK - DAVE HEVC
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/980470.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/Rangers_TV_Logo.png" group-title="EU | UK | GENERAL",UK - RANGERS FC TV HD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/980419.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC1
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015499.m3u8
 
 # --- EU | UK | SKY SPORTS+ (43) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="EU | UK | SKY SPORTS+",##### UK - SKY SPORT+ #####
@@ -13297,7 +13289,7 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/975027.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" group-title="EU | UK | SKY SPORTS+",UK - SKY SPORTS+ 40 FHD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/975028.m3u8
 
-# --- EU | UK | SPORTS (121) ---
+# --- EU | UK | SPORTS (124) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="EU | UK | SPORTS",##### UK - SKY SPORTS #####
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/325432.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/skyns.png" group-title="EU | UK | SPORTS",UK - SKY SPORTS NEWS FHD²
@@ -13466,7 +13458,7 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/324815.m3u8
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/324816.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="EU | UK | SPORTS",##### UK - PDC BOARD #####
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1276863.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/PDC.png" group-title="EU | UK | SPORTS",UK - PDC BOARD 1 : 2025/26 WORLD CHAMPIONSHIPS DAY THREE – UK SAT 13 DEC 1:30PM // ET SAT 13 DEC 8:30AM
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/PDC.png" group-title="EU | UK | SPORTS",UK - PDC BOARD 1 : 2025/26 WORLD CHAMPIONSHIPS DAY SIX – 8:30 AM ET / 1:30 PM UK
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/980421.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/PDC.png" group-title="EU | UK | SPORTS",UK - PDC BOARD 2 :
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/980422.m3u8
@@ -13540,6 +13532,12 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/180048.m3u8
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1131262.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/gaao.png" group-title="EU | UK | SPORTS",UK - GAAGO 00 : BALTINGLASS VS ATHY – 8:05 AM ET / 13:05 UK
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/349615.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/RANGERSTV.png" group-title="EU | UK | SPORTS",UK - RANGERS FC TV HD
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/980419.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/NLFHD/horsecountrytv1.png" group-title="EU | UK | SPORTS",UK - HORSE AND COUNTRY HD
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/70085.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/NLFHD/horsecountrytv1.png" group-title="EU | UK | SPORTS",UK - HORSE AND COUNTRY SD
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/348242.m3u8
 
 # --- EU | UK | TNT SPORTS (36) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="EU | UK | TNT SPORTS",##### UK - TNT SPORTS #####
@@ -15385,4 +15383,4 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/363875.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",ES - NO MATCH
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/682940.m3u8
 
-# Total: 7592
+# Total: 7591

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: ex.guteex.com:8000
-# Generated: 2025-12-16 18:38:56
+# Generated: 2025-12-17 07:04:12
 # Expires: 2026-04-01
 # Family Safe Edition
 # ==============================================
@@ -417,7 +417,7 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/27221.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AT | SKY Sports AUSTRIA",SKY SPORT AUSTRIA 7
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/40442.m3u8
 
-# --- BELGIUM (20) ---
+# --- BELGIUM (21) ---
 #EXTINF:-1 tvg-logo="" group-title="BELGIUM",-------| BELGIUM |-------
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/17234.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BELGIUM",Een HD
@@ -444,10 +444,6 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/17216.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/17217.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BELGIUM",VTM 3
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/17226.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BELGIUM",AB1 HD
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/17228.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BELGIUM",TVL
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/17229.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BELGIUM",VTM 2
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/17230.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BELGIUM",JUNIOR & CANVAS HD
@@ -458,6 +454,12 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/29103.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/29104.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BELGIUM",VTM KIDS HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/29105.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BELGIUM",LA UNE HD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/17228.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BELGIUM",LA TROIS HD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/17229.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BELGIUM",LA DEUX
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/29106.m3u8
 
 # --- DE | DAZN Sports (52) ---
 #EXTINF:-1 tvg-logo="http://eex24.com:8000/uye/alman.png" group-title="DE | DAZN Sports",-------| DAZN Sports |-------
@@ -2052,7 +2054,7 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/28757.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/28758.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ITALIA",Mediaset Italia Due
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/28759.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ITALIA",Explorer FHD
+#EXTINF:-1 tvg-logo="" group-title="ITALIA",Nature FHD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/6819.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ITALIA",Giallo HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/28760.m3u8
@@ -2076,13 +2078,13 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/29090.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/29091.m3u8
 #EXTINF:-1 tvg-logo="https://media-upload.net/uploads/DyTLrf5UszBa.png" group-title="ITALIA",Sky Primafila 5 UHD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/29092.m3u8
-#EXTINF:-1 tvg-logo="https://media-upload.net/uploads/DyTLrf5UszBa.png" group-title="ITALIA",Sky Primafila 7 UHD
+#EXTINF:-1 tvg-logo="https://media-upload.net/uploads/DyTLrf5UszBa.png" group-title="ITALIA",Sky Primafila 6 UHD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/29094.m3u8
-#EXTINF:-1 tvg-logo="https://media-upload.net/uploads/DyTLrf5UszBa.png" group-title="ITALIA",Sky Primafila 8 UHD
+#EXTINF:-1 tvg-logo="https://media-upload.net/uploads/DyTLrf5UszBa.png" group-title="ITALIA",Sky Primafila 7 UHD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/29095.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ITALIA",............... CINEMA ...............
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/17859.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ITALIA",FOX HD
+#EXTINF:-1 tvg-logo="" group-title="ITALIA",sport 24 HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/6829.m3u8
 #EXTINF:-1 tvg-logo="https://media-upload.net/file/x6auRkyb_tEh" group-title="ITALIA",Sky Cinema Due HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/29084.m3u8
@@ -2436,11 +2438,11 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/14918.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/19198.m3u8
 #EXTINF:-1 tvg-logo="" group-title="POLONIA",13ULICA HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/16399.m3u8
-#EXTINF:-1 tvg-logo="" group-title="POLONIA",FOX HD
+#EXTINF:-1 tvg-logo="" group-title="POLONIA",FX HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/4219.m3u8
-#EXTINF:-1 tvg-logo="" group-title="POLONIA",FOX
+#EXTINF:-1 tvg-logo="" group-title="POLONIA",FX
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/19221.m3u8
-#EXTINF:-1 tvg-logo="" group-title="POLONIA",FOX COMEDY HD
+#EXTINF:-1 tvg-logo="" group-title="POLONIA",FX COMEDY HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/14917.m3u8
 #EXTINF:-1 tvg-logo="" group-title="POLONIA",AXN HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/19242.m3u8
@@ -2474,6 +2476,12 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/18577.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/18578.m3u8
 #EXTINF:-1 tvg-logo="" group-title="POLONIA",VOD 208
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/18579.m3u8
+#EXTINF:-1 tvg-logo="" group-title="POLONIA",SKY SHOWTIME 1 FHD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/6199.m3u8
+#EXTINF:-1 tvg-logo="" group-title="POLONIA",SKY SHOWTIME 2 FHD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/9312.m3u8
+#EXTINF:-1 tvg-logo="" group-title="POLONIA",NOVELA TV
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/14913.m3u8
 #EXTINF:-1 tvg-logo="" group-title="POLONIA",............... kanały dokumentalne ...............
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/14926.m3u8
 #EXTINF:-1 tvg-logo="" group-title="POLONIA",POLSAT | HD
@@ -2530,6 +2538,8 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/14921.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/25521.m3u8
 #EXTINF:-1 tvg-logo="" group-title="POLONIA",TVN TURBO HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/4026.m3u8
+#EXTINF:-1 tvg-logo="" group-title="POLONIA",TVN Momenty FHD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/19228.m3u8
 #EXTINF:-1 tvg-logo="" group-title="POLONIA",TVP DOKUMENT HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/18575.m3u8
 #EXTINF:-1 tvg-logo="" group-title="POLONIA",TVP HISTORIA
@@ -2540,8 +2550,6 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/19245.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/18581.m3u8
 #EXTINF:-1 tvg-logo="" group-title="POLONIA",Travel Channel HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/32691.m3u8
-#EXTINF:-1 tvg-logo="" group-title="POLONIA",PLANETE +
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/14913.m3u8
 #EXTINF:-1 tvg-logo="" group-title="POLONIA",TLC HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/17846.m3u8
 #EXTINF:-1 tvg-logo="" group-title="POLONIA",MOTOWIZJA TV
@@ -2596,10 +2604,6 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/9302.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/17839.m3u8
 #EXTINF:-1 tvg-logo="" group-title="POLONIA",ELEVEN SPORT 4 HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/19268.m3u8
-#EXTINF:-1 tvg-logo="" group-title="POLONIA",NSPORT HD
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/6199.m3u8
-#EXTINF:-1 tvg-logo="" group-title="POLONIA",NSPORT
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/19228.m3u8
 #EXTINF:-1 tvg-logo="" group-title="POLONIA",EUROSPORT 1 HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/19255.m3u8
 #EXTINF:-1 tvg-logo="" group-title="POLONIA",EUROSPORT 2 HD
@@ -2648,8 +2652,6 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/26615.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/26616.m3u8
 #EXTINF:-1 tvg-logo="" group-title="POLONIA",4FUN TV
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/14911.m3u8
-#EXTINF:-1 tvg-logo="" group-title="POLONIA",LOVE NATURE 4K
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/9312.m3u8
 #EXTINF:-1 tvg-logo="" group-title="POLONIA",4FUN DANCE
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/14910.m3u8
 #EXTINF:-1 tvg-logo="" group-title="POLONIA",NUTA TV HD
@@ -4365,4 +4367,4 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/40596.m3u8
 #EXTINF:-1 tvg-logo="" group-title="| TR- RADIO",RADYO | Diyanet Kur'ân Radyo
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/40597.m3u8
 
-# Total: 2144
+# Total: 2145

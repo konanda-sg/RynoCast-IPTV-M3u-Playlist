@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: vipxx.p-0101.pw:80
-# Generated: 2025-12-16 18:29:51
+# Generated: 2025-12-17 07:08:41
 # Expires: 2026-08-12
 # Family Safe Edition
 # ==============================================
@@ -2355,7 +2355,7 @@ http://vipxx.p-0101.pw:80/live/vpplus1129/6BQhtYhdLF/368119.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TR • Dini",Gonca TV
 http://vipxx.p-0101.pw:80/live/vpplus1129/6BQhtYhdLF/368258.m3u8
 
-# --- TR • Dizi (73) ---
+# --- TR • Dizi (72) ---
 #EXTINF:-1 tvg-logo="http://logo.cdnlop.com/logotv/plus.png" group-title="TR • Dizi",------| Dizi |------
 http://vipxx.p-0101.pw:80/live/vpplus1129/6BQhtYhdLF/3213.m3u8
 #EXTINF:-1 tvg-logo="http://logo1010.com/cdn/sinema/dizismartpremiumhd.png" group-title="TR • Dizi",D-Smart Dizi Premium HD
@@ -2454,8 +2454,6 @@ http://vipxx.p-0101.pw:80/live/vpplus1129/6BQhtYhdLF/312564.m3u8
 http://vipxx.p-0101.pw:80/live/vpplus1129/6BQhtYhdLF/312565.m3u8
 #EXTINF:-1 tvg-logo="http://logo1010.com/ens/133.png" group-title="TR • Dizi",[Boxset] Erşan Kuneri
 http://vipxx.p-0101.pw:80/live/vpplus1129/6BQhtYhdLF/312567.m3u8
-#EXTINF:-1 tvg-logo="http://logo1010.com/ens/153.png" group-title="TR • Dizi",[Boxset] Avlu
-http://vipxx.p-0101.pw:80/live/vpplus1129/6BQhtYhdLF/312568.m3u8
 #EXTINF:-1 tvg-logo="http://logo1010.com/ens/152.png" group-title="TR • Dizi",[Boxset] Çiçek Taksi
 http://vipxx.p-0101.pw:80/live/vpplus1129/6BQhtYhdLF/312569.m3u8
 #EXTINF:-1 tvg-logo="http://logo1010.com/ens/151.png" group-title="TR • Dizi",[Boxset] Acı Hayat
@@ -18293,4 +18291,4 @@ http://vipxx.p-0101.pw:80/live/vpplus1129/6BQhtYhdLF/327402.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/0ffd98187ea351db7fa5fde48f647f21.png" group-title="► Vietnam",VN: VTV 9
 http://vipxx.p-0101.pw:80/live/vpplus1129/6BQhtYhdLF/327403.m3u8
 
-# Total: 9032
+# Total: 9031

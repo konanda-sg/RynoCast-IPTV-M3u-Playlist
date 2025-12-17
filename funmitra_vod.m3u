@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: funmitra.com:8080
-# Generated: 2025-12-16 07:06:37
+# Generated: 2025-12-17 07:06:20
 # Expires: 2026-03-01
 # Family Safe Edition
 # ==============================================
@@ -485,7 +485,7 @@ http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11517.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) Shin-Chan
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11536.mp4
 
-# --- Movies | (S|DE) Deutsche Serien (1306) ---
+# --- Movies | (S|DE) Deutsche Serien (1309) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) 4 Blocks
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/274.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) American Horror Story
@@ -3098,6 +3098,12 @@ http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11532.mp4
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11537.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Bushido & Anna-Maria: Alle Auf Tour
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11538.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Yeliz & Jimi: We Are Family?!
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11552.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Uns Bleibt Immer Morgen
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11553.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) This City Is Ours
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11554.mp4
 
 # --- Movies | (S|TR) Animasyon - Cizgi Diziler (131) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Animasyon - Cizgi Diziler",(TR-) Ben 10 Omniverse
@@ -22159,7 +22165,11 @@ http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/275545.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/o3dRENAwLg8Gs8oGPh8gLO5MHWB.jpg" group-title="Movies | (V|TR) Belgeseller",(TR-) Anafartalar - 2019
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/275553.mkv
 
-# --- Movies | (V|TR) Dizi Son Bölümleri (284) ---
+# --- Movies | (V|TR) Dizi Son Bölümleri (286) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/E8tR39iX2XNZdqeDA5REFDquU6.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Uzak Sehir (Bolum 42)
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/649542.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/b6QGAQBiAWXVPQvc9um8o9Q90jY_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Cennetin Cocuklari (Bolum 14)
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/649541.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jJ7kZ2KK8VlXCeFRluqSuFzbL3z.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Teskilat (Bolum 161)
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/649510.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/zgVgcthDQ8pYgBkKzi1AaXmmeFO_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Sahtekarlar (Bolum 10)
@@ -31741,7 +31751,9 @@ http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/330091.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/gFefRcNMPVB2RqLtsYFId6hwsqz.jpg" group-title="Movies | (V|TR) Yerli Film - 2021",(TR-) Azizler - 2021
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/306929.mkv
 
-# --- Movies | (V|TR) Yerli Film - 2022 (107) ---
+# --- Movies | (V|TR) Yerli Film - 2022 (108) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/rlYUTume6SwwuE5eBc3llvApEHj_big.jpg" group-title="Movies | (V|TR) Yerli Film - 2022",(TR-) Ali Çevlik - 2022
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/649540.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/dEI5iluNlVa4hQ5JD1SsG3SjPKM_big.jpg" group-title="Movies | (V|TR) Yerli Film - 2022",(TR-) 41 Kere Maşallah - 2022
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/622656.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/3jVAsPTbrbfgSYP6NFXdLoZE8aT_big.jpg" group-title="Movies | (V|TR) Yerli Film - 2022",(TR-) Sünnet Çocuğu - 2022
@@ -32357,4 +32369,4 @@ http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/583470.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Unknown",(DE-) Anaon:  Hüter Der Nacht
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/10625.mp4
 
-# Total: 16131
+# Total: 16137

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2025-12-16 18:35:18
+# Generated: 2025-12-17 07:01:50
 # Expires: 2025-12-20
 # Family Safe Edition
 # ==============================================
@@ -1061,7 +1061,15 @@ http://solution62000.mine.nu:8000/movie/benaza_ileyn/20122024/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/benaza_ileyn/20122024/5531.mp4
 
-# --- Movies | Films (1391) ---
+# --- Movies | Films (1394) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rfjuf6kNLVnH8qOk6UZJBHQHKlF.jpg" group-title="Movies | Films",Insaisissables 3 (2025)
+http://solution62000.mine.nu:8000/movie/benaza_ileyn/20122024/21566.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/x56yV1MunQDBZp6Rs4Fks3KdeD0.jpg" group-title="Movies | Films",Wake Up Dead Man : Une histoire à couteaux tirés (2025)
+http://solution62000.mine.nu:8000/movie/benaza_ileyn/20122024/21471.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aZGpn6GTtLFkkJ0LmeHtifL1Jw8.jpg" group-title="Movies | Films",Inheritance (2025)
+http://solution62000.mine.nu:8000/movie/benaza_ileyn/20122024/21565.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/spX02wyDt5EbUp7m4jSk7X1znoJ.jpg" group-title="Movies | Films",Paradox Effect (2025)
+http://solution62000.mine.nu:8000/movie/benaza_ileyn/20122024/21564.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3tbnGsJpxtndRkxHeq3uq7VymzI.jpg" group-title="Movies | Films",Running Man (2025)
 http://solution62000.mine.nu:8000/movie/benaza_ileyn/20122024/21550.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xwk1QoiQPXBjfDvBd6sRnzrgpMA.jpg" group-title="Movies | Films",Noël mortel à Groland (2025)
@@ -3842,8 +3850,6 @@ http://solution62000.mine.nu:8000/movie/benaza_ileyn/20122024/6938.mkv
 http://solution62000.mine.nu:8000/movie/benaza_ileyn/20122024/11390.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b7Q9EdjddChgzuMwXmXmNVcO3bI.jpg" group-title="Movies | Films",Sons of Rizk 2 (2019)
 http://solution62000.mine.nu:8000/movie/benaza_ileyn/20122024/13764.mkv
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/x56yV1MunQDBZp6Rs4Fks3KdeD0.jpg" group-title="Movies | Films",Wake Up Dead Man : Une histoire à couteaux tirés (2025)
-http://solution62000.mine.nu:8000/movie/benaza_ileyn/20122024/21471.mkv
 
 # --- Movies | Films - ULTRA HD 4K (21) ---
 #EXTINF:-1 tvg-logo="https://metalunastore.fr/cdn/shop/files/RoboCop4KBlu-ray.jpg?v=1715248236" group-title="Movies | Films - ULTRA HD 4K",RoboCop (2014) - 4K
@@ -7107,4 +7113,4 @@ http://solution62000.mine.nu:8000/series/benaza_ileyn/20122024/937
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Insomnia
 http://solution62000.mine.nu:8000/series/benaza_ileyn/20122024/943
 
-# Total: 3521
+# Total: 3524

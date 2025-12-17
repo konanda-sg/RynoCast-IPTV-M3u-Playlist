@@ -1,13 +1,13 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: ginafelea.ddns.net:8008
-# Generated: 2025-12-16 18:31:47
+# Generated: 2025-12-17 07:04:33
 # Expires: 2026-07-15
 # Family Safe Edition
 # ==============================================
 
 
-# --- ⚜️ROMANIA TV⚜️ (595) ---
+# --- ⚜️ROMANIA TV⚜️ (594) ---
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvFMSGRt/Whats-App-Image-2025-11-27-at-15-20-39-6e5d06cc.jpg" group-title="⚜️ROMANIA TV⚜️",⚜️WELCOME TO PRO EUROPA⚜️
 http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/540724.m3u8
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab67616d0000b273e9af6e6ace7bae5f933bdc04" group-title="⚜️ROMANIA TV⚜️",COLINDE ROMANESTI
@@ -766,8 +766,6 @@ http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/491661.m3u8
 http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/491679.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4yY8QMS3/1.gif" group-title="⚜️ROMANIA TV⚜️",DIGI KINO TWO
 http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/491680.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4yY8QMS3/1.gif" group-title="⚜️ROMANIA TV⚜️",DIGI KINO THREE
-http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/491681.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4yY8QMS3/1.gif" group-title="⚜️ROMANIA TV⚜️",DIGI KINO FOUR
 http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/491682.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4yY8QMS3/1.gif" group-title="⚜️ROMANIA TV⚜️",DIGI KINO FIVE
@@ -1199,4 +1197,4 @@ http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/296305.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚜️ROMANIA TV⚜️",GALA RXF
 http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/554858.m3u8
 
-# Total: 595
+# Total: 594

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: newborne.pro
-# Generated: 2025-12-16 18:31:11
+# Generated: 2025-12-17 07:07:41
 # Expires: 2026-08-21
 # Family Safe Edition
 # ==============================================
@@ -9097,7 +9097,9 @@ http://newborne.pro/movie/Adorait/yKNEk1etre/98527.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cP1ElGjBhbZAAqmueXjHDKlSwiP.jpg" group-title="Movies | WW2",Downfall (2004)
 http://newborne.pro/movie/Adorait/yKNEk1etre/98526.mp4
 
-# --- Series | AL Series (157) ---
+# --- Series | AL Series (158) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | AL Series",Man vs Baby (2025)
+http://newborne.pro/series/Adorait/yKNEk1etre/544
 #EXTINF:-1 tvg-logo="" group-title="Series | AL Series",The Last Frontier (2025)
 http://newborne.pro/series/Adorait/yKNEk1etre/541
 #EXTINF:-1 tvg-logo="" group-title="Series | AL Series",IT: Welcome to Derry (2025)
@@ -9541,4 +9543,4 @@ http://newborne.pro/series/Adorait/yKNEk1etre/248
 #EXTINF:-1 tvg-logo="" group-title="Series | Netflix Series",Squid Game: The Challenge
 http://newborne.pro/series/Adorait/yKNEk1etre/247
 
-# Total: 4740
+# Total: 4741

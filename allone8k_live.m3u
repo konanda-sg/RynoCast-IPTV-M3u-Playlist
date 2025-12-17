@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: allone8k.info:8080
-# Generated: 2025-12-16 18:29:07
+# Generated: 2025-12-17 07:07:54
 # Expires: 2026-06-20
 # Family Safe Edition
 # ==============================================
@@ -8506,6 +8506,22 @@ http://allone8k.info:8080/live/hany/hany1234/222807.m3u8
 http://allone8k.info:8080/live/hany/hany1234/222808.m3u8
 #EXTINF:-1 tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Czechia.png" group-title="CZ | CZECH",CZ: DOMA★
 http://allone8k.info:8080/live/hany/hany1234/222809.m3u8
+
+# --- Copa del Rey | كأس ملك إسبانيا (7) ---
+#EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/apdwh753fupxheygs8seahh7x.128.png?ver=03-06-2025" group-title="Copa del Rey | كأس ملك إسبانيا",COPA DEL REY 1
+http://allone8k.info:8080/live/hany/hany1234/631595.m3u8
+#EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/apdwh753fupxheygs8seahh7x.128.png?ver=03-06-2025" group-title="Copa del Rey | كأس ملك إسبانيا",COPA DEL REY 2
+http://allone8k.info:8080/live/hany/hany1234/631596.m3u8
+#EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/apdwh753fupxheygs8seahh7x.128.png?ver=03-06-2025" group-title="Copa del Rey | كأس ملك إسبانيا",COPA DEL REY 3
+http://allone8k.info:8080/live/hany/hany1234/631597.m3u8
+#EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/apdwh753fupxheygs8seahh7x.128.png?ver=03-06-2025" group-title="Copa del Rey | كأس ملك إسبانيا",COPA DEL REY 4
+http://allone8k.info:8080/live/hany/hany1234/631598.m3u8
+#EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/apdwh753fupxheygs8seahh7x.128.png?ver=03-06-2025" group-title="Copa del Rey | كأس ملك إسبانيا",COPA DEL REY 5
+http://allone8k.info:8080/live/hany/hany1234/631599.m3u8
+#EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/apdwh753fupxheygs8seahh7x.128.png?ver=03-06-2025" group-title="Copa del Rey | كأس ملك إسبانيا",COPA DEL REY 6
+http://allone8k.info:8080/live/hany/hany1234/631600.m3u8
+#EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/apdwh753fupxheygs8seahh7x.128.png?ver=03-06-2025" group-title="Copa del Rey | كأس ملك إسبانيا",COPA DEL REY 7
+http://allone8k.info:8080/live/hany/hany1234/631614.m3u8
 
 # --- DE |  DAZN VIP (15) ---
 #EXTINF:-1 tvg-logo="" group-title="DE |  DAZN VIP",|.DEU.|_DAZN BAR 1 red
@@ -18237,4 +18253,4 @@ http://allone8k.info:8080/live/hany/hany1234/619076.m3u8
 #EXTINF:-1 tvg-logo="" group-title="مهم",mbc masr test
 http://allone8k.info:8080/live/hany/hany1234/473269.m3u8
 
-# Total: 8909
+# Total: 8916
