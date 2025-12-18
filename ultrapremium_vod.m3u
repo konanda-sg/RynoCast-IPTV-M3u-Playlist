@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: ultrapremium.cloud:8080
-# Generated: 2025-12-18 07:00:58
+# Generated: 2025-12-18 18:30:04
 # Expires: 2026-10-18
 # Family Safe Edition
 # ==============================================
@@ -7443,7 +7443,7 @@ http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/249676.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdjGwXvtEglJn8AlxHeupDLFzHW.jpg" group-title="Movies | → VOD DISNEY ←",Zootopia (2016)
 http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/249677.mkv
 
-# --- Movies | → VOD DOCUMENTALES CASTELLANO ← (162) ---
+# --- Movies | → VOD DOCUMENTALES CASTELLANO ← (161) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2LQtXYRpdwlsFElKMkuK9hH4v2C.jpg" group-title="Movies | → VOD DOCUMENTALES CASTELLANO ←",Misterios del Titanic (2003)
 http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/260212.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pgsZ7L7sy9Fg0ELA9n23OBwYdsh.jpg" group-title="Movies | → VOD DOCUMENTALES CASTELLANO ←",Bruce Willis: Todo héroe americano (2023)
@@ -7678,8 +7678,6 @@ http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/264072.m3u8
 http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/264073.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtoihkDqsEXIoB2oGS2BWfpXmIP7kJH1h_cw&s" group-title="Movies | → VOD DOCUMENTALES CASTELLANO ←",Vida Electrónica
 http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/264074.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeR4XGGGSLRNSszKqi3XClBpOgUe0EvkUg-Q&s" group-title="Movies | → VOD DOCUMENTALES CASTELLANO ←",Vida Tras Las Estrellas
-http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/264075.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/fd16da0726a1ffa86b032de1a5f3f9cf2bc7e47b15952f497bbbbaa9c2da2e21.jpg" group-title="Movies | → VOD DOCUMENTALES CASTELLANO ←",Astro-turismo, sentir el universo
 http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/264076.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/f977199fed94687bffbead14b079ffda595c7c361ebcf69b6af6016950d3e6be.jpg" group-title="Movies | → VOD DOCUMENTALES CASTELLANO ←",Gaudí en la Catedral de Mallorca. El Obispo, el Arquitecto y el Baldaquino
@@ -17959,7 +17957,7 @@ http://ultrapremium.cloud:8080/series/995138256tv/wiwos69/2478
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES COMEDIA ←",Sin Frenos
 http://ultrapremium.cloud:8080/series/995138256tv/wiwos69/2481
 
-# --- Series | → SERIES CRIMEN ← (147) ---
+# --- Series | → SERIES CRIMEN ← (148) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",¿Sabes quién es?
 http://ultrapremium.cloud:8080/series/995138256tv/wiwos69/5
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",Chicago P.D.
@@ -18254,6 +18252,8 @@ http://ultrapremium.cloud:8080/series/995138256tv/wiwos69/2500
 http://ultrapremium.cloud:8080/series/995138256tv/wiwos69/2501
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",El Monstruo de Florencia
 http://ultrapremium.cloud:8080/series/995138256tv/wiwos69/2507
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",Manipulado
+http://ultrapremium.cloud:8080/series/995138256tv/wiwos69/2512
 
 # --- Series | → SERIES DC ← (15) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DC ←",Arrow

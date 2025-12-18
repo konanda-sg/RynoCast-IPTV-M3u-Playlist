@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: hdhd.tk:80
-# Generated: 2025-12-18 07:05:22
+# Generated: 2025-12-18 18:31:37
 # Expires: 2027-10-14
 # Family Safe Edition
 # ==============================================
@@ -2349,7 +2349,7 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/46535.m3u8
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/tv.png" group-title="Ecuador",Latin Ecuador TV
 http://hdhd.tk:80/live/Amanda1/Frechette1/46537.m3u8
 
-# --- Greek (54) ---
+# --- Greek (53) ---
 #EXTINF:-1 tvg-logo="" group-title="Greek",GR Epiloges TV (D)
 http://hdhd.tk:80/live/Amanda1/Frechette1/22953.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Greek",GR Hellenic TV (D)
@@ -2418,8 +2418,6 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/45180.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/45181.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Greek",GR Nautical Channel
 http://hdhd.tk:80/live/Amanda1/Frechette1/45182.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Greek",CA (GR) ALPHA SAT
-http://hdhd.tk:80/live/Amanda1/Frechette1/45183.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Greek",CA (GR) ERT World
 http://hdhd.tk:80/live/Amanda1/Frechette1/45184.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Greek",CA (GR) Mega Cosmos
@@ -7787,4 +7785,4 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/330321.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Vietnam",VN FILM24H
 http://hdhd.tk:80/live/Amanda1/Frechette1/330322.m3u8
 
-# Total: 3799
+# Total: 3798

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: lemon.catchmeifyo.com:8000
-# Generated: 2025-12-18 07:11:10
+# Generated: 2025-12-18 18:27:45
 # Expires: 2026-04-05
 # Family Safe Edition
 # ==============================================
@@ -6138,13 +6138,13 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/40726.m3u8
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/150925.m3u8
 #EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",VIAPLAY + ( Darts en F1 Live )
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/185698.m3u8
-#EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 1 - 19:55: PDC Darts World Darts Championship (Ronde 1 | Dag 7)
+#EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 1 - 13:25: PDC Darts World Darts Championship (Ronde 1 | Dag 8)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/77148.m3u8
-#EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 2 - 20:20: Carabao Cup Man City - Brentford (Kwartfinale)
+#EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 2 - 18:55: SHL Timrå - Skellefteå (Competitieseizoen)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/77149.m3u8
-#EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 3 - 21:05: Carabao Cup Newcastle - Fulham (Kwartfinale)
+#EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 3 - 19:55: PDC Darts World Darts Championship (Ronde 1 | Dag 8)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/77150.m3u8
-#EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 4 - Geen Wedstrijd - Ververs uw lijst / Zie telegram voor programma vandaag
+#EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 4 - 20:55: League One Reading - Luton (Ronde 21)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/78650.m3u8
 #EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 5 - Geen Wedstrijd - Ververs uw lijst / Zie telegram voor programma vandaag
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/78651.m3u8
@@ -6339,38 +6339,42 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/16821.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_mxgp.png" group-title="SPECIALS / Darten / MotoGP / Mxgp / FIM Sidecar",MXGP Motocross Alle Races Alle Klasses
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/84077.m3u8
 
-# --- STAN (Europees Voetbal) (38) ---
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="STAN (Europees Voetbal)",2025-12-15 20:00 - STAN 1 : Manchester United v AFC Bournemouth - Premier League 2025/2026
+# --- STAN (Europees Voetbal) (40) ---
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="STAN (Europees Voetbal)",2025-12-18 20:55 - STAN 1 : Crystal Palace v KuPS - UEFA Conference League 2025/2026
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/150964.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="STAN (Europees Voetbal)",2025-12-14 12:45 - STAN 2 : Manchester City v Aston Villa - WSL 2025/26
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="STAN (Europees Voetbal)",2025-12-18 20:55 - STAN 2 : Rayo Vallecano v Drita - UEFA Conference League 2025/2026
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/150965.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="STAN (Europees Voetbal)",2025-12-14 12:45 - STAN 3 : Leicester City v London City Lionesses - WSL 2025/26
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="STAN (Europees Voetbal)",2025-12-18 20:55 - STAN 3 : Sparta Praha v Aberdeen - UEFA Conference League 2025/2026
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/150966.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="STAN (Europees Voetbal)",2025-12-14 12:45 - STAN 4 : West Ham v Liverpool - WSL 2025/26
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="STAN (Europees Voetbal)",2025-12-18 20:55 - STAN 4 : Mainz 05 v Samsunspor - UEFA Conference League 2025/2026
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/150967.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="STAN (Europees Voetbal)",2025-12-14 14:00 - STAN 5 : Goal Rush - Dec 15 Premier League 2025/26
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="STAN (Europees Voetbal)",2025-12-18 20:55 - STAN 5 : Strasbourg v Breidablik - UEFA Conference League 2025/2026
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/150968.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="STAN (Europees Voetbal)",2025-12-14 14:50 - STAN 6 : Crystal Palace v Manchester City - Premier League 2025/2026
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="STAN (Europees Voetbal)",2025-12-18 20:55 - STAN 6 : Sigma Olomouc v Lech Poznań - UEFA Conference League 2025/2026
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/150969.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="STAN (Europees Voetbal)",2025-12-14 14:50 - STAN 8 : West Ham United v Aston Villa - Premier League 2025/2026
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="STAN (Europees Voetbal)",2025-12-18 20:55 - STAN 7 : AZ v Jagiellonia Białystok - UEFA Conference League 2025/2026
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/150970.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="STAN (Europees Voetbal)",2025-12-18 20:55 - STAN 8 : Dynamo Kyiv v Noah - UEFA Conference League 2025/2026
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/150971.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="STAN (Europees Voetbal)",2025-12-14 14:50 - STAN 9 : Sunderland v Newcastle United - Premier League 2025/2026
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="STAN (Europees Voetbal)",2025-12-18 20:55 - STAN 9 : Celje v Shelbourne - UEFA Conference League 2025/2026
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/150974.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="STAN (Europees Voetbal)",2025-12-14 17:20 - STAN 11 : Brentford v Leeds United - Premier League 2025/2026
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="STAN (Europees Voetbal)",2025-12-18 20:55 - STAN 10 : Slovan Bratislava v Häcken - UEFA Conference League 2025/2026
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/150975.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="STAN (Europees Voetbal)",2025-12-18 20:55 - STAN 11 : Legia Warszawa v Lincoln Red Imps - UEFA Conference League 2025/2026
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/150976.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="STAN (Europees Voetbal)",2025-12-14 20:00 - STAN 12 : PL Weekend Wrap: Matchweek 16 - Dec 16
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="STAN (Europees Voetbal)",2025-12-18 20:55 - STAN 12 : Shakhtar Donetsk v Rijeka - UEFA Conference League 2025/2026
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/150977.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="STAN (Europees Voetbal)",2025-12-11 18:40 - STAN 13 : Jagiellonia Białystok v Rayo Vallecano - UEFA Conference League 2025/2026
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="STAN (Europees Voetbal)",2025-12-18 20:55 - STAN 13 : Shamrock Rovers v Hamrun Spartans - UEFA Conference League 2025/2026
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/150978.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="STAN (Europees Voetbal)",2025-12-11 18:40 - STAN 14 : Shkendija v Slovan Bratislava - UEFA Conference League 2025/2026
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="STAN (Europees Voetbal)",2025-12-18 20:55 - STAN 14 : Lausanne-Sport v Fiorentina - UEFA Conference League 2025/2026
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/150979.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="STAN (Europees Voetbal)",2025-12-11 18:40 - STAN 15 : Nice v Sporting Braga - UEFA Europa League 2025/2026
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="STAN (Europees Voetbal)",2025-12-18 20:55 - STAN 15 : AEK Athens v Universitatea Craiova - UEFA Conference League 2025/2026
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/150980.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="STAN (Europees Voetbal)",2025-12-11 18:40 - STAN 16 : Fiorentina v Dynamo Kyiv - UEFA Conference League 2025/2026
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="STAN (Europees Voetbal)",2025-12-18 20:55 - STAN 16 : AEK Larnaca v Shkendija - UEFA Conference League 2025/2026
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/150981.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="STAN (Europees Voetbal)",2025-12-11 18:40 - STAN 17 : Dinamo Zagreb v Real Betis - UEFA Europa League 2025/2026
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="STAN (Europees Voetbal)",2025-12-18 20:55 - STAN 17 : Zrinjski v Rapid - UEFA Conference League 2025/2026
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/150982.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="STAN (Europees Voetbal)",2025-12-11 18:40 - STAN 18 : Universitatea Craiova v Sparta Praha - UEFA Conference League 2025/2026
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="STAN (Europees Voetbal)",2025-12-18 20:55 - STAN 18 : Omonia Nicosia v Raków Częstochowa - UEFA Conference League 2025/2026
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/150983.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="STAN (Europees Voetbal)",2025-12-11 19:50 - STAN 19 : Aston Villa v Liverpool - WSL 2025/26
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/150984.m3u8
@@ -7697,4 +7701,4 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/37632.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Zuid Afrika / South Afrika",ZA: SuperSport Golf
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/37635.m3u8
 
-# Total: 3821
+# Total: 3823

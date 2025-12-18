@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: sv1.casahd.com
-# Generated: 2025-12-18 07:09:54
+# Generated: 2025-12-18 18:38:06
 # Expires: 2026-05-02
 # Family Safe Edition
 # ==============================================
@@ -29281,7 +29281,7 @@ http://sv1.casahd.com/series/528398/824141/46620
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | AMC Plus",This Is Going to Hurt
 http://sv1.casahd.com/series/528398/824141/47476
 
-# --- Series | Series | Amazon Prime Video (693) ---
+# --- Series | Series | Amazon Prime Video (695) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",1 Contra Todos
 http://sv1.casahd.com/series/528398/824141/45271
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",90 Dias De Volta Pra Pista
@@ -30668,6 +30668,10 @@ http://sv1.casahd.com/series/528398/824141/53259
 http://sv1.casahd.com/series/528398/824141/53261
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",Film Club
 http://sv1.casahd.com/series/528398/824141/53263
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",A Guerra dos Reinos
+http://sv1.casahd.com/series/528398/824141/53276
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",MYTIKAH O Livro dos Herois
+http://sv1.casahd.com/series/528398/824141/53281
 
 # --- Series | Series | Apple TV Plus (230) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Apple TV Plus",12 Monkeys
@@ -34099,7 +34103,7 @@ http://sv1.casahd.com/series/528398/824141/46983
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Funimation Now",Vivy: Fluorite Eye’s Song
 http://sv1.casahd.com/series/528398/824141/46890
 
-# --- Series | Series | Globoplay (416) ---
+# --- Series | Series | Globoplay (417) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Globoplay",220 Volts
 http://sv1.casahd.com/series/528398/824141/45717
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Globoplay",A Bela e o Padeiro
@@ -34932,6 +34936,8 @@ http://sv1.casahd.com/series/528398/824141/53232
 http://sv1.casahd.com/series/528398/824141/53236
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Globoplay",O Natal dos Silva
 http://sv1.casahd.com/series/528398/824141/53268
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Globoplay",Choque de Cultura A Serie
+http://sv1.casahd.com/series/528398/824141/53278
 
 # --- Series | Series | Legendadas (1167) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",007 Estrada para o Milhao [L]
@@ -38255,7 +38261,7 @@ http://sv1.casahd.com/series/528398/824141/53230
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Max",Angela Diniz Assassinada e Condenada
 http://sv1.casahd.com/series/528398/824141/53237
 
-# --- Series | Series | Netflix (1442) ---
+# --- Series | Series | Netflix (1445) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",(A)mar
 http://sv1.casahd.com/series/528398/824141/48857
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",(Des)encanto
@@ -41140,8 +41146,14 @@ http://sv1.casahd.com/series/528398/824141/53267
 http://sv1.casahd.com/series/528398/824141/53270
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Cidade de Sombras
 http://sv1.casahd.com/series/528398/824141/53275
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Casadas e Cacadoras
+http://sv1.casahd.com/series/528398/824141/53277
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Heeramandi O Bazar de Diamantes
+http://sv1.casahd.com/series/528398/824141/53279
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Selecao Artificial
+http://sv1.casahd.com/series/528398/824141/53282
 
-# --- Series | Series | Outras Produtoras (701) ---
+# --- Series | Series | Outras Produtoras (702) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Outras Produtoras",100 Days Wild
 http://sv1.casahd.com/series/528398/824141/46823
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Outras Produtoras",100-man no Inochi no Ue ni Ore wa Tatte Iru
@@ -42544,6 +42556,8 @@ http://sv1.casahd.com/series/528398/824141/53225
 http://sv1.casahd.com/series/528398/824141/53238
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Outras Produtoras",Inside No 9
 http://sv1.casahd.com/series/528398/824141/53241
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Outras Produtoras",Engracadinha Seus Amores e Seus Pecados
+http://sv1.casahd.com/series/528398/824141/53280
 
 # --- Series | Series | Paramount (167) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Paramount",100 Code
@@ -43231,4 +43245,4 @@ http://sv1.casahd.com/series/528398/824141/52667
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Univer",O Senhor e a Serva
 http://sv1.casahd.com/series/528398/824141/52936
 
-# Total: 21567
+# Total: 21574

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: pw-iptv.online:8080
-# Generated: 2025-12-18 07:09:33
+# Generated: 2025-12-18 18:36:19
 # Expires: 2026-01-16
 # Family Safe Edition
 # ==============================================
@@ -4733,7 +4733,7 @@ http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/4464.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13396.png?63531" group-title="AR| SUDAN 4K ▶ سودان",AR: Mouritana Qamer HD
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/499149.m3u8
 
-# --- AR| SYRIA 4K ▶ سوريا (30) ---
+# --- AR| SYRIA 4K ▶ سوريا (32) ---
 #EXTINF:-1 tvg-logo="https://aaru.edu.jo/PublishingImages/Flags/Syria-180-animated-flag-gifs[1].gif" group-title="AR| SYRIA 4K ▶ سوريا",###### SYRIA TV ######
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/251820.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/4738.png?59551" group-title="AR| SYRIA 4K ▶ سوريا",AR: AL EKHBARIYA SY ᴴᴰ
@@ -4788,6 +4788,10 @@ http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1285571.m3u8
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1168994.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/screenshots/93/9264.jpg" group-title="AR| SYRIA 4K ▶ سوريا",AR: IRAQIA SYRIAC ᴿᴬᵂ ⁽ᴮᴷ⁾
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1371915.m3u8
+#EXTINF:-1 tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14725.png?94849" group-title="AR| SYRIA 4K ▶ سوريا",AR: SYRIA ALOULA ᴿᴬᵂ
+http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1750791.m3u8
+#EXTINF:-1 tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14725.png?94849" group-title="AR| SYRIA 4K ▶ سوريا",AR: SYRIA ALOULA  ᴴᴰ
+http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1750792.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12783.png?91512" group-title="AR| SYRIA 4K ▶ سوريا",AR: غوار 1
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/278566.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12783.png?91512" group-title="AR| SYRIA 4K ▶ سوريا",AR: غوار 2
@@ -5810,9 +5814,9 @@ http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/412294.m3u8
 # --- DE| DISCOVERY+ PPV (101) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Animated-Flag-Germany.gif" group-title="DE| DISCOVERY+ PPV",###### DISCOVERY+ PPV  ######
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/924351.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="DE| DISCOVERY+ PPV",DE: D+ PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="DE| DISCOVERY+ PPV",DE: DPLUS PPV 1 - GRÖDEN | ABFAHRT | Thu 18 Dec 11:30 | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/924350.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="DE| DISCOVERY+ PPV",DE: D+ PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="DE| DISCOVERY+ PPV",DE: DPLUS PPV 2 - CAREZZA | PARALLEL-RIESENSLALOM | Thu 18 Dec 12:35 | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/924349.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="DE| DISCOVERY+ PPV",DE: D+ PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/924348.m3u8
@@ -7652,11 +7656,11 @@ http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/816704.m3u8
 # --- DE| NOW TV SPORTS PPV (51) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Animated-Flag-Germany.gif" group-title="DE| NOW TV SPORTS PPV",####### NOW TV PPV #######
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1055929.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13809.png?ver=88754" group-title="DE| NOW TV SPORTS PPV",DE: NOW TV PPV 1 - NHL: LOS ANGELES KINGS @ FLORIDA PANTHERS | Thu 18 Dec 01:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13809.png?ver=88754" group-title="DE| NOW TV SPORTS PPV",DE: NOW TV PPV 1 - AFRASIA BANK MAURITIUS OPEN | Thu 18 Dec 09:30 | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1055928.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13809.png?ver=88754" group-title="DE| NOW TV SPORTS PPV",DE: NOW TV PPV 2 - NO EVENT STREAMING -
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13809.png?ver=88754" group-title="DE| NOW TV SPORTS PPV",DE: NOW TV PPV 2 - PRESSEKONFERENZEN LIVE | Thu 18 Dec 12:00 | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1055927.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13809.png?ver=88754" group-title="DE| NOW TV SPORTS PPV",DE: NOW TV PPV 3 - NO EVENT STREAMING -
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13809.png?ver=88754" group-title="DE| NOW TV SPORTS PPV",DE: NOW TV PPV 3 - NEXT GEN ATP FINALS: SPIEL 1, 2. TAG  | Thu 18 Dec 12:00 | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1055926.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13809.png?ver=88754" group-title="DE| NOW TV SPORTS PPV",DE: NOW TV PPV 4 - NO EVENT STREAMING -
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1055925.m3u8
@@ -9108,15 +9112,15 @@ http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1324769.m3u8
 # --- DE| SPORT EUROPE PPV (101) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Animated-Flag-Germany.gif" group-title="DE| SPORT EUROPE PPV",##### SPORT EUROPE PPV #####
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1035021.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 1 - NO EVENT STREAMING -
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 1 - YONEX GERMAN RUHR INTERNATIONAL U17 - COURT 5-8 - DAY 2 | Thu 18 Dec 08:00
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1035020.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 2 - NO EVENT STREAMING -
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 2 - YONEX GERMAN RUHR INTERNATIONAL U19 - COURT 1-4 - DAY 2 | Thu 18 Dec 08:00
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1035019.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 3 - NO EVENT STREAMING -
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 3 - 4 NATIONS ONE COURT U18 VOLLEYBALL | Thu 18 Dec 08:45
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1035018.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 14 - NO EVENT STREAMING -
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1035017.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 5 - KREISPOKAL 1. RUNDE TSV BETZIGAU DAMEN VS. 1. SKC 63 KEMPTEN | Wed 17 Dec 18:00
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 5 - NO EVENT STREAMING -
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1035016.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 6 - NO EVENT STREAMING -
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1035015.m3u8
@@ -9731,4 +9735,4 @@ http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1667444.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6454.png?76365" group-title="DE| WOW SPORT ᴴᴰ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",WOW: SKY SPORT 10 ᴴᴰ ◉
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1667443.m3u8
 
-# Total: 4753
+# Total: 4755

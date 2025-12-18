@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: no1.no1turk.com:2086
-# Generated: 2025-12-18 07:02:03
+# Generated: 2025-12-18 18:28:41
 # Expires: 2026-09-21
 # Family Safe Edition
 # ==============================================
@@ -840,7 +840,7 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/110100.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/110101.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/1n21s8j.png" group-title="DE-DAZN",DE: DAZN Red Bull TV HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/110102.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/tdmjmlp.png" group-title="DE-DAZN",DE: DAZN 1 HD KABEL
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/tdmjmlp.png" group-title="DE-DAZN",DE: DAZN Unbeaten HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/110103.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/poagup8.png" group-title="DE-DAZN",DE: DAZN SPORTDIGITAL FUSSBALL HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/166438.m3u8
@@ -849,21 +849,7 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/170928.m3u8
 
-# --- DE-DAZN EVENT (286) ---
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7ggmx99868tnyoohq0lrjn6vk_image-header_pDach_1765272580000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Darts-WM | Tag 7 (Originalkommentar) (2025-12-17 20:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/172662.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/17t4pxzlgwmkum04r2wfgjyte_image-header_pDach_1765272458000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Darts-WM | Tag 7 (2025-12-17 20:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/172663.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/aan58ri0enqu6s7gvrrkhvvts_image-header_pDach_1765461862000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Darts-WM | Tag 7 (Splashbrudda-Kommentar) (2025-12-17 20:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/172664.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/aud0gwp7nnfp6omh3wf9sbvaf_image-header_pDach_1765536396000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Talavera - Real Madrid (2025-12-17 21:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/172665.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1jdas3kt5x2tv1lqeb0nw9ioog_image-header_pDach_1765316186000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Cure Bowl: South Florida vs. Old Dominion (2025-12-17 23:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/172666.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1iow4i5skzp0ezb5jsom9odna_image-header_pDach_1765451843000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Georgetown @ Marquette (2025-12-18 02:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/172667.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1b788dy5tryhy1h0ijg7g8dt8o_image-header_pDach_1765451843000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Arizona State @ UCLA (2025-12-18 03:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/172733.m3u8
+# --- DE-DAZN EVENT (279) ---
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1kjk7mir4k5echhxmz143012o_image-header_pDach_1760431767000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Riyadh Racing Season Race Night 11 (2025-12-18 11:55:00)
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/172734.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2jzux1rr40ck5p8gvz036o6cw_image-header_pDach_1765788876000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Darts-WM | Tag 8 (Session 1) (2025-12-18 12:30:00)
@@ -7013,4 +6999,4 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165820.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JEtHjJs.png" group-title="WORLD SPORTS",Sky Sport Action HD [UK]
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165884.m3u8
 
-# Total: 3446
+# Total: 3439

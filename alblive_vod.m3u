@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alblive.org:80
-# Generated: 2025-12-18 07:00:32
+# Generated: 2025-12-18 18:34:50
 # Expires: 2026-01-15
 # Family Safe Edition
 # ==============================================
@@ -6361,7 +6361,7 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17210.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bLY5yN4MKVynZ2HMZWElTOGBgBe.jpg" group-title="Movies | Horror",Until Dawn (2025)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17217.mkv
 
-# --- Movies | ITALIA Disney - Netflix - HBO (74) ---
+# --- Movies | ITALIA Disney - Netflix - HBO (79) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/l0CaVyqnTsWwNd4hWsrLNEk1Wjd.jpg" group-title="Movies | ITALIA Disney - Netflix - HBO",A Family Affair (2024)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17232.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rYUsZd0V3I7ub21vf0f4DRzP1n0.jpg" group-title="Movies | ITALIA Disney - Netflix - HBO",A Perfect Pairing (2022)
@@ -6510,6 +6510,16 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17311.mkv
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17315.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tbVZ3Sq88dZaCANlUcewQuHQOaE.jpg" group-title="Movies | ITALIA Disney - Netflix - HBO",The Croods: A New Age (2020)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17316.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/26X4Lldt6bwLnrX6kkLfUZTLojw.jpg" group-title="Movies | ITALIA Disney - Netflix - HBO",12 Dates of Christmas (2011)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17317.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2ah8fNJFZVU3vcXhU5xfAYi2eym.jpg" group-title="Movies | ITALIA Disney - Netflix - HBO",Casper (1995)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17318.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bU7HzJbJpY5OiLdqWhKSqGPtYii.jpg" group-title="Movies | ITALIA Disney - Netflix - HBO",Father of the Bride (1991)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17319.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aEqtJDj8MvSDQwzggvcOfFTZMw.jpg" group-title="Movies | ITALIA Disney - Netflix - HBO",The Proposal (2009)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17320.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg" group-title="Movies | ITALIA Disney - Netflix - HBO",Zootopia (2016)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17321.mkv
 
 # --- Movies | Kinemaja Shqiptare (220) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2S4epgBehyiSlRqqnYrCIyCGcyM.jpg" group-title="Movies | Kinemaja Shqiptare",8 Persona Plus (1998)
@@ -10533,4 +10543,4 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/16122.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Western",The English
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/100.mp4
 
-# Total: 5233
+# Total: 5238

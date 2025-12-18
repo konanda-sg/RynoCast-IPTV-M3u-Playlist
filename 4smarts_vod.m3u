@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 4smarts.xyz
-# Generated: 2025-12-18 07:07:00
+# Generated: 2025-12-18 18:34:52
 # Expires: 2026-01-01
 # Family Safe Edition
 # ==============================================
@@ -2355,7 +2355,13 @@ http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/10332.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS | GREECE",GR - ezel
 http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/9809.mp4
 
-# --- Movies | SRS | ITALY (2219) ---
+# --- Movies | SRS | ITALY (2222) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS | ITALY",IT - Ugly Americans
+http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/48924.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS | ITALY",IT - My Melody & Kuromi
+http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/48922.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS | ITALY",IT - Prosciutto e uova verdi
+http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/48921.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS | ITALY",IT - I Love Arlo
 http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/48889.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS | ITALY",IT - Donna Ragno
@@ -39493,4 +39499,4 @@ http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/77935.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5l0fbsSD46Xm7bYXnQxczG5WGjn.jpg" group-title="Movies | VOD | SPORTS",FR - The Champions League - 2018
 http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/45591.mkv
 
-# Total: 19719
+# Total: 19722

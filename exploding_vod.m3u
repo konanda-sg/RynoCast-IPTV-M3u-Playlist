@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: exploding.one
-# Generated: 2025-12-18 07:06:10
+# Generated: 2025-12-18 18:32:39
 # Expires: 2026-07-21
 # Family Safe Edition
 # ==============================================
@@ -1785,7 +1785,7 @@ http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/10975.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | AMC",Monsieur Spade
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/11014.mp4
 
-# --- Movies | Action (1494) ---
+# --- Movies | Action (1497) ---
 #EXTINF:-1 tvg-logo="https://porky.pro/movie/757725/poster.jpg" group-title="Movies | Action",Shadow Force (2025)
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/314600.mkv
 #EXTINF:-1 tvg-logo="https://porky.pro/movie/8374/poster.jpg" group-title="Movies | Action",The Boondock Saints (1999)
@@ -4774,6 +4774,12 @@ http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/553899.mp4
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/553933.mkv
 #EXTINF:-1 tvg-logo="https://porky.pro/movie/35692/poster.jpg" group-title="Movies | Action",The Black Knight (1954)
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/553935.avi
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/9323/poster.jpg" group-title="Movies | Action",Ghost in the Shell (1995)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554139.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/1223601/poster.jpg" group-title="Movies | Action",Sisu: Road to Revenge (2025)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554145.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/623511/poster.jpg" group-title="Movies | Action",The Burning Sea (2021)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554146.mp4
 
 # --- Movies | Action & Adventure (89) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Action & Adventure",Burn Notice
@@ -6127,7 +6133,7 @@ http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/10169.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Animal Planet",I Shouldn't Be Alive
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/10469.mp4
 
-# --- Movies | Animation (515) ---
+# --- Movies | Animation (518) ---
 #EXTINF:-1 tvg-logo="https://porky.pro/movie/555604/poster.jpg" group-title="Movies | Animation",Guillermo del Toro's Pinocchio (2022)
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/314613.mkv
 #EXTINF:-1 tvg-logo="https://porky.pro/movie/15718/poster.jpg" group-title="Movies | Animation",Garfield's Halloween Adventure (1985)
@@ -7158,6 +7164,12 @@ http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/329558.mkv
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/329606.mkv
 #EXTINF:-1 tvg-logo="https://porky.pro/movie/776835/poster.jpg" group-title="Movies | Animation",The Magician's Elephant (2023)
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/329648.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/144288/poster.jpg" group-title="Movies | Animation",Berserk: The Golden Age Arc III - The Advent (2013)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554127.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/900667/poster.jpg" group-title="Movies | Animation",One Piece Film Red (2022)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554137.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/662708/poster.jpg" group-title="Movies | Animation",Pokémon the Movie: Secrets of the Jungle (2020)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554144.mkv
 
 # --- Movies | Anime (319) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Anime",RWBY
@@ -9545,7 +9557,7 @@ http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/10481.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Cartoon Network",Over the Garden Wall
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/11006.mp4
 
-# --- Movies | Comedy (2768) ---
+# --- Movies | Comedy (2769) ---
 #EXTINF:-1 tvg-logo="https://porky.pro/movie/4104/poster.jpg" group-title="Movies | Comedy",Benny & Joon (1993)
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/314608.avi
 #EXTINF:-1 tvg-logo="https://porky.pro/movie/455401/poster.jpg" group-title="Movies | Comedy",Keep the Change (2018)
@@ -14512,6 +14524,8 @@ http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/329677.mkv
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/329680.mkv
 #EXTINF:-1 tvg-logo="https://porky.pro/movie/46227/poster.jpg" group-title="Movies | Comedy",Susie Q (1996)
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/329684.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/126250/poster.jpg" group-title="Movies | Comedy",Love Is All You Need (2012)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554134.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Comedy",Platonic
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/5111.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Comedy",Business Proposal
@@ -15127,7 +15141,7 @@ http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/10877.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Comedy Central",Brickleberry
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/10887.mp4
 
-# --- Movies | Crime (650) ---
+# --- Movies | Crime (652) ---
 #EXTINF:-1 tvg-logo="https://porky.pro/movie/650/poster.jpg" group-title="Movies | Crime",Boyz n the Hood (1991)
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/314659.mkv
 #EXTINF:-1 tvg-logo="https://porky.pro/movie/609189/poster.jpg" group-title="Movies | Crime",Into the Ashes (2019)
@@ -16220,6 +16234,10 @@ http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/329609.mkv
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/329655.mkv
 #EXTINF:-1 tvg-logo="https://porky.pro/movie/793807/poster.jpg" group-title="Movies | Crime",Dark State (2021)
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/329672.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/1074262/poster.jpg" group-title="Movies | Crime",10 Days of a Bad Man (2023)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554125.mp4
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/33542/poster.jpg" group-title="Movies | Crime",Rumble in the Bronx (1995)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554142.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crime",The Closer
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/5104.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crime",False Identity
@@ -17641,7 +17659,7 @@ http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/11096.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Documentaries",Stax: Soulsville USA
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/11100.mp4
 
-# --- Movies | Documentary (1378) ---
+# --- Movies | Documentary (1379) ---
 #EXTINF:-1 tvg-logo="https://porky.pro/movie/888676/poster.jpg" group-title="Movies | Documentary",Women of the White Buffalo (2022)
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/314617.mp4
 #EXTINF:-1 tvg-logo="https://porky.pro/movie/14002/poster.jpg" group-title="Movies | Documentary",Baraka (1992)
@@ -20398,8 +20416,10 @@ http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/553408.mkv
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/553610.mkv
 #EXTINF:-1 tvg-logo="https://porky.pro/movie/1090413/poster.jpg" group-title="Movies | Documentary",Phantom Parrot (2024)
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/553951.mp4
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/701403/poster.jpg" group-title="Movies | Documentary",Invasion (2020)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554140.mkv
 
-# --- Movies | Drama (3055) ---
+# --- Movies | Drama (3063) ---
 #EXTINF:-1 tvg-logo="https://porky.pro/movie/145/poster.jpg" group-title="Movies | Drama",Breaking the Waves (1996)
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/314605.mkv
 #EXTINF:-1 tvg-logo="https://porky.pro/movie/859/poster.jpg" group-title="Movies | Drama",Dangerous Liaisons (1988)
@@ -25682,6 +25702,22 @@ http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/553952.mp4
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/553953.mkv
 #EXTINF:-1 tvg-logo="https://porky.pro/movie/1410331/poster.jpg" group-title="Movies | Drama",False Profits (2025)
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/553954.mp4
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/788669/poster.jpg" group-title="Movies | Drama",The Man with the Answers (2021)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554124.avi
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/1000837/poster.jpg" group-title="Movies | Drama",I'm Still Here (2024)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554126.mp4
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/9075/poster.jpg" group-title="Movies | Drama",Black Book (2006)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554128.avi
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/1383089/poster.jpg" group-title="Movies | Drama",Safe House (2025)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554132.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/858024/poster.jpg" group-title="Movies | Drama",Hamnet (2025)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554133.mp4
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/1456349/poster.jpg" group-title="Movies | Drama",It Was Just an Accident (2025)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554135.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/285709/poster.jpg" group-title="Movies | Drama",Confetti Harvest (2014)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554136.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/1325678/poster.jpg" group-title="Movies | Drama",Sarah's Oil (2025)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554138.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Drama",Critical Incident
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/5097.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Drama",Kuma - The Other Wife
@@ -27747,7 +27783,7 @@ http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/11012.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Family",My Perfect Landing
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/11056.mp4
 
-# --- Movies | Fantasy (259) ---
+# --- Movies | Fantasy (260) ---
 #EXTINF:-1 tvg-logo="https://porky.pro/movie/9021/poster.jpg" group-title="Movies | Fantasy",The Santa Clause 2 (2002)
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/314628.mkv
 #EXTINF:-1 tvg-logo="https://porky.pro/movie/4244/poster.jpg" group-title="Movies | Fantasy",The Kid (2000)
@@ -28266,6 +28302,8 @@ http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/329635.avi
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/329658.mkv
 #EXTINF:-1 tvg-logo="https://porky.pro/movie/967941/poster.jpg" group-title="Movies | Fantasy",Wicked: For Good (2025)
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/508601.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/5961/poster.jpg" group-title="Movies | Fantasy",Fanny and Alexander (1982)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554143.mp4
 
 # --- Movies | Food Network (16) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Food Network",Bobby's Triple Threat
@@ -30111,7 +30149,7 @@ http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/332848.mkv
 #EXTINF:-1 tvg-logo="https://porky.pro/movie/682012/poster.jpg" group-title="Movies | French [FR]",Little Amélie or the Character of Rain (2025)
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/508614.mkv
 
-# --- Movies | German [DE] (217) ---
+# --- Movies | German [DE] (344) ---
 #EXTINF:-1 tvg-logo="https://porky.pro/movie/855823/poster.jpg" group-title="Movies | German [DE]",Schumacher (2021)
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/332849.mkv
 #EXTINF:-1 tvg-logo="https://porky.pro/movie/874965/poster.jpg" group-title="Movies | German [DE]",The Four of Us (2021)
@@ -30546,6 +30584,260 @@ http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/333066.mkv
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/333067.mkv
 #EXTINF:-1 tvg-logo="https://porky.pro/movie/748621/poster.jpg" group-title="Movies | German [DE]",Under ConTroll (2020)
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/333068.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/382127/poster.jpg" group-title="Movies | German [DE]",Manifesto (2017)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/553963.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/167517/poster.jpg" group-title="Movies | German [DE]",Knocked Up (2013)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/553964.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/508780/poster.jpg" group-title="Movies | German [DE]",Hanna's Homecoming (2018)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/553965.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/175952/poster.jpg" group-title="Movies | German [DE]",Der Minister (2013)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/553966.avi
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/10636/poster.jpg" group-title="Movies | German [DE]",Big Girls Don't Cry (2002)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/553967.avi
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/83729/poster.jpg" group-title="Movies | German [DE]",Offroad (2012)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/553968.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/156125/poster.jpg" group-title="Movies | German [DE]",Beyond the Wall (2009)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/553969.avi
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/342690/poster.jpg" group-title="Movies | German [DE]",The Misplaced World (2015)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/553970.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/10369/poster.jpg" group-title="Movies | German [DE]",14 Days to Life (1997)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/553971.avi
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/170286/poster.jpg" group-title="Movies | German [DE]",Nacht über Berlin (2013)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/553972.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/346238/poster.jpg" group-title="Movies | German [DE]",Männertag (2016)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/553973.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/358760/poster.jpg" group-title="Movies | German [DE]",Macho Man (2015)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/553974.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/418098/poster.jpg" group-title="Movies | German [DE]",Godless Youth (2017)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/553975.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/410924/poster.jpg" group-title="Movies | German [DE]",LenaLove (2016)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/553976.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/594700/poster.jpg" group-title="Movies | German [DE]",Spiel mir am Glied bis zum Tod (2014)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/553977.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/593559/poster.jpg" group-title="Movies | German [DE]",Ein ganz normaler Tag (2019)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/553978.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/166958/poster.jpg" group-title="Movies | German [DE]",Reine Formsache (2006)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/553979.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/516910/poster.jpg" group-title="Movies | German [DE]",Rufmord (2018)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/553980.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/410212/poster.jpg" group-title="Movies | German [DE]",Cold Hell (2017)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/553981.avi
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/309038/poster.jpg" group-title="Movies | German [DE]",300 Worte Deutsch (2015)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/553982.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/83342/poster.jpg" group-title="Movies | German [DE]",Bloodbrotherz (2011)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/553983.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/271433/poster.jpg" group-title="Movies | German [DE]",Wir sind die Neuen (2014)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/553984.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/592493/poster.jpg" group-title="Movies | German [DE]",Dein Leben gehört mir (2019)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/553985.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/392146/poster.jpg" group-title="Movies | German [DE]",Reeperbahn (2016)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/553986.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/433758/poster.jpg" group-title="Movies | German [DE]",Schnitzel geht immer (2017)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/553987.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/242661/poster.jpg" group-title="Movies | German [DE]",Not My Day (2014)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/553988.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/398826/poster.jpg" group-title="Movies | German [DE]",Luna's Revenge (2018)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/553989.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/153753/poster.jpg" group-title="Movies | German [DE]",Lady Rettich, Czerni and I (1998)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/553990.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/366568/poster.jpg" group-title="Movies | German [DE]",Four Against the Bank (2016)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/553991.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/149763/poster.jpg" group-title="Movies | German [DE]",Men Do what Men Can (2012)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/553992.avi
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/570661/poster.jpg" group-title="Movies | German [DE]",The Collini Case (2019)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/553993.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/383692/poster.jpg" group-title="Movies | German [DE]",Die Hebamme II (2016)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/553994.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | German [DE]",Men (1985)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/553995.avi
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/228006/poster.jpg" group-title="Movies | German [DE]",Mord in den Dünen (2013)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/553996.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | German [DE]",Blank (2013)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/553997.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/170759/poster.jpg" group-title="Movies | German [DE]",Kokowääh 2 (2013)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/553998.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/35217/poster.jpg" group-title="Movies | German [DE]",Friendship! (2010)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554000.avi
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/28938/poster.jpg" group-title="Movies | German [DE]",Men in the City (2009)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554001.avi
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/517062/poster.jpg" group-title="Movies | German [DE]",The Most Beautiful Girl in the World (2018)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554002.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/382498/poster.jpg" group-title="Movies | German [DE]",Heart of Stone (2016)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554003.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/10672/poster.jpg" group-title="Movies | German [DE]",Out of Order (1984)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554004.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/780193/poster.jpg" group-title="Movies | German [DE]",Der Sandmann (1995)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554005.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/485880/poster.jpg" group-title="Movies | German [DE]",Safari: Match Me If You Can (2018)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554006.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/590047/poster.jpg" group-title="Movies | German [DE]",Gegen die Angst (2019)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554007.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/653910/poster.jpg" group-title="Movies | German [DE]",Nightlife (2020)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554008.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/613247/poster.jpg" group-title="Movies | German [DE]",Get Lucky (2019)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554009.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/6968/poster.jpg" group-title="Movies | German [DE]",The Baader Meinhof Complex (2008)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554010.mp4
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/136440/poster.jpg" group-title="Movies | German [DE]",Blonder als die Polizei erlaubt (2012)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554011.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/570292/poster.jpg" group-title="Movies | German [DE]",Dream Factory (2019)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554012.mp4
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/423612/poster.jpg" group-title="Movies | German [DE]",Never Look Away (2018)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554013.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/615699/poster.jpg" group-title="Movies | German [DE]",Abikalypse (2019)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554014.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/655519/poster.jpg" group-title="Movies | German [DE]",Julia Must Die (2020)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554015.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/368342/poster.jpg" group-title="Movies | German [DE]",Mordkommission Berlin 1 (2015)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554016.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/565191/poster.jpg" group-title="Movies | German [DE]",Sealed Lips (2018)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554017.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/250989/poster.jpg" group-title="Movies | German [DE]",Berlin Babylon (2001)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554018.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/765123/poster.jpg" group-title="Movies | German [DE]",Christmas Crossfire (2020)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554019.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/54991/poster.jpg" group-title="Movies | German [DE]",Heart Over Head (2001)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554021.avi
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/649028/poster.jpg" group-title="Movies | German [DE]",The Wedding (2020)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554022.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/571030/poster.jpg" group-title="Movies | German [DE]",La Palma (2020)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554023.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/302376/poster.jpg" group-title="Movies | German [DE]",We Are Young. We Are Strong. (2014)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554024.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/568503/poster.jpg" group-title="Movies | German [DE]",Tomorrow We Are Free (2019)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554025.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/644852/poster.jpg" group-title="Movies | German [DE]",Narcissus and Goldmund (2020)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554026.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/256311/poster.jpg" group-title="Movies | German [DE]",Stereo (2014)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554027.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/456616/poster.jpg" group-title="Movies | German [DE]",How to Be Really Bad (2018)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554028.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/422735/poster.jpg" group-title="Movies | German [DE]",It’s Your Turn, Honey! (2017)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554029.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | German [DE]",Online (2012)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554030.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/160088/poster.jpg" group-title="Movies | German [DE]",Sechs Tage Angst (2010)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554031.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/632665/poster.jpg" group-title="Movies | German [DE]",Bonnie and Bonnie (2019)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554032.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/390862/poster.jpg" group-title="Movies | German [DE]",How Men Talk About Women (2016)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554033.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/315112/poster.jpg" group-title="Movies | German [DE]",Bright Night (2015)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554034.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/835365/poster.jpg" group-title="Movies | German [DE]",Commitment Phobia (2021)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554035.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/372288/poster.jpg" group-title="Movies | German [DE]",Gut zu Vögeln (2016)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554036.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/575659/poster.jpg" group-title="Movies | German [DE]",Berlin Alexanderplatz (2020)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554037.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/574969/poster.jpg" group-title="Movies | German [DE]",Der Auftrag (2019)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554038.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/982804/poster.jpg" group-title="Movies | German [DE]",Just Something Nice (2022)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554039.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/371042/poster.jpg" group-title="Movies | German [DE]",Snowflake (2017)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554040.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/915891/poster.jpg" group-title="Movies | German [DE]",Dear Kurt (2022)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554041.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/510265/poster.jpg" group-title="Movies | German [DE]",Magnificent Times (2018)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554042.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | German [DE]",Killerjagd (2009)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554043.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/365337/poster.jpg" group-title="Movies | German [DE]",Illusion (2013)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554044.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/454693/poster.jpg" group-title="Movies | German [DE]",The Silent Revolution (2018)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554045.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/493483/poster.jpg" group-title="Movies | German [DE]",In the Aisles (2018)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554046.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/486225/poster.jpg" group-title="Movies | German [DE]",The Awakening of Motti Wolkenbruch (2018)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554047.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/594634/poster.jpg" group-title="Movies | German [DE]",Close to the Horizon (2019)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554048.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/664698/poster.jpg" group-title="Movies | German [DE]",Contra (2020)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554050.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/576281/poster.jpg" group-title="Movies | German [DE]",Lara (2019)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554051.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/700578/poster.jpg" group-title="Movies | German [DE]",Kaiserschmarrndrama (2021)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554052.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/603641/poster.jpg" group-title="Movies | German [DE]",TKKG (2019)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554053.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/581585/poster.jpg" group-title="Movies | German [DE]",A Regular Woman (2019)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554054.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/611259/poster.jpg" group-title="Movies | German [DE]",The Space Between the Lines (2019)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554055.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/484735/poster.jpg" group-title="Movies | German [DE]",Gundermann (2018)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554056.mp4
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/742778/poster.jpg" group-title="Movies | German [DE]",No Hard Feelings (2020)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554057.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/745613/poster.jpg" group-title="Movies | German [DE]",It's for Your Own Good (2020)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554058.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/550755/poster.jpg" group-title="Movies | German [DE]",Windstorm 4 (2019)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554059.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/577122/poster.jpg" group-title="Movies | German [DE]",Rocca Changes the World (2019)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554060.mp4
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/485371/poster.jpg" group-title="Movies | German [DE]",The Famous Five and the Valley of Dinosaurs (2018)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554061.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/505204/poster.jpg" group-title="Movies | German [DE]",Little Miss Dolittle (2018)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554062.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/605478/poster.jpg" group-title="Movies | German [DE]",Kroos (2019)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554063.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/638220/poster.jpg" group-title="Movies | German [DE]",A Piece of Cake (2019)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554064.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/692811/poster.jpg" group-title="Movies | German [DE]",100.000 – Everything I never wanted (2020)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554065.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/500245/poster.jpg" group-title="Movies | German [DE]",The German Lesson (2019)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554066.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/802121/poster.jpg" group-title="Movies | German [DE]",The Last Execution (2021)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554067.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/634129/poster.jpg" group-title="Movies | German [DE]",Der letzte Bulle (2019)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554068.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/484568/poster.jpg" group-title="Movies | German [DE]",Wild Heart (2018)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554069.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/680310/poster.jpg" group-title="Movies | German [DE]",Elsewhere (2018)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554070.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/784303/poster.jpg" group-title="Movies | German [DE]",Cocoon (2020)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554071.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/760314/poster.jpg" group-title="Movies | German [DE]",Felix Lobrecht: Hype (2020)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554072.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/505638/poster.jpg" group-title="Movies | German [DE]",Wackersdorf (2018)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554073.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/570169/poster.jpg" group-title="Movies | German [DE]",BFF Detectives (2019)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554074.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/544052/poster.jpg" group-title="Movies | German [DE]",Coconut The Little Dragon: Into The Jungle (2018)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554075.avi
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/871530/poster.jpg" group-title="Movies | German [DE]",It's Just a Phase, Honeybunny (2021)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554076.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/483366/poster.jpg" group-title="Movies | German [DE]",As Green As It Gets (2018)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554077.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/501547/poster.jpg" group-title="Movies | German [DE]",Chris the Swiss (2018)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554078.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/498986/poster.jpg" group-title="Movies | German [DE]",Lukas taucht (2018)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554079.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/532811/poster.jpg" group-title="Movies | German [DE]",Pettson and Findus: Findus Moves House (2018)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554080.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/653481/poster.jpg" group-title="Movies | German [DE]",Alkohol (2020)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554081.mp4
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/565388/poster.jpg" group-title="Movies | German [DE]",Atlas (2018)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554082.mp4
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/565016/poster.jpg" group-title="Movies | German [DE]",Amokspiel (2018)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554083.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/916563/poster.jpg" group-title="Movies | German [DE]",Locked in Society (2022)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554084.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/1218233/poster.jpg" group-title="Movies | German [DE]",Alles gelogen (2024)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554085.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | German [DE]",The Light (2025)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554086.mp4
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/1393308/poster.jpg" group-title="Movies | German [DE]",I Want It All (2025)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554087.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/700591/poster.jpg" group-title="Movies | German [DE]",Marlene (2020)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554147.mp4
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/645417/poster.jpg" group-title="Movies | German [DE]",Live or Let Die (2020)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554148.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/680447/poster.jpg" group-title="Movies | German [DE]",Windstorm: The Great Hurricane (2021)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554149.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/1073045/poster.jpg" group-title="Movies | German [DE]",The Peacock (2023)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554150.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/9369/poster.jpg" group-title="Movies | German [DE]",Asterix Conquers America (1994)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554151.avi
 
 # --- Movies | Global (8) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Global",Family Law
@@ -37657,7 +37949,7 @@ http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/333613.mkv
 #EXTINF:-1 tvg-logo="https://porky.pro/movie/101652/poster.jpg" group-title="Movies | Italian [IT]",Escape from Galaxy 3 (1981)
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/333614.mkv
 
-# --- Movies | Kids (81) ---
+# --- Movies | Kids (82) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Kids",Baby Jake
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/5114.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Kids",Dino Dex
@@ -37820,6 +38112,8 @@ http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/11025.mp4
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/11039.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Kids",Gran
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/11058.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Kids",Kate & Mim-Mim
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/11103.mp4
 
 # --- Movies | Music (178) ---
 #EXTINF:-1 tvg-logo="https://porky.pro/movie/24961/poster.jpg" group-title="Movies | Music",The Wiz (1978)
@@ -42375,7 +42669,7 @@ http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/10954.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Reality",Dream Home
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/11013.mp4
 
-# --- Movies | Romance (517) ---
+# --- Movies | Romance (518) ---
 #EXTINF:-1 tvg-logo="https://porky.pro/movie/53161/poster.jpg" group-title="Movies | Romance",White Shadows in the South Seas (1928)
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/314604.mkv
 #EXTINF:-1 tvg-logo="https://porky.pro/movie/502292/poster.jpg" group-title="Movies | Romance",The Last Summer (2019)
@@ -43410,6 +43704,8 @@ http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/329671.mkv
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/329678.mp4
 #EXTINF:-1 tvg-logo="https://porky.pro/movie/833097/poster.jpg" group-title="Movies | Romance",Falling for Christmas (2022)
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/508611.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/10897/poster.jpg" group-title="Movies | Romance",The Little Rascals (1994)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554130.mp4
 
 # --- Movies | Sci-Fi & Fantasy (54) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Sci-Fi & Fantasy",Hi Bye, Mama!
@@ -43521,7 +43817,7 @@ http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/11098.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Sci-Fi & Fantasy",Delete
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/11102.mp4
 
-# --- Movies | Science Fiction (423) ---
+# --- Movies | Science Fiction (424) ---
 #EXTINF:-1 tvg-logo="https://porky.pro/movie/1084440/poster.jpg" group-title="Movies | Science Fiction",Daniela Forever (2025)
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/314601.mp4
 #EXTINF:-1 tvg-logo="https://porky.pro/movie/168/poster.jpg" group-title="Movies | Science Fiction",Star Trek IV: The Voyage Home (1986)
@@ -44368,6 +44664,8 @@ http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/329577.mkv
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/329591.mkv
 #EXTINF:-1 tvg-logo="https://porky.pro/movie/157/poster.jpg" group-title="Movies | Science Fiction",Star Trek III: The Search for Spock (1984)
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/329633.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/1235020/poster.jpg" group-title="Movies | Science Fiction",Star Abyss (2024)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554129.mkv
 
 # --- Movies | Sky (74) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Sky",The Last Panthers
@@ -46925,7 +47223,7 @@ http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/7453.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Talk",Oprah Talks COVID-19
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/8540.mp4
 
-# --- Movies | Thriller (847) ---
+# --- Movies | Thriller (848) ---
 #EXTINF:-1 tvg-logo="https://porky.pro/movie/1580/poster.jpg" group-title="Movies | Thriller",Rope (1948)
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/314660.mkv
 #EXTINF:-1 tvg-logo="https://porky.pro/movie/9741/poster.jpg" group-title="Movies | Thriller",Unbreakable (2000)
@@ -48620,6 +48918,8 @@ http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/329611.mkv
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/329617.mkv
 #EXTINF:-1 tvg-logo="https://porky.pro/movie/21734/poster.jpg" group-title="Movies | Thriller",Shadow of a Doubt (1943)
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/329632.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/486947/poster.jpg" group-title="Movies | Thriller",The Guilty (2018)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554141.mkv
 
 # --- Movies | Travel Channel (6) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Travel Channel",Ghost Adventures: Screaming Room
@@ -48649,7 +48949,7 @@ http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/8107.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TruTV",Hardcore Pawn
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/10932.mp4
 
-# --- Movies | War (112) ---
+# --- Movies | War (113) ---
 #EXTINF:-1 tvg-logo="https://porky.pro/movie/10015/poster.jpg" group-title="Movies | War",Heartbreak Ridge (1986)
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/314807.mkv
 #EXTINF:-1 tvg-logo="https://porky.pro/movie/11202/poster.jpg" group-title="Movies | War",Patton (1970)
@@ -48852,6 +49152,8 @@ http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/329106.mkv
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/329215.mkv
 #EXTINF:-1 tvg-logo="https://porky.pro/movie/9289/poster.jpg" group-title="Movies | War",The Longest Day (1962)
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/329575.mkv
+#EXTINF:-1 tvg-logo="https://porky.pro/movie/966220/poster.jpg" group-title="Movies | War",Sniper: The White Raven (2022)
+http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/554131.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | War",Gallipoli
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/5126.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | War",ANZAC Girls
@@ -49321,4 +49623,4 @@ http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/8754.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Western",Damnation
 http://exploding.one/movie/Tsonka/JdCquZhCc2Ca/10691.mp4
 
-# Total: 24578
+# Total: 24729

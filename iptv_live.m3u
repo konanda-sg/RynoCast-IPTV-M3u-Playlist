@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: iptv.darktv.eu:25461
-# Generated: 2025-12-18 07:08:08
+# Generated: 2025-12-18 18:33:50
 # Expires: 2026-04-01
 # Family Safe Edition
 # ==============================================
@@ -3110,8 +3110,6 @@ http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/137249.m3u8
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/2851.m3u8
 
 # --- TR - MÜZİK (67) ---
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Kanun Ney Relax
-http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/207025.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) Turkiyem Mix 1
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/182743.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) Turkiyem Mix 2
@@ -3230,14 +3228,16 @@ http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/184285.m3u8
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/105217.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Mashup Mix
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/57177.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Düet Müzik
-http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/105457.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Nostaljik Mix
-http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/177166.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Relaxing Muzik
-http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/206137.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Köyde Relax
+http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/207025.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Enstrümantal
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/182700.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Relaxing Muzik
+http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/206137.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Nostaljik Mix
+http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/177166.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Düet Müzik
+http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/105457.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Kazanci Bedih
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/184276.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Shakira

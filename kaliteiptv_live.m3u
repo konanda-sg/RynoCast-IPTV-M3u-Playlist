@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: kaliteiptv.live:8080
-# Generated: 2025-12-18 07:02:57
+# Generated: 2025-12-18 18:32:38
 # Expires: 2026-04-09
 # Family Safe Edition
 # ==============================================
@@ -3723,23 +3723,39 @@ http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/726262.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/avrupayerel/yildiztv.png" group-title="TR | AVRUPA & YEREL",TR | YILDIZ EN TV HD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/726259.m3u8
 
-# --- TR | BEIN & D-SMART SİNEMA (30) ---
-#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/bein.movies/sinematv.komedi2.png" group-title="TR | BEIN & D-SMART SİNEMA",TR | SİNEMA TV KOMEDİ 2
-http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/726992.m3u8
+# --- TR | BEIN & D-SMART SİNEMA (44) ---
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/bein.movies/sinematv.aile.png" group-title="TR | BEIN & D-SMART SİNEMA",TR | SİNEMA TV AİLE
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/726989.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/bein.movies/sinematv.aile.png" group-title="TR | BEIN & D-SMART SİNEMA",TR | SİNEMA TV AILE HD
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1188125.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/bein.movies/sinematv.aile2.png" group-title="TR | BEIN & D-SMART SİNEMA",TR | SİNEMA TV AİLE 2
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/726990.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/bein.movies/sinematv.aile2.png" group-title="TR | BEIN & D-SMART SİNEMA",TR | SİNEMA TV AİLE 2 HD
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1188124.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/bein.movies/sinematv.1001.png" group-title="TR | BEIN & D-SMART SİNEMA",TR | SİNEMA TV 1001
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/726993.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/bein.movies/sinematv.1001.png" group-title="TR | BEIN & D-SMART SİNEMA",TR | SİNEMA TV 1001 HD
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1188121.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/bein.movies/sinematv.1002.png" group-title="TR | BEIN & D-SMART SİNEMA",TR | SİNEMA TV 1002
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/726994.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/bein.movies/sinematv.1002.png" group-title="TR | BEIN & D-SMART SİNEMA",TR | SİNEMA TV 1002 HD
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1188120.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/bein.movies/sinematv.aksiyon.png" group-title="TR | BEIN & D-SMART SİNEMA",TR | SİNEMA TV AKSİYON
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/726987.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/bein.movies/sinematv.aksiyon.png" group-title="TR | BEIN & D-SMART SİNEMA",TR | SINEMA TV AKSİYON HD
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1188127.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/bein.movies/sinematv.aksiyon2.png" group-title="TR | BEIN & D-SMART SİNEMA",TR | SİNEMA TV AKSİYON 2
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/726988.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/bein.movies/sinematv.aksiyon2.png" group-title="TR | BEIN & D-SMART SİNEMA",TR | SINEMA TV AKSİYON 2 HD
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1188126.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/bein.movies/sinematv.komedi.png" group-title="TR | BEIN & D-SMART SİNEMA",TR | SİNEMA TV KOMEDİ
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/726991.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/bein.movies/sinematv.komedi.png" group-title="TR | BEIN & D-SMART SİNEMA",TR | SİNEMA TV KOMEDİ HD
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1188123.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/bein.movies/sinematv.komedi2.png" group-title="TR | BEIN & D-SMART SİNEMA",TR | SİNEMA TV KOMEDİ 2
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/726992.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/bein.movies/sinematv.komedi2.png" group-title="TR | BEIN & D-SMART SİNEMA",TR | SİNEMA TV KOMEDİ 2 HD
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1188122.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/bein.movies/beinmoviesturk.png" group-title="TR | BEIN & D-SMART SİNEMA",TR | BEINMOVIES TÜRK
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/726968.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/bein.movies/beinmoviespremiere.png" group-title="TR | BEIN & D-SMART SİNEMA",TR | BEINMOVIES PREMIERE 1
@@ -3766,20 +3782,32 @@ http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/726978.m3u8
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/726979.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/bein.movies/moviessmartclassic.png" group-title="TR | BEIN & D-SMART SİNEMA",TR | MOVIESMART CLASSIC
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/726980.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/bein.movies/moviessmartclassic.png" group-title="TR | BEIN & D-SMART SİNEMA",TR | MOVIESMART CLASSIC HD
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1188134.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/bein.movies/dizismartpremium.png" group-title="TR | BEIN & D-SMART SİNEMA",TR | DİZİSMART PREMIUM
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/726981.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/bein.movies/dizismartpremium.png" group-title="TR | BEIN & D-SMART SİNEMA",TR | DİZİSMART PREMIUM HD
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1188133.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/bein.movies/dizismartmax.png" group-title="TR | BEIN & D-SMART SİNEMA",TR | DİZİSMART MAX
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/726982.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/bein.movies/dizismartmax.png" group-title="TR | BEIN & D-SMART SİNEMA",TR | DIZISMART MAX HD
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1188132.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/bein.movies/sinematv.yerli.png" group-title="TR | BEIN & D-SMART SİNEMA",TR | SİNEMA TV YERLİ
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/726983.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/bein.movies/sinematv.yerli2.png" group-title="TR | BEIN & D-SMART SİNEMA",TR | SİNEMA TV YERLİ 2
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/726984.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/bein.movies/sinematv.png" group-title="TR | BEIN & D-SMART SİNEMA",TR | SİNEMA TV
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/726985.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/bein.movies/sinematv.png" group-title="TR | BEIN & D-SMART SİNEMA",TR | SINEMA TV HD
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1188129.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/bein.movies/sinematv2.png" group-title="TR | BEIN & D-SMART SİNEMA",TR | SİNEMA TV 2
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/726986.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/bein.movies/sinematv2.png" group-title="TR | BEIN & D-SMART SİNEMA",TR | SİNEMA TV 2 HD
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1188128.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/bein.movies/fx.png" group-title="TR | BEIN & D-SMART SİNEMA",TR | FX FHD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/726995.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/bein.movies/fx.png" group-title="TR | BEIN & D-SMART SİNEMA",TR | FX HD
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1188119.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/bein.movies/filmbox.png" group-title="TR | BEIN & D-SMART SİNEMA",TR | FILMBOX
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/726996.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/bein.movies/epic.drama.png" group-title="TR | BEIN & D-SMART SİNEMA",TR | EPIC DRAMA
@@ -6033,4 +6061,4 @@ http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/855313.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WO | WORLDSPORT",US | NBA 10
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/855314.m3u8
 
-# Total: 2953
+# Total: 2967
