@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: ex.guteex.com:8000
-# Generated: 2025-12-17 18:40:31
+# Generated: 2025-12-18 07:09:47
 # Expires: 2026-04-01
 # Family Safe Edition
 # ==============================================
@@ -809,7 +809,7 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/27024.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE | DOKUMENTAR",ENGLISH CLUB TV..
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/10954.m3u8
 
-# --- DE | FILM UND SERIE (137) ---
+# --- DE | FILM UND SERIE (140) ---
 #EXTINF:-1 tvg-logo="http://eex24.com:8000/uye/alman.png" group-title="DE | FILM UND SERIE",-------| FILM UND SERIE KANÄLE |-------
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/5502.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE | FILM UND SERIE",Warner TV COMEDY HD
@@ -944,8 +944,6 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/60374.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/60373.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE | FILM UND SERIE",MyTime Movie Network
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/36805.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | FILM UND SERIE",WEDO MOVIES HD
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/8336.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE | FILM UND SERIE",MAX SELECT HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/8846.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE | FILM UND SERIE",MAX SELECT 2 HD
@@ -1008,8 +1006,18 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/2572.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/2571.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE | FILM UND SERIE",SKY SELECT 10 HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/2570.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | FILM UND SERIE",Bollywood HD
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/31737.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE | FILM UND SERIE",VIP SELECT 1
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/60372.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE | FILM UND SERIE",VIP SELECT 2
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/36802.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE | FILM UND SERIE",VIP SELECT 3
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/8336.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE | FILM UND SERIE",VIP SELECT 4
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65304.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE | FILM UND SERIE",VIP SELECT 5
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65305.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE | FILM UND SERIE",VIP SELECT 6
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65306.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE | FILM UND SERIE",Filmax  Bollywood HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/31735.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE | FILM UND SERIE",Filmax  Bollywood 2 HD
@@ -1082,8 +1090,6 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/37356.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/37357.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE | FILM UND SERIE",Germany Box Disney+
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/37358.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | FILM UND SERIE",Cine Mix
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/36802.m3u8
 
 # --- DE | KINDER (24) ---
 #EXTINF:-1 tvg-logo="http://eex24.com:8000/uye/alman.png" group-title="DE | KINDER",-------| KINDER KANÄLE |-------
@@ -3468,7 +3474,7 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/7932.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/2683.m3u8
 #EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",SINEMA TV  YERLI 2 HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/12512.m3u8
-#EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",FILMBOX YERLI HD
+#EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",KingBox HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/22208.m3u8
 #EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",Netflix Korku HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/3710.m3u8
@@ -3502,50 +3508,46 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/29110.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/29111.m3u8
 #EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",Cinemaximum Animasyon HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/29681.m3u8
-#EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",VIZYONTV FILMMIX HD
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/29668.m3u8
-#EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",VIZYONTV WESTERN HD
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/29688.m3u8
-#EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",KingBox Action 2
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/31343.m3u8
 #EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",KingBox Action
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/31344.m3u8
-#EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",KingBox Gold 2
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/31345.m3u8
+#EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",KingBox Action 2
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/31343.m3u8
 #EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",KingBox Gold
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/31346.m3u8
-#EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",KingBox Prime 2
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/31347.m3u8
+#EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",KingBox Gold 2
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/31345.m3u8
 #EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",KingBox Prime
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/31348.m3u8
-#EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",KingBox Turk 2
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/31349.m3u8
+#EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",KingBox Prime 2
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/31347.m3u8
 #EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",KingBox Turk
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/31350.m3u8
+#EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",KingBox Turk 2
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/31349.m3u8
 #EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",KingBox Boxset
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/31351.m3u8
+#EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",NextBox Action
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/31359.m3u8
+#EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",NextBox Gold
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/31355.m3u8
 #EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",NextBox Turk
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/31352.m3u8
 #EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",NextBox Wall
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/31353.m3u8
 #EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",NextBox Tesla
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/31354.m3u8
-#EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",NextBox Gold
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/31355.m3u8
-#EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",NextBox Movie 5
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/31357.m3u8
 #EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",NextBox Dream
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/31358.m3u8
-#EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",NextBox Action
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/31359.m3u8
-#EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",NextBox Movie 4
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/31360.m3u8
-#EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",NextBox Movie 3
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/31361.m3u8
-#EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",NextBox Movie 2
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/31375.m3u8
 #EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",NextBox Movie 1
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/31376.m3u8
+#EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",NextBox Movie 2
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/31375.m3u8
+#EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",NextBox Movie 3
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/31361.m3u8
+#EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",NextBox Movie 4
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/31360.m3u8
+#EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",NextBox Movie 5
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/31357.m3u8
 #EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",Fix Cinema Action
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/23141.m3u8
 #EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",Real Box Action
@@ -3558,10 +3560,10 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/31372.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/31373.m3u8
 #EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",Dream Box Action
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/31374.m3u8
-#EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",Mega Box Action
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/23139.m3u8
 #EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",King Box Action
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/23140.m3u8
+#EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",Mega Box Action
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/23139.m3u8
 #EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",Mega Box Fantastic
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/23137.m3u8
 #EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",Mega Box Bilim Kurgu
@@ -3604,8 +3606,6 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/23145.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/23146.m3u8
 #EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",Proturk Bilim Kurgu
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/23161.m3u8
-#EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",Proturk Loca 1
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/23163.m3u8
 #EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",Proturk Comedy
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/23154.m3u8
 #EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",Proturk Macera
@@ -3614,12 +3614,18 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/23155.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/23158.m3u8
 #EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",Proturk Dram
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/23157.m3u8
+#EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",Proturk Loca 1
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/23163.m3u8
 #EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",Proturk Loca 2
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/23162.m3u8
 #EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",Proturk Gerilim
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/23159.m3u8
 #EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",Proturk Fantastic
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/23156.m3u8
+#EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",FILMBOX HORROR
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/29668.m3u8
+#EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",FILMBOX COMEDY HD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/29688.m3u8
 #EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",DIZI TV TRT
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/23176.m3u8
 #EXTINF:-1 tvg-logo="" group-title="| TR - FILM & DIZI",DIZI TV ATV
@@ -4355,4 +4361,4 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/40596.m3u8
 #EXTINF:-1 tvg-logo="" group-title="| TR- RADIO",RADYO | Diyanet Kur'ân Radyo
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/40597.m3u8
 
-# Total: 2139
+# Total: 2142

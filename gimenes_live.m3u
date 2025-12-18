@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: gimenes.top:8080
-# Generated: 2025-12-17 18:40:24
+# Generated: 2025-12-18 07:02:58
 # Expires: 2026-11-07
 # Family Safe Edition
 # ==============================================
@@ -1117,7 +1117,7 @@ http://gimenes.top:8080/live/denisfonseca/4915334/7985.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MJJ7zi5.png" group-title="MUSICAS",MULTISHOW  4K
 http://gimenes.top:8080/live/denisfonseca/4915334/149852.m3u8
 
-# --- NOTICIAS (37) ---
+# --- NOTICIAS (40) ---
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rxL0WKU.png" group-title="NOTICIAS",CNN BRASIL FHD
 http://gimenes.top:8080/live/denisfonseca/4915334/59728.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rxL0WKU.png" group-title="NOTICIAS",CNN BRASIL FHD H265
@@ -1174,18 +1174,24 @@ http://gimenes.top:8080/live/denisfonseca/4915334/221598.m3u8
 http://gimenes.top:8080/live/denisfonseca/4915334/221599.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3WcjygP.gif" group-title="NOTICIAS",CNBC BRASIL SD
 http://gimenes.top:8080/live/denisfonseca/4915334/221600.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nbN3E8U.png" group-title="NOTICIAS",TV JUSTICA SD
-http://gimenes.top:8080/live/denisfonseca/4915334/7901.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Pwd0nRR.png" group-title="NOTICIAS",TV SENADO FHD
-http://gimenes.top:8080/live/denisfonseca/4915334/7902.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rfjskhc/Marca-TV-C-mara-2018.png" group-title="NOTICIAS",TV CÂMARA FHD
-http://gimenes.top:8080/live/denisfonseca/4915334/150927.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLH1YK4D/unnamed.png" group-title="NOTICIAS",SBT NEWS FHD
+http://gimenes.top:8080/live/denisfonseca/4915334/255959.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLH1YK4D/unnamed.png" group-title="NOTICIAS",SBT NEWS HD
+http://gimenes.top:8080/live/denisfonseca/4915334/255960.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLH1YK4D/unnamed.png" group-title="NOTICIAS",SBT NEWS SD
+http://gimenes.top:8080/live/denisfonseca/4915334/255961.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zBszD1Tx/P1Hn-YHh-400x400.jpg" group-title="NOTICIAS",BM&C FHD
 http://gimenes.top:8080/live/denisfonseca/4915334/253752.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PfvnXc3w/logo-preview.png" group-title="NOTICIAS",NEW BRASIL HD
 http://gimenes.top:8080/live/denisfonseca/4915334/253751.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JhBwR7Wv/ef531434-f8a2-4d2a-b7d0-065bcf6f8eae.png" group-title="NOTICIAS",UOL FHD
 http://gimenes.top:8080/live/denisfonseca/4915334/253753.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pwd0nRR.png" group-title="NOTICIAS",TV SENADO FHD
+http://gimenes.top:8080/live/denisfonseca/4915334/7902.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rfjskhc/Marca-TV-C-mara-2018.png" group-title="NOTICIAS",TV CÂMARA FHD
+http://gimenes.top:8080/live/denisfonseca/4915334/150927.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nbN3E8U.png" group-title="NOTICIAS",TV JUSTICA SD
+http://gimenes.top:8080/live/denisfonseca/4915334/7901.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rxL0WKU.png" group-title="NOTICIAS",CNN BRASIL 4K
 http://gimenes.top:8080/live/denisfonseca/4915334/149866.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cS4AzBD.png" group-title="NOTICIAS",JOVEM PAN NEWS 4K
@@ -2282,15 +2288,15 @@ http://gimenes.top:8080/live/denisfonseca/4915334/246688.m3u8
 # --- ⭐ JOGOS DO DIA (9) ---
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aWn6Dbu.png" group-title="⭐ JOGOS DO DIA",PROGRAMAÇÃO DO DIA ⚽
 http://gimenes.top:8080/live/denisfonseca/4915334/181110.m3u8
-#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/73ce/live/c7c1fca0-d750-11f0-9fb5-5f3a3703a365.png" group-title="⭐ JOGOS DO DIA",CHELSEA X EVERTON (12h00)
+#EXTINF:-1 tvg-logo="https://www.365scores.com/pt-br/news/magazine/wp-content/uploads/2025/12/manchester-city-x-brentford.jpg" group-title="⭐ JOGOS DO DIA",MANCHESTER CITY X BRENTFORD (16h30)
 http://gimenes.top:8080/live/denisfonseca/4915334/185032.m3u8
-#EXTINF:-1 tvg-logo="https://www.rbsdirect.com.br/filestore/0/9/6/2/6/5/5_1e5efaf58ae8c2e/5562690_d320ed629ffeb6c.png" group-title="⭐ JOGOS DO DIA",FLAMENGO X PYRAMIDS (14h00)
+#EXTINF:-1 tvg-logo="https://www.365scores.com/pt-br/news/magazine/wp-content/uploads/2025/12/talavera-x-real-madrid.jpg" group-title="⭐ JOGOS DO DIA",TALAVERA X REAL MADRID (17h00)
 http://gimenes.top:8080/live/denisfonseca/4915334/185360.m3u8
-#EXTINF:-1 tvg-logo="https://www.rbsdirect.com.br/filestore/0/9/6/2/6/5/5_1e5efaf58ae8c2e/5562690_d320ed629ffeb6c.png" group-title="⭐ JOGOS DO DIA",FLAMENGO X PYRAMIDS (14h00)²
+#EXTINF:-1 tvg-logo="https://www.365scores.com/pt-br/news/magazine/wp-content/uploads/2025/12/corinthians-vasco.png" group-title="⭐ JOGOS DO DIA",CORINTHIANS X VASCO (21h30)
 http://gimenes.top:8080/live/denisfonseca/4915334/189667.m3u8
-#EXTINF:-1 tvg-logo="https://www.rbsdirect.com.br/filestore/0/9/6/2/6/5/5_1e5efaf58ae8c2e/5562690_d320ed629ffeb6c.png" group-title="⭐ JOGOS DO DIA",FLAMENGO X PYRAMIDS (14h00)³
+#EXTINF:-1 tvg-logo="https://www.365scores.com/pt-br/news/magazine/wp-content/uploads/2025/12/corinthians-vasco.png" group-title="⭐ JOGOS DO DIA",CORINTHIANS X VASCO (21h30)²
 http://gimenes.top:8080/live/denisfonseca/4915334/189668.m3u8
-#EXTINF:-1 tvg-logo="https://www.vipsg.fr/wp-content/uploads/2025/12/Metz-vs-PSG-860x573.jpg" group-title="⭐ JOGOS DO DIA",METZ X PSG (15h00)
+#EXTINF:-1 tvg-logo="https://www.365scores.com/pt-br/news/magazine/wp-content/uploads/2025/12/corinthians-vasco.png" group-title="⭐ JOGOS DO DIA",CORINTHIANS X VASCO (21h30)³
 http://gimenes.top:8080/live/denisfonseca/4915334/186593.m3u8
 #EXTINF:-1 tvg-logo="https://i.imageupload.app/f6f498f9b3379a143e2a.png" group-title="⭐ JOGOS DO DIA",SEM EVENTO⁶
 http://gimenes.top:8080/live/denisfonseca/4915334/152007.m3u8
@@ -2299,4 +2305,4 @@ http://gimenes.top:8080/live/denisfonseca/4915334/152011.m3u8
 #EXTINF:-1 tvg-logo="https://i.imageupload.app/f6f498f9b3379a143e2a.png" group-title="⭐ JOGOS DO DIA",SEM EVENTO⁸
 http://gimenes.top:8080/live/denisfonseca/4915334/224050.m3u8
 
-# Total: 1107
+# Total: 1110

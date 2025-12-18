@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: sv1.casahd.com
-# Generated: 2025-12-17 18:32:22
+# Generated: 2025-12-18 07:09:54
 # Expires: 2026-05-02
 # Family Safe Edition
 # ==============================================
@@ -995,7 +995,7 @@ http://sv1.casahd.com/live/528398/824141/1361091.m3u8
 #EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/PwklbJqcj1FbmegIoIsPFgIDZ7PIys0pzJqAbJMy3aQETP2hQ3x2NazQxEvnimt0IgE9YSST2E-pLPb_bbMfOg.png" group-title="MUSICA & ENTRETENIMENTO",TRAVEL BOX BRASIL HD
 http://sv1.casahd.com/live/528398/824141/1361095.m3u8
 
-# --- NOTÍCIAS (21) ---
+# --- NOTÍCIAS (24) ---
 #EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/6f132a8cccd556e99c0acf1338131ffa.png" group-title="NOTÍCIAS",BAND NEWS 4K
 http://sv1.casahd.com/live/528398/824141/1361106.m3u8
 #EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/6f132a8cccd556e99c0acf1338131ffa.png" group-title="NOTÍCIAS",BAND NEWS HD
@@ -1038,6 +1038,12 @@ http://sv1.casahd.com/live/528398/824141/2224461.m3u8
 http://sv1.casahd.com/live/528398/824141/2224462.m3u8
 #EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjjiIWwljNi7ZPChqjyVVTmmHcZNXoIz4JwskM0RUeHNJyOPML5EE0CDwD-AoPp1cX.png" group-title="NOTÍCIAS",Times Brasil (CNBC) SD
 http://sv1.casahd.com/live/528398/824141/2224463.m3u8
+#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/PwklbJqcj1FbmegIoIsPFhi-nR3Gi2vpz7z5AkDMEU9rciR18iWBJxB0n5cmQZXd_fwNf75FcAM0XpkbmibwAg.png" group-title="NOTÍCIAS",SBT News FHD
+http://sv1.casahd.com/live/528398/824141/2248417.m3u8
+#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/PwklbJqcj1FbmegIoIsPFhi-nR3Gi2vpz7z5AkDMEU9rciR18iWBJxB0n5cmQZXd_fwNf75FcAM0XpkbmibwAg.png" group-title="NOTÍCIAS",SBT News HD
+http://sv1.casahd.com/live/528398/824141/2248418.m3u8
+#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/PwklbJqcj1FbmegIoIsPFhi-nR3Gi2vpz7z5AkDMEU9rciR18iWBJxB0n5cmQZXd_fwNf75FcAM0XpkbmibwAg.png" group-title="NOTÍCIAS",SBT News SD
+http://sv1.casahd.com/live/528398/824141/2248419.m3u8
 
 # --- PREMIERE (22) ---
 #EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/9606ec8aba4b32d9b6338fcc6d55c81f.png" group-title="PREMIERE",PREMIERE 2
@@ -1431,4 +1437,4 @@ http://sv1.casahd.com/live/528398/824141/1361286.m3u8
 #EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/PwklbJqcj1FbmegIoIsPFgIDZ7PIys0pzJqAbJMy3aQgwktDQuNiT9D5jC6bb--1Mo04VLW3E2flLdrSgdZ9mw.png" group-title="VARIEDADE",WOOHOO SD
 http://sv1.casahd.com/live/528398/824141/1526322.m3u8
 
-# Total: 688
+# Total: 691

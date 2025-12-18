@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nisay.xyz:8080
-# Generated: 2025-12-17 18:31:22
+# Generated: 2025-12-18 07:07:13
 # Expires: 2026-10-04
 # Family Safe Edition
 # ==============================================
@@ -12565,7 +12565,7 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/139884.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5y0hFRhfx34Be04B7GGqg5TMTM0.jpg" group-title="Movies | DE: FILME 2024",DE: City Hunter (2024)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/139885.mp4
 
-# --- Movies | DE: FILME 2025 (357) ---
+# --- Movies | DE: FILME 2025 (356) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nBGVglBvKw3UQqqeXIzxFqoKwe3.jpg" group-title="Movies | DE: FILME 2025",DE: Sisu: Road to Revenge (2025)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159319.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eezvn7uqxuPdY9XHX01TEo8wpQw.jpg" group-title="Movies | DE: FILME 2025",DE: Blindgänger (2025)
@@ -12600,8 +12600,6 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159220.mp4
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159221.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vaw9Az5tPLMjNLj426KgKsp0k8.jpg" group-title="Movies | DE: FILME 2025",DE: Twinless (2025)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159222.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nBGVglBvKw3UQqqeXIzxFqoKwe3.jpg" group-title="Movies | DE: FILME 2025",DE: Sisu: Road to Revenge (2025) *English*
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159173.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iEFIrODvGMUPZormfFTfN0n8siI.jpg" group-title="Movies | DE: FILME 2025",DE: Savage Hunt - Blutige Jagd (2025)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159174.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gK0cW0WvdSFRA1ukdIf869uH4Rw.jpg" group-title="Movies | DE: FILME 2025",DE: Jurassic Reborn (2025)
@@ -19733,4 +19731,4 @@ http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1503
 #EXTINF:-1 tvg-logo="" group-title="Series | TR ALTYAZI SERIES",Pluribus
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1803
 
-# Total: 9799
+# Total: 9798

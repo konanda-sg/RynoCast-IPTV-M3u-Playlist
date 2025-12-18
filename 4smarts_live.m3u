@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 4smarts.xyz
-# Generated: 2025-12-17 18:38:53
+# Generated: 2025-12-18 07:07:00
 # Expires: 2026-01-01
 # Family Safe Edition
 # ==============================================
@@ -1798,7 +1798,7 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/325608.m3u8
 # --- AM | USA | TRILLER TV (15) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/USA.png" group-title="AM | USA | TRILLER TV",##### TRILLER TV #####
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/428570.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/FITE.png" group-title="AM | USA | TRILLER TV",US - TRILLER TV 01 : THE BARE KNUCKLE SHOW WITH BRIAN SOSCIA S02 E129 DEC 16 – 12:05 PM ET / 5:05 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/FITE.png" group-title="AM | USA | TRILLER TV",US - TRILLER TV 01 : AEW DYNAMITE AND COLLISION HOLIDAY BASH 3-HOUR SPECIAL DEC 17 – 9:00 PM ET / DEC 18 – 2:00 AM UK
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/428599.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/FITE.png" group-title="AM | USA | TRILLER TV",US - TRILLER TV 02 :
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/428600.m3u8
@@ -2377,11 +2377,15 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/149625.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2_FRENCH2.png" group-title="AR | BEIN SPORTS 4K",AR - BEIN SPORTS FRENCH 2 UHD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/211673.m3u8
 
-# --- AR | BEIN SPORTS MAX (33) ---
+# --- AR | BEIN SPORTS MAX (41) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/bein/bein-sports-special.png" group-title="AR | BEIN SPORTS MAX",#### AR - BEIN SPORTS MAX #####
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/986991.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_1.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 1 4K
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914472.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_2.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 1 4K²
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914520.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_1.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 1 4K³
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914519.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_1.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 1 FHD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914502.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_1.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 1 FHD²
@@ -2392,6 +2396,8 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914515.m3u8
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914591.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_1.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 1 HD²
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914503.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_1.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 1 HD³
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914507.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_1.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 1 SD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914490.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_1.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 1 SD ²
@@ -2400,6 +2406,10 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914597.m3u8
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914495.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_2.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 2 4K
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914473.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_2.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 2 4K²
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914508.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_2.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 2 4K³
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914602.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_2.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 2 FHD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914501.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_2.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 2 FHD²
@@ -2410,6 +2420,8 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914516.m3u8
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914592.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_2.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 2 HD²
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914504.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_2.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 2 HD³
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914601.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_2.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 2 SD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914489.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_2.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 2 SD ²
@@ -2418,12 +2430,22 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914598.m3u8
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914496.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_3.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 3 4K
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914474.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_3.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 3 4K²
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914521.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_3.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 3 4K³
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914517.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_3.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 3 FHD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914500.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_3.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 3 FHD²
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914587.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_3.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 3 FHD³
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914509.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_3.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 3 HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914593.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_3.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 3 HD²
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914505.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_4.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 3 HD³
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914522.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_3.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 3  SD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914488.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_3.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 3 SD ²
@@ -2434,16 +2456,10 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914497.m3u8
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914475.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_4.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 4 FHD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914499.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_4.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 4 FHD²
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914588.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_4.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 4 HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914594.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_4.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 4  SD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914487.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_4.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 4 SD ²
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914600.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_4.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 4 SD ³
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914498.m3u8
 
 # --- AS | MALAYSIA (243) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/MALAYSIA.png" group-title="AS | MALAYSIA",##### MY - MALAYSIA #####
@@ -10388,7 +10404,7 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/349600.m3u8
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/349603.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/FLAGS/IRELAND2.png" group-title="EU | IRELAND",##### IE - CLUBBER #####
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1304805.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/IRELAND/Clubber.png" group-title="EU | IRELAND",IE - CLUBBER 01 :
+#EXTINF:-1 tvg-logo="https://go4.pw/IRELAND/Clubber.png" group-title="EU | IRELAND",IE - CLUBBER 01 : TERENURE COLLEGE VS MARIST COLLEGE ATHLONE – 6:45 AM ET / 11:45 AM UK
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/640936.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/IRELAND/Clubber.png" group-title="EU | IRELAND",IE - CLUBBER 02 :
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/640935.m3u8
@@ -12994,7 +13010,7 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/811641.m3u8
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/17399.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/bbcalba.png" group-title="EU | UK | GENERAL",UK - BBC ALBA HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/812121.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC RED BUTTON HD 25
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC RED BUTTON 25 HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/980417.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/itvquiz.png" group-title="EU | UK | GENERAL",UK - ITV QUIZ FHD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/17394.m3u8
@@ -13012,10 +13028,10 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015503.m3u8
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015504.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/ch4.png" group-title="EU | UK | GENERAL",UK - CHANNEL 4 HEVC
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/980472.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/ch5.png" group-title="EU | UK | GENERAL",UK - CHANNEL 5 HEVC
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015506.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/ch4.png" group-title="EU | UK | GENERAL",UK - CHANNEL 4 HD ◉
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/17389.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/ch5.png" group-title="EU | UK | GENERAL",UK - CHANNEL 5 HEVC
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015506.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/ch5.png" group-title="EU | UK | GENERAL",UK - CHANNEL 5 HD ◉
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/17388.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/alibi.png" group-title="EU | UK | GENERAL",UK - ALIBI HEVC
@@ -13058,10 +13074,10 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/17390.m3u8
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/344380.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/gb.png" group-title="EU | UK | GENERAL",UK - GB NEWS SD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/812125.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/chs1.png" group-title="EU | UK | GENERAL",UK - CHSTV SD
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/770846.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/rtenews.png" group-title="EU | UK | GENERAL",UK - RTE NEWS HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/17392.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/chs1.png" group-title="EU | UK | GENERAL",UK - CHSTV SD
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/770846.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/germany/eurns.png" group-title="EU | UK | GENERAL",UK - EURO NEWS SD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/17694.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/INDONESIA/Fox-News.png" group-title="EU | UK | GENERAL",UK - FOX NEWS SD
@@ -13104,9 +13120,9 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/17403.m3u8
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69449.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC TWO ENGLAND HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69446.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC ONE NORTHEN IRELAND
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC ONE NORTHEN IRELAND HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1292045.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC TWO NORTHEN IRELAND TOW
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC TWO NORTHEN IRELAND TOW HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69447.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | UK | GENERAL",UK - BBC ONE WALES SD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69441.m3u8
@@ -13130,7 +13146,7 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69455.m3u8
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69460.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/itv1.png" group-title="EU | UK | GENERAL",UK - ITV YORKSHIRE WEST HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69472.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/itv1.png" group-title="EU | UK | GENERAL",UK - ITV WESTCOUNTRY WEST
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/itv1.png" group-title="EU | UK | GENERAL",UK - ITV WESTCOUNTRY WEST HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69469.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/itv1.png" group-title="EU | UK | GENERAL",UK - ITV WALES HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/69474.m3u8
@@ -14244,41 +14260,41 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1287084.m3u8
 # --- VIP | AFCON MOROCCO 2025 (20) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="VIP | AFCON MOROCCO 2025",##### ARABIC #####
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1095960.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/afcon2025.png" group-title="VIP | AFCON MOROCCO 2025",AR - MOROCCO VS COMOROS - 21 DEC 20:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/canmorocco.png" group-title="VIP | AFCON MOROCCO 2025",AR - MOROCCO VS COMOROS - 21 DEC 20:00 CET
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1095953.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/afcon2025.png" group-title="VIP | AFCON MOROCCO 2025",AR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/canmorocco.png" group-title="VIP | AFCON MOROCCO 2025",AR - NO MATCH
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1095952.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/afcon2025.png" group-title="VIP | AFCON MOROCCO 2025",AR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/canmorocco.png" group-title="VIP | AFCON MOROCCO 2025",AR - NO MATCH
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1095951.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/afcon2025.png" group-title="VIP | AFCON MOROCCO 2025",AR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/canmorocco.png" group-title="VIP | AFCON MOROCCO 2025",AR - NO MATCH
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1095950.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/frlog.png" group-title="VIP | AFCON MOROCCO 2025",##### FRENCH #####
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1095959.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/afcon2025.png" group-title="VIP | AFCON MOROCCO 2025",FR - MOROCCO VS COMOROS - 21 DEC 20:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/canmorocco.png" group-title="VIP | AFCON MOROCCO 2025",FR - MOROCCO VS COMOROS - 21 DEC 20:00 CET
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1095948.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/afcon2025.png" group-title="VIP | AFCON MOROCCO 2025",FR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/canmorocco.png" group-title="VIP | AFCON MOROCCO 2025",FR - NO MATCH
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1095947.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/afcon2025.png" group-title="VIP | AFCON MOROCCO 2025",FR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/canmorocco.png" group-title="VIP | AFCON MOROCCO 2025",FR - NO MATCH
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1095946.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/afcon2025.png" group-title="VIP | AFCON MOROCCO 2025",FR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/canmorocco.png" group-title="VIP | AFCON MOROCCO 2025",FR - NO MATCH
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1095944.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="VIP | AFCON MOROCCO 2025",##### ENGLISH #####
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1095955.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/afcon2025.png" group-title="VIP | AFCON MOROCCO 2025",EN - MOROCCO VS COMOROS - 21 DEC 20:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/canmorocco.png" group-title="VIP | AFCON MOROCCO 2025",EN - MOROCCO VS COMOROS - 21 DEC 20:00 CET
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1095943.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/afcon2025.png" group-title="VIP | AFCON MOROCCO 2025",EN - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/canmorocco.png" group-title="VIP | AFCON MOROCCO 2025",EN - NO MATCH
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1095942.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/afcon2025.png" group-title="VIP | AFCON MOROCCO 2025",EN - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/canmorocco.png" group-title="VIP | AFCON MOROCCO 2025",EN - NO MATCH
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1095941.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/afcon2025.png" group-title="VIP | AFCON MOROCCO 2025",EN - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/canmorocco.png" group-title="VIP | AFCON MOROCCO 2025",EN - NO MATCH
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1095940.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/SPAIN.png" group-title="VIP | AFCON MOROCCO 2025",##### SPANISH #####
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1095954.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/afcon2025.png" group-title="VIP | AFCON MOROCCO 2025",SP - MOROCCO VS COMOROS - 21 DEC 20:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/canmorocco.png" group-title="VIP | AFCON MOROCCO 2025",SP - MOROCCO VS COMOROS - 21 DEC 20:00 CET
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1095939.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/afcon2025.png" group-title="VIP | AFCON MOROCCO 2025",SP - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/canmorocco.png" group-title="VIP | AFCON MOROCCO 2025",SP - NO MATCH
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1095933.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/afcon2025.png" group-title="VIP | AFCON MOROCCO 2025",SP - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/canmorocco.png" group-title="VIP | AFCON MOROCCO 2025",SP - NO MATCH
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1095932.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/afcon2025.png" group-title="VIP | AFCON MOROCCO 2025",SP - NO MATCH
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1095931.m3u8
@@ -14544,13 +14560,13 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/427467.m3u8
 # --- VIP | GOLDEN EVENTS (37) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="VIP | GOLDEN EVENTS",##### AR - ARAB CUP #####
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1018107.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - SAUDI ARABIA VS UNITED ARAB EMIRATES 12:00 CET
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1150144.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - SAUDI ARABIA VS UNITED ARAB EMIRATES 12:00 CET
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1123275.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - JORDAN VS MOROCCO 17:00 CET
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1123274.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - JORDAN VS MOROCCO 17:00 CET
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1039934.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - NO MATCH
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1039920.m3u8
@@ -15385,4 +15401,4 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/363875.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",ES - NO MATCH
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/682940.m3u8
 
-# Total: 7590
+# Total: 7598

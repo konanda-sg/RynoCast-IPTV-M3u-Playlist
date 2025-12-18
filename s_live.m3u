@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: s.rocketdns.info:8080
-# Generated: 2025-12-17 18:29:36
+# Generated: 2025-12-18 07:06:12
 # Expires: Unlimited
 # Family Safe Edition
 # ==============================================
@@ -13423,7 +13423,7 @@ http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/527499.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/ITV4_logo_2013.svg/1200px-ITV4_logo_2013.svg.png" group-title="UK REGIONALS",UK ITV4
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/527500.m3u8
 
-# --- UK SPORTS (102) ---
+# --- UK SPORTS (103) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png" group-title="UK SPORTS",UK Aaj Tak
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/2370.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Alibi.svg/1200px-Alibi.svg.png" group-title="UK SPORTS",UK Alibi
@@ -13628,6 +13628,8 @@ http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/2144.m3u8
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/2142.m3u8
 #EXTINF:-1 tvg-logo="https://tvadvertising.co.uk/wp-content/uploads/2023/12/8_image.png" group-title="UK SPORTS",UK TNT Sports 1
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/737805.m3u8
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1546303327/1161.png" group-title="UK SPORTS",UK Sky Sports Racing (HD)
+http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/527483.m3u8
 
 # --- USA ENTERTAINMENT (243) ---
 #EXTINF:-1 tvg-logo="https://scripps.com/wp-content/uploads/2019/09/laff_logo_0919.png" group-title="USA ENTERTAINMENT",NY | Albany | Laff TV WXXA
@@ -18903,4 +18905,4 @@ http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/660965.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VIETNAM",VN Vietface TV
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/660966.m3u8
 
-# Total: 9326
+# Total: 9327

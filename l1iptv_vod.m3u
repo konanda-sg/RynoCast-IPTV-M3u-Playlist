@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: l1iptv.xyz
-# Generated: 2025-12-17 18:28:25
+# Generated: 2025-12-18 07:01:12
 # Expires: 2026-12-08
 # Family Safe Edition
 # ==============================================
@@ -8061,7 +8061,7 @@ http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/147359.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k8cwwFfOmwf2Z5shWBSfp6QesHb.jpg" group-title="Movies | DE - Kino 2024",The End (DE)
 http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/147467.mkv
 
-# --- Movies | DE - Kino 2025 (307) ---
+# --- Movies | DE - Kino 2025 (309) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yBW60Pm0eeXsKeiZMvMolCuhyU.jpg" group-title="Movies | DE - Kino 2025",Ad Vitam (DE)
 http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/125991.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ghLaj5dBrdUsD4wjq3QERcisr5k.jpg" group-title="Movies | DE - Kino 2025",Sunray: Fallen Soldier (DE)
@@ -8616,8 +8616,6 @@ http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/146374.mkv
 http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/146375.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJ4tkqQ0yhShY7klHLDrvUliBii.jpg" group-title="Movies | DE - Kino 2025",Afterburn (DE)
 http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/146376.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Aiq3YJuV96IVIZleLe6SE4i9Oo.jpg" group-title="Movies | DE - Kino 2025",Die Unfassbaren 3 - Now you see me (DE)
-http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/146452.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/98JYjLElGk8cHYd2FT0DLK11CcJ.jpg" group-title="Movies | DE - Kino 2025",Zwei Welten, ein Herzenswunsch (DE)
 http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/146568.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/izTH8rYFW9l1zJIQCqVnA748iJb.jpg" group-title="Movies | DE - Kino 2025",Die Rache der Polly McClusky (DE)
@@ -8676,6 +8674,12 @@ http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/147495.mkv
 http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/147496.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4RqhHz21kwRyemR9gePrTstSSe.jpg" group-title="Movies | DE - Kino 2025",Zoomania 2 (DE)
 http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/147497.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2rnlqWgVJ5AsDvFegYxeyn6GpZ.jpg" group-title="Movies | DE - Kino 2025",Sisu: Road to Revenge (DE)
+http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/147578.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bmEwxMEPdn1ciS9luMgA1RXaC9F.jpg" group-title="Movies | DE - Kino 2025",Him - Der Größte aller Zeiten (DE)
+http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/147579.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Udi4U0u5No1OQJ0DYubsSzFipb.jpg" group-title="Movies | DE - Kino 2025",Die Unfassbaren 3 - Now you see me (DE)
+http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/147580.mkv
 
 # --- Movies | DE - MGM+ (4) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE - MGM+",Leben ohne Ende
@@ -18333,4 +18337,4 @@ http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/4372.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | NL - Series",The Good Lord Bird
 http://l1iptv.xyz/series/ibrahimtopal/rP8DwDMPgG/686
 
-# Total: 9083
+# Total: 9085

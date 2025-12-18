@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: sudaka.link:25461
-# Generated: 2025-12-17 18:33:12
+# Generated: 2025-12-18 07:02:26
 # Expires: 2026-01-19
 # Family Safe Edition
 # ==============================================
@@ -673,7 +673,7 @@ http://sudaka.link:25461/live/fabian/fabian1/13950.m3u8
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4Kleo5nHqwJYenCQG_7ntR88oisN1VTmUD7Sr5NbhK-MQ.jpg" group-title="CULTURA",Discovery World
 http://sudaka.link:25461/live/fabian/fabian1/15034.m3u8
 
-# --- DEPORTES (50) ---
+# --- DEPORTES (49) ---
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4LxopwPyXIg4_89ZOGyBeZM-yyl4OBZT3_uT8QLEiRptw.jpg" group-title="DEPORTES",ESPN --
 http://sudaka.link:25461/live/fabian/fabian1/19982.m3u8
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4LxopwPyXIg4_89ZOGyBeZM-yyl4OBZT3_uT8QLEiRptw.jpg" group-title="DEPORTES",ESPN
@@ -764,8 +764,6 @@ http://sudaka.link:25461/live/fabian/fabian1/13918.m3u8
 http://sudaka.link:25461/live/fabian/fabian1/14559.m3u8
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4IY-6WQmCyUwc5KcNlkx_BCF6tJWDqCoWPBewmqHiF75w.jpg" group-title="DEPORTES",Teletrak
 http://sudaka.link:25461/live/fabian/fabian1/13986.m3u8
-#EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4LPI2cf7Y7KXgkfp_5C3uU1rENuzY2fiTNxOIWDA72pfg.jpg" group-title="DEPORTES",TyC Sports Internacional
-http://sudaka.link:25461/live/fabian/fabian1/15124.m3u8
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4J77aFzj3Sxrojjb0bbToyIocQ1L6DU1ORduGatFfvNIw.jpg" group-title="DEPORTES",Win Sports
 http://sudaka.link:25461/live/fabian/fabian1/14745.m3u8
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4J77aFzj3Sxrojjb0bbToyIocQ1L6DU1ORduGatFfvNIw.jpg" group-title="DEPORTES",Win Sports +
@@ -1079,4 +1077,4 @@ http://sudaka.link:25461/live/fabian/fabian1/32705.m3u8
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4KOwY-1xYiOCvxuZQH5mRYw_j-SQBMsDjQ2upADQSkxbw.jpg" group-title="VIDEOS MUSICALES",Enrique iglesias
 http://sudaka.link:25461/live/fabian/fabian1/33358.m3u8
 
-# Total: 521
+# Total: 520

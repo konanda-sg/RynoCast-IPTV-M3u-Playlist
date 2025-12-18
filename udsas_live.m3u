@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: udsas.my:80
-# Generated: 2025-12-17 18:29:04
+# Generated: 2025-12-18 07:04:01
 # Expires: 2025-12-29
 # Family Safe Edition
 # ==============================================
@@ -1471,7 +1471,7 @@ http://udsas.my:80/live/Camila/C1a2m3ila!/805348.m3u8
 #EXTINF:-1 tvg-logo="http://www.fontedecanais.org/logos/canais/zoomoo.png" group-title="Canais | Infantis",ZooMoo SD
 http://udsas.my:80/live/Camila/C1a2m3ila!/805349.m3u8
 
-# --- Canais | Notícias (24) ---
+# --- Canais | Notícias (27) ---
 #EXTINF:-1 tvg-logo="http://www.fontedecanais.org/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News FHD
 http://udsas.my:80/live/Camila/C1a2m3ila!/805353.m3u8
 #EXTINF:-1 tvg-logo="http://www.fontedecanais.org/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News FHD [H265]
@@ -1520,6 +1520,12 @@ http://udsas.my:80/live/Camila/C1a2m3ila!/805593.m3u8
 http://udsas.my:80/live/Camila/C1a2m3ila!/805372.m3u8
 #EXTINF:-1 tvg-logo="http://www.fontedecanais.org/logos/canais/timesbrasil.png" group-title="Canais | Notícias",Times Brasil (CNBC) SD
 http://udsas.my:80/live/Camila/C1a2m3ila!/805373.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.tv/logos/canais/sbtnews.png" group-title="Canais | Notícias",SBT News FHD
+http://udsas.my:80/live/Camila/C1a2m3ila!/1424245.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.tv/logos/canais/sbtnews.png" group-title="Canais | Notícias",SBT News HD
+http://udsas.my:80/live/Camila/C1a2m3ila!/1424246.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.tv/logos/canais/sbtnews.png" group-title="Canais | Notícias",SBT News SD
+http://udsas.my:80/live/Camila/C1a2m3ila!/1424247.m3u8
 
 # --- Canais | PPV (21) ---
 #EXTINF:-1 tvg-logo="http://www.fontedecanais.org/logos/canais/cazetv.png" group-title="Canais | PPV",CazeTV 01
@@ -1917,4 +1923,4 @@ http://udsas.my:80/live/Camila/C1a2m3ila!/804714.m3u8
 #EXTINF:-1 tvg-logo="http://www.fontedecanais.org/logos/canais/woohoo.png" group-title="Canais | Variedades",WooHoo SD
 http://udsas.my:80/live/Camila/C1a2m3ila!/804715.m3u8
 
-# Total: 930
+# Total: 933

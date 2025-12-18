@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2025-12-17 18:32:00
+# Generated: 2025-12-18 07:00:52
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -3892,7 +3892,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/80807.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/45867.m3u8
 #EXTINF:-1 tvg-logo="https://tring.al/wp-content/uploads/2024/06/klan-hd.png" group-title="Shqiptare",AL: Tv Klan ⁴ᴷ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/9678.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Tv Klan ᴴᴰ
+#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Tv Klan ᴴᴰ RAW
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/81084.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/digitalb/digi-34.png" group-title="Shqiptare",AL: Klan Plus ⁴ᴷ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/2016.m3u8

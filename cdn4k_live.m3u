@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: cdn4k.us:80
-# Generated: 2025-12-17 18:28:06
+# Generated: 2025-12-18 07:01:32
 # Expires: 2026-01-16
 # Family Safe Edition
 # ==============================================
@@ -1052,7 +1052,7 @@ http://cdn4k.us:80/live/Adrianobrito16/910989645a/6546.m3u8
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/100517.m3u8
 
 # --- DISNEY+ (30) ---
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019b2906-f8c3-79b2-9167-6981ad22a807/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="DISNEY+",Tênis: Next Gen ATP Finals (Round Robin - Day #1)
+#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Disney 01
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/346368.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Disney 02
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/346369.m3u8

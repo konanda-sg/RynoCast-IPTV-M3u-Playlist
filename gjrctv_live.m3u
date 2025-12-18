@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: gjrctv.com:8080
-# Generated: 2025-12-17 18:29:56
+# Generated: 2025-12-18 07:00:21
 # Expires: 2026-01-12
 # Family Safe Edition
 # ==============================================
@@ -1684,9 +1684,9 @@ http://gjrctv.com:8080/live/josechagas1/8muRH8/2160.m3u8
 http://gjrctv.com:8080/live/josechagas1/8muRH8/2159.m3u8
 
 # --- HORA DO JOGO (13) ---
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",17:00 Manchester United X Bournemouth
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",14:00 PSG X Flamengo
 http://gjrctv.com:8080/live/josechagas1/8muRH8/981577.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",Hora do Jogo! 2
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",21:30 Corinthians X Vasco
 http://gjrctv.com:8080/live/josechagas1/8muRH8/981578.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",Hora do Jogo! 3
 http://gjrctv.com:8080/live/josechagas1/8muRH8/981579.m3u8

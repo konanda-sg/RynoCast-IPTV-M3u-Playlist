@@ -1,11 +1,37 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: cname.dino.ws:80
-# Generated: 2025-12-17 18:36:06
+# Generated: 2025-12-18 07:06:37
 # Expires: 2026-01-31
 # Family Safe Edition
 # ==============================================
 
+
+# --- BEIN AFRICA CUP 2025 (12) ---
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1987655.png" group-title="BEIN AFRICA CUP 2025",NX - BEIN MAX 1 ⁴ᴷ
+http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1334864.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1987654.png" group-title="BEIN AFRICA CUP 2025",NX - BEIN MAX 1 ᴴᴰ ⁷²⁰
+http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1334863.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1987653.png" group-title="BEIN AFRICA CUP 2025",NX - BEIN MAX 1 ˢᴰ ⁴⁸⁰
+http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1334862.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1987652.png" group-title="BEIN AFRICA CUP 2025",NX - BEIN MAX 2 ⁴ᴷ
+http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1334861.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1987651.png" group-title="BEIN AFRICA CUP 2025",NX - BEIN MAX 2 ᴴᴰ ⁷²⁰
+http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1334860.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1987650.png" group-title="BEIN AFRICA CUP 2025",NX - BEIN MAX 2 ˢᴰ ⁴⁸⁰
+http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1334859.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1987649.png" group-title="BEIN AFRICA CUP 2025",NX - BEIN MAX 3 EN ⁴ᴷ
+http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1334858.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1987648.png" group-title="BEIN AFRICA CUP 2025",NX - BEIN MAX 3 EN ᴴᴰ ⁷²⁰
+http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1334857.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1987647.png" group-title="BEIN AFRICA CUP 2025",NX - BEIN MAX 3 EN ˢᴰ ⁴⁸⁰
+http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1334856.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1987646.png" group-title="BEIN AFRICA CUP 2025",NX - BEIN MAX 4 FR ⁴ᴷ
+http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1334855.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1987645.png" group-title="BEIN AFRICA CUP 2025",NX - BEIN MAX 4 FR ᴴᴰ ⁷²⁰
+http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1334854.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1987644.png" group-title="BEIN AFRICA CUP 2025",NX - BEIN MAX 4 FR ˢᴰ ⁴⁸⁰
+http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1334853.m3u8
 
 # --- FORMULA 1 + MOTO GP (66) ---
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="FORMULA 1 + MOTO GP",F1 - ALB ALBON WILLIAMS
@@ -16352,13 +16378,13 @@ http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/750139.m3u8
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1142828.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 1 - NO EVENT STREAMING -
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1177699.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 2 - YONEX GERMAN RUHR INTERNATIONAL U19 - COURT 1-4 - DAY 1 | Wed 17 Dec 08:00
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 2 - NO EVENT STREAMING -
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1177698.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 3 - NO EVENT STREAMING -
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1177697.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 14 - NO EVENT STREAMING -
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1177696.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 5 - NO EVENT STREAMING -
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 5 - KREISPOKAL 1. RUNDE TSV BETZIGAU DAMEN VS. 1. SKC 63 KEMPTEN | Wed 17 Dec 18:00
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1177695.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 6 - NO EVENT STREAMING -
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1177694.m3u8
@@ -24288,7 +24314,7 @@ http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1075316.m3u8
 # --- |EU| SW MAX PPV (101) ---
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",####### MAX PPV #######
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1307816.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",SE: MAX PPV 1 - SCOTTISH OPEN | Wed 17 Dec 11:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",SE: MAX PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1307815.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",SE: MAX PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1307814.m3u8
@@ -24734,13 +24760,13 @@ http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/578518.m3u8
 # --- |EU| SWEDEN VIAPLAY PPV (51) ---
 #EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/viaplay.png" group-title="|EU| SWEDEN VIAPLAY PPV",##### VIAPLAY VIP EVENT #####
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1268976.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/viaplay.png" group-title="|EU| SWEDEN VIAPLAY PPV",SE: VIAPLAY PPV 1 - NHL NHL ON THE FLY | Wed 17 Dec 11:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/viaplay.png" group-title="|EU| SWEDEN VIAPLAY PPV",SE: VIAPLAY PPV 1 - PDC DART WORLD DARTS CHAMPIONSHIP | Wed 17 Dec 19:50 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1268975.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/viaplay.png" group-title="|EU| SWEDEN VIAPLAY PPV",SE: VIAPLAY PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/viaplay.png" group-title="|EU| SWEDEN VIAPLAY PPV",SE: VIAPLAY PPV 2 - NHL FLORIDA - LOS ANGELES | Thu 18 Dec 00:55 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1268974.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/viaplay.png" group-title="|EU| SWEDEN VIAPLAY PPV",SE: VIAPLAY PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1268973.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/viaplay.png" group-title="|EU| SWEDEN VIAPLAY PPV",SE: VIAPLAY PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/viaplay.png" group-title="|EU| SWEDEN VIAPLAY PPV",SE: VIAPLAY PPV 4 - NHL DETROIT - UTAH | Thu 18 Dec 01:25 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1268972.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/viaplay.png" group-title="|EU| SWEDEN VIAPLAY PPV",SE: VIAPLAY PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1268971.m3u8
@@ -27440,7 +27466,7 @@ http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1016808.m3u8
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1016809.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/OHL.png" group-title="|NA| HOCKEY LEAGUE",CHL 39 HD (D)
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1016810.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/OHL.png" group-title="|NA| HOCKEY LEAGUE",OHL 01 :
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/OHL.png" group-title="|NA| HOCKEY LEAGUE",OHL 01 : 8:00 PM Owen Sound Attack @ London Knights
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1016837.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/whl.png" group-title="|NA| HOCKEY LEAGUE",NA - CALGARY HITMEN
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/654475.m3u8
@@ -27740,7 +27766,7 @@ http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/988161.m3u8
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/994285.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|NA| PPV LIVE EVENT",LIVE EVENT 01 - NO EVENT
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/615651.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|NA| PPV LIVE EVENT",LIVE EVENT 02- NO EVENT
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|NA| PPV LIVE EVENT",LIVE EVENT 02 - NO EVENT
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/615650.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|NA| PPV LIVE EVENT",LIVE EVENT 03 - NO EVENT
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/615649.m3u8
@@ -33252,33 +33278,33 @@ http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/952743.m3u8
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/952744.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/NFL-REDZONE.png" group-title="|NA| USA NFL",NFL - NFL REDZONE LQ
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/980240.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 01 -
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 01 - TNF 8:15PM Rams at Seahawks
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/660810.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 02 -
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 02 - SAT 5PM Eagles at Commanders
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/660809.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 03 -
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 03 - SAT 8:20PM Packers at Bears
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/660808.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 04 -
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 04 - 1PM Bills at Browns
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/660807.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 05 -
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 05 - 1PM Chargers at Cowboys
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/660806.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 06 -
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 06 - 1PM Chiefs at Titans
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/660805.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 07 -
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 07 - 1PM Bengals at Dolphins
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/660804.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 08 -
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 08 - 1PM Jets at Saints
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/660803.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 09 -
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 09 - 1PM Vikings at Giants
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/660802.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 10 -
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 10 - 1PM Buccaneers at Panthers
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/660801.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 11 -
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 11 - 4:05PM Jaguars at Broncos
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/660800.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 12 -
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 12 - 4:05PM Falcons at Cardinals
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/660799.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 13 -
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 13 - 4:25PM Steelers at Lions
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/660798.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 14 -
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 14 - 4:25PM Raiders at Texans
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/660797.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL LIVE| 15 - 8:20PM Falcons at Commanders
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/660796.m3u8
@@ -34188,19 +34214,19 @@ http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/891385.m3u8
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/891386.m3u8
 
 # --- |NL| ESPN PPV (50) ---
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 1 - ESPN VANDAAG | Wed 17 Dec 12:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 1 - NFL LIVE | Thu 18 Dec 00:31 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1317799.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 2 - PSV - GVVV (SAMENVATTING) | Wed 17 Dec 12:20 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 2 - CFB: SOUTH FLORIDA VS OLD DOMINION | Wed 17 Dec 22:00 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1317798.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 3 - NHL ON THE FLY | Wed 17 Dec 11:59 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 3 - ESPN VANDAAG | Thu 18 Dec 00:09 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1317797.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 4 - VOETBALPRAAT | Wed 17 Dec 12:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 4 - RODA JC - GO AHEAD EAGLES | Wed 17 Dec 23:18 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1317796.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 5 - NO EVENT STREAMING - 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1317795.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 6 - NO EVENT STREAMING - 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1317794.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 2 - PSV - GVVV (SAMENVATTING) | Wed 17 Dec 12:20 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 2 - CFB: SOUTH FLORIDA VS OLD DOMINION | Wed 17 Dec 22:00 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1317793.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 8 - NO EVENT STREAMING - 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1317792.m3u8
@@ -34938,9 +34964,9 @@ http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/689761.m3u8
 # --- |PL| MAX PPV (101) ---
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="|PL| MAX PPV",####### MAX PPV #######
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1168966.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="|PL| MAX PPV",PL: MAX PPV 1 - LEI PEIFAN - YUAN SIJUN | Wed 17 Dec 11:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="|PL| MAX PPV",PL: MAX PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1168965.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="|PL| MAX PPV",PL: MAX PPV 2 - WU YIZE - LAN YUHAO | Wed 17 Dec 11:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="|PL| MAX PPV",PL: MAX PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1168964.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="|PL| MAX PPV",PL: MAX PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1168963.m3u8
@@ -38656,7 +38682,7 @@ http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/677309.m3u8
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/677308.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|UK| PPV EVENTS",LIVE EVENT 01 - NO EVENT
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/677307.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|UK| PPV EVENTS",LIVE EVENT 02- NO EVENT
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|UK| PPV EVENTS",LIVE EVENT 02 - NO EVENT
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/677306.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|UK| PPV EVENTS",LIVE EVENT 03 - NO EVENT
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/677305.m3u8
@@ -40017,4 +40043,4 @@ http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/828028.m3u8
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/piconsnew/setantasports.png" group-title="|UK| WORLD SPORTS",UK - SETANTA SPORTS 12
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/828027.m3u8
 
-# Total: 19664
+# Total: 19676

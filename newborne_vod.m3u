@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: newborne.pro
-# Generated: 2025-12-17 18:40:17
+# Generated: 2025-12-18 07:08:34
 # Expires: 2026-08-21
 # Family Safe Edition
 # ==============================================
@@ -849,7 +849,9 @@ http://newborne.pro/movie/Adorait/yKNEk1etre/85742.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3WtPRtnlNh3DhKVL231NgO07cUA.jpg" group-title="Movies | Aventurë / Thriller",Unfinished Affairs (2022)
 http://newborne.pro/movie/Adorait/yKNEk1etre/85363.ts
 
-# --- Movies | Dramë/Thriller (281) ---
+# --- Movies | Dramë/Thriller (282) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XTf8GuCVLWolubANaKkpk62YPq.jpg" group-title="Movies | Dramë/Thriller",The Fountain (2006)
+http://newborne.pro/movie/Adorait/yKNEk1etre/114537.ts
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yvirUYrva23IudARHn3mMGVxWqM.jpg" group-title="Movies | Dramë/Thriller",War of the Worlds (2025)
 http://newborne.pro/movie/Adorait/yKNEk1etre/105177.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pjnD08FlMAIXsfOLKQbvmO0f0MD.jpg" group-title="Movies | Dramë/Thriller",Twisters (2024)
@@ -1537,7 +1539,9 @@ http://newborne.pro/movie/Adorait/yKNEk1etre/85805.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2J5eeroLDY0d45mVjpuGhcLZs3W.jpg" group-title="Movies | Fantasy/Sci",The Thundermans Return 2024
 http://newborne.pro/movie/Adorait/yKNEk1etre/85794.mp4
 
-# --- Movies | Femije/Animuar (57) ---
+# --- Movies | Femije/Animuar (58) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zT7Lhw3BhJbMkRqm9Zlx2YGMsY0.jpg" group-title="Movies | Femije/Animuar",KPop Demon Hunters (2025)
+http://newborne.pro/movie/Adorait/yKNEk1etre/114536.ts
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tUae3mefrDVTgm5mRzqWnZK6fOP.jpg" group-title="Movies | Femije/Animuar",Lilo & Stitch (2025)
 http://newborne.pro/movie/Adorait/yKNEk1etre/105192.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8o6lkhL32xQJeB52IIG1us5BVey.jpg" group-title="Movies | Femije/Animuar",Smurfs (2025)
@@ -9543,4 +9547,4 @@ http://newborne.pro/series/Adorait/yKNEk1etre/248
 #EXTINF:-1 tvg-logo="" group-title="Series | Netflix Series",Squid Game: The Challenge
 http://newborne.pro/series/Adorait/yKNEk1etre/247
 
-# Total: 4741
+# Total: 4743

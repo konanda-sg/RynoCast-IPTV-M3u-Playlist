@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: xxip25.top:8080
-# Generated: 2025-12-17 18:37:22
+# Generated: 2025-12-18 07:07:38
 # Expires: 2026-02-23
 # Family Safe Edition
 # ==============================================
@@ -3385,155 +3385,211 @@ http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/17779.m3u8
 #EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US Starz West (S)
 http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/21091.m3u8
 
-# --- NBA (5) ---
+# --- NBA (8) ---
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",CA-NBA TV
 http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/22995.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",USA: NBA TV
 http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/20073.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 01: San Antonio Spurs @ New York Knicks | Home Stream | 12/16/2025 8:30 PM ET
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257499.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 01: San Antonio Spurs vs New York Knicks @ 08:30 PM EST
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257500.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 02: San Antonio Spurs @ New York Knicks | Away Stream | 12/16/2025 8:30 PM ET
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257501.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 01: Memphis Grizzlies @ Minnesota Timberwolves | Home Stream | 12/17/2025 8:00 PM ET
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257583.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 01: MEM Grizzlies VS MIN Timberwolves ( NBA TV Feed ) @ 8:00 PM
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257584.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 02: Memphis Grizzlies @ Minnesota Timberwolves | Away Stream | 12/17/2025 8:00 PM ET
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257585.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 02: Cleveland Cavaliers vs Chicago Bulls @ 08:00 PM EST
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257586.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 03: Cleveland Cavaliers @ Chicago Bulls | Home Stream | 12/17/2025 8:00 PM ET
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257587.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 04: Cleveland Cavaliers @ Chicago Bulls | Away Stream | 12/17/2025 8:00 PM ET
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257588.m3u8
 
-# --- NCAAB (68) ---
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 001 | VERMONT @ HOLY CROSS (W) | 12.16 10:30 AM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257515.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 002 | BETHUNE-COOKMAN @ RICHMOND (W) | 12.16 11:00 AM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257516.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 003 | FRANKLIN PIERCE @ DARTMOUTH (W) | 12.16 11:00 AM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257517.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 004 | LE MOYNE @ BOWLING GREEN (W) | 12.16 11:00 AM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257518.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 005 | NORTHERN KENTUCKY @ CLEVELAND STATE (W) | 12.16 11:00 AM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257519.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 006 | MONTANA @ HOUSTON (W) | 12.16 12:00 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257520.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 007 | MORGAN STATE @ 5 LSU (W) | 12.16 12:00 PM | SECN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257521.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 008 | ORAL ROBERTS @ WICHITA STATE (W) | 12.16 12:00 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257522.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 009 | COASTAL GEORGIA @ NORTH FLORIDA (W) | 12.16 1:00 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257523.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 010 | CAL STATE EAST BAY @ CAL STATE BAKERSFIELD (W) | 12.16 2:00 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257524.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 011 | LITTLE ROCK @ MOREHEAD STATE (W) | 12.16 5:00 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257525.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 012 | NORTH DAKOTA STATE @ PEPPERDINE (W) | 12.16 5:00 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257526.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 013 | AMERICAN UNIVERSITY @ VCU (W) | 12.16 6:00 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257527.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 014 | DARTMOUTH @ HOLY CROSS (M) | 12.16 6:00 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257528.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 015 | DETROIT MERCY @ ROBERT MORRIS (W) | 12.16 6:00 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257529.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 016 | LIPSCOMB @ 3 DUKE (M) | 12.16 6:00 PM | ACC NETWORK
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257530.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 017 | MIDWAY UNIVERSITY @ LIBERTY (M) | 12.16 6:00 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257531.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 018 | SACRED HEART @ UMASS LOWELL (M) | 12.16 6:00 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257532.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 019 | HOWARD @ CINCINNATI (W) | 12.16 6:30 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257533.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 020 | KENTUCKY CHRISTIAN @ UNC ASHEVILLE (M) | 12.16 6:30 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257534.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 021 | MIAMI (OH)-MIDDLETOWN @ IU INDIANAPOLIS (M) | 12.16 6:30 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257535.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 022 | TOLEDO @ 9 MICHIGAN STATE (M) | 12.16 6:30 PM | PEACOCK
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257536.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 023 | WRIGHT STATE @ YOUNGSTOWN STATE (W) | 12.16 6:30 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257537.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 024 | 11 LOUISVILLE @ 20 TENNESSEE (M) | 12.16 7:00 PM | ESPN
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257538.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 025 | BELMONT @ EVANSVILLE (M) | 12.16 7:00 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257539.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 026 | BINGHAMTON @ SYRACUSE (W) | 12.16 7:00 PM | ACC EXTRA
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257540.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 027 | CANISIUS @ RHODE ISLAND (M) | 12.16 7:00 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257541.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 028 | CHICAGO STATE @ BOWLING GREEN (M) | 12.16 7:00 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257542.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 029 | DEPAUL @ 22 ST. JOHNS (M) | 12.16 7:00 PM | PEACOCK
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257543.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 030 | FLORIDA INTERNATIONAL @ MIAMI (M) | 12.16 7:00 PM | ACC EXTRA
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257544.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 031 | FLORIDA STATE @ DAYTON (M) | 12.16 7:00 PM | CBSSN
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257545.m3u8
+# --- NCAAB (93) ---
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 001 | AGNES SCOTT COLLEGE @ SOUTH CAROLINA UPSTATE (W) | 12.17 11:00 AM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257595.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 002 | APP STATE @ MARSHALL (W) | 12.17 11:00 AM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257596.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 003 | CLEMSON @ CHARLESTON SOUTHERN (W) | 12.17 11:00 AM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257597.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 004 | LA SALLE @ DELAWARE (W) | 12.17 11:00 AM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257598.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 005 | TROY @ OLD DOMINION (W) | 12.17 11:00 AM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257599.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 006 | WINTHROP @ CHARLOTTE (W) | 12.17 11:00 AM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257600.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 007 | WOFFORD @ EAST CAROLINA (W) | 12.17 11:00 AM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257601.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 008 | KANSAS CHRISTIAN @ CENTRAL ARKANSAS (M) | 12.17 12:00 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257602.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 009 | SOUTHWESTERN CHRISTIAN @ RICE (M) | 12.17 12:15 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257603.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 010 | JACKSONVILLE @ TEXAS TECH (W) | 12.17 12:30 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257604.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 011 | NORTH CAROLINA CENTRAL @ QUEENS UNIVERSITY (W) | 12.17 12:30 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257605.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 012 | WESLEYAN COLLEGE (GA) @ WEST GEORGIA (W) | 12.17 2:00 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257606.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 013 | FLORIDA A&M @ FLORIDA (W) | 12.17 3:00 PM | SECN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257607.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 014 | CHICAGO STATE @ UTAH TECH (W) | 12.17 4:00 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257608.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 015 | JACKSONVILLE STATE @ SAINT LOUIS (W) | 12.17 5:00 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257609.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 016 | MISSISSIPPI VALLEY STATE @ 14 OLE MISS (W) | 12.17 5:00 PM | SECN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257610.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 017 | NORTHERN IOWA @ UIC (M) | 12.17 5:00 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257611.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 018 | TULANE @ ALABAMA (W) | 12.17 5:00 PM | SECN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257612.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 019 | EASTERN KENTUCKY @ 16 LOUISVILLE (W) | 12.17 6:00 PM | ACC NETWORK
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257613.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 020 | JAMES MADISON @ COASTAL CAROLINA (W) | 12.17 6:00 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257614.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 021 | LOUISIANA @ TEXAS STATE (W) | 12.17 6:00 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257615.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 022 | STONEHILL @ NEW HAMPSHIRE (M) | 12.17 6:00 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257616.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 023 | CREIGHTON @ XAVIER (M) | 12.17 6:30 PM | FS1
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257617.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 024 | IU COLUMBUS @ IU INDIANAPOLIS (W) | 12.17 6:30 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257618.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 025 | SAINT FRANCIS @ 23 FLORIDA (M) | 12.17 6:30 PM | SEC NETWORK
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257619.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 026 | SIMMONS COLLEGE (KY) @ UNC ASHEVILLE (W) | 12.17 6:30 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257620.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 027 | TEXAS A&M-CORPUS CHRISTI @ STEPHEN F. AUSTIN (W) | 12.17 6:30 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257621.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 028 | 13 VANDERBILT @ MEMPHIS (M) | 12.17 7:00 PM | ESPN2
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257622.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 029 | ALABAMA STATE @ CINCINNATI (M) | 12.17 7:00 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257623.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 030 | BINGHAMTON @ PITTSBURGH (M) | 12.17 7:00 PM | ACC EXTRA
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257624.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 031 | BREWTON-PARKER @ WEST GEORGIA (M) | 12.17 7:00 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257625.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 032 | NORTHWESTERN @ 17 ILLINOIS (M) | 1/26 3:00 PM | BTN
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257546.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 033 | MARY BALDWIN @ HIGH POINT (M) | 12.16 7:00 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257547.m3u8
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257626.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 033 | CHATTANOOGA @ BELLARMINE (M) | 12.17 7:00 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257627.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 034 | VALPARAISO @ UIC (W) | 1/26 3:00 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257548.m3u8
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257628.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 035 | WICHITA STATE @ TULSA (M) | 1/26 3:00 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257549.m3u8
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257629.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 036 | WISCONSIN @ 23 MINNESOTA (W) | 1/26 3:00 PM | B1G+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257550.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 037 | RIDER @ DELAWARE (M) | 12.16 7:00 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257551.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 038 | SAM HOUSTON @ ALABAMA (W) | 12.16 7:00 PM | SECN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257552.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 039 | SOUTH CAROLINA @ CLEMSON (M) | 12.16 7:00 PM | ESPN2
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257553.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 040 | UT RIO GRANDE VALLEY @ LAMAR (M) | 12.16 7:00 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257554.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 041 | WASHINGTON STATE @ SETON HALL (W) | 12.16 7:00 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257555.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 042 | ARKANSAS-PINE BLUFF @ 8 TCU (W) | 12.16 7:30 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257556.m3u8
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257630.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 037 | ERSKINE @ MERCER (W) | 12.17 7:00 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257631.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 038 | HIGH POINT @ DAVIDSON (W) | 12.17 7:00 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257632.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 039 | LONGWOOD @ WAKE FOREST (M) | 12.17 7:00 PM | ACC EXTRA
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257633.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 040 | MARQUETTE @ 1 UCONN (W) | 12.17 7:00 PM | PEACOCK
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257634.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 041 | MERCER @ UCF (M) | 12.17 7:00 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257635.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 042 | MERCYHURST @ SYRACUSE (M) | 12.17 7:00 PM | ACC EXTRA
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257636.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 043 | BRYANT @ BINGHAMTON (W) | 1/25 2:00 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257557.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 044 | INCARNATE WORD @ NICHOLLS (W) | 12.16 7:30 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257558.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 045 | LITTLE ROCK @ MOREHEAD STATE (M) | 12.16 7:30 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257559.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 046 | LONG ISLAND UNIVERSITY @ MISSISSIPPI STATE (M) | 12.16 7:30 PM | SECN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257560.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 047 | MARIST @ GEORGIA TECH (M) | 12.16 7:30 PM | ACC EXTRA
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257561.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 048 | EAST TENNESSEE STATE @ 14 NORTH CAROLINA (M) | 12.16 8:00 PM | ACC NETWORK
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257562.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 049 | EAST-WEST UNIVERSITY @ NORTHERN ILLINOIS (M) | 12.16 8:00 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257563.m3u8
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257637.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 044 | OAKLAND @ NORTHERN KENTUCKY (M) | 12.17 7:00 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257638.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 045 | OLIVET @ CENTRAL MICHIGAN (M) | 12.17 7:00 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257639.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 046 | PRESBYTERIAN @ EAST CAROLINA (M) | 12.17 7:00 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257640.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 047 | SACRAMENTO STATE @ SAN FRANCISCO (W) | 12.17 7:00 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257641.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 048 | SIENA @ VERMONT (M) | 12.17 7:00 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257642.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 049 | SOUTHERN WESLEYAN @ SOUTH CAROLINA UPSTATE (M) | 12.17 7:00 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257643.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 050 | BRADLEY VS. MISSOURI STATE | 02/29-07:30PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257564.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 051 | LE MOYNE @ TEXAS (M) | 12.16 8:00 PM | SECN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257565.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 052 | NORTHERN COLORADO @ 16 TEXAS TECH (M) | 12.16 8:00 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257566.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 053 | ORAL ROBERTS @ MISSOURI STATE (M) | 12.16 8:00 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257567.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 054 | UC IRVINE @ NEW MEXICO STATE (W) | 12.16 8:00 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257568.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 055 | VALPARAISO @ NORTHWESTERN (M) | 12.16 8:00 PM | PEACOCK
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257569.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 056 | BUTLER @ 5 UCONN (M) | 12.16 8:30 PM | PEACOCK
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257570.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 057 | ABILENE CHRISTIAN @ 1 ARIZONA (M) | 12.16 9:00 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257571.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 057 | ABILENE CHRISTIAN @ 1 ARIZONA (M) | 12.16 9:00 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257572.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 059 | CHAPMAN @ LOYOLA MARYMOUNT (W) | 12.16 9:00 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257573.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 060 | NORTHERN COLORADO @ COLORADO (W) | 12.16 9:00 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257574.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 061 | PACIFIC @ 10 BYU (M) | 12.16 9:00 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257575.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 062 | QUEENS UNIVERSITY @ 17 ARKANSAS (M) | 12.16 9:00 PM | SEC NETWORK
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257576.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 063 | TOWSON @ 19 KANSAS (M) | 12.16 9:00 PM | ESPN2
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257577.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 064 | CAL POLY @ 4 UCLA (W) | 12.16 10:00 PM | BTN
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257578.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 065 | MONTANA STATE @ CAL POLY (M) | 12.16 10:00 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257579.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 066 | SOUTHERN @ CALIFORNIA BAPTIST (M) | 12.16 10:00 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257580.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 067 | STANTON @ UC RIVERSIDE (M) | 12.16 10:00 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257581.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 068 | UC SAN DIEGO @ LOYOLA MARYMOUNT (M) | 12.16 11:30 PM | ESPN+
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257582.m3u8
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257644.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 051 | UC SANTA BARBARA @ GREEN BAY (M) | 12.17 7:00 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257645.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 052 | WAYNE STATE (MI) @ TOLEDO (W) | 12.17 7:00 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257646.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 053 | YOUNGSTOWN STATE @ ROBERT MORRIS (M) | 12.17 7:00 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257647.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 054 | ALABAMA STATE @ MISSISSIPPI STATE (W) | 12.17 7:30 PM | SECN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257648.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 055 | CENTRAL ARKANSAS @ LOUISIANA TECH (W) | 12.17 7:30 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257649.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 056 | CLEVELAND STATE @ UAB (M) | 12.17 7:30 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257650.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 057 | EVANSVILLE @ BELMONT (W) | 12.17 7:30 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257651.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 057 | EVANSVILLE @ BELMONT (W) | 12.17 7:30 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257652.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 059 | HOUSTON CHRISTIAN @ NICHOLLS (M) | 12.17 7:30 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257653.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 060 | KANSAS CITY @ ARKANSAS (W) | 12.17 7:30 PM | SECN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257654.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 061 | KENNESAW STATE @ MIDDLE TENNESSEE (M) | 12.17 7:30 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257655.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 062 | LOUISIANA TECH @ TULANE (M) | 12.17 7:30 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257656.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 063 | PRAIRIE VIEW A&M @ LAMAR (W) | 12.17 7:30 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257657.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 064 | SOUTH ALABAMA @ UL MONROE (M) | 12.17 7:30 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257658.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 065 | TEXAS SOUTHERN @ UT ARLINGTON (W) | 12.17 7:30 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257659.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 066 | WOFFORD @ WICHITA STATE (M) | 12.17 7:30 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257660.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 067 | ALABAMA A&M @ OLE MISS (M) | 12.17 8:00 PM | SECN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257661.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 068 | BETHUNE-COOKMAN @ SAINT LOUIS (M) | 12.17 8:00 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257662.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 069 | DEPAUL @ UIC (W) | 12.17 8:00 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257663.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 070 | JAMES MADISON @ OLD DOMINION (M) | 12.17 8:00 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257664.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 071 | LA SIERRA @ WEBER STATE (W) | 12.17 8:00 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257665.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 072 | SOUTH FLORIDA @ 16 ALABAMA (M) | 12.17 8:00 PM | SECN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257666.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 073 | UL MONROE @ ARKANSAS STATE (W) | 12.17 8:00 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257667.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 074 | UNC WILMINGTON @ 18 NORTH CAROLINA (W) | 12.17 8:00 PM | ACC NETWORK
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257668.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 075 | UNLV @ GRAND CANYON (W) | 12.17 8:00 PM | CBSSN
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257669.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 076 | WEBER STATE @ UTAH VALLEY (M) | 12.17 8:00 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257670.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 077 | ARKANSAS STATE @ TEXAS STATE (M) | 12.17 8:30 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257671.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 078 | GEORGETOWN @ MARQUETTE (M) | 12.17 8:30 PM | FS1
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257672.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 080 | MONTANA TECH @ MONTANA (M) | 12.17 9:00 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257674.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 081 | NORTHWESTERN STATE @ 2 TEXAS (W) | 12.17 9:00 PM | SEC NETWORK
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257675.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 082 | PORTLAND STATE @ COLORADO (M) | 12.17 9:00 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257676.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 083 | SEATTLE U @ UC DAVIS (M) | 12.17 9:00 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257677.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 084 | SOUTH DAKOTA @ PEPPERDINE (W) | 12.17 9:00 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257678.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 085 | TEXAS A&M-CORPUS CHRISTI @ STEPHEN F. AUSTIN (M) | 12.17 9:00 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257679.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 086 | UC RIVERSIDE @ UTAH (W) | 12.17 9:00 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257680.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 087 | UTSA @ USC (M) | 12.17 9:00 PM | BTN
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257681.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 088 | SAM HOUSTON @ OREGON STATE (M) | 12.17 9:30 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257682.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 089 | AIR FORCE @ SAN DIEGO STATE (M) | 12.17 10:00 PM | CBSSN
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257683.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 090 | LOYOLA CHICAGO @ SAN FRANCISCO (M) | 12.17 10:00 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257684.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 091 | SEATTLE U @ PORTLAND STATE (W) | 12.17 10:00 PM | ESPN+
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257685.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 092 | UT ARLINGTON @ STANFORD (M) | 12.17 10:00 PM | ACC EXTRA
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257686.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 093 | ARIZONA STATE @ UCLA (M) | 12.17 10:30 PM | FS1
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257687.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 094 | PORTLAND @ OREGON (M) | 12.17 11:00 PM | BTN
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257688.m3u8
 
 # --- NFL (23) ---
 #EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/5438735-nfl-team-logos-transparent-png-history-logos-lists-brands-nfl-logo-png-300_300_preview.png" group-title="NFL",US NFL Network
@@ -3583,33 +3639,21 @@ http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/253677.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NFL",NFL 01: Baltimore Ravens at Miami Dolphins 8:15pm
 http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/253678.m3u8
 
-# --- NHL (13) ---
+# --- NHL (7) ---
 #EXTINF:-1 tvg-logo="" group-title="NHL",US NHL Network
 http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/253636.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 01: UTA VS BOS (NESN Feed ) @ 7:00 pm
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257502.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 02: PHI VS MTL (RDS Feed ) @ 7:00 pm
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257503.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 03: PHI VS MTL (NBCSP Feed ) @ 7:00 pm
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257504.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 04: VAN VS NYR (MSG Feed ) @ 7:00 pm
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257505.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 05: EDM VS PIT (SN Feed ) @ 7:30 pm
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257506.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 06: CGY VS SJS (SN Feed ) @ 10:00 pm
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257507.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 07: CGY VS SJS (SN360 Feed ) @ 10:00 pm
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257508.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 08: CGY VS SJS (NBCSCA Feed ) @ 10:00 pm
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257509.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 09: COL VS SEA (ALT Feed ) @ 10:00 pm
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257510.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 10: Chicago Blackhawks vs Toronto Maple Leafs @ 07:00 PM
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257511.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 11: New York Islanders vs Detroit Red Wings   @ 07:00 PM
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257512.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 13: Washington Capitals vs Minnesota Wild @ 08:00 PM
-http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257514.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 01: LAK VS FLA (TVAS Feed ) @ 7:00 pm
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257589.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 02: WPG VS STL (SN Feed ) @ 8:00 pm
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257590.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 03: NJD VS VGK (SN1 Feed ) @ 10:00 pm
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257591.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 04: NJD VS VGK (TVAS Feed ) @ 10:00 pm
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257592.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 05: Utah Mammoth vs Detroit Red Wings @ 07:30 PM
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257593.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 06: Carolina Hurricanes vs Nashville Predators @ 08:00 PM
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257594.m3u8
 
 # --- PERU (7) ---
 #EXTINF:-1 tvg-logo="" group-title="PERU",PE: PANAMERICANA HD
@@ -13437,4 +13481,4 @@ http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/121046.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Vietnam",VN DA NANG 1 HD
 http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/121048.m3u8
 
-# Total: 6679
+# Total: 6701

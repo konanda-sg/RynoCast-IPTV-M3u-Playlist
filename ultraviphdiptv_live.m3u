@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: ultraviphdiptv.com:8000
-# Generated: 2025-12-17 18:38:51
+# Generated: 2025-12-18 07:04:07
 # Expires: 2026-03-16
 # Family Safe Edition
 # ==============================================
@@ -2491,7 +2491,7 @@ http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/126668.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RADYO",TR: RADYO MANNHEIM
 http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/126758.m3u8
 
-# --- TR: 24/7 DIZI (52) ---
+# --- TR: 24/7 DIZI (51) ---
 #EXTINF:-1 tvg-logo="" group-title="TR: 24/7 DIZI",✶✶✶ TR 7/24 DIZI ✶✶✶
 http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/157316.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TR: 24/7 DIZI",TR:  REDBOX KURTLAR VADiSi
@@ -2516,8 +2516,6 @@ http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/156696.m3u8
 http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/156697.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TR: 24/7 DIZI",TR: Kurtlar Vadisi 7/24
 http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/156698.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/stSKJHN.png" group-title="TR: 24/7 DIZI",TR: DIZI 7/24 CENNET MAHALLESI
-http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/161347.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HpIpzzA.png" group-title="TR: 24/7 DIZI",TR: DIZI 24/7 TESKILAT SEZON 2
 http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/161348.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ZLyzlC.png" group-title="TR: 24/7 DIZI",TR: DIZI 24/7 VIKINGLER
@@ -4627,4 +4625,4 @@ http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/112029.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TR: YEREL",TR: TV 52 ᴴᴰ
 http://ultraviphdiptv.com:8000/live/Figo/KDYwefapLL/112030.m3u8
 
-# Total: 2272
+# Total: 2271

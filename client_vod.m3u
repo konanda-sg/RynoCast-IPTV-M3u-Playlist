@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: client.newborntv.xyz:88
-# Generated: 2025-12-17 18:30:20
+# Generated: 2025-12-18 07:07:34
 # Expires: 2026-02-22
 # Family Safe Edition
 # ==============================================
@@ -849,7 +849,9 @@ http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/85742.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3WtPRtnlNh3DhKVL231NgO07cUA.jpg" group-title="Movies | Aventurë / Thriller",Unfinished Affairs (2022)
 http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/85363.ts
 
-# --- Movies | Dramë/Thriller (281) ---
+# --- Movies | Dramë/Thriller (282) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XTf8GuCVLWolubANaKkpk62YPq.jpg" group-title="Movies | Dramë/Thriller",The Fountain (2006)
+http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/114537.ts
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yvirUYrva23IudARHn3mMGVxWqM.jpg" group-title="Movies | Dramë/Thriller",War of the Worlds (2025)
 http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/105177.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pjnD08FlMAIXsfOLKQbvmO0f0MD.jpg" group-title="Movies | Dramë/Thriller",Twisters (2024)
@@ -1537,7 +1539,9 @@ http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/85805.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2J5eeroLDY0d45mVjpuGhcLZs3W.jpg" group-title="Movies | Fantasy/Sci",The Thundermans Return 2024
 http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/85794.mp4
 
-# --- Movies | Femije/Animuar (57) ---
+# --- Movies | Femije/Animuar (58) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zT7Lhw3BhJbMkRqm9Zlx2YGMsY0.jpg" group-title="Movies | Femije/Animuar",KPop Demon Hunters (2025)
+http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/114536.ts
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tUae3mefrDVTgm5mRzqWnZK6fOP.jpg" group-title="Movies | Femije/Animuar",Lilo & Stitch (2025)
 http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/105192.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8o6lkhL32xQJeB52IIG1us5BVey.jpg" group-title="Movies | Femije/Animuar",Smurfs (2025)
@@ -7513,9 +7517,19 @@ http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/86834.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4bKlTeOUr5AKrLky8mwWvlQqyVd.jpg" group-title="Movies | Unknown",The Killer's Game (2024)
 http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/100934.mp4
 
-# --- Movies | VOD DE (597) ---
+# --- Movies | VOD DE (602) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgEoCEMWWt7E1esLeok7G99uXtq.jpg" group-title="Movies | VOD DE",Greedy People: Gelegenheit macht gierig (2024)
 http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/97812.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1znowvqAYATIKezg7A7l1sPNj9M.jpg" group-title="Movies | VOD DE",Conjuring 4: Das letzte Kapitel (2025)
+http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/114532.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zgibwu2MWsUfwUwVPkRbOzGTxX2.jpg" group-title="Movies | VOD DE",Chainsaw Man - The Movie: Reze Arc (2025)
+http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/114531.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mMmj8FFMJmGanUvvxVohTNXVXaY.jpg" group-title="Movies | VOD DE",Bugonia (2025)
+http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/114530.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zVJJk4m7AWn8LnqTpdDNuG6F5xS.jpg" group-title="Movies | VOD DE",Bring Her Back (2025)
+http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/114529.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/445HsfnktkmM5y4cr62vYGzfo6h.jpg" group-title="Movies | VOD DE",Blood & Sinners (2025)
+http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/114528.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2dJC5X6EW5pW986MwRkKc5fVCnR.jpg" group-title="Movies | VOD DE",Wake Up Dead Man: A Knives Out Mystery (2025)
 http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/114520.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0pR5aBVvPn5uncaZjl94ZEnuEF.jpg" group-title="Movies | VOD DE",The Witcher: Sirens of the Deep (2025)
@@ -11889,4 +11903,4 @@ http://client.newborntv.xyz:88/series/khFzEWQn/fP85XcC7E/248
 #EXTINF:-1 tvg-logo="" group-title="Series | Netflix Series",Squid Game: The Challenge
 http://client.newborntv.xyz:88/series/khFzEWQn/fP85XcC7E/247
 
-# Total: 5911
+# Total: 5918
