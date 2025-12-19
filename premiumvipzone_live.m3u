@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: premiumvipzone.com:8080
-# Generated: 2025-12-18 18:37:14
+# Generated: 2025-12-19 07:09:52
 # Expires: 2026-03-11
 # Family Safe Edition
 # ==============================================
@@ -13491,9 +13491,7 @@ http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/149.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/28k4PYfC/photo_2025_12_14_22_01_25.jpg" group-title="✰ Romania - Documentare HD+SD ✰",Vip Documentare 3 HD
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/274069.m3u8
 
-# --- ✰ Romania - FILME HD+SD ✰ (244) ---
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GmXjSyL6/James-Bond-2025-12-17-23-09-11.jpg" group-title="✰ Romania - FILME HD+SD ✰",Vip James Bond HD
-http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/274438.m3u8
+# --- ✰ Romania - FILME HD+SD ✰ (243) ---
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wTQCHNfn/photo_2025_12_11_17_11_41.jpg" group-title="✰ Romania - FILME HD+SD ✰",Dragon Action { HD }
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/273424.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ncym1sYN/photo_2025_12_09_19_05_24.jpg" group-title="✰ Romania - FILME HD+SD ✰",Vip Action { HD }
@@ -15228,8 +15226,6 @@ http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/95802.m3u8
 # --- ✰ Romania - RELIGIOASE ✰ (12) ---
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZjdLhb/690cbe4b997bc.png" group-title="✰ Romania - RELIGIOASE ✰",Vip Colinde Crestine HD
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/270119.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJxzCVvG/Chat-GPT-Image-Dec-16-2025-11-17-47-PM.png" group-title="✰ Romania - RELIGIOASE ✰",Vip Predici HD
-http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/274426.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hPC6qfyH/alfa-omega.jpg" group-title="✰ Romania - RELIGIOASE ✰",Alfa & Omega
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/208.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FKqhFTPX/credotv.png" group-title="✰ Romania - RELIGIOASE ✰",Credo Tv
@@ -15240,6 +15236,8 @@ http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/43262.m3u8
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/209.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13mmvng2/trinitas.jpg" group-title="✰ Romania - RELIGIOASE ✰",Trinitas HD
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/206.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJxzCVvG/Chat-GPT-Image-Dec-16-2025-11-17-47-PM.png" group-title="✰ Romania - RELIGIOASE ✰",Vip Predici HD
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/274426.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y8Q49XvC/magura.png" group-title="✰ Romania - RELIGIOASE ✰",Magura Media  Muzica Crestina 1 FHD
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/45570.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y8Q49XvC/magura.png" group-title="✰ Romania - RELIGIOASE ✰",Magura  Media Muzica Crestina 2 FHD
@@ -15699,4 +15697,4 @@ http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/140783.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LXWKshQx/ddikh.jpg" group-title="✰Hungary-Általános (General)✰",HU* Dikh TV FHD
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/175834.m3u8
 
-# Total: 7764
+# Total: 7763

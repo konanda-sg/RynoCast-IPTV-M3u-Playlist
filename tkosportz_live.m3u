@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tkosportz.live:25461
-# Generated: 2025-12-18 18:27:19
+# Generated: 2025-12-19 07:07:38
 # Expires: 2026-01-05
 # Family Safe Edition
 # ==============================================
@@ -22218,15 +22218,15 @@ http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/199111.m3u8
 # --- 26. NFL TICKET (23) ---
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Nfl_red_zone.png" group-title="26. NFL TICKET",02. RED ZONE
 http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/7645.m3u8
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/tnf.png" group-title="26. NFL TICKET",05. TNF
+#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/tnf.png" group-title="26. NFL TICKET",05. TNF LA Rams @ Seattle
 http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/105701.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/mnf.png" group-title="26. NFL TICKET",04. MNF
 http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/105531.m3u8
 #EXTINF:-1 tvg-logo="" group-title="26. NFL TICKET",02. NFL PrimeTime on ESPN+
 http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/49285.m3u8
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/tnf.png" group-title="26. NFL TICKET",06. TNF
+#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/tnf.png" group-title="26. NFL TICKET",06. TNF LA Rams @ Seattle
 http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/208416.m3u8
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/mnf.png" group-title="26. NFL TICKET",04. MNF Miami @ Pittsburgh
+#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/mnf.png" group-title="26. NFL TICKET",04. MNF
 http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/43861.m3u8
 #EXTINF:-1 tvg-logo="" group-title="26. NFL TICKET",02. SPECIAL EVENTS
 http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/217475.m3u8
@@ -22263,103 +22263,9 @@ http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/44611.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Nfl-sunday-ticket1.png" group-title="26. NFL TICKET",ST14: 420p
 http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218195.m3u8
 
-# --- 26.1 NCAA BASKETBALL (ET) (48) ---
+# --- 26.1 NCAA BASKETBALL (ET) (1) ---
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/NCAA_logo-1.png" group-title="26.1 NCAA BASKETBALL (ET)",01. NCAAB
 http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/216977.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 006: Saint Francis-PA vs. Florida (Dec 17 06:30 PM ET)
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218220.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 007: Presbyterian vs. East Carolina (Dec 17 07:00 PM ET)
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218221.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 008: Vanderbilt vs. Memphis (Dec 17 07:00 PM ET)
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218222.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 009: Mercer vs. UCF (Dec 17 07:00 PM ET)
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218223.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 010: Alabama State vs. Cincinnati (Dec 17 07:00 PM ET)
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218224.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 011: Texas Southern vs. NC State (Dec 17 07:00 PM ET)
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218225.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 012: Binghamton vs. Pittsburgh (Dec 17 07:00 PM ET)
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218226.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 013: Mercyhurst vs. Syracuse (Dec 17 07:00 PM ET)
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218227.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 015: Eastern Kentucky vs. Jacksonville State (Dec 17 07:00 PM ET)
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218229.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 016: Maryland Eastern Shore vs. Wagner (Dec 17 07:00 PM ET)
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218230.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 017: The Citadel vs. Charleston (Dec 17 07:00 PM ET)
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218231.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 018: Quinnipiac vs. Monmouth (Dec 17 07:00 PM ET)
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218232.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 019: Richmond vs. Elon (Dec 17 07:00 PM ET)
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218233.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 020: UAlbany vs. Stony Brook (Dec 17 07:00 PM ET)
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218234.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 021: Brewton Parker vs. West Georgia (Dec 17 07:00 PM ET)
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218235.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 022: Chattanooga vs. Bellarmine (Dec 17 07:00 PM ET)
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218236.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 023: Mid-Atlantic Christian vs. North Carolina Central (Dec 17 07:00 PM ET)
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218237.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 024: Oakland vs. Northern Kentucky (Dec 17 07:00 PM ET)
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218238.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 025: Olivet vs. Central Michigan (Dec 17 07:00 PM ET)
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218239.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 026: Siena vs. Vermont (Dec 17 07:00 PM ET)
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218240.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 027: Southern Wesleyan vs. South Carolina Upstate (Dec 17 07:00 PM ET)
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218241.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 028: UC Santa Barbara vs. Green Bay (Dec 17 07:00 PM ET)
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218242.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 029: Youngstown State vs. Robert Morris (Dec 17 07:00 PM ET)
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218243.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 030: Cleveland State vs. UAB (Dec 17 07:30 PM ET)
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218244.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 031: Louisiana Tech vs. Tulane (Dec 17 07:30 PM ET)
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218245.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 032: Wofford vs. Wichita State (Dec 17 07:30 PM ET)
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218246.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 033: Kennesaw State vs. Middle Tennessee (Dec 17 07:30 PM ET)
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218247.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 034: Houston Christian vs. Nicholls (Dec 17 07:30 PM ET)
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218248.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 035: South Alabama vs. UL Monroe (Dec 17 07:30 PM ET)
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218249.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 036: Alabama A&M vs. Ole Miss (Dec 17 08:00 PM ET)
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218250.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 037: Bethune-Cookman vs. Saint Louis (Dec 17 08:00 PM ET)
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218251.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 038: James Madison vs. Old Dominion (Dec 17 08:00 PM ET)
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218252.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 039: South Florida vs. Alabama (Dec 17 08:00 PM ET)
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218253.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 040: Weber State vs. Utah Valley (Dec 17 08:00 PM ET)
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218254.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 041: Dakota State vs. South Dakota (Dec 17 08:00 PM ET)
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218255.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 042: Georgetown vs. Marquette (Dec 17 08:30 PM ET)
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218256.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 043: Arkansas State vs. Texas State (Dec 17 08:30 PM ET)
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218257.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 044: Portland State vs. Colorado (Dec 17 09:00 PM ET)
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218258.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 045: UTSA vs. USC (Dec 17 09:00 PM ET)
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218259.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 046: North Texas vs. Santa Clara (Dec 17 09:00 PM ET)
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218260.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 048: Montana Tech vs. Montana (Dec 17 09:00 PM ET)
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218262.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 049: Seattle U vs. UC Davis (Dec 17 09:00 PM ET)
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218263.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 050: Texas A&Mâ€“Corpus Christi vs. Stephen F. Austin (Dec 17 09:00 PM ET)
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218264.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 051: Sam Houston vs. Oregon State (Dec 17 09:30 PM ET)
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218265.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 052: UT Arlington vs. Stanford (Dec 17 10:00 PM ET)
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218266.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 053: Air Force vs. San Diego State (Dec 17 10:00 PM ET)
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218267.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 054: Loyola Chicago vs. San Francisco (Dec 17 10:00 PM ET)
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218268.m3u8
 
 # --- 26.2 NCAA FOOTBALL (ET) (6) ---
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/NCAA_logo-1.png" group-title="26.2 NCAA FOOTBALL (ET)",01. EVERY GAME EVERY WEEK
@@ -22455,17 +22361,25 @@ http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/99277.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2025/10/nbatvHD.png" group-title="27.1 NBA TEAM FEEDS",01. NBA TV
 http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/208214.m3u8
 
-# --- 28. NHL (5) ---
+# --- 28. NHL (9) ---
 #EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/7efeeaa72cfe67ba4c96433c437250cb.png" group-title="28. NHL",1. US : NHL NETWORK
 http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/99197.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="28. NHL",NHL 01 | Los Angeles Kings @ Florida Panthers | 7 PM ET | 12.17
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218210.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="28. NHL",NHL 02 | Utah Mammoth @ Detroit Red Wings | 7.30 PM ET | 12.17
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218211.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="28. NHL",NHL 04 | Carolina Hurricanes @ Nashville Predators | 8 PM ET | 12.17
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218213.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="28. NHL",NHL 05 | New Jersey Devils @ Vegas Golden Knights | 10 PM ET | 12.17
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218214.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="28. NHL",NHL 01 | Edmonton Oilers @ Boston Bruins | 7 PM ET | 12.18
+http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218269.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="28. NHL",NHL 02 | Chicago Blackhawks @ Montreal Canadiens  | 7 PM ET | 12.18
+http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218270.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="28. NHL",NHL 03 | Pittsburgh Penguins @ Ottawa Senators  | 7 PM ET | 12.18
+http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218271.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="28. NHL",NHL 04 | Los Angeles Kings @ Tampa Bay Lightning  | 7 PM ET | 12.18
+http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218272.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="28. NHL",NHL 05 | Toronto Maple Leafs @ Washington Capitals  | 7 PM ET | 12.18
+http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218273.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="28. NHL",NHL 07 | Philadelphia Flyers @ Buffalo Sabres | 7.30 PM ET | 12.18
+http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218275.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="28. NHL",NHL 09 | Seattle Kraken @ Calgary Flames | 9 PM ET | 12.18
+http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218277.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="28. NHL",NHL 10 | Dallas Stars @ San Jose Sharks | 10 PM ET | 12.18
+http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218278.m3u8
 
 # --- 29. MLB TEAM FEEDS (31) ---
 #EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/5d45e165ca38cb86952dd8ca8a86e4ce.png" group-title="29. MLB TEAM FEEDS",US : MLB ARIZONA DIAMONDBACKS
@@ -23575,4 +23489,4 @@ http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/191009.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Red_Noticias2019.png/revision/latest/scale-to-width-down/274?cb=20210424015309&path-prefix=es" group-title="37. COLUMBIA",CO: Red+ Noticias FHD
 http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/191010.m3u8
 
-# Total: 11753
+# Total: 11710

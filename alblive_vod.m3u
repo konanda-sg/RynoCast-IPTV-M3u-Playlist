@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alblive.org:80
-# Generated: 2025-12-18 18:34:50
+# Generated: 2025-12-19 07:12:34
 # Expires: 2026-01-15
 # Family Safe Edition
 # ==============================================
@@ -1033,7 +1033,7 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17108.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qyQcRGvdW3VtxHR4fSDgPOePEip.jpg" group-title="Movies | Advanture",The Peanut Butter Falcon (2019)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17211.mkv
 
-# --- Movies | Animation (100) ---
+# --- Movies | Animation (101) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6N3NKevt4l7jsBk5IcaNxwZIJnj.jpg" group-title="Movies | Animation",Angry Birds Space (2012)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/6304.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdK86hDn31gjtVJhMDB7ZMEAH8Z.jpg" group-title="Movies | Animation",Ella Bella Bingo (2020)
@@ -1232,6 +1232,8 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17134.mkv
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17186.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/s5nELMHR1L2agJXVIPiWxu6dWl8.jpg" group-title="Movies | Animation",Merry Madagascar (2009)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17207.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/spJJCe4rntGxu9YXDEw2r5hz5oq.jpg" group-title="Movies | Animation",The Night Before Christmas in Wonderland (2024)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17327.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Animation",Rick and Morty
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/75.mp4
 
@@ -6361,7 +6363,7 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17210.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bLY5yN4MKVynZ2HMZWElTOGBgBe.jpg" group-title="Movies | Horror",Until Dawn (2025)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17217.mkv
 
-# --- Movies | ITALIA Disney - Netflix - HBO (79) ---
+# --- Movies | ITALIA Disney - Netflix - HBO (82) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/l0CaVyqnTsWwNd4hWsrLNEk1Wjd.jpg" group-title="Movies | ITALIA Disney - Netflix - HBO",A Family Affair (2024)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17232.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rYUsZd0V3I7ub21vf0f4DRzP1n0.jpg" group-title="Movies | ITALIA Disney - Netflix - HBO",A Perfect Pairing (2022)
@@ -6520,6 +6522,12 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17319.mkv
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17320.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg" group-title="Movies | ITALIA Disney - Netflix - HBO",Zootopia (2016)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17321.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8912AsVuS7Sj915apArUFbv6F9L.jpg" group-title="Movies | ITALIA Disney - Netflix - HBO",The Devil Wears Prada (2006)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17322.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/l6iwxT0NbVw6QiF08YTIuTnXS82.jpg" group-title="Movies | ITALIA Disney - Netflix - HBO",A Haunting in Venice (2023)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17323.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ucBJrWKCJ1naTylSFN8jpaEqwwe.jpg" group-title="Movies | ITALIA Disney - Netflix - HBO",Le Divorce (2003)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17324.mkv
 
 # --- Movies | Kinemaja Shqiptare (220) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2S4epgBehyiSlRqqnYrCIyCGcyM.jpg" group-title="Movies | Kinemaja Shqiptare",8 Persona Plus (1998)
@@ -7059,7 +7067,7 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/69.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Mystery",#BringBackAlice
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/78.mp4
 
-# --- Movies | Romance (103) ---
+# --- Movies | Romance (105) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lOzGWjceYTd0kd5HyX7Ch46O9kh.jpg" group-title="Movies | Romance",Focus (2015)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/6138.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYRiZ3vJuuCYb9H7HXfpjKO9Jd6.jpg" group-title="Movies | Romance",Fifty Shades of Black (2016)
@@ -7266,6 +7274,10 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17200.mkv
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17208.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qs2AeWbLklk9I5UbI8bllZVfF2V.jpg" group-title="Movies | Romance",On Swift Horses (2025)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17216.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/g72tPkWetP9qnZT0kJYOQJ6yWOm.jpg" group-title="Movies | Romance",A Carpenter Christmas Romance (2024)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17325.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tMpg5vyBPcMSZqanll4PCdwmmhH.jpg" group-title="Movies | Romance",Christmas in the Spotlight (2024)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17326.mkv
 
 # --- Movies | SRB-CRO-Titlovi (57) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/260GDjmYf2A9W09RRo5FwUueQ3Y.jpg" group-title="Movies | SRB-CRO-Titlovi",Bookworm (2024)
@@ -10543,4 +10555,4 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/16122.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Western",The English
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/100.mp4
 
-# Total: 5238
+# Total: 5244

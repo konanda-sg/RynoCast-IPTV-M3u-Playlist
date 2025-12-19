@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 2atv.xyz:83
-# Generated: 2025-12-18 18:29:35
+# Generated: 2025-12-19 07:09:56
 # Expires: 2026-01-16
 # Family Safe Edition
 # ==============================================
@@ -56,7 +56,7 @@ http://2atv.xyz:83/live/os4124/os1234/824456.m3u8
 http://2atv.xyz:83/live/os4124/os1234/824457.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BTN+",US (BTN+ 006) | Wrestling: Utah Valley at Wisconsin (2025-12-18 19:50:00)
 http://2atv.xyz:83/live/os4124/os1234/824458.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BTN+",US (BTN+ 007) | Basketball (W): Cal Poly at #16 USC (2025-12-18 21:50:00)
+#EXTINF:-1 tvg-logo="" group-title="BTN+",US (BTN+ 007) | Basketball (W): Cal Poly at #19 USC (2025-12-18 21:50:00)
 http://2atv.xyz:83/live/os4124/os1234/824459.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BTN+",US (BTN+ 008) | Basketball (W): Central Conn. St. at Maryland (2025-12-19 10:50:00)
 http://2atv.xyz:83/live/os4124/os1234/824460.m3u8
@@ -633,242 +633,246 @@ http://2atv.xyz:83/live/os4124/os1234/815003.m3u8
 #EXTINF:-1 tvg-logo="https://puddintap.click/ico/USA/ESPNU.png" group-title="ESPN",USA: ESPN U
 http://2atv.xyz:83/live/os4124/os1234/815004.m3u8
 
-# --- ESPN PLAY (245) ---
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 001) | #3 Texas vs. #2 Kentucky (Championship) (2025-12-14 03:29:59)
+# --- ESPN PLAY (247) ---
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 001) | #12 Arizona State vs. Mississippi State (2025-12-18 02:00:04)
 http://2atv.xyz:83/live/os4124/os1234/823786.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 002) | FÃºtbol Picante (2025-12-14 03:59:56)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 002) | 30 For 30: Pony Excess (2025-12-18 02:59:59)
 http://2atv.xyz:83/live/os4124/os1234/823787.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 003) | South Dakota vs. Montana (Quarterfinal) (2025-12-14 04:00:01)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 003) | Old Dominion vs. South Florida (2025-12-18 03:00:04)
 http://2atv.xyz:83/live/os4124/os1234/823788.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 004) | SportsCenter (2025-12-14 04:00:02)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 004) | World of X: The Yeti Natural Selection at Jackson Hole (2025-12-18 04:00:00)
 http://2atv.xyz:83/live/os4124/os1234/823789.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 005) | South Carolina State vs. Prairie View A&M (2025-12-14 04:00:03)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 005) | SportsCenter (2025-12-18 04:00:02)
 http://2atv.xyz:83/live/os4124/os1234/823790.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 006) | Nothing But Net Hubert Davis (2025-12-14 04:00:06)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 006) | #9 Kentucky vs. #12 Louisville (2025-12-18 04:00:05)
 http://2atv.xyz:83/live/os4124/os1234/823791.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 007) | Big League Chew presents: 2025 National Bubble Gum Blowing Championship (2025-12-14 04:29:58)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 007) | Chivas: De Gago a Milito (2025-12-18 04:00:07)
 http://2atv.xyz:83/live/os4124/os1234/823792.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 009) | Coach K & Roy Williams Rivals Reunited (2025-12-14 05:00:05)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 008) | SportsCenter (2025-12-18 05:00:00)
+http://2atv.xyz:83/live/os4124/os1234/823793.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 009) | First Draft (2025-12-18 05:00:05)
 http://2atv.xyz:83/live/os4124/os1234/823794.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 010) | SportsCenter (2025-12-14 05:00:10)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 010) | SportsCenter (2025-12-18 05:00:10)
 http://2atv.xyz:83/live/os4124/os1234/823795.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 011) | SportsCenter (2025-12-14 05:00:15)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 011) | Louisiana vs. Delaware (2025-12-18 05:00:15)
 http://2atv.xyz:83/live/os4124/os1234/823796.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 012) | The Goodyear Blimp Sky Race of the Century (2025-12-14 05:30:00)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 012) | Thunder On: Resurgence of the SMU Mustangs (2025-12-18 05:00:20)
 http://2atv.xyz:83/live/os4124/os1234/823797.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 013) | TrueSouth: Season Eight Behind_the_Scenes Presented by YellaWood (2025-12-14 05:30:05)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 013) | #14 Vanderbilt vs. #19 Tennessee (2025-12-18 05:00:25)
 http://2atv.xyz:83/live/os4124/os1234/823798.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 014) | Red Bull Flugtag Cincinnati (2025-12-14 06:00:00)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 014) | Pardon The Interruption Presented by Grey Goose (2025-12-18 05:30:00)
 http://2atv.xyz:83/live/os4124/os1234/823799.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 015) | Heisman Trophy Ceremony Presented by Nissan (2025-12-14 06:00:05)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 015) | SportsCenter (2025-12-18 06:00:00)
 http://2atv.xyz:83/live/os4124/os1234/823800.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 017) | FÃºtbol Picante (2025-12-14 06:00:15)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 016) | Chivas: De Gago a Milito (2025-12-18 06:00:05)
+http://2atv.xyz:83/live/os4124/os1234/823801.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 017) | Unsportsmanlike with Evan_ Canty and Michelle Presented by Progressive (2025-12-18 06:00:10)
 http://2atv.xyz:83/live/os4124/os1234/823802.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 018) | Read & React (2025-12-14 06:00:20)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 018) | Unsportsmanlike with Evan_ Canty and Michelle Presented by Progressive (2025-12-18 06:00:15)
 http://2atv.xyz:83/live/os4124/os1234/823803.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 019) | SportsCenter (2025-12-14 06:00:25)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 019) | Nothing But Net (2025-12-18 06:00:20)
 http://2atv.xyz:83/live/os4124/os1234/823804.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 020) | Ludwig`s Streamer Games (2025-12-14 06:30:00)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 020) | ACC Network Football Podcast (2025-12-18 06:30:00)
 http://2atv.xyz:83/live/os4124/os1234/823805.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 021) | Brighton & Hove Albion vs. Chelsea (2025-12-14 06:55:00)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 021) | Believers: Boston Red Sox _ Episodio 1 (2025-12-18 07:00:00)
 http://2atv.xyz:83/live/os4124/os1234/823806.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 022) | Heisman Trophy Ceremony Presented by Nissan (2025-12-14 07:00:00)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 022) | En EspaÃ±ol_UEFA Women`s Champions League Draw (2025-12-18 07:00:05)
 http://2atv.xyz:83/live/os4124/os1234/823807.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 023) | 2025 Blackbird Cup _ Alberta Pro Roller Hockey League (2025-12-14 07:00:05)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 023) | SportsCenter (2025-12-18 07:00:10)
 http://2atv.xyz:83/live/os4124/os1234/823808.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 024) | SportsCenter (2025-12-14 07:00:10)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 024) | SportsCenter (2025-12-18 07:30:00)
 http://2atv.xyz:83/live/os4124/os1234/823809.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 025) | SEC Now (2025-12-14 07:00:15)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 025) | Nothing But Net (2025-12-18 07:30:05)
 http://2atv.xyz:83/live/os4124/os1234/823810.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 026) | Portraits: Roy Williams (2025-12-14 07:00:20)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 026) | ACC Network Football Podcast (2025-12-18 08:00:00)
 http://2atv.xyz:83/live/os4124/os1234/823811.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 027) | SportsCenter (2025-12-14 07:00:25)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 027) | SEC Now (2025-12-18 08:00:05)
 http://2atv.xyz:83/live/os4124/os1234/823812.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 028) | En EspaÃ±ol_Sevilla FC vs. Real Oviedo (2025-12-14 07:55:00)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 028) | ESPN Beisbol (2025-12-18 08:00:10)
 http://2atv.xyz:83/live/os4124/os1234/823813.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 029) | Boise State vs. Washington (2025-12-14 08:00:00)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 029) | Believers: Boston Red Sox _ Episodio 2 (2025-12-18 08:00:15)
 http://2atv.xyz:83/live/os4124/os1234/823814.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 030) | Nothing But Net Hubert Davis (2025-12-14 08:00:05)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 030) | SportsCenter (2025-12-18 08:00:20)
 http://2atv.xyz:83/live/os4124/os1234/823815.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 031) | National Ball Hockey League (2025-12-14 08:00:10)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 031) | Get Up  Presented by FreeStyle Libre (2025-12-18 08:00:25)
 http://2atv.xyz:83/live/os4124/os1234/823816.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 032) | SportsCenter (2025-12-14 08:00:15)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 032) | SEC Now (2025-12-18 08:30:00)
 http://2atv.xyz:83/live/os4124/os1234/823817.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 033) | SEC Now (2025-12-14 08:00:20)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 033) | Believers: Boston Red Sox _ Episodio 3 (2025-12-18 09:00:00)
 http://2atv.xyz:83/live/os4124/os1234/823818.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 034) | 30 for 30: The Great Heisman Race of 1997 (2025-12-14 09:00:00)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 034) | SEC Now (2025-12-18 09:00:05)
 http://2atv.xyz:83/live/os4124/os1234/823819.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 035) | SportsCenter (2025-12-14 09:00:05)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 035) | En EspaÃ±ol_FC Twente Women vs. Real Madrid (2025-12-18 09:00:10)
 http://2atv.xyz:83/live/os4124/os1234/823820.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 036) | USPA Polo: Breakaway: Polo in College (2025-12-14 09:00:10)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 036) | SportsCenter (2025-12-18 09:00:15)
 http://2atv.xyz:83/live/os4124/os1234/823821.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 037) | Coach K & Roy Williams Rivals Reunited (2025-12-14 09:00:15)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 037) | Nothing But Net (2025-12-18 09:00:20)
 http://2atv.xyz:83/live/os4124/os1234/823822.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 038) | SEC Now (2025-12-14 09:00:20)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 038) | ACC Network Football Podcast (2025-12-18 09:30:00)
 http://2atv.xyz:83/live/os4124/os1234/823823.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 039) | T_Rex World Championship Races (2025-12-14 09:30:00)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 039) | SEC Now (2025-12-18 09:30:05)
 http://2atv.xyz:83/live/os4124/os1234/823824.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 040) | Duke vs. #17 Virginia (Championship) (2025-12-14 10:00:00)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 040) | Kansas City vs. Oklahoma (2025-12-18 10:00:00)
 http://2atv.xyz:83/live/os4124/os1234/823825.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 041) | Sunday NFL Countdown Presented by Snickers (2025-12-14 10:00:05)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 041) | SportsCenter (2025-12-18 10:00:05)
 http://2atv.xyz:83/live/os4124/os1234/823826.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 042) | 2025 Corgi Races at Emerald Downs (2025-12-14 10:00:10)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 042) | First Take Presented by FreeStyle Libre (2025-12-18 10:00:10)
 http://2atv.xyz:83/live/os4124/os1234/823827.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 043) | Fantasy Football Now Presented by DraftKings Pick6 (2025-12-14 10:00:15)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 043) | Get Up  Presented by FreeStyle Libre (2025-12-18 10:00:15)
 http://2atv.xyz:83/live/os4124/os1234/823828.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 044) | SEC Now (2025-12-14 10:00:20)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 044) | Old Dominion vs. South Florida (2025-12-18 10:00:20)
 http://2atv.xyz:83/live/os4124/os1234/823829.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 045) | En EspaÃ±ol_Celta de Vigo vs. Athletic Club (2025-12-14 10:00:25)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 045) | Nothing But Net (2025-12-18 10:30:00)
 http://2atv.xyz:83/live/os4124/os1234/823830.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 046) | Roofball _ 2025 RFA Cup (2025-12-14 10:30:00)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 046) | En EspaÃ±ol_VfL Wolfsburg vs. Chelsea FC Women (2025-12-18 11:00:00)
 http://2atv.xyz:83/live/os4124/os1234/823831.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 047) | Villanova vs. Tarleton State (Quarterfinal) (2025-12-14 11:00:00)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 047) | SportsCenter (2025-12-18 11:00:05)
 http://2atv.xyz:83/live/os4124/os1234/823832.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 048) | The 2024 Onewheel World Championship _ Race For The Rail (2025-12-14 11:00:05)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 048) | Florida vs. #4 Miami (2025-12-18 11:00:10)
 http://2atv.xyz:83/live/os4124/os1234/823833.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 049) | SEC Featured: Postseason Special (2025-12-14 11:00:10)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 049) | The Pat McAfee Show (2025-12-18 12:00:00)
 http://2atv.xyz:83/live/os4124/os1234/823834.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 050) | 2025 Golden Tee Golf World Championships (2025-12-14 11:30:00)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 050) | First Take Presented by FreeStyle Libre (2025-12-18 12:00:05)
 http://2atv.xyz:83/live/os4124/os1234/823835.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 051) | IWL WRESTBALL 3x3 (2025-12-14 12:00:00)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 051) | Get Up  Presented by FreeStyle Libre (2025-12-18 12:00:10)
 http://2atv.xyz:83/live/os4124/os1234/823836.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 052) | SEC Now: Postseason Special (2025-12-14 12:00:05)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 052) | #11 Louisville vs. #20 Tennessee (2025-12-18 12:00:15)
 http://2atv.xyz:83/live/os4124/os1234/823837.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 053) | Maryland_Eastern Shore vs. Virginia Tech (2025-12-14 12:00:10)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 053) | SportsCenter (2025-12-18 13:00:00)
 http://2atv.xyz:83/live/os4124/os1234/823838.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 054) | En EspaÃ±ol_Levante UD vs. Villarreal CF (2025-12-14 12:15:00)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 054) | Louisiana vs. Delaware (2025-12-18 13:30:00)
 http://2atv.xyz:83/live/os4124/os1234/823839.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 055) | 30 for 30: Boo_Yah: A Portrait of Stuart Scott Presented by Modelo (2025-12-14 13:00:00)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 055) | North Carolina vs. NC State (2025-12-18 14:00:00)
 http://2atv.xyz:83/live/os4124/os1234/823840.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 056) | Major League Paintball_ 3v3 World Championship (2025-12-14 13:00:05)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 056) | College Football Live (2025-12-18 14:00:05)
 http://2atv.xyz:83/live/os4124/os1234/823841.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 057) | AKC UpDog Invitational (2025-12-14 13:00:10)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 057) | First Take Presented by FreeStyle Libre (2025-12-18 14:00:10)
 http://2atv.xyz:83/live/os4124/os1234/823842.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 058) | #3 Florida State vs. #1 Stanford (Championship) (2025-12-14 13:00:15)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 058) | El AÃ±o de Cruz Azul (2025-12-18 14:00:15)
 http://2atv.xyz:83/live/os4124/os1234/823843.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 059) | #13 Baylor vs. #2 Texas (2025-12-14 13:00:20)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 059) | SportsCenter (2025-12-18 14:00:20)
 http://2atv.xyz:83/live/os4124/os1234/823844.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 060) | NC State vs. Miami (2025-12-14 14:00:00)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 060) | SEC Featured: Postseason Special (2025-12-18 14:00:25)
 http://2atv.xyz:83/live/os4124/os1234/823845.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 061) | Bethune_Cookman vs. Missouri (2025-12-14 14:00:05)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 061) | College Football Live (2025-12-18 14:30:00)
 http://2atv.xyz:83/live/os4124/os1234/823846.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 062) | NWLA All_Star Game (2025-12-14 14:00:10)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 062) | NBA Today (2025-12-18 15:00:00)
 http://2atv.xyz:83/live/os4124/os1234/823847.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 063) | Winthrop vs. #18 Tennessee (2025-12-14 14:00:15)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 063) | Los Claroscuros del Tri (2025-12-18 15:00:05)
 http://2atv.xyz:83/live/os4124/os1234/823848.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 064) | Pittsburgh vs. Clemson (2025-12-14 14:00:20)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 064) | Inside the College Football Playoff (Season 7_ Episode 1) (2025-12-18 15:00:10)
 http://2atv.xyz:83/live/os4124/os1234/823849.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 065) | #4 Kansas vs. #1 Nebraska (Regional Semifinal) (2025-12-14 14:00:25)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 065) | The Paul Finebaum Show (2025-12-18 15:00:15)
 http://2atv.xyz:83/live/os4124/os1234/823850.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 066) | Georgia Tech vs. Wake Forest (2025-12-14 14:00:30)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 066) | NFL Live (2025-12-18 16:00:00)
 http://2atv.xyz:83/live/os4124/os1234/823851.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 067) | West Georgia vs. Florida (2025-12-14 14:00:35)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 067) | NBA Today (2025-12-18 16:00:05)
 http://2atv.xyz:83/live/os4124/os1234/823852.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 068) | Charleston vs. Florida State (2025-12-14 14:00:40)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 068) | Enfocados en la PasiÃ³n (2025-12-18 16:00:10)
 http://2atv.xyz:83/live/os4124/os1234/823853.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 069) | E60: The Many Lives of Lane Kiffin (2025-12-14 14:30:00)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 069) | Sooner Gameday (2025-12-18 16:00:15)
 http://2atv.xyz:83/live/os4124/os1234/823854.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 070) | En EspaÃ±ol_D. AlavÃ©s vs. Real Madrid (2025-12-14 14:30:05)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 070) | The Mina Kimes Show featuring Lenny (2025-12-18 16:00:20)
 http://2atv.xyz:83/live/os4124/os1234/823855.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 071) | Nothing But Net Hubert Davis (2025-12-14 15:00:00)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 071) | SEC Inside: Football Championship (2025-12-18 16:30:00)
 http://2atv.xyz:83/live/os4124/os1234/823856.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 072) | West Virginia vs. Texas A&M (2025-12-14 15:00:05)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 072) | NFL Live (2025-12-18 17:00:00)
 http://2atv.xyz:83/live/os4124/os1234/823857.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 073) | #3 Texas A&M vs. #1 Nebraska (Regional Final) (2025-12-14 15:00:10)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 073) | NBA Today (2025-12-18 17:00:05)
 http://2atv.xyz:83/live/os4124/os1234/823858.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 074) | Troy vs. UAB (2025-12-14 15:00:15)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 074) | Hampton vs. Jackson State (2025-12-18 17:00:10)
 http://2atv.xyz:83/live/os4124/os1234/823859.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 075) | Southern Miss vs. Mississippi State (2025-12-14 15:00:20)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 075) | Inside ACCess (2025-12-18 17:00:15)
 http://2atv.xyz:83/live/os4124/os1234/823860.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 076) | South Carolina State vs. #17 Ole Miss (2025-12-14 15:00:25)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 076) | Cruz Azul y Pumas en Deuda (2025-12-18 17:00:20)
 http://2atv.xyz:83/live/os4124/os1234/823861.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",(US) ESPN PLAY 77 (D)
 http://2atv.xyz:83/live/os4124/os1234/823862.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 078) | Penn State vs. #3 South Carolina (2025-12-14 15:30:00)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 078) | Pardon The Interruption Presented by Grey Goose (2025-12-18 17:30:00)
 http://2atv.xyz:83/live/os4124/os1234/823863.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 079) | SEC Inside: Alabama vs. Auburn (2025-12-14 16:00:00)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 079) | ACC PM (2025-12-18 18:00:00)
 http://2atv.xyz:83/live/os4124/os1234/823864.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 080) | California vs. Stanford (2025-12-14 16:00:05)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 080) | Miami vs. Wake Forest (2025-12-18 18:00:05)
 http://2atv.xyz:83/live/os4124/os1234/823865.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 081) | East Tennessee State vs. Virginia Tech (2025-12-14 16:00:10)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 081) | Saint Francis (PA) vs. Pittsburgh (2025-12-18 18:00:10)
 http://2atv.xyz:83/live/os4124/os1234/823866.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 082) | The 4th Annual BullShooter Invitational Shootout presented by TouchTunes (2025-12-14 16:00:15)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 082) | SportsCenter (2025-12-18 18:00:15)
 http://2atv.xyz:83/live/os4124/os1234/823867.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 083) | Jackson State vs. Alabama (2025-12-14 16:00:20)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 083) | The Point (2025-12-18 18:00:20)
 http://2atv.xyz:83/live/os4124/os1234/823868.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 084) | #22 Louisville vs. #12 North Carolina (2025-12-14 16:00:25)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 084) | Virginia Tech vs. Florida State (2025-12-18 18:00:25)
 http://2atv.xyz:83/live/os4124/os1234/823869.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 085) | SEC Inside: Football Championship (2025-12-14 16:30:00)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 085) | This is Football (2025-12-18 18:00:30)
 http://2atv.xyz:83/live/os4124/os1234/823870.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 086) | 2025 Slippery Stairs (2025-12-14 17:00:00)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 086) | SportsCenter (2025-12-18 18:00:35)
 http://2atv.xyz:83/live/os4124/os1234/823871.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 087) | Queens vs. Wake Forest (2025-12-14 17:00:05)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 087) | En EspaÃ±ol_#3 Texas A&M vs. #1 Pittsburgh (Semifinal #1) (2025-12-18 18:30:00)
 http://2atv.xyz:83/live/os4124/os1234/823872.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 088) | Rochester Knighthawks vs. San Diego Seals (2025-12-14 17:00:10)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 088) | #3 Texas A&M vs. #1 Pittsburgh (Semifinal #1) (2025-12-18 18:30:05)
 http://2atv.xyz:83/live/os4124/os1234/823873.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 089) | MSU _ Denver vs. Concordia _ St. Paul (Championship) (2025-12-14 17:00:15)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 089) | Pardon The Interruption Presented by Grey Goose (2025-12-18 18:30:10)
 http://2atv.xyz:83/live/os4124/os1234/823874.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 090) | En EspaÃ±ol _ ESPN FC (2025-12-14 17:00:20)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 090) | Saint Francis (PA) vs. #23 Florida (2025-12-18 19:00:00)
 http://2atv.xyz:83/live/os4124/os1234/823875.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 091) | 30 For 30: I Hate Christian Laettner (2025-12-14 17:30:00)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 091) | College Football Live (2025-12-18 19:00:05)
 http://2atv.xyz:83/live/os4124/os1234/823876.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 092) | Duke vs. #17 Virginia (Championship) (2025-12-14 18:00:00)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 092) | Western Carolina vs. #25 Georgia (2025-12-18 19:00:10)
 http://2atv.xyz:83/live/os4124/os1234/823877.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 093) | 2025 Extreme Archery Championship presented by Archery Tag (2025-12-14 18:00:05)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 093) | Alcorn State vs. Auburn (2025-12-18 19:00:15)
 http://2atv.xyz:83/live/os4124/os1234/823878.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 094) | SEC Now (2025-12-14 18:00:10)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 094) | South Dakota State vs. Duke (2025-12-18 19:00:20)
 http://2atv.xyz:83/live/os4124/os1234/823879.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 095) | SportsCenter (2025-12-14 18:00:15)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 095) | The Mina Kimes Show featuring Lenny (2025-12-18 19:00:25)
 http://2atv.xyz:83/live/os4124/os1234/823880.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 096) | Washington vs. #16 Furman (Semifinal #1) (2025-12-14 19:00:00)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 096) | #3 South Carolina vs. South Florida (2025-12-18 19:00:30)
 http://2atv.xyz:83/live/os4124/os1234/823881.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 097) | Futbol Picante (2025-12-14 19:00:05)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 097) | Georgia Tech vs. NC State (2025-12-18 19:00:35)
 http://2atv.xyz:83/live/os4124/os1234/823882.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 098) | Jacksonville vs. Texas A&M (2025-12-14 19:00:10)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 098) | SportsCenter (2025-12-18 19:00:40)
 http://2atv.xyz:83/live/os4124/os1234/823883.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 099) | World Axe & Knife Throwing Championship 2025 (2025-12-14 19:00:15)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 099) | UAlbany vs. #13 Vanderbilt (2025-12-18 19:30:00)
 http://2atv.xyz:83/live/os4124/os1234/823884.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 100) | SportsCenter (2025-12-14 19:00:20)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 100) | Norfolk State vs. Grambling (2025-12-18 19:30:05)
 http://2atv.xyz:83/live/os4124/os1234/823885.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 101) | SportsCenter (2025-12-14 19:30:00)
-http://2atv.xyz:83/live/os4124/os1234/823886.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 102) | #3 Wisconsin vs. #1 Texas (Regional Final) (2025-12-14 19:30:05)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 102) | This is Football (2025-12-18 20:00:05)
 http://2atv.xyz:83/live/os4124/os1234/823887.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 103) | En EspaÃ±ol_D. AlavÃ©s vs. Real Madrid (2025-12-14 20:00:00)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 103) | NCAA Women`s Volleyball Studio (2025-12-18 20:30:00)
 http://2atv.xyz:83/live/os4124/os1234/823888.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 104) | Battle Court Jai_Alai Championship VII (2025-12-14 20:00:05)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 104) | Pardon The Interruption Presented by Grey Goose (2025-12-18 20:30:05)
 http://2atv.xyz:83/live/os4124/os1234/823889.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 105) | Buster Douglas vs. Mike Tyson (2025-12-14 20:30:00)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 105) | Northwestern State vs. #2 Texas (2025-12-18 21:00:00)
 http://2atv.xyz:83/live/os4124/os1234/823890.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 106) | Saint Louis vs. #15 NC State (Semifinal #2) (2025-12-14 21:00:00)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 106) | Missouri State vs. Arkansas State (2025-12-18 21:00:05)
 http://2atv.xyz:83/live/os4124/os1234/823891.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 107) | Breakaway: Polo in England (2025-12-14 21:00:05)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 107) | En EspaÃ±ol_Missouri State vs. Arkansas State (2025-12-18 21:00:10)
 http://2atv.xyz:83/live/os4124/os1234/823892.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 108) | SEC Now (2025-12-14 21:00:10)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 108) | En EspaÃ±ol_#3 Wisconsin vs. #1 Kentucky (Semifinal #2) (2025-12-18 21:00:15)
 http://2atv.xyz:83/live/os4124/os1234/823893.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 109) | #3 Miami vs. #18 Florida State (2025-12-14 21:00:15)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 109) | Nothing But Net Special: Kara Lawson (2025-12-18 21:00:20)
 http://2atv.xyz:83/live/os4124/os1234/823894.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 110) | 30 for 30: Boo_Yah: A Portrait of Stuart Scott Presented by Modelo (2025-12-14 21:30:00)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 110) | USPA Polo: C.V. Whitney Cup (2025-12-18 21:00:25)
 http://2atv.xyz:83/live/os4124/os1234/823895.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 111) | Swiss Stone Tossing (2025-12-14 21:30:05)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 111) | #3 Wisconsin vs. #1 Kentucky (Semifinal #2) (2025-12-18 21:00:30)
 http://2atv.xyz:83/live/os4124/os1234/823896.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 112) | Mike Tyson vs. Various Boxers (2025-12-14 21:30:10)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 112) | College Football Live (2025-12-18 21:30:00)
 http://2atv.xyz:83/live/os4124/os1234/823897.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 113) | Mike Tyson vs. Various Boxers (2025-12-14 22:00:00)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 113) | Nothing But Net Special: Kara Lawson (2025-12-18 21:30:05)
 http://2atv.xyz:83/live/os4124/os1234/823898.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 114) | Mailboat Jumping (2025-12-14 22:00:05)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 114) | Florida vs. #4 Miami (2025-12-18 22:00:00)
 http://2atv.xyz:83/live/os4124/os1234/823899.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 115) | SEC Now (2025-12-14 22:00:10)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 115) | 30 For 30: Ghosts of Ole Miss (2025-12-18 22:00:05)
 http://2atv.xyz:83/live/os4124/os1234/823900.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 116) | Futbol Picante (2025-12-14 22:00:15)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 116) | Pardon The Interruption Presented by Grey Goose (2025-12-18 22:30:00)
 http://2atv.xyz:83/live/os4124/os1234/823901.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 117) | Big League Chew presents: 2025 National Bubble Gum Blowing Championship (2025-12-14 22:30:00)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 117) | SportsCenter (2025-12-18 23:00:00)
 http://2atv.xyz:83/live/os4124/os1234/823902.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 119) | X Games Aspen 2025: Trending Moments _ Part 1 (2025-12-14 23:00:05)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 118) | Thunder On: Resurgence of the SMU Mustangs (2025-12-18 23:00:05)
+http://2atv.xyz:83/live/os4124/os1234/823903.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 119) | SEC Storied: Wishbone (2025-12-18 23:00:10)
 http://2atv.xyz:83/live/os4124/os1234/823904.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 120) | #3 Creighton vs. #1 Kentucky (Regional Final) (2025-12-14 23:00:10)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 120) | This is Football (2025-12-18 23:00:15)
 http://2atv.xyz:83/live/os4124/os1234/823905.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 121) | SEC Now (2025-12-14 23:00:15)
+#EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 121) | Pardon The Interruption Presented by Grey Goose (2025-12-18 23:30:00)
 http://2atv.xyz:83/live/os4124/os1234/823906.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ESPN PLAY",US (ESPNPlay 122) | SportsCenter (2025-12-14 23:00:20)
 http://2atv.xyz:83/live/os4124/os1234/823907.m3u8
@@ -4396,29 +4400,29 @@ http://2atv.xyz:83/live/os4124/os1234/824214.m3u8
 http://2atv.xyz:83/live/os4124/os1234/824215.m3u8
 
 # --- NBA (15) ---
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 01: Bulls vs. Cavaliers (12.17 8:00 PM ET)
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 01: Hornets vs. Hawks (12.18 7:00 PM ET)
 http://2atv.xyz:83/live/os4124/os1234/822062.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 02: Timberwolves vs. Grizzlies (12.17 8:00 PM ET)
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 02: Pacers vs. Knicks (12.18 7:00 PM ET)
 http://2atv.xyz:83/live/os4124/os1234/822063.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 03
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 03: Nets vs. Heat (12.18 7:30 PM ET)
 http://2atv.xyz:83/live/os4124/os1234/822064.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 04
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 04: Thunder vs. Clippers (12.18 8:00 PM ET)
 http://2atv.xyz:83/live/os4124/os1234/822065.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 05
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 05: Spurs vs. Wizards (12.18 8:00 PM ET)
 http://2atv.xyz:83/live/os4124/os1234/822066.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 06
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 06: Bucks vs. Raptors (12.18 8:00 PM ET)
 http://2atv.xyz:83/live/os4124/os1234/822067.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 07
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 07: Pelicans vs. Rockets (12.18 8:00 PM ET)
 http://2atv.xyz:83/live/os4124/os1234/822068.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 08
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 08: Mavericks vs. Pistons (12.18 8:30 PM ET)
 http://2atv.xyz:83/live/os4124/os1234/822069.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 09
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 09: Nuggets vs. Magic (12.18 9:00 PM ET)
 http://2atv.xyz:83/live/os4124/os1234/822070.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 10
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 10: Suns vs. Warriors (12.18 9:00 PM ET)
 http://2atv.xyz:83/live/os4124/os1234/822071.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 11
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 11: Jazz vs. Lakers (12.18 9:00 PM ET)
 http://2atv.xyz:83/live/os4124/os1234/822072.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 12
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 12: Trail Blazers vs Kings (12.18 10:00 PM ET)
 http://2atv.xyz:83/live/os4124/os1234/822073.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NBA",NBA 13
 http://2atv.xyz:83/live/os4124/os1234/822074.m3u8
@@ -4460,127 +4464,127 @@ http://2atv.xyz:83/live/os4124/os1234/815078.m3u8
 http://2atv.xyz:83/live/os4124/os1234/815079.m3u8
 
 # --- NCAA BASKETBALL (243) ---
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvFfofPz-bqeCA6f52sPB_RE0WfVF5OLgXLIHZ0rNhwsig.png" group-title="NCAA BASKETBALL",NCAAB 001: AGNES SCOTT COLLEGE @ SOUTH CAROLINA UPSTATE (W) | 12.17 11:00 AM | ESPN+
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvFfofPz-bqeCA6f52sPB_RE0WfVF5OLgXLIHZ0rNhwsig.png" group-title="NCAA BASKETBALL",NCAAB 001: NORTH FLORIDA @ CHARLESTON SOUTHERN (M) | 12.18 11:00 AM | ESPN+
 http://2atv.xyz:83/live/os4124/os1234/822172.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvFUMcB0HWOWifALnPlIhy3thONsEPiId-jkTr7xMqymxw.png" group-title="NCAA BASKETBALL",NCAAB 002: APP STATE @ MARSHALL (W) | 12.17 11:00 AM | ESPN+
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvFUMcB0HWOWifALnPlIhy3thONsEPiId-jkTr7xMqymxw.png" group-title="NCAA BASKETBALL",NCAAB 002: ARKANSAS-PINE BLUFF @ TULSA (W) | 12.18 12:00 PM | ESPN+
 http://2atv.xyz:83/live/os4124/os1234/822173.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvGC3Bby3G-BUywdb3CdD6yKZ5LhWVRHW-JI3MylSpQqng.png" group-title="NCAA BASKETBALL",NCAAB 003: CLEMSON @ CHARLESTON SOUTHERN (W) | 12.17 11:00 AM | ESPN+
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvGC3Bby3G-BUywdb3CdD6yKZ5LhWVRHW-JI3MylSpQqng.png" group-title="NCAA BASKETBALL",NCAAB 003: LOYOLA CHICAGO @ NORTHWESTERN (W) | 12.18 12:00 PM | B1G+
 http://2atv.xyz:83/live/os4124/os1234/822174.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvHyRN0NxwCMDoL1k810y91xInyG3yl2LcXITsppt5gduw.png" group-title="NCAA BASKETBALL",NCAAB 004: LA SALLE @ DELAWARE (W) | 12.17 11:00 AM | ESPN+
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvHyRN0NxwCMDoL1k810y91xInyG3yl2LcXITsppt5gduw.png" group-title="NCAA BASKETBALL",NCAAB 004: PORTLAND @ OREGON (W) | 12.18 2:00 PM | B1G+
 http://2atv.xyz:83/live/os4124/os1234/822175.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvGq4JhhAMKPCFJvq8XctaLxlc6ggPK87nuDa7ds7CP3pg.png" group-title="NCAA BASKETBALL",NCAAB 005: TROY @ OLD DOMINION (W) | 12.17 11:00 AM | ESPN+
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvGq4JhhAMKPCFJvq8XctaLxlc6ggPK87nuDa7ds7CP3pg.png" group-title="NCAA BASKETBALL",NCAAB 005: SIU EDWARDSVILLE @ EASTERN ILLINOIS (W) | 12.18 4:00 PM | ESPN+
 http://2atv.xyz:83/live/os4124/os1234/822176.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvGb0_A3ieOiwhSiKzQO5CEGezkqE_xZSs5-mSdFbq8pkw.png" group-title="NCAA BASKETBALL",NCAAB 006: WINTHROP @ CHARLOTTE (W) | 12.17 11:00 AM | ESPN+
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvGb0_A3ieOiwhSiKzQO5CEGezkqE_xZSs5-mSdFbq8pkw.png" group-title="NCAA BASKETBALL",NCAAB 006: GEORGIA STATE @ GEORGIA SOUTHERN (W) | 12.18 5:00 PM | ESPN+
 http://2atv.xyz:83/live/os4124/os1234/822177.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvGZryz7MyB7Y-slf4f4DIw0Ge1d01Fn0UPr0TXC8B1fyQ.png" group-title="NCAA BASKETBALL",NCAAB 007: WOFFORD @ EAST CAROLINA (W) | 12.17 11:00 AM | ESPN+
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvGZryz7MyB7Y-slf4f4DIw0Ge1d01Fn0UPr0TXC8B1fyQ.png" group-title="NCAA BASKETBALL",NCAAB 007: HAMPTON @ JACKSON STATE (M) | 12.18 5:00 PM | ESPNU
 http://2atv.xyz:83/live/os4124/os1234/822178.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvFJn3jFki0zmQMMJb1Ee1MNa4hh-XKwdv5d_KX0yAg9bA.png" group-title="NCAA BASKETBALL",NCAAB 008: KANSAS CHRISTIAN @ CENTRAL ARKANSAS (M) | 12.17 12:00 PM | ESPN+
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvFJn3jFki0zmQMMJb1Ee1MNa4hh-XKwdv5d_KX0yAg9bA.png" group-title="NCAA BASKETBALL",NCAAB 008: LITTLE ROCK @ SOUTHERN INDIANA (W) | 12.18 6:00 PM | ESPN+
 http://2atv.xyz:83/live/os4124/os1234/822179.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvFOpKtJx6mXr9Up-C8bYDjn6_F7md4LoHT4rBhiMxcaEQ.png" group-title="NCAA BASKETBALL",NCAAB 009: SOUTHWESTERN CHRISTIAN @ RICE (M) | 12.17 12:15 PM | ESPN+
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvFOpKtJx6mXr9Up-C8bYDjn6_F7md4LoHT4rBhiMxcaEQ.png" group-title="NCAA BASKETBALL",NCAAB 009: MIAMI @ WAKE FOREST (W) | 12.18 6:00 PM | ACC EXTRA
 http://2atv.xyz:83/live/os4124/os1234/822180.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvFw_Uqez82svQK7YQTfxlmDIiN9wsN-lYqOavPl53cREg.png" group-title="NCAA BASKETBALL",NCAAB 010: JACKSONVILLE @ TEXAS TECH (W) | 12.17 12:30 PM | ESPN+
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvFw_Uqez82svQK7YQTfxlmDIiN9wsN-lYqOavPl53cREg.png" group-title="NCAA BASKETBALL",NCAAB 010: SAINT FRANCIS @ PITTSBURGH (W) | 12.18 6:00 PM | ACC EXTRA
 http://2atv.xyz:83/live/os4124/os1234/822181.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvGCiHRgpfZ_C6_Nj80Z8bAQCe2UTW6rJjUXQNVUD4rQrw.png" group-title="NCAA BASKETBALL",NCAAB 011: NORTH CAROLINA CENTRAL @ QUEENS UNIVERSITY (W) | 12.17 12:30 PM | ESPN+
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvGCiHRgpfZ_C6_Nj80Z8bAQCe2UTW6rJjUXQNVUD4rQrw.png" group-title="NCAA BASKETBALL",NCAAB 011: SOUTH ALABAMA @ SOUTHERN MISS (W) | 12.18 6:00 PM | ESPN+
 http://2atv.xyz:83/live/os4124/os1234/822182.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvHDkcABZ5YNWPKaxJT9BFwJoGP8_1wV2PoKtid3KSx4xg.png" group-title="NCAA BASKETBALL",NCAAB 012: WESLEYAN COLLEGE (GA) @ WEST GEORGIA (W) | 12.17 2:00 PM | ESPN+
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvHDkcABZ5YNWPKaxJT9BFwJoGP8_1wV2PoKtid3KSx4xg.png" group-title="NCAA BASKETBALL",NCAAB 012: UT MARTIN @ TENNESSEE STATE (W) | 12.18 6:00 PM | ESPN+
 http://2atv.xyz:83/live/os4124/os1234/822183.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvH8kPFeDE0Kcf_tTlGX5QAiZ5UPMTwuCE0FtxPU3ED2IQ.png" group-title="NCAA BASKETBALL",NCAAB 013: FLORIDA A&M @ FLORIDA (W) | 12.17 3:00 PM | SECN+
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvH8kPFeDE0Kcf_tTlGX5QAiZ5UPMTwuCE0FtxPU3ED2IQ.png" group-title="NCAA BASKETBALL",NCAAB 013: VIRGINIA TECH @ FLORIDA STATE (W) | 12.18 6:00 PM | ACC EXTRA
 http://2atv.xyz:83/live/os4124/os1234/822184.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvE7TYnY5BCPId96Z_U52xPKJSpbjK-rvlzSOQBQw-w6Iw.png" group-title="NCAA BASKETBALL",NCAAB 014: CHICAGO STATE @ UTAH TECH (W) | 12.17 4:00 PM | ESPN+
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvE7TYnY5BCPId96Z_U52xPKJSpbjK-rvlzSOQBQw-w6Iw.png" group-title="NCAA BASKETBALL",NCAAB 014: WESTERN ILLINOIS @ LINDENWOOD (W) | 12.18 6:00 PM | ESPN+
 http://2atv.xyz:83/live/os4124/os1234/822185.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvG7sdtBqyByfxqTxw8D26c2QHhNnD3IsG08u6kRX1OwyA.png" group-title="NCAA BASKETBALL",NCAAB 015: JACKSONVILLE STATE @ SAINT LOUIS (W) | 12.17 5:00 PM | ESPN+
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvG7sdtBqyByfxqTxw8D26c2QHhNnD3IsG08u6kRX1OwyA.png" group-title="NCAA BASKETBALL",NCAAB 015: COASTAL CAROLINA @ APP STATE (M) | 12.18 6:30 PM | ESPN+
 http://2atv.xyz:83/live/os4124/os1234/822186.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvF-r9KI9Oz3Y6xH3-XRU3MQfR4_3-r3XlCwks33nC6o9w.png" group-title="NCAA BASKETBALL",NCAAB 016: MISSISSIPPI VALLEY STATE @ 14 OLE MISS (W) | 12.17 5:00 PM | SECN+
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvF-r9KI9Oz3Y6xH3-XRU3MQfR4_3-r3XlCwks33nC6o9w.png" group-title="NCAA BASKETBALL",NCAAB 016: DAYTON @ WESTERN MICHIGAN (W) | 12.18 6:30 PM | ESPN+
 http://2atv.xyz:83/live/os4124/os1234/822187.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvFTQfDEboNyAKeCv8iIHs5pNxZV5K_iOhYAv2j0E0XhsQ.png" group-title="NCAA BASKETBALL",NCAAB 017: NORTHERN IOWA @ UIC (M) | 12.17 5:00 PM | ESPN+
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvFTQfDEboNyAKeCv8iIHs5pNxZV5K_iOhYAv2j0E0XhsQ.png" group-title="NCAA BASKETBALL",NCAAB 017: LIPSCOMB @ SAMFORD (W) | 12.18 6:30 PM | ESPN+
 http://2atv.xyz:83/live/os4124/os1234/822188.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvGLwwQoqZnlBmvhg44xIF0DZVXvuJ47OszYdeStzHGzPg.png" group-title="NCAA BASKETBALL",NCAAB 018: TULANE @ ALABAMA (W) | 12.17 5:00 PM | SECN+
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvGLwwQoqZnlBmvhg44xIF0DZVXvuJ47OszYdeStzHGzPg.png" group-title="NCAA BASKETBALL",NCAAB 018: MORRIS COLLEGE @ UNC ASHEVILLE (M) | 12.18 6:30 PM | ESPN+
 http://2atv.xyz:83/live/os4124/os1234/822189.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvFxCgMwiEx28z0ZEBuU-1XIWs6lQJTheM6N4Aibk-lLjg.png" group-title="NCAA BASKETBALL",NCAAB 019: EASTERN KENTUCKY @ 16 LOUISVILLE (W) | 12.17 6:00 PM | ACC NETWORK
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvFxCgMwiEx28z0ZEBuU-1XIWs6lQJTheM6N4Aibk-lLjg.png" group-title="NCAA BASKETBALL",NCAAB 019: NORFOLK STATE @ 21 OHIO STATE (W) | 12.18 6:30 PM | B1G+
 http://2atv.xyz:83/live/os4124/os1234/822190.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvF5fkCRDDvtxb263T9ToY_yLB4KeRKuVCHT5JWC5LE0Mw.png" group-title="NCAA BASKETBALL",NCAAB 020: JAMES MADISON @ COASTAL CAROLINA (W) | 12.17 6:00 PM | ESPN+
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvF5fkCRDDvtxb263T9ToY_yLB4KeRKuVCHT5JWC5LE0Mw.png" group-title="NCAA BASKETBALL",NCAAB 020: SIU EDWARDSVILLE @ EASTERN ILLINOIS (M) | 12.18 6:30 PM | ESPN+
 http://2atv.xyz:83/live/os4124/os1234/822191.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvGehAquGBe39wax6X2wzwawUfB-9WJqq6JOCaApbwe1IQ.png" group-title="NCAA BASKETBALL",NCAAB 021: LOUISIANA @ TEXAS STATE (W) | 12.17 6:00 PM | ESPN+
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvGehAquGBe39wax6X2wzwawUfB-9WJqq6JOCaApbwe1IQ.png" group-title="NCAA BASKETBALL",NCAAB 021: SOUTHEAST MISSOURI STATE @ TENNESSEE TECH (W) | 12.18 6:30 PM | ESPN+
 http://2atv.xyz:83/live/os4124/os1234/822192.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvGnFCElSDqhvxnvp70tTfEhSpKRYI_tgEEmJPpj26OQvQ.png" group-title="NCAA BASKETBALL",NCAAB 022: STONEHILL @ NEW HAMPSHIRE (M) | 12.17 6:00 PM | ESPN+
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvGnFCElSDqhvxnvp70tTfEhSpKRYI_tgEEmJPpj26OQvQ.png" group-title="NCAA BASKETBALL",NCAAB 022: 3 SOUTH CAROLINA @ SOUTH FLORIDA (W) | 12.18 7:00 PM | ESPN2
 http://2atv.xyz:83/live/os4124/os1234/822193.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvGj-GZiy0pOVisOkFd4Sb1JJWeyZ8MpZ3lASNnqWbA7RA.png" group-title="NCAA BASKETBALL",NCAAB 023: CREIGHTON @ XAVIER (M) | 12.17 6:30 PM | FS1
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvGj-GZiy0pOVisOkFd4Sb1JJWeyZ8MpZ3lASNnqWbA7RA.png" group-title="NCAA BASKETBALL",NCAAB 023: ALCORN STATE @ AUBURN (W) | 12.18 7:00 PM | SECN+
 http://2atv.xyz:83/live/os4124/os1234/822194.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvEO-Kfojgcoj0zHjJW8YEyAgH5q8ZWNa661DvjyOM6TmQ.png" group-title="NCAA BASKETBALL",NCAAB 024: IU COLUMBUS @ IU INDIANAPOLIS (W) | 12.17 6:30 PM | ESPN+
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvEO-Kfojgcoj0zHjJW8YEyAgH5q8ZWNa661DvjyOM6TmQ.png" group-title="NCAA BASKETBALL",NCAAB 024: AMERICAN UNIVERSITY @ VCU (M) | 12.18 7:00 PM | ESPN+
 http://2atv.xyz:83/live/os4124/os1234/822195.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvEN3eB4aBQm3N6ljHZXSlufPhDA4ws-oDAP3-j3yLtY1w.png" group-title="NCAA BASKETBALL",NCAAB 025: SAINT FRANCIS @ 23 FLORIDA (M) | 12.17 6:30 PM | SEC NETWORK
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvEN3eB4aBQm3N6ljHZXSlufPhDA4ws-oDAP3-j3yLtY1w.png" group-title="NCAA BASKETBALL",NCAAB 025: BRADLEY @ INDIANA STATE (M) | 12.18 7:00 PM | ESPN+
 http://2atv.xyz:83/live/os4124/os1234/822196.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvHQsP9qGa7JoDo6ASHwG6mq6TegotiuL3cWlhb2bmI45g.png" group-title="NCAA BASKETBALL",NCAAB 026: SIMMONS COLLEGE (KY) @ UNC ASHEVILLE (W) | 12.17 6:30 PM | ESPN+
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvHQsP9qGa7JoDo6ASHwG6mq6TegotiuL3cWlhb2bmI45g.png" group-title="NCAA BASKETBALL",NCAAB 026: DELAWARE STATE @ SAINT JOSEPHS (M) | 12.18 7:00 PM | ESPN+
 http://2atv.xyz:83/live/os4124/os1234/822197.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvEJ2g8v-UV6wfv_U-XklP6tcA-r-Tc_e3cgMqf-gzrAVw.png" group-title="NCAA BASKETBALL",NCAAB 027: TEXAS A&M-CORPUS CHRISTI @ STEPHEN F. AUSTIN (W) | 12.17 6:30 PM | ESPN+
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvEJ2g8v-UV6wfv_U-XklP6tcA-r-Tc_e3cgMqf-gzrAVw.png" group-title="NCAA BASKETBALL",NCAAB 027: FURMAN @ MANHATTAN (M) | 12.18 7:00 PM | ESPN+
 http://2atv.xyz:83/live/os4124/os1234/822198.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvHqH5jHtW6VXAuCM3CpShLcJDbuHmywyqkQ4ojqLz_VPw.png" group-title="NCAA BASKETBALL",NCAAB 028: 13 VANDERBILT @ MEMPHIS (M) | 12.17 7:00 PM | ESPN2
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvHqH5jHtW6VXAuCM3CpShLcJDbuHmywyqkQ4ojqLz_VPw.png" group-title="NCAA BASKETBALL",NCAAB 028: GARDNER-WEBB @ EAST TENNESSEE STATE (W) | 12.18 7:00 PM | ESPN+
 http://2atv.xyz:83/live/os4124/os1234/822199.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvF6I1UR1TynB2SzoJC509okykSZyluX5RByS8uwxb1dzA.png" group-title="NCAA BASKETBALL",NCAAB 029: ALABAMA STATE @ CINCINNATI (M) | 12.17 7:00 PM | ESPN+
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvF6I1UR1TynB2SzoJC509okykSZyluX5RByS8uwxb1dzA.png" group-title="NCAA BASKETBALL",NCAAB 029: GEORGIA TECH @ NC STATE (W) | 12.18 7:00 PM | ACC EXTRA
 http://2atv.xyz:83/live/os4124/os1234/822200.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvEmxwEa5FxF_A4jsJst--Yyt2oh194cIjVoGCioL4eBew.png" group-title="NCAA BASKETBALL",NCAAB 030: BINGHAMTON @ PITTSBURGH (M) | 12.17 7:00 PM | ACC EXTRA
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvEmxwEa5FxF_A4jsJst--Yyt2oh194cIjVoGCioL4eBew.png" group-title="NCAA BASKETBALL",NCAAB 030: LAFAYETTE @ CHARLOTTE (M) | 12.18 7:00 PM | ESPN+
 http://2atv.xyz:83/live/os4124/os1234/822201.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvETlmTxvSQXDSR4C7zlRuB7hg_1r-xSKewhAVyhOVFpdA.png" group-title="NCAA BASKETBALL",NCAAB 031: BREWTON-PARKER @ WEST GEORGIA (M) | 12.17 7:00 PM | ESPN+
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvETlmTxvSQXDSR4C7zlRuB7hg_1r-xSKewhAVyhOVFpdA.png" group-title="NCAA BASKETBALL",NCAAB 031: ORAL ROBERTS @ NORTH TEXAS (W) | 12.18 7:00 PM | ESPN+
 http://2atv.xyz:83/live/os4124/os1234/822202.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvE5UWLvKcN-5c_uiHUZTvlhrfFpY1SHuCmR_4DPMJ2PdQ.png" group-title="NCAA BASKETBALL",NCAAB 032: CENTRAL MICHIGAN @ VALPARAISO (W) | 12.17 7:00 PM | ESPN+
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvE5UWLvKcN-5c_uiHUZTvlhrfFpY1SHuCmR_4DPMJ2PdQ.png" group-title="NCAA BASKETBALL",NCAAB 032: PENN STATE HAZLETON @ LEHIGH (M) | 12.18 7:00 PM | ESPN+
 http://2atv.xyz:83/live/os4124/os1234/822203.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvE5UWLvKcN-5c_uiHUZTvlhrfFpY1SHuCmR_4DPMJ2PdQ.png" group-title="NCAA BASKETBALL",NCAAB 033: CHATTANOOGA @ BELLARMINE (M) | 12.17 7:00 PM | ESPN+
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvE5UWLvKcN-5c_uiHUZTvlhrfFpY1SHuCmR_4DPMJ2PdQ.png" group-title="NCAA BASKETBALL",NCAAB 033: SOUTH DAKOTA STATE @ DUKE (W) | 12.18 7:00 PM | ACC NETWORK
 http://2atv.xyz:83/live/os4124/os1234/822204.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvGgf0BM1nCYLlH7_cfK8UA3clbYB9bWnmBf7iRrHdD0EA.png" group-title="NCAA BASKETBALL",NCAAB 034: DRAKE @ INDIANA STATE (W) | 12.17 7:00 PM | ESPN+
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvGgf0BM1nCYLlH7_cfK8UA3clbYB9bWnmBf7iRrHdD0EA.png" group-title="NCAA BASKETBALL",NCAAB 034: SOUTHERN ILLINOIS @ BRADLEY (W) | 12.18 7:00 PM | ESPN+
 http://2atv.xyz:83/live/os4124/os1234/822205.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvGdhi9-zBVrlKCYmyo3OvIB_oAc2p6O-6WIkMriNWwU-w.png" group-title="NCAA BASKETBALL",NCAAB 035: EASTERN KENTUCKY @ JACKSONVILLE STATE (M) | 12.17 7:00 PM | ESPN+
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvGdhi9-zBVrlKCYmyo3OvIB_oAc2p6O-6WIkMriNWwU-w.png" group-title="NCAA BASKETBALL",NCAAB 035: SOUTHERN UTAH @ NORTHERN ARIZONA (M) | 12.18 7:00 PM | ESPN+
 http://2atv.xyz:83/live/os4124/os1234/822206.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvE6ON5hpRbbv3cw_14rfMZ3RFHi4hd0KLP5PtfY2Et6Zw.png" group-title="NCAA BASKETBALL",NCAAB 036: ELON @ UNC GREENSBORO (W) | 12.17 7:00 PM | ESPN+
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvE6ON5hpRbbv3cw_14rfMZ3RFHi4hd0KLP5PtfY2Et6Zw.png" group-title="NCAA BASKETBALL",NCAAB 036: TEMPLE @ DAVIDSON (M) | 12.18 7:00 PM | ESPN+
 http://2atv.xyz:83/live/os4124/os1234/822207.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvH5UIPvI8RBjKa6_SOWqSRCpvWw-Y0Mw7S71cssCw0MZw.png" group-title="NCAA BASKETBALL",NCAAB 037: ERSKINE @ MERCER (W) | 12.17 7:00 PM | ESPN+
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvH5UIPvI8RBjKa6_SOWqSRCpvWw-Y0Mw7S71cssCw0MZw.png" group-title="NCAA BASKETBALL",NCAAB 037: TOCCOA FALLS @ GARDNER-WEBB (M) | 12.18 7:00 PM | ESPN+
 http://2atv.xyz:83/live/os4124/os1234/822208.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvGjr03KYRkVICDNSbrtj2LGEIqcW0EHUHY8RXSPTQ5xWw.png" group-title="NCAA BASKETBALL",NCAAB 038: HIGH POINT @ DAVIDSON (W) | 12.17 7:00 PM | ESPN+
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvGjr03KYRkVICDNSbrtj2LGEIqcW0EHUHY8RXSPTQ5xWw.png" group-title="NCAA BASKETBALL",NCAAB 038: WESTERN CAROLINA @ 25 GEORGIA (M) | 12.18 7:00 PM | SECN+
 http://2atv.xyz:83/live/os4124/os1234/822209.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvHIMJzSE3gWLeXF9xjbgFbg-a-niEidiDtZHLKIPruXXw.png" group-title="NCAA BASKETBALL",NCAAB 039: LONGWOOD @ WAKE FOREST (M) | 12.17 7:00 PM | ACC EXTRA
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvHIMJzSE3gWLeXF9xjbgFbg-a-niEidiDtZHLKIPruXXw.png" group-title="NCAA BASKETBALL",NCAAB 039: HOUSTON CHRISTIAN @ NICHOLLS (W) | 12.18 7:30 PM | ESPN+
 http://2atv.xyz:83/live/os4124/os1234/822210.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvHVG39-uXL94cnUOe73mgLkNtssUlQRnNaDJ5nCGYnP-w.png" group-title="NCAA BASKETBALL",NCAAB 040: MARQUETTE @ 1 UCONN (W) | 12.17 7:00 PM | PEACOCK
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvHVG39-uXL94cnUOe73mgLkNtssUlQRnNaDJ5nCGYnP-w.png" group-title="NCAA BASKETBALL",NCAAB 040: INCARNATE WORD @ NEW ORLEANS (W) | 12.18 7:30 PM | ESPN+
 http://2atv.xyz:83/live/os4124/os1234/822211.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvHEolO7n8PHXmW5tn_wrCmcglIh0Imhn_URM-du1H_iiQ.png" group-title="NCAA BASKETBALL",NCAAB 041: MERCER @ UCF (M) | 12.17 7:00 PM | ESPN+
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvHEolO7n8PHXmW5tn_wrCmcglIh0Imhn_URM-du1H_iiQ.png" group-title="NCAA BASKETBALL",NCAAB 041: NORFOLK STATE @ GRAMBLING (M) | 12.18 7:30 PM | ESPNU
 http://2atv.xyz:83/live/os4124/os1234/822212.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvGe1-7b8daEMX5gFL_8FEnS9NRg280t71Mzf1Pg22xdkA.png" group-title="NCAA BASKETBALL",NCAAB 042: MERCYHURST @ SYRACUSE (M) | 12.17 7:00 PM | ACC EXTRA
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvGe1-7b8daEMX5gFL_8FEnS9NRg280t71Mzf1Pg22xdkA.png" group-title="NCAA BASKETBALL",NCAAB 042: UALBANY @ 13 VANDERBILT (W) | 12.18 7:30 PM | SECN+
 http://2atv.xyz:83/live/os4124/os1234/822213.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvGFPKzKHnA74509eb6l6yPmHmquLQMpfTMZBoHKWXLipw.png" group-title="NCAA BASKETBALL",NCAAB 043: MID-ATLANTIC CHRISTIAN @ NORTH CAROLINA CENTRAL (M) | 12.17 7:00 PM | ESPN+
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvGFPKzKHnA74509eb6l6yPmHmquLQMpfTMZBoHKWXLipw.png" group-title="NCAA BASKETBALL",NCAAB 043: BELLARMINE @ ARIZONA (W) | 12.18 8:00 PM | ESPN+
 http://2atv.xyz:83/live/os4124/os1234/822214.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvFchpwe2xdOowgFdoFxPj5OxnYM159YW01dL6t3Yo-Q_A.png" group-title="NCAA BASKETBALL",NCAAB 044: OAKLAND @ NORTHERN KENTUCKY (M) | 12.17 7:00 PM | ESPN+
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvFchpwe2xdOowgFdoFxPj5OxnYM159YW01dL6t3Yo-Q_A.png" group-title="NCAA BASKETBALL",NCAAB 044: DRAKE @ MURRAY STATE (M) | 12.18 8:00 PM | ESPN+
 http://2atv.xyz:83/live/os4124/os1234/822215.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvFYCg3I3J5jCA6wbNW_fpl9L1_g8Jp5tUP2F3aXpUBkYg.png" group-title="NCAA BASKETBALL",NCAAB 045: OLIVET @ CENTRAL MICHIGAN (M) | 12.17 7:00 PM | ESPN+
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvFYCg3I3J5jCA6wbNW_fpl9L1_g8Jp5tUP2F3aXpUBkYg.png" group-title="NCAA BASKETBALL",NCAAB 045: GEORGIA STATE @ GEORGIA SOUTHERN (M) | 12.18 8:00 PM | ESPN+
 http://2atv.xyz:83/live/os4124/os1234/822216.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8swL7NHu8yikcn6cKx7gcwF2gXCvlzzKuz3PSIFcNdZw_N89THWdXl-58o4NdBZ58uA.PNG" group-title="NCAA BASKETBALL",NCAAB 046: PRESBYTERIAN @ EAST CAROLINA (M) | 12.17 7:00 PM | ESPN+
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8swL7NHu8yikcn6cKx7gcwF2gXCvlzzKuz3PSIFcNdZw_N89THWdXl-58o4NdBZ58uA.PNG" group-title="NCAA BASKETBALL",NCAAB 046: KANSAS CITY @ OKLAHOMA STATE (M) | 12.18 8:00 PM | ESPN+
 http://2atv.xyz:83/live/os4124/os1234/822217.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8swL7NHu8yikcn6cKx7gcwF31ql_TKlsm0UKHD6DWfOd9wNH1MGhUKLd3-luj-m2uFA.PNG" group-title="NCAA BASKETBALL",NCAAB 047: SACRAMENTO STATE @ SAN FRANCISCO (W) | 12.17 7:00 PM | ESPN+
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8swL7NHu8yikcn6cKx7gcwF31ql_TKlsm0UKHD6DWfOd9wNH1MGhUKLd3-luj-m2uFA.PNG" group-title="NCAA BASKETBALL",NCAAB 047: ORAL ROBERTS @ TCU (M) | 12.18 8:00 PM | ESPN+
 http://2atv.xyz:83/live/os4124/os1234/822218.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8swL7NHu8yikcn6cKx7gcwF1AoB34dSgzBBPYUYYoemrAx1v-WgS7ZjTJdchpOy_geg.PNG" group-title="NCAA BASKETBALL",NCAAB 048: SIENA @ VERMONT (M) | 12.17 7:00 PM | ESPN+
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8swL7NHu8yikcn6cKx7gcwF1AoB34dSgzBBPYUYYoemrAx1v-WgS7ZjTJdchpOy_geg.PNG" group-title="NCAA BASKETBALL",NCAAB 048: SOUTHERN @ 15 BAYLOR (W) | 12.18 8:00 PM | ESPN+
 http://2atv.xyz:83/live/os4124/os1234/822219.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8swL7NHu8yikcn6cKx7gcwF2_9Jb5_M5r95GRAllKNfTwJHUv7uoY3cwjg_4AZKYGAw.PNG" group-title="NCAA BASKETBALL",NCAAB 049: SOUTHERN WESLEYAN @ SOUTH CAROLINA UPSTATE (M) | 12.17 7:00 PM | ESPN+
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8swL7NHu8yikcn6cKx7gcwF2_9Jb5_M5r95GRAllKNfTwJHUv7uoY3cwjg_4AZKYGAw.PNG" group-title="NCAA BASKETBALL",NCAAB 049: LITTLE ROCK @ SOUTHERN INDIANA (M) | 12.18 8:30 PM | ESPN+
 http://2atv.xyz:83/live/os4124/os1234/822220.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8swL7NHu8yikcn6cKx7gcwF1GKUWudd8GIUI48BjtcAy_pAXJ52gI2Sb2BJKRZLQNtg.PNG" group-title="NCAA BASKETBALL",NCAAB 050: TEXAS SOUTHERN @ NC STATE (M) | 12.17 7:00 PM | ACC EXTRA
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8swL7NHu8yikcn6cKx7gcwF1GKUWudd8GIUI48BjtcAy_pAXJ52gI2Sb2BJKRZLQNtg.PNG" group-title="NCAA BASKETBALL",NCAAB 050: LOUISIANA @ SOUTHERN MISS (M) | 12.18 8:30 PM | ESPN+
 http://2atv.xyz:83/live/os4124/os1234/822221.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8swL7NHu8yikcn6cKx7gcwF0Y1Jz-2yH6dLRr8Yvx4rJYb9PEdMRKEUZgOxqtL7ZMDw.PNG" group-title="NCAA BASKETBALL",NCAAB 051: UC SANTA BARBARA @ GREEN BAY (M) | 12.17 7:00 PM | ESPN+
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8swL7NHu8yikcn6cKx7gcwF0Y1Jz-2yH6dLRr8Yvx4rJYb9PEdMRKEUZgOxqtL7ZMDw.PNG" group-title="NCAA BASKETBALL",NCAAB 051: SOUTHEAST MISSOURI STATE @ TENNESSEE TECH (M) | 12.18 8:30 PM | ESPN+
 http://2atv.xyz:83/live/os4124/os1234/822222.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8swL7NHu8yikcn6cKx7gcwF3GFxW5-9CNg-HZ8CMbtJJWM3HstOrr2X8tf_NLKy877w.PNG" group-title="NCAA BASKETBALL",NCAAB 052: WAYNE STATE (MI) @ TOLEDO (W) | 12.17 7:00 PM | ESPN+
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8swL7NHu8yikcn6cKx7gcwF3GFxW5-9CNg-HZ8CMbtJJWM3HstOrr2X8tf_NLKy877w.PNG" group-title="NCAA BASKETBALL",NCAAB 052: UT MARTIN @ TENNESSEE STATE (M) | 12.18 8:30 PM | ESPN+
 http://2atv.xyz:83/live/os4124/os1234/822223.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8swL7NHu8yikcn6cKx7gcwF2wyChDqwedVDGzZnkqapGObo7TSiQUApnLI4kVR4z4XQ.PNG" group-title="NCAA BASKETBALL",NCAAB 053: YOUNGSTOWN STATE @ ROBERT MORRIS (M) | 12.17 7:00 PM | ESPN+
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8swL7NHu8yikcn6cKx7gcwF2wyChDqwedVDGzZnkqapGObo7TSiQUApnLI4kVR4z4XQ.PNG" group-title="NCAA BASKETBALL",NCAAB 053: WESTERN ILLINOIS @ LINDENWOOD (M) | 12.18 8:30 PM | ESPN+
 http://2atv.xyz:83/live/os4124/os1234/822224.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8swL7NHu8yikcn6cKx7gcwF02uwBugGYs--6t5Dn2dt4P5pEq0AJNL4-3n-vmRLI7tQ.PNG" group-title="NCAA BASKETBALL",NCAAB 054: ALABAMA STATE @ MISSISSIPPI STATE (W) | 12.17 7:30 PM | SECN+
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8swL7NHu8yikcn6cKx7gcwF02uwBugGYs--6t5Dn2dt4P5pEq0AJNL4-3n-vmRLI7tQ.PNG" group-title="NCAA BASKETBALL",NCAAB 054: EASTERN WASHINGTON @ UC SANTA BARBARA (W) | 12.18 9:00 PM | ESPN+
 http://2atv.xyz:83/live/os4124/os1234/822225.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8swL7NHu8yikcn6cKx7gcwF2UZ5Ytpe_LLULaCq92fBb-ONm40xwbJlCIoDfqdP_Xaw.PNG" group-title="NCAA BASKETBALL",NCAAB 055: CENTRAL ARKANSAS @ LOUISIANA TECH (W) | 12.17 7:30 PM | ESPN+
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8swL7NHu8yikcn6cKx7gcwF2UZ5Ytpe_LLULaCq92fBb-ONm40xwbJlCIoDfqdP_Xaw.PNG" group-title="NCAA BASKETBALL",NCAAB 055: ILLINOIS STATE @ SOUTHERN ILLINOIS (M) | 12.18 9:00 PM | ESPN+
 http://2atv.xyz:83/live/os4124/os1234/822226.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8swL7NHu8yikcn6cKx7gcwF3zfXwRsz2WKhGv8mhAv0Yy33_Qi6Nqthg4VmM-mhrZGg.PNG" group-title="NCAA BASKETBALL",NCAAB 056: CLEVELAND STATE @ UAB (M) | 12.17 7:30 PM | ESPN+
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8swL7NHu8yikcn6cKx7gcwF3zfXwRsz2WKhGv8mhAv0Yy33_Qi6Nqthg4VmM-mhrZGg.PNG" group-title="NCAA BASKETBALL",NCAAB 056: MONTANA-WESTERN @ IDAHO STATE (M) | 12.18 9:00 PM | ESPN+
 http://2atv.xyz:83/live/os4124/os1234/822227.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8swL7NHu8yikcn6cKx7gcwF1RkOVK4vencK-TqU9u8CLjBV8IaHnvAHT-xpj0Q2w28g.PNG" group-title="NCAA BASKETBALL",NCAAB 057: EVANSVILLE @ BELMONT (W) | 12.17 7:30 PM | ESPN+
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8swL7NHu8yikcn6cKx7gcwF1RkOVK4vencK-TqU9u8CLjBV8IaHnvAHT-xpj0Q2w28g.PNG" group-title="NCAA BASKETBALL",NCAAB 057: NORTHERN ARIZONA @ CAL STATE NORTHRIDGE (W) | 12.18 9:00 PM | ESPN+
 http://2atv.xyz:83/live/os4124/os1234/822228.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8swL7NHu8yikcn6cKx7gcwF1CxBgmdlccnn9mP1522Xf3sSQF9EMIIIr2XWy-6ytILw.PNG" group-title="NCAA BASKETBALL",NCAAB 058: HASKELL @ KANSAS (W) | 12.17 7:30 PM | ESPN+
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8swL7NHu8yikcn6cKx7gcwF1CxBgmdlccnn9mP1522Xf3sSQF9EMIIIr2XWy-6ytILw.PNG" group-title="NCAA BASKETBALL",NCAAB 058: UC IRVINE @ UTEP (W) | 12.18 9:00 PM | ESPN+
 http://2atv.xyz:83/live/os4124/os1234/822229.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8swL7NHu8yikcn6cKx7gcwF1fewCE_XvblAxawPzHa5XgfwtmnSojuicxgguOdfYT1g.PNG" group-title="NCAA BASKETBALL",NCAAB 059: HOUSTON CHRISTIAN @ NICHOLLS (M) | 12.17 7:30 PM | ESPN+
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8swL7NHu8yikcn6cKx7gcwF1fewCE_XvblAxawPzHa5XgfwtmnSojuicxgguOdfYT1g.PNG" group-title="NCAA BASKETBALL",NCAAB 059: NOBEL @ CAL STATE BAKERSFIELD (M) | 12.18 9:30 PM | ESPN+
 http://2atv.xyz:83/live/os4124/os1234/822230.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8swL7NHu8yikcn6cKx7gcwF1XgHWEyo6ROqwXG8o2TW5iDYQBPpjX9V9ox3gdkUDbNg.PNG" group-title="NCAA BASKETBALL",NCAAB 060: KANSAS CITY @ ARKANSAS (W) | 12.17 7:30 PM | SECN+
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8swL7NHu8yikcn6cKx7gcwF1XgHWEyo6ROqwXG8o2TW5iDYQBPpjX9V9ox3gdkUDbNg.PNG" group-title="NCAA BASKETBALL",NCAAB 060: CAL POLY @ 19 USC (W) | 12.18 10:00 PM | B1G+
 http://2atv.xyz:83/live/os4124/os1234/822231.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8swL7NHu8yikcn6cKx7gcwF2wEoNSoGmfGXkTqJylmfsGRKdykzFv2SWnuSuWSpyeQA.PNG" group-title="NCAA BASKETBALL",NCAAB 061: KENNESAW STATE @ MIDDLE TENNESSEE (M) | 12.17 7:30 PM | ESPN+
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8swL7NHu8yikcn6cKx7gcwF2wEoNSoGmfGXkTqJylmfsGRKdykzFv2SWnuSuWSpyeQA.PNG" group-title="NCAA BASKETBALL",NCAAB 061: PEPPERDINE @ LONG BEACH STATE (M) | 12.18 10:00 PM | ESPN+
 http://2atv.xyz:83/live/os4124/os1234/822232.m3u8
 #EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8swL7NHu8yikcn6cKx7gcwF3z1wx99LrdHSgoVCPIUQczYDc-mykJDiMd34ERmL8v1A.PNG" group-title="NCAA BASKETBALL",NCAAB 062: LOUISIANA TECH @ TULANE (M) | 12.17 7:30 PM | ESPN+
 http://2atv.xyz:83/live/os4124/os1234/822233.m3u8
@@ -4948,7 +4952,7 @@ http://2atv.xyz:83/live/os4124/os1234/822414.m3u8
 http://2atv.xyz:83/live/os4124/os1234/822415.m3u8
 
 # --- NCAA FOOTBALL (140) ---
-#EXTINF:-1 tvg-logo="" group-title="NCAA FOOTBALL",NCAAF 001: STAFFDNA CURE BOWL | OLD DOMINION @ USF | 12.17 5:00 PM | ESPN
+#EXTINF:-1 tvg-logo="" group-title="NCAA FOOTBALL",NCAAF 001: XBOX BOWL | MISSOURI STATE @ ARKANSAS STATE | 12.18 9:00 PM | ESPN2
 http://2atv.xyz:83/live/os4124/os1234/824216.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NCAA FOOTBALL",NCAAF 002: 68 VENTURES BOWL | LOUISIANA @ DELAWARE | 12.17 8:30 PM | ESPN
 http://2atv.xyz:83/live/os4124/os1234/824217.m3u8
@@ -5240,11 +5244,11 @@ http://2atv.xyz:83/live/os4124/os1234/790859.m3u8
 http://2atv.xyz:83/live/os4124/os1234/793168.m3u8
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/7/7b/NFL_Network_Redzone.png/225px-NFL_Network_Redzone.png" group-title="NFL",USA: NFL REDZONE
 http://2atv.xyz:83/live/os4124/os1234/789809.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/new/NFL/NFL_01_.PNG" group-title="NFL",NFL 01: No games scheduled
+#EXTINF:-1 tvg-logo="https://puddintap.click/ico/new/NFL/NFL_01_.PNG" group-title="NFL",NFL 01: Rams vs. Seahawks (12.18 8:15 PM ET)
 http://2atv.xyz:83/live/os4124/os1234/789453.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/new/NFL/NFL_02_.png" group-title="NFL",NFL 02
+#EXTINF:-1 tvg-logo="https://puddintap.click/ico/new/NFL/NFL_02_.png" group-title="NFL",NFL 02: Rams vs. Seahawks (12.18 8:15 PM ET)
 http://2atv.xyz:83/live/os4124/os1234/789454.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/new/NFL/NFL_03_.png" group-title="NFL",NFL 03
+#EXTINF:-1 tvg-logo="https://puddintap.click/ico/new/NFL/NFL_03_.png" group-title="NFL",NFL 03: Rams vs. Seahawks (12.18 8:15 PM ET)
 http://2atv.xyz:83/live/os4124/os1234/789455.m3u8
 #EXTINF:-1 tvg-logo="https://puddintap.click/ico/new/NFL/NFL_05_.png" group-title="NFL",NFL 05
 http://2atv.xyz:83/live/os4124/os1234/789457.m3u8
@@ -5266,7 +5270,7 @@ http://2atv.xyz:83/live/os4124/os1234/789466.m3u8
 http://2atv.xyz:83/live/os4124/os1234/789467.m3u8
 #EXTINF:-1 tvg-logo="https://puddintap.click/ico/new/NFL/NFL_16_.png" group-title="NFL",NFL 16
 http://2atv.xyz:83/live/os4124/os1234/789468.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NFL",NFL SD 01: No games scheduled
+#EXTINF:-1 tvg-logo="" group-title="NFL",NFL SD 01: Rams vs. Seahawks (12.18 8:15 PM ET)
 http://2atv.xyz:83/live/os4124/os1234/789469.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NFL",NFL SD 03
 http://2atv.xyz:83/live/os4124/os1234/789471.m3u8
@@ -5309,24 +5313,22 @@ http://2atv.xyz:83/live/os4124/os1234/824817.m3u8
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/08/CBS-Symbol.png" group-title="NFL",NFL : CBS
 http://2atv.xyz:83/live/os4124/os1234/790861.m3u8
 
-# --- NHL (16) ---
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/inICU-NdeMFmEhiOlrOCNtICxJevaIUCvsvSxMoRQQvu8uzcgiP9td8mHiAxUucR.png" group-title="NHL",NHL 01: Kings vs. Panthers (12.17 7:00 PM ET)
+# --- NHL (15) ---
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/inICU-NdeMFmEhiOlrOCNtICxJevaIUCvsvSxMoRQQvu8uzcgiP9td8mHiAxUucR.png" group-title="NHL",NHL 01: Oilers vs. Bruins (12.18 7:00 PM ET)
 http://2atv.xyz:83/live/os4124/os1234/822076.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/inICU-NdeMFmEhiOlrOCNtICxJevaIUCvsvSxMoRQQv7CxwGgYK9lSJd4YO-fEAu.png" group-title="NHL",NHL 02: Mammoth vs. Red Wings (12.17 7:30 PM ET)
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/inICU-NdeMFmEhiOlrOCNtICxJevaIUCvsvSxMoRQQv7CxwGgYK9lSJd4YO-fEAu.png" group-title="NHL",NHL 02: Blackhawks vs. Canadiens (12.18 7:00 PM ET)
 http://2atv.xyz:83/live/os4124/os1234/822077.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/inICU-NdeMFmEhiOlrOCNtICxJevaIUCvsvSxMoRQQuJCRP71zarGhiKoaZnLZni.png" group-title="NHL",NHL 04: Hurricanes vs. Predators (12.17 8:00 PM ET)
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/inICU-NdeMFmEhiOlrOCNtICxJevaIUCvsvSxMoRQQtHS5DjjgNG1E4_G1d4r6Kw.png" group-title="NHL",NHL 03: Penguins vs. Senators (12.18 7:00 PM ET)
+http://2atv.xyz:83/live/os4124/os1234/822078.m3u8
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/inICU-NdeMFmEhiOlrOCNtICxJevaIUCvsvSxMoRQQuJCRP71zarGhiKoaZnLZni.png" group-title="NHL",NHL 04: Kings vs. Lightning (12.18 7:00 PM ET)
 http://2atv.xyz:83/live/os4124/os1234/822079.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/inICU-NdeMFmEhiOlrOCNtICxJevaIUCvsvSxMoRQQuFfd4_I3m8qEDENMjTncEK.png" group-title="NHL",NHL 05: Devils vs. Golden Knights (12.17 10:00 PM ET)
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/inICU-NdeMFmEhiOlrOCNtICxJevaIUCvsvSxMoRQQuFfd4_I3m8qEDENMjTncEK.png" group-title="NHL",NHL 05: Maple Leafs vs. Capitals (12.18 7:00 PM ET)
 http://2atv.xyz:83/live/os4124/os1234/822080.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/inICU-NdeMFmEhiOlrOCNtICxJevaIUCvsvSxMoRQQsvlz3m78ZKgTTzTho8RRY1.png" group-title="NHL",NHL 06
-http://2atv.xyz:83/live/os4124/os1234/822081.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/inICU-NdeMFmEhiOlrOCNtICxJevaIUCvsvSxMoRQQsDH7zHlnGNqyJCqjAC_R77.png" group-title="NHL",NHL 07
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/inICU-NdeMFmEhiOlrOCNtICxJevaIUCvsvSxMoRQQsDH7zHlnGNqyJCqjAC_R77.png" group-title="NHL",NHL 07: Flyers vs. Sabres (12.18 7:30 PM ET)
 http://2atv.xyz:83/live/os4124/os1234/822082.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/inICU-NdeMFmEhiOlrOCNtICxJevaIUCvsvSxMoRQQsGv4CjDOFqcs2vI8ogkteb.png" group-title="NHL",NHL 08
-http://2atv.xyz:83/live/os4124/os1234/822083.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/inICU-NdeMFmEhiOlrOCNtICxJevaIUCvsvSxMoRQQuc1xm3J9GawtLBoMmdge7V.png" group-title="NHL",NHL 09
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/inICU-NdeMFmEhiOlrOCNtICxJevaIUCvsvSxMoRQQuc1xm3J9GawtLBoMmdge7V.png" group-title="NHL",NHL 09: Kraken vs. Flames (12.18 9:00 PM ET)
 http://2atv.xyz:83/live/os4124/os1234/822084.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/inICU-NdeMFmEhiOlrOCNtICxJevaIUCvsvSxMoRQQt65hSPkG9iJ46gJMW2e9bs.png" group-title="NHL",NHL 10
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/inICU-NdeMFmEhiOlrOCNtICxJevaIUCvsvSxMoRQQt65hSPkG9iJ46gJMW2e9bs.png" group-title="NHL",NHL 10: Stars vs. Sharks (12.18 10:00 PM ET)
 http://2atv.xyz:83/live/os4124/os1234/822085.m3u8
 #EXTINF:-1 tvg-logo="https://brybar.cx:443/images/inICU-NdeMFmEhiOlrOCNtICxJevaIUCvsvSxMoRQQtnI-oR8sMbNyaKZ9yHUNkj.png" group-title="NHL",NHL 11
 http://2atv.xyz:83/live/os4124/os1234/822086.m3u8
@@ -5564,9 +5566,9 @@ http://2atv.xyz:83/live/os4124/os1234/780353.m3u8
 http://2atv.xyz:83/live/os4124/os1234/780354.m3u8
 
 # --- PPV | EVENTS (70) ---
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvGWMGw6BdJQju82kD0i7qOSJM8Lf5W7KTgVOAQJI5LHjQ.png" group-title="PPV | EVENTS",EVENT 01: PRELIMS Visioli vs. Howarth (12.17 12:00 PM ET)
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvGWMGw6BdJQju82kD0i7qOSJM8Lf5W7KTgVOAQJI5LHjQ.png" group-title="PPV | EVENTS",EVENT 01: FFC 100 (12.18 10:00 PM ET)
 http://2atv.xyz:83/live/os4124/os1234/822716.m3u8
-#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvHJJcnFearhaGepDJ5GmjdW2F053Qec1M11ltI3GBfXuA.png" group-title="PPV | EVENTS",EVENT 02: Visioli vs. Howarth (12.17 2:00 PM ET)
+#EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvHJJcnFearhaGepDJ5GmjdW2F053Qec1M11ltI3GBfXuA.png" group-title="PPV | EVENTS",EVENT 02: Wrestling Revolver Holiday Special (12.18 8:00 PM ET)
 http://2atv.xyz:83/live/os4124/os1234/822717.m3u8
 #EXTINF:-1 tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvF2Qb2dlGDAu57eYRi3Oncs3RMB9Ux3ByKORPOCmP3xEg.png" group-title="PPV | EVENTS",EVENT 03:
 http://2atv.xyz:83/live/os4124/os1234/822718.m3u8
@@ -5922,45 +5924,45 @@ http://2atv.xyz:83/live/os4124/os1234/824714.m3u8
 http://2atv.xyz:83/live/os4124/os1234/824715.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Paramount+",US (Paramount 100) | Midday Rundown (2025-09-18 11:00:00)
 http://2atv.xyz:83/live/os4124/os1234/824716.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Paramount+",US (Paramount 001) | UEFA Women`s Champions League: Paris FC vs. Barcelona (2025-12-17 14:30:00)
+#EXTINF:-1 tvg-logo="" group-title="Paramount+",US (Paramount 001) | Serie A: Napoli vs. Milan (2025-12-18 14:30:00)
 http://2atv.xyz:83/live/os4124/os1234/824717.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Paramount+",US (Paramount 002) | UEFA Women`s Champions League: Wolfsburg vs. Chelsea (2025-12-17 14:30:05)
+#EXTINF:-1 tvg-logo="" group-title="Paramount+",US (Paramount 002) | English Football League: Reading vs. Luton Town (2025-12-18 15:50:00)
 http://2atv.xyz:83/live/os4124/os1234/824718.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Paramount+",US (Paramount 003) | UEFA Women`s Champions League: OH Leuven vs. Arsenal (2025-12-17 14:30:10)
+#EXTINF:-1 tvg-logo="" group-title="Paramount+",US (Paramount 003) | UEFA Conference League: Crystal Palace vs. KuPS Kuopio (2025-12-18 15:50:05)
 http://2atv.xyz:83/live/os4124/os1234/824719.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Paramount+",US (Paramount 004) | UEFA Women`s Champions League: The Golazo Show (2025-12-17 14:30:15)
+#EXTINF:-1 tvg-logo="" group-title="Paramount+",US (Paramount 004) | UEFA Conference League: Rayo Vallecano vs. Drita (2025-12-18 15:50:10)
 http://2atv.xyz:83/live/os4124/os1234/824720.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Paramount+",US (Paramount 005) | UEFA Women`s Champions League: Juventus vs. Man. United (2025-12-17 14:30:20)
+#EXTINF:-1 tvg-logo="" group-title="Paramount+",US (Paramount 005) | UEFA Conference League: Mainz vs. Samsunspor (2025-12-18 15:50:15)
 http://2atv.xyz:83/live/os4124/os1234/824721.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Paramount+",US (Paramount 006) | UEFA Women`s Champions League: FC Twente vs. Real Madrid (2025-12-17 14:30:25)
+#EXTINF:-1 tvg-logo="" group-title="Paramount+",US (Paramount 006) | UEFA Conference League: AEK Athens vs. U. Craiova (2025-12-18 15:50:20)
 http://2atv.xyz:83/live/os4124/os1234/824722.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Paramount+",US (Paramount 007) | UEFA Women`s Champions League: Lyonnes vs. AtlÃ©tico Madrid (2025-12-17 14:30:30)
+#EXTINF:-1 tvg-logo="" group-title="Paramount+",US (Paramount 007) | UEFA Conference League: Shamrock Rovers vs. Hamrun Spartans (2025-12-18 15:50:25)
 http://2atv.xyz:83/live/os4124/os1234/824723.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Paramount+",US (Paramount 008) | UEFA Women`s Champions League: Benfica vs. PSG (2025-12-17 14:30:35)
+#EXTINF:-1 tvg-logo="" group-title="Paramount+",US (Paramount 008) | UEFA Conference League: AEK Larnaca vs. ShkÃ«ndija (2025-12-18 15:50:30)
 http://2atv.xyz:83/live/os4124/os1234/824724.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Paramount+",US (Paramount 009) | UEFA Women`s Champions League: Bayern vs. VÃ¥lerenga (2025-12-17 14:30:40)
+#EXTINF:-1 tvg-logo="" group-title="Paramount+",US (Paramount 009) | UEFA Conference League: Legia Warszawa vs. L. Red Imps (2025-12-18 15:50:35)
 http://2atv.xyz:83/live/os4124/os1234/824725.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Paramount+",US (Paramount 010) | UEFA Women`s Champions League: Roma vs. St. PÃ¶lten (2025-12-17 14:30:45)
+#EXTINF:-1 tvg-logo="" group-title="Paramount+",US (Paramount 010) | UEFA Conference League: Strasbourg vs. BreiÃ°ablik (2025-12-18 15:50:40)
 http://2atv.xyz:83/live/os4124/os1234/824726.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Paramount+",US (Paramount 011) | Carabao Cup: Man. City vs. Brentford (2025-12-17 15:00:00)
+#EXTINF:-1 tvg-logo="" group-title="Paramount+",US (Paramount 011) | UEFA Conference League: Sigma Olomouc vs. Lech PoznaÅ„ (2025-12-18 15:50:45)
 http://2atv.xyz:83/live/os4124/os1234/824727.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Paramount+",US (Paramount 012) | Scottish Professional Football League: Dundee United vs. Celtic (2025-12-17 15:55:00)
+#EXTINF:-1 tvg-logo="" group-title="Paramount+",US (Paramount 012) | UEFA Conference League: AZ Alkmaar vs. Jagiellonia BiaÅ‚ystok (2025-12-18 15:50:50)
 http://2atv.xyz:83/live/os4124/os1234/824728.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Paramount+",US (Paramount 013) | Carabao Cup: Newcastle United vs. Fulham (2025-12-17 16:00:00)
+#EXTINF:-1 tvg-logo="" group-title="Paramount+",US (Paramount 013) | UEFA Conference League: Omonoia vs. RakÃ³w (2025-12-18 15:50:55)
 http://2atv.xyz:83/live/os4124/os1234/824729.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Paramount+",US (Paramount 014) | Serie A: Napoli vs. Milan (2025-12-18 14:30:00)
+#EXTINF:-1 tvg-logo="" group-title="Paramount+",US (Paramount 014) | UEFA Conference League: Dynamo Kyiv vs. Noah (2025-12-18 15:51:00)
 http://2atv.xyz:83/live/os4124/os1234/824730.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Paramount+",US (Paramount 015) | English Football League: Reading vs. Luton Town (2025-12-18 15:50:00)
+#EXTINF:-1 tvg-logo="" group-title="Paramount+",US (Paramount 015) | UEFA Conference League: Celje vs. Shelbourne (2025-12-18 15:51:05)
 http://2atv.xyz:83/live/os4124/os1234/824731.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Paramount+",US (Paramount 016) | UEFA Conference League: Crystal Palace vs. KuPS Kuopio (2025-12-18 15:50:05)
+#EXTINF:-1 tvg-logo="" group-title="Paramount+",US (Paramount 016) | UEFA Conference League: Sparta Praha vs. Aberdeen (2025-12-18 15:51:10)
 http://2atv.xyz:83/live/os4124/os1234/824732.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Paramount+",US (Paramount 017) | UEFA Conference League: Rayo Vallecano vs. Drita (2025-12-18 15:50:10)
+#EXTINF:-1 tvg-logo="" group-title="Paramount+",US (Paramount 017) | UEFA Conference League: Shakhtar Donetsk vs. Rijeka (2025-12-18 15:51:15)
 http://2atv.xyz:83/live/os4124/os1234/824733.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Paramount+",US (Paramount 018) | UEFA Conference League: Mainz vs. Samsunspor (2025-12-18 15:50:15)
+#EXTINF:-1 tvg-logo="" group-title="Paramount+",US (Paramount 018) | UEFA Conference League: Slovan Bratislava vs. HÃ¤cken (2025-12-18 15:51:20)
 http://2atv.xyz:83/live/os4124/os1234/824734.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Paramount+",US (Paramount 019) | UEFA Conference League: AEK Athens vs. U. Craiova (2025-12-18 15:50:20)
+#EXTINF:-1 tvg-logo="" group-title="Paramount+",US (Paramount 019) | UEFA Conference League: Lausanne_Sport vs. Fiorentina (2025-12-18 15:51:25)
 http://2atv.xyz:83/live/os4124/os1234/824735.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Paramount+",US (Paramount 020) | UEFA Conference League: Shamrock Rovers vs. Hamrun Spartans (2025-12-18 15:50:25)
+#EXTINF:-1 tvg-logo="" group-title="Paramount+",US (Paramount 020) | UEFA Conference League: Zrinjski vs. SK Rapid (2025-12-18 15:51:30)
 http://2atv.xyz:83/live/os4124/os1234/824736.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Paramount+",US (Paramount 021) | uefa_europa_conference_league: AEK Larnaca vs. ShkÃ«ndija (2025-12-18 15:50:30)
 http://2atv.xyz:83/live/os4124/os1234/824737.m3u8
@@ -6124,9 +6126,9 @@ http://2atv.xyz:83/live/os4124/os1234/824815.m3u8
 http://2atv.xyz:83/live/os4124/os1234/824816.m3u8
 
 # --- Peacock (100) ---
-#EXTINF:-1 tvg-logo="" group-title="Peacock",US (Peacock 001) | World Darts Champ: Day 7 (2025-12-17 14:00:00)
+#EXTINF:-1 tvg-logo="" group-title="Peacock",US (Peacock 001) | World Darts Champ: Day 8 Pt. 1 (2025-12-18 07:30:00)
 http://2atv.xyz:83/live/os4124/os1234/824352.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Peacock",US (Peacock 002) | Marquette vs. UConn (2025-12-17 18:30:00)
+#EXTINF:-1 tvg-logo="" group-title="Peacock",US (Peacock 002) | World Darts Champ: Day 8 Pt. 2 (2025-12-18 14:00:00)
 http://2atv.xyz:83/live/os4124/os1234/824353.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Peacock",US (Peacock 003) | World Darts Champ: Day 8 Pt. 1 (2025-12-18 07:30:00)
 http://2atv.xyz:83/live/os4124/os1234/824354.m3u8
@@ -6288,7 +6290,7 @@ http://2atv.xyz:83/live/os4124/os1234/824431.m3u8
 http://2atv.xyz:83/live/os4124/os1234/824432.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Peacock",US (Peacock 082) | Bucks vs. Hawks (2026-01-19 12:00:00)
 http://2atv.xyz:83/live/os4124/os1234/824433.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Peacock",US (Peacock 083) | Thunder vs. Cavaliers (2026-01-19 14:00:00)
+#EXTINF:-1 tvg-logo="" group-title="Peacock",US (Peacock 083) | Celtics vs. Pacers (2026-01-12 18:30:00)
 http://2atv.xyz:83/live/os4124/os1234/824434.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Peacock",US (Peacock 084) | Mavericks vs. Knicks (2026-01-19 17:00:00)
 http://2atv.xyz:83/live/os4124/os1234/824435.m3u8
@@ -8473,4 +8475,4 @@ http://2atv.xyz:83/live/os4124/os1234/798161.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WNBA",WNBA 15:
 http://2atv.xyz:83/live/os4124/os1234/798162.m3u8
 
-# Total: 4194
+# Total: 4195

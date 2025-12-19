@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 4smarts.xyz
-# Generated: 2025-12-18 18:34:52
+# Generated: 2025-12-19 07:08:24
 # Expires: 2026-01-01
 # Family Safe Edition
 # ==============================================
@@ -2355,7 +2355,19 @@ http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/10332.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS | GREECE",GR - ezel
 http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/9809.mp4
 
-# --- Movies | SRS | ITALY (2222) ---
+# --- Movies | SRS | ITALY (2228) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS | ITALY",IT - BAKI
+http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/48931.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS | ITALY",IT - Cybernella
+http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/48929.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS | ITALY",IT - Ginguiser
+http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/48928.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS | ITALY",IT - Ciao, Sabrina
+http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/48927.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS | ITALY",IT - Harlock Saga - The Ring of the Nibelungs
+http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/48926.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS | ITALY",IT - Tales of Zestiria: The Cross
+http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/48925.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS | ITALY",IT - Ugly Americans
 http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/48924.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS | ITALY",IT - My Melody & Kuromi
@@ -6801,7 +6813,11 @@ http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/8998.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS | ITALY",IT - Giornalisti
 http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/8977.mp4
 
-# --- Movies | SRS | JAPAN (180) ---
+# --- Movies | SRS | JAPAN (182) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS | JAPAN",JP - Last Samurai Standing
+http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/48935.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS | JAPAN",JP - Just a bit Espers
+http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/48933.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS | JAPAN",JP - Ignite
 http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/48467.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS | JAPAN",JP - Love Is for the Dogs
@@ -7163,7 +7179,13 @@ http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/10494.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS | JAPAN",JP - Good Morning Call
 http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/10368.mp4
 
-# --- Movies | SRS | KOREAN (858) ---
+# --- Movies | SRS | KOREAN (861) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS | KOREAN",KO - Will You Be My Manager?
+http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/48951.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS | KOREAN",KO - The 4th Love Revolution
+http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/48940.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS | KOREAN",KO - Don't Call Me Ma'am
+http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/48938.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS | KOREAN",KO - Good Boy
 http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/48722.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS | KOREAN",KO - Surely Tomorrow [MULTI-SUB]
@@ -9521,7 +9543,13 @@ http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/10505.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS | NETHERLAND",NL - Cook at all Costs
 http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/10500.mp4
 
-# --- Movies | SRS | PORTUGAL (1328) ---
+# --- Movies | SRS | PORTUGAL (1329) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS | PORTUGAL",PT - The Chair Company
+http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/48960.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS | PORTUGAL",PT - Anne with an E
+http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/48950.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS | PORTUGAL",PT - UniverXO Dabiz
+http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/48930.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS | PORTUGAL",PT - Ciudad de sombras
 http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/48791.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS | PORTUGAL",PT - Sem Deus
@@ -10772,8 +10800,6 @@ http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/30425.mp4
 http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/30376.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS | PORTUGAL",PT - Dragon Ball GT
 http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/30150.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | SRS | PORTUGAL",PT - Megabeast Investigator Juspion
-http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/30149.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS | PORTUGAL",PT - The Mechanism
 http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/29991.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS | PORTUGAL",PT - Cardcaptor Sakura
@@ -11278,8 +11304,6 @@ http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/26859.mp4
 http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/26807.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS | PORTUGAL",PT - The Last Dance
 http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/26800.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | SRS | PORTUGAL",PT - Anne with an E
-http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/26799.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS | PORTUGAL",PT - Young Sheldon
 http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/26795.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS | PORTUGAL",PT - Os 12 Macacos
@@ -25271,7 +25295,9 @@ http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/112271.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJqYDmyJffTk9ruvPt6B5WTPe9B.jpg" group-title="Movies | VOD | IN | KANNADA",IN - KANNADA - Love Mocktail - 2020
 http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/112266.mkv
 
-# --- Movies | VOD | IN | MALAYALAM (921) ---
+# --- Movies | VOD | IN | MALAYALAM (922) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kbydhHW7IYMcdvn9jO9BdW4eUwk.jpg" group-title="Movies | VOD | IN | MALAYALAM",IN - MALAYALAM - Dominic and the Ladies Purse - 2025
+http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/1355879.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrFVQ5dNoyAIvgJHK8cflDnL6it.jpg" group-title="Movies | VOD | IN | MALAYALAM",IN - MALAYALAM - 12A Railway Colony - 2025
 http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/1354623.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/TrtThGbHgvUqyKJ459PxfQtbvZ.jpg" group-title="Movies | VOD | IN | MALAYALAM",IN - MALAYALAM - Aaromaley - 2025
@@ -33688,7 +33714,7 @@ http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/348102.mkv
 http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/348101.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGk1pKoWsNgVHb1k7Rr59Hph9Hh.jpg" group-title="Movies | VOD | IN | TELUGU",SIN - Trigger - 2022 [TELUGU]
 http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/348100.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gX8k6oKpIsWHpfWNz3Bu4wUuliA.jpg" group-title="Movies | VOD | IN | TELUGU",SIN - Bloody Daddy - 2023 [TELUGU]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gX8k6oKpIsWHpfWNz3Bu4wUuliA.jpg" group-title="Movies | VOD | IN | TELUGU",IN - TELUGU - Bloody Daddy - 2023
 http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/348099.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nygOUcBKPHFTbxsYRFZVePqgPK6.jpg" group-title="Movies | VOD | IN | TELUGU",SIN - Extraction - 2020 [TELUGU]
 http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/348098.mkv
@@ -39499,4 +39525,4 @@ http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/77935.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5l0fbsSD46Xm7bYXnQxczG5WGjn.jpg" group-title="Movies | VOD | SPORTS",FR - The Champions League - 2018
 http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/45591.mkv
 
-# Total: 19722
+# Total: 19735

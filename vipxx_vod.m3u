@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: vipxx.p-0101.pw:80
-# Generated: 2025-12-18 18:37:02
+# Generated: 2025-12-19 07:10:25
 # Expires: 2026-08-12
 # Family Safe Edition
 # ==============================================
@@ -11369,7 +11369,7 @@ http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/4377.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR|DİZİ • Türk Seri Diziler (Devam eden)",Rüya Gibi (2025)
 http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/4472.mp4
 
-# --- Movies | TR|DİZİ • Yabancı Dizi  TR Dublaj (236) ---
+# --- Movies | TR|DİZİ • Yabancı Dizi  TR Dublaj (237) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR|DİZİ • Yabancı Dizi  TR Dublaj",Deadline Gallipoli
 http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/264.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR|DİZİ • Yabancı Dizi  TR Dublaj",American Horror Stories
@@ -11842,6 +11842,8 @@ http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/4508.mp4
 http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/4510.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR|DİZİ • Yabancı Dizi  TR Dublaj",This Way Up (2019)
 http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/4521.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR|DİZİ • Yabancı Dizi  TR Dublaj",Grosse Pointe Garden Society (2025)
+http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/4523.mp4
 
 # --- Movies | TR|DİZİ • Youtube | Eğlence (2) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR|DİZİ • Youtube | Eğlence",Hayrettin ile Kaos Show (2024)
@@ -22133,7 +22135,7 @@ http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/370323.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eEvqFlmn7d8prqRVaFJ5pjJFHuB.jpg" group-title="Movies | TR|FİLM • Tr Altyazı Sinema",Gimme Shelter (2013)
 http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/370401.mp4
 
-# --- Movies | TR|FİLM • Tr Altyazı Sinema 2025 (339) ---
+# --- Movies | TR|FİLM • Tr Altyazı Sinema 2025 (340) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/TVvIyCsFCmLk9MRLbAZi4X8f32.jpg" group-title="Movies | TR|FİLM • Tr Altyazı Sinema 2025",Sniper: The Last Stand (2025)
 http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/333252.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fAXDQny8kEquc1BImiQHhYMGSsW.jpg" group-title="Movies | TR|FİLM • Tr Altyazı Sinema 2025",The Damned (2025)
@@ -22812,6 +22814,8 @@ http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/370899.mp4
 http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/370900.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xhIeXsIybA0rgQ6xLfy2yqFFWZf.jpg" group-title="Movies | TR|FİLM • Tr Altyazı Sinema 2025",Influencers (2025)
 http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/370901.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/o25Tk1FYQi2BLk0OEAvx2h69QvB.jpg" group-title="Movies | TR|FİLM • Tr Altyazı Sinema 2025",The Shadow's Edge (2025)
+http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/370977.mp4
 
 # --- Movies | TR|FİLM • Yabanci Sinema 2017/18/19/20 (302) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1fUcKFDy58DhWYd5Y7Nu5DgpxaE.jpg" group-title="Movies | TR|FİLM • Yabanci Sinema 2017/18/19/20",Operation Christmas Drop (2020)
@@ -31869,4 +31873,4 @@ http://vipxx.p-0101.pw:80/series/vpplus1129/6BQhtYhdLF/4440
 #EXTINF:-1 tvg-logo="" group-title="Series | DE|SERIES • Sky.de",[2025 DE] I Love LA
 http://vipxx.p-0101.pw:80/series/vpplus1129/6BQhtYhdLF/4490
 
-# Total: 15822
+# Total: 15824

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 4smarts.xyz
-# Generated: 2025-12-18 18:34:52
+# Generated: 2025-12-19 07:08:24
 # Expires: 2026-01-01
 # Family Safe Edition
 # ==============================================
@@ -2377,7 +2377,7 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/149625.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2_FRENCH2.png" group-title="AR | BEIN SPORTS 4K",AR - BEIN SPORTS FRENCH 2 UHD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/211673.m3u8
 
-# --- AR | BEIN SPORTS MAX (41) ---
+# --- AR | BEIN SPORTS MAX (45) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/bein/bein-sports-special.png" group-title="AR | BEIN SPORTS MAX",#### AR - BEIN SPORTS MAX #####
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/986991.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_1.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 1 4K
@@ -2454,12 +2454,20 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914599.m3u8
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914497.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_4.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 4 4K
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914475.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_4.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 4 4k²
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914588.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_4.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 4 FHD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914499.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_4.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 4 FHD²
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914518.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_4.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 4 HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914594.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_4.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 4 HD²
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914600.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_4.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 4  SD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914487.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_MAX_4.png" group-title="AR | BEIN SPORTS MAX",AR - BEIN SPORTS MAX 4 SD²
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/914498.m3u8
 
 # --- AS | MALAYSIA (243) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/MALAYSIA.png" group-title="AS | MALAYSIA",##### MY - MALAYSIA #####
@@ -10375,7 +10383,7 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1044111.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/che.png" group-title="EU | FRANCE SPORTS",FR - CHEVAL TV FHD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1296411.m3u8
 
-# --- EU | IRELAND (56) ---
+# --- EU | IRELAND (55) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/FLAGS/IRELAND2.png" group-title="EU | IRELAND",##### IRELAND #####
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1304804.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/IRELAND/RTE_ONE.png" group-title="EU | IRELAND",IE - RTE ONE
@@ -10394,17 +10402,15 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/349604.m3u8
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/349602.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/IRELAND/VIRGIN_MEDIA_THREE.png" group-title="EU | IRELAND",IE - VIRGIN MEDIA FOUR
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/957207.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/4tv.png" group-title="EU | IRELAND",IE - CHANNEL 4 NORTHEN IRELAND SD
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/4tv.png" group-title="EU | IRELAND",IE - CHANNEL 4 NORTHERN IRELAND FHD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/812122.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/IRELAND/S4C.png" group-title="EU | IRELAND",IE - S4C
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/349599.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/IRELAND/TG4.png" group-title="EU | IRELAND",IE - TG4
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/349600.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/IRELAND/FOOD_XP.png" group-title="EU | IRELAND",IE - FOOD XP
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/349603.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/FLAGS/IRELAND2.png" group-title="EU | IRELAND",##### IE - CLUBBER #####
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1304805.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/IRELAND/Clubber.png" group-title="EU | IRELAND",IE - CLUBBER 01 : TERENURE COLLEGE VS MARIST COLLEGE ATHLONE – 6:45 AM ET / 11:45 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/IRELAND/Clubber.png" group-title="EU | IRELAND",IE - CLUBBER 01 : ST PATRICKS NAVAN VS COLAISTE MHUIRE MULLINGAR – 7:30 AM ET / 12:30 PM UK
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/640936.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/IRELAND/Clubber.png" group-title="EU | IRELAND",IE - CLUBBER 02 :
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/640935.m3u8
@@ -13434,7 +13440,7 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/324815.m3u8
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/324816.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="EU | UK | SPORTS",##### UK - PDC BOARD #####
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1276863.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/PDC.png" group-title="EU | UK | SPORTS",UK - PDC BOARD 1 : 2025/26 WORLD CHAMPIONSHIPS DAY SIX – 8:30 AM ET / 1:30 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/PDC.png" group-title="EU | UK | SPORTS",UK - PDC BOARD 1 : 2025/26 WORLD CHAMPIONSHIPS DAY EIGHT – 3:00 PM ET / 8:00 PM UK
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/980421.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/PDC.png" group-title="EU | UK | SPORTS",UK - PDC BOARD 2 :
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/980422.m3u8
@@ -14302,7 +14308,7 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1095931.m3u8
 # --- VIP | BUNDESLIGA (40) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/FLAGS/flag_germany.png" group-title="VIP | BUNDESLIGA",##### DEUTSCH #####
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1017979.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",DE - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",DE - BORUSSIA DORTMUND - BORUSSIA M'GLADBACH 21:30 CET
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1100768.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",DE - NO MATCH
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1100767.m3u8
@@ -14322,7 +14328,7 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1017981.m3u8
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1017982.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="VIP | BUNDESLIGA",##### ENGLISH #####
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1017972.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",EN - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",EN - BORUSSIA DORTMUND - BORUSSIA M'GLADBACH 21:30 CET
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1100762.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",EN - NO MATCH
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1100761.m3u8
@@ -14342,7 +14348,7 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1017974.m3u8
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1017975.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/flag_france.png" group-title="VIP | BUNDESLIGA",##### FRENCH #####
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1017965.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",FR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",FR - BORUSSIA DORTMUND - BORUSSIA M'GLADBACH 21:30 CET
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1100764.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",FR - NO MATCH
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1100763.m3u8
@@ -14362,7 +14368,7 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1029738.m3u8
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1029737.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="VIP | BUNDESLIGA",##### ARABIC #####
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1005066.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",AR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",AR - BORUSSIA DORTMUND - BORUSSIA M'GLADBACH 21:30 CET
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1100766.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",AR - NO MATCH
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1100765.m3u8
@@ -14382,89 +14388,89 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1017968.m3u8
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1017969.m3u8
 
 # --- VIP | CHRISTMAS (42) ---
-#EXTINF:-1 tvg-logo="https://go4.pw/CHRISTAIN/CR.png" group-title="VIP | CHRISTMAS",##### XMAS #####
+#EXTINF:-1 tvg-logo="https://go4.pw/VIP/christmas.png" group-title="VIP | CHRISTMAS",##### XMAS #####
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1342605.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/Christmas.png" group-title="VIP | CHRISTMAS",XMAS - CHRISTMAS PLUS FHD
+#EXTINF:-1 tvg-logo="https://go4.pw/VIP/xmas.png" group-title="VIP | CHRISTMAS",XMAS - CHRISTMAS PLUS FHD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1340230.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/Christmas.png" group-title="VIP | CHRISTMAS",XMAS - CARTOONS FHD
+#EXTINF:-1 tvg-logo="https://go4.pw/VIP/xmas.png" group-title="VIP | CHRISTMAS",XMAS - CARTOONS FHD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1340320.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/Christmas.png" group-title="VIP | CHRISTMAS",XMAS - XMAS PREMIERE 1 HD
+#EXTINF:-1 tvg-logo="https://go4.pw/VIP/xmas.png" group-title="VIP | CHRISTMAS",XMAS - XMAS PREMIERE 1 HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1342477.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/Christmas.png" group-title="VIP | CHRISTMAS",XMAS - XMAS PREMIERE 2 HD
+#EXTINF:-1 tvg-logo="https://go4.pw/VIP/xmas.png" group-title="VIP | CHRISTMAS",XMAS - XMAS PREMIERE 2 HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1342478.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/Christmas.png" group-title="VIP | CHRISTMAS",XMAS - XMAS PREMIERE 3 HD
+#EXTINF:-1 tvg-logo="https://go4.pw/VIP/xmas.png" group-title="VIP | CHRISTMAS",XMAS - XMAS PREMIERE 3 HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1342479.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/Christmas.png" group-title="VIP | CHRISTMAS",XMAS - XMAS MOVIE 1 HD
+#EXTINF:-1 tvg-logo="https://go4.pw/VIP/xmas.png" group-title="VIP | CHRISTMAS",XMAS - XMAS MOVIE 1 HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1342480.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/Christmas.png" group-title="VIP | CHRISTMAS",XMAS - XMAS MOVIE 2 HD
+#EXTINF:-1 tvg-logo="https://go4.pw/VIP/xmas.png" group-title="VIP | CHRISTMAS",XMAS - XMAS MOVIE 2 HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1342481.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/Christmas.png" group-title="VIP | CHRISTMAS",XMAS - XMAS MOVIE 3 HD
+#EXTINF:-1 tvg-logo="https://go4.pw/VIP/xmas.png" group-title="VIP | CHRISTMAS",XMAS - XMAS MOVIE 3 HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1342482.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/Christmas.png" group-title="VIP | CHRISTMAS",XMAS - XMAS JUNIOR 1 HD
+#EXTINF:-1 tvg-logo="https://go4.pw/VIP/xmas.png" group-title="VIP | CHRISTMAS",XMAS - XMAS JUNIOR 1 HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1342484.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/Christmas.png" group-title="VIP | CHRISTMAS",XMAS - XMAS JUNIOR 2 HD
+#EXTINF:-1 tvg-logo="https://go4.pw/VIP/xmas.png" group-title="VIP | CHRISTMAS",XMAS - XMAS JUNIOR 2 HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1342485.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/Christmas.png" group-title="VIP | CHRISTMAS",XMAS - XMAS KIDS 1 HD
+#EXTINF:-1 tvg-logo="https://go4.pw/VIP/xmas.png" group-title="VIP | CHRISTMAS",XMAS - XMAS KIDS 1 HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1342486.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/Christmas.png" group-title="VIP | CHRISTMAS",XMAS - XMAS KIDS 2 HD
+#EXTINF:-1 tvg-logo="https://go4.pw/VIP/xmas.png" group-title="VIP | CHRISTMAS",XMAS - XMAS KIDS 2 HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1342487.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/Christmas.png" group-title="VIP | CHRISTMAS",XMAS - XMAS MUSIC 1 HD
+#EXTINF:-1 tvg-logo="https://go4.pw/VIP/xmas.png" group-title="VIP | CHRISTMAS",XMAS - XMAS MUSIC 1 HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1342488.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/Christmas.png" group-title="VIP | CHRISTMAS",XMAS - XMAS MUSIC 2 HD
+#EXTINF:-1 tvg-logo="https://go4.pw/VIP/xmas.png" group-title="VIP | CHRISTMAS",XMAS - XMAS MUSIC 2 HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1342489.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/Christmas.png" group-title="VIP | CHRISTMAS",XMAS - XMAS SHOW HD
+#EXTINF:-1 tvg-logo="https://go4.pw/VIP/xmas.png" group-title="VIP | CHRISTMAS",XMAS - XMAS SHOW HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1342483.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/Christmas.png" group-title="VIP | CHRISTMAS",XMAS - ATMOSPHERE 1 HD
+#EXTINF:-1 tvg-logo="https://go4.pw/VIP/xmas.png" group-title="VIP | CHRISTMAS",XMAS - ATMOSPHERE 1 HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1342490.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/Christmas.png" group-title="VIP | CHRISTMAS",XMAS - ATMOSPHERE 2 HD
+#EXTINF:-1 tvg-logo="https://go4.pw/VIP/xmas.png" group-title="VIP | CHRISTMAS",XMAS - ATMOSPHERE 2 HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1342491.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/Christmas.png" group-title="VIP | CHRISTMAS",XMAS - AMBIENT 1 HD
+#EXTINF:-1 tvg-logo="https://go4.pw/VIP/xmas.png" group-title="VIP | CHRISTMAS",XMAS - AMBIENT 1 HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1342492.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/Christmas.png" group-title="VIP | CHRISTMAS",XMAS - AMBIENT 2 HD
+#EXTINF:-1 tvg-logo="https://go4.pw/VIP/xmas.png" group-title="VIP | CHRISTMAS",XMAS - AMBIENT 2 HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1342493.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/Christmas.png" group-title="VIP | CHRISTMAS",XMAS - AMBIENT 3 HD
+#EXTINF:-1 tvg-logo="https://go4.pw/VIP/xmas.png" group-title="VIP | CHRISTMAS",XMAS - AMBIENT 3 HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1342494.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/Christmas.png" group-title="VIP | CHRISTMAS",XMAS - AMBIENT 4 HD
+#EXTINF:-1 tvg-logo="https://go4.pw/VIP/xmas.png" group-title="VIP | CHRISTMAS",XMAS - AMBIENT 4 HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1342495.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/Christmas.png" group-title="VIP | CHRISTMAS",XMAS - AMBIENT 5 HD
+#EXTINF:-1 tvg-logo="https://go4.pw/VIP/xmas.png" group-title="VIP | CHRISTMAS",XMAS - AMBIENT 5 HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1342496.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/Christmas.png" group-title="VIP | CHRISTMAS",XMAS - VEVO BEST HITS HD
+#EXTINF:-1 tvg-logo="https://go4.pw/VIP/xmas.png" group-title="VIP | CHRISTMAS",XMAS - VEVO BEST HITS HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1340313.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/Christmas.png" group-title="VIP | CHRISTMAS",XMAS - NAILED IT! HOLIDAY HD
+#EXTINF:-1 tvg-logo="https://go4.pw/VIP/xmas.png" group-title="VIP | CHRISTMAS",XMAS - NAILED IT! HOLIDAY HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1340314.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/Christmas.png" group-title="VIP | CHRISTMAS",XMAS - HOLIDAY YULE LOG HD
+#EXTINF:-1 tvg-logo="https://go4.pw/VIP/xmas.png" group-title="VIP | CHRISTMAS",XMAS - HOLIDAY YULE LOG HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1340315.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/Christmas.png" group-title="VIP | CHRISTMAS",XMAS - HOLIDAY WARS HD
+#EXTINF:-1 tvg-logo="https://go4.pw/VIP/xmas.png" group-title="VIP | CHRISTMAS",XMAS - HOLIDAY WARS HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1340316.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/Christmas.png" group-title="VIP | CHRISTMAS",XMAS - GREAT LIGHT FIGHT HD
+#EXTINF:-1 tvg-logo="https://go4.pw/VIP/xmas.png" group-title="VIP | CHRISTMAS",XMAS - GREAT LIGHT FIGHT HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1340317.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/Christmas.png" group-title="VIP | CHRISTMAS",XMAS - COOKIE CHALLENGE HD
+#EXTINF:-1 tvg-logo="https://go4.pw/VIP/xmas.png" group-title="VIP | CHRISTMAS",XMAS - COOKIE CHALLENGE HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1340319.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/Christmas.png" group-title="VIP | CHRISTMAS",XMAS - HOME ALONE HD
+#EXTINF:-1 tvg-logo="https://go4.pw/VIP/xmas.png" group-title="VIP | CHRISTMAS",XMAS - HOME ALONE HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1342476.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/Christmas.png" group-title="VIP | CHRISTMAS",XMAS - MOVIES SD
+#EXTINF:-1 tvg-logo="https://go4.pw/VIP/xmas.png" group-title="VIP | CHRISTMAS",XMAS - MOVIES SD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1340318.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CHRISTAIN/CR.png" group-title="VIP | CHRISTMAS",##### CHRISTMAS #####
+#EXTINF:-1 tvg-logo="https://go4.pw/VIP/xmas_en.png" group-title="VIP | CHRISTMAS",##### CHRISTMAS #####
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1342606.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CHRISTAIN/CR.png" group-title="VIP | CHRISTMAS",EN - CHRISTMAS 1 HD
+#EXTINF:-1 tvg-logo="https://go4.pw/VIP/xmas_en.png" group-title="VIP | CHRISTMAS",EN - CHRISTMAS 1 HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1341047.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CHRISTAIN/CR.png" group-title="VIP | CHRISTMAS",EN - CHRISTMAS 2 HD
+#EXTINF:-1 tvg-logo="https://go4.pw/VIP/xmas_en.png" group-title="VIP | CHRISTMAS",EN - CHRISTMAS 2 HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1341048.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CHRISTAIN/CR.png" group-title="VIP | CHRISTMAS",EN - CHRISTMAS 3 HD
+#EXTINF:-1 tvg-logo="https://go4.pw/VIP/xmas_en.png" group-title="VIP | CHRISTMAS",EN - CHRISTMAS 3 HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1341049.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CHRISTAIN/CR.png" group-title="VIP | CHRISTMAS",EN - CHRISTMAS 4 HD
+#EXTINF:-1 tvg-logo="https://go4.pw/VIP/xmas_en.png" group-title="VIP | CHRISTMAS",EN - CHRISTMAS 4 HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1341050.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CHRISTAIN/CR.png" group-title="VIP | CHRISTMAS",EN - CHRISTMAS 5 HD
+#EXTINF:-1 tvg-logo="https://go4.pw/VIP/xmas_en.png" group-title="VIP | CHRISTMAS",EN - CHRISTMAS 5 HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1341051.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CHRISTAIN/CR.png" group-title="VIP | CHRISTMAS",EN - CHRISTMAS 6 HD
+#EXTINF:-1 tvg-logo="https://go4.pw/VIP/xmas_en.png" group-title="VIP | CHRISTMAS",EN - CHRISTMAS 6 HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1341052.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CHRISTAIN/CR.png" group-title="VIP | CHRISTMAS",EN - CHRISTMAS 7 HD
+#EXTINF:-1 tvg-logo="https://go4.pw/VIP/xmas_en.png" group-title="VIP | CHRISTMAS",EN - CHRISTMAS 7 HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1341053.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CHRISTAIN/CR.png" group-title="VIP | CHRISTMAS",EN - CHRISTMAS 8 HD
+#EXTINF:-1 tvg-logo="https://go4.pw/VIP/xmas_en.png" group-title="VIP | CHRISTMAS",EN - CHRISTMAS 8 HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1341054.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CHRISTAIN/CR.png" group-title="VIP | CHRISTMAS",EN - CHRISTMAS 9 HD
+#EXTINF:-1 tvg-logo="https://go4.pw/VIP/xmas_en.png" group-title="VIP | CHRISTMAS",EN - CHRISTMAS 9 HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1341055.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CHRISTAIN/CR.png" group-title="VIP | CHRISTMAS",EN - CHRISTMAS 10 HD
+#EXTINF:-1 tvg-logo="https://go4.pw/VIP/xmas_en.png" group-title="VIP | CHRISTMAS",EN - CHRISTMAS 10 HD
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1341056.m3u8
 
 # --- VIP | FORMULA 1 (44) ---
@@ -14558,15 +14564,53 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1311463.m3u8
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/427467.m3u8
 
 # --- VIP | GOLDEN EVENTS (37) ---
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="VIP | GOLDEN EVENTS",##### AR - ARAB CUP #####
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",##### GOLDEN EVENTS #####
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/682950.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - NO MATCH
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/682968.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - NO MATCH
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/682967.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - NO MATCH
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/682966.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - NO MATCH
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/682965.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - NO MATCH
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/682964.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - NO MATCH
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/682963.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - NO MATCH
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/682962.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - NO MATCH
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/682961.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - NO MATCH
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/682960.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - NO MATCH
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/682959.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - NO MATCH
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/682958.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - NO MATCH
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/682957.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - NO MATCH
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/682956.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - NO MATCH
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/682955.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - NO MATCH
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/682954.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - NO MATCH
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/682953.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - NO MATCH
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/682952.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - NO MATCH
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/682951.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="VIP | GOLDEN EVENTS",##### ARABIC #####
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1018107.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - SAUDI ARABIA VS UNITED ARAB EMIRATES 12:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - NO MATCH
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1150144.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - SAUDI ARABIA VS UNITED ARAB EMIRATES 12:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - NO MATCH
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1123275.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - JORDAN VS MOROCCO 17:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - NO MATCH
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1123274.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - JORDAN VS MOROCCO 17:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - NO MATCH
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1039934.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - NO MATCH
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1039920.m3u8
@@ -14576,7 +14620,7 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1039905.m3u8
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1024486.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",AR - NO MATCH
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1024476.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/frlog.png" group-title="VIP | GOLDEN EVENTS",##### FR - ARAB CUP #####
+#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/frlog.png" group-title="VIP | GOLDEN EVENTS",##### FRENCH #####
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1018100.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",FR - NO MATCH
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1150145.m3u8
@@ -14594,52 +14638,14 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1123276.m3u8
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1024490.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",FR - NO MATCH
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1024487.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",##### CONFERENCE LEAGUE #####
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/682950.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - CRYSTAL PALACE VS KUPS - 18 DEC 21:00 CET
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/682968.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - SHAMROCK ROVERS VS HAMRUN SPARTANS - 18 DEC 21:00 CET
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/682967.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - DYNAMO KYIV VS NOAH - 18 DEC 21:00 CET
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/682966.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - AZ VS JAGIELLONIA BIAŁYSTOK - 18 DEC 21:00 CET
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/682965.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - OMONIA NICOSIA VS RAKÓW CZĘSTOCHOWA - 18 DEC 21:00 CET
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/682964.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - AEK ATHENS VS CSU CRAIOVA - 18 DEC 21:00 CET
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/682963.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - AEK LARNACA VS ŠKENDIJA 79 - 18 DEC 21:00 CET
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/682962.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - SPARTA PRAHA VS ABERDEEN - 18 DEC 21:00 CET
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/682961.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - ZRINJSKI VS RAPID WIEN - 18 DEC 21:00 CET
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/682960.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - LEGIA WARSZAWA VS LINCOLN RED IMPS - 18 DEC 21:00 CET
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/682959.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - STRASBOURG VS BREIDABLIK - 18 DEC 21:00 CET
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/682958.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - RAYO VALLECANO VS DRITA - 18 DEC 21:00 CET
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/682957.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - SLOVAN BRATISLAVA VS HÄCKEN - 18 DEC 21:00 CET
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/682956.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - SIGMA OLOMOUC VS LECH POZNAŃ - 18 DEC 21:00 CET
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/682955.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - SHAKHTAR DONETSK VS RIJEKA - 18 DEC 21:00 CET
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/682954.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - LAUSANNE SPORT VS FIORENTINA - 18 DEC 21:00 CET
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/682953.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - MAINZ 05 VS SAMSUNSPOR - 18 DEC 21:00 CET
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/682952.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - CELJE VS SHELBOURNE - 18 DEC 21:00 CET
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/682951.m3u8
 
 # --- VIP | LA LIGA (56) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/flag_france.png" group-title="VIP | LA LIGA",##### FRENCH #####
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015817.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",FR - VALENCIA - MALLORCA 22:00 CET
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1117244.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",FR - NO MATCH
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1100775.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",FR - NO MATCH
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1117244.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",FR - NO MATCH
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1100783.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",FR - NO MATCH
@@ -14662,10 +14668,10 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015820.m3u8
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015823.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="VIP | LA LIGA",##### ENGLISH #####
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015824.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",EN - VALENCIA - MALLORCA 22:00 CET
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1117243.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",EN - NO MATCH
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1100772.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",EN - NO MATCH
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1117243.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",EN - NO MATCH
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1100784.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",EN - NO MATCH
@@ -14690,10 +14696,10 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015830.m3u8
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015829.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="VIP | LA LIGA",##### ARABIC #####
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015831.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",AR - VALENCIA - MALLORCA 22:00 CET
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1100782.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",AR - NO MATCH
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1033758.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",AR - NO MATCH
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1100782.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",AR - NO MATCH
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1100778.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",AR - NO MATCH
@@ -14708,10 +14714,10 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015836.m3u8
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015835.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/SPAIN.png" group-title="VIP | LA LIGA",##### SPAIN #####
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1033317.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ES - VALENCIA - MALLORCA 22:00 CET
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1117245.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ES - NO MATCH
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1033785.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ES - NO MATCH
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1117245.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ES - NO MATCH
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1100781.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ES - NO MATCH
@@ -14730,10 +14736,10 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015832.m3u8
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1033357.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/ALBANIA.png" group-title="VIP | LA LIGA",##### ALBANIA #####
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1145824.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ALB - VALENCIA - MALLORCA 22:00 CET
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1145838.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ALB - NO MATCH
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015834.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ALB - NO MATCH
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1145838.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ALB - NO MATCH
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1117242.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ALB - NO MATCH
@@ -14983,24 +14989,22 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1125008.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/stin-cou.png" group-title="VIP | MUSIC CONCERTS",VIP - STINGRAY COUNTRY CLASSICS
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1291998.m3u8
 
-# --- VIP | PREMIER LEAGUE (42) ---
+# --- VIP | PREMIER LEAGUE (38) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="VIP | PREMIER LEAGUE",##### ENGLISH #####
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1020754.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - NEWCASTLE UNITED VS CHELSEA 13:30 CET - 20 DEC
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1100811.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - BRIGHTON & HOVE ALBION VS SUNDERLAND 16:00 CET - 20 DEC
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1100810.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - MANCHESTER CITY VS WEST HAM UNITED 16:00 CET - 20 DEC
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015554.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - WOLVERHAMPTON WANDERERS VS BRENTFORD 16:00 CET - 20 DEC
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015553.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - AFC BOURNEMOUTH VS BURNLEY 16:00 CET - 20 DEC
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015552.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - NO MATCH
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015551.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - LEEDS UNITED VS CRYSTAL PALACE 21:00 CET - 20 DEC
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015550.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - EVERTON VS ARSENAL 21:00 CET - 20 DEC
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015549.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - NO MATCH
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015548.m3u8
@@ -15008,43 +15012,39 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015548.m3u8
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015547.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/flag_france.png" group-title="VIP | PREMIER LEAGUE",##### FRENCH #####
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1020753.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - NEWCASTLE UNITED VS CHELSEA 13:30 CET - 20 DEC
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1100813.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - BRIGHTON & HOVE ALBION VS SUNDERLAND 16:00 CET - 20 DEC
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1100812.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - MANCHESTER CITY VS WEST HAM UNITED 16:00 CET - 20 DEC
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015546.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - WOLVERHAMPTON WANDERERS VS BRENTFORD 16:00 CET - 20 DEC
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015545.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - AFC BOURNEMOUTH VS BURNLEY 16:00 CET - 20 DEC
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015544.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - NO MATCH
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015543.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - LEEDS UNITED VS CRYSTAL PALACE 21:00 CET - 20 DEC
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015542.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - EVERTON VS ARSENAL 21:00 CET - 20 DEC
+http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015541.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - NO MATCH
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015539.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - NO MATCH
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015541.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - NO MATCH
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015540.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="VIP | PREMIER LEAGUE",##### ARABIC #####
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1020752.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - NEWCASTLE UNITED VS CHELSEA 13:30 CET - 20 DEC
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1100815.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - BRIGHTON & HOVE ALBION VS SUNDERLAND 16:00 CET - 20 DEC
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1100814.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - MANCHESTER CITY VS WEST HAM UNITED 16:00 CET - 20 DEC
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015562.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - WOLVERHAMPTON WANDERERS VS BRENTFORD 16:00 CET - 20 DEC
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015561.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - AFC BOURNEMOUTH VS BURNLEY 16:00 CET - 20 DEC
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015560.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - NO MATCH
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015559.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - LEEDS UNITED VS CRYSTAL PALACE 21:00 CET - 20 DEC
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015558.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - EVERTON VS ARSENAL 21:00 CET - 20 DEC
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015557.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - NO MATCH
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015555.m3u8
@@ -15052,21 +15052,19 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015555.m3u8
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1015556.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/ALBANIA.png" group-title="VIP | PREMIER LEAGUE",##### ALBANIAN #####
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1024114.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - NEWCASTLE UNITED VS CHELSEA 13:30 CET - 20 DEC
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1225673.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - BRIGHTON & HOVE ALBION VS SUNDERLAND 16:00 CET - 20 DEC
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1182487.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - MANCHESTER CITY VS WEST HAM UNITED 16:00 CET - 20 DEC
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1039828.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - WOLVERHAMPTON WANDERERS VS BRENTFORD 16:00 CET - 20 DEC
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1039819.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - AFC BOURNEMOUTH VS BURNLEY 16:00 CET - 20 DEC
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1024335.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - NO MATCH
-http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1024118.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - LEEDS UNITED VS CRYSTAL PALACE 21:00 CET - 20 DEC
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1024115.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - EVERTON VS ARSENAL 21:00 CET - 20 DEC
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/1024113.m3u8
 
 # --- VIP | SERIE A (27) ---
@@ -15401,4 +15399,4 @@ http://4smarts.xyz/live/7774524853730437/B5B4C814716C/363875.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",ES - NO MATCH
 http://4smarts.xyz/live/7774524853730437/B5B4C814716C/682940.m3u8
 
-# Total: 7598
+# Total: 7597

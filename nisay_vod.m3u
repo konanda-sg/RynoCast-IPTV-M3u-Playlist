@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nisay.xyz:8080
-# Generated: 2025-12-18 18:30:00
+# Generated: 2025-12-19 07:08:34
 # Expires: 2026-10-04
 # Family Safe Edition
 # ==============================================
@@ -16907,7 +16907,9 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/138221.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbA3OJWaIL8PKp1IX9ETcZo5trv.jpg" group-title="Movies | SERI FILMLER",Muzede Bir Gece 2006
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/138220.mkv
 
-# --- Movies | SON EKLENEN 300 FILM (385) ---
+# --- Movies | SON EKLENEN 300 FILM (386) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qHu9CSmkjgUlwTPFDDphezzg0qi.jpg" group-title="Movies | SON EKLENEN 300 FILM",Hızlı Tren Dehşeti (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159355.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x6pGePNzpbG6Z12Y14Z4TlBCA3c.jpg" group-title="Movies | SON EKLENEN 300 FILM",Siyah Telefon 2 (2025)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159325.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5W92YO6qSzm6rhf411NHC8Yg92Q.jpg" group-title="Movies | SON EKLENEN 300 FILM",Yaşama Ateşi (2025)
@@ -17991,7 +17993,11 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1743.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TURK DIZILERI",Rüya Gibi
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1812.mp4
 
-# --- Movies | TURKCE ALTYAZI FILMLER (490) ---
+# --- Movies | TURKCE ALTYAZI FILMLER (492) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQdgrY0mvmyBH4JROceFjauWzUH.jpg" group-title="Movies | TURKCE ALTYAZI FILMLER",Sihirbazlar Çetesi: Daha Bir Şey Görmediniz (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159353.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUiAm0jbrPgbUDCOhRKsvdT0u5h.jpg" group-title="Movies | TURKCE ALTYAZI FILMLER",Sisu: Road to Revenge (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159354.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PdAODwR9amGEq5ER42FsuzV7op.jpg" group-title="Movies | TURKCE ALTYAZI FILMLER",Turbulence (2025) TRAltyazi
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159329.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2raITTyjXVUcsbJ7lJAQt8HzjDK.jpg" group-title="Movies | TURKCE ALTYAZI FILMLER",Baramulla (2025) TRAltyazi
@@ -19727,4 +19733,4 @@ http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1503
 #EXTINF:-1 tvg-logo="" group-title="Series | TR ALTYAZI SERIES",Pluribus
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1803
 
-# Total: 9796
+# Total: 9799

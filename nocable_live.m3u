@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: nocable.cc:8080
-# Generated: 2025-12-18 18:28:57
+# Generated: 2025-12-19 07:04:58
 # Expires: 2026-05-08
 # Family Safe Edition
 # ==============================================
@@ -3385,211 +3385,187 @@ http://nocable.cc:8080/live/28148830/68208395/17779.m3u8
 #EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US Starz West (S)
 http://nocable.cc:8080/live/28148830/68208395/21091.m3u8
 
-# --- NBA (8) ---
+# --- NBA (28) ---
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",CA-NBA TV
 http://nocable.cc:8080/live/28148830/68208395/22995.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",USA: NBA TV
 http://nocable.cc:8080/live/28148830/68208395/20073.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 01: Memphis Grizzlies @ Minnesota Timberwolves | Home Stream | 12/17/2025 8:00 PM ET
-http://nocable.cc:8080/live/28148830/68208395/257583.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 01: MEM Grizzlies VS MIN Timberwolves ( NBA TV Feed ) @ 8:00 PM
-http://nocable.cc:8080/live/28148830/68208395/257584.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 02: Memphis Grizzlies @ Minnesota Timberwolves | Away Stream | 12/17/2025 8:00 PM ET
-http://nocable.cc:8080/live/28148830/68208395/257585.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 02: Cleveland Cavaliers vs Chicago Bulls @ 08:00 PM EST
-http://nocable.cc:8080/live/28148830/68208395/257586.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 03: Cleveland Cavaliers @ Chicago Bulls | Home Stream | 12/17/2025 8:00 PM ET
-http://nocable.cc:8080/live/28148830/68208395/257587.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 04: Cleveland Cavaliers @ Chicago Bulls | Away Stream | 12/17/2025 8:00 PM ET
-http://nocable.cc:8080/live/28148830/68208395/257588.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 01: Atlanta Hawks @ Charlotte Hornets | Away Stream | 12/18/2025 7:00 PM ET
+http://nocable.cc:8080/live/28148830/68208395/257750.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 01: LAC Clippers VS OKC Thunder ( NBA TV Feed ) @ 8:00 PM
+http://nocable.cc:8080/live/28148830/68208395/257751.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 02: Atlanta Hawks @ Charlotte Hornets | Home Stream | 12/18/2025 7:00 PM ET
+http://nocable.cc:8080/live/28148830/68208395/257752.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 02: Atlanta Hawks vs Charlotte Hornets @ 07:00 PM  EST
+http://nocable.cc:8080/live/28148830/68208395/257753.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 03: New York Knicks @ Indiana Pacers | Away Stream | 12/18/2025 7:00 PM ET
+http://nocable.cc:8080/live/28148830/68208395/257754.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 03: New York Knicks vs Indiana Pacers @ 07:00 PM EST
+http://nocable.cc:8080/live/28148830/68208395/257755.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 04: New York Knicks @ Indiana Pacers | Home Stream | 12/18/2025 7:00 PM ET
+http://nocable.cc:8080/live/28148830/68208395/257756.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 04: Miami Heat vs Brooklyn Nets @ 07:30 PM EST
+http://nocable.cc:8080/live/28148830/68208395/257757.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 05: Miami Heat @ Brooklyn Nets | Home Stream | 12/18/2025 7:30 PM ET
+http://nocable.cc:8080/live/28148830/68208395/257758.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 05: Washington Wizards vs San Antonio Spurs @ 08:00 PM EST
+http://nocable.cc:8080/live/28148830/68208395/257759.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 06: Miami Heat @ Brooklyn Nets | Away Stream | 12/18/2025 7:30 PM ET
+http://nocable.cc:8080/live/28148830/68208395/257760.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 06: Toronto Raptors vs Milwaukee Bucks @ 08:00 PM EST
+http://nocable.cc:8080/live/28148830/68208395/257761.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 07: Washington Wizards @ San Antonio Spurs | Home Stream | 12/18/2025 8:00 PM ET
+http://nocable.cc:8080/live/28148830/68208395/257762.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 07: Houston Rockets vs New Orleans Pelicans @ 08:00 PM EST
+http://nocable.cc:8080/live/28148830/68208395/257763.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 08: Washington Wizards @ San Antonio Spurs | Away Stream | 12/18/2025 8:00 PM ET
+http://nocable.cc:8080/live/28148830/68208395/257764.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 08: Detroit Pistons vs Dallas Mavericks @ 08:30 PM EST
+http://nocable.cc:8080/live/28148830/68208395/257765.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 09: Houston Rockets @ New Orleans Pelicans | Home Stream | 12/18/2025 8:00 PM ET
+http://nocable.cc:8080/live/28148830/68208395/257766.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 09: Orlando Magic vs Denver Nuggets @ 09:00 PM EST
+http://nocable.cc:8080/live/28148830/68208395/257767.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 10: Houston Rockets @ New Orleans Pelicans | Away Stream | 12/18/2025 8:00 PM ET
+http://nocable.cc:8080/live/28148830/68208395/257768.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 10: Golden State Warriors vs Phoenix Suns @ 09:00 PM EST
+http://nocable.cc:8080/live/28148830/68208395/257769.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 11: Toronto Raptors @ Milwaukee Bucks | Home Stream | 12/18/2025 8:00 PM ET
+http://nocable.cc:8080/live/28148830/68208395/257770.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 11: Los Angeles Lakers vs Utah Jazz @ 09:00 PM EST
+http://nocable.cc:8080/live/28148830/68208395/257771.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 12: Toronto Raptors @ Milwaukee Bucks | Away Stream | 12/18/2025 8:00 PM ET
+http://nocable.cc:8080/live/28148830/68208395/257772.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 12: Sacramento Kings vs Portland Trail Blazers @ 10:00 PM EST
+http://nocable.cc:8080/live/28148830/68208395/257773.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 13: Detroit Pistons @ Dallas Mavericks | Home Stream | 12/18/2025 8:30 PM ET
+http://nocable.cc:8080/live/28148830/68208395/257774.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 14: Detroit Pistons @ Dallas Mavericks | Away Stream | 12/18/2025 8:30 PM ET
+http://nocable.cc:8080/live/28148830/68208395/257775.m3u8
 
-# --- NCAAB (93) ---
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 001 | AGNES SCOTT COLLEGE @ SOUTH CAROLINA UPSTATE (W) | 12.17 11:00 AM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257595.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 002 | APP STATE @ MARSHALL (W) | 12.17 11:00 AM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257596.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 003 | CLEMSON @ CHARLESTON SOUTHERN (W) | 12.17 11:00 AM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257597.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 004 | LA SALLE @ DELAWARE (W) | 12.17 11:00 AM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257598.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 005 | TROY @ OLD DOMINION (W) | 12.17 11:00 AM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257599.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 006 | WINTHROP @ CHARLOTTE (W) | 12.17 11:00 AM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257600.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 007 | WOFFORD @ EAST CAROLINA (W) | 12.17 11:00 AM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257601.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 008 | KANSAS CHRISTIAN @ CENTRAL ARKANSAS (M) | 12.17 12:00 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257602.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 009 | SOUTHWESTERN CHRISTIAN @ RICE (M) | 12.17 12:15 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257603.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 010 | JACKSONVILLE @ TEXAS TECH (W) | 12.17 12:30 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257604.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 011 | NORTH CAROLINA CENTRAL @ QUEENS UNIVERSITY (W) | 12.17 12:30 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257605.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 012 | WESLEYAN COLLEGE (GA) @ WEST GEORGIA (W) | 12.17 2:00 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257606.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 013 | FLORIDA A&M @ FLORIDA (W) | 12.17 3:00 PM | SECN+
-http://nocable.cc:8080/live/28148830/68208395/257607.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 014 | CHICAGO STATE @ UTAH TECH (W) | 12.17 4:00 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257608.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 015 | JACKSONVILLE STATE @ SAINT LOUIS (W) | 12.17 5:00 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257609.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 016 | MISSISSIPPI VALLEY STATE @ 14 OLE MISS (W) | 12.17 5:00 PM | SECN+
-http://nocable.cc:8080/live/28148830/68208395/257610.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 017 | NORTHERN IOWA @ UIC (M) | 12.17 5:00 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257611.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 018 | TULANE @ ALABAMA (W) | 12.17 5:00 PM | SECN+
-http://nocable.cc:8080/live/28148830/68208395/257612.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 019 | EASTERN KENTUCKY @ 16 LOUISVILLE (W) | 12.17 6:00 PM | ACC NETWORK
-http://nocable.cc:8080/live/28148830/68208395/257613.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 020 | JAMES MADISON @ COASTAL CAROLINA (W) | 12.17 6:00 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257614.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 021 | LOUISIANA @ TEXAS STATE (W) | 12.17 6:00 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257615.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 022 | STONEHILL @ NEW HAMPSHIRE (M) | 12.17 6:00 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257616.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 023 | CREIGHTON @ XAVIER (M) | 12.17 6:30 PM | FS1
-http://nocable.cc:8080/live/28148830/68208395/257617.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 024 | IU COLUMBUS @ IU INDIANAPOLIS (W) | 12.17 6:30 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257618.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 025 | SAINT FRANCIS @ 23 FLORIDA (M) | 12.17 6:30 PM | SEC NETWORK
-http://nocable.cc:8080/live/28148830/68208395/257619.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 026 | SIMMONS COLLEGE (KY) @ UNC ASHEVILLE (W) | 12.17 6:30 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257620.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 027 | TEXAS A&M-CORPUS CHRISTI @ STEPHEN F. AUSTIN (W) | 12.17 6:30 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257621.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 028 | 13 VANDERBILT @ MEMPHIS (M) | 12.17 7:00 PM | ESPN2
-http://nocable.cc:8080/live/28148830/68208395/257622.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 029 | ALABAMA STATE @ CINCINNATI (M) | 12.17 7:00 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257623.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 030 | BINGHAMTON @ PITTSBURGH (M) | 12.17 7:00 PM | ACC EXTRA
-http://nocable.cc:8080/live/28148830/68208395/257624.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 031 | BREWTON-PARKER @ WEST GEORGIA (M) | 12.17 7:00 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257625.m3u8
+# --- NCAAB (61) ---
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 001 | NORTH FLORIDA @ CHARLESTON SOUTHERN (M) | 12.18 11:00 AM | ESPN+
+http://nocable.cc:8080/live/28148830/68208395/257689.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 002 | ARKANSAS-PINE BLUFF @ TULSA (W) | 12.18 12:00 PM | ESPN+
+http://nocable.cc:8080/live/28148830/68208395/257690.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 003 | LOYOLA CHICAGO @ NORTHWESTERN (W) | 12.18 12:00 PM | B1G+
+http://nocable.cc:8080/live/28148830/68208395/257691.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 004 | PORTLAND @ OREGON (W) | 12.18 2:00 PM | B1G+
+http://nocable.cc:8080/live/28148830/68208395/257692.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 005 | SIU EDWARDSVILLE @ EASTERN ILLINOIS (W) | 12.18 4:00 PM | ESPN+
+http://nocable.cc:8080/live/28148830/68208395/257693.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 006 | GEORGIA STATE @ GEORGIA SOUTHERN (W) | 12.18 5:00 PM | ESPN+
+http://nocable.cc:8080/live/28148830/68208395/257694.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 007 | HAMPTON @ JACKSON STATE (M) | 12.18 5:00 PM | ESPNU
+http://nocable.cc:8080/live/28148830/68208395/257695.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 008 | LITTLE ROCK @ SOUTHERN INDIANA (W) | 12.18 6:00 PM | ESPN+
+http://nocable.cc:8080/live/28148830/68208395/257696.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 009 | MIAMI @ WAKE FOREST (W) | 12.18 6:00 PM | ACC EXTRA
+http://nocable.cc:8080/live/28148830/68208395/257697.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 010 | SAINT FRANCIS @ PITTSBURGH (W) | 12.18 6:00 PM | ACC EXTRA
+http://nocable.cc:8080/live/28148830/68208395/257698.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 011 | SOUTH ALABAMA @ SOUTHERN MISS (W) | 12.18 6:00 PM | ESPN+
+http://nocable.cc:8080/live/28148830/68208395/257699.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 012 | UT MARTIN @ TENNESSEE STATE (W) | 12.18 6:00 PM | ESPN+
+http://nocable.cc:8080/live/28148830/68208395/257700.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 013 | VIRGINIA TECH @ FLORIDA STATE (W) | 12.18 6:00 PM | ACC EXTRA
+http://nocable.cc:8080/live/28148830/68208395/257701.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 014 | WESTERN ILLINOIS @ LINDENWOOD (W) | 12.18 6:00 PM | ESPN+
+http://nocable.cc:8080/live/28148830/68208395/257702.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 015 | COASTAL CAROLINA @ APP STATE (M) | 12.18 6:30 PM | ESPN+
+http://nocable.cc:8080/live/28148830/68208395/257703.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 016 | DAYTON @ WESTERN MICHIGAN (W) | 12.18 6:30 PM | ESPN+
+http://nocable.cc:8080/live/28148830/68208395/257704.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 017 | LIPSCOMB @ SAMFORD (W) | 12.18 6:30 PM | ESPN+
+http://nocable.cc:8080/live/28148830/68208395/257705.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 018 | MORRIS COLLEGE @ UNC ASHEVILLE (M) | 12.18 6:30 PM | ESPN+
+http://nocable.cc:8080/live/28148830/68208395/257706.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 019 | NORFOLK STATE @ 21 OHIO STATE (W) | 12.18 6:30 PM | B1G+
+http://nocable.cc:8080/live/28148830/68208395/257707.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 020 | SIU EDWARDSVILLE @ EASTERN ILLINOIS (M) | 12.18 6:30 PM | ESPN+
+http://nocable.cc:8080/live/28148830/68208395/257708.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 021 | SOUTHEAST MISSOURI STATE @ TENNESSEE TECH (W) | 12.18 6:30 PM | ESPN+
+http://nocable.cc:8080/live/28148830/68208395/257709.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 022 | 3 SOUTH CAROLINA @ SOUTH FLORIDA (W) | 12.18 7:00 PM | ESPN2
+http://nocable.cc:8080/live/28148830/68208395/257710.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 023 | ALCORN STATE @ AUBURN (W) | 12.18 7:00 PM | SECN+
+http://nocable.cc:8080/live/28148830/68208395/257711.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 024 | AMERICAN UNIVERSITY @ VCU (M) | 12.18 7:00 PM | ESPN+
+http://nocable.cc:8080/live/28148830/68208395/257712.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 025 | BRADLEY @ INDIANA STATE (M) | 12.18 7:00 PM | ESPN+
+http://nocable.cc:8080/live/28148830/68208395/257713.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 026 | DELAWARE STATE @ SAINT JOSEPHS (M) | 12.18 7:00 PM | ESPN+
+http://nocable.cc:8080/live/28148830/68208395/257714.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 027 | FURMAN @ MANHATTAN (M) | 12.18 7:00 PM | ESPN+
+http://nocable.cc:8080/live/28148830/68208395/257715.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 028 | GARDNER-WEBB @ EAST TENNESSEE STATE (W) | 12.18 7:00 PM | ESPN+
+http://nocable.cc:8080/live/28148830/68208395/257716.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 029 | GEORGIA TECH @ NC STATE (W) | 12.18 7:00 PM | ACC EXTRA
+http://nocable.cc:8080/live/28148830/68208395/257717.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 030 | LAFAYETTE @ CHARLOTTE (M) | 12.18 7:00 PM | ESPN+
+http://nocable.cc:8080/live/28148830/68208395/257718.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 031 | ORAL ROBERTS @ NORTH TEXAS (W) | 12.18 7:00 PM | ESPN+
+http://nocable.cc:8080/live/28148830/68208395/257719.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 032 | NORTHWESTERN @ 17 ILLINOIS (M) | 1/26 3:00 PM | BTN
-http://nocable.cc:8080/live/28148830/68208395/257626.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 033 | CHATTANOOGA @ BELLARMINE (M) | 12.17 7:00 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257627.m3u8
+http://nocable.cc:8080/live/28148830/68208395/257720.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 033 | SOUTH DAKOTA STATE @ DUKE (W) | 12.18 7:00 PM | ACC NETWORK
+http://nocable.cc:8080/live/28148830/68208395/257721.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 034 | VALPARAISO @ UIC (W) | 1/26 3:00 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257628.m3u8
+http://nocable.cc:8080/live/28148830/68208395/257722.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 035 | WICHITA STATE @ TULSA (M) | 1/26 3:00 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257629.m3u8
+http://nocable.cc:8080/live/28148830/68208395/257723.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 036 | WISCONSIN @ 23 MINNESOTA (W) | 1/26 3:00 PM | B1G+
-http://nocable.cc:8080/live/28148830/68208395/257630.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 037 | ERSKINE @ MERCER (W) | 12.17 7:00 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257631.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 038 | HIGH POINT @ DAVIDSON (W) | 12.17 7:00 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257632.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 039 | LONGWOOD @ WAKE FOREST (M) | 12.17 7:00 PM | ACC EXTRA
-http://nocable.cc:8080/live/28148830/68208395/257633.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 040 | MARQUETTE @ 1 UCONN (W) | 12.17 7:00 PM | PEACOCK
-http://nocable.cc:8080/live/28148830/68208395/257634.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 041 | MERCER @ UCF (M) | 12.17 7:00 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257635.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 042 | MERCYHURST @ SYRACUSE (M) | 12.17 7:00 PM | ACC EXTRA
-http://nocable.cc:8080/live/28148830/68208395/257636.m3u8
+http://nocable.cc:8080/live/28148830/68208395/257724.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 037 | TOCCOA FALLS @ GARDNER-WEBB (M) | 12.18 7:00 PM | ESPN+
+http://nocable.cc:8080/live/28148830/68208395/257725.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 038 | WESTERN CAROLINA @ 25 GEORGIA (M) | 12.18 7:00 PM | SECN+
+http://nocable.cc:8080/live/28148830/68208395/257726.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 039 | HOUSTON CHRISTIAN @ NICHOLLS (W) | 12.18 7:30 PM | ESPN+
+http://nocable.cc:8080/live/28148830/68208395/257727.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 040 | INCARNATE WORD @ NEW ORLEANS (W) | 12.18 7:30 PM | ESPN+
+http://nocable.cc:8080/live/28148830/68208395/257728.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 041 | NORFOLK STATE @ GRAMBLING (M) | 12.18 7:30 PM | ESPNU
+http://nocable.cc:8080/live/28148830/68208395/257729.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 042 | UALBANY @ 13 VANDERBILT (W) | 12.18 7:30 PM | SECN+
+http://nocable.cc:8080/live/28148830/68208395/257730.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 043 | BRYANT @ BINGHAMTON (W) | 1/25 2:00 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257637.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 044 | OAKLAND @ NORTHERN KENTUCKY (M) | 12.17 7:00 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257638.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 045 | OLIVET @ CENTRAL MICHIGAN (M) | 12.17 7:00 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257639.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 046 | PRESBYTERIAN @ EAST CAROLINA (M) | 12.17 7:00 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257640.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 047 | SACRAMENTO STATE @ SAN FRANCISCO (W) | 12.17 7:00 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257641.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 048 | SIENA @ VERMONT (M) | 12.17 7:00 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257642.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 049 | SOUTHERN WESLEYAN @ SOUTH CAROLINA UPSTATE (M) | 12.17 7:00 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257643.m3u8
+http://nocable.cc:8080/live/28148830/68208395/257731.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 044 | DRAKE @ MURRAY STATE (M) | 12.18 8:00 PM | ESPN+
+http://nocable.cc:8080/live/28148830/68208395/257732.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 045 | GEORGIA STATE @ GEORGIA SOUTHERN (M) | 12.18 8:00 PM | ESPN+
+http://nocable.cc:8080/live/28148830/68208395/257733.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 046 | KANSAS CITY @ OKLAHOMA STATE (M) | 12.18 8:00 PM | ESPN+
+http://nocable.cc:8080/live/28148830/68208395/257734.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 047 | ORAL ROBERTS @ TCU (M) | 12.18 8:00 PM | ESPN+
+http://nocable.cc:8080/live/28148830/68208395/257735.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 048 | SOUTHERN @ 15 BAYLOR (W) | 12.18 8:00 PM | ESPN+
+http://nocable.cc:8080/live/28148830/68208395/257736.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 049 | LITTLE ROCK @ SOUTHERN INDIANA (M) | 12.18 8:30 PM | ESPN+
+http://nocable.cc:8080/live/28148830/68208395/257737.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 050 | BRADLEY VS. MISSOURI STATE | 02/29-07:30PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257644.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 051 | UC SANTA BARBARA @ GREEN BAY (M) | 12.17 7:00 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257645.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 052 | WAYNE STATE (MI) @ TOLEDO (W) | 12.17 7:00 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257646.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 053 | YOUNGSTOWN STATE @ ROBERT MORRIS (M) | 12.17 7:00 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257647.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 054 | ALABAMA STATE @ MISSISSIPPI STATE (W) | 12.17 7:30 PM | SECN+
-http://nocable.cc:8080/live/28148830/68208395/257648.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 055 | CENTRAL ARKANSAS @ LOUISIANA TECH (W) | 12.17 7:30 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257649.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 056 | CLEVELAND STATE @ UAB (M) | 12.17 7:30 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257650.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 057 | EVANSVILLE @ BELMONT (W) | 12.17 7:30 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257651.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 057 | EVANSVILLE @ BELMONT (W) | 12.17 7:30 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257652.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 059 | HOUSTON CHRISTIAN @ NICHOLLS (M) | 12.17 7:30 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257653.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 060 | KANSAS CITY @ ARKANSAS (W) | 12.17 7:30 PM | SECN+
-http://nocable.cc:8080/live/28148830/68208395/257654.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 061 | KENNESAW STATE @ MIDDLE TENNESSEE (M) | 12.17 7:30 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257655.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 062 | LOUISIANA TECH @ TULANE (M) | 12.17 7:30 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257656.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 063 | PRAIRIE VIEW A&M @ LAMAR (W) | 12.17 7:30 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257657.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 064 | SOUTH ALABAMA @ UL MONROE (M) | 12.17 7:30 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257658.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 065 | TEXAS SOUTHERN @ UT ARLINGTON (W) | 12.17 7:30 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257659.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 066 | WOFFORD @ WICHITA STATE (M) | 12.17 7:30 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257660.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 067 | ALABAMA A&M @ OLE MISS (M) | 12.17 8:00 PM | SECN+
-http://nocable.cc:8080/live/28148830/68208395/257661.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 068 | BETHUNE-COOKMAN @ SAINT LOUIS (M) | 12.17 8:00 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257662.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 069 | DEPAUL @ UIC (W) | 12.17 8:00 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257663.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 070 | JAMES MADISON @ OLD DOMINION (M) | 12.17 8:00 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257664.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 071 | LA SIERRA @ WEBER STATE (W) | 12.17 8:00 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257665.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 072 | SOUTH FLORIDA @ 16 ALABAMA (M) | 12.17 8:00 PM | SECN+
-http://nocable.cc:8080/live/28148830/68208395/257666.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 073 | UL MONROE @ ARKANSAS STATE (W) | 12.17 8:00 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257667.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 074 | UNC WILMINGTON @ 18 NORTH CAROLINA (W) | 12.17 8:00 PM | ACC NETWORK
-http://nocable.cc:8080/live/28148830/68208395/257668.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 075 | UNLV @ GRAND CANYON (W) | 12.17 8:00 PM | CBSSN
-http://nocable.cc:8080/live/28148830/68208395/257669.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 076 | WEBER STATE @ UTAH VALLEY (M) | 12.17 8:00 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257670.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 077 | ARKANSAS STATE @ TEXAS STATE (M) | 12.17 8:30 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257671.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 078 | GEORGETOWN @ MARQUETTE (M) | 12.17 8:30 PM | FS1
-http://nocable.cc:8080/live/28148830/68208395/257672.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 080 | MONTANA TECH @ MONTANA (M) | 12.17 9:00 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257674.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 081 | NORTHWESTERN STATE @ 2 TEXAS (W) | 12.17 9:00 PM | SEC NETWORK
-http://nocable.cc:8080/live/28148830/68208395/257675.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 082 | PORTLAND STATE @ COLORADO (M) | 12.17 9:00 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257676.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 083 | SEATTLE U @ UC DAVIS (M) | 12.17 9:00 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257677.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 084 | SOUTH DAKOTA @ PEPPERDINE (W) | 12.17 9:00 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257678.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 085 | TEXAS A&M-CORPUS CHRISTI @ STEPHEN F. AUSTIN (M) | 12.17 9:00 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257679.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 086 | UC RIVERSIDE @ UTAH (W) | 12.17 9:00 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257680.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 087 | UTSA @ USC (M) | 12.17 9:00 PM | BTN
-http://nocable.cc:8080/live/28148830/68208395/257681.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 088 | SAM HOUSTON @ OREGON STATE (M) | 12.17 9:30 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257682.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 089 | AIR FORCE @ SAN DIEGO STATE (M) | 12.17 10:00 PM | CBSSN
-http://nocable.cc:8080/live/28148830/68208395/257683.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 090 | LOYOLA CHICAGO @ SAN FRANCISCO (M) | 12.17 10:00 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257684.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 091 | SEATTLE U @ PORTLAND STATE (W) | 12.17 10:00 PM | ESPN+
-http://nocable.cc:8080/live/28148830/68208395/257685.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 092 | UT ARLINGTON @ STANFORD (M) | 12.17 10:00 PM | ACC EXTRA
-http://nocable.cc:8080/live/28148830/68208395/257686.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 093 | ARIZONA STATE @ UCLA (M) | 12.17 10:30 PM | FS1
-http://nocable.cc:8080/live/28148830/68208395/257687.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 094 | PORTLAND @ OREGON (M) | 12.17 11:00 PM | BTN
-http://nocable.cc:8080/live/28148830/68208395/257688.m3u8
+http://nocable.cc:8080/live/28148830/68208395/257738.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 051 | SOUTHEAST MISSOURI STATE @ TENNESSEE TECH (M) | 12.18 8:30 PM | ESPN+
+http://nocable.cc:8080/live/28148830/68208395/257739.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 052 | UT MARTIN @ TENNESSEE STATE (M) | 12.18 8:30 PM | ESPN+
+http://nocable.cc:8080/live/28148830/68208395/257740.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 053 | WESTERN ILLINOIS @ LINDENWOOD (M) | 12.18 8:30 PM | ESPN+
+http://nocable.cc:8080/live/28148830/68208395/257741.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 054 | EASTERN WASHINGTON @ UC SANTA BARBARA (W) | 12.18 9:00 PM | ESPN+
+http://nocable.cc:8080/live/28148830/68208395/257742.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 055 | ILLINOIS STATE @ SOUTHERN ILLINOIS (M) | 12.18 9:00 PM | ESPN+
+http://nocable.cc:8080/live/28148830/68208395/257743.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 056 | MONTANA-WESTERN @ IDAHO STATE (M) | 12.18 9:00 PM | ESPN+
+http://nocable.cc:8080/live/28148830/68208395/257744.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 057 | NORTHERN ARIZONA @ CAL STATE NORTHRIDGE (W) | 12.18 9:00 PM | ESPN+
+http://nocable.cc:8080/live/28148830/68208395/257745.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 057 | NORTHERN ARIZONA @ CAL STATE NORTHRIDGE (W) | 12.18 9:00 PM | ESPN+
+http://nocable.cc:8080/live/28148830/68208395/257746.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 059 | NOBEL @ CAL STATE BAKERSFIELD (M) | 12.18 9:30 PM | ESPN+
+http://nocable.cc:8080/live/28148830/68208395/257747.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 060 | CAL POLY @ 19 USC (W) | 12.18 10:00 PM | B1G+
+http://nocable.cc:8080/live/28148830/68208395/257748.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 061 | PEPPERDINE @ LONG BEACH STATE (M) | 12.18 10:00 PM | ESPN+
+http://nocable.cc:8080/live/28148830/68208395/257749.m3u8
 
 # --- NFL (23) ---
 #EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/5438735-nfl-team-logos-transparent-png-history-logos-lists-brands-nfl-logo-png-300_300_preview.png" group-title="NFL",US NFL Network
@@ -3608,7 +3584,7 @@ http://nocable.cc:8080/live/28148830/68208395/159120.m3u8
 http://nocable.cc:8080/live/28148830/68208395/208830.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NFL",USA | NFL
 http://nocable.cc:8080/live/28148830/68208395/208896.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 01: Miami Dolphins vs Pittsburg Steelers 8:15pm
+#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 01: Los Angeles Rams vs Seattle Seahawks @ 08:15 PM
 http://nocable.cc:8080/live/28148830/68208395/252010.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NFL",NFL 02:  Baltimore Ravens vs Cincinnati Bengals 1pm
 http://nocable.cc:8080/live/28148830/68208395/252011.m3u8
@@ -3639,21 +3615,31 @@ http://nocable.cc:8080/live/28148830/68208395/253677.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NFL",NFL 01: Baltimore Ravens at Miami Dolphins 8:15pm
 http://nocable.cc:8080/live/28148830/68208395/253678.m3u8
 
-# --- NHL (7) ---
+# --- NHL (12) ---
 #EXTINF:-1 tvg-logo="" group-title="NHL",US NHL Network
 http://nocable.cc:8080/live/28148830/68208395/253636.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 01: LAK VS FLA (TVAS Feed ) @ 7:00 pm
-http://nocable.cc:8080/live/28148830/68208395/257589.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 02: WPG VS STL (SN Feed ) @ 8:00 pm
-http://nocable.cc:8080/live/28148830/68208395/257590.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 03: NJD VS VGK (SN1 Feed ) @ 10:00 pm
-http://nocable.cc:8080/live/28148830/68208395/257591.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 04: NJD VS VGK (TVAS Feed ) @ 10:00 pm
-http://nocable.cc:8080/live/28148830/68208395/257592.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 05: Utah Mammoth vs Detroit Red Wings @ 07:30 PM
-http://nocable.cc:8080/live/28148830/68208395/257593.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 06: Carolina Hurricanes vs Nashville Predators @ 08:00 PM
-http://nocable.cc:8080/live/28148830/68208395/257594.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 01: EDM VS BOS (SN Feed ) @ 7:00 pm
+http://nocable.cc:8080/live/28148830/68208395/257776.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 02: EDM VS BOS (TVAS Feed ) @ 7:00 pm
+http://nocable.cc:8080/live/28148830/68208395/257777.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 03: EDM VS BOS (NESN Feed ) @ 7:00 pm
+http://nocable.cc:8080/live/28148830/68208395/257778.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 04: CHI VS MTL (RDS Feed ) @ 7:00 pm
+http://nocable.cc:8080/live/28148830/68208395/257779.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 05: SEA VS CGY (SN1 Feed ) @ 9:00 pm
+http://nocable.cc:8080/live/28148830/68208395/257780.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 06: SEA VS CGY (TVAS Feed ) @ 9:00 pm
+http://nocable.cc:8080/live/28148830/68208395/257781.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 07: DAL VS SJS (NBCSCA Feed ) @ 10:00 pm
+http://nocable.cc:8080/live/28148830/68208395/257782.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 08: Pittsburgh Penguins vs Ottawa Senators @ 07:00 PM
+http://nocable.cc:8080/live/28148830/68208395/257783.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 09: Los Angeles Kings vs Tampa Bay Lightning  @ 07:00 PM
+http://nocable.cc:8080/live/28148830/68208395/257784.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 10: Toronto Maple Leafs vs Washington Capitals  @ 07:00 PM
+http://nocable.cc:8080/live/28148830/68208395/257785.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 12: Philadelphia Flyers vs Buffalo Sabres  @ 07:30 PM
+http://nocable.cc:8080/live/28148830/68208395/257787.m3u8
 
 # --- PERU (7) ---
 #EXTINF:-1 tvg-logo="" group-title="PERU",PE: PANAMERICANA HD
@@ -13481,4 +13467,4 @@ http://nocable.cc:8080/live/28148830/68208395/121046.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Vietnam",VN DA NANG 1 HD
 http://nocable.cc:8080/live/28148830/68208395/121048.m3u8
 
-# Total: 6701
+# Total: 6694

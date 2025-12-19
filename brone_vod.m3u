@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: brone.fyi
-# Generated: 2025-12-18 18:38:37
+# Generated: 2025-12-19 07:10:42
 # Expires: 2026-01-18
 # Family Safe Edition
 # ==============================================
@@ -33321,7 +33321,7 @@ http://brone.fyi/series/felipe_irma/Teste44/4086
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | LEGENDADAS",MOBIUS LEG
 http://brone.fyi/series/felipe_irma/Teste44/4089
 
-# --- Series | SERIES | NETFLIX (981) ---
+# --- Series | SERIES | NETFLIX (982) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | NETFLIX",LA CASA DE PAPEL
 http://brone.fyi/series/felipe_irma/Teste44/1
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | NETFLIX",VIKINGS
@@ -35284,6 +35284,8 @@ http://brone.fyi/series/felipe_irma/Teste44/4178
 http://brone.fyi/series/felipe_irma/Teste44/4179
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | NETFLIX",TALAMASCA A ORDEM SECRETA DE ANNE RICE
 http://brone.fyi/series/felipe_irma/Teste44/4205
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES | NETFLIX",OS ABANDONADOS
+http://brone.fyi/series/felipe_irma/Teste44/4207
 
 # --- Series | SERIES | PARAMOUNT (89) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | PARAMOUNT",TODO MUNDO ODEIA O CHRIS
@@ -35563,4 +35565,4 @@ http://brone.fyi/series/felipe_irma/Teste44/3096
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | VIKI ROKUTEN",MERITISSIMO
 http://brone.fyi/series/felipe_irma/Teste44/3777
 
-# Total: 17736
+# Total: 17737

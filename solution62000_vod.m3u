@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2025-12-18 18:28:41
+# Generated: 2025-12-19 07:03:25
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -6529,7 +6529,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/356
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Tunisienne",2024 - نهار على عمار
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/371
 
-# --- Series | Series Turk (55) ---
+# --- Series | Series Turk (56) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",نهضة السلاجقة العظمى
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/67
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",الخياط
@@ -6640,8 +6640,10 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/924
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/931
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",( 2025 ) Arafta - الاعراف - مترجم
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/932
+#EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",مدبلج -  Veliaht - ولي العهد
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/946
 
-# --- Series | Series divers (236) ---
+# --- Series | Series divers (237) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Salvation
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/5
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Gomorra
@@ -7114,5 +7116,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/936
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/937
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Insomnia
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/943
+#EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Rescue: HI-Surf
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/945
 
-# Total: 3525
+# Total: 3527

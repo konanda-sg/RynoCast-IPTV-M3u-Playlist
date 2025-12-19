@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2025-12-18 18:27:21
+# Generated: 2025-12-19 07:03:32
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -405,119 +405,291 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/41870.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",BE:  bx1 Redif HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/47962.m3u8
 
-# --- BG: BULGARIA (56) ---
+# --- BG: BULGARIA (142) ---
 #EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",##### BULGARIA #####
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/37241.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Max Sport 1
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/82706.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Max Sport 2
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/82707.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Max Sport 3
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/82708.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Max Sport 4
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/82709.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Diema sport 1
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/82736.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Diema sport 2
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/82733.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Diema Sport 3
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/82674.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Nova Sport
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/82716.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: RING
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/82735.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: BTV Action
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/82654.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: MAX Sport 1 HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173098.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: MAX Sport 2 HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173099.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: MAX Sport 3 HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173100.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: MAX Sport 4 HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173101.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Diema Sport HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173064.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Diema Sport 2 HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173062.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Diema Sport 3 HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173063.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: VIVACOM Arena HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173143.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: RING HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173122.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Nova HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173116.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Nat Geo HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173111.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Nova News HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173117.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Kino Nova HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173097.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: HGTV HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173091.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: History HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173092.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: БНТ1 HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173164.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: bTV HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173157.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Диема HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173166.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Диема Фемили HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173167.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Планета HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173169.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: bTV Action HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173154.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: 7/8 TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/82633.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Action box
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/82634.m3u8
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173030.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: AMC
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173031.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: AMS
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173032.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Agro TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/82635.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Alfa TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/82636.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG:  AMC
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/82637.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Auto Motor Sport
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/82639.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: AXN Black
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/82641.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: B1B BOX
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/82642.m3u8
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173033.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Animal Planet
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173034.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Antena 3
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173035.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Arena Action
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173036.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Arena Comedy
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173037.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Arena Life
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173038.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: BG Music Channel
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173039.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Baby TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/82643.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Boomerang
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/82651.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Bulgaria 24
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/82658.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Cartoon Network
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/82660.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: CBS Reality
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/82661.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Code Fashion TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/82666.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Crime+ Investigation
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/82668.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Da Vinci Learning
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/82669.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Discovery Science
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/82675.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Discovery World
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/82676.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Disney Channel
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/82677.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Disney Junior
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/82678.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: DocuBox
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/82679.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Cinemax 1 HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/88193.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Cinemax 2 HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/88194.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: EKids
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/82682.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Duck TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/82681.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Epic Drama
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/82683.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: EUROSPORT 1
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/82684.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: EUROSPORT 2
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/82685.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Evrokom
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/82686.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Fen Folk
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/82687.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: History
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/82698.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Hit Mix Channel
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/82699.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Hobby Lov
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/82700.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: JimJam
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/82702.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Light Channel
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/82704.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Magic TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/82705.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Movie Star
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/82710.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Nick Junior
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/82713.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Rodina
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/82721.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: SKAT
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/82723.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Tiankov Folk
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/82726.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Tiankov Orient Folk
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/82727.m3u8
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173040.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Balkanika
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173041.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: BeIN Movies Turk
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173042.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Bloomberg BG
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/82729.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: BG+
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/82730.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Viasat Explore
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/82734.m3u8
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173043.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Box TV
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173044.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: CI Network
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173045.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: CNN
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173046.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: CTC Kids
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173047.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: CTC Kids
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173048.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Cartoon network
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173049.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Cartoonito
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173050.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Chasse & Peche
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173051.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: CineStar 1
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173052.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: CineStar A&T
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173053.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Cinemania
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173054.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Cinemax
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173055.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Cinemax 2
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173056.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Code Health
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173057.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Current Time
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173058.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: DM Sat
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173059.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: DSTV
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173060.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Da Vinci
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173061.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Discovery Channel
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173065.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Disney
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173066.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Disney Junior
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173067.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Dom Kino Premium
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173068.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Domashniy
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173069.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Dorcel TV
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173070.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: E-Kids
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173071.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: English Club
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173072.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Epic Drama
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173073.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Euronews Bulgaria
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173074.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Eurosport 1
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173075.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Eurosport 2
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173076.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: FREEДОМ
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173077.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Fantazzy
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173078.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Fashion TV
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173079.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Fen TV
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173080.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: FightKlub
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173081.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: FilmBox Stars
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173082.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Filmbox
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173083.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Filmbox Arthouse
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173084.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Filmbox Extra
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173085.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Food Network
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173086.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: HABERTURK
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173087.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: HBO
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173088.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: HBO 2
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173089.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: HBO 3
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173090.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Hitmix
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173093.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: ID
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173095.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: MTV
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173102.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: MTV 80s
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173103.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: MTV Hits
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173104.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Marquee TV
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173105.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Mediaset
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173106.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: MovieSTAR
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173107.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: NG Wild
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173108.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: NKTV Evrokom
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173109.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: NOVA TV
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173110.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Nick Junior
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173112.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Nickelodeon
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173113.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Nicktoons
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173114.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Nostalgia
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173115.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Nova Sport
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173118.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Perets Int.
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173119.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Pickbox TV
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173120.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Private TV
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173121.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: RTL
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173123.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Rodina TV
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173125.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: STAR Channel
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173126.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: STAR Crime
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173127.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: STAR Life
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173128.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Show Max
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173129.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Show Turk
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173130.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: SkyShowtime 1
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173131.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: SkyShowtime 2
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173132.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Soul & Pepper TV
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173133.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Super Toons
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173134.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: TLC
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173135.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: TV 1
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173136.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: TV1000 RKG
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173137.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: TV8 Int.
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173138.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: The Voice
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173139.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: The World
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173140.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Travel Channel
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173141.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Travel TV
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173142.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: VTK
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173144.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Viasat History
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173145.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Viasat Kino
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173146.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Viasat Nature
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173147.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Viasat True Crime
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173148.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Vivid TV
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173149.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: WNESS TV
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173150.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Yaban TV
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173152.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: bTV
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173153.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: bTV Cinema
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173155.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: bTV Comedy
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173156.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: bTV HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173158.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: bTV Story
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173159.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: dizi
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173160.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: БГ+
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173161.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: БНТ 2
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173162.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: БНТ 3
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173163.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: България 24
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173165.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Ловно-рибарски клуб
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173168.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Планета Фолк
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173170.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: СКАТ
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173171.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Тянков Фолк
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173172.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Фен Фолк
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173173.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",BG: Фолклор ТВ
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173174.m3u8
 
 # --- CH: Switzerland (32) ---
 #EXTINF:-1 tvg-logo="" group-title="CH: Switzerland",##### SWITZERLAND #####
@@ -849,17 +1021,7 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/170928.m3u8
 
-# --- DE-DAZN EVENT (279) ---
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1kjk7mir4k5echhxmz143012o_image-header_pDach_1760431767000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Riyadh Racing Season Race Night 11 (2025-12-18 11:55:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/172734.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2jzux1rr40ck5p8gvz036o6cw_image-header_pDach_1765788876000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Darts-WM | Tag 8 (Session 1) (2025-12-18 12:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/172735.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/509lw1jvhmt2m52eo6a9dviwd_image-header_pDach_1765789028000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Darts-WM | Tag 8 (Session 1 mit Originalkommentar) (2025-12-18 12:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/172736.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ln7zrlcjjnz51iyv2o96n3ved_image-header_pDach_1765984440000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Richards vs. Azeez: Press Conference (2025-12-18 13:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/172737.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/asazvfb1o7tk9n0q1df18hayz_image-header_pDach_1765544210000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Ourense - Bilbao (2025-12-18 18:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/172738.m3u8
+# --- DE-DAZN EVENT (274) ---
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9nesx2kcdki3blqvlhw54hvtj_image-header_pDach_1765789244000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Darts-WM | Tag 8 (Session 2) (2025-12-18 19:00:00)
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/172739.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/an9tw1re803itp1a9fh2n30lu_image-header_pDach_1764846301000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Neapel - Milan | Halbfinale (2025-12-18 19:00:00)
@@ -1516,7 +1678,7 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/144664.m3u8
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/27079.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE-DOKU/NEWS/KULTUR",DE: Motorvision HD+
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/153235.m3u8
-#EXTINF:-1 tvg-logo="https://images.derstandard.at/img/2020/03/25/PULS-24.jpg?w=750&s=200374dc" group-title="DE-DOKU/NEWS/KULTUR",DE: Puls 24
+#EXTINF:-1 tvg-logo="https://images.derstandard.at/img/2020/03/25/PULS-24.jpg?w=750&s=200374dc" group-title="DE-DOKU/NEWS/KULTUR",AT: Puls 24 HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/27080.m3u8
 
 # --- DE-DYN SPORT (39) ---
@@ -1985,7 +2147,7 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/153202.m3u8
 #EXTINF:-1 tvg-logo="https://www.sky.at/static/img/senderlogos_dark/70_sky_logo_kinowelt.png" group-title="DE-SKY FILM",DE: Kinowelt.TV HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/27082.m3u8
 
-# --- DE-SPORT (79) ---
+# --- DE-SPORT (81) ---
 #EXTINF:-1 tvg-logo="http://147.135.221.50/img/germany.png" group-title="DE-SPORT",##### DE SPORT #####
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/36245.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Sky_Sport_News_HD_Logo_2016.png" group-title="DE-SPORT",DE: Sky Sport News HD
@@ -2144,6 +2306,10 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/153214.m3u8
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/123205.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE-SPORT",DE: More Than Sports TV HD+
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/153215.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE-SPORT",AT: Laola1 HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173175.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE-SPORT",AT: Sportdigital Scooore HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173176.m3u8
 
 # --- DK: DENMARK (83) ---
 #EXTINF:-1 tvg-logo="" group-title="DK: DENMARK",##### DENMARK #####
@@ -6999,4 +7165,4 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165820.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JEtHjJs.png" group-title="WORLD SPORTS",Sky Sport Action HD [UK]
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165884.m3u8
 
-# Total: 3439
+# Total: 3522

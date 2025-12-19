@@ -1,11 +1,15 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tzuraganu.gotdns.ch:8008
-# Generated: 2025-12-18 18:32:50
+# Generated: 2025-12-19 07:06:09
 # Expires: 2026-09-17
 # Family Safe Edition
 # ==============================================
 
+
+# --- Movies | ⚜️FILME - 2026⚜️ (1) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gDVgC9jd917NdAcqBdRRDUYi4Tq.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",Avatar: Fire and Ash (2026)
+http://tzuraganu.gotdns.ch:8008/movie/bona_marius/qE7Xwtu3gE/555285.mkv
 
 # --- Movies | ⚡SERIALE - ACTIUNE & AVENTURA⚡ (287) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | ⚡SERIALE - ACTIUNE & AVENTURA⚡",1992
@@ -11763,9 +11767,7 @@ http://tzuraganu.gotdns.ch:8008/movie/bona_marius/qE7Xwtu3gE/510309.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xZHW6p6ZjaN8SQmjEHpeo5Nw0cc.jpg" group-title="Movies | ✨FILME - 2024✨",The Champion - 2024
 http://tzuraganu.gotdns.ch:8008/movie/bona_marius/qE7Xwtu3gE/510310.mp4
 
-# --- Movies | ✨FILME - 2025✨ (1177) ---
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gDVgC9jd917NdAcqBdRRDUYi4Tq.jpg" group-title="Movies | ✨FILME - 2025✨",Avatar: Fire and Ash - 2025
-http://tzuraganu.gotdns.ch:8008/movie/bona_marius/qE7Xwtu3gE/555285.mkv
+# --- Movies | ✨FILME - 2025✨ (1176) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lsaplzFtU6dADWG9Sj2aneh2Ymx.jpg" group-title="Movies | ✨FILME - 2025✨",Am Ah - 2025
 http://tzuraganu.gotdns.ch:8008/movie/bona_marius/qE7Xwtu3gE/555281.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a0bODl3Ieix1qcGRLIx6PZvluzB.jpg" group-title="Movies | ✨FILME - 2025✨",No Tears in Hell - 2025

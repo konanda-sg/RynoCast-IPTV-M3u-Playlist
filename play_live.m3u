@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: play.tecnomolly.com:8080
-# Generated: 2025-12-18 18:36:02
+# Generated: 2025-12-19 07:08:40
 # Expires: 2026-07-14
 # Family Safe Edition
 # ==============================================
@@ -807,17 +807,17 @@ http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/499626.m3u8
 #EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/4e789df2-0b07-46ce-93b5-fad1743ebb85/badging?width=400&aspectRatio=1.78&format=jpeg&label=originals&.jpeg" group-title="La Granja",24/7 Acceso Total 2
 http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/499842.m3u8
 
-# --- Liga Arco 17/12/2025 (5) ---
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/ligaarco.jpg" group-title="Liga Arco 17/12/2025",19:30 Tomateros vs Charros
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/512770.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/ligaarco.jpg" group-title="Liga Arco 17/12/2025",20:00 Venados vs Tucson
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/512771.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/ligaarco.jpg" group-title="Liga Arco 17/12/2025",20:30 Caneros vs Algodoneros
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/512772.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/ligaarco.jpg" group-title="Liga Arco 17/12/2025",20:30 Naranjeros vs Jaguares
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/512773.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/ligaarco.jpg" group-title="Liga Arco 17/12/2025",21:30 Yaquis vs Aguilas
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/512774.m3u8
+# --- Liga Arco 18/12/2025 (5) ---
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/ligaarco.jpg" group-title="Liga Arco 18/12/2025",19:30 Tomateros vs Charros
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513371.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/ligaarco.jpg" group-title="Liga Arco 18/12/2025",20:00 Venados vs Tucson
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513372.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/ligaarco.jpg" group-title="Liga Arco 18/12/2025",20:30 Caneros vs Algodoneros
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513373.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/ligaarco.jpg" group-title="Liga Arco 18/12/2025",20:30 Naranjeros vs Jaguares
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513374.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/ligaarco.jpg" group-title="Liga Arco 18/12/2025",21:30 Yaquis vs Aguilas
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513375.m3u8
 
 # --- Live Soccer Jueves (13) ---
 #EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/copadelrey.jpg" group-title="Live Soccer Jueves",12:00 Burgos vs Getafe
@@ -985,15 +985,9 @@ http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/393607.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/999207042198880256/UHyziQ06_400x400.jpg" group-title="Musica",Mx | Mtv Club
 http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/436025.m3u8
 
-# --- NBA 17/12/25 (presiona boton update) (3) ---
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/25/de/21/25de21fc90070ec3bcbe776a8203bb3d.jpg" group-title="NBA 17/12/25 (presiona boton update)",NBA Tv
+# --- NBA 18/12/25 (presiona boton update) (11) ---
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/25/de/21/25de21fc90070ec3bcbe776a8203bb3d.jpg" group-title="NBA 18/12/25 (presiona boton update)",NBA Tv
 http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/496768.m3u8
-#EXTINF:-1 tvg-logo="https://blog.logomyway.com/wp-content/uploads/2017/01/nba-logo-design.jpg" group-title="NBA 17/12/25 (presiona boton update)",19:00 Bulls vs Cavs
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/512777.m3u8
-#EXTINF:-1 tvg-logo="https://blog.logomyway.com/wp-content/uploads/2017/01/nba-logo-design.jpg" group-title="NBA 17/12/25 (presiona boton update)",19:00 Grizzlies vs Timberwolves
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/512778.m3u8
-
-# --- NBA 18/12/25 (presiona boton update) (10) ---
 #EXTINF:-1 tvg-logo="https://blog.logomyway.com/wp-content/uploads/2017/01/nba-logo-design.jpg" group-title="NBA 18/12/25 (presiona boton update)",18:00 Knicks vs Pacers
 http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/512779.m3u8
 #EXTINF:-1 tvg-logo="https://blog.logomyway.com/wp-content/uploads/2017/01/nba-logo-design.jpg" group-title="NBA 18/12/25 (presiona boton update)",18:00 Hawks vs Hornets
@@ -1027,117 +1021,17 @@ http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513257.m3u8
 #EXTINF:-1 tvg-logo="https://blog.logomyway.com/wp-content/uploads/2017/01/nba-logo-design.jpg" group-title="NBA 19/12/25 (presiona boton update)",20:30 Thunder vs Timberwolves
 http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513258.m3u8
 
-# --- NCAA BB 17/12/25 (presiona boton update) (50) ---
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/leagues/logos/GTaRmQeKR59m3XZxACNARZdJLw0VBuZM3VhFpU4MY1zp2hZYMo.png" group-title="NCAA BB 17/12/25 (presiona boton update)",Kansas Christian Falcons vs Central Arkansas Bears  | 11:00:00
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513144.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/leagues/logos/GTaRmQeKR59m3XZxACNARZdJLw0VBuZM3VhFpU4MY1zp2hZYMo.png" group-title="NCAA BB 17/12/25 (presiona boton update)",Southwestern Christian Eagles vs Rice Owls  |. 11:15:00
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513145.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/leagues/logos/GTaRmQeKR59m3XZxACNARZdJLw0VBuZM3VhFpU4MY1zp2hZYMo.png" group-title="NCAA BB 17/12/25 (presiona boton update)",Northern Iowa Panthers vs UIC Flames  |. 16:00:00
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513146.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/leagues/logos/GTaRmQeKR59m3XZxACNARZdJLw0VBuZM3VhFpU4MY1zp2hZYMo.png" group-title="NCAA BB 17/12/25 (presiona boton update)",Stonehill Skyhawks vs New Hampshire Wildcats  |. 17:00:00
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513147.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/leagues/logos/GTaRmQeKR59m3XZxACNARZdJLw0VBuZM3VhFpU4MY1zp2hZYMo.png" group-title="NCAA BB 17/12/25 (presiona boton update)",St. Francis (PA) Red Flash vs Florida Gators  |. 17:30:00
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513149.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/leagues/logos/GTaRmQeKR59m3XZxACNARZdJLw0VBuZM3VhFpU4MY1zp2hZYMo.png" group-title="NCAA BB 17/12/25 (presiona boton update)",Vanderbilt Commodores vs Memphis Tigers  |. 18:00:00
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513150.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/leagues/logos/GTaRmQeKR59m3XZxACNARZdJLw0VBuZM3VhFpU4MY1zp2hZYMo.png" group-title="NCAA BB 17/12/25 (presiona boton update)",Brewton Parker College Barons vs West Georgia Wolves  |. 18:00:00
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513151.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/leagues/logos/GTaRmQeKR59m3XZxACNARZdJLw0VBuZM3VhFpU4MY1zp2hZYMo.png" group-title="NCAA BB 17/12/25 (presiona boton update)",Chattanooga Mocs vs Bellarmine Knights  |. 18:00:00
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513152.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/leagues/logos/GTaRmQeKR59m3XZxACNARZdJLw0VBuZM3VhFpU4MY1zp2hZYMo.png" group-title="NCAA BB 17/12/25 (presiona boton update)",Quinnipiac Bobcats vs Monmouth Hawks  |. 18:00:00
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513154.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/leagues/logos/GTaRmQeKR59m3XZxACNARZdJLw0VBuZM3VhFpU4MY1zp2hZYMo.png" group-title="NCAA BB 17/12/25 (presiona boton update)",Longwood Lancers vs Wake Forest Demon Deacons  |. 18:00:00
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513155.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/leagues/logos/GTaRmQeKR59m3XZxACNARZdJLw0VBuZM3VhFpU4MY1zp2hZYMo.png" group-title="NCAA BB 17/12/25 (presiona boton update)",Mercyhurst Lakers vs Syracuse Orange  |. 18:00:00
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513156.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/leagues/logos/GTaRmQeKR59m3XZxACNARZdJLw0VBuZM3VhFpU4MY1zp2hZYMo.png" group-title="NCAA BB 17/12/25 (presiona boton update)",Binghamton Bearcats vs Pittsburgh Panthers  |. 18:00:00
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513157.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/leagues/logos/GTaRmQeKR59m3XZxACNARZdJLw0VBuZM3VhFpU4MY1zp2hZYMo.png" group-title="NCAA BB 17/12/25 (presiona boton update)",Texas Southern Tigers vs North Carolina State Wolfpack  |. 18:00:00
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513158.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/leagues/logos/GTaRmQeKR59m3XZxACNARZdJLw0VBuZM3VhFpU4MY1zp2hZYMo.png" group-title="NCAA BB 17/12/25 (presiona boton update)",Richmond Spiders vs Elon Phoenix  |. 18:00:00
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513159.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/leagues/logos/GTaRmQeKR59m3XZxACNARZdJLw0VBuZM3VhFpU4MY1zp2hZYMo.png" group-title="NCAA BB 17/12/25 (presiona boton update)",Mid-Atlantic Christian Mustangs vs North Carolina Central Eagles  |. 18:00:00
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513160.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/leagues/logos/GTaRmQeKR59m3XZxACNARZdJLw0VBuZM3VhFpU4MY1zp2hZYMo.png" group-title="NCAA BB 17/12/25 (presiona boton update)",UC Santa Barbara Gauchos vs Wisconsin Green Bay Phoenix  |. 18:00:00
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513161.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/leagues/logos/GTaRmQeKR59m3XZxACNARZdJLw0VBuZM3VhFpU4MY1zp2hZYMo.png" group-title="NCAA BB 17/12/25 (presiona boton update)",Eastern Kentucky Colonels vs Jacksonville State Gamecocks  |. 18:00:00
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513162.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/leagues/logos/GTaRmQeKR59m3XZxACNARZdJLw0VBuZM3VhFpU4MY1zp2hZYMo.png" group-title="NCAA BB 17/12/25 (presiona boton update)",Citadel Bulldogs vs College of Charleston  |. 18:00:00
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513163.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/leagues/logos/GTaRmQeKR59m3XZxACNARZdJLw0VBuZM3VhFpU4MY1zp2hZYMo.png" group-title="NCAA BB 17/12/25 (presiona boton update)",Southern Wesleyan Warriors vs South Carolina Upstate Spartans  |. 18:00:00
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513164.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/leagues/logos/GTaRmQeKR59m3XZxACNARZdJLw0VBuZM3VhFpU4MY1zp2hZYMo.png" group-title="NCAA BB 17/12/25 (presiona boton update)",Mercer Bears vs UCF Knights  |. 18:00:00
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513165.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/leagues/logos/GTaRmQeKR59m3XZxACNARZdJLw0VBuZM3VhFpU4MY1zp2hZYMo.png" group-title="NCAA BB 17/12/25 (presiona boton update)",Maryland Eastern Shore Hawks vs Wagner Seahawks  |. 18:00:00
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513166.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/leagues/logos/GTaRmQeKR59m3XZxACNARZdJLw0VBuZM3VhFpU4MY1zp2hZYMo.png" group-title="NCAA BB 17/12/25 (presiona boton update)",Siena Saints vs Vermont Catamounts  |. 18:00:00
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513167.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/leagues/logos/GTaRmQeKR59m3XZxACNARZdJLw0VBuZM3VhFpU4MY1zp2hZYMo.png" group-title="NCAA BB 17/12/25 (presiona boton update)",Alabama State Hornets vs Cincinnati Bearcats  |. 18:00:00
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513168.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/leagues/logos/GTaRmQeKR59m3XZxACNARZdJLw0VBuZM3VhFpU4MY1zp2hZYMo.png" group-title="NCAA BB 17/12/25 (presiona boton update)",Youngstown State Penguins vs Robert Morris Colonials  |. 18:00:00
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513169.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/leagues/logos/GTaRmQeKR59m3XZxACNARZdJLw0VBuZM3VhFpU4MY1zp2hZYMo.png" group-title="NCAA BB 17/12/25 (presiona boton update)",Oakland Golden Grizzlies vs Northern Kentucky Norse  |. 18:00:00
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513170.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/leagues/logos/GTaRmQeKR59m3XZxACNARZdJLw0VBuZM3VhFpU4MY1zp2hZYMo.png" group-title="NCAA BB 17/12/25 (presiona boton update)",Olivet Comets vs Central Michigan Chippewas  |. 18:00:00
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513171.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/leagues/logos/GTaRmQeKR59m3XZxACNARZdJLw0VBuZM3VhFpU4MY1zp2hZYMo.png" group-title="NCAA BB 17/12/25 (presiona boton update)",Wofford Terriers vs Wichita State Shockers  |. 18:30:00
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513172.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/leagues/logos/GTaRmQeKR59m3XZxACNARZdJLw0VBuZM3VhFpU4MY1zp2hZYMo.png" group-title="NCAA BB 17/12/25 (presiona boton update)",Cleveland State Vikings vs Uab Blazers  |. 18:30:00
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513173.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/leagues/logos/GTaRmQeKR59m3XZxACNARZdJLw0VBuZM3VhFpU4MY1zp2hZYMo.png" group-title="NCAA BB 17/12/25 (presiona boton update)",Louisiana Tech Bulldogs vs Tulane Green Wave  |. 18:30:00
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513174.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/leagues/logos/GTaRmQeKR59m3XZxACNARZdJLw0VBuZM3VhFpU4MY1zp2hZYMo.png" group-title="NCAA BB 17/12/25 (presiona boton update)",South Alabama Jaguars vs Louisiana-Monroe Warhawks  |. 18:30:00
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513176.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/leagues/logos/GTaRmQeKR59m3XZxACNARZdJLw0VBuZM3VhFpU4MY1zp2hZYMo.png" group-title="NCAA BB 17/12/25 (presiona boton update)",Houston Baptist Huskies vs Nicholls State Colonels  |. 18:30:00
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513177.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/leagues/logos/GTaRmQeKR59m3XZxACNARZdJLw0VBuZM3VhFpU4MY1zp2hZYMo.png" group-title="NCAA BB 17/12/25 (presiona boton update)",South Florida Bulls vs Alabama Crimson Tide  |. 19:00:00
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513178.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/leagues/logos/GTaRmQeKR59m3XZxACNARZdJLw0VBuZM3VhFpU4MY1zp2hZYMo.png" group-title="NCAA BB 17/12/25 (presiona boton update)",Bethune-Cookman Wildcats vs Saint Louis Billikens  |. 19:00:00
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513179.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/leagues/logos/GTaRmQeKR59m3XZxACNARZdJLw0VBuZM3VhFpU4MY1zp2hZYMo.png" group-title="NCAA BB 17/12/25 (presiona boton update)",James Madison Dukes vs Old Dominion Monarchs  |. 19:00:00
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513180.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/leagues/logos/GTaRmQeKR59m3XZxACNARZdJLw0VBuZM3VhFpU4MY1zp2hZYMo.png" group-title="NCAA BB 17/12/25 (presiona boton update)",Alabama A&m Bulldogs vs Mississippi Rebels  |. 19:00:00
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513181.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/leagues/logos/GTaRmQeKR59m3XZxACNARZdJLw0VBuZM3VhFpU4MY1zp2hZYMo.png" group-title="NCAA BB 17/12/25 (presiona boton update)",Weber State Wildcats vs Utah Valley Wolverines  |. 19:00:00
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513182.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/leagues/logos/GTaRmQeKR59m3XZxACNARZdJLw0VBuZM3VhFpU4MY1zp2hZYMo.png" group-title="NCAA BB 17/12/25 (presiona boton update)",Georgetown Hoyas vs Marquette Golden Eagles  |. 19:30:00
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513183.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/leagues/logos/GTaRmQeKR59m3XZxACNARZdJLw0VBuZM3VhFpU4MY1zp2hZYMo.png" group-title="NCAA BB 17/12/25 (presiona boton update)",Arkansas State Red Wolves vs Texas State Bobcats  |. 19:30:00
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513184.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/leagues/logos/GTaRmQeKR59m3XZxACNARZdJLw0VBuZM3VhFpU4MY1zp2hZYMo.png" group-title="NCAA BB 17/12/25 (presiona boton update)",Montana Tech Orediggers vs Montana Grizzlies  |. 20:00:00
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513186.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/leagues/logos/GTaRmQeKR59m3XZxACNARZdJLw0VBuZM3VhFpU4MY1zp2hZYMo.png" group-title="NCAA BB 17/12/25 (presiona boton update)",Texas San Antonio Roadrunners vs USC Trojans  |. 20:00:00
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513187.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/leagues/logos/GTaRmQeKR59m3XZxACNARZdJLw0VBuZM3VhFpU4MY1zp2hZYMo.png" group-title="NCAA BB 17/12/25 (presiona boton update)",Seattle Redhawks vs UC Davis Aggies  |. 20:00:00
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513188.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/leagues/logos/GTaRmQeKR59m3XZxACNARZdJLw0VBuZM3VhFpU4MY1zp2hZYMo.png" group-title="NCAA BB 17/12/25 (presiona boton update)",Portland Pilots vs Colorado Buffaloes  |. 20:00:00
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513189.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/leagues/logos/GTaRmQeKR59m3XZxACNARZdJLw0VBuZM3VhFpU4MY1zp2hZYMo.png" group-title="NCAA BB 17/12/25 (presiona boton update)",Texas A&M Corpus Christi Islanders vs Stephen F Austin Lumberjacks  |. 20:00:00
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513190.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/leagues/logos/GTaRmQeKR59m3XZxACNARZdJLw0VBuZM3VhFpU4MY1zp2hZYMo.png" group-title="NCAA BB 17/12/25 (presiona boton update)",Sam Houston State Bearkats vs Oregon State Beavers  |. 20:30:00
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513191.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/leagues/logos/GTaRmQeKR59m3XZxACNARZdJLw0VBuZM3VhFpU4MY1zp2hZYMo.png" group-title="NCAA BB 17/12/25 (presiona boton update)",Eastern Washington Eagles vs Washington St Cougars  |. 21:00:00
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513192.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/leagues/logos/GTaRmQeKR59m3XZxACNARZdJLw0VBuZM3VhFpU4MY1zp2hZYMo.png" group-title="NCAA BB 17/12/25 (presiona boton update)",Air Force Falcons vs San Diego State Aztecs  |. 21:00:00
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513193.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/leagues/logos/GTaRmQeKR59m3XZxACNARZdJLw0VBuZM3VhFpU4MY1zp2hZYMo.png" group-title="NCAA BB 17/12/25 (presiona boton update)",Loyola Chicago Ramblers vs San Francisco Dons  |. 21:00:00
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513194.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/leagues/logos/GTaRmQeKR59m3XZxACNARZdJLw0VBuZM3VhFpU4MY1zp2hZYMo.png" group-title="NCAA BB 17/12/25 (presiona boton update)",Texas Arlington Mavericks vs Stanford Cardinal  |. 21:00:00
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513195.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/leagues/logos/GTaRmQeKR59m3XZxACNARZdJLw0VBuZM3VhFpU4MY1zp2hZYMo.png" group-title="NCAA BB 17/12/25 (presiona boton update)",Arizona State Sun Devils vs UCLA Bruins  |. 21:30:00
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513196.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/leagues/logos/GTaRmQeKR59m3XZxACNARZdJLw0VBuZM3VhFpU4MY1zp2hZYMo.png" group-title="NCAA BB 17/12/25 (presiona boton update)",Portland Pilots vs Oregon Ducks  |. 22:00:00
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513197.m3u8
-
 # --- NCAA FB 17/12/25 (presiona boton update) (2) ---
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1350148028779417600/Kc9QqtHH_400x400.jpg" group-title="NCAA FB 17/12/25 (presiona boton update)",16:00 Old Dominion vs South Florida
 http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513252.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1350148028779417600/Kc9QqtHH_400x400.jpg" group-title="NCAA FB 17/12/25 (presiona boton update)",19:30 Louisiana vs Delaware
 http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513253.m3u8
 
-# --- NFL 18/12/25 (presiona boton update) (1) ---
+# --- NFL 18/12/25 (presiona boton update) (2) ---
 #EXTINF:-1 tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2023/02/nfl-network_NFL-graphics.jpg" group-title="NFL 18/12/25 (presiona boton update)",NFL Network
 http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/485323.m3u8
+#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/sports/football/nfl/events/401772884.png?templateId=espn.com.share.1" group-title="NFL 18/12/25 (presiona boton update)",19:15 Seahawks vs Rams
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513376.m3u8
 
 # --- NHL 18/12/25 (presiona boton update) (8) ---
 #EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/nhl.jpg" group-title="NHL 18/12/25 (presiona boton update)",18:00 Oilers vs Bruins
@@ -1148,13 +1042,13 @@ http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/512168.m3u8
 http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/512368.m3u8
 #EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/nhl.jpg" group-title="NHL 18/12/25 (presiona boton update)",18:00 Maple leafs vs Capitals
 http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/512765.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/ligaarco.jpg" group-title="NHL 18/12/25 (presiona boton update)",18:30 Flyers vs Sabres
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/nhl.jpg" group-title="NHL 18/12/25 (presiona boton update)",18:30 Flyers vs Sabres
 http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513259.m3u8
 #EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/ligaarco.jpg" group-title="NHL 18/12/25 (presiona boton update)",20:00 Kraken vs Flames
 http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513261.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/ligaarco.jpg" group-title="NHL 18/12/25 (presiona boton update)",21:00 Stars vs Sharks
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/nhl.jpg" group-title="NHL 18/12/25 (presiona boton update)",21:00 Stars vs Sharks
 http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513262.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/ligaarco.jpg" group-title="NHL 18/12/25 (presiona boton update)",18:00 Penguins vs Senators
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/nhl.jpg" group-title="NHL 18/12/25 (presiona boton update)",18:00 Penguins vs Senators
 http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/513263.m3u8
 
 # --- Networks USA (82) ---
@@ -1895,4 +1789,4 @@ http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/279047.m3u8
 #EXTINF:-1 tvg-logo="http://valetv.info/wp-content/uploads/2019/10/LOGO-VALE-TV-1.jpg" group-title="Venezuela",VE | Vale tv
 http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/279058.m3u8
 
-# Total: 885
+# Total: 834
