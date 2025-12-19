@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: hdhd.tk:80
-# Generated: 2025-12-19 07:07:57
+# Generated: 2025-12-19 18:32:44
 # Expires: 2027-10-14
 # Family Safe Edition
 # ==============================================
@@ -3090,11 +3090,11 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/351058.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/351059.m3u8
 
 # --- PPV  EVENTS (24) ---
-#EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV01: Wrestling Revolver: Holiday Special 2025 @ 08:00 PM EST
+#EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV01: : House of Glory: Winter Warfare 2025 @ 08:00 PM EST
 http://hdhd.tk:80/live/Amanda1/Frechette1/29427.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV02::
+#EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV02::CMLL: Dream Match Friday 2025 @ 09:30 PM EST
 http://hdhd.tk:80/live/Amanda1/Frechette1/29428.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV03:
+#EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV03:  Boxing: JAKE VS JOSHUA (NETFLIX) @ 08:00 PM EST
 http://hdhd.tk:80/live/Amanda1/Frechette1/29430.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV04:
 http://hdhd.tk:80/live/Amanda1/Frechette1/29432.m3u8
@@ -6082,29 +6082,29 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/383428.m3u8
 # --- USA NBA (19) ---
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",US NBA TV
 http://hdhd.tk:80/live/Amanda1/Frechette1/6634.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",USA NBA 01::  LAC Clippers VS OKC Thunder ( NBA TV Feed ) @ 8:00 PM
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",USA NBA 01::  Miami Heat vs Boston Celtics @ 07:00 PM EST
 http://hdhd.tk:80/live/Amanda1/Frechette1/12701.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",USA NBA 02:Atlanta Hawks vs Charlotte Hornets @ 07:00 PM EST
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",USA NBA 02:Philadelphia 76ers vs New York Knicks @ 07:00 PM EST
 http://hdhd.tk:80/live/Amanda1/Frechette1/12702.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",USA NBA 03::  New York Knicks vs Indiana Pacers @ 07:00 PM EST
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",USA NBA 03::  San Antonio Spurs vs Atlanta Hawks @ 07:30 PM EST
 http://hdhd.tk:80/live/Amanda1/Frechette1/12703.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",USA NBA 04  Miami Heat vs Brooklyn Nets @ 07:30 PM EST
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",USA NBA 04  : Chicago Bulls vs Cleveland Cavaliers @ 07:30 PM EST
 http://hdhd.tk:80/live/Amanda1/Frechette1/12704.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",USA NBA 05::  Washington Wizards vs San Antonio Spurs @ 08:00 PM EST
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",USA NBA 05:: : Oklahoma City Thunder vs Minnesota Timberwolves @ 09:30 PM EST
 http://hdhd.tk:80/live/Amanda1/Frechette1/12705.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",USA NBA 06 :  Toronto Raptors vs Milwaukee Bucks @ 08:00 PM EST
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",USA NBA 06 :
 http://hdhd.tk:80/live/Amanda1/Frechette1/12706.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",USA NBA 07: : Houston Rockets vs New Orleans Pelicans @ 08:00 PM EST
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",USA NBA 07:
 http://hdhd.tk:80/live/Amanda1/Frechette1/12707.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",USA NBA 08 Detroit Pistons vs Dallas Mavericks @ 08:30 PM EST
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",USA NBA 08
 http://hdhd.tk:80/live/Amanda1/Frechette1/12708.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",USA NBA  09:Orlando Magic vs Denver Nuggets @ 09:00 PM EST
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",USA NBA  09:
 http://hdhd.tk:80/live/Amanda1/Frechette1/12709.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",NBA LP 10 : : Golden State Warriors vs Phoenix Suns @ 09:00 PM EST
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",NBA LP 10
 http://hdhd.tk:80/live/Amanda1/Frechette1/12710.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",NBA LP 11 Los Angeles Lakers vs Utah Jazz @ 09:00 PM EST
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",NBA LP 11
 http://hdhd.tk:80/live/Amanda1/Frechette1/47398.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",NBA LP 12  :Sacramento Kings vs Portland Trail Blazers @ 10:00 PM EST
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",NBA LP 12
 http://hdhd.tk:80/live/Amanda1/Frechette1/47399.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",NBA LP 13
 http://hdhd.tk:80/live/Amanda1/Frechette1/47683.m3u8
@@ -6540,7 +6540,7 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/370325.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/383412.m3u8
 
 # --- USA NFL (21) ---
-#EXTINF:-1 tvg-logo="" group-title="USA NFL",USA NFL Thursday Night backup :Rams @ Seahawks @ 8:15 PM Dec 18
+#EXTINF:-1 tvg-logo="" group-title="USA NFL",USA NFL Thursday Night backup :
 http://hdhd.tk:80/live/Amanda1/Frechette1/386128.m3u8
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/nflsundayticket3.png" group-title="USA NFL",USA NFL Sunday 705:
 http://hdhd.tk:80/live/Amanda1/Frechette1/29017.m3u8
@@ -6574,7 +6574,7 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/29166.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/29167.m3u8
 #EXTINF:-1 tvg-logo="https://static.www.nfl.com/image/private/f_auto/league/bwrjrkcn3slgas74kesz" group-title="USA NFL",USA NFL Monday Night:
 http://hdhd.tk:80/live/Amanda1/Frechette1/29168.m3u8
-#EXTINF:-1 tvg-logo="https://static.www.nfl.com/image/private/f_auto/league/ajpwfrvipktwruhuws30" group-title="USA NFL",USA NFL Thursday Night: Rams @ Seahawks @ 8:15 PM Dec 18
+#EXTINF:-1 tvg-logo="https://static.www.nfl.com/image/private/f_auto/league/ajpwfrvipktwruhuws30" group-title="USA NFL",USA NFL Thursday Night:
 http://hdhd.tk:80/live/Amanda1/Frechette1/29208.m3u8
 #EXTINF:-1 tvg-logo="https://static.www.nfl.com/image/private/f_auto/league/wecsp2tfaxklqiggisq3" group-title="USA NFL",USA NFL Sunday Night:
 http://hdhd.tk:80/live/Amanda1/Frechette1/29429.m3u8
@@ -6583,29 +6583,33 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/32974.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA NFL",US NFL Network
 http://hdhd.tk:80/live/Amanda1/Frechette1/386129.m3u8
 
-# --- USA NHL (39) ---
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 01:    EDM VS BOS (SN Feed ) @ 7:00 pm
+# --- USA NHL (41) ---
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 01: CAR VS FLA (TVAS Feed ) @ 7:00 pm
 http://hdhd.tk:80/live/Amanda1/Frechette1/30025.m3u8
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 02 EDM VS BOS (TVAS Feed ) @ 7:00 pm
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 02  VAN VS NYI (NHLN Feed ) @ 7:00 pm
 http://hdhd.tk:80/live/Amanda1/Frechette1/30026.m3u8
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 03::EDM VS BOS (NESN Feed ) @ 7:00 pm
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 03::VAN VS NYI (SN Feed ) @ 7:00 pm
 http://hdhd.tk:80/live/Amanda1/Frechette1/30027.m3u8
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 04:::CHI VS MTL (RDS Feed ) @ 7:00 pm
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 04:WPG VS COL (TVAS Feed ) @ 9:00 pm
 http://hdhd.tk:80/live/Amanda1/Frechette1/30028.m3u8
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 05:  SEA VS CGY (SN1 Feed ) @ 9:00 pm
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 05:  : WPG VS COL (ALT Feed ) @ 9:00 pm
 http://hdhd.tk:80/live/Amanda1/Frechette1/30029.m3u8
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 06   SEA VS CGY (TVAS Feed ) @ 9:00 pm
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 06   DAL VS ANA (SN Feed ) @ 10:00 pm
 http://hdhd.tk:80/live/Amanda1/Frechette1/30030.m3u8
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 07 : DAL VS SJS (NBCSCA Feed ) @ 10:00 pm
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 07 : New Jersey Devils vs Utah Mammoth @ 09:00 PM
 http://hdhd.tk:80/live/Amanda1/Frechette1/30031.m3u8
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 08   Pittsburgh Penguins vs Ottawa Senators @ 07:00 PM
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 08
 http://hdhd.tk:80/live/Amanda1/Frechette1/30032.m3u8
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 09  Los Angeles Kings vs Tampa Bay Lightning @ 07:00 PM
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 09
 http://hdhd.tk:80/live/Amanda1/Frechette1/30033.m3u8
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 10: :Toronto Maple Leafs vs Washington Capitals @ 07:00 PM
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 10:
 http://hdhd.tk:80/live/Amanda1/Frechette1/30034.m3u8
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 12: Philadelphia Flyers vs Buffalo Sabres @ 07:30 PM
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 11 :
+http://hdhd.tk:80/live/Amanda1/Frechette1/30035.m3u8
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 12:
 http://hdhd.tk:80/live/Amanda1/Frechette1/30036.m3u8
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 13
+http://hdhd.tk:80/live/Amanda1/Frechette1/30037.m3u8
 #EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 14：
 http://hdhd.tk:80/live/Amanda1/Frechette1/30038.m3u8
 #EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 15:
@@ -7783,4 +7787,4 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/330321.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Vietnam",VN FILM24H
 http://hdhd.tk:80/live/Amanda1/Frechette1/330322.m3u8
 
-# Total: 3797
+# Total: 3799

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: alperinho1907.kralsmart.xyz:2086
-# Generated: 2025-12-19 07:12:45
+# Generated: 2025-12-19 18:31:15
 # Expires: 2026-02-08
 # Family Safe Edition
 # ==============================================
@@ -1021,19 +1021,7 @@ http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/170928.m3u8
 
-# --- DE-DAZN EVENT (274) ---
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9nesx2kcdki3blqvlhw54hvtj_image-header_pDach_1765789244000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Darts-WM | Tag 8 (Session 2) (2025-12-18 19:00:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/172739.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/an9tw1re803itp1a9fh2n30lu_image-header_pDach_1764846301000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Neapel - Milan | Halbfinale (2025-12-18 19:00:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/172740.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dip9fsn5oz3a3y3tianx9dpb6_image-header_pDach_1765789135000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Darts-WM | Tag 8 (Session 2 mit Originalkommentar) (2025-12-18 19:00:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/172741.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/736cdnlape6s42izs44f8i06p_image-header_pDach_1765544426000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Real Murcia - Real Betis (2025-12-18 20:00:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/172742.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/32fneflxr1pod8q6osv7g5any_image-header_pDach_1764509085000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Rams @ Seahawks (deutscher Kommentar) (2025-12-19 01:15:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/172743.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/17kack4r18jq11gntniz5535zr_image-header_pDach_1765316228000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",XBox Bowl: Missouri State vs. Arkansas State (2025-12-19 02:00:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/172744.m3u8
+# --- DE-DAZN EVENT (268) ---
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9u7rcv6jejp4pmq5vuvlqb2dm_image-header_pDach_1763473997000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Wintersport-Freitag | 19. Dezember (2025-12-19 09:05:00)
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/172745.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dqncvfeppyxqzsh1vcrgajdo6_image-header_pDach_1760431570000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Ministry of Education Cup Race Night (2025-12-19 12:20:00)
@@ -2624,6 +2612,8 @@ http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/168078.m3u8
 # --- EX.YUG: Yugoslavya (110) ---
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",##### EXYU #####
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/37236.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",EX-YU SR: Premier_League_TV
+http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/32363.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",EX-YU: Arena Sport 1 HD
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/44300.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",EX-YU: Arena Sport 2
@@ -2714,7 +2704,7 @@ http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/154623.m3u8
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/32334.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",EX-YU: KCN 1
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/32439.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",EX-YU: MINI TV
+#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",EX-YU: MINI maxTV
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/32425.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",EX-YU: MINIMAX
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/32427.m3u8
@@ -2728,7 +2718,7 @@ http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/32423.m3u8
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/32366.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",EX-YU SR: AXN
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/32395.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",EX-YU SR: Rtv Vojvodina 1
+#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",EX-YU SR: CARTANITO HD
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/32390.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",EX-YU SR:  DiZi TV      (Rtv Vojvodina 2)
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/32394.m3u8
@@ -2762,8 +2752,6 @@ http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/32361.m3u8
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/32362.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",EX-YU SR: RTS Svet
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/32383.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",EX-YU SR: RTS TREZOR
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/32363.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",EX-YU SR: Viasat Explorer
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/32420.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",EX-YU SR: Viasat History
@@ -2772,7 +2760,7 @@ http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/32422.m3u8
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/88503.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",EX-YU: RTCG 1 HD
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/88504.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",EX-YU: RTCG 2 HD
+#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",EX-YU: FASTFUN HD
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/88505.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",EXYU | DUCK TV HD
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/169964.m3u8
@@ -7165,4 +7153,4 @@ http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/165820.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JEtHjJs.png" group-title="WORLD SPORTS",Sky Sport Action HD [UK]
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/165884.m3u8
 
-# Total: 3522
+# Total: 3516

@@ -1,13 +1,13 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: uzay.pro:8080
-# Generated: 2025-12-17 07:05:00
+# Generated: 2025-12-19 18:36:43
 # Expires: 2026-04-13
 # Family Safe Edition
 # ==============================================
 
 
-# --- AL ALBANIA (93) ---
+# --- AL ALBANIA (95) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/al.png" group-title="AL ALBANIA",AL: ----- GENERAL -----
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/135954.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AL ALBANIA",AL: BIG BROTHER VIP ALBANIA 1
@@ -26,6 +26,10 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/642140.m3u8
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/640697.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AL ALBANIA",AL: BIG BROTHER VIP KOSOVA 2 (B)
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/648157.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AL ALBANIA",AL: BIG BROTHER VIP ALBANIA 1 (VIP)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/650605.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AL ALBANIA",AL: BIG BROTHER VIP ALBANIA 2 (VIP)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/650604.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/rtk1.png" group-title="AL ALBANIA",AL: RTK 1 HD
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/209389.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/rtk1.png" group-title="AL ALBANIA",AL: RTK 1 FHD
@@ -4657,4 +4661,4 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/210664.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/macedonia/alsat.png" group-title="MK MACEDONIA",MK: ALSAT M TV
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/290212.m3u8
 
-# Total: 2294
+# Total: 2296

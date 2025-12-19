@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 5startv.xyz:8080
-# Generated: 2025-12-19 07:11:36
+# Generated: 2025-12-19 18:35:20
 # Expires: 2026-05-02
 # Family Safe Edition
 # ==============================================
@@ -11941,7 +11941,7 @@ http://5startv.xyz:8080/live/Msbeverly/EUxSgccqJ7Nj/100366.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/CNN.us.png" group-title="USA News",CNN HD
 http://5startv.xyz:8080/live/Msbeverly/EUxSgccqJ7Nj/104092.m3u8
 
-# --- USA Sports (76) ---
+# --- USA Sports (77) ---
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/altitude-sports-us.png" group-title="USA Sports",Altitude Sports
 http://5startv.xyz:8080/live/Msbeverly/EUxSgccqJ7Nj/109824.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/altitude-sports-us.png" group-title="USA Sports",Altitude Sports 2
@@ -12068,6 +12068,8 @@ http://5startv.xyz:8080/live/Msbeverly/EUxSgccqJ7Nj/9517.m3u8
 http://5startv.xyz:8080/live/Msbeverly/EUxSgccqJ7Nj/9516.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/canada/sportsnet-west-ca.png" group-title="USA Sports",Sportsnet West
 http://5startv.xyz:8080/live/Msbeverly/EUxSgccqJ7Nj/9515.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/cowboy-channel-us.png" group-title="USA Sports",The Cowboy Channel
+http://5startv.xyz:8080/live/Msbeverly/EUxSgccqJ7Nj/132415.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="USA Sports",Tennis Channel
 http://5startv.xyz:8080/live/Msbeverly/EUxSgccqJ7Nj/40854.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn1.png" group-title="USA Sports",TSN 1
@@ -12263,4 +12265,4 @@ http://5startv.xyz:8080/live/Msbeverly/EUxSgccqJ7Nj/120490.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/wnba4.png" group-title="WNBA",WNBA 10
 http://5startv.xyz:8080/live/Msbeverly/EUxSgccqJ7Nj/120491.m3u8
 
-# Total: 6057
+# Total: 6058

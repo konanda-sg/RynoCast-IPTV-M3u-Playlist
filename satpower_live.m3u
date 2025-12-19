@@ -1,13 +1,13 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: satpower.shop:8080
-# Generated: 2025-12-17 07:02:36
+# Generated: 2025-12-19 18:31:12
 # Expires: 2026-03-06
 # Family Safe Edition
 # ==============================================
 
 
-# --- AL ALBANIA (93) ---
+# --- AL ALBANIA (95) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/al.png" group-title="AL ALBANIA",AL: ----- GENERAL -----
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/135954.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AL ALBANIA",AL: BIG BROTHER VIP ALBANIA 1
@@ -26,6 +26,10 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/642140.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/640697.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AL ALBANIA",AL: BIG BROTHER VIP KOSOVA 2 (B)
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/648157.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AL ALBANIA",AL: BIG BROTHER VIP ALBANIA 1 (VIP)
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/650605.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AL ALBANIA",AL: BIG BROTHER VIP ALBANIA 2 (VIP)
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/650604.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/rtk1.png" group-title="AL ALBANIA",AL: RTK 1 HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/209389.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/rtk1.png" group-title="AL ALBANIA",AL: RTK 1 FHD
@@ -10339,4 +10343,4 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/505896.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/USA/TVJ%20channel.png" group-title="US SPORTS",US: TVJ
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/282779.m3u8
 
-# Total: 5092
+# Total: 5094

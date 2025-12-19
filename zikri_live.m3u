@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: zikri.xtpold.com
-# Generated: 2025-12-17 07:03:22
+# Generated: 2025-12-19 18:26:37
 # Expires: 2026-05-08
 # Family Safe Edition
 # ==============================================
@@ -8768,14 +8768,14 @@ http://zikri.xtpold.com/live/acr87/48mhrm35/25200.m3u8
 # --- TR► Spor (73) ---
 #EXTINF:-1 tvg-logo="http://dreamboxx.net/logo2/be_in_tr_sports_01_hd.png" group-title="TR► Spor",TR beIN SPORTS SD 1 (480p)
 http://zikri.xtpold.com/live/acr87/48mhrm35/53507.m3u8
+#EXTINF:-1 tvg-logo="http://dreamboxx.net/logo2/be_in_tr_sports_01_hd.png" group-title="TR► Spor",TR beIN SPORTS HD 1 JOKER
+http://zikri.xtpold.com/live/acr87/48mhrm35/67323.m3u8
 #EXTINF:-1 tvg-logo="http://dreamboxx.net/logo2/be_in_tr_sports_01_hd.png" group-title="TR► Spor",TR beIN SPORTS HD 1 (720p)
 http://zikri.xtpold.com/live/acr87/48mhrm35/7.m3u8
 #EXTINF:-1 tvg-logo="http://dreamboxx.net/logo2/be_in_tr_sports_01_hd.png" group-title="TR► Spor",TR beIN SPORTS HD 1 (1080p)
 http://zikri.xtpold.com/live/acr87/48mhrm35/1271.m3u8
 #EXTINF:-1 tvg-logo="http://dreamboxx.net/logo2/be_in_tr_sports_01_hd.png" group-title="TR► Spor",TR beIN SPORTS HD 1 (HQ)
 http://zikri.xtpold.com/live/acr87/48mhrm35/47268.m3u8
-#EXTINF:-1 tvg-logo="http://dreamboxx.net/logo2/be_in_tr_sports_01_hd.png" group-title="TR► Spor",TR beIN SPORTS HD 1 JOKER
-http://zikri.xtpold.com/live/acr87/48mhrm35/67323.m3u8
 #EXTINF:-1 tvg-logo="http://s11.clds.live:80/images/picon/bein4k.jpg" group-title="TR► Spor",TR beIN SPORTS 1 4K (Sadece Mac Saati)
 http://zikri.xtpold.com/live/acr87/48mhrm35/42532.m3u8
 #EXTINF:-1 tvg-logo="http://dreamboxx.net/logo2/be_in_tr_sports_02_hd.png" group-title="TR► Spor",TR beIN SPORTS HD 2

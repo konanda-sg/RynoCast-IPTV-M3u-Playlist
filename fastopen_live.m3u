@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: fastopen.live:8080
-# Generated: 2025-12-19 07:03:51
+# Generated: 2025-12-19 18:29:53
 # Expires: 2026-12-09
 # Family Safe Edition
 # ==============================================
@@ -3055,7 +3055,17 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/79770.m3u8
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/euronews.png" group-title="Africa VIP",EuroNews VIP AF
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/79776.m3u8
 
-# --- Albania (520) ---
+# --- Albania (525) ---
+#EXTINF:-1 tvg-logo="" group-title="Albania",Tring Stories FHD AL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/133279.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania",Big Brother 2 FHD AL [BackUP]
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/133278.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania",Big Brother 1 FHD AL [BackUP]
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/133277.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania",Big Brother Kosova 1 FHD AL [BackUP]
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/133275.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania",Big Brother Kosova 2 FHD AL [BackUP]
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/133276.m3u8
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/albania.png" group-title="Albania",##########   Albania   ##########
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/2521.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",Ferma 1 VIP AL
@@ -31965,4 +31975,4 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104838.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ex-Yu VIP",K1 HD ex-YU
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104749.m3u8
 
-# Total: 15877
+# Total: 15882

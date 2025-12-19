@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: hatayiptv.com:8000
-# Generated: 2025-12-19 07:03:35
+# Generated: 2025-12-19 18:33:13
 # Expires: 2025-12-26
 # Family Safe Edition
 # ==============================================
@@ -8899,7 +8899,7 @@ http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/80196.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jMrtq1X4JT8iPYbc18k0XmydnqI.jpg" group-title="Movies | DE: MARVEL FILMSTUDIOS",Avengers: Endgame
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/80197.mkv
 
-# --- Movies | DE: NETFLIX (140) ---
+# --- Movies | DE: NETFLIX (141) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: NETFLIX",DE: Haus des Geldes
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/9.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: NETFLIX",DE: Vikings
@@ -9180,6 +9180,8 @@ http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/1794.mp4
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/1801.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: NETFLIX",Man vs Baby
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/1819.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE: NETFLIX",Stadt der Schatten
+http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/1820.mp4
 
 # --- Movies | DE: SERIEN-BOX (170) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: SERIEN-BOX",DE: Narcos
@@ -19189,4 +19191,4 @@ http://hatayiptv.com:8000/series/Ertanguclu/tR0BFZiXDe/1225
 #EXTINF:-1 tvg-logo="" group-title="Series | TR: BEIN SERIES",Sorgu
 http://hatayiptv.com:8000/series/Ertanguclu/tR0BFZiXDe/1409
 
-# Total: 9547
+# Total: 9548

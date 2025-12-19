@@ -1,13 +1,13 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: funmitra.com:8080
-# Generated: 2025-12-17 07:06:20
+# Generated: 2025-12-19 18:35:15
 # Expires: 2026-03-01
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | (S|DE) Animation Serien (238) ---
+# --- Movies | (S|DE) Animation Serien (241) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) BoJack Horseman
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/629.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) Paw Patrol
@@ -484,8 +484,14 @@ http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11502.mp4
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11517.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) Shin-Chan
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11536.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) The Mighty Nein
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11558.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) Ottifanten
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11567.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) Bat-Fam: Die Superheldenfamilie
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11590.mp4
 
-# --- Movies | (S|DE) Deutsche Serien (1309) ---
+# --- Movies | (S|DE) Deutsche Serien (1339) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) 4 Blocks
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/274.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) American Horror Story
@@ -3104,6 +3110,66 @@ http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11552.mp4
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11553.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) This City Is Ours
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11554.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) The Sentinels
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11556.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) The Price Of Confession
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11557.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) The Beast in Me
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11559.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) The Abandons
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11560.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Tanzen Für Den Teufel: Die TikTok-Sekte von 7M
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11561.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Sterben Für Anfänger
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11562.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Stadt Der Schatten
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11563.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Stabil
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11564.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Spartacus: Das Haus Ashur
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11565.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Smillas Gespür Für Schnee
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11566.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Obwohl Ich Dich Liebe
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11568.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Mrs Playmen
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11569.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Mistletoe Murders
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11570.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Man Vs Baby
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11571.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Malice
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11572.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Little Disasters
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11573.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Safe Harbor
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11574.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Game Shakers: Jetzt Geht’s App
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11575.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Last Samurai Standing
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11576.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Kasaba: Die Kleinstadt
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11577.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Icebreaker: Killer An Bord
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11578.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) I Love LA
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11579.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Hundertdreizehn
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11580.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Frier Und Fünfzig: Am Ende Meiner Tage
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11583.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Fireflies
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11585.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Der Kristallkuckuck
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11586.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Der Fall Gypsy Rose Blanchard
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11587.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Das Attentat: Geheimoperation Belgrad
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11588.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Being Jérôme Boateng
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11589.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Bookish
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11591.mp4
 
 # --- Movies | (S|TR) Animasyon - Cizgi Diziler (131) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Animasyon - Cizgi Diziler",(TR-) Ben 10 Omniverse
@@ -16743,7 +16809,11 @@ http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/476418.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dhejMQdsqPtTTCKIkyoJ5FLfC3F.jpg" group-title="Movies | (V|DE) Filme - 2023",(DE-) A Good Person - 2023
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/476415.mp4
 
-# --- Movies | (V|DE) Filme - 2024 (694) ---
+# --- Movies | (V|DE) Filme - 2024 (696) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/bmE1VBZYetxEhnspOdmAf5jgZbn_big.jpg" group-title="Movies | (V|DE) Filme - 2024",(DE-) Animale - 2024
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/649910.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/iUi9cgPUv0Mellt8eARSCK7lVzK_big.jpg" group-title="Movies | (V|DE) Filme - 2024",(DE-) The Sleeping Woman - 2024
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/649909.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/32cweIQc2fyG0NRc47ZTo37XCcy_big.jpg" group-title="Movies | (V|DE) Filme - 2024",(DE-) Die Gesandte Des Papstes - 2024
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/649229.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/gaSqrnpSnTq5oYno0KnDyDXAF5r_big.jpg" group-title="Movies | (V|DE) Filme - 2024",(DE-) Fear Cabin: The Last Weekend Of Summer - 2024
@@ -18133,13 +18203,27 @@ http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/635442.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/dh8mS9Zzhplmr0Q80BKw0dibZUS_big.jpg" group-title="Movies | (V|DE) Filme - 2024",(DE-) The Break-Up Club - 2024
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/634880.mp4
 
-# --- Movies | (V|DE) Filme - 2025 (454) ---
+# --- Movies | (V|DE) Filme - 2025 (460) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/9vaw9Az5tPLMjNLj426KgKsp0k8_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Twinless - 2025
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/649917.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/z2rnlqWgVJ5AsDvFegYxeyn6GpZ_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Sisu: Road To Revenge - 2025
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/649916.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/n6ROqQ3AcNe5XLUMIDoj1lOQXXq_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Silent Night, Deadly Night -  2025
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/649915.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/bmEwxMEPdn1ciS9luMgA1RXaC9F_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Him: Der Größte Aller Zeiten - 2025
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/649914.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/yldpIctqy2GlJayIOGUSrfE3hRQ_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Don't Hang Up - 2025
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/649913.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/9Udi4U0u5No1OQJ0DYubsSzFipb_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Die Unfassbaren 3: Now You See Me - 2025
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/649912.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/eezvn7uqxuPdY9XHX01TEo8wpQw_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Blindgänger - 2025
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/649911.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/plOI2sV2bRZUkcngCNfz2zlU1Ip_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Street Trash - 2025
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/649908.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/2JYSb2qiOSkAdCuIRmXRWBecAAr_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) The Best You Can - 2025
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/649470.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/2HvVlaPGkM5TU1qbquRxTCf2THI_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Das Kanu Des Manitu - 2025
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/649469.mp4
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/n6ROqQ3AcNe5XLUMIDoj1lOQXXq_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-)  Silent Night, Deadly Night - 2025
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/649466.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/nQQoQ4JxJvGTUzrJ8anugNF3kbB_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Weihnachten Der Tiere - 2024
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/649465.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/k8cwwFfOmwf2Z5shWBSfp6QesHb_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) The End - 2025
@@ -18234,8 +18318,6 @@ http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/646493.mp4
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/646488.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/ouZ2oNvMHffc7UdmaY3qirrEeMW_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Black Phone 2 - 2025
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/646486.mp4
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/1Aiq3YJuV96IVIZleLe6SE4i9Oo_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Die Unfassbaren 3: Now You See Me - 2025
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/644139.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/l3zS4YnpOi4usyEXGJMtxSqDDyb_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Train Dreams - 2025
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/643476.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/ltT51ctLDbelHmamsAxqPyU1JY_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) The Family Plan 2 - 2025
@@ -20973,7 +21055,9 @@ http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/276572.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/siDr808qTQsvcavBQ8e0JxLwZRb.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Yaramazlar Takımı: Zaman Yolcuları - 2018
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/276573.mkv
 
-# --- Movies | (V|TR) Belgeseller (595) ---
+# --- Movies | (V|TR) Belgeseller (596) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/hyDL02uwMkJDUVcggnvQi6ND85n_big.jpg" group-title="Movies | (V|TR) Belgeseller",(TR-) Murder In Monaco - 2025
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/650599.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/9O5qbdyE67tzKfVt8UBu1U3nn6C_big.jpg" group-title="Movies | (V|TR) Belgeseller",(TR-) With Love, Meghan: Holiday Celebration - 2025
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/647719.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/bAAdoOyCm3DqrOyj0h2icPpeHHw_big.jpg" group-title="Movies | (V|TR) Belgeseller",(TR-) Being Eddie - 2025
@@ -22165,7 +22249,23 @@ http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/275545.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/o3dRENAwLg8Gs8oGPh8gLO5MHWB.jpg" group-title="Movies | (V|TR) Belgeseller",(TR-) Anafartalar - 2019
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/275553.mkv
 
-# --- Movies | (V|TR) Dizi Son Bölümleri (286) ---
+# --- Movies | (V|TR) Dizi Son Bölümleri (294) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/azacGGRNAp3tRO197rEznDTdg7s_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Sakincali (Bolum 5 Final)
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/650602.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k1FZ5cpY9kDaHrVpCFlZTlkcCkP.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Sahipsizler (Bolum 42)
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/650601.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/1kEgzEvhJmw5eSxuGwn0o1cgHlK_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kurulus: Orhan (Bolum 8)
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/650598.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/pYr58J7eePyXbUpUA9jhxPsabum_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Esref Rüya (Bolum 26)
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/650597.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/ylpluerF3X4QQYBXEwztfYNMkOh_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Rüya Gibi (Bolum 3)
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/650057.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/gLGXHS3o0BuJhd3wDTTYddrRsxZ.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Mehmed: Fetihler Sultani (Bolum 62)
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/650056.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/herjCgzFTKF3tCN8bW9cNfrvKjW_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kiskanmak (Bolum 14)
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/650055.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/vFmQa8yyuirssDatMME4FQtoG65_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Gözleri Karadeniz (Bolum 16 Final)
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/650054.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/E8tR39iX2XNZdqeDA5REFDquU6.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Uzak Sehir (Bolum 42)
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/649542.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/b6QGAQBiAWXVPQvc9um8o9Q90jY_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Cennetin Cocuklari (Bolum 14)
@@ -29333,7 +29433,13 @@ http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/508684.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/zDjpCBr7fleewKN7HpF2EPQT1jN_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2024",(TR-) Parthenope - 2024
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/635435.mkv
 
-# --- Movies | (V|TR) Turkce Dublaj - 2025 (185) ---
+# --- Movies | (V|TR) Turkce Dublaj - 2025 (188) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/dY6Dy8fbnbkVLWyhokOTPU2A3Z5_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2025",(TR-) The Best Mother In The World - 2025
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/650603.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/8JbuKgQBc8KlXopF1eege54HNQ5_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2025",(TR-) Preparation For The Next Life - 2025
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/650600.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/x6pGePNzpbG6Z12Y14Z4TlBCA3c_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2025",(TR-) Black Phone 2 - 2025
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/650053.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/gDBi9K4j2C00wW1mvU3YI8ihLhB_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2025",(TR-) Wake Up Dead Man: A Knives Out Mystery - 2025
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/649307.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/o4nrmtgBSwISUIA14ZvAkzwO2Li_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2025",(TR-) Tell Me Softly - 2025
@@ -32369,4 +32475,4 @@ http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/583470.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Unknown",(DE-) Anaon:  Hüter Der Nacht
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/10625.mp4
 
-# Total: 16137
+# Total: 16190

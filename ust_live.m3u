@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: ust.lat:80
-# Generated: 2025-12-19 07:05:52
+# Generated: 2025-12-19 18:33:38
 # Expires: 2025-12-21
 # Family Safe Edition
 # ==============================================
@@ -1051,30 +1051,32 @@ http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/6546.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4k.store/logos/id.png" group-title="DISCOVERY",Investigação Discovery SD²
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/100517.m3u8
 
-# --- DISNEY+ (29) ---
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019b28a6-2e4c-7a29-9b94-11ced84bee6a/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="DISNEY+",#3 Texas A&M x #1 Pittsburgh (Semifinal #1)
+# --- DISNEY+ (30) ---
+#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Disney 01
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/346368.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Disney 02
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/2ba9f40e-b243-4737-9cff-a1f9774ac58d/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="DISNEY+",FIS Ski World Cup: Etapa de Val Gardena (ITA): Super G
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/346369.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019b2db1-d114-7ea6-a01d-1049d5513333/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="DISNEY+",Ramón Cárdenas x Erik Robles
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/2ba9f40e-b243-4737-9cff-a1f9774ac58d/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="DISNEY+",Audi FIS Ski World Cup
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/346370.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019b1ea1-f50b-7c4f-9736-91bca3189356/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="DISNEY+",Toronto Maple Leafs x Washington Capitals
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019b3384-3c92-7f19-b8c9-a86591b35b3a/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="DISNEY+",Tênis: Next Gen ATP Finals (Rodada Preliminar - Dia 3)
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/346371.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/6599bc15-70a9-4d6e-913e-04b94be58edf/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="DISNEY+",#3 South Carolina x South Florida
+#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Disney 05
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/346372.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019b1ea1-ea1f-73a7-94f1-39fe81052aa5/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="DISNEY+",Los Angeles Kings x Tampa Bay Lightning
+#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Disney 06
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/346373.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019b1ea1-dd79-7d4a-813f-83d61d5b3865/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="DISNEY+",Edmonton Oilers x Boston Bruins
+#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Disney 07
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/346374.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019b1ea1-f209-76bd-a5c0-e9c9c9227323/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="DISNEY+",Pittsburgh Penguins x Ottawa Senators
+#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Disney 08
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/346375.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/04627b7c-fde8-4f21-8a03-9b8e0d886c00/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="DISNEY+",Chicago Blackhawks x Montreal Canadiens
+#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Disney 09
+http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/346376.m3u8
+#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Disney 10
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/346377.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019b2907-5188-76b2-a2f2-ef84eda5c878/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="DISNEY+",Philadelphia Flyers x Buffalo Sabres
+#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Disney 11
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/346378.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019b2907-5188-76b2-a2f2-ef84eda5c878/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="DISNEY+",Philadelphia Flyers x Buffalo Sabres
+#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Disney 12
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/346379.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019b2f6d-6695-7d5c-8af4-091597d57789/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="DISNEY+",Norfolk State x Grambling
+#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Disney 13
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/346380.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Disney 14
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/346381.m3u8
@@ -4383,4 +4385,4 @@ http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/155608.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4k.store/logos/YOUTUBE-24HS.png" group-title="YOUTUBE 24 HORAS",Partoba
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/155606.m3u8
 
-# Total: 2144
+# Total: 2145

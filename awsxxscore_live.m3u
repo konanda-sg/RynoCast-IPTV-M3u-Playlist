@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: awsxxscore.uk:8080
-# Generated: 2025-12-19 07:08:07
+# Generated: 2025-12-19 18:31:12
 # Expires: 2026-04-25
 # Family Safe Edition
 # ==============================================
@@ -53,7 +53,11 @@ http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/191084.m3u8
 #EXTINF:-1 tvg-logo="http://tebuleau.uk:8080/images/3a1436c0020df67648220a778ae0c0eb.png" group-title="⭐RADIO",RADIO CONSTANTA
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/191085.m3u8
 
-# --- ⭐ROMANIA (504) ---
+# --- ⭐ROMANIA (505) ---
+#EXTINF:-1 tvg-logo="http://tebuleau.uk:8080/images/229c46ddb75cac1f2ca511b6c99e97c2.png" group-title="⭐ROMANIA",COLINDE DE CRACIUN 1
+http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/209834.m3u8
+#EXTINF:-1 tvg-logo="http://tebuleau.uk:8080/images/229c46ddb75cac1f2ca511b6c99e97c2.png" group-title="⭐ROMANIA",COLINDE DE CRACIUN 2
+http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/204049.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/mireasa.png" group-title="⭐ROMANIA",MIREASA LIVE
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/204057.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/mireasa_plus.png" group-title="⭐ROMANIA",MIREASA PLUS
@@ -508,8 +512,6 @@ http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/120972.m3u8
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/209385.m3u8
 #EXTINF:-1 tvg-logo="http://tebuleau.uk:8080/images/b645f1d56fccf2c851b7cc1683071fcf.png" group-title="⭐ROMANIA",CARMEN DE LA SALCIUA
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/32218.m3u8
-#EXTINF:-1 tvg-logo="http://tebuleau.uk:8080/images/229c46ddb75cac1f2ca511b6c99e97c2.png" group-title="⭐ROMANIA",COLINDE DE CRACIUN
-http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/204049.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/disco_mix.png" group-title="⭐ROMANIA",DISCO MIX FHD
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/191554.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/emi_tv.png" group-title="⭐ROMANIA",EMI TV FHD
@@ -1063,4 +1065,4 @@ http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/48.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/eurosport_4k.png" group-title="⭐ROMANIA",EUROSPORT 4K
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/266.m3u8
 
-# Total: 526
+# Total: 527
