@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: newborne.pro
-# Generated: 2025-12-20 07:04:16
+# Generated: 2025-12-20 18:36:01
 # Expires: 2026-08-21
 # Family Safe Edition
 # ==============================================
@@ -5933,7 +5933,7 @@ http://newborne.pro/live/Adorait/yKNEk1etre/37076.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Shkence & Histori & Natyrë",AL: Turbo Xtra
 http://newborne.pro/live/Adorait/yKNEk1etre/3850.m3u8
 
-# --- Shqipëtare (106) ---
+# --- Shqipëtare (110) ---
 #EXTINF:-1 tvg-logo="" group-title="Shqipëtare",▼Shqiptare▼
 http://newborne.pro/live/Adorait/yKNEk1etre/86807.m3u8
 #EXTINF:-1 tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/7e/a8/6c/8a/3f87-456d-9137-c123f659aefd.png&w=550&h=265" group-title="Shqipëtare",AL: RTK 1 ⁴ᴷ
@@ -6020,6 +6020,14 @@ http://newborne.pro/live/Adorait/yKNEk1etre/6037.m3u8
 http://newborne.pro/live/Adorait/yKNEk1etre/52422.m3u8
 #EXTINF:-1 tvg-logo="https://prd-static-digitalb.spectar.tv/rev-1736915696/image_transform.php/transform/1/instance_id/1/video_id/12926" group-title="Shqipëtare",AL: Top Channel ᴴᴰ
 http://newborne.pro/live/Adorait/yKNEk1etre/30137.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JFWx7rd/bbv-web-logo1.png" group-title="Shqipëtare",AL: Big Brother VIP 1 AL ⁴ᴷ ꜱᴀᴛ
+http://newborne.pro/live/Adorait/yKNEk1etre/114552.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Cm37dqs/bbv-web-logo2.png" group-title="Shqipëtare",AL: Big Brother VIP 2 AL ⁴ᴷ ꜱᴀᴛ
+http://newborne.pro/live/Adorait/yKNEk1etre/114553.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JFWx7rd/bbv-web-logo1.png" group-title="Shqipëtare",AL: Big Brother VIP 1 AL ⁴ᴷ ᵀᵒᵏˢᵒʳ
+http://newborne.pro/live/Adorait/yKNEk1etre/114554.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Cm37dqs/bbv-web-logo2.png" group-title="Shqipëtare",AL: Big Brother VIP 2 AL ⁴ᴷ ᵀᵒᵏˢᵒʳ
+http://newborne.pro/live/Adorait/yKNEk1etre/114555.m3u8
 #EXTINF:-1 tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/65/ff/11/37/f6be-4f72-9b87-648a06445f74.png&w=550&h=265" group-title="Shqipëtare",AL: TV Klan ⁴ᴷ
 http://newborne.pro/live/Adorait/yKNEk1etre/25129.m3u8
 #EXTINF:-1 tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/65/ff/11/37/f6be-4f72-9b87-648a06445f74.png&w=550&h=265" group-title="Shqipëtare",AL: TV Klan ᴴᴰ
@@ -9919,4 +9927,4 @@ http://newborne.pro/live/Adorait/yKNEk1etre/62962.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᴴᴰ",VIP|DE| Sky Sport 1
 http://newborne.pro/live/Adorait/yKNEk1etre/5085.m3u8
 
-# Total: 4866
+# Total: 4870

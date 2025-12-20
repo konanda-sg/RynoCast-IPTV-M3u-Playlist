@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: cms-portals.com:80
-# Generated: 2025-12-20 07:09:31
+# Generated: 2025-12-20 18:28:00
 # Expires: 2026-05-22
 # Family Safe Edition
 # ==============================================
@@ -3731,7 +3731,15 @@ http://cms-portals.com:80/movie/norveska2/5q4bSDvhzT/13188.mp4
 #EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://m.media-amazon.com/images/M/MV5BM2IzNDEyNmUtNjE1OC00NzI5LThjZTQtMzNhMTNkNjMwZjczXkEyXkFqcGc@._V1_.jpg" group-title="Movies | VIDEOTEKA 2024",Bitconned (2024)
 http://cms-portals.com:80/movie/norveska2/5q4bSDvhzT/13189.mp4
 
-# --- Movies | VIDEOTEKA 2025 (117) ---
+# --- Movies | VIDEOTEKA 2025 (121) ---
+#EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Stolen_Girl_2025.jpg/250px-Stolen_Girl_2025.jpg" group-title="Movies | VIDEOTEKA 2025",Stolen Girl (2025)
+http://cms-portals.com:80/movie/norveska2/5q4bSDvhzT/13632.mp4
+#EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/The_Conjuring_%E2%80%93_Last_Rites.jpg/250px-The_Conjuring_%E2%80%93_Last_Rites.jpg" group-title="Movies | VIDEOTEKA 2025",The Conjuring: Last Rites (2025)
+http://cms-portals.com:80/movie/norveska2/5q4bSDvhzT/13633.mp4
+#EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://upload.wikimedia.org/wikipedia/en/thumb/3/30/The_Family_Plan_2_poster.jpg/250px-The_Family_Plan_2_poster.jpg" group-title="Movies | VIDEOTEKA 2025",The Family Plan 2 (2025)
+http://cms-portals.com:80/movie/norveska2/5q4bSDvhzT/13634.mp4
+#EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://upload.wikimedia.org/wikipedia/en/thumb/7/74/The_Woman_in_Cabin_10_poster.jpg/250px-The_Woman_in_Cabin_10_poster.jpg" group-title="Movies | VIDEOTEKA 2025",The Woman in Cabin 10 (2025)
+http://cms-portals.com:80/movie/norveska2/5q4bSDvhzT/13635.mp4
 #EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://upload.wikimedia.org/wikipedia/en/thumb/2/25/Eddington_poster.jpg/250px-Eddington_poster.jpg" group-title="Movies | VIDEOTEKA 2025",Eddington (2025)
 http://cms-portals.com:80/movie/norveska2/5q4bSDvhzT/13628.mp4
 #EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/One_Battle_After_Another.jpg/250px-One_Battle_After_Another.jpg" group-title="Movies | VIDEOTEKA 2025",One Battle After Another (2025)
@@ -3967,4 +3975,4 @@ http://cms-portals.com:80/movie/norveska2/5q4bSDvhzT/13432.mp4
 #EXTINF:-1 tvg-logo="http://85.14.243.71/images/220px-Den_of_thieves_two_pantera_ver2.jpg" group-title="Movies | VIDEOTEKA 2025",Den of Thieves 2: Pantera (2025)
 http://cms-portals.com:80/movie/norveska2/5q4bSDvhzT/13433.mp4
 
-# Total: 1965
+# Total: 1969

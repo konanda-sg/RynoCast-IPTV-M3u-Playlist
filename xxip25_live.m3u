@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: xxip25.top:8080
-# Generated: 2025-12-20 07:02:09
+# Generated: 2025-12-20 18:35:53
 # Expires: 2026-02-23
 # Family Safe Edition
 # ==============================================
@@ -3511,7 +3511,7 @@ http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/101825.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PHILIPPINES",PH GMA Pinoy TV (X)
 http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/101826.m3u8
 
-# --- PPV | UFC (11) ---
+# --- PPV | UFC (18) ---
 #EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 15 |   WWE Monday Night Raw (24/11 01:00am UK TUE| 08:00pm ET MON)
 http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/233922.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV01: House of Glory: Winter Warfare 2025 @ 08:00 PM EST
@@ -3534,6 +3534,20 @@ http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257809.m3u8
 http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257810.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 08: Paul v Joshua (19/12 09:45 pm UK | 04:45pm ET) backup 2
 http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257811.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 09: Paul v Joshua (19/12 09:45 pm UK | 04:45pm ET) backup 3
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257819.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 10: Paul v Joshua (19/12 09:45 pm UK | 04:45pm ET) backup 4
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257820.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 11: Paul v Joshua (19/12 09:45 pm UK | 04:45pm ET) backup 5
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257821.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 12: Paul v Joshua (19/12 09:45 pm UK | 04:45pm ET) backup 6
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257822.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 13: Paul v Joshua (19/12 09:45 pm UK | 04:45pm ET) backup 7
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257823.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 14: Paul v Joshua (19/12 09:45 pm UK | 04:45pm ET) backup 8
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257824.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 15: Jake Paul vs. Anthony Joshua Prelims ( Youtube link )
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/257825.m3u8
 
 # --- Portugal (19) ---
 #EXTINF:-1 tvg-logo="" group-title="Portugal",PT: CMTV
@@ -13329,4 +13343,4 @@ http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/121046.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Vietnam",VN DA NANG 1 HD
 http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/121048.m3u8
 
-# Total: 6626
+# Total: 6633

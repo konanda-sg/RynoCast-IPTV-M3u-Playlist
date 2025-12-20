@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: et1.xyz:25461
-# Generated: 2025-12-20 06:59:27
+# Generated: 2025-12-20 18:25:21
 # Expires: 2026-07-05
 # Family Safe Edition
 # ==============================================
@@ -265,7 +265,7 @@ http://et1.xyz:25461/live/cherifbah010/msbadb87/196845.m3u8
 #EXTINF:-1 tvg-logo="" group-title="24/7 Movies",24/7 James Bonds 007
 http://et1.xyz:25461/live/cherifbah010/msbadb87/160961.m3u8
 
-# --- 24/7 Series (303) ---
+# --- 24/7 Series (304) ---
 #EXTINF:-1 tvg-logo="" group-title="24/7 Series",USA | CATS 24/7
 http://et1.xyz:25461/live/cherifbah010/msbadb87/87811.m3u8
 #EXTINF:-1 tvg-logo="" group-title="24/7 Series",USA | DOGS 24/7
@@ -872,6 +872,8 @@ http://et1.xyz:25461/live/cherifbah010/msbadb87/185376.m3u8
 http://et1.xyz:25461/live/cherifbah010/msbadb87/160947.m3u8
 #EXTINF:-1 tvg-logo="" group-title="24/7 Series",24/7 Walker Texas Ranger
 http://et1.xyz:25461/live/cherifbah010/msbadb87/161040.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 Series",24/7: Prison Break
+http://et1.xyz:25461/live/cherifbah010/msbadb87/161041.m3u8
 
 # --- ABC Locals (136) ---
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="ABC Locals",AK | FAIRBANKS | ABC Alaska
@@ -26719,4 +26721,4 @@ http://et1.xyz:25461/live/cherifbah010/msbadb87/219058.m3u8
 #EXTINF:-1 tvg-logo="https://img.favpng.com/13/25/6/logo-venevisi-n-plus-ve-plus-tv-directv-png-favpng-Z9LmQe39rJ0EgvBV8sZkgG6QY.jpg" group-title="Venezuela",LA | (VEN) VENEVISION PLUS
 http://et1.xyz:25461/live/cherifbah010/msbadb87/219062.m3u8
 
-# Total: 13233
+# Total: 13234

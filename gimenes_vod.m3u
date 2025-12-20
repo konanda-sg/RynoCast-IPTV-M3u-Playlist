@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: gimenes.top:8080
-# Generated: 2025-12-20 07:10:39
+# Generated: 2025-12-20 18:35:19
 # Expires: 2026-11-07
 # Family Safe Edition
 # ==============================================
@@ -17922,7 +17922,7 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/151681.mp4
 http://gimenes.top:8080/movie/denisfonseca/4915334/151588.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eK4lWmaEMdBj9nkghRNmfvtRWbq.jpg" group-title="Movies | FILMES DRAMA",RRR: REVOLTA, REBELIÃO, REVOLUÇÃO (2022)
 http://gimenes.top:8080/movie/denisfonseca/4915334/150996.mp4
-#EXTINF:-1 tvg-logo="http://barserven.link:80/images/81eQIYIR7i5W0XsB2PtvZAt4I9w_big.jpg" group-title="Movies | FILMES DRAMA",PASSAGEM (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/81eQIYIR7i5W0XsB2PtvZAt4I9w.jpg" group-title="Movies | FILMES DRAMA",PASSAGEM (2022)
 http://gimenes.top:8080/movie/denisfonseca/4915334/150950.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rTkuPK66Aw9e8niPr8F7IgXzFU6.jpg" group-title="Movies | FILMES DRAMA",FILADÉLFIA (1993)
 http://gimenes.top:8080/movie/denisfonseca/4915334/150816.mp4
@@ -21163,7 +21163,11 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/142362.mp4
 #EXTINF:-1 tvg-logo="http://fiqueemcasa.club/images/omKzydOrom9kpdfQUE0G9Y9sPl0_small.jpg" group-title="Movies | FILMES GUERRA",WHERE HANDS TOUCH
 http://gimenes.top:8080/movie/denisfonseca/4915334/48749.mp4
 
-# --- Movies | FILMES LANÇAMENTOS (453) ---
+# --- Movies | FILMES LANÇAMENTOS (455) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x434Dw7Aj8JkrTBo9uapCLDtA42.jpg" group-title="Movies | FILMES LANÇAMENTOS",A SOGRA PERFEITA 2 (2025)
+http://gimenes.top:8080/movie/denisfonseca/4915334/255976.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkrrzeaOPh4f5b6uMGUbSFcHPfg.jpg" group-title="Movies | FILMES LANÇAMENTOS",MAURICIO DE SOUSA: O FILME (2025)
+http://gimenes.top:8080/movie/denisfonseca/4915334/255975.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZ8C2vVGfK5SYASiioTmtZDJjpv.jpg" group-title="Movies | FILMES LANÇAMENTOS",TRUQUE DE MESTRE: O 3° ATO (2025)
 http://gimenes.top:8080/movie/denisfonseca/4915334/255949.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJcthdoBAug14cmphiHAfngV3zK.jpg" group-title="Movies | FILMES LANÇAMENTOS",SISU: ESTRADA DA VINGANÇA (2025)
@@ -30019,4 +30023,4 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/166843.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhTm83svrLTM4JdwzJ1FjL63SQN.jpg" group-title="Movies | SHOWS",BEBE REXHA - THE TOWN (2023)
 http://gimenes.top:8080/movie/denisfonseca/4915334/166842.mp4
 
-# Total: 14965
+# Total: 14967

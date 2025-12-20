@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: ultraviphdiptv.com:8000
-# Generated: 2025-12-19 07:13:08
+# Generated: 2025-12-20 18:32:40
 # Expires: 2026-03-16
 # Family Safe Edition
 # ==============================================
@@ -1383,7 +1383,9 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1719.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: KINDER-SERIE",Die neuen Zauberer vom Waverly Place
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1725.mp4
 
-# --- Movies | DE: KINDERFILME (439) ---
+# --- Movies | DE: KINDERFILME (440) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Ur7ZD7farHXpCYq1v8t3suQ52Q.jpg" group-title="Movies | DE: KINDERFILME",Grand Prix of Europe
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169050.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iK6c0hV0FcClqnKQdisCLACnucr.jpg" group-title="Movies | DE: KINDERFILME",Zoomania 2
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/168652.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fNCS3xOJrj46G80docodZ3Nhiv3.jpg" group-title="Movies | DE: KINDERFILME",Die Fraggles: Der erste Schnee
@@ -2263,7 +2265,27 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/49211.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ko3AtKUsMK27LMJqpyW5uJk4FZh.jpg" group-title="Movies | DE: KINDERFILME",Zogg
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/49120.mkv
 
-# --- Movies | DE: KINO FILME (2735) ---
+# --- Movies | DE: KINO FILME (2745) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/23Y1K6XcluTc0lkq9LklnIsdh6c.jpg" group-title="Movies | DE: KINO FILME",Hi-Five
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169051.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/idJLxF85QmzNMwQ0pnX1KNsDcBk.jpg" group-title="Movies | DE: KINO FILME",HIM
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169052.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n6ROqQ3AcNe5XLUMIDoj1lOQXXq.jpg" group-title="Movies | DE: KINO FILME",Silent Night, Deadly Night (MIC)
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169053.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h6DGrDHlDm6gVOiy3YeOb737jB4.jpg" group-title="Movies | DE: KINO FILME",Spinal Tap II: The End Continues
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169054.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ZWjaBrWoHDQgX718p2QzoOCR75.jpg" group-title="Movies | DE: KINO FILME",The Cut
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169055.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFgq1wQwQNKNqKq4m1ImqlzDgmk.jpg" group-title="Movies | DE: KINO FILME",Verschollen
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169056.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIeHhOqCQysfed98TKjZhRWRc7x.jpg" group-title="Movies | DE: KINO FILME",Wake Up Dead Man: A Knives Out Mystery
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169058.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2HvVlaPGkM5TU1qbquRxTCf2THI.jpg" group-title="Movies | DE: KINO FILME",Das Kanu des Manitu
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169047.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Udi4U0u5No1OQJ0DYubsSzFipb.jpg" group-title="Movies | DE: KINO FILME",Die Unfassbaren 3 - Now you see me
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169048.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yldpIctqy2GlJayIOGUSrfE3hRQ.jpg" group-title="Movies | DE: KINO FILME",Don't Hang Up
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169049.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8qTMRmC07XCGidnKQFLbRM3FoDU.jpg" group-title="Movies | DE: KINO FILME",Muzzle: City of Wolves
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/168649.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/prqoXVtCJFLzqbqXLGxdl79a8aK.jpg" group-title="Movies | DE: KINO FILME",Wicked: Teil 2
@@ -8899,7 +8921,7 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/80196.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jMrtq1X4JT8iPYbc18k0XmydnqI.jpg" group-title="Movies | DE: MARVEL FILMSTUDIOS",Avengers: Endgame
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/80197.mkv
 
-# --- Movies | DE: NETFLIX (140) ---
+# --- Movies | DE: NETFLIX (141) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: NETFLIX",DE: Haus des Geldes
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/9.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: NETFLIX",DE: Vikings
@@ -9180,6 +9202,8 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1794.mp4
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1801.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: NETFLIX",Man vs Baby
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1819.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE: NETFLIX",Stadt der Schatten
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1820.mp4
 
 # --- Movies | DE: SERIEN-BOX (170) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: SERIEN-BOX",DE: Narcos
@@ -9791,7 +9815,7 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/160408.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTlkYzU1NmItMzU0ZC00ZDkzLWI0YjgtMDk5YzIyMjg4MGYwXkEyXkFqcGc@._V1_.jpg" group-title="Movies | DiZi CARSAMBA",Aşka Mahkum 77.Bölüm
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/168232.mkv
 
-# --- Movies | DiZi CUMA (44) ---
+# --- Movies | DiZi CUMA (43) ---
 #EXTINF:-1 tvg-logo="https://iili.io/37dZtOg.jpg" group-title="Movies | DiZi CUMA",Sustalı Ceylan 06.BLM (final)
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/160438.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/37dZtOg.jpg" group-title="Movies | DiZi CUMA",Sustalı Ceylan 05.BLM
@@ -9808,6 +9832,8 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/161161.mkv
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/160626.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/2Z7FNYg.jpg" group-title="Movies | DiZi CUMA",Bir Zamanlar İstanbul 13.BLM
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/160439.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | DiZi CUMA",Arka Sokaklar 732.BLM
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169063.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/2T1CPLu.jpg" group-title="Movies | DiZi CUMA",Arka Sokaklar 731.BLM
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/168953.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/2T1CPLu.jpg" group-title="Movies | DiZi CUMA",Arka Sokaklar 730.BLM
@@ -9816,8 +9842,6 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/168305.mkv
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/168180.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/2T1CPLu.jpg" group-title="Movies | DiZi CUMA",Arka Sokaklar 728.BLM
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/168048.mkv
-#EXTINF:-1 tvg-logo="https://iili.io/2T1CPLu.jpg" group-title="Movies | DiZi CUMA",Arka Sokaklar 727.BLM
-http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/167886.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/2T1wa0g.jpg" group-title="Movies | DiZi CUMA",Yalı Çapkını 101.BLM FINAL
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/156248.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/2T1wa0g.jpg" group-title="Movies | DiZi CUMA",Yalı Çapkını 100.BLM
@@ -9834,6 +9858,8 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/155320.mkv
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/155254.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/2erhCUN.jpg" group-title="Movies | DiZi CUMA",Zembilli 10.BLM
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/155186.mkv
+#EXTINF:-1 tvg-logo="https://iili.io/2PIOxTl.jpg" group-title="Movies | DiZi CUMA",Kızılcık Şerbeti 118.BLM
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169064.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/2PIOxTl.jpg" group-title="Movies | DiZi CUMA",Kızılcık Şerbeti 117.BLM
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/168954.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/2PIOxTl.jpg" group-title="Movies | DiZi CUMA",Kızılcık Şerbeti 116.BLM
@@ -9842,8 +9868,6 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/168306.mkv
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/168181.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/2PIOxTl.jpg" group-title="Movies | DiZi CUMA",Kızılcık Şerbeti 114.BLM
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/168050.mkv
-#EXTINF:-1 tvg-logo="https://iili.io/2PIOxTl.jpg" group-title="Movies | DiZi CUMA",Kızılcık Şerbeti 113.BLM
-http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/167888.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8sflFc0FmTSbITrhcVGaWaCuUrD.jpg" group-title="Movies | DiZi CUMA",Aşk ve Gözyaşı 7.Bölüm (Final)
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/167689.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8sflFc0FmTSbITrhcVGaWaCuUrD.jpg" group-title="Movies | DiZi CUMA",Aşk ve Gözyaşı 6.Bölüm
@@ -9854,6 +9878,8 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/167298.mkv
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/167093.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8sflFc0FmTSbITrhcVGaWaCuUrD.jpg" group-title="Movies | DiZi CUMA",Aşk ve Gözyaşı 3.Bölüm
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/166886.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uHIOTJXN9nNTc51WyunL43Fvge3.jpg" group-title="Movies | DiZi CUMA",Taşacak Bu Deniz 11.Bölüm
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169066.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uHIOTJXN9nNTc51WyunL43Fvge3.jpg" group-title="Movies | DiZi CUMA",Taşacak Bu Deniz 10.Bölüm
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/168956.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uHIOTJXN9nNTc51WyunL43Fvge3.jpg" group-title="Movies | DiZi CUMA",Taşacak Bu Deniz 9.Bölüm
@@ -9866,10 +9892,6 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/168051.mkv
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/167890.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uHIOTJXN9nNTc51WyunL43Fvge3.jpg" group-title="Movies | DiZi CUMA",Taşacak Bu Deniz 5.Bölüm
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/167695.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uHIOTJXN9nNTc51WyunL43Fvge3.jpg" group-title="Movies | DiZi CUMA",Taşacak Bu Deniz 4.Bölüm
-http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/167609.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uHIOTJXN9nNTc51WyunL43Fvge3.jpg" group-title="Movies | DiZi CUMA",Taşacak Bu Deniz 3.Bölüm
-http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/167395.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/keugw2ryR3Q1OVWiTuXGl0fiGgb.jpg" group-title="Movies | DiZi CUMA",Ben Onun Annesiyim 4. Bölüm Final
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/167887.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/keugw2ryR3Q1OVWiTuXGl0fiGgb.jpg" group-title="Movies | DiZi CUMA",Ben Onun Annesiyim 3. Bölüm
@@ -11387,7 +11409,7 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/104960.mkv
 #EXTINF:-1 tvg-logo="cdn.webshopapp.com/shops/265512/files/357244538/hayrat-nesriyat-besli-cuez-kuran-i-kerim-iki-renkl.jpg" group-title="Movies | TR: DINI-VOD",30.Cüz ve Hatim Duasi
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/104961.mkv
 
-# --- Movies | TR: DISNEY+ (184) ---
+# --- Movies | TR: DISNEY+ (185) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR: DISNEY+",TR: Konuşanlar
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/321.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR: DISNEY+",Kaçış
@@ -11756,8 +11778,20 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1774.mp4
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1789.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR: DISNEY+",Little Disasters
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1796.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR: DISNEY+",Vicdansız
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1821.mp4
 
-# --- Movies | TR: DUBLAJ (1621) ---
+# --- Movies | TR: DUBLAJ (1626) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHEoW8hVEmLj6VToyssPNcoYyKI.jpg" group-title="Movies | TR: DUBLAJ",Tufan
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169068.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dY6Dy8fbnbkVLWyhokOTPU2A3Z5.jpg" group-title="Movies | TR: DUBLAJ",Dünyanın En İyi Annesi
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169067.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x6pGePNzpbG6Z12Y14Z4TlBCA3c.jpg" group-title="Movies | TR: DUBLAJ",Siyah Telefon 2
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169062.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8JbuKgQBc8KlXopF1eege54HNQ5.jpg" group-title="Movies | TR: DUBLAJ",Preparation for the Next Life
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169060.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hW93OYJnnHwGaGa4S2mNxlEhgsF.jpg" group-title="Movies | TR: DUBLAJ",Monako'da Cinayet
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169059.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yfdfYkbBMkexGadunQasqkq2Kqp.jpg" group-title="Movies | TR: DUBLAJ",Only on Earth
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169020.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/roGKQ15z08A7hiOKRQm6NTPmEHX.jpg" group-title="Movies | TR: DUBLAJ",Önemsiz Biri 2
@@ -15679,7 +15713,7 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1809.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR: HBO MAX",Jasmine
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1817.mp4
 
-# --- Movies | TR: NETFLIX DIZILERI (452) ---
+# --- Movies | TR: NETFLIX DIZILERI (453) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR: NETFLIX DIZILERI",TR: Hakan: Muhafız
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/27.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR: NETFLIX DIZILERI",TR: Narcos
@@ -16584,6 +16618,8 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1814.mp4
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1815.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR: NETFLIX DIZILERI",Gölgeler Şehri
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1816.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR: NETFLIX DIZILERI",Spartacus: House of Ashur
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1822.mp4
 
 # --- Movies | TR: PARAMOUNT (15) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR: PARAMOUNT",TR: Players
@@ -16800,6 +16836,8 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/164596.mkv
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/164581.mkv
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/mxJUlUjy0clIxDI0iy1sJmofyBi3dwR8egJEQmKpQ8n-VG0dJFJp-4yxL1dd0CMv99dPwBfOVTc=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" group-title="Movies | TR: TV SHOW´S",Yetenek Sizsiniz 16.Bölüm
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/164580.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4FCK9wIPWjORP7EUht3jsDwzngr.jpg" group-title="Movies | TR: TV SHOW´S",Master Şef Türkiye 19.12.2025
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169065.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4FCK9wIPWjORP7EUht3jsDwzngr.jpg" group-title="Movies | TR: TV SHOW´S",Master Şef Türkiye 18.12.2025
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169032.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4FCK9wIPWjORP7EUht3jsDwzngr.jpg" group-title="Movies | TR: TV SHOW´S",Master Şef Türkiye 17.12.2025
@@ -16810,8 +16848,6 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169017.mkv
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169000.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4FCK9wIPWjORP7EUht3jsDwzngr.jpg" group-title="Movies | TR: TV SHOW´S",Master Şef Türkiye 14.12.2025
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/168987.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4FCK9wIPWjORP7EUht3jsDwzngr.jpg" group-title="Movies | TR: TV SHOW´S",Master Şef Türkiye 13.12.2025
-http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/168975.mkv
 
 # --- Movies | TR: Tabii (44) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR: Tabii",Yeşil Deniz Milenyum
@@ -16903,7 +16939,7 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1755.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR: Tabii",Antrenör
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1783.mp4
 
-# --- Movies | TR: YERLI SINEMA (1128) ---
+# --- Movies | TR: YERLI SINEMA (1129) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vVfbJov70hS8ktoPZkx5fwa6NTx.jpg" group-title="Movies | TR: YERLI SINEMA",Lefter: Bir Ordinaryüs Hikayesi
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/167843.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/la8LmZSfBgGZKd7uDssR7EjAHCD.jpg" group-title="Movies | TR: YERLI SINEMA",Son Osmanlı: Yandım Ali
@@ -16940,6 +16976,8 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/167461.mkv
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/167456.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFOsxJ6cQ8H4LvnOhhGl4IGct9m.jpg" group-title="Movies | TR: YERLI SINEMA",Acı Aşk
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/167446.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/byKacxjdQHvPKomOWoxrRq5ZV99.jpg" group-title="Movies | TR: YERLI SINEMA",Rosinante
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169061.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fFkY7H9RG2AlcJKqkD1TH37szP8.jpg" group-title="Movies | TR: YERLI SINEMA",Aile Terbiyesi
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/168625.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGBiezUJEaHG7CHMa3QVMpC2dGE.jpg" group-title="Movies | TR: YERLI SINEMA",Evcilik
@@ -19189,4 +19227,4 @@ http://ultraviphdiptv.com:8000/series/Figo/KDYwefapLL/1225
 #EXTINF:-1 tvg-logo="" group-title="Series | TR: BEIN SERIES",Sorgu
 http://ultraviphdiptv.com:8000/series/Figo/KDYwefapLL/1409
 
-# Total: 9547
+# Total: 9566

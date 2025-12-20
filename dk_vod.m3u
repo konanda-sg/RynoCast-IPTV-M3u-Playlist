@@ -1,13 +1,13 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: dk.2665.ninja:8080
-# Generated: 2025-12-19 18:34:52
+# Generated: 2025-12-20 18:32:28
 # Expires: 2026-02-28
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | (S|DE) Animation Serien (241) ---
+# --- Movies | (S|DE) Animation Serien (243) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) BoJack Horseman
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/629.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) Paw Patrol
@@ -490,8 +490,12 @@ http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/11558.mp4
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/11567.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) Bat-Fam: Die Superheldenfamilie
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/11590.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) Sailor Moon
+http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/11607.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) Spartacus: Blood And Sand The Motion Comic
+http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/11609.mp4
 
-# --- Movies | (S|DE) Deutsche Serien (1339) ---
+# --- Movies | (S|DE) Deutsche Serien (1340) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) 4 Blocks
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/274.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) American Horror Story
@@ -3170,6 +3174,8 @@ http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/11588.mp4
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/11589.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Bookish
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/11591.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Spartacus: Gods Of The Arena
+http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/11608.mp4
 
 # --- Movies | (V|DE) Animation - Kinderfilme (617) ---
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/x9hMtM8ZNwtR0N5YjyA31Cq6Mon_big.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Das Dschungelbuch - 1967
@@ -4641,7 +4647,21 @@ http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/243352.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/8WgLM4DAHEqhBS65QV58Jb5IGoU.jpg" group-title="Movies | (V|DE) Bollywood Filme",(DE-) Bahubali: The Beginning - 2015
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/255929.mkv
 
-# --- Movies | (V|DE) Filme (1173) ---
+# --- Movies | (V|DE) Filme (1180) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/bYT76Gqo58fNugswfzD2WtOfl8c_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Sin City - 2005
+http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/650911.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/uR0BUaTV1T7aog6LyQ9Xi4l9pCi_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Sin City 2: A Dame To Kill For - 2014
+http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/650910.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/node7cUndlYvyo7BsZUzuet8Xal_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Maleficent: Die Dunkle Fee - 2014
+http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/650909.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/ztBWB0bShpHrxXyLYPc3587CrGa_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Kingsman: The Secret Service - 2015
+http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/650908.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/pZynadPtDMb37w5szjwrezununu_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Kingsman: The Golden Circle - 2017
+http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/650907.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/60YgMkDDwobP4JXwc2hOFa2VmGg_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Raumschiff Surprise - Periode 1 - 2004
+http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/650657.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/vpInzEGyBSHc35MKIRspt8L8B92_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Stichtag - 2010
+http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/650656.avi
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/8FbDLFGRPdWaEz5hWC9wyG0d2il_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Taxi Driver - 1976
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/649227.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/y9smOLUhE5JOBjbmnESm6orPrf5_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Kevin: Allein In New York - 1992
@@ -14659,7 +14679,23 @@ http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/635442.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/dh8mS9Zzhplmr0Q80BKw0dibZUS_big.jpg" group-title="Movies | (V|DE) Filme - 2024",(DE-) The Break-Up Club - 2024
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/634880.mp4
 
-# --- Movies | (V|DE) Filme - 2025 (460) ---
+# --- Movies | (V|DE) Filme - 2025 (468) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/dljamTLg1aRwcO8kTPWwJUgsrco_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Lilly und die Kängurus - 2025
+http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/650926.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/eRV8SaKUP83s2cWqpPVd8DojNau_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) The Great Flood - 2025
+http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/650925.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/8ZoDrAbrsSLDVjXsyvOlwjJakUK_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Die Stunde der Mutigen - 2025
+http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/650924.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/6iseyProRsPyu3rOCzsXDDnDGrl_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) The Cut - 2025
+http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/650923.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/hW93OYJnnHwGaGa4S2mNxlEhgsF_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Murder In Monaco - 2025
+http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/650922.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/htFISi1tgQNrYP9FWQDvbSK8DI1_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) 10DANCE - 2025
+http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/650921.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/8JbuKgQBc8KlXopF1eege54HNQ5_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Preparation for the Next Life - 2025
+http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/650920.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/ghE2JeKGbTFUyyjOsYVYldTpRmu_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Die My Love - 2025
+http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/650919.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/9vaw9Az5tPLMjNLj426KgKsp0k8_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Twinless - 2025
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/649917.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/z2rnlqWgVJ5AsDvFegYxeyn6GpZ_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Sisu: Road To Revenge - 2025
@@ -16285,4 +16321,4 @@ http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/248353.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Unknown",(DE-) Anaon:  Hüter Der Nacht
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/10625.mp4
 
-# Total: 8123
+# Total: 8141

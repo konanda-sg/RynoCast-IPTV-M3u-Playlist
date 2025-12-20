@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: client.newborntv.xyz:88
-# Generated: 2025-12-20 07:00:32
+# Generated: 2025-12-20 18:33:43
 # Expires: 2026-02-22
 # Family Safe Edition
 # ==============================================
@@ -6437,7 +6437,7 @@ http://client.newborntv.xyz:88/live/khFzEWQn/fP85XcC7E/102397.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Shqiptare USA Time",AL: Tring 3+ +6
 http://client.newborntv.xyz:88/live/khFzEWQn/fP85XcC7E/102396.m3u8
 
-# --- Shqipëtare (106) ---
+# --- Shqipëtare (110) ---
 #EXTINF:-1 tvg-logo="" group-title="Shqipëtare",▼Shqiptare▼
 http://client.newborntv.xyz:88/live/khFzEWQn/fP85XcC7E/86807.m3u8
 #EXTINF:-1 tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/7e/a8/6c/8a/3f87-456d-9137-c123f659aefd.png&w=550&h=265" group-title="Shqipëtare",AL: RTK 1 ⁴ᴷ
@@ -6524,6 +6524,14 @@ http://client.newborntv.xyz:88/live/khFzEWQn/fP85XcC7E/6037.m3u8
 http://client.newborntv.xyz:88/live/khFzEWQn/fP85XcC7E/52422.m3u8
 #EXTINF:-1 tvg-logo="https://prd-static-digitalb.spectar.tv/rev-1736915696/image_transform.php/transform/1/instance_id/1/video_id/12926" group-title="Shqipëtare",AL: Top Channel ᴴᴰ
 http://client.newborntv.xyz:88/live/khFzEWQn/fP85XcC7E/30137.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JFWx7rd/bbv-web-logo1.png" group-title="Shqipëtare",AL: Big Brother VIP 1 AL ⁴ᴷ ꜱᴀᴛ
+http://client.newborntv.xyz:88/live/khFzEWQn/fP85XcC7E/114552.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Cm37dqs/bbv-web-logo2.png" group-title="Shqipëtare",AL: Big Brother VIP 2 AL ⁴ᴷ ꜱᴀᴛ
+http://client.newborntv.xyz:88/live/khFzEWQn/fP85XcC7E/114553.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JFWx7rd/bbv-web-logo1.png" group-title="Shqipëtare",AL: Big Brother VIP 1 AL ⁴ᴷ ᵀᵒᵏˢᵒʳ
+http://client.newborntv.xyz:88/live/khFzEWQn/fP85XcC7E/114554.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Cm37dqs/bbv-web-logo2.png" group-title="Shqipëtare",AL: Big Brother VIP 2 AL ⁴ᴷ ᵀᵒᵏˢᵒʳ
+http://client.newborntv.xyz:88/live/khFzEWQn/fP85XcC7E/114555.m3u8
 #EXTINF:-1 tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/65/ff/11/37/f6be-4f72-9b87-648a06445f74.png&w=550&h=265" group-title="Shqipëtare",AL: TV Klan ⁴ᴷ
 http://client.newborntv.xyz:88/live/khFzEWQn/fP85XcC7E/25129.m3u8
 #EXTINF:-1 tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/65/ff/11/37/f6be-4f72-9b87-648a06445f74.png&w=550&h=265" group-title="Shqipëtare",AL: TV Klan ᴴᴰ
@@ -10389,4 +10397,4 @@ http://client.newborntv.xyz:88/live/khFzEWQn/fP85XcC7E/13498.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᴴᴰ",VIP:CH: Sky MySports 8 FHD (CH)
 http://client.newborntv.xyz:88/live/khFzEWQn/fP85XcC7E/13497.m3u8
 
-# Total: 5109
+# Total: 5113

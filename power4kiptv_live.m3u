@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: power4kiptv.info:8080
-# Generated: 2025-12-20 07:03:00
+# Generated: 2025-12-20 18:31:56
 # Expires: 2026-01-21
 # Family Safe Edition
 # ==============================================
@@ -3713,25 +3713,9 @@ http://power4kiptv.info:8080/live/ernstalex/17012022/233027.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rRu3Iwp.png" group-title="DE | SPECIAL BOX STORE FILME",MULTI 24/7 NETFLIX ROMANTIK
 http://power4kiptv.info:8080/live/ernstalex/17012022/233028.m3u8
 
-# --- DE | SPORT (102) ---
+# --- DE | SPORT (94) ---
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/de.png" group-title="DE | SPORT",★☆★ SPORT ★☆★
 http://power4kiptv.info:8080/live/ernstalex/17012022/95859.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/fJu2e9rZI1_.jpeg" group-title="DE | SPORT",Jake Paul vs Anthony Joshua - Channel 1
-http://power4kiptv.info:8080/live/ernstalex/17012022/866583.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/fJu2e9rZI1_.jpeg" group-title="DE | SPORT",Jake Paul vs Anthony Joshua - Channel 2
-http://power4kiptv.info:8080/live/ernstalex/17012022/866582.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/fJu2e9rZI1_.jpeg" group-title="DE | SPORT",Jake Paul vs Anthony Joshua - Channel 3
-http://power4kiptv.info:8080/live/ernstalex/17012022/866581.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/fJu2e9rZI1_.jpeg" group-title="DE | SPORT",Jake Paul vs Anthony Joshua - Channel 4
-http://power4kiptv.info:8080/live/ernstalex/17012022/866580.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/fJu2e9rZI1_.jpeg" group-title="DE | SPORT",Jake Paul vs Anthony Joshua - Channel 5
-http://power4kiptv.info:8080/live/ernstalex/17012022/866579.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/fJu2e9rZI1_.jpeg" group-title="DE | SPORT",Jake Paul vs Anthony Joshua - Channel 6
-http://power4kiptv.info:8080/live/ernstalex/17012022/866578.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/fJu2e9rZI1_.jpeg" group-title="DE | SPORT",Jake Paul vs Anthony Joshua - Channel 7
-http://power4kiptv.info:8080/live/ernstalex/17012022/866577.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/fJu2e9rZI1_.jpeg" group-title="DE | SPORT",Jake Paul vs Anthony Joshua - Channel 8
-http://power4kiptv.info:8080/live/ernstalex/17012022/866576.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PMMnswc.png" group-title="DE | SPORT",PRIME VIDEO SPORTSBAR 1
 http://power4kiptv.info:8080/live/ernstalex/17012022/208819.m3u8
 #EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/sportdigital_fb.png" group-title="DE | SPORT",SPORTDIGITAL FUSSBALL FHD
@@ -4829,4 +4813,4 @@ http://power4kiptv.info:8080/live/ernstalex/17012022/601228.m3u8
 #EXTINF:-1 tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg" group-title="VIP | SPORT VIAPLAY",VIAPLAY XTRA 53
 http://power4kiptv.info:8080/live/ernstalex/17012022/601227.m3u8
 
-# Total: 2363
+# Total: 2355

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: fortv.cc:8080
-# Generated: 2025-12-20 07:02:44
+# Generated: 2025-12-20 18:32:37
 # Expires: 2026-01-10
 # Family Safe Edition
 # ==============================================
@@ -3511,7 +3511,7 @@ http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/101825.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PHILIPPINES",PH GMA Pinoy TV (X)
 http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/101826.m3u8
 
-# --- PPV | UFC (11) ---
+# --- PPV | UFC (18) ---
 #EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 15 |   WWE Monday Night Raw (24/11 01:00am UK TUE| 08:00pm ET MON)
 http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/233922.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV01: House of Glory: Winter Warfare 2025 @ 08:00 PM EST
@@ -3534,6 +3534,20 @@ http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/257809.m3u8
 http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/257810.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 08: Paul v Joshua (19/12 09:45 pm UK | 04:45pm ET) backup 2
 http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/257811.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 09: Paul v Joshua (19/12 09:45 pm UK | 04:45pm ET) backup 3
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/257819.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 10: Paul v Joshua (19/12 09:45 pm UK | 04:45pm ET) backup 4
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/257820.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 11: Paul v Joshua (19/12 09:45 pm UK | 04:45pm ET) backup 5
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/257821.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 12: Paul v Joshua (19/12 09:45 pm UK | 04:45pm ET) backup 6
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/257822.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 13: Paul v Joshua (19/12 09:45 pm UK | 04:45pm ET) backup 7
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/257823.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 14: Paul v Joshua (19/12 09:45 pm UK | 04:45pm ET) backup 8
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/257824.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 15: Jake Paul vs. Anthony Joshua Prelims ( Youtube link )
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/257825.m3u8
 
 # --- Portugal (19) ---
 #EXTINF:-1 tvg-logo="" group-title="Portugal",PT: CMTV
@@ -13329,4 +13343,4 @@ http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/121046.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Vietnam",VN DA NANG 1 HD
 http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/121048.m3u8
 
-# Total: 6626
+# Total: 6633
