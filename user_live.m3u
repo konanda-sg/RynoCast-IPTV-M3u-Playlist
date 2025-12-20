@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: user.scalecdn.co:8080
-# Generated: 2025-12-19 18:30:08
+# Generated: 2025-12-20 07:08:09
 # Expires: 2026-11-29
 # Family Safe Edition
 # ==============================================
@@ -11740,11 +11740,11 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/712014.m3u8
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/712015.m3u8
 
 # --- SPORTS - NCAA FOOTBALL (135) ---
-#EXTINF:-1 tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAA FOOTBALL",USA NCAAF 01:
+#EXTINF:-1 tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAA FOOTBALL",USA NCAAF 01: Kennesaw State vs Western Michigan @ 11:00 AM
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/383558.m3u8
-#EXTINF:-1 tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAA FOOTBALL",USA NCAAF 02:
+#EXTINF:-1 tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAA FOOTBALL",USA NCAAF 02: Memphis vs NC State @ 02:30 PM
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/383559.m3u8
-#EXTINF:-1 tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAA FOOTBALL",USA NCAAF 03:
+#EXTINF:-1 tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAA FOOTBALL",USA NCAAF 03: Alabama vs Oklahoma @ 08:00 PM
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/383560.m3u8
 #EXTINF:-1 tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAA FOOTBALL",USA NCAAF 04:
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/383561.m3u8
@@ -14725,7 +14725,7 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/40648.m3u8
 #EXTINF:-1 tvg-logo="https://www.thewrap.com/wp-content/uploads/2013/10/Fox-Deportes-Logo.png" group-title="USA LATINO SPORTS DEPORTES",USA Latin Fox Sports Deportes
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/40647.m3u8
 
-# --- USA LOCAL - ABC (171) ---
+# --- USA LOCAL - ABC (172) ---
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Q7YULu4MpLE/hqdefault.jpg" group-title="USA LOCAL - ABC",AK | ANCHORAGE | USA ABC13 KYUR
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/38317.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/40-29.png" group-title="USA LOCAL - ABC",AK | Fort Smith | ABC40/29 KHBS
@@ -14786,6 +14786,8 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/38245.m3u8
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2683.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ABC_%282013%29_Dark_Grey.svg/1200px-ABC_%282013%29_Dark_Grey.svg.png" group-title="USA LOCAL - ABC",FL | Miami | ABC UHD WSVN
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/3605.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA LOCAL - ABC",FL | Miami | ABC WPLG
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/694479.m3u8
 #EXTINF:-1 tvg-logo="https://www.wftv.com/resizer/7877gg8S3qHzGHPUoxM_-kH9KYg=/1200x675/mediaweb.wftv.com/theme/images/placeholder-16x9.jpg" group-title="USA LOCAL - ABC",FL | Orlando | ABC WFTV
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2679.m3u8
 #EXTINF:-1 tvg-logo="https://www.mypanhandle.com/wp-content/uploads/sites/88/2019/06/cropped-512Icon-2.png" group-title="USA LOCAL - ABC",FL | Panama City | ABC 13 WMBB
@@ -16763,9 +16765,7 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/470285.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA LOCAL PBS",USA PBS (KLVX) NV | Las Vegas
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/725062.m3u8
 
-# --- USA LOW BANDWIDTH (159) ---
-#EXTINF:-1 tvg-logo="" group-title="USA LOW BANDWIDTH",FL | Miami | ABC SD WPLG
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/694479.m3u8
+# --- USA LOW BANDWIDTH (158) ---
 #EXTINF:-1 tvg-logo="" group-title="USA LOW BANDWIDTH",FL | Miami | CBS SD
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/695222.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA LOW BANDWIDTH",FL | Miami | FOX SD

@@ -1,25 +1,11 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: dnssp.site:80
-# Generated: 2025-12-19 18:26:29
+# Generated: 2025-12-20 07:07:40
 # Expires: 2026-01-16
 # Family Safe Edition
 # ==============================================
 
-
-# --- A FAZENDA (6) ---
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fyxPsX8b/A-Fazenda-16-4-2.png" group-title="A FAZENDA",A Fazenda 01 FHD
-http://dnssp.site:80/live/f98lugg8/pzczhs7r/1271892.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fyxPsX8b/A-Fazenda-16-4-2.png" group-title="A FAZENDA",A Fazenda 01 HD
-http://dnssp.site:80/live/f98lugg8/pzczhs7r/1271891.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fyxPsX8b/A-Fazenda-16-4-2.png" group-title="A FAZENDA",A Fazenda 02 FHD
-http://dnssp.site:80/live/f98lugg8/pzczhs7r/1271890.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fyxPsX8b/A-Fazenda-16-4-2.png" group-title="A FAZENDA",A Fazenda 02 HD
-http://dnssp.site:80/live/f98lugg8/pzczhs7r/1271889.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fyxPsX8b/A-Fazenda-16-4-2.png" group-title="A FAZENDA",A Fazenda 03
-http://dnssp.site:80/live/f98lugg8/pzczhs7r/1271888.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fyxPsX8b/A-Fazenda-16-4-2.png" group-title="A FAZENDA",A Fazenda 04
-http://dnssp.site:80/live/f98lugg8/pzczhs7r/1271887.m3u8
 
 # --- ABERTOS (24) ---
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/Rede%20TV%21%20HD.png" group-title="ABERTOS",Rede TV FHD
@@ -1976,9 +1962,9 @@ http://dnssp.site:80/live/f98lugg8/pzczhs7r/2160.m3u8
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/2159.m3u8
 
 # --- HORA DO JOGO (13) ---
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",14:00 PSG X Flamengo
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",Hora do Jogo! 1
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/981577.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",21:30 Corinthians X Vasco
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",Hora do Jogo! 2
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/981578.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",Hora do Jogo! 3
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/981579.m3u8
@@ -3203,4 +3189,4 @@ http://dnssp.site:80/live/f98lugg8/pzczhs7r/2294.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/NHK.png" group-title="VARIEDADES",NHK
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/1210.m3u8
 
-# Total: 1555
+# Total: 1549

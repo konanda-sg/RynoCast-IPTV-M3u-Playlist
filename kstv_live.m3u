@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: kstv.us:8080
-# Generated: 2025-12-19 18:35:42
+# Generated: 2025-12-20 07:00:21
 # Expires: Unlimited
 # Family Safe Edition
 # ==============================================
@@ -1778,15 +1778,15 @@ http://kstv.us:8080/live/Csmijo7/0455776360/48202.m3u8
 http://kstv.us:8080/live/Csmijo7/0455776360/48203.m3u8
 
 # --- Main Events / PPV (26) ---
-#EXTINF:-1 tvg-logo="" group-title="Main Events / PPV",PPV 01:
+#EXTINF:-1 tvg-logo="" group-title="Main Events / PPV",PPV 01: 7:30AM One Friday Fights 137 Tawanchai v Liu
 http://kstv.us:8080/live/Csmijo7/0455776360/47695.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Main Events / PPV",PPV 02:
+#EXTINF:-1 tvg-logo="" group-title="Main Events / PPV",PPV 02: 8PM Paul v Joshua
 http://kstv.us:8080/live/Csmijo7/0455776360/47696.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Main Events / PPV",PPV 03:
+#EXTINF:-1 tvg-logo="" group-title="Main Events / PPV",PPV 03: (SD) Paul v Joshua
 http://kstv.us:8080/live/Csmijo7/0455776360/47697.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Main Events / PPV",PPV 04:
+#EXTINF:-1 tvg-logo="" group-title="Main Events / PPV",PPV 04: 8PM House of Glory Winter Warfare
 http://kstv.us:8080/live/Csmijo7/0455776360/47698.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Main Events / PPV",PPV 05:
+#EXTINF:-1 tvg-logo="" group-title="Main Events / PPV",PPV 05: 9:30PM CMLL Dream Match
 http://kstv.us:8080/live/Csmijo7/0455776360/47699.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Main Events / PPV",PPV 06:
 http://kstv.us:8080/live/Csmijo7/0455776360/47700.m3u8
@@ -1832,15 +1832,15 @@ http://kstv.us:8080/live/Csmijo7/0455776360/47719.m3u8
 http://kstv.us:8080/live/Csmijo7/0455776360/48375.m3u8
 
 # --- NBA (20) ---
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 01: 8:30PM Spurs @ Knicks - SN-One
+#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 01: Miami Heat vs Boston Celtics @ 07:00 PM
 http://kstv.us:8080/live/Csmijo7/0455776360/47477.m3u8
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 02:
+#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 02: Philadelphia 76ers vs New York Knicks @ 07:00 PM
 http://kstv.us:8080/live/Csmijo7/0455776360/47478.m3u8
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 03:
+#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 03: San Antonio Spurs vs Atlanta Hawks @ 07:30 PM
 http://kstv.us:8080/live/Csmijo7/0455776360/47479.m3u8
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 04:
+#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 04: Chicago Bulls vs Cleveland Cavaliers @ 07:30 PM
 http://kstv.us:8080/live/Csmijo7/0455776360/47480.m3u8
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 05:
+#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 05: Oklahoma City Thunder vs Minnesota Timberwolves @ 09:30 PM
 http://kstv.us:8080/live/Csmijo7/0455776360/47481.m3u8
 #EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 06:
 http://kstv.us:8080/live/Csmijo7/0455776360/47482.m3u8
@@ -1874,15 +1874,15 @@ http://kstv.us:8080/live/Csmijo7/0455776360/48339.m3u8
 http://kstv.us:8080/live/Csmijo7/0455776360/48340.m3u8
 
 # --- NBA.2 (15) ---
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 01: 8:30PM Spurs @ Knicks - SN-One
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 01: 07:00PM Heat at Celtics - Fri (FDSNSun, NBCSB)
 http://kstv.us:8080/live/Csmijo7/0455776360/47583.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 02:
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 02: 07:00PM 76ers at Knicks - Fri (SN-One, MSG)
 http://kstv.us:8080/live/Csmijo7/0455776360/47584.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 03:
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 03: 07:30PM Spurs at Hawks - Fri (FDSNSW, FDSNSE-ATL/WANF/PSN)
 http://kstv.us:8080/live/Csmijo7/0455776360/47585.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 04:
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 04: 07:30PM Bulls at Cavaliers - Fri (CHSN, FDSNOH)
 http://kstv.us:8080/live/Csmijo7/0455776360/47586.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 05:
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 05: 09:30PM Thunder at Timberwolves - Fri (SN-One)
 http://kstv.us:8080/live/Csmijo7/0455776360/47587.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 06:
 http://kstv.us:8080/live/Csmijo7/0455776360/47588.m3u8
@@ -2420,25 +2420,25 @@ http://kstv.us:8080/live/Csmijo7/0455776360/47693.m3u8
 http://kstv.us:8080/live/Csmijo7/0455776360/47694.m3u8
 
 # --- NHL (16) ---
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nhl-center-ice-us.png" group-title="NHL",NHL GAME 01: 07:00PM Mammoth at Bruins - Tue (NESN)
+#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nhl-center-ice-us.png" group-title="NHL",NHL GAME 01: 07:00PM Hurricanes at Panthers - Fri (FDSNSO)
 http://kstv.us:8080/live/Csmijo7/0455776360/47534.m3u8
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nhl-center-ice-us.png" group-title="NHL",NHL GAME 02: 07:00PM Blackhawks at Leafs - Tue (CHSN)
+#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nhl-center-ice-us.png" group-title="NHL",NHL GAME 02: 07:00PM Canucks at Islanders - Fri (NHLN)
 http://kstv.us:8080/live/Csmijo7/0455776360/47535.m3u8
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nhl-center-ice-us.png" group-title="NHL",NHL GAME 03: 07:00PM Flyers at Canadiens - Tue (NBCSP)
+#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nhl-center-ice-us.png" group-title="NHL",NHL GAME 03: 09:00PM Jets at Avalanche - Fri (ALT, TSN3)
 http://kstv.us:8080/live/Csmijo7/0455776360/47536.m3u8
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nhl-center-ice-us.png" group-title="NHL",NHL GAME 04: 07:00PM Islanders at Wings - Tue (FDSNDET)
+#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nhl-center-ice-us.png" group-title="NHL",NHL GAME 04: 09:00PM Devils at Mammoth - Fri (MSGSN2)
 http://kstv.us:8080/live/Csmijo7/0455776360/47537.m3u8
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nhl-center-ice-us.png" group-title="NHL",NHL GAME 05: 07:00PM Canucks at Rangers - Tue (MSG)
+#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nhl-center-ice-us.png" group-title="NHL",NHL GAME 05: 10:00PM Stars at Ducks - Fri (KCOP)
 http://kstv.us:8080/live/Csmijo7/0455776360/47538.m3u8
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nhl-center-ice-us.png" group-title="NHL",NHL GAME 06: 07:00PM Ducks at Jackets - Tue (FDSNOH)
+#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nhl-center-ice-us.png" group-title="NHL",NHL GAME 06:
 http://kstv.us:8080/live/Csmijo7/0455776360/47539.m3u8
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nhl-center-ice-us.png" group-title="NHL",NHL GAME 07: 07:30PM Oilers at Penguins - Tue (TNT, truTV)
+#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nhl-center-ice-us.png" group-title="NHL",NHL GAME 07:
 http://kstv.us:8080/live/Csmijo7/0455776360/47540.m3u8
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nhl-center-ice-us.png" group-title="NHL",NHL GAME 08: 08:00PM Capitals at Wild - Tue (FDSNNO, MNMT, FDSNWI)
+#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nhl-center-ice-us.png" group-title="NHL",NHL GAME 08:
 http://kstv.us:8080/live/Csmijo7/0455776360/47541.m3u8
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nhl-center-ice-us.png" group-title="NHL",NHL GAME 09: 10:00PM Flames at Sharks - Tue (NBCSCA)
+#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nhl-center-ice-us.png" group-title="NHL",NHL GAME 09:
 http://kstv.us:8080/live/Csmijo7/0455776360/47542.m3u8
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nhl-center-ice-us.png" group-title="NHL",NHL GAME 10: 10:00PM Avalanche at Kraken - Tue (TNT, truTV)
+#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nhl-center-ice-us.png" group-title="NHL",NHL GAME 10:
 http://kstv.us:8080/live/Csmijo7/0455776360/47543.m3u8
 #EXTINF:-1 tvg-logo="https://tlgrm.re/images/nhl-center-ice-us.png" group-title="NHL",NHL GAME 11:
 http://kstv.us:8080/live/Csmijo7/0455776360/47544.m3u8

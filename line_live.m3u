@@ -1,13 +1,77 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: line.rs4ott.com:80
-# Generated: 2025-12-19 18:28:29
+# Generated: 2025-12-20 07:00:42
 # Expires: 2026-01-04
 # Family Safe Edition
 # ==============================================
 
 
-# --- BEIN AFRICA CUP 2025 (12) ---
+# --- BEIN AFRICA CUP 2025 (44) ---
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN AFRICA CUP 2025",LOCAL - BEIN MAX 1 SD
+http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/1335322.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN AFRICA CUP 2025",LOCAL - BEIN MAX 1 ʰᵉᵛᶜ
+http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/1335321.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN AFRICA CUP 2025",LOCAL - BEIN MAX 1 ᴴᴰ
+http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/1335320.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN AFRICA CUP 2025",LOCAL - BEIN MAX 1 ᴿᴬᵂ
+http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/1335319.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN AFRICA CUP 2025",LOCAL - BEIN MAX 2 SD
+http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/1335318.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN AFRICA CUP 2025",LOCAL - BEIN MAX 2 ʰᵉᵛᶜ
+http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/1335317.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN AFRICA CUP 2025",LOCAL - BEIN MAX 2 ᴴᴰ
+http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/1335316.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN AFRICA CUP 2025",LOCAL - BEIN MAX 2 ᴿᴬᵂ
+http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/1335315.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN AFRICA CUP 2025",LOCAL - BEIN MAX 3 EN SD
+http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/1335314.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN AFRICA CUP 2025",LOCAL - BEIN MAX 3 EN ʰᵉᵛᶜ
+http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/1335313.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN AFRICA CUP 2025",LOCAL - BEIN MAX 3 EN ᴴᴰ
+http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/1335312.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN AFRICA CUP 2025",LOCAL - BEIN MAX 3 EN ᴿᴬᵂ
+http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/1335311.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN AFRICA CUP 2025",LOCAL - BEIN MAX 4 FR SD
+http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/1335310.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN AFRICA CUP 2025",LOCAL - BEIN MAX 4 FR ʰᵉᵛᶜ
+http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/1335309.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN AFRICA CUP 2025",LOCAL - BEIN MAX 4 FR ᴴᴰ
+http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/1335308.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN AFRICA CUP 2025",LOCAL - BEIN MAX 4 FR ᴿᴬᵂ
+http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/1335307.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1987800.png" group-title="BEIN AFRICA CUP 2025",BE -  BEIN MAX 01 4K
+http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/1335306.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1987799.png" group-title="BEIN AFRICA CUP 2025",BE -  BEIN MAX 01 FHD
+http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/1335305.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1987798.png" group-title="BEIN AFRICA CUP 2025",BE -  BEIN MAX 01 HD
+http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/1335304.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1987797.png" group-title="BEIN AFRICA CUP 2025",BE -  BEIN MAX 01 SD
+http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/1335303.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1987796.png" group-title="BEIN AFRICA CUP 2025",BE -  BEIN MAX 02 4K
+http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/1335302.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1987795.png" group-title="BEIN AFRICA CUP 2025",BE -  BEIN MAX 02 FHD
+http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/1335301.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1987794.png" group-title="BEIN AFRICA CUP 2025",BE -  BEIN MAX 02 HD
+http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/1335300.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1987793.png" group-title="BEIN AFRICA CUP 2025",BE -  BEIN MAX 02 SD
+http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/1335299.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1987792.png" group-title="BEIN AFRICA CUP 2025",BE -  BEIN MAX 03 4K
+http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/1335298.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1987791.png" group-title="BEIN AFRICA CUP 2025",BE -  BEIN MAX 03 FHD
+http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/1335297.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1987790.png" group-title="BEIN AFRICA CUP 2025",BE -  BEIN MAX 03 HD
+http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/1335296.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1987789.png" group-title="BEIN AFRICA CUP 2025",BE -  BEIN MAX 03 SD
+http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/1335295.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1987788.png" group-title="BEIN AFRICA CUP 2025",BE -  BEIN MAX 04 4K
+http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/1335294.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1987787.png" group-title="BEIN AFRICA CUP 2025",BE -  BEIN MAX 04 FHD
+http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/1335293.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1987786.png" group-title="BEIN AFRICA CUP 2025",BE -  BEIN MAX 04 HD
+http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/1335292.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1987785.png" group-title="BEIN AFRICA CUP 2025",BE -  BEIN MAX 04 SD
+http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/1335291.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1987655.png" group-title="BEIN AFRICA CUP 2025",NX - BEIN MAX 1 ⁴ᴷ
 http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/1334864.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1987654.png" group-title="BEIN AFRICA CUP 2025",NX - BEIN MAX 1 ᴴᴰ ⁷²⁰
@@ -7398,7 +7462,7 @@ http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/988160.m3u8
 http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/988161.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/USA-FLAG.png" group-title="|NA| PPV LIVE EVENT",###### PPV LIVE EVENTS ######
 http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/994285.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|NA| PPV LIVE EVENT",LIVE EVENT 01 - 7:30AM One Friday Fights 137 Tawanchai v Liu
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|NA| PPV LIVE EVENT",LIVE EVENT 01 - 7PM Jake v Joshua Prelims
 http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/615651.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|NA| PPV LIVE EVENT",LIVE EVENT 02 - 8PM Paul v Joshua
 http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/615650.m3u8
@@ -12918,7 +12982,7 @@ http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/952743.m3u8
 http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/952744.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/NFL-REDZONE.png" group-title="|NA| USA NFL",NFL - NFL REDZONE LQ
 http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/980240.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 01 - TNF 8:15PM Rams at Seahawks
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 01 -
 http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/660810.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 02 - SAT 5PM Eagles at Commanders
 http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/660809.m3u8
@@ -14068,17 +14132,17 @@ http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/725885.m3u8
 http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/725886.m3u8
 
 # --- |UK| DAZN PPV (30) ---
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="|UK| DAZN PPV",UK: DAZN PPV 1 - GENOA VS. INTER | Sun 14 Dec 17:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="|UK| DAZN PPV",UK: DAZN PPV 1 - PORTER VS. GARRETT: WEIGH-IN | Sat 20 Dec 00:50 | 8K EXCLUSIVE
 http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/1277882.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="|UK| DAZN PPV",UK: DAZN PPV 2 - CHARLEROI VS. UNION SAINT-GILLOISE | Sun 14 Dec 18:20 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="|UK| DAZN PPV",UK: DAZN PPV 2 - POKERSTARS #9 | Fri 19 Dec 21:50 | 8K EXCLUSIVE
 http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/1277881.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="|UK| DAZN PPV",UK: DAZN PPV 3 - MANRESA VS. BARCELONA | Sun 14 Dec 18:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="|UK| DAZN PPV",UK: DAZN PPV 3 - GRAMBLING @ HAMPTON | Fri 19 Dec 22:50 | 8K EXCLUSIVE
 http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/1277880.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="|UK| DAZN PPV",UK: DAZN PPV 4 - SHEFFIELD SHARKS VS. CALEDONIA GLADIATORS | Sun 14 Dec 16:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="|UK| DAZN PPV",UK: DAZN PPV 4 - NORFOLK ST @ JACKSON ST | Sat 20 Dec 01:20 | 8K EXCLUSIVE
 http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/1277879.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="|UK| DAZN PPV",UK: DAZN PPV 5 - LONDON LIONS VS. SURREY 89ERS | Sun 14 Dec 16:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="|UK| DAZN PPV",UK: DAZN PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/1277878.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="|UK| DAZN PPV",UK: DAZN PPV 6 - TEXAS @ BAYLOR | Sun 14 Dec 18:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="|UK| DAZN PPV",UK: DAZN PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/1277877.m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="|UK| DAZN PPV",UK: DAZN PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/1277876.m3u8
@@ -15554,7 +15618,7 @@ http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/677310.m3u8
 http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/677309.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|UK| PPV EVENTS",SBO 4: SKY SPORT BOX OFFICE FHD
 http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/677308.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|UK| PPV EVENTS",LIVE EVENT 01 - 7:30AM One Friday Fights 137 Tawanchai v Liu
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|UK| PPV EVENTS",LIVE EVENT 01 - 7PM Jake v Joshua Prelims
 http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/677307.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|UK| PPV EVENTS",LIVE EVENT 02 - 8PM Paul v Joshua
 http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/677306.m3u8
@@ -16917,4 +16981,4 @@ http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/828028.m3u8
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/piconsnew/setantasports.png" group-title="|UK| WORLD SPORTS",UK - SETANTA SPORTS 12
 http://line.rs4ott.com:80/live/f51a05c231/d8505970cf05/828027.m3u8
 
-# Total: 8312
+# Total: 8344

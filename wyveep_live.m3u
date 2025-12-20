@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: wyveep.com:8080
-# Generated: 2025-12-19 18:27:17
+# Generated: 2025-12-20 07:06:40
 # Expires: 2025-12-25
 # Family Safe Edition
 # ==============================================
@@ -405,7 +405,9 @@ http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1297109.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/overSport.png" group-title="ALBANIE | TV",|ALB| OVERSPORT 3 HD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1297108.m3u8
 
-# --- ALGERIE  | ☾ TV (22) ---
+# --- ALGERIE  | ☾ TV (23) ---
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/alfajire.png" group-title="ALGERIE  | ☾ TV",|AR| EL FADJR TV
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1403019.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/flag/algeria.png" group-title="ALGERIE  | ☾ TV",•●★★--ALGERIE | OTT--★★●•
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/149453.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/N1alegrie.png" group-title="ALGERIE  | ☾ TV",DZ| ELDJAZAIR N1 HD
@@ -10853,4 +10855,4 @@ http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1402563.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/BEINSPORT3.png" group-title="⚽️ BEIN SPORT ARABIC  | TV",AR| BEIN SPORTS 3 ENGLISH HD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/237130.m3u8
 
-# Total: 5351
+# Total: 5352

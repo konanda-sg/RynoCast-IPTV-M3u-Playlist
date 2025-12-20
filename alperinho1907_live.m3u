@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: alperinho1907.kralsmart.xyz:2086
-# Generated: 2025-12-19 18:31:15
+# Generated: 2025-12-20 06:59:46
 # Expires: 2026-02-08
 # Family Safe Edition
 # ==============================================
@@ -1021,21 +1021,11 @@ http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/170928.m3u8
 
-# --- DE-DAZN EVENT (268) ---
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9u7rcv6jejp4pmq5vuvlqb2dm_image-header_pDach_1763473997000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Wintersport-Freitag | 19. Dezember (2025-12-19 09:05:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/172745.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dqncvfeppyxqzsh1vcrgajdo6_image-header_pDach_1760431570000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Ministry of Education Cup Race Night (2025-12-19 12:20:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/172746.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/e0n98vdhlqvb620bs0pfwx1zl_image-header_pDach_1765825275000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Darts-WM | Tag 9 (Session 1) (2025-12-19 12:30:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/172747.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/e2a3lowbm5f72j1brtxtbvh7h_image-header_pDach_1765825347000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Darts-WM | Tag 9 (Session 1 mit Originalkommentar) (2025-12-19 12:30:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/172748.m3u8
+# --- DE-DAZN EVENT (263) ---
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4r5773v4r9ykt6kc0a2j352y9_image-header_pDach_1765289532000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Rocket League | Halbfinale & Finale (2025-12-19 13:00:00)
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/172749.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1rfubqwcla9731wcvb7jhpkptj_image-header_pDach_1765316186000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Myrtle Beach Bowl: Kennesaw State vs. Western Michigan (2025-12-19 16:00:00)
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/172750.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/y8hbxjg17m521gok3g94kcexb_image-header_pDach_1765963555000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Richards vs. Azeez: Weigh-In (2025-12-19 17:00:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/172751.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1cyej8z3ahol0vt1e550u9p1y_image-header_pDach_1764334846000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",SGS Essen - Eintracht Frankfurt (2025-12-19 17:30:00)
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/172752.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5dohmjx0r4jfqrko9znaw7nqo_image-header_pDach_1765825325000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Darts-WM | Tag 9 (Session 2 mit Originalkommentar) (2025-12-19 19:00:00)
@@ -7153,4 +7143,4 @@ http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/165820.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JEtHjJs.png" group-title="WORLD SPORTS",Sky Sport Action HD [UK]
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/165884.m3u8
 
-# Total: 3516
+# Total: 3511

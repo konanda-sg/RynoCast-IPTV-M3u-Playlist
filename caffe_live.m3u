@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: caffe.link:25461
-# Generated: 2025-12-19 18:31:47
+# Generated: 2025-12-20 07:11:52
 # Expires: 2026-05-01
 # Family Safe Edition
 # ==============================================
@@ -1035,7 +1035,7 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/3719.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/hbo-logo.png" group-title="Slovenija",Slovenija | HBO 1
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/14517.m3u8
 
-# --- Sport (171) ---
+# --- Sport (172) ---
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/SK_HD_RS_logo.png" group-title="Sport",SK HD
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/4731.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/SK1_HR_logo.png" group-title="Sport",SK 1
@@ -1148,6 +1148,8 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/56672.m3u8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118586.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Arena_Sport_10_HR_logo.png" group-title="Sport",Arena Sport 10
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118585.m3u8
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/nova_sport.png" group-title="Sport",Nova TV sport
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/34147.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sport",Zvezda TV
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/6080.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sport",Hajduk TV
@@ -1579,4 +1581,4 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/7374.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Švicarska",CH: TELE 1 HD
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/7382.m3u8
 
-# Total: 763
+# Total: 764

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 4kssl.com:8080
-# Generated: 2025-12-19 18:26:51
+# Generated: 2025-12-20 07:11:24
 # Expires: 2026-07-25
 # Family Safe Edition
 # ==============================================
@@ -1189,7 +1189,7 @@ http://4kssl.com:8080/live/1a1349093e46/c4256387cf/579462.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?ver=96557" group-title="AL| FILMA HD/SERIALE",AL: DISCOVERY+ MAX 6 HD
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/579463.m3u8
 
-# --- AL| GJENERALE (50) ---
+# --- AL| GJENERALE (52) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Animated-Flag-Albania.gif" group-title="AL| GJENERALE",###### GJENERALE ######
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/507781.m3u8
 #EXTINF:-1 tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14664.jpg?82708" group-title="AL| GJENERALE",AL: BIG BROTHER VIP KOSOVA 1
@@ -1208,6 +1208,10 @@ http://4kssl.com:8080/live/1a1349093e46/c4256387cf/1659356.m3u8
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/1688703.m3u8
 #EXTINF:-1 tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/13745.png?18598" group-title="AL| GJENERALE",AL: SAT BIG BROTHER VIP KS 2 ᴿᴬᵂ
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/1688702.m3u8
+#EXTINF:-1 tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/13745.png?18598" group-title="AL| GJENERALE",AL: BIG BROTHER VIP ALB 1
+http://4kssl.com:8080/live/1a1349093e46/c4256387cf/1752038.m3u8
+#EXTINF:-1 tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/13745.png?18598" group-title="AL| GJENERALE",AL: BIG BROTHER VIP ALB 2
+http://4kssl.com:8080/live/1a1349093e46/c4256387cf/1752037.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3073.png?48220" group-title="AL| GJENERALE",AL: TOP CHANNEL HD
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/692754.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3073.png?49435" group-title="AL| GJENERALE",AL: TOP CHANNEL 4K
@@ -5387,4 +5391,4 @@ http://4kssl.com:8080/live/1a1349093e46/c4256387cf/612647.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6576.png?ver=29759" group-title="FR| SPORT HD/4K",FR: MULTISPORTS 6 HD
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/612648.m3u8
 
-# Total: 2645
+# Total: 2647

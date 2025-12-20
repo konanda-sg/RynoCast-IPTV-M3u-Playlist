@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 45.139.122.199:8080
-# Generated: 2025-12-19 18:28:34
+# Generated: 2025-12-20 07:04:49
 # Expires: 2026-07-21
 # Family Safe Edition
 # ==============================================
@@ -547,29 +547,7 @@ http://45.139.122.199:8080/live/Christian1/christian1/1160305.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-0.png" group-title="Barclays Womens Super League UK",US (P+) Barclays Womens Super League 20
 http://45.139.122.199:8080/live/Christian1/christian1/1160306.m3u8
 
-# --- DAZN SE (17) ---
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1pe1kgj53xlbqetunoke87rnh_image-header_pRow_1765807619000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN SE",13:20 Ministry of Education Cup Race Night 12/19 [DAZN SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180700.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6w1kl44tdxxrtlyqmkkxy0se4_image-header_pRow_1765289368000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN SE",14:00 Rocket League - Semi-Finals & Final 12/19 [DAZN SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180698.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/68hlb2e2pi0619lm0nvrnm4pi_image-header_pRow_1765316186000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN SE",17:00 Myrtle Beach Bowl: Kennesaw State vs. Western Michigan 12/19 [DAZN SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180696.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/19kt9qma1i03h1rfz9jc7zs1t4_image-header_pRow_1765316186000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN SE",20:30 Gasparilla Bowl: Memphis vs. NC State 12/19 [DAZN SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180692.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/41tpjkkyxrfg0fm7bpq8tl70f_image-header_pRow_1756894695000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN SE",20:30 Newcastle Eagles vs. Leicester Riders 12/19 [DAZN SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180690.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/944p7dxxv8ap2ub1oqnqap2lh_image-header_pRow_1756894577000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN SE",20:30 Surrey 89ers vs. Cheshire Phoenix 12/19 [DAZN SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180688.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/btapjovn6k8v74a6frt2yiv2f_image-header_pRow_1756977826000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN SE",20:30 Bristol Flyers vs. Caledonia Gladiators 12/19 [DAZN SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180686.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8x2l1ak548vnuzjevry76d0m2_image-header_pRow_1756977924000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN SE",20:30 London Lions vs. Manchester Basketball 12/19 [DAZN SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180684.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/60x9yep2zxh8hni7w4ea1glb0_image-header_pRow_1765281542000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN SE",20:45 Charleroi vs. Genk 12/19 [DAZN SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180682.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1dts78kdt4wh01cc9c5ctpt5gp_image-header_pRow_1765471868000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN SE",23:00 Grambling @ Hampton 12/19 [DAZN SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180680.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3ob6y5ghs1ib1dq5qbro8wsoa_image-header_pRow_1766077029000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN SE",01:00 Porter vs. Garrett: Weigh-In 12/20 [DAZN SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180678.m3u8
+# --- DAZN SE (6) ---
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/r1daj6habtse1k3u5lovrvvgk_image-header_pRow_1765451843000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN SE",01:30 Norfolk St @ Jackson St 12/20 [DAZN SE]
 http://45.139.122.199:8080/live/Christian1/christian1/2180676.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4z2png962tv11jdltfhodef0p_image-header_pRow_1765316186000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN SE",02:00 College Football Playoff First Round: Alabama @ Oklahoma 12/20 [DAZN SE]
@@ -1071,99 +1049,11 @@ http://45.139.122.199:8080/live/Christian1/christian1/41317.m3u8
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/nordic/norway/viasat-nature-no.png" group-title="Denmark",Viasat Nature FHD DK [Multi-Sub]
 http://45.139.122.199:8080/live/Christian1/christian1/774461.m3u8
 
-# --- Discovery+ Sport SE (160) ---
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/25/47cd0e6c-94d7-3234-a6ac-afbb4763b4c9.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",11:10 Scottish Open snooker HD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2181107.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/25/47cd0e6c-94d7-3234-a6ac-afbb4763b4c9.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",11:10 Scottish Open snooker SD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2181106.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/18/3c93ba3b-f505-39ba-816c-47a54b98dae7.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",12:10 Hopp | La Coruña ridsport HD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2181105.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/18/3c93ba3b-f505-39ba-816c-47a54b98dae7.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",12:10 Hopp | La Coruña ridsport SD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2181104.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/19/bc6f86c6-f3f8-3fda-a4c4-91f37deaf0d0.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",12:44 Chang Bingyu - Mark Selby snooker HD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2181103.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/19/bc6f86c6-f3f8-3fda-a4c4-91f37deaf0d0.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",12:44 Chang Bingyu - Mark Selby snooker SD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2181101.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/25/47cd0e6c-94d7-3234-a6ac-afbb4763b4c9.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",12:45 Kvartsfinal snooker HD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2181099.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/25/47cd0e6c-94d7-3234-a6ac-afbb4763b4c9.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",12:45 Kvartsfinal snooker SD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2181097.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/16/8f47283b-6544-3b45-ad90-6409df92fffc.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",13:00 Sigulda | Heat 1 skeleton HD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2181095.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/16/8f47283b-6544-3b45-ad90-6409df92fffc.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",13:00 Sigulda | Heat 1 skeleton SD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2181093.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/18/d6510033-1718-32fd-9c3a-d4f96eb1116d.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",13:20 Hall of Fame Beijing Ice hockey  HD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2181091.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/18/d6510033-1718-32fd-9c3a-d4f96eb1116d.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",13:20 Hall of Fame Beijing Ice hockey  SD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2181089.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/18/fdf86a80-e282-39ca-8727-e9599c4e0233.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",14:20 The Rise of African Pro Cycling  HD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2181087.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/18/fdf86a80-e282-39ca-8727-e9599c4e0233.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",14:20 The Rise of African Pro Cycling  SD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2181085.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/16/cde08262-92a2-3f03-be79-e87b2f08d834.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",14:45 Sigulda | Heat 2 skeleton HD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2181083.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/16/cde08262-92a2-3f03-be79-e87b2f08d834.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",14:45 Sigulda | Heat 2 skeleton SD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2181081.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/19/37aee38f-5fe0-3731-9241-174f421cfb93.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",14:59 Chris Wakelin - Zhou Yuelong snooker HD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2181079.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/19/37aee38f-5fe0-3731-9241-174f421cfb93.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",14:59 Chris Wakelin - Zhou Yuelong snooker SD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2181077.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/11/9a20e0f8-6407-3af5-bc54-18450b31f6a0.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",16:00 Grant Thornton Invitational | Dag 3 golf HD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2181075.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/11/9a20e0f8-6407-3af5-bc54-18450b31f6a0.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",16:00 Grant Thornton Invitational | Dag 3 golf SD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2181073.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/19/db569507-69d0-3628-81bf-f0994ba2b8b0.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",18:55 Park City | Mixed stafett rodel HD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2181071.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/19/db569507-69d0-3628-81bf-f0994ba2b8b0.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",18:55 Park City | Mixed stafett rodel SD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2181069.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/18/454df360-133f-38ff-bda2-ff56c9e52620.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",19:30 Hopp | La Coruña ridsport HD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2181067.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/18/454df360-133f-38ff-bda2-ff56c9e52620.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",19:30 Hopp | La Coruña ridsport SD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2181065.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/19/0b21cff0-6d2a-3e7c-baee-8de030c7aef0.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",19:45 Mark Allen - Joe O'Connor snooker HD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2181063.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/25/a79a5da5-0606-33f5-bd11-bfc1fce7e044.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",19:45 Kvartsfinal snooker HD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2181061.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/19/0b21cff0-6d2a-3e7c-baee-8de030c7aef0.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",19:45 Mark Allen - Joe O'Connor snooker SD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2181059.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/25/a79a5da5-0606-33f5-bd11-bfc1fce7e044.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",19:45 Kvartsfinal snooker SD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2181057.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/19/96565837-805a-3919-935d-3aa67e208c77.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",20:00 Jiang Jun - Matthew Selt snooker HD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2181054.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/19/96565837-805a-3919-935d-3aa67e208c77.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",20:00 Jiang Jun - Matthew Selt snooker SD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2181052.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/17/a783f70f-5cbc-3e8c-837c-0f928751d7f0.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",20:35 Hopp | Geneve ridsport HD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2181050.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/17/a783f70f-5cbc-3e8c-837c-0f928751d7f0.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",20:35 Hopp | Geneve ridsport SD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2181048.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/16/d1e39b45-9690-36e9-b55a-1f9c0683df21.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",20:50 Lake Placid | 1:a åket rodel HD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2181046.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/16/d1e39b45-9690-36e9-b55a-1f9c0683df21.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",20:50 Lake Placid | 1:a åket rodel SD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2181044.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/27/69e36753-0732-3d2f-8def-47f2dfd581ca.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",21:35 PTO Tour | Doha triathlon HD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2181042.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/27/69e36753-0732-3d2f-8def-47f2dfd581ca.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",21:35 PTO Tour | Doha triathlon SD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2181040.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/16/73505b2f-b768-3ab9-90cc-75d3bd3d140e.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",21:47 Lake Placid | 1:a åket rodel HD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2181038.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/16/73505b2f-b768-3ab9-90cc-75d3bd3d140e.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",21:47 Lake Placid | 1:a åket rodel SD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2181036.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/16/87a8adca-025e-381e-a494-40e14418757e.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",22:40 Lake Placid | 2:a åket rodel HD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2181034.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/16/87a8adca-025e-381e-a494-40e14418757e.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",22:40 Lake Placid | 2:a åket rodel SD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2181032.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/04/30/a6f12859-b9cb-3494-a4b3-8c2d9172068a.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",22:50 Orlando Magic - New York Knicks basket HD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2181030.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/04/30/a6f12859-b9cb-3494-a4b3-8c2d9172068a.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",22:50 Orlando Magic - New York Knicks basket SD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2181028.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/11/319d1c78-be26-3f1c-ba54-470b626f96a2.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",23:00 Berlin | Sammanfattning formel e HD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2181026.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/11/319d1c78-be26-3f1c-ba54-470b626f96a2.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",23:00 Berlin | Sammanfattning formel e SD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2181024.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/16/9ff41dac-21f6-3c2d-93d7-a5dd1b5ae423.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",23:22 Lake Placid | 2:a åket rodel HD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2181022.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/16/9ff41dac-21f6-3c2d-93d7-a5dd1b5ae423.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",23:22 Lake Placid | 2:a åket rodel SD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2181020.m3u8
+# --- Discovery+ Sport SE (66) ---
+#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/21/7c650fbb-c84a-33f9-910a-bba32f8b163d.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",06:00 Singapore cykel HD 12/20 [D+ SE]
+http://45.139.122.199:8080/live/Christian1/christian1/2181345.m3u8
+#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/21/7c650fbb-c84a-33f9-910a-bba32f8b163d.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",06:00 Singapore cykel SD 12/20 [D+ SE]
+http://45.139.122.199:8080/live/Christian1/christian1/2181344.m3u8
 #EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/18/a5a7d509-f6bb-3c0b-aa07-1d50e99e18c9.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",23:55 Cycling Africa  HD 12/19 [D+ SE]
 http://45.139.122.199:8080/live/Christian1/christian1/2181018.m3u8
 #EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/18/a5a7d509-f6bb-3c0b-aa07-1d50e99e18c9.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",23:55 Cycling Africa  SD 12/19 [D+ SE]
@@ -1226,111 +1116,15 @@ http://45.139.122.199:8080/live/Christian1/christian1/2180938.m3u8
 http://45.139.122.199:8080/live/Christian1/christian1/2180935.m3u8
 #EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/18/6167ad36-7b90-32ca-a0be-23554881280c.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",06:00 Word Cup | Solitude Relay * HD 12/20 [D+ SE]
 http://45.139.122.199:8080/live/Christian1/christian1/2180932.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/18/17637415-681f-3af9-b31f-4eb9d44ffc33.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",06:00 PGA Tour Highlights show * HD 12/20 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180929.m3u8
 #EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/18/6167ad36-7b90-32ca-a0be-23554881280c.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",06:00 Word Cup | Solitude Relay * SD 12/20 [D+ SE]
 http://45.139.122.199:8080/live/Christian1/christian1/2180926.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/18/17637415-681f-3af9-b31f-4eb9d44ffc33.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",06:00 PGA Tour Highlights show * SD 12/20 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180923.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/25/47cd0e6c-94d7-3234-a6ac-afbb4763b4c9.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",11:10 Scottish Open snooker HD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180568.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/25/47cd0e6c-94d7-3234-a6ac-afbb4763b4c9.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",11:10 Scottish Open snooker SD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180567.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/18/3c93ba3b-f505-39ba-816c-47a54b98dae7.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",12:10 Hopp | La Coruña ridsport HD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180566.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/18/3c93ba3b-f505-39ba-816c-47a54b98dae7.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",12:10 Hopp | La Coruña ridsport SD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180565.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/19/bc6f86c6-f3f8-3fda-a4c4-91f37deaf0d0.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",12:45 Chang Bingyu - Mark Selby snooker HD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180564.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/25/47cd0e6c-94d7-3234-a6ac-afbb4763b4c9.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",12:45 Kvartsfinal snooker HD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180563.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/19/bc6f86c6-f3f8-3fda-a4c4-91f37deaf0d0.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",12:45 Chang Bingyu - Mark Selby snooker SD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180562.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/25/47cd0e6c-94d7-3234-a6ac-afbb4763b4c9.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",12:45 Kvartsfinal snooker SD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180561.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/16/8f47283b-6544-3b45-ad90-6409df92fffc.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",13:00 Sigulda | Heat 1 skeleton HD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180560.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/16/8f47283b-6544-3b45-ad90-6409df92fffc.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",13:00 Sigulda | Heat 1 skeleton SD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180559.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/18/d6510033-1718-32fd-9c3a-d4f96eb1116d.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",13:20 Hall of Fame Beijing Ice hockey  HD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180558.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/18/d6510033-1718-32fd-9c3a-d4f96eb1116d.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",13:20 Hall of Fame Beijing Ice hockey  SD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180557.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/18/fdf86a80-e282-39ca-8727-e9599c4e0233.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",14:20 The Rise of African Pro Cycling  HD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180556.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/18/fdf86a80-e282-39ca-8727-e9599c4e0233.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",14:20 The Rise of African Pro Cycling  SD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180555.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/16/cde08262-92a2-3f03-be79-e87b2f08d834.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",14:45 Sigulda | Heat 2 skeleton HD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180554.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/16/cde08262-92a2-3f03-be79-e87b2f08d834.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",14:45 Sigulda | Heat 2 skeleton SD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180553.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/19/37aee38f-5fe0-3731-9241-174f421cfb93.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",15:00 Chris Wakelin - Zhou Yuelong snooker HD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180552.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/11/9a20e0f8-6407-3af5-bc54-18450b31f6a0.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",16:00 Grant Thornton Invitational | Dag 3 golf HD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180551.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/19/37aee38f-5fe0-3731-9241-174f421cfb93.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",15:00 Chris Wakelin - Zhou Yuelong snooker SD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180550.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/11/9a20e0f8-6407-3af5-bc54-18450b31f6a0.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",16:00 Grant Thornton Invitational | Dag 3 golf SD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180549.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/19/db569507-69d0-3628-81bf-f0994ba2b8b0.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",18:55 Park City | Mixed stafett rodel HD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180548.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/19/db569507-69d0-3628-81bf-f0994ba2b8b0.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",18:55 Park City | Mixed stafett rodel SD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180547.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/18/454df360-133f-38ff-bda2-ff56c9e52620.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",19:30 Hopp | La Coruña ridsport HD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180546.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/18/454df360-133f-38ff-bda2-ff56c9e52620.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",19:30 Hopp | La Coruña ridsport SD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180545.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/19/0b21cff0-6d2a-3e7c-baee-8de030c7aef0.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",19:45 Mark Allen - Joe O'Connor snooker HD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180544.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/25/a79a5da5-0606-33f5-bd11-bfc1fce7e044.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",19:45 Kvartsfinal snooker HD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180543.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/19/0b21cff0-6d2a-3e7c-baee-8de030c7aef0.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",19:45 Mark Allen - Joe O'Connor snooker SD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180542.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/25/a79a5da5-0606-33f5-bd11-bfc1fce7e044.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",19:45 Kvartsfinal snooker SD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180541.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/25/a79a5da5-0606-33f5-bd11-bfc1fce7e044.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",20:00 Jiang Jun - Matthew Selt snooker HD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180540.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/25/a79a5da5-0606-33f5-bd11-bfc1fce7e044.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",20:00 Jiang Jun - Matthew Selt snooker SD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180539.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/17/a783f70f-5cbc-3e8c-837c-0f928751d7f0.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",20:35 Hopp | Geneve ridsport HD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180538.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/17/a783f70f-5cbc-3e8c-837c-0f928751d7f0.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",20:35 Hopp | Geneve ridsport SD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180537.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/16/d1e39b45-9690-36e9-b55a-1f9c0683df21.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",20:50 Lake Placid | 1:a åket rodel HD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180536.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/16/d1e39b45-9690-36e9-b55a-1f9c0683df21.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",20:50 Lake Placid | 1:a åket rodel SD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180535.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/27/69e36753-0732-3d2f-8def-47f2dfd581ca.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",21:35 PTO Tour | Doha triathlon HD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180534.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/27/69e36753-0732-3d2f-8def-47f2dfd581ca.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",21:35 PTO Tour | Doha triathlon SD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180533.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/16/73505b2f-b768-3ab9-90cc-75d3bd3d140e.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",21:47 Lake Placid | 1:a åket rodel HD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180532.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/16/73505b2f-b768-3ab9-90cc-75d3bd3d140e.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",21:47 Lake Placid | 1:a åket rodel SD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180531.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/16/87a8adca-025e-381e-a494-40e14418757e.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",22:40 Lake Placid | 2:a åket rodel HD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180530.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/16/87a8adca-025e-381e-a494-40e14418757e.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",22:40 Lake Placid | 2:a åket rodel SD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180529.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/04/30/a6f12859-b9cb-3494-a4b3-8c2d9172068a.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",22:50 Orlando Magic - New York Knicks basket HD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180528.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/04/30/a6f12859-b9cb-3494-a4b3-8c2d9172068a.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",22:50 Orlando Magic - New York Knicks basket SD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180527.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/11/319d1c78-be26-3f1c-ba54-470b626f96a2.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",23:00 Berlin | Sammanfattning formel e HD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180526.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/11/319d1c78-be26-3f1c-ba54-470b626f96a2.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",23:00 Berlin | Sammanfattning formel e SD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180525.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/16/9ff41dac-21f6-3c2d-93d7-a5dd1b5ae423.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",23:22 Lake Placid | 2:a åket rodel HD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180524.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/16/9ff41dac-21f6-3c2d-93d7-a5dd1b5ae423.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",23:22 Lake Placid | 2:a åket rodel SD 12/19 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180523.m3u8
 #EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/18/a5a7d509-f6bb-3c0b-aa07-1d50e99e18c9.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",23:55 Cycling Africa  HD 12/19 [D+ SE]
 http://45.139.122.199:8080/live/Christian1/christian1/2180522.m3u8
 #EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/18/a5a7d509-f6bb-3c0b-aa07-1d50e99e18c9.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",23:55 Cycling Africa  SD 12/19 [D+ SE]
 http://45.139.122.199:8080/live/Christian1/christian1/2180521.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/16/b3f74faa-c12b-3558-895b-c021558d6043.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",00:25 Lake Placid | 1:a åket rodel HD 12/19 [D+ SE]
+#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/16/b3f74faa-c12b-3558-895b-c021558d6043.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",00:20 Lake Placid | 1:a åket rodel HD 12/19 [D+ SE]
 http://45.139.122.199:8080/live/Christian1/christian1/2180520.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/16/b3f74faa-c12b-3558-895b-c021558d6043.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",00:25 Lake Placid | 1:a åket rodel SD 12/19 [D+ SE]
+#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/16/b3f74faa-c12b-3558-895b-c021558d6043.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",00:20 Lake Placid | 1:a åket rodel SD 12/19 [D+ SE]
 http://45.139.122.199:8080/live/Christian1/christian1/2180519.m3u8
 #EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/04/30/cb3e5f68-fcaf-3bdf-915c-f59f49f3ccfb.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",00:35 New York Knicks - San Antonio Spurs basket HD 12/19 [D+ SE]
 http://45.139.122.199:8080/live/Christian1/christian1/2180518.m3u8
@@ -1352,33 +1146,33 @@ http://45.139.122.199:8080/live/Christian1/christian1/2180511.m3u8
 http://45.139.122.199:8080/live/Christian1/christian1/2180510.m3u8
 #EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/18/d794a2c6-584a-3552-9713-ec5ccfdbb6f8.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",02:05 Rally raid Dakar  SD 12/20 [D+ SE]
 http://45.139.122.199:8080/live/Christian1/christian1/2180509.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/18/3b98f4bb-c3ac-3701-bd7d-6794ac5fe97b.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",02:20 Riyadh | Final bmx HD 12/20 [D+ SE]
+#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/18/3b98f4bb-c3ac-3701-bd7d-6794ac5fe97b.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",02:15 Riyadh | Final bmx HD 12/20 [D+ SE]
 http://45.139.122.199:8080/live/Christian1/christian1/2180508.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/18/3b98f4bb-c3ac-3701-bd7d-6794ac5fe97b.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",02:20 Riyadh | Final bmx SD 12/20 [D+ SE]
+#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/18/3b98f4bb-c3ac-3701-bd7d-6794ac5fe97b.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",02:15 Riyadh | Final bmx SD 12/20 [D+ SE]
 http://45.139.122.199:8080/live/Christian1/christian1/2180507.m3u8
 #EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/09/10/8f35e7c1-1951-324b-a47e-e8e86f85fc5f.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",02:35 Världscupen | Namur cykelcross HD 12/20 [D+ SE]
 http://45.139.122.199:8080/live/Christian1/christian1/2180506.m3u8
 #EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/09/10/8f35e7c1-1951-324b-a47e-e8e86f85fc5f.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",02:35 Världscupen | Namur cykelcross SD 12/20 [D+ SE]
 http://45.139.122.199:8080/live/Christian1/christian1/2180505.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/18/f7c74f1e-0124-384d-91c9-bdaf3bf1370b.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",03:15 Riyadh | Final bmx HD 12/20 [D+ SE]
+#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/18/f7c74f1e-0124-384d-91c9-bdaf3bf1370b.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",03:10 Riyadh | Final bmx HD 12/20 [D+ SE]
 http://45.139.122.199:8080/live/Christian1/christian1/2180504.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/18/f7c74f1e-0124-384d-91c9-bdaf3bf1370b.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",03:15 Riyadh | Final bmx SD 12/20 [D+ SE]
+#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/18/f7c74f1e-0124-384d-91c9-bdaf3bf1370b.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",03:10 Riyadh | Final bmx SD 12/20 [D+ SE]
 http://45.139.122.199:8080/live/Christian1/christian1/2180503.m3u8
 #EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/09/10/7880af27-455b-38c0-bdf5-8e9436905123.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",03:50 Världscupen cykelcross HD 12/20 [D+ SE]
 http://45.139.122.199:8080/live/Christian1/christian1/2180502.m3u8
 #EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/09/10/7880af27-455b-38c0-bdf5-8e9436905123.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",03:50 Världscupen cykelcross SD 12/20 [D+ SE]
 http://45.139.122.199:8080/live/Christian1/christian1/2180501.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/27/69e36753-0732-3d2f-8def-47f2dfd581ca.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",04:05 PTO Tour | Doha triathlon HD 12/20 [D+ SE]
+#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/27/69e36753-0732-3d2f-8def-47f2dfd581ca.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",04:00 PTO Tour | Doha triathlon HD 12/20 [D+ SE]
 http://45.139.122.199:8080/live/Christian1/christian1/2180500.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/27/69e36753-0732-3d2f-8def-47f2dfd581ca.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",04:05 PTO Tour | Doha triathlon SD 12/20 [D+ SE]
+#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/27/69e36753-0732-3d2f-8def-47f2dfd581ca.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",04:00 PTO Tour | Doha triathlon SD 12/20 [D+ SE]
 http://45.139.122.199:8080/live/Christian1/christian1/2180499.m3u8
 #EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/09/10/7880af27-455b-38c0-bdf5-8e9436905123.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",04:40 Världscupen | Terralba cykelcross HD 12/20 [D+ SE]
 http://45.139.122.199:8080/live/Christian1/christian1/2180498.m3u8
 #EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/09/10/7880af27-455b-38c0-bdf5-8e9436905123.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",04:40 Världscupen | Terralba cykelcross SD 12/20 [D+ SE]
 http://45.139.122.199:8080/live/Christian1/christian1/2180497.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/18/f8796019-3228-346e-8cff-fb38f3b3f0a0.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",05:00 PGA Tour Highlights show * HD 12/20 [D+ SE]
+#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/18/f8796019-3228-346e-8cff-fb38f3b3f0a0.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",04:55 PGA Tour Highlights show * HD 12/20 [D+ SE]
 http://45.139.122.199:8080/live/Christian1/christian1/2180496.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/18/f8796019-3228-346e-8cff-fb38f3b3f0a0.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",05:00 PGA Tour Highlights show * SD 12/20 [D+ SE]
+#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/18/f8796019-3228-346e-8cff-fb38f3b3f0a0.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",04:55 PGA Tour Highlights show * SD 12/20 [D+ SE]
 http://45.139.122.199:8080/live/Christian1/christian1/2180495.m3u8
 #EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/18/0d9e4fb0-a7d9-3731-a9e8-7ebe997d0a39.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",05:25 Världscupen | Lillehammer vintersport HD 12/20 [D+ SE]
 http://45.139.122.199:8080/live/Christian1/christian1/2180494.m3u8
@@ -1386,12 +1180,8 @@ http://45.139.122.199:8080/live/Christian1/christian1/2180494.m3u8
 http://45.139.122.199:8080/live/Christian1/christian1/2180493.m3u8
 #EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/18/6167ad36-7b90-32ca-a0be-23554881280c.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",06:00 Word Cup | Solitude Relay * HD 12/20 [D+ SE]
 http://45.139.122.199:8080/live/Christian1/christian1/2180492.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/18/17637415-681f-3af9-b31f-4eb9d44ffc33.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",06:00 PGA Tour Highlights show * HD 12/20 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180491.m3u8
 #EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/18/6167ad36-7b90-32ca-a0be-23554881280c.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",06:00 Word Cup | Solitude Relay * SD 12/20 [D+ SE]
 http://45.139.122.199:8080/live/Christian1/christian1/2180490.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/18/17637415-681f-3af9-b31f-4eb9d44ffc33.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",06:00 PGA Tour Highlights show * SD 12/20 [D+ SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180489.m3u8
 
 # --- Discovery+ Sport UK (1) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/misc/media/discovery-plus.png" group-title="Discovery+ Sport UK",-= Reload your playlist =-
@@ -1508,75 +1298,75 @@ http://45.139.122.199:8080/live/Christian1/christian1/1160046.m3u8
 http://45.139.122.199:8080/live/Christian1/christian1/1160045.m3u8
 
 # --- EFL UK (35) ---
-#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL01ⓧ| West Bromwich Albion 20:00 Sheffield United (CH) 12/12
+#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL01ⓧ| Swansea City 20:00 Wrexham (CH) 19/12
 http://45.139.122.199:8080/live/Christian1/christian1/2160739.m3u8
-#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL02ⓧ| Norwich City 12:30 Southampton (CH) 13/12
+#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL02ⓧ| Blackburn Rovers 12:30 Millwall (CH) 20/12
 http://45.139.122.199:8080/live/Christian1/christian1/2160740.m3u8
-#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL03ⓧ| Oxford United 12:30 Preston North End (CH) 13/12
+#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL03ⓧ| Preston North End 12:30 Norwich City (CH) 20/12
 http://45.139.122.199:8080/live/Christian1/christian1/2160741.m3u8
-#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL04ⓧ| Stoke City 12:30 Swansea City (CH) 13/12
+#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL04ⓧ| Southampton 12:30 Coventry City (CH) 20/12
 http://45.139.122.199:8080/live/Christian1/christian1/2160742.m3u8
-#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL05ⓧ| Birmingham City 15:00 Charlton Athletic (CH) 13/12
+#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL05ⓧ| Bristol City 15:00 Middlesbrough (CH) 20/12
 http://45.139.122.199:8080/live/Christian1/christian1/2160743.m3u8
-#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL06ⓧ| Coventry City 15:00 Bristol City (CH) 13/12
+#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL06ⓧ| Charlton Athletic 15:00 Oxford United (CH) 20/12
 http://45.139.122.199:8080/live/Christian1/christian1/2160744.m3u8
-#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL07ⓧ| Leicester City 15:00 Ipswich Town (CH) 13/12
+#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL07ⓧ| Derby County 15:00 Portsmouth (CH) 20/12
 http://45.139.122.199:8080/live/Christian1/christian1/2160745.m3u8
-#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL08ⓧ| Middlesbrough 15:00 Queens Park Rangers (CH) 13/12
+#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL08ⓧ| Hull City 15:00 West Bromwich Albion (CH) 20/12
 http://45.139.122.199:8080/live/Christian1/christian1/2160746.m3u8
-#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL09ⓧ| Millwall 15:00 Hull City (CH) 13/12
+#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL09ⓧ| Ipswich Town 15:00 Sheffield Wednesday (CH) 20/12
 http://45.139.122.199:8080/live/Christian1/christian1/2160747.m3u8
-#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL10ⓧ| Portsmouth 15:00 Blackburn Rovers (CH) 13/12
+#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL10ⓧ| Queens Park Rangers 15:00 Leicester City (CH) 20/12
 http://45.139.122.199:8080/live/Christian1/christian1/2160748.m3u8
-#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL11ⓧ| Wrexham 15:00 Watford (CH) 13/12
+#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL11ⓧ| Sheffield United 15:00 Birmingham City (CH) 20/12
 http://45.139.122.199:8080/live/Christian1/christian1/2160749.m3u8
-#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL12ⓧ| Sheffield Wednesday 20:00 Derby County (CH) 15/12
+#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL12ⓧ| Watford 15:00 Stoke City (CH) 20/12
 http://45.139.122.199:8080/live/Christian1/christian1/2160750.m3u8
 #EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL13ⓧ| Reading 20:00 Luton Town (L1) 18/12
 http://45.139.122.199:8080/live/Christian1/christian1/2160751.m3u8
-#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL14ⓧ| Huddersfield Town 12:30 Wigan Athletic (L1) 13/12
+#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL14ⓧ| Northampton Town 19:45 AFC Wimbledon (L1) 19/12
 http://45.139.122.199:8080/live/Christian1/christian1/2160752.m3u8
-#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL15ⓧ| Barnsley 15:00 Leyton Orient (L1) 13/12
+#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL15ⓧ| Stevenage 12:30 Burton Albion (L1) 20/12
 http://45.139.122.199:8080/live/Christian1/christian1/2160753.m3u8
-#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL16ⓧ| Blackpool 15:00 Lincoln City (L1) 13/12
+#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL16ⓧ| Wigan Athletic 12:30 Blackpool (L1) 20/12
 http://45.139.122.199:8080/live/Christian1/christian1/2160754.m3u8
-#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL17ⓧ| Bolton Wanderers 15:00 Exeter City (L1) 13/12
+#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL17ⓧ| Doncaster Rovers 15:00 Plymouth Argyle (L1) 20/12
 http://45.139.122.199:8080/live/Christian1/christian1/2160755.m3u8
-#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL18ⓧ| Bradford City 15:00 Reading (L1) 13/12
+#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL18ⓧ| Exeter City 15:00 Barnsley (L1) 20/12
 http://45.139.122.199:8080/live/Christian1/christian1/2160756.m3u8
-#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL19ⓧ| Burton Albion 15:00 Wycombe Wanderers (L1) 13/12
+#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL19ⓧ| Leyton Orient 15:00 Bradford City (L1) 20/12
 http://45.139.122.199:8080/live/Christian1/christian1/2160757.m3u8
-#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL20ⓧ| Cardiff City 15:00 Doncaster Rovers (L1) 13/12
+#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL20ⓧ| Lincoln City 15:00 Cardiff City (L1) 20/12
 http://45.139.122.199:8080/live/Christian1/christian1/2160758.m3u8
-#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL21ⓧ| Luton Town 15:00 Port Vale (L1) 13/12
+#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL21ⓧ| Mansfield Town 15:00 Stockport County (L1) 20/12
 http://45.139.122.199:8080/live/Christian1/christian1/2160759.m3u8
-#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL22ⓧ| Peterborough United 15:00 Northampton Town (L1) 13/12
+#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL22ⓧ| Port Vale 15:00 Peterborough United (L1) 20/12
 http://45.139.122.199:8080/live/Christian1/christian1/2160760.m3u8
-#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL23ⓧ| Plymouth Argyle 15:00 Rotherham United (L1) 13/12
+#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL23ⓧ| Rotherham United 15:00 Huddersfield Town (L1) 20/12
 http://45.139.122.199:8080/live/Christian1/christian1/2160761.m3u8
-#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL24ⓧ| Stockport County 15:00 Stevenage (L1) 13/12
+#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL24ⓧ| Wycombe Wanderers 15:00 Bolton Wanderers (L1) 20/12
 http://45.139.122.199:8080/live/Christian1/christian1/2160762.m3u8
-#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL25ⓧ| Bristol Rovers 12:30 Swindon Town (L2) 13/12
+#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL25ⓧ| Barrow 19:45 Cheltenham Town (L2) 19/12
 http://45.139.122.199:8080/live/Christian1/christian1/2160763.m3u8
-#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL26ⓧ| Salford City 12:30 Colchester United (L2) 13/12
-http://45.139.122.199:8080/live/Christian1/christian1/2160764.m3u8
-#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL27ⓧ| Accrington Stanley 15:00 Bromley (L2) 13/12
+#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL27ⓧ| Crewe Alexandra 19:45 Bristol Rovers (L2) 19/12
 http://45.139.122.199:8080/live/Christian1/christian1/2160765.m3u8
-#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL28ⓧ| Cheltenham Town 15:00 Harrogate Town (L2) 13/12
+#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL28ⓧ| Bromley 12:30 Grimsby Town (L2) 20/12
 http://45.139.122.199:8080/live/Christian1/christian1/2160766.m3u8
-#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL29ⓧ| Chesterfield 15:00 Barnet (L2) 13/12
+#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL29ⓧ| Notts County 12:30 Walsall (L2) 20/12
 http://45.139.122.199:8080/live/Christian1/christian1/2160767.m3u8
-#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL30ⓧ| Crawley Town 15:00 Oldham Athletic (L2) 13/12
+#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL30ⓧ| Barnet 15:00 Salford City (L2) 20/12
 http://45.139.122.199:8080/live/Christian1/christian1/2160768.m3u8
-#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL31ⓧ| Gillingham 15:00 Barrow (L2) 13/12
+#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL31ⓧ| Colchester United 15:00 Newport County (L2) 20/12
 http://45.139.122.199:8080/live/Christian1/christian1/2160769.m3u8
-#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL32ⓧ| Grimsby Town 15:00 Notts County (L2) 13/12
+#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL32ⓧ| Fleetwood Town 15:00 Gillingham (L2) 20/12
 http://45.139.122.199:8080/live/Christian1/christian1/2160770.m3u8
-#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL34ⓧ| Newport County 15:00 Fleetwood Town (L2) 13/12
+#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL33ⓧ| Harrogate Town 15:00 MK Dons (L2) 20/12
+http://45.139.122.199:8080/live/Christian1/christian1/2160771.m3u8
+#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL34ⓧ| Oldham Athletic 15:00 Tranmere Rovers (L2) 20/12
 http://45.139.122.199:8080/live/Christian1/christian1/2160772.m3u8
-#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL35ⓧ| Tranmere Rovers 15:00 Crewe Alexandra (L2) 13/12
+#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL35ⓧ| Shrewsbury Town 15:00 Chesterfield (L2) 20/12
 http://45.139.122.199:8080/live/Christian1/christian1/2160773.m3u8
-#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL36ⓧ| Walsall 15:00 Shrewsbury Town (L2) 13/12
+#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL36ⓧ| Swindon Town 15:00 Crawley Town (L2) 20/12
 http://45.139.122.199:8080/live/Christian1/christian1/2160774.m3u8
 
 # --- EPL By Games UK (1) ---
@@ -1638,9 +1428,9 @@ http://45.139.122.199:8080/live/Christian1/christian1/403068.m3u8
 http://45.139.122.199:8080/live/Christian1/christian1/546623.m3u8
 
 # --- FANSEAT Events SE (15) ---
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13804.png?ver=58242" group-title="FANSEAT Events SE",SE: FANSEAT PPV 1 - AL HIDD - AL KHALDIYA | Fri 19 Dec 13:10
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13804.png?ver=58242" group-title="FANSEAT Events SE",SE: FANSEAT PPV 1 - NO EVENT STREAMING -
 http://45.139.122.199:8080/live/Christian1/christian1/947634.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13804.png?ver=58242" group-title="FANSEAT Events SE",SE: FANSEAT PPV 2 - SITRA - A'ALI | Fri 19 Dec 13:10
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13804.png?ver=58242" group-title="FANSEAT Events SE",SE: FANSEAT PPV 2 - NO EVENT STREAMING -
 http://45.139.122.199:8080/live/Christian1/christian1/947635.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13804.png?ver=58242" group-title="FANSEAT Events SE",SE: FANSEAT PPV 3 - NO EVENT STREAMING -
 http://45.139.122.199:8080/live/Christian1/christian1/947636.m3u8
@@ -1669,72 +1459,10 @@ http://45.139.122.199:8080/live/Christian1/christian1/947647.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13804.png?ver=58242" group-title="FANSEAT Events SE",SE: FANSEAT PPV 15 - NO EVENT STREAMING -
 http://45.139.122.199:8080/live/Christian1/christian1/947648.m3u8
 
-# --- FIFA+ Events (35) ---
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/d0/9a/7e/82/d09a7e82-98fb-41ab-a0f1-fc01ed23a31d.png" group-title="FIFA+ Events",11:50 Cote D'Or FC v Anse Reunion FC | Seychelles Absa Premier League 2025/26 12/19 [FIFA+]
-http://45.139.122.199:8080/live/Christian1/christian1/2180999.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/56/95/dd/39/5695dd39-ed84-42dc-97f7-193e6356afd8.png" group-title="FIFA+ Events",13:05 Bourj FC v Riyadi Abbasiya | Round 10 | First Division 2025/26 12/19 [FIFA+]
-http://45.139.122.199:8080/live/Christian1/christian1/2180996.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/55/35/3c/35/55353c35-341e-4d17-88ea-923a68b25eeb.png" group-title="FIFA+ Events",13:05 Tadamon Sour SC v Hekmeh SC | Round 10 | First Division 2025/26 12/19 [FIFA+]
-http://45.139.122.199:8080/live/Christian1/christian1/2180993.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/a0/b1/b6/04/a0b1b604-e573-4765-be4e-ba64e2ac9250.png" group-title="FIFA+ Events",13:20 Bishoftu Ketema v Boditi Ketema | Ethiopian Higher League 2025 12/19 [FIFA+]
-http://45.139.122.199:8080/live/Christian1/christian1/2180990.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/19/dc/cd/54/19dccd54-f485-4d38-a708-89cd26f9ab50.png" group-title="FIFA+ Events",13:20 Halaba Ketema v Soloda Adwa | Ethiopian Higher League 2025 12/19 [FIFA+]
-http://45.139.122.199:8080/live/Christian1/christian1/2180987.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/72/6a/09/08/726a0908-0f26-4f3c-826e-2c451387f102.png" group-title="FIFA+ Events",13:20 Nekemte Ketema v Gamo Chencha | Ethiopian Higher League 2025 12/19 [FIFA+]
-http://45.139.122.199:8080/live/Christian1/christian1/2180984.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/9f/c2/e2/9b/9fc2e29b-8d4f-4451-8bca-c81e7251b462.png" group-title="FIFA+ Events",13:20 Shashemene Ketema v Akaki Kaitty SC | Ethiopian Higher League 2025 12/19 [FIFA+]
-http://45.139.122.199:8080/live/Christian1/christian1/2180981.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/75/c3/d0/29/75c3d029-927a-41a6-a485-1ab75df5c1a2.png" group-title="FIFA+ Events",13:30 Masfout Club v Emirates Club | Round 10 | First Division League 2025/26 12/19 [FIFA+]
-http://45.139.122.199:8080/live/Christian1/christian1/2180978.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/35/76/a1/21/3576a121-8361-4968-bd7c-09bbae665330.png" group-title="FIFA+ Events",13:30 Al-Wahda v Muscat | Round 10 | Tamkeen League 2025/26 12/19 [FIFA+]
-http://45.139.122.199:8080/live/Christian1/christian1/2180975.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/35/35/65/f0/353565f0-b824-4e66-8e69-586999dd72bd.png" group-title="FIFA+ Events",13:35 Al Arabi v Dibba Al-Hisn | Round 10 | First Division League 2025/26 12/19 [FIFA+]
-http://45.139.122.199:8080/live/Christian1/christian1/2180972.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/4a/e9/13/b1/4ae913b1-d9cf-4e40-ba5c-3857ab32e371.png" group-title="FIFA+ Events",13:35 Fanja v Al Mudhaibi | Round 10 | Tamkeen League 2025/26 12/19 [FIFA+]
-http://45.139.122.199:8080/live/Christian1/christian1/2180969.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/ba/01/ec/27/ba01ec27-0ef2-4cfd-b444-b40d607c88d5.jpg" group-title="FIFA+ Events",14:00 Day 4 | FIFAe World Cup 25™ featuring Rocket League 12/19 [FIFA+]
-http://45.139.122.199:8080/live/Christian1/christian1/2180966.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6d/a2/f6/5d/6da2f65d-2ce4-47a6-b02f-5aa02fbc5085.png" group-title="FIFA+ Events",14:50 ESM Koléa v USM El Harrach | Ligue 2 2025/26 12/19 [FIFA+]
-http://45.139.122.199:8080/live/Christian1/christian1/2180964.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/a1/0b/47/d7/a10b47d7-939e-4298-9514-cf1a7378ef61.png" group-title="FIFA+ Events",14:50 GC Mascara v MC Saida | Ligue 2 2025/26 12/19 [FIFA+]
-http://45.139.122.199:8080/live/Christian1/christian1/2180960.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/2d/31/ee/a9/2d31eea9-5bc5-4eb7-aaf6-a811a9f45847.png" group-title="FIFA+ Events",14:50 JS Texraine v RC Kouba | Ligue 2 2025/26 12/19 [FIFA+]
-http://45.139.122.199:8080/live/Christian1/christian1/2180958.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/3b/55/1c/3e/3b551c3e-ddc3-48b7-81fc-86b6be070902.png" group-title="FIFA+ Events",14:50 JSM Tiaret v CRB Adrar | Ligue 2 2025/26 12/19 [FIFA+]
-http://45.139.122.199:8080/live/Christian1/christian1/2180955.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/15/b9/54/8f/15b9548f-9d99-43f8-b497-5e7cf379fa32.png" group-title="FIFA+ Events",14:50 NA Hussein Dey v US Bechar Djedid | Ligue 2 2025/26 12/19 [FIFA+]
-http://45.139.122.199:8080/live/Christian1/christian1/2180952.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/17/14/00/40/17140040-2648-4f0f-97b2-9638db4f8d26.png" group-title="FIFA+ Events",14:50 RC Arbaâ v CR Témouchent | Ligue 2 2025/26 12/19 [FIFA+]
-http://45.139.122.199:8080/live/Christian1/christian1/2180949.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/bd/b1/23/8a/bdb1238a-6fc4-4934-a16b-52fda35b58cc.png" group-title="FIFA+ Events",14:50 WA Tlemcen v JS El Biar | Ligue 2 2025/26 12/19 [FIFA+]
-http://45.139.122.199:8080/live/Christian1/christian1/2180946.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/d6/37/59/e1/d63759e1-6d5d-4ae9-ad25-9b4dbcc95514.png" group-title="FIFA+ Events",15:20 Pamplemousses SC v US Beau-Bassin Rose-Hill | National Super League 2025/26 12/19 [FIFA+]
-http://45.139.122.199:8080/live/Christian1/christian1/2180942.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/ee/19/d6/30/ee19d630-0c22-4c92-83c1-5ea5e36c30c4.png" group-title="FIFA+ Events",15:20 St. Louis FC v St. Michel SC | Seychelles Absa Premier League 2025/26 12/19 [FIFA+]
-http://45.139.122.199:8080/live/Christian1/christian1/2180939.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/5f/3e/0e/e7/5f3e0ee7-4864-4aa0-b7bc-b11b362ae31b.png" group-title="FIFA+ Events",16:20 AS Douanes v USFA | Burkina Faso Ligue 1 2025-26 12/19 [FIFA+]
-http://45.139.122.199:8080/live/Christian1/christian1/2180936.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/45/d8/68/fc/45d868fc-94b6-4df2-888e-9e273077c44b.png" group-title="FIFA+ Events",16:20 ASFB v Rahimo FC | Burkina Faso Ligue 1 2025-26 12/19 [FIFA+]
-http://45.139.122.199:8080/live/Christian1/christian1/2180934.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/ec/4b/cb/80/ec4bcb80-41be-4921-9535-0bee4609a96b.png" group-title="FIFA+ Events",16:20 FC Dinamo City v Vora | Kategoria Superiore 2025/26 12/19 [FIFA+]
-http://45.139.122.199:8080/live/Christian1/christian1/2180931.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/13/7d/ca/25/137dca25-14d1-40a8-827c-14bd6504b08c.png" group-title="FIFA+ Events",16:20 KF Egnatia v FK Partizani | Kategoria Superiore 2025/26 12/19 [FIFA+]
-http://45.139.122.199:8080/live/Christian1/christian1/2180928.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/19/dd/85/8a/19dd858a-9b77-4ab4-a2c5-b0a5e1c5cb72.png" group-title="FIFA+ Events",16:50 Afrique Football Elite v US Bougouni | Ligue 1 Pro Orange 2025/26 12/19 [FIFA+]
-http://45.139.122.199:8080/live/Christian1/christian1/2180925.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/91/a9/5f/78/91a95f78-8a20-4402-b8f1-97f62fdb085b.png" group-title="FIFA+ Events",16:50 ASC Gendrim v FC Nzidane | Super D-1 2025/26 12/19 [FIFA+]
-http://45.139.122.199:8080/live/Christian1/christian1/2180922.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/97/48/98/36/97489836-8f05-4981-b629-e0ece4978d7f.png" group-title="FIFA+ Events",17:05 Ports Authority FC v Kamboi Eagles FC | Leone Rock Premier League 2025-26 12/19 [FIFA+]
-http://45.139.122.199:8080/live/Christian1/christian1/2180920.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c8/ce/33/82/c8ce3382-84c5-4a8f-8d1e-1831eef341d2.png" group-title="FIFA+ Events",17:05 Wilberforce Strikers FC v Bullom Stars FC | Leone Rock Premier League 2025-26 12/19 [FIFA+]
-http://45.139.122.199:8080/live/Christian1/christian1/2180918.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/39/ab/74/f6/39ab74f6-0399-40ff-897a-279b8d0cda1c.png" group-title="FIFA+ Events",19:20 Flamurtari v KF Teuta | Kategoria Superiore 2025/26 12/19 [FIFA+]
-http://45.139.122.199:8080/live/Christian1/christian1/2180916.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/fb/f0/ab/15/fbf0ab15-223f-41f9-8f7c-1d9a9e46f2d0.png" group-title="FIFA+ Events",22:50 Central FC v San Juan Jabloteh | TT Premier Football League 2025/26 | Trinidad and Tobago 12/19 [FIFA+]
-http://45.139.122.199:8080/live/Christian1/christian1/2180914.m3u8
+# --- FIFA+ Events (4) ---
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/f8/fc/0b/7d/f8fc0b7d-dd3d-4235-a3f7-60b458a7d6db.png" group-title="FIFA+ Events",00:50 Nacional v Estrella | Division Honor 2025-26 12/19 [FIFA+]
 http://45.139.122.199:8080/live/Christian1/christian1/2180913.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/de/68/0d/17/de680d17-a5a9-4fe2-ab29-90a012746308.png" group-title="FIFA+ Events",00:50 La Horquetta Rangers v Defence Force FC | TT Premier Football League 2025/26 | Trinidad and Tobago 12/19 [FIFA+]
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/de/68/0d/17/de680d17-a5a9-4fe2-ab29-90a012746308.png" group-title="FIFA+ Events",00:55 La Horquetta Rangers v Defence Force FC | TT Premier Football League 2025/26 | Trinidad and Tobago 12/19 [FIFA+]
 http://45.139.122.199:8080/live/Christian1/christian1/2180912.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/7f/9f/3d/5d/7f9f3d5d-7cf2-43c7-a195-d3a2bb9bdfd6.png" group-title="FIFA+ Events",01:20 Atlétiko Saliña v S.U.B.T | Curaçao Promé Divishon 2025/26 12/20 [FIFA+]
 http://45.139.122.199:8080/live/Christian1/christian1/2180911.m3u8
@@ -1927,9 +1655,7 @@ http://45.139.122.199:8080/live/Christian1/christian1/1309864.m3u8
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/Hub%20Premier/HubPremier11.png" group-title="Hub Premier (EPL) UK",HubPremier 11 FHD SG
 http://45.139.122.199:8080/live/Christian1/christian1/1309865.m3u8
 
-# --- Innebandy Play SE (2) ---
-#EXTINF:-1 tvg-logo="https://edg01-prd-de-ixn.solidtango.com/cache/media_file/carousel/84783f9b-f6df-477d-8ff3-66d9fc8d2e51.jpeg?cb=9e526a3e1245568d3617f047e1ede759" group-title="Innebandy Play SE",19:00 Warberg IC SSL Herr - Jönköpings IK SSL Herr 12/19 [Innebandy Play]
-http://45.139.122.199:8080/live/Christian1/christian1/2180890.m3u8
+# --- Innebandy Play SE (1) ---
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/Other/Innebandy-play.png" group-title="Innebandy Play SE",-= Live During Events Only =-
 http://45.139.122.199:8080/live/Christian1/christian1/421998.m3u8
 
@@ -1975,23 +1701,7 @@ http://45.139.122.199:8080/live/Christian1/christian1/1160164.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-0.png" group-title="Italy Serie A UK",US (P+) Italy SerieA 20
 http://45.139.122.199:8080/live/Christian1/christian1/1160165.m3u8
 
-# --- JFM Play DK (9) ---
-#EXTINF:-1 tvg-logo="https://cf1318f5d.lwcdn.com/i/i-8bf35977-7b6f-4c36-9965-501c92fd24db.png" group-title="JFM Play DK",18:55 Hvidovre - Rungsted (U14.1) 12/19 [JFM Play DK]
-http://45.139.122.199:8080/live/Christian1/christian1/2181117.m3u8
-#EXTINF:-1 tvg-logo="https://cf1318f5d.lwcdn.com/i/i-d4d9cbf0-516e-4b87-ad84-c2b2d3642a5c.jpg" group-title="JFM Play DK",18:55 Rungsted Seier Capital - Esbjerg Energy (Metal Ligaen) 12/19 [JFM Play DK]
-http://45.139.122.199:8080/live/Christian1/christian1/2181116.m3u8
-#EXTINF:-1 tvg-logo="https://cf1318f5d.lwcdn.com/i/v-i-60c93f9e-dfee-4063-ab8e-68880c765f21-1765959060133.jpg" group-title="JFM Play DK",19:15 Gladsaxe - Rødovre (U16.2) 12/19 [JFM Play DK]
-http://45.139.122.199:8080/live/Christian1/christian1/2181115.m3u8
-#EXTINF:-1 tvg-logo="https://cf1318f5d.lwcdn.com/i/i-b19bd889-2a3a-4b30-b11e-2cc71ef7a3ad.png" group-title="JFM Play DK",19:20 Gentofte - Hvidovre (Kvindeligaen) 12/19 [JFM Play DK]
-http://45.139.122.199:8080/live/Christian1/christian1/2181114.m3u8
-#EXTINF:-1 tvg-logo="https://cf1318f5d.lwcdn.com/i/i-29e23cff-09ec-4f86-b9d0-3a1dc05b37e8.jpg" group-title="JFM Play DK",19:25 Herlev Eagles - Frederikshavn White Hawks (Metal Ligaen) 12/19 [JFM Play DK]
-http://45.139.122.199:8080/live/Christian1/christian1/2181113.m3u8
-#EXTINF:-1 tvg-logo="https://cf1318f5d.lwcdn.com/i/i-7370ad25-7270-48d0-8b3e-5321820be0aa.jpg" group-title="JFM Play DK",19:25 Rødovre Mighty Bulls - Sønderjyske Ishockey (Metal Ligaen) 12/19 [JFM Play DK]
-http://45.139.122.199:8080/live/Christian1/christian1/2181111.m3u8
-#EXTINF:-1 tvg-logo="https://cf1318f5d.lwcdn.com/i/i-343a20ea-c360-4142-85cf-9075a263ea71.jpg" group-title="JFM Play DK",19:25 Elitesport Vendsyssel - Lemvig-Thyborøn Håndbold (1. Division Herrer) 12/19 [JFM Play DK]
-http://45.139.122.199:8080/live/Christian1/christian1/2181110.m3u8
-#EXTINF:-1 tvg-logo="https://cf1318f5d.lwcdn.com/i/v-i-9715972f-8669-45b1-b6cd-79ba597aa553-1765959083991.jpg" group-title="JFM Play DK",19:30 Odense - Vojens (Kvinde 2) 12/19 [JFM Play DK]
-http://45.139.122.199:8080/live/Christian1/christian1/2181109.m3u8
+# --- JFM Play DK (1) ---
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/Other/jfm-play.png" group-title="JFM Play DK",-= Live During Events Only =-
 http://45.139.122.199:8080/live/Christian1/christian1/686202.m3u8
 
@@ -2037,62 +1747,18 @@ http://45.139.122.199:8080/live/Christian1/christian1/1130844.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13871.jpg?ver=35070" group-title="Malmö FF Play SE",SE: MFFPLAY PPV 10 - NO EVENT STREAMING -
 http://45.139.122.199:8080/live/Christian1/christian1/1130845.m3u8
 
-# --- Max Sports DK (24) ---
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/p8zs4/LlGXXPOSzZFpRF3MQ.jpeg?f=webp&w=400" group-title="Max Sports DK",12:45 Chang Bingyu - Mark Selby snooker FHD 12/19 [MAX DK]
-http://45.139.122.199:8080/live/Christian1/christian1/2180484.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/p8zs4/LlGXXPOSzZFpRF3MQ.jpeg?f=webp&w=400" group-title="Max Sports DK",12:45 Chang Bingyu - Mark Selby snooker 12/19 [MAX DK]
-http://45.139.122.199:8080/live/Christian1/christian1/2180483.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9Msob/dHVIVfMOblQ3Tm86Q.jpeg?f=webp&w=400" group-title="Max Sports DK",13:00 World Cup | Kvinder | Heat 1 skeleton FHD 12/19 [MAX DK]
-http://45.139.122.199:8080/live/Christian1/christian1/2180482.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9Msob/dHVIVfMOblQ3Tm86Q.jpeg?f=webp&w=400" group-title="Max Sports DK",13:00 World Cup | Kvinder | Heat 1 skeleton 12/19 [MAX DK]
-http://45.139.122.199:8080/live/Christian1/christian1/2180481.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/rx3ce/lmNV2DctwmrK7BRYA.jpeg?f=webp&w=400" group-title="Max Sports DK",14:45 World Cup | Kvinder | Heat 2  skeleton FHD 12/19 [MAX DK]
-http://45.139.122.199:8080/live/Christian1/christian1/2180480.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/rx3ce/lmNV2DctwmrK7BRYA.jpeg?f=webp&w=400" group-title="Max Sports DK",14:45 World Cup | Kvinder | Heat 2  skeleton 12/19 [MAX DK]
-http://45.139.122.199:8080/live/Christian1/christian1/2180479.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/1TS0j/uZ11RE5Pdol4ROIPA.jpeg?f=webp&w=400" group-title="Max Sports DK",14:59 Chris Wakelin - Zhou Yuelong snooker FHD 12/19 [MAX DK]
-http://45.139.122.199:8080/live/Christian1/christian1/2180478.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/1TS0j/uZ11RE5Pdol4ROIPA.jpeg?f=webp&w=400" group-title="Max Sports DK",14:59 Chris Wakelin - Zhou Yuelong snooker 12/19 [MAX DK]
-http://45.139.122.199:8080/live/Christian1/christian1/2180477.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/pNTOJ/CLmskYJxjiiHwo_Qg.jpeg?f=webp&w=400" group-title="Max Sports DK",19:45 Mark Allen - Joe O'Connor snooker FHD 12/19 [MAX DK]
-http://45.139.122.199:8080/live/Christian1/christian1/2180476.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/pNTOJ/CLmskYJxjiiHwo_Qg.jpeg?f=webp&w=400" group-title="Max Sports DK",19:45 Mark Allen - Joe O'Connor snooker 12/19 [MAX DK]
-http://45.139.122.199:8080/live/Christian1/christian1/2180475.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/N3m1a/Isp21uyPIiYEUZqbA.jpeg?f=webp&w=400" group-title="Max Sports DK",20:00 Jiang Jun - Matthew Selt snooker FHD 12/19 [MAX DK]
-http://45.139.122.199:8080/live/Christian1/christian1/2180474.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/N3m1a/Isp21uyPIiYEUZqbA.jpeg?f=webp&w=400" group-title="Max Sports DK",20:00 Jiang Jun - Matthew Selt snooker 12/19 [MAX DK]
-http://45.139.122.199:8080/live/Christian1/christian1/2180473.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/MONFB/l_-5qeSoydYvzZy4g.jpeg?f=webp&w=400" group-title="Max Sports DK",20:50 World Cup | Doubles | Mænd | Løb 1  kælk FHD 12/19 [MAX DK]
-http://45.139.122.199:8080/live/Christian1/christian1/2180472.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/MONFB/l_-5qeSoydYvzZy4g.jpeg?f=webp&w=400" group-title="Max Sports DK",20:50 World Cup | Doubles | Mænd | Løb 1  kælk 12/19 [MAX DK]
-http://45.139.122.199:8080/live/Christian1/christian1/2180471.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/bGfjh/Qh-sjmv6QQCIQt-rA.jpeg?f=webp&w=400" group-title="Max Sports DK",21:47 World Cup | Doubles | Kvinder | Løb 1  kælk FHD 12/19 [MAX DK]
-http://45.139.122.199:8080/live/Christian1/christian1/2180470.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/bGfjh/Qh-sjmv6QQCIQt-rA.jpeg?f=webp&w=400" group-title="Max Sports DK",21:47 World Cup | Doubles | Kvinder | Løb 1  kælk 12/19 [MAX DK]
-http://45.139.122.199:8080/live/Christian1/christian1/2180469.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Pymi6/ekdk6_UpC98AX6_4Q.jpeg?f=webp&w=400" group-title="Max Sports DK",22:40 World Cup | Doubles | Mænd | Løb 2 kælk FHD 12/19 [MAX DK]
-http://45.139.122.199:8080/live/Christian1/christian1/2180468.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Pymi6/ekdk6_UpC98AX6_4Q.jpeg?f=webp&w=400" group-title="Max Sports DK",22:40 World Cup | Doubles | Mænd | Løb 2 kælk 12/19 [MAX DK]
-http://45.139.122.199:8080/live/Christian1/christian1/2180467.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/CSkHq/xiHqRwZ12lw_1ozsw.jpeg?f=webp&w=400" group-title="Max Sports DK",23:22 World Cup | Doubles | Kvinder | Løb 2  kælk FHD 12/19 [MAX DK]
-http://45.139.122.199:8080/live/Christian1/christian1/2180466.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/CSkHq/xiHqRwZ12lw_1ozsw.jpeg?f=webp&w=400" group-title="Max Sports DK",23:22 World Cup | Doubles | Kvinder | Løb 2  kælk 12/19 [MAX DK]
-http://45.139.122.199:8080/live/Christian1/christian1/2180465.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/ZlcS7/hvB6CJu_Wzp6ke7gg.jpeg?f=webp&w=400" group-title="Max Sports DK",00:25 Kælk kælk FHD 12/19 [MAX DK]
-http://45.139.122.199:8080/live/Christian1/christian1/2180464.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/ZlcS7/hvB6CJu_Wzp6ke7gg.jpeg?f=webp&w=400" group-title="Max Sports DK",00:25 Kælk kælk 12/19 [MAX DK]
-http://45.139.122.199:8080/live/Christian1/christian1/2180463.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/EMpJp/RKxfkFrtfBM6bGkoA.jpeg?f=webp&w=400" group-title="Max Sports DK",02:00 Kælk kælk FHD 12/20 [MAX DK]
+# --- Max Sports DK (2) ---
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/SM7xu/sq1FNyYaaLSmpf0iQ.jpeg?f=webp&w=400" group-title="Max Sports DK",02:00 World Cup | Single | Kvinder | Løb 2 kælk FHD 12/20 [MAX DK]
 http://45.139.122.199:8080/live/Christian1/christian1/2180462.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/EMpJp/RKxfkFrtfBM6bGkoA.jpeg?f=webp&w=400" group-title="Max Sports DK",02:00 Kælk kælk 12/20 [MAX DK]
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/SM7xu/sq1FNyYaaLSmpf0iQ.jpeg?f=webp&w=400" group-title="Max Sports DK",02:00 World Cup | Single | Kvinder | Løb 2 kælk 12/20 [MAX DK]
 http://45.139.122.199:8080/live/Christian1/christian1/2180461.m3u8
 
 # --- Max Sports DK [B] (50) ---
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="Max Sports DK [B]",DK: MAX PPV 1 - CHANG BINGYU - MARK SELBY | Fri 19 Dec 12:44 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="Max Sports DK [B]",DK: MAX PPV 1 - WORLD CUP | SINGLE | KVINDER | LØB 1 | Sat 20 Dec 00:20 | 8K EXCLUSIVE
 http://45.139.122.199:8080/live/Christian1/christian1/987408.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="Max Sports DK [B]",DK: MAX PPV 2 - WORLD CUP | MÆND | HEAT 2 | Fri 19 Dec 10:45 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="Max Sports DK [B]",DK: MAX PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://45.139.122.199:8080/live/Christian1/christian1/987409.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="Max Sports DK [B]",DK: MAX PPV 3 - WORLD CUP | KVINDER | HEAT 1 | Fri 19 Dec 13:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="Max Sports DK [B]",DK: MAX PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://45.139.122.199:8080/live/Christian1/christian1/987410.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="Max Sports DK [B]",DK: MAX PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://45.139.122.199:8080/live/Christian1/christian1/987411.m3u8
@@ -2189,51 +1855,7 @@ http://45.139.122.199:8080/live/Christian1/christian1/987456.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="Max Sports DK [B]",DK: MAX PPV 50 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://45.139.122.199:8080/live/Christian1/christian1/987457.m3u8
 
-# --- Max Sports SE (27) ---
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/p8zs4/LlGXXPOSzZFpRF3MQ.jpeg?f=webp&w=400" group-title="Max Sports SE",12:45 Chang Bingyu - Mark Selby snooker FHD 12/19 [MAX SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180610.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/p8zs4/LlGXXPOSzZFpRF3MQ.jpeg?f=webp&w=400" group-title="Max Sports SE",12:45 Chang Bingyu - Mark Selby snooker 12/19 [MAX SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180609.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9Msob/dHVIVfMOblQ3Tm86Q.jpeg?f=webp&w=400" group-title="Max Sports SE",13:00 Sigulda | Heat 1 skeleton FHD 12/19 [MAX SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180608.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9Msob/dHVIVfMOblQ3Tm86Q.jpeg?f=webp&w=400" group-title="Max Sports SE",13:00 Sigulda | Heat 1 skeleton 12/19 [MAX SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180607.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/VeghL/mlaekoLwS3F46xSjg.jpeg?f=webp&w=400" group-title="Max Sports SE",14:45 Sigulda | Heat 2 skeleton FHD 12/19 [MAX SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180606.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/VeghL/mlaekoLwS3F46xSjg.jpeg?f=webp&w=400" group-title="Max Sports SE",14:45 Sigulda | Heat 2 skeleton 12/19 [MAX SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180605.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/1TS0j/uZ11RE5Pdol4ROIPA.jpeg?f=webp&w=400" group-title="Max Sports SE",14:59 Chris Wakelin - Zhou Yuelong snooker FHD 12/19 [MAX SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180604.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/1TS0j/uZ11RE5Pdol4ROIPA.jpeg?f=webp&w=400" group-title="Max Sports SE",14:59 Chris Wakelin - Zhou Yuelong snooker 12/19 [MAX SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180603.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/pNTOJ/CLmskYJxjiiHwo_Qg.jpeg?f=webp&w=400" group-title="Max Sports SE",19:45 Mark Allen - Joe O'Connor snooker FHD 12/19 [MAX SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180602.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/pNTOJ/CLmskYJxjiiHwo_Qg.jpeg?f=webp&w=400" group-title="Max Sports SE",19:45 Mark Allen - Joe O'Connor snooker 12/19 [MAX SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180601.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/y4MT1/u_Mq4h-2EmP8LNV5w.png?f=webp&w=400" group-title="Max Sports SE",20:00 Jiang Jun - Matthew Selt snooker FHD 12/19 [MAX SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180600.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/y4MT1/u_Mq4h-2EmP8LNV5w.png?f=webp&w=400" group-title="Max Sports SE",20:00 Jiang Jun - Matthew Selt snooker 12/19 [MAX SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180599.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/MONFB/l_-5qeSoydYvzZy4g.jpeg?f=webp&w=400" group-title="Max Sports SE",20:50 Lake Placid | 1:a åket rodel FHD 12/19 [MAX SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180598.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/MONFB/l_-5qeSoydYvzZy4g.jpeg?f=webp&w=400" group-title="Max Sports SE",20:50 Lake Placid | 1:a åket rodel 12/19 [MAX SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180597.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/bGfjh/Qh-sjmv6QQCIQt-rA.jpeg?f=webp&w=400" group-title="Max Sports SE",21:47 Lake Placid | 1:a åket rodel FHD 12/19 [MAX SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180596.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/bGfjh/Qh-sjmv6QQCIQt-rA.jpeg?f=webp&w=400" group-title="Max Sports SE",21:47 Lake Placid | 1:a åket rodel 12/19 [MAX SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180595.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Pymi6/ekdk6_UpC98AX6_4Q.jpeg?f=webp&w=400" group-title="Max Sports SE",22:40 Lake Placid | 2:a åket rodel FHD 12/19 [MAX SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180594.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Pymi6/ekdk6_UpC98AX6_4Q.jpeg?f=webp&w=400" group-title="Max Sports SE",22:40 Lake Placid | 2:a åket rodel 12/19 [MAX SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180593.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/CSkHq/xiHqRwZ12lw_1ozsw.jpeg?f=webp&w=400" group-title="Max Sports SE",23:22 Lake Placid | 2:a åket rodel FHD 12/19 [MAX SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180592.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/CSkHq/xiHqRwZ12lw_1ozsw.jpeg?f=webp&w=400" group-title="Max Sports SE",23:22 Lake Placid | 2:a åket rodel 12/19 [MAX SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180591.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/S05Ew/2rFGnZFX5AL57KqSQ.jpeg?f=webp&w=400" group-title="Max Sports SE",00:25 Lake Placid | 1:a åket rodel FHD 12/19 [MAX SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180590.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/S05Ew/2rFGnZFX5AL57KqSQ.jpeg?f=webp&w=400" group-title="Max Sports SE",00:25 Lake Placid | 1:a åket rodel 12/19 [MAX SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180589.m3u8
+# --- Max Sports SE (5) ---
 #EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/UsTw8/51N-qWu0wAeFr2BPw.jpeg?f=webp&w=400" group-title="Max Sports SE",01:00 Boston Celtics - Miami Heat basket FHD 12/20 [MAX SE]
 http://45.139.122.199:8080/live/Christian1/christian1/2180588.m3u8
 #EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/UsTw8/51N-qWu0wAeFr2BPw.jpeg?f=webp&w=400" group-title="Max Sports SE",01:00 Boston Celtics - Miami Heat basket 12/20 [MAX SE]
@@ -2262,9 +1884,9 @@ http://45.139.122.199:8080/live/Christian1/christian1/1299648.m3u8
 http://45.139.122.199:8080/live/Christian1/christian1/1299649.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="Max Sports SE [B]",MAX Extra 8 FHD SE
 http://45.139.122.199:8080/live/Christian1/christian1/1299650.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="Max Sports SE [B]",SE: MAX PPV 1 - SCOTTISH OPEN | Fri 19 Dec 12:44 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="Max Sports SE [B]",SE: MAX PPV 1 - LAKE PLACID | WOMEN'S SINGLES | Sat 20 Dec 00:20 | 8K EXCLUSIVE
 http://45.139.122.199:8080/live/Christian1/christian1/1122820.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="Max Sports SE [B]",SE: MAX PPV 2 - SKELETON | Fri 19 Dec 13:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="Max Sports SE [B]",SE: MAX PPV 2 - BOSTON CELTICS - MIAMI HEAT | Sat 20 Dec 01:00 | 8K EXCLUSIVE
 http://45.139.122.199:8080/live/Christian1/christian1/1122821.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="Max Sports SE [B]",SE: MAX PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://45.139.122.199:8080/live/Christian1/christian1/1122822.m3u8
@@ -2661,221 +2283,11 @@ http://45.139.122.199:8080/live/Christian1/christian1/1160246.m3u8
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/Other/ess-logo.png" group-title="Speedway - ESS Play SE",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Christian1/christian1/573022.m3u8
 
-# --- SportExpressen/Aftonbladet SE (10) ---
-#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/hh4n9j.jpg?width=320" group-title="SportExpressen/Aftonbladet SE",17:50 Frillesås BK - Hammarby IF 12/19 [S.Expressen]
-http://45.139.122.199:8080/live/Christian1/christian1/2180896.m3u8
-#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/ngr5hp.jpg?width=320" group-title="SportExpressen/Aftonbladet SE",18:50 Åby/Tjureda IF - Villa-Lidköping BK 12/19 [S.Expressen]
-http://45.139.122.199:8080/live/Christian1/christian1/2180892.m3u8
-#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/rrlfn.jpg?width=320" group-title="SportExpressen/Aftonbladet SE",18:50 Borås - Jämtland 12/19 [S.Expressen]
-http://45.139.122.199:8080/live/Christian1/christian1/2180887.m3u8
-#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/bj4heu.jpg?width=320" group-title="SportExpressen/Aftonbladet SE",18:50 Broberg/Söderhamn - Bollnäs GIF 12/19 [S.Expressen]
-http://45.139.122.199:8080/live/Christian1/christian1/2180884.m3u8
-#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/1x8yrq.jpg?width=320" group-title="SportExpressen/Aftonbladet SE",18:50 IF Boltic - Västerås SK 12/19 [S.Expressen]
-http://45.139.122.199:8080/live/Christian1/christian1/2180881.m3u8
-#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/i7eewd.jpg?width=320" group-title="SportExpressen/Aftonbladet SE",18:50 IK Sirius - Gripen Trollhättan BK 12/19 [S.Expressen]
-http://45.139.122.199:8080/live/Christian1/christian1/2180878.m3u8
-#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/0ahvv.jpg?width=320" group-title="SportExpressen/Aftonbladet SE",18:50 Luleå - Nässjö 12/19 [S.Expressen]
-http://45.139.122.199:8080/live/Christian1/christian1/2180876.m3u8
-#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/se15yq.jpg?width=320" group-title="SportExpressen/Aftonbladet SE",18:50 Sandvikens AIK - IFK Vänersborg 12/19 [S.Expressen]
-http://45.139.122.199:8080/live/Christian1/christian1/2180874.m3u8
-#EXTINF:-1 tvg-logo="https://images.stream.schibsted.media/users/ab_/images/986dfe414b6f4ced5fa0bcbc7e7b2778.jpg?t[]=338x190q80" group-title="SportExpressen/Aftonbladet SE",19:50 Supercoppa Italiana: Bologna – Inter 12/19 [Aftonbladet]
-http://45.139.122.199:8080/live/Christian1/christian1/2180870.m3u8
+# --- SportExpressen/Aftonbladet SE (1) ---
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/Other/expressen-aftonbladet-play.png" group-title="SportExpressen/Aftonbladet SE",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Christian1/christian1/287676.m3u8
 
-# --- Svensk Hockey SE (97) ---
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",17:55 U14F: Djurgårdens IF - Hässelby Kälvesta Hockey  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181213.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",17:55 Senior Dam: Södertälje SK - Rögle BK  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181212.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",17:55 U16P: Valbo HC - Brynäs IF  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181211.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",17:55 U15P: AIK Ishockey - Almtuna IS  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181210.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",17:55 U20H: HV 71 - IF Malmö Redhawks  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181209.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:25 U13P: Sandvikens IK - IK Sätra  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181208.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:25 U14P: Eskilstuna Linden Hockey - Mälarö Hockeyförening  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181207.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:25 U14P: Tullinge TP HC - Sollentuna HC  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181206.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:25 U14P: FoC Farsta - Värmdö HC  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181205.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:25 U14P: Brinkens IF - Haninge Anchors HC  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181204.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:25 U13P: Viggbyholms IK - Vallentuna Hockey  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181203.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:25 U15P: Segeltorps IF - Nyköpings SK  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181202.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:25 U16P: Nacka HK - Södertälje SK  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181201.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:25 U14P: Växjö Lakers HC - Åseda IF  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:25 U13P: Mjölby HC - Nässjö HC  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181199.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:25 U14P: Eskilstuna Linden Hockey - IFK Mariefred  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181198.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:30 U20H: Färjestad BK - Brynäs IF  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181197.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:40 U16P: Sörhaga/Alingsås Hockey - IFK Falköping IK  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181196.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:55 U13P: Trollhättans HC - LN-70 HC  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181195.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:55 Senior Herr: IFK Hallsberg Hockey - HC Örnen  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181194.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:55 U15P: Jonstorps IF IshF - Halmstad HF  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181193.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:55 U16F: Skärgården Hockey - Varberg Vipers  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181192.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:55 U14P: Arvika HC - Åmåls SK  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181191.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:55 U16P: Stenungsund HF - Kungälvs IK  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181190.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:55 U14P: Skutskärs SK - Brynäs IF  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181189.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:55 Senior Herr: Asplöven Haparanda HF - Jokkmokks HF  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181188.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:55 Senior Herr: Fotskäls HC - Herrings HC  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181187.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:55 Senior Herr: Åseda IF - Helsingborgs HC  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181186.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:55 U16P: Lerums BK - Munkedals BK  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181185.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:55 Senior Herr: Hofors HC - Lindefallets SK  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181184.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:55 Senior Herr: Ludvika HF Lightning - IFK Ore  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181183.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:55 U14P: Säters IF - Falu IF  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181182.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:55 Senior Herr: Säffle HC - Nor IK/Karlstad Hockey  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181181.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:55 Senior Herr: Hille/Åbyggeby IK - Hedesunda IF/Östervåla  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181180.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:55 Senior Herr: Gislaveds SK - Hanhals IF  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181179.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:55 U16P: Mörrums GoIS IK - Lund Giants HC  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181178.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:55 Senior Dam: IF Björklöven - IF Sundsvall Hockey  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181177.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:55 U16P: Järfälla HC - Järna SK  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181176.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:55 Senior Herr: Viking HC - Kristinehamns HT  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181175.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:55 U16P: Leksands IF - IFK Ore  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181174.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:55 U20H: Avesta BK - Lindlövens IF  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181173.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:55 Senior Herr: Vänersborgs HC - Boro/Vetlanda HC  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181172.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:55 U20H: Luleå HF  - IF Björklöven  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181171.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:55 U20H: Skellefteå AIK - Timrå IK  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181170.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:55 Senior Herr: Alvesta SK - Värnamo GIK  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181169.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:55 Senior Herr: Bäcken HC - HC Lidköping  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181168.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:55 U14P: Lindlövens IF - Köping IF  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181167.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:05 U14P: Töreboda HF - Skara IK  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181166.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:05 U16F: Vallentuna Hockey - IFK Österåker Hockey  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181165.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:05 Senior Herr: Falkenbergs HK - Lund Giants HC  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181164.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:05 U15P: Järna SK - IFK Tumba IK  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181163.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:05 Senior Dam: Hammarby IF - IF Malmö Redhawks  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181162.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:05 U20H: Tranås AIF Hockey - Linköping Mighty Ravens  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181161.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:10 U13P: Almtuna IS - Sollentuna HC  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181160.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:10 U15P: Piteå HC - Brooklyn Tigers UHF  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181159.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:10 Senior Herr: Sellnäs Idrottsförening - Vansbro AIK IK  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181158.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:10 U16P: Mariestad BoIS HC - Ulricehamns IF  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181157.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:10 U15P: Tierps HK - Hedesunda IF/Östervåla  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181156.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:15 U13P: HA74 Sävsjö (Hockeyalliansen 74) - Växjö Lakers HC  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181155.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:15 U14P: IFK Falköping IK - Tibro IK  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181154.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:25 U16P: Rönnängs IK - Uddevalla HC  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181153.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:25 U16P: Gimo IF HC - Almtuna IS  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181152.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:25 Senior Herr: KB65 HK - Njurunda SK  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181151.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:25 Senior Herr: Näldens IF - Svenstaviks HK  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181150.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:25 Senior Herr: Husum HK - Åsele IK  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181149.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:25 Senior Herr: Pajala HC - Malmbergets AIF  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181148.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:25 U13P: Norrtälje IK - Mälarö Hockeyförening  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181147.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:25 Senior Herr: Järpens IF - Brunflo IK  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181146.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:25 U15P: Djurgårdens IF - Sollentuna HC  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181145.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:25 Senior Herr: Knivsta Idrottssällskap - Ullfors Hockeyklubb   12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181144.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:25 Senior Herr: Älvdalen HC - Kvarnsvedens GOIF IK  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181143.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:25 U13P: Sollefteå HK - Svedjeholmens IF  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181142.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:25 Senior Herr: Hällefors IK - Kungsörs IK  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181141.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:25 U16P: IFK Österåker Hockey - Älta IF  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181140.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:25 U13P: Lidingö Vikings HC - Flemingsbergs IK  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181139.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:25 U15P: Hammarö HC - Arvika HC  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181138.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:25 Senior Herr: LN 91 - Kramfors-Alliansen  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181137.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:25 Senior Herr: Västerås Pickels HC - Nora HC  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181136.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:25 U19D: AIK Ishockey - Hässelby Kälvesta Hockey  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181135.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:25 U15P: Tyresö Hanviken Hockey - Värmdö HC  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181134.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:25 U15P: Hovås HC - Rögle BK  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181133.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:25 U18H: Hanhals IF - Varberg Vipers  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181132.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:35 U14F: Bålsta HC - Väsby IK HK  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181131.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:40 U15P: Clemensnäs HC - Skellefteå AIK  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181130.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:40 Senior Herr: Bollnäs IS - Skutskärs SK  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181129.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:45 U15P: Tullinge TP HC - Bålsta HC  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181128.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:55 U13P: Kista HC - Väsby IK HK  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181127.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:55 U14P: Solna SK - Tyresö Hanviken Hockey  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181126.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:55 U15P: Viggbyholms IK - Vallentuna Hockey  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181125.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:55 U14P: Segeltorps IF - Vallentuna Hockey  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181124.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:55 U15P: IFK Täby HC - Lidingö Vikings HC  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181123.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:55 U15P: IK Göta Bromma - Nynäshamns IF HC  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181122.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:55 U19D: IK Göta Bromma - Almtuna IS  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181121.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",20:00 U15P: SDE HF - Saltsjöbadens IF  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181120.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",20:05 U18H: Hisingens IK - Stenungsund HF  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181119.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",23:55 U14P: IFK Hallsberg Hockey - Köping IF  12/19 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/christian1/2181118.m3u8
+# --- Svensk Hockey SE (1) ---
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/Other/swedish-hockey.png" group-title="Svensk Hockey SE",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Christian1/christian1/668954.m3u8
 
@@ -3354,7 +2766,7 @@ http://45.139.122.199:8080/live/Christian1/christian1/896658.m3u8
 http://45.139.122.199:8080/live/Christian1/christian1/106609.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-game-pass-hz-us.png?raw=true" group-title="Sweden",NFL Network HD SE
 http://45.139.122.199:8080/live/Christian1/christian1/26373.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Dwg3Js3/n1-live-1.png" group-title="Sweden",N1 Play PPV 1 SE [20:30 FC Porto - Malmö FF]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Dwg3Js3/n1-live-1.png" group-title="Sweden",N1 Play PPV 1 SE [Jake Paul vs Joshua]
 http://45.139.122.199:8080/live/Christian1/christian1/30668.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f0XCNgX/n1-live-2-1.png" group-title="Sweden",N1 Play PPV 2 SE [Qatars Grand Prix @ Nov 30 4:25 PM]
 http://45.139.122.199:8080/live/Christian1/christian1/40671.m3u8
@@ -3647,82 +3059,30 @@ http://45.139.122.199:8080/live/Christian1/christian1/1233605.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sweden",SE | STAR 90s
 http://45.139.122.199:8080/live/Christian1/christian1/1233604.m3u8
 
-# --- TV2 Sport DK (8) ---
-#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/d55f62b0-c455-4654-903d-4dec519ed00d.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2160&w=600" group-title="TV2 Sport DK",13:15 Badminton: Antonsen-Vitidsarn, World Tour Finals  12/19 [TV2 DK]
-http://45.139.122.199:8080/live/Christian1/christian1/2180909.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/e78cc0d0-b219-459d-958c-1b25541177fd.png?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C1920%2C1080&w=600" group-title="TV2 Sport DK",13:15 ATP: Kvartfinaler, Next Gen  12/19 [TV2 DK]
-http://45.139.122.199:8080/live/Christian1/christian1/2180907.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/78ab8ef8-da56-4ea8-a46f-bd7fa5e0e98e.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2160&w=600" group-title="TV2 Sport DK",14:00 Skiskydning: Sprint (m), Annecy  12/19 [TV2 DK]
-http://45.139.122.199:8080/live/Christian1/christian1/2180904.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/07974e1c-36b5-4a4a-8f51-f4d82a4c5656.png?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C1920%2C1080&w=600" group-title="TV2 Sport DK",17:00 ATP: Kvartfinaler, Next Gen  12/19 [TV2 DK]
-http://45.139.122.199:8080/live/Christian1/christian1/2180902.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/05b08a63-b4b0-44dc-8a4d-c182c1ceff5f.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C4000%2C2250&w=600" group-title="TV2 Sport DK",19:30 Herreligaen: TTH Holstebro-Aalborg  12/19 [TV2 DK]
-http://45.139.122.199:8080/live/Christian1/christian1/2180899.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/4198f6dc-7fae-41c0-a471-7191c21c3f0e.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2160&w=600" group-title="TV2 Sport DK",20:55 LALIGA: Valencia-Mallorca  12/19 [TV2 DK]
-http://45.139.122.199:8080/live/Christian1/christian1/2180895.m3u8
+# --- TV2 Sport DK (2) ---
 #EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/9a7320f9-92f0-4ee0-8e6b-eeb94df3404c.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2160&w=600" group-title="TV2 Sport DK",02:30 Badminton: Semifinaler, World Tour Finals  12/20 [TV2 DK]
 http://45.139.122.199:8080/live/Christian1/christian1/2180891.m3u8
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/nordic/denmark/tv2-sport-dk.png" group-title="TV2 Sport DK",-= Reload Your Playlist =-
 http://45.139.122.199:8080/live/Christian1/christian1/527426.m3u8
 
-# --- TV4 Play SE (21) ---
-#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2F1c267989-d9be-47ec-baad-ca6bb06da0af%2Fcrop16x9.jpg&width=450" group-title="TV4 Play SE",12:00 Next Gen ATP Finals ATP Tour 12/19 [TV4 Play]
-http://45.139.122.199:8080/live/Christian1/christian1/2180741.m3u8
-#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2F265f1546-0684-409d-b24b-37a4a6c13d76%2Fcrop16x9.jpg&width=450" group-title="TV4 Play SE",15:10 Internationell hoppning 1,45 Jump Saudi 12/19 [TV4 Play]
-http://45.139.122.199:8080/live/Christian1/christian1/2180740.m3u8
-#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2F1c267989-d9be-47ec-baad-ca6bb06da0af%2Fcrop16x9.jpg&width=450" group-title="TV4 Play SE",17:00 Next Gen ATP Finals ATP Tour 12/19 [TV4 Play]
-http://45.139.122.199:8080/live/Christian1/christian1/2180739.m3u8
-#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2Fe74523c7-5a2f-45a8-97cf-2204be749026%2Fcrop16x9.jpg&width=450" group-title="TV4 Play SE",17:15 SaiPa - Lukko Liiga 12/19 [TV4 Play]
-http://45.139.122.199:8080/live/Christian1/christian1/2180738.m3u8
-#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2F545bcc5f-7e4d-4930-a612-c11fcb4c79b6%2Fcrop16x9.jpg&width=450" group-title="TV4 Play SE",17:15 Ässät - Pelicans Liiga 12/19 [TV4 Play]
-http://45.139.122.199:8080/live/Christian1/christian1/2180737.m3u8
-#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2F681669d8-235c-4501-a5f2-69e8254ec00a%2Fcrop16x9.jpg&width=450" group-title="TV4 Play SE",17:15 Sport - Tappara Liiga 12/19 [TV4 Play]
-http://45.139.122.199:8080/live/Christian1/christian1/2180736.m3u8
-#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2F8d4d0ec3-f96e-4c3c-b74c-fcf104e43e49%2Fcrop16x9.jpg&width=450" group-title="TV4 Play SE",17:15 HPK - JYP Liiga 12/19 [TV4 Play]
-http://45.139.122.199:8080/live/Christian1/christian1/2180735.m3u8
-#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2F5d923c29-cf7e-4f07-826f-905587605b1e%2Fcrop16x9.jpg&width=450" group-title="TV4 Play SE",17:15 HIFK - TPS Liiga 12/19 [TV4 Play]
-http://45.139.122.199:8080/live/Christian1/christian1/2180734.m3u8
-#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2F8d5743b1-f0a3-4b58-b1e7-d649d6027ec0%2Fcrop16x9.jpg&width=450" group-title="TV4 Play SE",17:15 KalPa - KooKoo Liiga 12/19 [TV4 Play]
-http://45.139.122.199:8080/live/Christian1/christian1/2180733.m3u8
-#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2Ff2aa7ecd-bcd0-4e3e-9fc9-45b73a3137bb%2Fcrop16x9.jpg&width=450" group-title="TV4 Play SE",17:25 Internationell hoppning 1,60 World Cup Jump Saudi 12/19 [TV4 Play]
-http://45.139.122.199:8080/live/Christian1/christian1/2180732.m3u8
-#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2F4f4d7588-c312-4ad2-b139-2ddaac612b2b%2Fcrop16x9.jpg&width=450" group-title="TV4 Play SE",17:30 Superfredag: Södertälje SK - MoDo Hockey HockeyAllsvenskan 12/19 [TV4 Play]
-http://45.139.122.199:8080/live/Christian1/christian1/2180731.m3u8
-#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2F8b103597-bf5c-4f9d-bd6f-d38d4daf3a2b%2Fcrop16x9.jpg&width=450" group-title="TV4 Play SE",18:15 Ilves - Kiekko-Espoo Liiga 12/19 [TV4 Play]
-http://45.139.122.199:8080/live/Christian1/christian1/2180730.m3u8
-#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2Fdb00e708-db90-4b16-b214-43b4a67af4e2%2Fcrop16x9.jpg&width=450" group-title="TV4 Play SE",18:55 Mora IK - Östersunds IK HockeyAllsvenskan 12/19 [TV4 Play]
-http://45.139.122.199:8080/live/Christian1/christian1/2180729.m3u8
-#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2Fab2e7d02-8249-43a9-8942-8bd2854d0468%2Fcrop16x9.jpg&width=450" group-title="TV4 Play SE",18:55 Vimmerby Hockey - Kalmar HC HockeyAllsvenskan 12/19 [TV4 Play]
-http://45.139.122.199:8080/live/Christian1/christian1/2180728.m3u8
-#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2F14af94e0-39ee-4afd-bbd6-a407bdbfa611%2Fcrop16x9.jpg&width=450" group-title="TV4 Play SE",18:55 IF Troja-Ljungby - BIK Karlskoga HockeyAllsvenskan 12/19 [TV4 Play]
-http://45.139.122.199:8080/live/Christian1/christian1/2180727.m3u8
-#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2Ffb4dcb26-f756-4812-b89e-3816f6ff2030%2Fcrop16x9.jpg&width=450" group-title="TV4 Play SE",18:55 Västerås IK - IK Oskarshamn HockeyAllsvenskan 12/19 [TV4 Play]
-http://45.139.122.199:8080/live/Christian1/christian1/2180726.m3u8
-#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2Fd243810a-9bdd-4028-ae7d-4adc99849401%2Fcrop16x9.jpg&width=450" group-title="TV4 Play SE",18:55 Almtuna IS - Nybro Vikings IF HockeyAllsvenskan 12/19 [TV4 Play]
-http://45.139.122.199:8080/live/Christian1/christian1/2180725.m3u8
-#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2Fab0b9993-69ed-43d0-adb0-2bc084067a4d%2Fcrop16x9.jpg&width=450" group-title="TV4 Play SE",20:25 Superfredag: AIK Hockey - IF Björklöven HockeyAllsvenskan 12/19 [TV4 Play]
-http://45.139.122.199:8080/live/Christian1/christian1/2180724.m3u8
-#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2F0024a557-9654-4ac1-9e0e-36b161e8543f%2Fcrop16x9.jpg&width=450" group-title="TV4 Play SE",20:25 Eibar - Real Valladolid Segunda División 12/19 [TV4 Play]
-http://45.139.122.199:8080/live/Christian1/christian1/2180723.m3u8
-#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2Fb1e1cbfe-2692-4dd1-b33c-99711978deca%2Fcrop16x9.jpg&width=450" group-title="TV4 Play SE",20:55 Valencia - Mallorca LaLiga 12/19 [TV4 Play]
-http://45.139.122.199:8080/live/Christian1/christian1/2180722.m3u8
+# --- TV4 Play SE (1) ---
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/Other/Tv4_play_2009_flat.png" group-title="TV4 Play SE",-= Live During Events Only =-
 http://45.139.122.199:8080/live/Christian1/christian1/109998.m3u8
 
 # --- Telia Play Events SE (49) ---
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",SE: PLAY+ PPV 1 - AFRASIA BANK MAURITIUS OPEN - DAY 2 | Fri 19 Dec 09:30
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",SE: PLAY+ PPV 1 - FÖRSTA RUNDAN | DAG 9 | Fri 19 Dec 20:00
 http://45.139.122.199:8080/live/Christian1/christian1/947569.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",SE: PLAY+ PPV 2 - SUPER-G (H) | Fri 19 Dec 11:40
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",SE: PLAY+ PPV 2 - FLORIDA PANTHERS-CAROLINA HURRICANES | Sat 20 Dec 01:05
 http://45.139.122.199:8080/live/Christian1/christian1/947570.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",SE: PLAY+ PPV 3 - TRAV: V65 DIREKT  | Fri 19 Dec 12:00
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",SE: PLAY+ PPV 3 - NEW YORK ISLANDERS-VANCOUVER CANUCKS | Sat 20 Dec 01:05
 http://45.139.122.199:8080/live/Christian1/christian1/947571.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",SE: PLAY+ PPV 4 - ATP TOUR: NEXT GEN ATP FINALS | Fri 19 Dec 12:00
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",SE: PLAY+ PPV 4 - NO EVENT STREAMING -
 http://45.139.122.199:8080/live/Christian1/christian1/947572.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",SE: PLAY+ PPV 5 - NO EVENT STREAMING -
 http://45.139.122.199:8080/live/Christian1/christian1/947573.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",SE: PLAY+ PPV 6 - NO EVENT STREAMING -
 http://45.139.122.199:8080/live/Christian1/christian1/947574.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",SE: PLAY+ PPV 7 - NO EVENT STREAMING -
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",SE: PLAY+ PPV 7 - EIBAR - REAL VALLADOLID | Fri 19 Dec 20:25
 http://45.139.122.199:8080/live/Christian1/christian1/947575.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",SE: PLAY+ PPV 8 - NO EVENT STREAMING -
 http://45.139.122.199:8080/live/Christian1/christian1/947576.m3u8
@@ -3734,7 +3094,7 @@ http://45.139.122.199:8080/live/Christian1/christian1/947578.m3u8
 http://45.139.122.199:8080/live/Christian1/christian1/947579.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",SE: PLAY+ PPV 12 - NO EVENT STREAMING -
 http://45.139.122.199:8080/live/Christian1/christian1/947580.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",SE: PLAY+ PPV 13 - NO EVENT STREAMING -
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",SE: PLAY+ PPV 13 - SUPERFREDAG: SÖDERTÄLJE SK - MODO HOCKEY | Fri 19 Dec 17:30
 http://45.139.122.199:8080/live/Christian1/christian1/947581.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",SE: PLAY+ PPV 14 - NO EVENT STREAMING -
 http://45.139.122.199:8080/live/Christian1/christian1/947582.m3u8
@@ -3750,7 +3110,7 @@ http://45.139.122.199:8080/live/Christian1/christian1/947586.m3u8
 http://45.139.122.199:8080/live/Christian1/christian1/947587.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",SE: PLAY+ PPV 20 - NO EVENT STREAMING -
 http://45.139.122.199:8080/live/Christian1/christian1/947588.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",SE: PLAY+ PPV 21 - NO EVENT STREAMING -
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",SE: PLAY+ PPV 21 - LA LIGA: VALENCIA - MALLORCA | Fri 19 Dec 20:55
 http://45.139.122.199:8080/live/Christian1/christian1/947589.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",SE: PLAY+ PPV 22 - NO EVENT STREAMING -
 http://45.139.122.199:8080/live/Christian1/christian1/947590.m3u8
@@ -4967,33 +4327,7 @@ http://45.139.122.199:8080/live/Christian1/christian1/25084.m3u8
 #EXTINF:-1 tvg-logo="http://logos.ti7an.net/logos/ENG_United_Kindon_Sports/LaLiga_TV.png" group-title="UK Sports",LaLiga TV FHD UK
 http://45.139.122.199:8080/live/Christian1/christian1/2125805.m3u8
 
-# --- Viaplay Sport DK (19) ---
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/356/424/logo_DPWorldTour.png?width=320&height=320" group-title="Viaplay Sport DK",09:30 AfrAsia Bank Mauritius Open | DP World Tour 12/19 [Viaplay DK]
-http://45.139.122.199:8080/live/Christian1/christian1/2180796.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/109/904/logo_ViaplayVinter.png?width=320&height=320" group-title="Viaplay Sport DK",11:40 Alpint (H) Super-G | Viaplay Vinter 12/19 [Viaplay DK]
-http://45.139.122.199:8080/live/Christian1/christian1/2180794.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/220/116/Logo_Darts_(1).png?width=320&height=320" group-title="Viaplay Sport DK",13:30 World Darts Championship | PDC Darts 12/19 [Viaplay DK]
-http://45.139.122.199:8080/live/Christian1/christian1/2180791.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/356/424/logo_DPWorldTour.png?width=320&height=320" group-title="Viaplay Sport DK",14:30 Golf Central | DP World Tour 12/19 [Viaplay DK]
-http://45.139.122.199:8080/live/Christian1/christian1/2180790.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/986/748/logo_FrauenBundesliga.png?width=320&height=320" group-title="Viaplay Sport DK",18:25 Essen - Frankfurt | Frauen-Bundesliga 12/19 [Viaplay DK]
-http://45.139.122.199:8080/live/Christian1/christian1/2180789.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/971/648/logo_BL2.png?width=320&height=320" group-title="Viaplay Sport DK",18:25 Hertha Berlin - Arminia Bielefeld | 2. Bundesliga 12/19 [Viaplay DK]
-http://45.139.122.199:8080/live/Christian1/christian1/2180788.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/971/648/logo_BL2.png?width=320&height=320" group-title="Viaplay Sport DK",18:25 Paderborn - Darmstadt | 2. Bundesliga 12/19 [Viaplay DK]
-http://45.139.122.199:8080/live/Christian1/christian1/2180787.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_PL.png?width=320&height=320" group-title="Viaplay Sport DK",19:00 Premier League Team Talks | Premier League 12/19 [Viaplay DK]
-http://45.139.122.199:8080/live/Christian1/christian1/2180786.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/109/904/logo_ViaplayVinter.png?width=320&height=320" group-title="Viaplay Sport DK",19:50 Snowboard (D/M) Halfpipe | Viaplay Vinter 12/19 [Viaplay DK]
-http://45.139.122.199:8080/live/Christian1/christian1/2180785.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_PL.png?width=320&height=320" group-title="Viaplay Sport DK",19:50 Premier League Preview | Premier League 12/19 [Viaplay DK]
-http://45.139.122.199:8080/live/Christian1/christian1/2180784.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/220/116/Logo_Darts_(1).png?width=320&height=320" group-title="Viaplay Sport DK",20:00 World Darts Championship | PDC Darts 12/19 [Viaplay DK]
-http://45.139.122.199:8080/live/Christian1/christian1/2180783.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/847/612/logo_BL.png?width=320&height=320" group-title="Viaplay Sport DK",20:25 Dortmund - Mönchengladbach | Bundesliga 12/19 [Viaplay DK]
-http://45.139.122.199:8080/live/Christian1/christian1/2180782.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_EFLChampionship.png?width=320&height=320" group-title="Viaplay Sport DK",20:55 Swansea - Wrexham | Championship 12/19 [Viaplay DK]
-http://45.139.122.199:8080/live/Christian1/christian1/2180781.m3u8
+# --- Viaplay Sport DK (6) ---
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_NHL.png?width=320&height=320" group-title="Viaplay Sport DK",01:05 NY Islanders - Vancouver | NHL 12/20 [Viaplay DK]
 http://45.139.122.199:8080/live/Christian1/christian1/2180780.m3u8
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_NHL.png?width=320&height=320" group-title="Viaplay Sport DK",01:05 Florida - Carolina | NHL 12/20 [Viaplay DK]
@@ -5151,37 +4485,7 @@ http://45.139.122.199:8080/live/Christian1/christian1/1132454.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Viaplay Sport DK [B]",ViaPlay DK 80 :
 http://45.139.122.199:8080/live/Christian1/christian1/1132455.m3u8
 
-# --- Viaplay Sport SE (21) ---
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/356/424/logo_DPWorldTour.png?width=320&height=320" group-title="Viaplay Sport SE",09:30 AfrAsia Bank Mauritius Open | DP World Tour 12/19 [Viaplay SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180775.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/109/904/logo_ViaplayVinter.png?width=320&height=320" group-title="Viaplay Sport SE",11:40 Alpint (H) Super-G | Viaplay Vinter 12/19 [Viaplay SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180772.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/109/904/logo_ViaplayVinter.png?width=320&height=320" group-title="Viaplay Sport SE",12:20 Nordisk kombination (D) Normalbacke | Viaplay Vinter 12/19 [Viaplay SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180770.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/109/904/logo_ViaplayVinter.png?width=320&height=320" group-title="Viaplay Sport SE",13:05 Nordisk kombination (H) Normalbacke | Viaplay Vinter 12/19 [Viaplay SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180769.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/220/116/Logo_Darts_(1).png?width=320&height=320" group-title="Viaplay Sport SE",13:30 World Darts Championship | PDC Dart 12/19 [Viaplay SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180768.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/356/424/logo_DPWorldTour.png?width=320&height=320" group-title="Viaplay Sport SE",14:30 Golf Central | DP World Tour 12/19 [Viaplay SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180767.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/986/748/logo_FrauenBundesliga.png?width=320&height=320" group-title="Viaplay Sport SE",18:25 Essen - Frankfurt | Frauen-Bundesliga 12/19 [Viaplay SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180766.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/971/648/logo_BL2.png?width=320&height=320" group-title="Viaplay Sport SE",18:25 Hertha Berlin - Arminia Bielefeld | 2. Bundesliga 12/19 [Viaplay SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180765.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/971/648/logo_BL2.png?width=320&height=320" group-title="Viaplay Sport SE",18:25 Paderborn - Darmstadt | 2. Bundesliga 12/19 [Viaplay SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180764.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_PL.png?width=320&height=320" group-title="Viaplay Sport SE",19:00 Premier League Team Talks | Premier League 12/19 [Viaplay SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180763.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/109/904/logo_ViaplayVinter.png?width=320&height=320" group-title="Viaplay Sport SE",19:50 Snowboard (D/M) Halfpipe | Viaplay Vinter 12/19 [Viaplay SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180762.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_PL.png?width=320&height=320" group-title="Viaplay Sport SE",19:50 Premier League Preview | Premier League 12/19 [Viaplay SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180761.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/220/116/Logo_Darts_(1).png?width=320&height=320" group-title="Viaplay Sport SE",20:00 World Darts Championship | PDC Dart 12/19 [Viaplay SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180760.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/847/612/logo_BL.png?width=320&height=320" group-title="Viaplay Sport SE",20:20 Dortmund - Mönchengladbach | Bundesliga 12/19 [Viaplay SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180759.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_EFLChampionship.png?width=320&height=320" group-title="Viaplay Sport SE",20:55 Swansea - Wrexham | Championship 12/19 [Viaplay SE]
-http://45.139.122.199:8080/live/Christian1/christian1/2180758.m3u8
+# --- Viaplay Sport SE (6) ---
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_NHL.png?width=320&height=320" group-title="Viaplay Sport SE",01:05 NY Islanders - Vancouver | NHL 12/20 [Viaplay SE]
 http://45.139.122.199:8080/live/Christian1/christian1/2180757.m3u8
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_NHL.png?width=320&height=320" group-title="Viaplay Sport SE",01:05 Florida - Carolina | NHL 12/20 [Viaplay SE]
@@ -5357,4 +4661,4 @@ http://45.139.122.199:8080/live/Christian1/christian1/1163242.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TrxqEC8.png" group-title="World Padel Tour TV",-= Reload Your Playlist =-
 http://45.139.122.199:8080/live/Christian1/christian1/395508.m3u8
 
-# Total: 2609
+# Total: 2261

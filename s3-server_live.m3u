@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: s3-server.net
-# Generated: 2025-12-19 18:38:48
+# Generated: 2025-12-20 07:08:01
 # Expires: 2025-12-25
 # Family Safe Edition
 # ==============================================
@@ -1350,9 +1350,9 @@ http://s3-server.net/live/DrMarcos/Imperio01/104935.m3u8
 http://s3-server.net/live/DrMarcos/Imperio01/104936.m3u8
 
 # --- Canais | Jogos do Dia (26) ---
-#EXTINF:-1 tvg-logo="http://s3-server.net/static/logos/canais/jogos.png" group-title="Canais | Jogos do Dia",[16:00] Napoli x Milan FHD
+#EXTINF:-1 tvg-logo="http://s3-server.net/static/logos/canais/jogos.png" group-title="Canais | Jogos do Dia",[16:00] Bologna x Inter de Milão FHD
 http://s3-server.net/live/DrMarcos/Imperio01/317686.m3u8
-#EXTINF:-1 tvg-logo="http://s3-server.net/static/logos/canais/jogos.png" group-title="Canais | Jogos do Dia",Informações em Breve
+#EXTINF:-1 tvg-logo="http://s3-server.net/static/logos/canais/jogos.png" group-title="Canais | Jogos do Dia",[16:30] Borussia Dortmund x B. M’gladbach FHD
 http://s3-server.net/live/DrMarcos/Imperio01/317687.m3u8
 #EXTINF:-1 tvg-logo="http://s3-server.net/static/logos/canais/jogos.png" group-title="Canais | Jogos do Dia",Informações em Breve
 http://s3-server.net/live/DrMarcos/Imperio01/317688.m3u8
