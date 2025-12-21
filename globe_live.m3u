@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: globe.midomed.com:80
-# Generated: 2025-12-21 07:17:36
+# Generated: 2025-12-21 18:26:09
 # Expires: 2026-04-07
 # Family Safe Edition
 # ==============================================
@@ -83,47 +83,13 @@ http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/4564.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALGERIE",Ar_MOURITANIA2HD*
 http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/4490.m3u8
 
-# --- ARABE (152) ---
-#EXTINF:-1 tvg-logo="" group-title="ARABE",---------MBC---------
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/1037.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ARABE",AR_MBC1
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/334.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ARABE",AR_MBC2
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/335.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ARABE",AR_MBC4
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/336.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ARABE",Ar_MBC5
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/4401.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ARABE",AR_MBC.DRAMA
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/326.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ARABE",AR_MBC.MASR
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/328.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKTnQdhxNXvwbMZwl9FYQPCqZ5fGPu9J6DiLzPW_iNqrr8p3kC" group-title="ARABE",MbcMasr2
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/4402.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ARABE",AR_MBC-IRAQ-HD
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/4457.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ARABE",AR_MBC.ACTION
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/338.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ARABE",AR_MBC.BOLLYWOOD
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/339.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ARABE",AR_MBC.MAX
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/337.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ARABE",AR_ZEE.ALWAN
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/327.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ARABE",AR_ZEE.AFLEM
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/341.m3u8
+# --- ARABE (135) ---
 #EXTINF:-1 tvg-logo="" group-title="ARABE",---------ROTANA---------
 http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/33501.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ARABE",AR_ROTANA.CINEMA
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/329.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ARABE",AR_ROTANA.DRAMA
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/333.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ARABE",AR_ROTANA.CINEMA.KSA
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/340.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ARABE",AR_ROTANA.CLASSIC
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/330.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ARABE",AR_ROTANAN.KHALIJIYA
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/332.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ARABE",AR_MBC-IRAQ-HD
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/4457.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ARABE",AR_ZEE.AFLEM
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/341.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ARABE",Ar_ROTANAMUSICHD*
 http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/4443.m3u8
 #EXTINF:-1 tvg-logo="data:image/jpeg;base64,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" group-title="ARABE",AR_RotanaAflam
@@ -1461,6 +1427,88 @@ http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/271.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MAROC",MA_TELE.MAROC
 http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/280.m3u8
 
+# --- MBC ROTANA (40) ---
+#EXTINF:-1 tvg-logo="" group-title="MBC ROTANA",MBC_1_FHD*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/326.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MBC ROTANA",_Mbc_1_HD*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/327.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGSHlSc04T_qKZGQdv-v1FPeSl-oEcsxERw0kSO9LJXaobOQMsbg" group-title="MBC ROTANA",Mbc2*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/328.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MBC ROTANA",Mbc_2_HD*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/329.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MBC ROTANA",MBC2**
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/330.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MBC ROTANA",Mbc3*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/332.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MBC ROTANA",Mbc_3_HD*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/333.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0EkxX1Xyy3vCp_-zKXZ4Pi6BjB5tfiTFtxKf0TLGfkCiRE_8u" group-title="MBC ROTANA",Mbc4*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/334.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0EkxX1Xyy3vCp_-zKXZ4Pi6BjB5tfiTFtxKf0TLGfkCiRE_8u" group-title="MBC ROTANA",_Mbc_4_HD*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/335.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0EkxX1Xyy3vCp_-zKXZ4Pi6BjB5tfiTFtxKf0TLGfkCiRE_8u" group-title="MBC ROTANA",_Mbc_4*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/336.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MBC ROTANA",MBC4**
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/337.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MBC ROTANA",MBC5*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/338.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOODZaNVMyKDE4s-np7zFJqS1SHqpfeXZZgbxSWw_MN08Fxu1o3A" group-title="MBC ROTANA",MBC-IRAQ*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/339.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4psQEPteqTY5HxWVM9Ts5TWMUVKdpABnIAkmXNieBl7_ZzSTbBA" group-title="MBC ROTANA",Mbc_Masr*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/340.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4psQEPteqTY5HxWVM9Ts5TWMUVKdpABnIAkmXNieBl7_ZzSTbBA" group-title="MBC ROTANA",Mbc_Masr**
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/1037.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKTnQdhxNXvwbMZwl9FYQPCqZ5fGPu9J6DiLzPW_iNqrr8p3kC" group-title="MBC ROTANA",_Mbc_Masr_2*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/4401.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDZF0Aj98Uid4avx8z3O2FJ43Xo28000w6SDygRCx0lDnBmmK5-A" group-title="MBC ROTANA",Mbc_Action*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/4402.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDZF0Aj98Uid4avx8z3O2FJ43Xo28000w6SDygRCx0lDnBmmK5-A" group-title="MBC ROTANA",MBC_Action**
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/133155.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDZF0Aj98Uid4avx8z3O2FJ43Xo28000w6SDygRCx0lDnBmmK5-A" group-title="MBC ROTANA",_Mbc_Action*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/133156.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDZF0Aj98Uid4avx8z3O2FJ43Xo28000w6SDygRCx0lDnBmmK5-A" group-title="MBC ROTANA",Mbc_Action_HD*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/133157.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MBC ROTANA",Mbc_Max*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/133158.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlkN3huUGFPkP4qWOcC8OkgftxsK79i-2aoLbVM2C5BHjCKi1vMg" group-title="MBC ROTANA",MBC_MAX**
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/133159.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MBC ROTANA",MBC_BOLYWOOD*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/133160.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MBC ROTANA",Mbc_Bollywood*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/133161.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MBC ROTANA",Mbc_Bollywood_HD*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/133162.m3u8
+#EXTINF:-1 tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/mbc10.png" group-title="MBC ROTANA",MBC_HD**
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/133163.m3u8
+#EXTINF:-1 tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/mbc210.png" group-title="MBC ROTANA",MBC_2_HD**
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/133164.m3u8
+#EXTINF:-1 tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/mbc_410.jpg" group-title="MBC ROTANA",MBC_4_HD**
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/133165.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2iNmlVIVB2lQSCilrMEnQBlszWnUdjOmgmJA29UFE4piDc3uw0A" group-title="MBC ROTANA",MBC_Masr1_HD*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/133166.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvkrRsjBRAVLPf4GXailBcNrOJHeg3RS30X0TatRpe5i2jvlir" group-title="MBC ROTANA",MBC_Masr2_HD*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/133167.m3u8
+#EXTINF:-1 tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/mbc_bo10.png" group-title="MBC ROTANA",MBC_BOLLYWOOD_HD**
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/133168.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MBC ROTANA",ROTANA_Drama**
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/133169.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv1doeLghIIMQ_xX0AxfjwGszQJl8qsB422q7kQ3-XwAIxw7KHFw" group-title="MBC ROTANA",Rotana_+HD*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/133170.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGMw_B5fpSxYde1JmICDiEWyQ5BQZCTlwidCgTb3NSryBAmFs1" group-title="MBC ROTANA",_Rotana-Clip*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/133171.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MBC ROTANA",Rotana_Clip_HD**
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/133172.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPSrzOIRId-L13nRSblYxBeSAcbGUM55Mxm-jXC2gnw8YNiASI" group-title="MBC ROTANA",Rotana_Khaliji*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/133173.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MBC ROTANA",_Rotana_khalijiya_HD**
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/133174.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MBC ROTANA",b4u_Plus*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/133175.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MBC ROTANA",Zee-Aflam_HD**
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/133176.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MBC ROTANA",ROTANA_MUSIC*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/133177.m3u8
+
 # --- NETFLIX (5) ---
 #EXTINF:-1 tvg-logo="http://tvchallenge.tn/logo/netflix/netflix.png" group-title="NETFLIX",---------NETFLIX---------
 http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/33735.m3u8
@@ -1963,4 +2011,4 @@ http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/1026.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK",|UK|TotalCountry
 http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/1027.m3u8
 
-# Total: 957
+# Total: 980

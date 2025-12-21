@@ -1,17 +1,23 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nisay.xyz:8080
-# Generated: 2025-12-21 07:11:52
+# Generated: 2025-12-21 18:28:26
 # Expires: 2026-10-04
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | 2021: YABANCI FILMLER (863) ---
+# --- Movies | 2021: YABANCI FILMLER (866) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/84JddAfIw0hsssbITouwU8eLmlA.jpg" group-title="Movies | 2021: YABANCI FILMLER",Onemsiz Biri 2021
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/78057.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xyPPBPkGbZxfS6UM4PjR5bnVfwR.jpg" group-title="Movies | 2021: YABANCI FILMLER",Adadaki Dehşet (2019)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/157371.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1BDCUyliBFztah5f6GBKPupqpi.jpg" group-title="Movies | 2021: YABANCI FILMLER",Wheel Of Fortune And Fantasy (2021)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152581.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lktpcVcrDHH3RWCvY2URYuKN0VC.jpg" group-title="Movies | 2021: YABANCI FILMLER",Dating & New York (2021)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152617.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bKlHnZpusNbhIfNKLlYRClposDu.jpg" group-title="Movies | 2021: YABANCI FILMLER",Şeytanın İni (2021)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152504.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n1oZdYrFjDQAAXMuUP4FuPZyFnC.jpg" group-title="Movies | 2021: YABANCI FILMLER",Liu Yu Tian 2019
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/151014.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEGG5tP74IdoruY1DBUuI651pWH.jpg" group-title="Movies | 2021: YABANCI FILMLER",When the Screaming Starts (2021)
@@ -1735,31 +1741,15 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/124403.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yvJO2ZZTK8bgY3WdWiEfi6ImLGE.jpg" group-title="Movies | 2021: YABANCI FILMLER",Avatar 2009
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/113265.mkv
 
-# --- Movies | 2021: YERLI FILMLER (224) ---
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBF2a72w2Vp7N8813yKmtU6QxgC.jpg" group-title="Movies | 2021: YERLI FILMLER",Mahalle (2017)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/150037.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Vb9UDOVXSoN9N7YWzIaSpJZg13.jpg" group-title="Movies | 2021: YERLI FILMLER",Aşk Masalı (2018)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/147115.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nSyFfKksWyLmCfQbtjZwLABhxJv.jpg" group-title="Movies | 2021: YERLI FILMLER",Ask Sarkisi (2020)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/141374.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHivA2A40ntvOYfCnARTU8DwsWR.jpg" group-title="Movies | 2021: YERLI FILMLER",Körleşme (2020)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/141585.mkv
+# --- Movies | 2021: YERLI FILMLER (225) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mIPkV0abPurDQ2tflLAe6DGS8v.jpg" group-title="Movies | 2021: YERLI FILMLER",Başımız Belada (2019)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153117.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vY46M4ZFjX1ggwtGnmG3egXd76g.jpg" group-title="Movies | 2021: YERLI FILMLER",Kovala (2021)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/140984.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zir2S4LK1zSl6qsHdaXYU4GKcKx.jpg" group-title="Movies | 2021: YERLI FILMLER",Hashtag (2020)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/140988.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nFSMH2Vh7cENeq9capNbLOLLdn8.jpg" group-title="Movies | 2021: YERLI FILMLER",Anlatirsam Asik Olurum (2021)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/139931.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wNBwJNRkg3UnhyxHu26MxXNdyVA.jpg" group-title="Movies | 2021: YERLI FILMLER",Koksuz (2013)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/139632.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtHlesiH7wuSd4B04gBoDp2KWCn.jpg" group-title="Movies | 2021: YERLI FILMLER",Dirlik Duzenlik 2020
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/137751.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pOpzGFe3aB3anf0OTyOVmqTlMcW.jpg" group-title="Movies | 2021: YERLI FILMLER",Mavzer 2020
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/129363.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4sDJ0Si1SFxhtRFLgTWwLz2bNXn.jpg" group-title="Movies | 2021: YERLI FILMLER",Mustakbel Damat 2022
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/122799.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZiVLFGTbMBY4xrawgMtuzRkLEc.jpg" group-title="Movies | 2021: YERLI FILMLER",Hayati Tehlike 2016
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/121438.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGQ4ODljZDYtZmRlYS00NWIwLTkyNWItYjhhMTk2YWI2ZjQ3XkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_QL75_UY148_CR2,0,100,148_.jpg" group-title="Movies | 2021: YERLI FILMLER",Ask Yolunda 2021
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/121439.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjcwMDIxNWYtNGZjNC00MWM4LWFmMzYtMTYzYjY1YzYwMzBlXkEyXkFqcGdeQXVyMTExMTI3NjE5._V1_QL75_UY148_CR31,0,100,148_.jpg" group-title="Movies | 2021: YERLI FILMLER",Bayram Sekeri 2021
@@ -1774,8 +1764,6 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/112817.mkv
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/112525.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Wm4rydAe86ONJI159oU3FJr1wK.jpg" group-title="Movies | 2021: YERLI FILMLER",Birlikte Olecegiz 2021
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/112526.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6kzEPiOIW1gXlbpafCRfP9GtZ1.jpg" group-title="Movies | 2021: YERLI FILMLER",Kaybedenler Kulubu Yolda 2018
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/112226.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvcCsSedHynjItt0nGCYuVuQQNe.jpg" group-title="Movies | 2021: YERLI FILMLER",Sevgili Komsum
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/108346.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ifDxXgrh0wpYn09ZayynJyP8Men.jpg" group-title="Movies | 2021: YERLI FILMLER",Sinsi: Acı Bedel 2021
@@ -1786,16 +1774,12 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/104651.mkv
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/104432.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pP2LzIIlmM23Fp2qtTv6YjbyAiW.jpg" group-title="Movies | 2021: YERLI FILMLER",Hep Yek 4: Bela Okuma Altan 2021
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/102248.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wm8HWUvXS1tIBmcEtHq8gC3ZIHI.jpg" group-title="Movies | 2021: YERLI FILMLER",Son Oyun 2018
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/101927.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dy66aJkIo8YHaKCidA1gbFkrztg.jpg" group-title="Movies | 2021: YERLI FILMLER",Pilav Ustu Ask 2021
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/101669.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yOZukGCCsk2Detz40etBozV9tCU.jpg" group-title="Movies | 2021: YERLI FILMLER",Askimizin Son Tekmesi 2019
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/101670.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9jtjnXlWnIkuadYNgzFjhTE9qU3.jpg" group-title="Movies | 2021: YERLI FILMLER",Hayatimiz Film 2019
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/101671.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Ea6VTUKgsUqbTq50ohjYZ9nnji.jpg" group-title="Movies | 2021: YERLI FILMLER",Prangali Yarim 2018
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/101673.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mpeKs5XBJBuVIJMS6JCS2SHalW2.jpg" group-title="Movies | 2021: YERLI FILMLER",Sabahlar Olmasin 2018
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/101672.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oIshxA2nknwHwo9U8fbwvpb1iBe.jpg" group-title="Movies | 2021: YERLI FILMLER",Asktroloji 2018
@@ -2184,8 +2168,38 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/62177.mkv
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/62474.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNBquJ9TrrzvIoidd59e8DxBeEL.jpg" group-title="Movies | 2021: YERLI FILMLER",Efsunlu: Kabirden Gelen (2019)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/63202.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nSyFfKksWyLmCfQbtjZwLABhxJv.jpg" group-title="Movies | 2021: YERLI FILMLER",Ask Sarkisi (2020)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/141374.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHivA2A40ntvOYfCnARTU8DwsWR.jpg" group-title="Movies | 2021: YERLI FILMLER",Körleşme (2020)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/141585.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zir2S4LK1zSl6qsHdaXYU4GKcKx.jpg" group-title="Movies | 2021: YERLI FILMLER",Hashtag (2020)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/140988.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtHlesiH7wuSd4B04gBoDp2KWCn.jpg" group-title="Movies | 2021: YERLI FILMLER",Dirlik Duzenlik 2020
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/137751.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pOpzGFe3aB3anf0OTyOVmqTlMcW.jpg" group-title="Movies | 2021: YERLI FILMLER",Mavzer 2020
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/129363.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6kzEPiOIW1gXlbpafCRfP9GtZ1.jpg" group-title="Movies | 2021: YERLI FILMLER",Kaybedenler Kulubu Yolda 2018
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/112226.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wm8HWUvXS1tIBmcEtHq8gC3ZIHI.jpg" group-title="Movies | 2021: YERLI FILMLER",Son Oyun 2018
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/101927.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Ea6VTUKgsUqbTq50ohjYZ9nnji.jpg" group-title="Movies | 2021: YERLI FILMLER",Prangali Yarim 2018
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/101673.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBF2a72w2Vp7N8813yKmtU6QxgC.jpg" group-title="Movies | 2021: YERLI FILMLER",Mahalle (2017)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/150037.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Vb9UDOVXSoN9N7YWzIaSpJZg13.jpg" group-title="Movies | 2021: YERLI FILMLER",Aşk Masalı (2018)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/147115.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZiVLFGTbMBY4xrawgMtuzRkLEc.jpg" group-title="Movies | 2021: YERLI FILMLER",Hayati Tehlike 2016
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/121438.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wNBwJNRkg3UnhyxHu26MxXNdyVA.jpg" group-title="Movies | 2021: YERLI FILMLER",Koksuz (2013)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/139632.mkv
 
-# --- Movies | 2022: YABANCI FILMLER (434) ---
+# --- Movies | 2022: YABANCI FILMLER (437) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6R6deRS2rXU7xQwmEWW7y5QkU2h.jpg" group-title="Movies | 2022: YABANCI FILMLER",Unidentified (2022)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152647.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4eCfOPqoE5ezwQCgVGQszwlxdJh.jpg" group-title="Movies | 2022: YABANCI FILMLER",Ben Tamamen İyiyim (2022)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152576.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vWx3Hi7DZ7VWyjWVf9gySG6Lbq4.jpg" group-title="Movies | 2022: YABANCI FILMLER",Jack Mimoun et les secrets de Val Verde (2022)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152577.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x29abSHm0pUYAF0yyuDOzugpgno.jpg" group-title="Movies | 2022: YABANCI FILMLER",Diamond in the Rough (2022)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/151015.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4yV6DjHg9ALJaopXlktvXphh9xR.jpg" group-title="Movies | 2022: YABANCI FILMLER",Soğuk Rekabet (2022)
@@ -3055,7 +3069,13 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/94532.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLpPEmW8chnRMPtDoqwgISiunQi.jpg" group-title="Movies | 2022: YABANCI FILMLER",Kusursuz Uyum 2022
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/94531.mkv
 
-# --- Movies | 2022: YERLI FILMLER (107) ---
+# --- Movies | 2022: YERLI FILMLER (110) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vKRtEDfZkbDZoSthGSa1MlqyTv5.jpg" group-title="Movies | 2022: YERLI FILMLER",Amatör Hayat (2022)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153116.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejytKSnrncju4lRLlZzc3e7jq8X.jpg" group-title="Movies | 2022: YERLI FILMLER",Bir Türk Masalı (2022)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152588.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w0T5f0Vzi3bgfR3cGCWtad713GW.jpg" group-title="Movies | 2022: YERLI FILMLER",Horoz Dövüşü (2022)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152508.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ib0PKLdVuBglxZmAXNz58Q7GsTT.jpg" group-title="Movies | 2022: YERLI FILMLER",Ses: Sonu Olmayan Gece (2022)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/151013.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k5WreZUBFqeR1Er4AAecffp6ay0.jpg" group-title="Movies | 2022: YERLI FILMLER",Gatlopp: Hell of a Game (2022)
@@ -3271,7 +3291,21 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/103573.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rZJNEiA9QsNl5wtvA4zXqjpv3dQ.jpg" group-title="Movies | 2022: YERLI FILMLER",DE: Sneakerella 2022
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/94470.mp4
 
-# --- Movies | 2023: YABANCI FILMLER (444) ---
+# --- Movies | 2023: YABANCI FILMLER (451) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wtar1NytLPRnd8hlwspeRRW5NVm.jpg" group-title="Movies | 2023: YABANCI FILMLER",War of the Worlds: The Attack (2023)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153562.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWEkwq2FgCT3LYUflXqotzTzWfQ.jpg" group-title="Movies | 2023: YABANCI FILMLER",Upon Entry (La llegada) (2023)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153469.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svRfv41gFQDyD5oaIMxehRmuFgF.jpg" group-title="Movies | 2023: YABANCI FILMLER",Son Piyade (2023)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153471.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qN4Jxcn46NVTIqZDjyIxNfNgsX6.jpg" group-title="Movies | 2023: YABANCI FILMLER",Vesnan (2023)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153225.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iJw55oTb2MlG4NWjq3sbIFUVU76.jpg" group-title="Movies | 2023: YABANCI FILMLER",Showing Up (2023)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152618.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mvjqqklMpHwOxc40rn7dMhGT0Fc.jpg" group-title="Movies | 2023: YABANCI FILMLER",The Flood (2023)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152579.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/84YOsylmgr181BHrTKlmaKs8IzV.jpg" group-title="Movies | 2023: YABANCI FILMLER",Night of the Hunted (2023)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152503.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ti2faZXJnTqjbX68uFLo4Di4xhx.jpg" group-title="Movies | 2023: YABANCI FILMLER",Konvoy (2023)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/151019.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iYz8cO7abZgVvzGORdZMGy41oCh.jpg" group-title="Movies | 2023: YABANCI FILMLER",Fars Usulü (2023)
@@ -4161,7 +4195,17 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/112225.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sh2DjlKELUbSTGmYEnOrZ2rgfMO.jpg" group-title="Movies | 2023: YABANCI FILMLER",DE: Max - Meine Weihnachtshilfe auf vier Pfoten (2023)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/144416.mp4
 
-# --- Movies | 2023: YERLI FILMLER (65) ---
+# --- Movies | 2023: YERLI FILMLER (70) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cBrnDhaZpJfpMwUNosv0vit8gm5.jpg" group-title="Movies | 2023: YERLI FILMLER",Cenazemize Hoş Geldiniz (2023)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153468.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kFD1NfeXL282kBG4znp5JXw5zn5.jpg" group-title="Movies | 2023: YERLI FILMLER",Oyun Bitti (2023)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153288.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y8SNsw5Df3VdHqGfWx3fRqHm1Xo.jpg" group-title="Movies | 2023: YERLI FILMLER",İki İyi İki Kötü Beş Adam (2023)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153118.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Welq7sox92W9bUoDCyCbSYNNdb.jpg" group-title="Movies | 2023: YERLI FILMLER",Eyvah Tatil (2023)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152762.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vkQuM3wtUM2Me2mZInSN6Cbu9rX.jpg" group-title="Movies | 2023: YERLI FILMLER",Oda (2023)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152633.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/906Q3X3d4LJFXYDjsHFqgz2wWqj.jpg" group-title="Movies | 2023: YERLI FILMLER",Başlangıçlar (2023)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/151018.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8SBixdHa4hzxhXIvtl3est8Q93.jpg" group-title="Movies | 2023: YERLI FILMLER",Ceylin (2023)
@@ -4293,11 +4337,55 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/113283.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iG3ca3sAmhVMOsHTJJ5QMqivhkq.jpg" group-title="Movies | 2023: YERLI FILMLER",Bursa Bulbulu 2023
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/112186.mkv
 
-# --- Movies | 2024: YABANCI FILMLER (321) ---
+# --- Movies | 2024: YABANCI FILMLER (343) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u5iu2SRjXRpcu6gDkCXS1itguyk.jpg" group-title="Movies | 2024: YABANCI FILMLER",Konsey (2024)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153559.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vasnPh69RoUg9oUpzXoErMVDB7.jpg" group-title="Movies | 2024: YABANCI FILMLER",Cellar Door (2024)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153561.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j736cRzBtEPCm0nHnpRN1prqiqj.jpg" group-title="Movies | 2024: YABANCI FILMLER",The Silent Hour (2024)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153463.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yp2JCSJbMMpLXMy45dM2wtUi8hP.jpg" group-title="Movies | 2024: YABANCI FILMLER",Handling the Undead (2024)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153464.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4WGAE6YLd09lMGbYIUPodxXjnwO.jpg" group-title="Movies | 2024: YABANCI FILMLER",Karabasan (2024)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153465.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2zwexsQINEY2X3XQv6KCzBrvIH.jpg" group-title="Movies | 2024: YABANCI FILMLER",Hard Home (2024)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153289.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/by3EEDIVTdhNJolYK2Msn1RHRFH.jpg" group-title="Movies | 2024: YABANCI FILMLER",Here After (2024)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153290.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/UZ0ydgbXtnrq8xZCI5lHVXVcH9.jpg" group-title="Movies | 2024: YABANCI FILMLER",The Painter (2024)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153291.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z7UvGuQ8pSs0JJP3QYCAIsNzYXI.jpg" group-title="Movies | 2024: YABANCI FILMLER",Millers in Marriage (2024)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153292.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e1TyT5umEoAM2SXQIp7OwNBn7Hv.jpg" group-title="Movies | 2024: YABANCI FILMLER",Sweet Dreams (2024)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153293.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gboq2oB6QNBcW32V0A8uOajTwXU.jpg" group-title="Movies | 2024: YABANCI FILMLER",The Image of You (2024)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153294.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOCcIemu4V0uWIBhrMAmMFKow7s.jpg" group-title="Movies | 2024: YABANCI FILMLER",Dönüş (2024)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153295.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bcVvqlFXS2lZg2lBISGbT98SFPn.jpg" group-title="Movies | 2024: YABANCI FILMLER",Umudunu Kaybetme (2023)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153279.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xo04W0XBJRRERjATgmDm1QsJUTP.jpg" group-title="Movies | 2024: YABANCI FILMLER",Kirpi Sonic 3 2024
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153119.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/PYxoJTZuNx70g5RD5V9nrtgx0o.jpg" group-title="Movies | 2024: YABANCI FILMLER",Aydınlık Hayallerimiz (2024)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153111.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sTdWmwPBB5aPoNAYQ0hz8VeprHB.jpg" group-title="Movies | 2024: YABANCI FILMLER",Süleyman’ın Hikayesi (2024)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152763.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4s4j7popAkQzjYKjfRyqN2TL7q0.jpg" group-title="Movies | 2024: YABANCI FILMLER",Kutsal İncirin Tohumu (2024)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/144003.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yUs4Sw9AyTg2sA1qWBkNpD2mGSj.jpg" group-title="Movies | 2024: YABANCI FILMLER",My Old Ass (2024)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152645.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/16s73RuRmmTtsjCuSh4fr03s1y5.jpg" group-title="Movies | 2024: YABANCI FILMLER",Şeytan Ayini (2024)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152646.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y8tbZ6MP4kAyGFkgFxjwcj8VHHI.jpg" group-title="Movies | 2024: YABANCI FILMLER",50 km/h (2024)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152621.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hKDR5AYXRTPb751oc7xK2Ay3PH0.jpg" group-title="Movies | 2024: YABANCI FILMLER",Oh, Canada (2024)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152622.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/35SJ2ieqgFsRUTvdsqRTZE6iZyO.jpg" group-title="Movies | 2024: YABANCI FILMLER",Söylenti (2024)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152572.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5htr97RScFopnkxyW1eBtsMsFXb.jpg" group-title="Movies | 2024: YABANCI FILMLER",Yüzüklerin Efendisi: Rohirrim'in Savaşı (2024)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152502.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wzIyzllxcolB08ycp8qG895gf4f.jpg" group-title="Movies | 2024: YABANCI FILMLER",Daha İyi Bir Yarın (2024)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152506.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFV8E1wTVjuhFt3FjHhxCiAtbn1.jpg" group-title="Movies | 2024: YABANCI FILMLER",Çakallarla Dans 7 (2024)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152495.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aIUZiciO0nMh8MrhmsTaMWZvEWK.jpg" group-title="Movies | 2024: YABANCI FILMLER",Greedy People (2024)
@@ -4937,7 +5025,27 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/133596.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51hgsSIuqBSGcGZj3BwCfE5tZRu.jpg" group-title="Movies | 2024: YABANCI FILMLER",DE: Babygirl (2024)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/147449.mp4
 
-# --- Movies | 2024: YERLI FILMLER (73) ---
+# --- Movies | 2024: YERLI FILMLER (83) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ITwbh3HWbItlpebM0fsabays3g.jpg" group-title="Movies | 2024: YERLI FILMLER",Son Bir Tatil (2024)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153467.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGU4h63pgYQAkdiztpnRjg6Bc9b.jpg" group-title="Movies | 2024: YERLI FILMLER",Mahşerin Üç Delisi (2024)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153283.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3W4GvofA5coFlptLrGRoa483Dq1.jpg" group-title="Movies | 2024: YERLI FILMLER",Hükümet Bey (2024)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153278.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/goEXIZLy0yhobq3Ufz78ZUDU3c.jpg" group-title="Movies | 2024: YERLI FILMLER",Hakkı (2024)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153176.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/smW2dDoB1J0LjP6bIYJZBJipqtZ.jpg" group-title="Movies | 2024: YERLI FILMLER",Mucize Aynalar (2024)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153177.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/38BqEPECBnsVLQZ9gU6ctX3SFwJ.jpg" group-title="Movies | 2024: YERLI FILMLER",Sadık Ahmet (2024)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153112.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHNcBK3OZfgSFCbKCfVoRVc9R47.jpg" group-title="Movies | 2024: YERLI FILMLER",Reel İstanbul Organize (2024)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153114.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dUhLlGlXMv5vjNH60Eagj2EkBmK.jpg" group-title="Movies | 2024: YERLI FILMLER",Öldüm Bittim (2024)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152619.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKctr12TU9GaUhtXFn1RB8OWz2f.jpg" group-title="Movies | 2024: YERLI FILMLER",Her Şeyin Başı Merkür (2024)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152620.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/91aCzYUPoy8HEpeSD0erw6whgLm.jpg" group-title="Movies | 2024: YERLI FILMLER",Hemme’nin Öldüğü Günlerden Biri (2024)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152507.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zkLWDlYrO4IFwmExpLNIqyE6soc.jpg" group-title="Movies | 2024: YERLI FILMLER",0000 Kilometre (2024)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152042.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zD5bZUxh1jXTPnH7SkLStaBEC9b.jpg" group-title="Movies | 2024: YERLI FILMLER",Nemlizade (2024)
@@ -5085,11 +5193,83 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/138432.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/os3YzJC18qjb96531jZ9U32Ju2I.jpg" group-title="Movies | 2024: YERLI FILMLER",Kul 2024
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/137375.mkv
 
-# --- Movies | 2025: YABANCI FILMLER (62) ---
+# --- Movies | 2025: YABANCI FILMLER (98) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNAb8OTrlhW5eFwlsPUW3CRXCXh.jpg" group-title="Movies | 2025: YABANCI FILMLER",Siz Babama Bakmayın (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153586.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6b6vS9cbIRF1v29HnpakE3QZV4.jpg" group-title="Movies | 2025: YABANCI FILMLER",Acıya Yer Yok (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153587.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHowAaChDjwueySmwVbsjHmpWa.jpg" group-title="Movies | 2025: YABANCI FILMLER",High Rollers (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153588.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5s0GHlUjTU4P8aFimZsQXc7C25D.jpg" group-title="Movies | 2025: YABANCI FILMLER",Amatör (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153589.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yo9ZE9od7c6qcyNNtMnCjVefVBK.jpg" group-title="Movies | 2025: YABANCI FILMLER",Penguen Dersleri (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153560.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zJUju1MU2TaXvK1iq077zfkuIo.jpg" group-title="Movies | 2025: YABANCI FILMLER",Tuğla (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153556.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u37QB5JBQg0n8kpKbW3wPEXouCC.jpg" group-title="Movies | 2025: YABANCI FILMLER",Zombiler 4: Vampirlerin Şafağı (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153550.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/upzsNh9Ue3DmFlGnUlxwXtnEpQc.jpg" group-title="Movies | 2025: YABANCI FILMLER",Ortak Bela (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153551.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwMwRucnAROgWo9WLLmIqzHmmzi.jpg" group-title="Movies | 2025: YABANCI FILMLER",Madea's Destination Wedding (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153552.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZGpn6GTtLFkkJ0LmeHtifL1Jw8.jpg" group-title="Movies | 2025: YABANCI FILMLER",Inheritance (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153553.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r3d6u2n7iPoWNsSWwlJJWrDblOH.jpg" group-title="Movies | 2025: YABANCI FILMLER",Dora and the Search for Sol Dorado (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153554.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ombHyZqE3AMkRlCkgWBZUhw1Atk.jpg" group-title="Movies | 2025: YABANCI FILMLER",Mısır Tarlasındaki Palyaço (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153555.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/crYBmWgznCvCkVZZrELlf4ZU9ao.jpg" group-title="Movies | 2025: YABANCI FILMLER",Ziam (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153459.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJbmNC3OxyYsj0msZEguoVQDdK1.jpg" group-title="Movies | 2025: YABANCI FILMLER",Yunan (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153460.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tvRgDns7bJuIWkEaF6JJMKr8kNA.jpg" group-title="Movies | 2025: YABANCI FILMLER",Günahkârlar (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153461.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5zHR7jKgBmfz4h8BXJWzNFAcU48.jpg" group-title="Movies | 2025: YABANCI FILMLER",Devlet Başkanları (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153284.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqfu3bPLJaEWJVk3QOm0rKhxf1A.jpg" group-title="Movies | 2025: YABANCI FILMLER",The Old Guard 2 (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153285.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yTTURwDVR7ZZKhGFsH0MlX9LzpK.jpg" group-title="Movies | 2025: YABANCI FILMLER",Yeni Avengers (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153286.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yTTURwDVR7ZZKhGFsH0MlX9LzpK.jpg" group-title="Movies | 2025: YABANCI FILMLER",Thunderbolts (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153281.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ynV0kzAkF4Hx9YVjZjAUl929csd.jpg" group-title="Movies | 2025: YABANCI FILMLER",Inside (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153180.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z8que077AgET5JyIt28L0Q7TdGP.jpg" group-title="Movies | 2025: YABANCI FILMLER",Kazara Kaçış Sürücüsü (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153120.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vltxj7fjoSp3z9PAxfzoJ3UjvOR.jpg" group-title="Movies | 2025: YABANCI FILMLER",Bir Minecraft Filmi (2025)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/150509.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9MbQBPceSWvhxZzE1dmY5OD26mm.jpg" group-title="Movies | 2025: YABANCI FILMLER",Warfare (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152764.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jZKK5mFKWbquxhAGMkRJtNYwk0I.jpg" group-title="Movies | 2025: YABANCI FILMLER",Mountainhead (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152765.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIjIEZ8ug2pLGbV2JiKytZyj2NG.jpg" group-title="Movies | 2025: YABANCI FILMLER",Hayat Budur! (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152644.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2BvjlOVoYqkJQD49mkD0MHGpxy.jpg" group-title="Movies | 2025: YABANCI FILMLER",Karantina (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152643.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chT0i2JLOdFzmTB1k47HyyHIUff.jpg" group-title="Movies | 2025: YABANCI FILMLER",Gizli Görev (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152641.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6guIbrI70MtDVVI2sMjanwHtXds.jpg" group-title="Movies | 2025: YABANCI FILMLER",Kusursuz Arkadaş (2025)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/147946.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w2HHTJxNcOzri7A0MPSAiIj6HvG.jpg" group-title="Movies | 2025: YABANCI FILMLER",Hesaplaşma 2 (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152623.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTbQg4zQ0eGXlKl8imLu64LLJQX.jpg" group-title="Movies | 2025: YABANCI FILMLER",Nakavt (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152624.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t3cmnXYtxJb9vVL1ThvT2CWSe1n.jpg" group-title="Movies | 2025: YABANCI FILMLER",Son Damla (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152625.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95KmR0xNuZZ6DNESDwLKWGIBvMg.jpg" group-title="Movies | 2025: YABANCI FILMLER",The Alto Knights (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152626.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lbimIPTVsSlnmqSW5ngEsUxtHLM.jpg" group-title="Movies | 2025: YABANCI FILMLER",Predator: Killer of Killers (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152627.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1IqDhi52gO7cQAnDnr6mOXqfKJb.jpg" group-title="Movies | 2025: YABANCI FILMLER",Seven Veils (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152578.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvxz6rgNT2SA1F2CRZ19pXdGXbQ.jpg" group-title="Movies | 2025: YABANCI FILMLER",Kara Dul Maje (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152528.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2xPrbk7C4I3YQofZ7mAYS9OYVFd.jpg" group-title="Movies | 2025: YABANCI FILMLER",Mezuniyet Gezisi: Mallorca (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152529.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bv9xQJjtX71oUVIUqNmZ9Qnnmxi.jpg" group-title="Movies | 2025: YABANCI FILMLER",Bir Yıldız Kadar Uzak (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152530.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5XgEqq8KJVW0R0NhDZCdBV2Pjr0.jpg" group-title="Movies | 2025: YABANCI FILMLER",Kalp Bilir (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152532.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/edKpE9B5qN3e559OuMCLZdW1iBZ.jpg" group-title="Movies | 2025: YABANCI FILMLER",Mickey 17 (2025)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152243.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fVZfAfqj7zvjw6KJ7n8HZfSyENt.jpg" group-title="Movies | 2025: YABANCI FILMLER",Kurt Adam (2025)
@@ -5211,7 +5391,19 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/146470.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mMvG4ZwGjlVQ0SyoHUVEew0df8y.jpg" group-title="Movies | 2025: YABANCI FILMLER",DE: The Rats: A Witcher Tale (2025)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/158073.mp4
 
-# --- Movies | 2025: YERLI FILMLER (4) ---
+# --- Movies | 2025: YERLI FILMLER (10) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9c9mJJU5KQCr6D2rPLvGrkEMLV.jpg" group-title="Movies | 2025: YERLI FILMLER",Bir Ömrün Sonbaharı (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153584.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3qm8bSNRuJkXdEYtyzSZEhU2RS6.jpg" group-title="Movies | 2025: YERLI FILMLER",Son Sefer (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153564.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pdXCiSNwo8RFJemCsDXOYSw2zge.jpg" group-title="Movies | 2025: YERLI FILMLER",Kardeş Takımı 2 (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153557.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDH6QUdvcZxlNK61oWhoq3AuKP0.jpg" group-title="Movies | 2025: YERLI FILMLER",Kutsal Damacana 5: Zombi! (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153109.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ntfIVBxdQ3nCHddMd5egzft5CX6.jpg" group-title="Movies | 2025: YERLI FILMLER",ŞamPİYONlar (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153175.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wu80BCy95v9Z5yfb9LHZz9eaibi.jpg" group-title="Movies | 2025: YERLI FILMLER",Tur Rehberi (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152670.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/byuD4E3Uoj3EoacpdohMonGQxba.jpg" group-title="Movies | 2025: YERLI FILMLER",Kalender Pide (2025)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/150216.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2f1VLaVuWSq6nYELqQhnqiKHKh.jpg" group-title="Movies | 2025: YERLI FILMLER",Başka Bir Sen (2025)
@@ -6207,7 +6399,7 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1709.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | COCUK SERI DIZI",Gupi
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1756.mp4
 
-# --- Movies | COCUK VOD (335) ---
+# --- Movies | COCUK VOD (338) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wJqj6tBEojifQVPEayWBlCU9tNV.jpg" group-title="Movies | COCUK VOD",Wayne ve Lanny Yaramaz Çocuğa Karşı (2011)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/158856.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g5ga2b2HZ2Q04AOaeOF1ort4DIl.jpg" group-title="Movies | COCUK VOD",Prep & Landing: The Snowball Protocol (2025)
@@ -6250,8 +6442,14 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/154358.mkv
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/154346.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aGp9ghdIcw74K2VJ1Godcsb9MQo.jpg" group-title="Movies | COCUK VOD",Dedektif Sun ve Ekibi: Kurtarma Operasyonu (2022)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153470.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2mQtPz6uDdw4CRpSdU5tlGB2MA.jpg" group-title="Movies | COCUK VOD",Batman Ninja vs. Yakuza League (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153462.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vLBlzHIRUGCGGDhguNxTpNtMjRW.jpg" group-title="Movies | COCUK VOD",Looney Tunes: Dünyayı Kurtarma Operasyonu (2024)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153466.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2mQtPz6uDdw4CRpSdU5tlGB2MA.jpg" group-title="Movies | COCUK VOD",Batman Ninja vs Yakuza League 2025
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153434.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tpZdjnoJ6Z3NsSxI6HjAIggrcEv.jpg" group-title="Movies | COCUK VOD",Kayara (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153287.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h6cxDZb5JRzaMZP37AfGPlHfCnm.jpg" group-title="Movies | COCUK VOD",Lulu Is a Rhinoceros (2025)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152531.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88Y4ZHBNx5lpKtqfJ4mFGSx3Ila.jpg" group-title="Movies | COCUK VOD",Köpekbalığı Hikayesi (2004)
@@ -6879,7 +7077,11 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/64219.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/66GUmWpTHgAjyp4aBSXy63PZTiC.jpg" group-title="Movies | COCUK VOD",Nomadland 2021
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/78060.mkv
 
-# --- Movies | DE: ALTE FILME (304) ---
+# --- Movies | DE: ALTE FILME (306) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2wkZu2T3pU0FtOaFcu85u2dYH0R.jpg" group-title="Movies | DE: ALTE FILME",Bring Me Home (2019)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152580.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a569drpkY3RduC4RmHE5TU23JKQ.jpg" group-title="Movies | DE: ALTE FILME",Hakkında Herşeyi Biliyorsunuz (2019)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152505.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYFTHMkFm0hIJuzOzTzhuDgbEK9.jpg" group-title="Movies | DE: ALTE FILME",DE: Iron Sky: The Coming Race (2019)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/158744.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/czynIdEiHjpGhUWMnoax7Q3lMAE.jpg" group-title="Movies | DE: ALTE FILME",DE: The Car: Road to Revenge (2019)
@@ -16921,7 +17123,7 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/138221.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbA3OJWaIL8PKp1IX9ETcZo5trv.jpg" group-title="Movies | SERI FILMLER",Muzede Bir Gece 2006
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/138220.mkv
 
-# --- Movies | SON EKLENEN 300 FILM (387) ---
+# --- Movies | SON EKLENEN 300 FILM (286) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHEoW8hVEmLj6VToyssPNcoYyKI.jpg" group-title="Movies | SON EKLENEN 300 FILM",Tufan (2025)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159371.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qHu9CSmkjgUlwTPFDDphezzg0qi.jpg" group-title="Movies | SON EKLENEN 300 FILM",Hızlı Tren Dehşeti (2025)
@@ -17492,210 +17694,8 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153638.mkv
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153639.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwiMs8Lr6FAjvXEiQzTJyxLqZee.jpg" group-title="Movies | SON EKLENEN 300 FILM",Aşk Sadece Bir An (2025)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153628.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9c9mJJU5KQCr6D2rPLvGrkEMLV.jpg" group-title="Movies | SON EKLENEN 300 FILM",Bir Ömrün Sonbaharı (2025)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153584.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNAb8OTrlhW5eFwlsPUW3CRXCXh.jpg" group-title="Movies | SON EKLENEN 300 FILM",Siz Babama Bakmayın (2025)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153586.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6b6vS9cbIRF1v29HnpakE3QZV4.jpg" group-title="Movies | SON EKLENEN 300 FILM",Acıya Yer Yok (2025)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153587.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHowAaChDjwueySmwVbsjHmpWa.jpg" group-title="Movies | SON EKLENEN 300 FILM",High Rollers (2025)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153588.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5s0GHlUjTU4P8aFimZsQXc7C25D.jpg" group-title="Movies | SON EKLENEN 300 FILM",Amatör (2025)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153589.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3qm8bSNRuJkXdEYtyzSZEhU2RS6.jpg" group-title="Movies | SON EKLENEN 300 FILM",Son Sefer (2025)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153564.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wtar1NytLPRnd8hlwspeRRW5NVm.jpg" group-title="Movies | SON EKLENEN 300 FILM",War of the Worlds: The Attack (2023)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153562.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pdXCiSNwo8RFJemCsDXOYSw2zge.jpg" group-title="Movies | SON EKLENEN 300 FILM",Kardeş Takımı 2 (2025)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153557.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u5iu2SRjXRpcu6gDkCXS1itguyk.jpg" group-title="Movies | SON EKLENEN 300 FILM",Konsey (2024)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153559.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yo9ZE9od7c6qcyNNtMnCjVefVBK.jpg" group-title="Movies | SON EKLENEN 300 FILM",Penguen Dersleri (2025)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153560.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vasnPh69RoUg9oUpzXoErMVDB7.jpg" group-title="Movies | SON EKLENEN 300 FILM",Cellar Door (2024)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153561.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zJUju1MU2TaXvK1iq077zfkuIo.jpg" group-title="Movies | SON EKLENEN 300 FILM",Tuğla (2025)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153556.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u37QB5JBQg0n8kpKbW3wPEXouCC.jpg" group-title="Movies | SON EKLENEN 300 FILM",Zombiler 4: Vampirlerin Şafağı (2025)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153550.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/upzsNh9Ue3DmFlGnUlxwXtnEpQc.jpg" group-title="Movies | SON EKLENEN 300 FILM",Ortak Bela (2025)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153551.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwMwRucnAROgWo9WLLmIqzHmmzi.jpg" group-title="Movies | SON EKLENEN 300 FILM",Madea's Destination Wedding (2025)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153552.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZGpn6GTtLFkkJ0LmeHtifL1Jw8.jpg" group-title="Movies | SON EKLENEN 300 FILM",Inheritance (2025)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153553.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r3d6u2n7iPoWNsSWwlJJWrDblOH.jpg" group-title="Movies | SON EKLENEN 300 FILM",Dora and the Search for Sol Dorado (2025)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153554.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ombHyZqE3AMkRlCkgWBZUhw1Atk.jpg" group-title="Movies | SON EKLENEN 300 FILM",Mısır Tarlasındaki Palyaço (2025)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153555.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cBrnDhaZpJfpMwUNosv0vit8gm5.jpg" group-title="Movies | SON EKLENEN 300 FILM",Cenazemize Hoş Geldiniz (2023)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153468.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWEkwq2FgCT3LYUflXqotzTzWfQ.jpg" group-title="Movies | SON EKLENEN 300 FILM",Upon Entry (La llegada) (2023)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153469.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svRfv41gFQDyD5oaIMxehRmuFgF.jpg" group-title="Movies | SON EKLENEN 300 FILM",Son Piyade (2023)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153471.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/crYBmWgznCvCkVZZrELlf4ZU9ao.jpg" group-title="Movies | SON EKLENEN 300 FILM",Ziam (2025)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153459.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJbmNC3OxyYsj0msZEguoVQDdK1.jpg" group-title="Movies | SON EKLENEN 300 FILM",Yunan (2025)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153460.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tvRgDns7bJuIWkEaF6JJMKr8kNA.jpg" group-title="Movies | SON EKLENEN 300 FILM",Günahkârlar (2025)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153461.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2mQtPz6uDdw4CRpSdU5tlGB2MA.jpg" group-title="Movies | SON EKLENEN 300 FILM",Batman Ninja vs. Yakuza League (2025)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153462.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ITwbh3HWbItlpebM0fsabays3g.jpg" group-title="Movies | SON EKLENEN 300 FILM",Son Bir Tatil (2024)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153467.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j736cRzBtEPCm0nHnpRN1prqiqj.jpg" group-title="Movies | SON EKLENEN 300 FILM",The Silent Hour (2024)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153463.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yp2JCSJbMMpLXMy45dM2wtUi8hP.jpg" group-title="Movies | SON EKLENEN 300 FILM",Handling the Undead (2024)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153464.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4WGAE6YLd09lMGbYIUPodxXjnwO.jpg" group-title="Movies | SON EKLENEN 300 FILM",Karabasan (2024)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153465.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2mQtPz6uDdw4CRpSdU5tlGB2MA.jpg" group-title="Movies | SON EKLENEN 300 FILM",Batman Ninja vs Yakuza League 2025
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153434.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kFD1NfeXL282kBG4znp5JXw5zn5.jpg" group-title="Movies | SON EKLENEN 300 FILM",Oyun Bitti (2023)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153288.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2zwexsQINEY2X3XQv6KCzBrvIH.jpg" group-title="Movies | SON EKLENEN 300 FILM",Hard Home (2024)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153289.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/by3EEDIVTdhNJolYK2Msn1RHRFH.jpg" group-title="Movies | SON EKLENEN 300 FILM",Here After (2024)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153290.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/UZ0ydgbXtnrq8xZCI5lHVXVcH9.jpg" group-title="Movies | SON EKLENEN 300 FILM",The Painter (2024)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153291.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z7UvGuQ8pSs0JJP3QYCAIsNzYXI.jpg" group-title="Movies | SON EKLENEN 300 FILM",Millers in Marriage (2024)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153292.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e1TyT5umEoAM2SXQIp7OwNBn7Hv.jpg" group-title="Movies | SON EKLENEN 300 FILM",Sweet Dreams (2024)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153293.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gboq2oB6QNBcW32V0A8uOajTwXU.jpg" group-title="Movies | SON EKLENEN 300 FILM",The Image of You (2024)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153294.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOCcIemu4V0uWIBhrMAmMFKow7s.jpg" group-title="Movies | SON EKLENEN 300 FILM",Dönüş (2024)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153295.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5zHR7jKgBmfz4h8BXJWzNFAcU48.jpg" group-title="Movies | SON EKLENEN 300 FILM",Devlet Başkanları (2025)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153284.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqfu3bPLJaEWJVk3QOm0rKhxf1A.jpg" group-title="Movies | SON EKLENEN 300 FILM",The Old Guard 2 (2025)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153285.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yTTURwDVR7ZZKhGFsH0MlX9LzpK.jpg" group-title="Movies | SON EKLENEN 300 FILM",Yeni Avengers (2025)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153286.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tpZdjnoJ6Z3NsSxI6HjAIggrcEv.jpg" group-title="Movies | SON EKLENEN 300 FILM",Kayara (2025)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153287.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bcVvqlFXS2lZg2lBISGbT98SFPn.jpg" group-title="Movies | SON EKLENEN 300 FILM",Umudunu Kaybetme (2023)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153279.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yTTURwDVR7ZZKhGFsH0MlX9LzpK.jpg" group-title="Movies | SON EKLENEN 300 FILM",Thunderbolts (2025)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153281.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGU4h63pgYQAkdiztpnRjg6Bc9b.jpg" group-title="Movies | SON EKLENEN 300 FILM",Mahşerin Üç Delisi (2024)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153283.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qN4Jxcn46NVTIqZDjyIxNfNgsX6.jpg" group-title="Movies | SON EKLENEN 300 FILM",Vesnan (2023)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153225.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3W4GvofA5coFlptLrGRoa483Dq1.jpg" group-title="Movies | SON EKLENEN 300 FILM",Hükümet Bey (2024)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153278.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ynV0kzAkF4Hx9YVjZjAUl929csd.jpg" group-title="Movies | SON EKLENEN 300 FILM",Inside (2025)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153180.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDH6QUdvcZxlNK61oWhoq3AuKP0.jpg" group-title="Movies | SON EKLENEN 300 FILM",Kutsal Damacana 5: Zombi! (2025)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153109.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z8que077AgET5JyIt28L0Q7TdGP.jpg" group-title="Movies | SON EKLENEN 300 FILM",Kazara Kaçış Sürücüsü (2025)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153120.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ntfIVBxdQ3nCHddMd5egzft5CX6.jpg" group-title="Movies | SON EKLENEN 300 FILM",ŞamPİYONlar (2025)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153175.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vKRtEDfZkbDZoSthGSa1MlqyTv5.jpg" group-title="Movies | SON EKLENEN 300 FILM",Amatör Hayat (2022)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153116.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mIPkV0abPurDQ2tflLAe6DGS8v.jpg" group-title="Movies | SON EKLENEN 300 FILM",Başımız Belada (2019)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153117.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y8SNsw5Df3VdHqGfWx3fRqHm1Xo.jpg" group-title="Movies | SON EKLENEN 300 FILM",İki İyi İki Kötü Beş Adam (2023)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153118.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xo04W0XBJRRERjATgmDm1QsJUTP.jpg" group-title="Movies | SON EKLENEN 300 FILM",Kirpi Sonic 3 2024
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153119.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/goEXIZLy0yhobq3Ufz78ZUDU3c.jpg" group-title="Movies | SON EKLENEN 300 FILM",Hakkı (2024)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153176.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/smW2dDoB1J0LjP6bIYJZBJipqtZ.jpg" group-title="Movies | SON EKLENEN 300 FILM",Mucize Aynalar (2024)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153177.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/PYxoJTZuNx70g5RD5V9nrtgx0o.jpg" group-title="Movies | SON EKLENEN 300 FILM",Aydınlık Hayallerimiz (2024)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153111.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/38BqEPECBnsVLQZ9gU6ctX3SFwJ.jpg" group-title="Movies | SON EKLENEN 300 FILM",Sadık Ahmet (2024)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153112.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zOwERSSssBydVjLT0lcrM1SEFnL.jpg" group-title="Movies | SON EKLENEN 300 FILM",Tezgah (2024)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153113.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHNcBK3OZfgSFCbKCfVoRVc9R47.jpg" group-title="Movies | SON EKLENEN 300 FILM",Reel İstanbul Organize (2024)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153114.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Welq7sox92W9bUoDCyCbSYNNdb.jpg" group-title="Movies | SON EKLENEN 300 FILM",Eyvah Tatil (2023)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152762.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sTdWmwPBB5aPoNAYQ0hz8VeprHB.jpg" group-title="Movies | SON EKLENEN 300 FILM",Süleyman’ın Hikayesi (2024)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152763.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9MbQBPceSWvhxZzE1dmY5OD26mm.jpg" group-title="Movies | SON EKLENEN 300 FILM",Warfare (2025)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152764.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jZKK5mFKWbquxhAGMkRJtNYwk0I.jpg" group-title="Movies | SON EKLENEN 300 FILM",Mountainhead (2025)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152765.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wu80BCy95v9Z5yfb9LHZz9eaibi.jpg" group-title="Movies | SON EKLENEN 300 FILM",Tur Rehberi (2025)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152670.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6R6deRS2rXU7xQwmEWW7y5QkU2h.jpg" group-title="Movies | SON EKLENEN 300 FILM",Unidentified (2022)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152647.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIjIEZ8ug2pLGbV2JiKytZyj2NG.jpg" group-title="Movies | SON EKLENEN 300 FILM",Hayat Budur! (2025)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152644.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yUs4Sw9AyTg2sA1qWBkNpD2mGSj.jpg" group-title="Movies | SON EKLENEN 300 FILM",My Old Ass (2024)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152645.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/16s73RuRmmTtsjCuSh4fr03s1y5.jpg" group-title="Movies | SON EKLENEN 300 FILM",Şeytan Ayini (2024)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152646.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2BvjlOVoYqkJQD49mkD0MHGpxy.jpg" group-title="Movies | SON EKLENEN 300 FILM",Karantina (2025)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152643.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chT0i2JLOdFzmTB1k47HyyHIUff.jpg" group-title="Movies | SON EKLENEN 300 FILM",Gizli Görev (2025)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152641.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vkQuM3wtUM2Me2mZInSN6Cbu9rX.jpg" group-title="Movies | SON EKLENEN 300 FILM",Oda
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152633.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w2HHTJxNcOzri7A0MPSAiIj6HvG.jpg" group-title="Movies | SON EKLENEN 300 FILM",Hesaplaşma 2 (2025)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152623.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTbQg4zQ0eGXlKl8imLu64LLJQX.jpg" group-title="Movies | SON EKLENEN 300 FILM",Nakavt (2025)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152624.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t3cmnXYtxJb9vVL1ThvT2CWSe1n.jpg" group-title="Movies | SON EKLENEN 300 FILM",Son Damla (2025)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152625.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95KmR0xNuZZ6DNESDwLKWGIBvMg.jpg" group-title="Movies | SON EKLENEN 300 FILM",The Alto Knights (2025)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152626.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lbimIPTVsSlnmqSW5ngEsUxtHLM.jpg" group-title="Movies | SON EKLENEN 300 FILM",Predator: Killer of Killers (2025)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152627.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dUhLlGlXMv5vjNH60Eagj2EkBmK.jpg" group-title="Movies | SON EKLENEN 300 FILM",Öldüm Bittim (2024)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152619.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKctr12TU9GaUhtXFn1RB8OWz2f.jpg" group-title="Movies | SON EKLENEN 300 FILM",Her Şeyin Başı Merkür (2024)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152620.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y8tbZ6MP4kAyGFkgFxjwcj8VHHI.jpg" group-title="Movies | SON EKLENEN 300 FILM",50 km/h (2024)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152621.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hKDR5AYXRTPb751oc7xK2Ay3PH0.jpg" group-title="Movies | SON EKLENEN 300 FILM",Oh, Canada (2024)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152622.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iJw55oTb2MlG4NWjq3sbIFUVU76.jpg" group-title="Movies | SON EKLENEN 300 FILM",Showing Up (2023)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152618.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1BDCUyliBFztah5f6GBKPupqpi.jpg" group-title="Movies | SON EKLENEN 300 FILM",Wheel Of Fortune And Fantasy (2021)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152581.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lktpcVcrDHH3RWCvY2URYuKN0VC.jpg" group-title="Movies | SON EKLENEN 300 FILM",Dating & New York (2021)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152617.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejytKSnrncju4lRLlZzc3e7jq8X.jpg" group-title="Movies | SON EKLENEN 300 FILM",Bir Türk Masalı (2022)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152588.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4eCfOPqoE5ezwQCgVGQszwlxdJh.jpg" group-title="Movies | SON EKLENEN 300 FILM",Ben Tamamen İyiyim (2022)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152576.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vWx3Hi7DZ7VWyjWVf9gySG6Lbq4.jpg" group-title="Movies | SON EKLENEN 300 FILM",Jack Mimoun et les secrets de Val Verde (2022)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152577.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1IqDhi52gO7cQAnDnr6mOXqfKJb.jpg" group-title="Movies | SON EKLENEN 300 FILM",Seven Veils (2025)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152578.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mvjqqklMpHwOxc40rn7dMhGT0Fc.jpg" group-title="Movies | SON EKLENEN 300 FILM",The Flood (2023)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152579.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2wkZu2T3pU0FtOaFcu85u2dYH0R.jpg" group-title="Movies | SON EKLENEN 300 FILM",Bring Me Home (2019)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152580.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/35SJ2ieqgFsRUTvdsqRTZE6iZyO.jpg" group-title="Movies | SON EKLENEN 300 FILM",Söylenti (2024)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152572.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvxz6rgNT2SA1F2CRZ19pXdGXbQ.jpg" group-title="Movies | SON EKLENEN 300 FILM",Kara Dul Maje (2025)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152528.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2xPrbk7C4I3YQofZ7mAYS9OYVFd.jpg" group-title="Movies | SON EKLENEN 300 FILM",Mezuniyet Gezisi: Mallorca (2025)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152529.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bv9xQJjtX71oUVIUqNmZ9Qnnmxi.jpg" group-title="Movies | SON EKLENEN 300 FILM",Bir Yıldız Kadar Uzak (2025)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152530.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5XgEqq8KJVW0R0NhDZCdBV2Pjr0.jpg" group-title="Movies | SON EKLENEN 300 FILM",Kalp Bilir (2025)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152532.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/84YOsylmgr181BHrTKlmaKs8IzV.jpg" group-title="Movies | SON EKLENEN 300 FILM",Night of the Hunted (2023)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152503.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bKlHnZpusNbhIfNKLlYRClposDu.jpg" group-title="Movies | SON EKLENEN 300 FILM",Şeytanın İni (2021)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152504.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a569drpkY3RduC4RmHE5TU23JKQ.jpg" group-title="Movies | SON EKLENEN 300 FILM",Hakkında Herşeyi Biliyorsunuz (2019)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152505.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wzIyzllxcolB08ycp8qG895gf4f.jpg" group-title="Movies | SON EKLENEN 300 FILM",Daha İyi Bir Yarın (2024)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152506.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/91aCzYUPoy8HEpeSD0erw6whgLm.jpg" group-title="Movies | SON EKLENEN 300 FILM",Hemme’nin Öldüğü Günlerden Biri (2024)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152507.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w0T5f0Vzi3bgfR3cGCWtad713GW.jpg" group-title="Movies | SON EKLENEN 300 FILM",Horoz Dövüşü (2022)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152508.mkv
 
 # --- Movies | STAND UP (12) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zkuO0SvdNTyIQIbFWBgIxkOj2Y4.jpg" group-title="Movies | STAND UP",Ali Congun - Aşk Acısı (2025)

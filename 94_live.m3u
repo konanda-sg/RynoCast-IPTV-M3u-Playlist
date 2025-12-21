@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 94.156.174.85:25461
-# Generated: 2025-12-21 07:13:52
+# Generated: 2025-12-21 18:28:42
 # Expires: 2026-10-14
 # Family Safe Edition
 # ==============================================
@@ -931,7 +931,7 @@ http://94.156.174.85:25461/live/Jean.Demarcellis/dmx662fg78/88194.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Espagne",ES.EXTREMADURA TV
 http://94.156.174.85:25461/live/Jean.Demarcellis/dmx662fg78/88195.m3u8
 
-# --- France (124) ---
+# --- France (125) ---
 #EXTINF:-1 tvg-logo="http://myiptvserver.com/images/TF1_HD.jpg" group-title="France",FR | TF1 HD Local
 http://94.156.174.85:25461/live/Jean.Demarcellis/dmx662fg78/57979.m3u8
 #EXTINF:-1 tvg-logo="http://myiptvserver.com/images/TF1_HD.jpg" group-title="France",FR | TF1 HD
@@ -1110,6 +1110,8 @@ http://94.156.174.85:25461/live/Jean.Demarcellis/dmx662fg78/268.m3u8
 http://94.156.174.85:25461/live/Jean.Demarcellis/dmx662fg78/70831.m3u8
 #EXTINF:-1 tvg-logo="http://myiptvserver.com/images/beinmax6.jpg" group-title="France",FR | BeIN Sports MAX 6
 http://94.156.174.85:25461/live/Jean.Demarcellis/dmx662fg78/270.m3u8
+#EXTINF:-1 tvg-logo="http://myiptvserver.com/images/beinmax7.jpg" group-title="France",FR | BeIN Sports MAX 7
+http://94.156.174.85:25461/live/Jean.Demarcellis/dmx662fg78/89527.m3u8
 #EXTINF:-1 tvg-logo="http://myiptvserver.com/images/beinmax8.jpg" group-title="France",FR | BeIN Sports MAX 8 HD
 http://94.156.174.85:25461/live/Jean.Demarcellis/dmx662fg78/272.m3u8
 #EXTINF:-1 tvg-logo="http://myiptvserver.com/images/beinmax9.jpg" group-title="France",FR | BeIN Sports MAX 9 HD
@@ -2051,4 +2053,4 @@ http://94.156.174.85:25461/live/Jean.Demarcellis/dmx662fg78/66657.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PRh8iCp.png" group-title="World",TV 4 Svensk Politik
 http://94.156.174.85:25461/live/Jean.Demarcellis/dmx662fg78/66658.m3u8
 
-# Total: 1010
+# Total: 1011

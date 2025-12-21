@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alblive.org:80
-# Generated: 2025-12-21 07:19:05
+# Generated: 2025-12-21 18:35:09
 # Expires: 2026-01-15
 # Family Safe Edition
 # ==============================================
@@ -2655,7 +2655,7 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/15513.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zkQcHvMc7gVG6OWVotVLDeRkrRl.jpg" group-title="Movies | DE: Disney Kinder",Burrow (2024)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/15711.mkv
 
-# --- Movies | DE: NETFLIX UHD 4K (308) ---
+# --- Movies | DE: NETFLIX UHD 4K (314) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nLTs9SNBuk3DuB8D0p3mSsPYN7J.jpg" group-title="Movies | DE: NETFLIX UHD 4K",Fall for Me (2025)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/15529.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ubP2OsF3GlfqYPvXyLw9d78djGX.jpg" group-title="Movies | DE: NETFLIX UHD 4K",Havoc (2025)
@@ -3258,6 +3258,18 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17345.mkv
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17346.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1S21HpcKY6uQ9UAw68aICmrJaq6.jpg" group-title="Movies | DE: NETFLIX UHD 4K",We Can Be Heroes (2020)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17347.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/d0UeupV6kpfDhb5Gx2RclQdxa3W.jpg" group-title="Movies | DE: NETFLIX UHD 4K",Blame the Game (2024)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17348.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oLRQP5cEjiT1DxeIHUYEV96Ijum.jpg" group-title="Movies | DE: NETFLIX UHD 4K",Blood & Gold (2023)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17349.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/d2jU7XWkPjRN0LpakwShBH2FLZo.jpg" group-title="Movies | DE: NETFLIX UHD 4K",Hard Feelings (2023)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17350.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bZ7H0kCwEM6CQ0dyCs2H4RkU130.jpg" group-title="Movies | DE: NETFLIX UHD 4K",Isi & Ossi (2020)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17351.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jojfbnIHGsRpodIood3OQoqA45Y.jpg" group-title="Movies | DE: NETFLIX UHD 4K",Sixty Minutes (2024)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17352.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qBLi3Nd5JMQGMiOmmfuPgLw5SzD.jpg" group-title="Movies | DE: NETFLIX UHD 4K",The Privilege (2022)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17353.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: NETFLIX UHD 4K",DE: Beauty in Black
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/150.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: NETFLIX UHD 4K",DE: Billionaires' Bunker
@@ -6395,7 +6407,7 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17210.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bLY5yN4MKVynZ2HMZWElTOGBgBe.jpg" group-title="Movies | Horror",Until Dawn (2025)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17217.mkv
 
-# --- Movies | ITALIA Disney - Netflix - HBO (82) ---
+# --- Movies | ITALIA Disney - Netflix - HBO (83) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/l0CaVyqnTsWwNd4hWsrLNEk1Wjd.jpg" group-title="Movies | ITALIA Disney - Netflix - HBO",A Family Affair (2024)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17232.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rYUsZd0V3I7ub21vf0f4DRzP1n0.jpg" group-title="Movies | ITALIA Disney - Netflix - HBO",A Perfect Pairing (2022)
@@ -6560,6 +6572,8 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17322.mkv
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17323.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ucBJrWKCJ1naTylSFN8jpaEqwwe.jpg" group-title="Movies | ITALIA Disney - Netflix - HBO",Le Divorce (2003)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17324.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg" group-title="Movies | ITALIA Disney - Netflix - HBO",Home Alone 2: Lost in New York (1992)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17354.mkv
 
 # --- Movies | Kinemaja Shqiptare (220) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2S4epgBehyiSlRqqnYrCIyCGcyM.jpg" group-title="Movies | Kinemaja Shqiptare",8 Persona Plus (1998)
@@ -10587,4 +10601,4 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/16122.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Western",The English
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/100.mp4
 
-# Total: 5260
+# Total: 5267

@@ -1,8 +1,8 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: ust.lat:80
-# Generated: 2025-12-20 18:25:45
-# Expires: 2025-12-21
+# Generated: 2025-12-21 18:35:28
+# Expires: 2025-12-23
 # Family Safe Edition
 # ==============================================
 
@@ -1052,13 +1052,13 @@ http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/6546.m3u8
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/100517.m3u8
 
 # --- DISNEY+ (30) ---
-#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Disney 01
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019afa3b-1078-7c13-8745-8245f02aefb0/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="DISNEY+",FC Utrecht x PSV
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/346368.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Disney 02
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019b0490-e601-7b22-b194-2e76d266ccc9/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="DISNEY+",Cagliari x Pisa
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/346369.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Disney 03
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/2ba9f40e-b243-4737-9cff-a1f9774ac58d/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="DISNEY+",Audi FIS Ski World Cup - Alta Badia, ITA (Giant Slalom)
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/346370.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Disney 04
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/2ba9f40e-b243-4737-9cff-a1f9774ac58d/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="DISNEY+",FIS Ski World Cup: Etapa de Alta Badia (ITA): Giant Slalom
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/346371.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Disney 05
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/346372.m3u8
@@ -2735,74 +2735,78 @@ http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/100488.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4k.store/logos/zoomoo.png" group-title="INFANTIS",Zoomoo SD
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/100489.m3u8
 
-# --- JOGOS DO DIA (58) ---
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Newcastle United x Chelsea - 09:30 FHD
+# --- JOGOS DO DIA (60) ---
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Cagliari x Pisa - 08:30 FHD
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/355630.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Newcastle United x Chelsea - 09:30 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Cagliari x Pisa - 08:30 HD
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/355631.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Real Oviedo x Celta Vigo - 10:00 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Girona FC x Atlético Madrid - 10:00 FHD
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/355632.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Real Oviedo x Celta Vigo - 10:00 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Girona FC x Atlético Madrid - 10:00 HD
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/355633.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Southampton x Coventry - 09:30 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Feyenoord x FC Twente - 10:30 FHD
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/355634.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Southampton x Coventry - 09:30 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Feyenoord x FC Twente - 10:30 HD
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/355635.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Eyupspor x Fenerbahce - 11:00 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Sassuolo x Torino - 11:00 FHD
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/355636.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Eyupspor x Fenerbahce - 11:00 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Sassuolo x Torino - 11:00 HD
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/355637.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Manchester City x West Ham United - 12:00 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Villarreal x Barcelona - 12:15 FHD
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/355638.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Manchester City x West Ham United - 12:00 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Villarreal x Barcelona - 12:15 HD
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/355639.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Wolverhampton x Brentford - 12:00 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Aston Villa x Manchester United - 13:30 FHD
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/355640.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Wolverhampton x Brentford - 12:00 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Aston Villa x Manchester United - 13:30 HD
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/355641.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Brighton & Hove Albion x Sunderland - 12:00 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",1. FC Heidenheim x FC Bayern München - 13:30 FHD
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/355642.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Brighton & Hove Albion x Sunderland - 12:00 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",1. FC Heidenheim x FC Bayern München - 13:30 HD
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/355643.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Bournemouth x Burnley - 12:00 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Fiorentina x Udinese - 14:00 FHD
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/355644.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Bournemouth x Burnley - 12:00 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Fiorentina x Udinese - 14:00 HD
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/355645.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Levante UD x Real Sociedad - 12:15 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Elche x Rayo Vallecano - 14:30 FHD
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/355646.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Levante UD x Real Sociedad - 12:15 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Elche x Rayo Vallecano - 14:30 HD
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/355647.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Lazio x Cremonese - 14:00 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Marrocos x Cmaroes - 16:00 FHD
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/355648.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Lazio x Cremonese - 14:00 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Marrocos x Cmaroes - 16:00 HD
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/355649.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Osasuna x Deportivo Alavés - 14:30 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Genoa x Atalanta - 16:45 FHD
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/355650.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Osasuna x Deportivo Alavés - 14:30 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Genoa x Atalanta - 16:45 HD
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/355651.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",RB Leipzig x Bayer 04 Leverkusen - 14:30 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Real Betis x Getafe - 17:00 FHD
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/355652.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",RB Leipzig x Bayer 04 Leverkusen - 14:30 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Real Betis x Getafe - 17:00 HD
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/355653.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Juventus x Roma - 16:45 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Vasco da Gama x Corinthians - 18:00 FHD
+http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/355654.m3u8
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Vasco da Gama x Corinthians - 18:00 HD
+http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/355655.m3u8
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Vasco da Gama x Corinthians - 18:00 FHD²
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/355656.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Juventus x Roma - 16:45 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Vasco da Gama x Corinthians - 18:00 HD²
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/355657.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Real Madrid x Sevilla - 17:00 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/355658.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Real Madrid x Sevilla - 17:00 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/355659.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Leeds United x Crystal Palace - 17:00 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/355660.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Leeds United x Crystal Palace - 17:00 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/355661.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Everton x Arsenal - 17:00 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/355662.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Everton x Arsenal - 17:00 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/355663.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",CF Estrela Amadora x Moreirense - 17:30 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/355664.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",CF Estrela Amadora x Moreirense - 17:30 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/355665.m3u8
 #EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/355666.m3u8
@@ -4381,4 +4385,4 @@ http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/155608.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4k.store/logos/YOUTUBE-24HS.png" group-title="YOUTUBE 24 HORAS",Partoba
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/155606.m3u8
 
-# Total: 2143
+# Total: 2145

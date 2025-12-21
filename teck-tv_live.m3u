@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: teck-tv.com
-# Generated: 2025-12-21 07:09:29
+# Generated: 2025-12-21 18:29:49
 # Expires: 2026-07-14
 # Family Safe Edition
 # ==============================================
@@ -4521,7 +4521,7 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1119286.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+ & SN+",CA - TSN+ 100 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119287.m3u8
 
-# --- AM | CARIBBIEAN (318) ---
+# --- AM | CARIBBIEAN (319) ---
 #EXTINF:-1 tvg-logo=" https://go4.pw/AMERICA/CARIBBIEAN/CARIBBEAN.png" group-title="AM | CARIBBIEAN",##### CARIBBEAN #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/73567.m3u8
 #EXTINF:-1 tvg-logo=" https://go4.pw/AMERICA/CARIBBIEAN/CARIBBEAN.png" group-title="AM | CARIBBIEAN",#### CAR - GENERAL ####
@@ -4634,6 +4634,14 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/110300.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1053613.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/CARIBBIEAN/mtm-tv.png" group-title="AM | CARIBBIEAN",CAR - MTM TV SD
 http://teck-tv.com/live/2605201443100597/C655BF416768/110260.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/CARIBBIEAN/carr.png" group-title="AM | CARIBBIEAN",CAR - TV CARIB (ST MAARTIN) BARBAOS
+http://teck-tv.com/live/2605201443100597/C655BF416768/1310908.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/CARIBBIEAN/GUYANATV.png" group-title="AM | CARIBBIEAN",CAR - GUYANA TV FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1134034.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/AMC.png" group-title="AM | CARIBBIEAN",CAR - AMC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1017493.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AM | CARIBBIEAN",CAR - M&E TV
+http://teck-tv.com/live/2605201443100597/C655BF416768/1323268.m3u8
 #EXTINF:-1 tvg-logo=" https://go4.pw/AMERICA/CARIBBIEAN/CARIBBEAN.png" group-title="AM | CARIBBIEAN",#### CAR - NEWS ####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1185125.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/CARIBBIEAN/_FOXBUSINESS.png" group-title="AM | CARIBBIEAN",CAR - FOX BUSINESS HD
@@ -5038,52 +5046,22 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/575625.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/575628.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/CARIBBIEAN/Telemax.png" group-title="AM | CARIBBIEAN",DOMINICAN - TELEMAX HD
 http://teck-tv.com/live/2605201443100597/C655BF416768/575630.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AM | CARIBBIEAN",DOMINICAN - ANTENA LATINA
+http://teck-tv.com/live/2605201443100597/C655BF416768/1356830.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/LATINO/DOMINICAN/cropped-logont.png" group-title="AM | CARIBBIEAN",DOMINICAN - TRA 45 TV SD
 http://teck-tv.com/live/2605201443100597/C655BF416768/271699.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/LATINO/DOMINICAN/Orbitlogo.png" group-title="AM | CARIBBIEAN",DOMINICAN - ORBIT TV SD
 http://teck-tv.com/live/2605201443100597/C655BF416768/271698.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/LATINO/CERTV.png" group-title="AM | CARIBBIEAN",DOMINICAN - CERTV SD
 http://teck-tv.com/live/2605201443100597/C655BF416768/143976.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AM | CARIBBIEAN",##### Trinidado & Tobago #####
-http://teck-tv.com/live/2605201443100597/C655BF416768/1189279.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/CARIBBIEAN/CNC3_Official_logo.png" group-title="AM | CARIBBIEAN",TT - CNC3 UHD
-http://teck-tv.com/live/2605201443100597/C655BF416768/302485.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/CARIBBIEAN/tv6_logo.png" group-title="AM | CARIBBIEAN",TT - TV6 UHD
-http://teck-tv.com/live/2605201443100597/C655BF416768/302484.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/CARIBBIEAN/tv6_logo.png" group-title="AM | CARIBBIEAN",TT - TV6 FHD
-http://teck-tv.com/live/2605201443100597/C655BF416768/316358.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CARIBBIEAN/_SANKHYA.png" group-title="AM | CARIBBIEAN",TT - SANKHYA TV FHD
-http://teck-tv.com/live/2605201443100597/C655BF416768/302477.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CARIBBIEAN/_cbn (1).png" group-title="AM | CARIBBIEAN",TT - CBN LIVE FHD
-http://teck-tv.com/live/2605201443100597/C655BF416768/316377.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CARIBBIEAN/_TVJSPORTS.png" group-title="AM | CARIBBIEAN",TT - TVJ SPORTS FHD
-http://teck-tv.com/live/2605201443100597/C655BF416768/316367.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/CARIBBIEAN/CNC3_Official_logo.png" group-title="AM | CARIBBIEAN",TT - CNC3 HD
-http://teck-tv.com/live/2605201443100597/C655BF416768/316349.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/CARIBBIEAN/TTT_Official_Logo.png" group-title="AM | CARIBBIEAN",TT - TTT HD
-http://teck-tv.com/live/2605201443100597/C655BF416768/302486.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/CARIBBIEAN/Synergy.png" group-title="AM | CARIBBIEAN",TT - SYNERGY TV HD
-http://teck-tv.com/live/2605201443100597/C655BF416768/302487.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/dd/Zee_TV_2017.svg/revision/latest/scale-to-width-down/200?cb=20191222192526" group-title="AM | CARIBBIEAN",TT - ZEE HD
-http://teck-tv.com/live/2605201443100597/C655BF416768/316374.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIA/b4u-music.png" group-title="AM | CARIBBIEAN",TT - B4U MUSIC HD
-http://teck-tv.com/live/2605201443100597/C655BF416768/316369.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIA/B4YOUMOVIES.png" group-title="AM | CARIBBIEAN",TT - B4U MOVIES (IND) HD
-http://teck-tv.com/live/2605201443100597/C655BF416768/316368.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIA/ZEE-CINEMA.png" group-title="AM | CARIBBIEAN",TT - ZEE CINEMA HD
-http://teck-tv.com/live/2605201443100597/C655BF416768/316373.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/zee_world.png" group-title="AM | CARIBBIEAN",TT - ZEE WORLD HD
-http://teck-tv.com/live/2605201443100597/C655BF416768/316375.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/trinidadradiostations-net/win.png" group-title="AM | CARIBBIEAN",TT - WIN RADIO 101.1 FM
-http://teck-tv.com/live/2605201443100597/C655BF416768/316384.m3u8
-#EXTINF:-1 tvg-logo=" https://go4.pw/CARIBBIEAN/cricket.png" group-title="AM | CARIBBIEAN",TT - 360 TV - Channel 14
-http://teck-tv.com/live/2605201443100597/C655BF416768/1225663.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CARIBBIEAN/_tcv.png" group-title="AM | CARIBBIEAN",CAPEVERDE - TCV CABO HD
-http://teck-tv.com/live/2605201443100597/C655BF416768/73568.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/CARIBBIEAN/TMA.png" group-title="AM | CARIBBIEAN",ANTILLEN - TMA
-http://teck-tv.com/live/2605201443100597/C655BF416768/73569.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CARIBBIEAN/KMT_HD.png" group-title="AM | CARIBBIEAN",MQ ⋆ KMT HD
-http://teck-tv.com/live/2605201443100597/C655BF416768/427704.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AM | CARIBBIEAN",DOMINICAN - ATLANTO TV
+http://teck-tv.com/live/2605201443100597/C655BF416768/1288629.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AM | CARIBBIEAN",DOMINICAN - AME 47
+http://teck-tv.com/live/2605201443100597/C655BF416768/1288630.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AM | CARIBBIEAN",DOMINICAN - AHORA TV
+http://teck-tv.com/live/2605201443100597/C655BF416768/1288631.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AM | CARIBBIEAN",DOMINICAN - AGENDA 56
+http://teck-tv.com/live/2605201443100597/C655BF416768/1288632.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AM | CARIBBIEAN",DOMINICAN - YUNA VISION 10
 http://teck-tv.com/live/2605201443100597/C655BF416768/1288592.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AM | CARIBBIEAN",DOMINICAN - XTREMO PREMIUM
@@ -5142,22 +5120,46 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1288621.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1288622.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AM | CARIBBIEAN",DOMINICAN - BAJO TECHO TV VIP
 http://teck-tv.com/live/2605201443100597/C655BF416768/1288628.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AM | CARIBBIEAN",DOMINICAN - ATLANTO TV
-http://teck-tv.com/live/2605201443100597/C655BF416768/1288629.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AM | CARIBBIEAN",DOMINICAN - AME 47
-http://teck-tv.com/live/2605201443100597/C655BF416768/1288630.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AM | CARIBBIEAN",DOMINICAN - AHORA TV
-http://teck-tv.com/live/2605201443100597/C655BF416768/1288631.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AM | CARIBBIEAN",DOMINICAN - AGENDA 56
-http://teck-tv.com/live/2605201443100597/C655BF416768/1288632.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CARIBBIEAN/carr.png" group-title="AM | CARIBBIEAN",CAR - TV CARIB (ST MAARTIN) BARBAOS
-http://teck-tv.com/live/2605201443100597/C655BF416768/1310908.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CARIBBIEAN/GUYANATV.png" group-title="AM | CARIBBIEAN",CAR - GUYANA TV FHD
-http://teck-tv.com/live/2605201443100597/C655BF416768/1134034.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/AMC.png" group-title="AM | CARIBBIEAN",CAR - AMC
-http://teck-tv.com/live/2605201443100597/C655BF416768/1017493.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AM | CARIBBIEAN",CAR - M&E TV
-http://teck-tv.com/live/2605201443100597/C655BF416768/1323268.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AM | CARIBBIEAN",##### Trinidado & Tobago #####
+http://teck-tv.com/live/2605201443100597/C655BF416768/1189279.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/CARIBBIEAN/CNC3_Official_logo.png" group-title="AM | CARIBBIEAN",TT - CNC3 UHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/302485.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/CARIBBIEAN/tv6_logo.png" group-title="AM | CARIBBIEAN",TT - TV6 UHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/302484.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/CARIBBIEAN/tv6_logo.png" group-title="AM | CARIBBIEAN",TT - TV6 FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/316358.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/CARIBBIEAN/_SANKHYA.png" group-title="AM | CARIBBIEAN",TT - SANKHYA TV FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/302477.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/CARIBBIEAN/_cbn (1).png" group-title="AM | CARIBBIEAN",TT - CBN LIVE FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/316377.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/CARIBBIEAN/_TVJSPORTS.png" group-title="AM | CARIBBIEAN",TT - TVJ SPORTS FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/316367.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/CARIBBIEAN/CNC3_Official_logo.png" group-title="AM | CARIBBIEAN",TT - CNC3 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/316349.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/CARIBBIEAN/TTT_Official_Logo.png" group-title="AM | CARIBBIEAN",TT - TTT HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/302486.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/CARIBBIEAN/Synergy.png" group-title="AM | CARIBBIEAN",TT - SYNERGY TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/302487.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/dd/Zee_TV_2017.svg/revision/latest/scale-to-width-down/200?cb=20191222192526" group-title="AM | CARIBBIEAN",TT - ZEE HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/316374.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIA/b4u-music.png" group-title="AM | CARIBBIEAN",TT - B4U MUSIC HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/316369.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIA/B4YOUMOVIES.png" group-title="AM | CARIBBIEAN",TT - B4U MOVIES (IND) HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/316368.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIA/ZEE-CINEMA.png" group-title="AM | CARIBBIEAN",TT - ZEE CINEMA HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/316373.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/zee_world.png" group-title="AM | CARIBBIEAN",TT - ZEE WORLD HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/316375.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/trinidadradiostations-net/win.png" group-title="AM | CARIBBIEAN",TT - WIN RADIO 101.1 FM
+http://teck-tv.com/live/2605201443100597/C655BF416768/316384.m3u8
+#EXTINF:-1 tvg-logo=" https://go4.pw/CARIBBIEAN/cricket.png" group-title="AM | CARIBBIEAN",TT - 360 TV - Channel 14
+http://teck-tv.com/live/2605201443100597/C655BF416768/1225663.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/CARIBBIEAN/_tcv.png" group-title="AM | CARIBBIEAN",CAPEVERDE - TCV CABO HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/73568.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/CARIBBIEAN/TMA.png" group-title="AM | CARIBBIEAN",ANTILLEN - TMA
+http://teck-tv.com/live/2605201443100597/C655BF416768/73569.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/CARIBBIEAN/KMT_HD.png" group-title="AM | CARIBBIEAN",MQ ⋆ KMT HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/427704.m3u8
 
 # --- AM | CA | NHL PPV (15) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/CANADA/Canada_flag.png" group-title="AM | CA | NHL PPV",##### NHL PPV #####
@@ -14876,9 +14878,9 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/71984.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1009486.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/nfl.png" group-title="AM | USA | NFL",US - NFL GAME 01 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/79450.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/nfl.png" group-title="AM | USA | NFL",US - NFL GAME 02 : EAGLES @ COMMANDERS – 5:00 PM ET / 10:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/nfl.png" group-title="AM | USA | NFL",US - NFL GAME 02 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/79451.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/nfl.png" group-title="AM | USA | NFL",US - NFL GAME 03 : PACKERS @ BEARS – 8:20 PM ET / 1:20 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/nfl.png" group-title="AM | USA | NFL",US - NFL GAME 03 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/79452.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/nfl.png" group-title="AM | USA | NFL",US - NFL GAME 04 : BILLS @ BROWNS – 1:00 PM ET / 6:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/79453.m3u8
@@ -26392,7 +26394,7 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1287084.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1095960.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/canmorocco.png" group-title="VIP | AFCON MOROCCO 2025",AR - MOROCCO VS COMOROS - 21 DEC 20:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1095953.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/canmorocco.png" group-title="VIP | AFCON MOROCCO 2025",AR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/canmorocco.png" group-title="VIP | AFCON MOROCCO 2025",AR - MOROCCO VS COMOROS - 21 DEC 20:00 CET [BK]
 http://teck-tv.com/live/2605201443100597/C655BF416768/1095952.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/canmorocco.png" group-title="VIP | AFCON MOROCCO 2025",AR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1095951.m3u8
@@ -26880,11 +26882,11 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1001755.m3u8
 # --- VIP | LIGA PORTUGAL BETCLIC (10) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/PORTUGAL.png" group-title="VIP | LIGA PORTUGAL BETCLIC",#### PORTUGAL ####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1032044.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - GIL VICENTE VS RIO AVE 19:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - AVS VS NACIONAL 16:30 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100839.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - ESTRELA VS MOREIRENSE 21:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - TONDELA VS CASA PIA 19:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100840.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - SANTA CLARA VS AROUCA 21:30 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100841.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1127869.m3u8
@@ -27113,22 +27115,24 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1125008.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/stin-cou.png" group-title="VIP | MUSIC CONCERTS",VIP - STINGRAY COUNTRY CLASSICS
 http://teck-tv.com/live/2605201443100597/C655BF416768/1291998.m3u8
 
-# --- VIP | PREMIER LEAGUE (38) ---
+# --- VIP | PREMIER LEAGUE (42) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="VIP | PREMIER LEAGUE",##### ENGLISH #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1020754.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - NEWCASTLE UNITED VS CHELSEA 13:30 CET - 20 DEC
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - ASTON VILLA VS MANCHESTER UNITED 17:30 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100811.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - BRIGHTON & HOVE ALBION VS SUNDERLAND 16:00 CET - 20 DEC
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100810.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - MANCHESTER CITY VS WEST HAM UNITED 16:00 CET - 20 DEC
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1015554.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - WOLVERHAMPTON WANDERERS VS BRENTFORD 16:00 CET - 20 DEC
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1015553.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - AFC BOURNEMOUTH VS BURNLEY 16:00 CET - 20 DEC
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1015552.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - LEEDS UNITED VS CRYSTAL PALACE 21:00 CET - 20 DEC
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - NO MATCH
+http://teck-tv.com/live/2605201443100597/C655BF416768/1015551.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1015550.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - EVERTON VS ARSENAL 21:00 CET - 20 DEC
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1015549.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1015548.m3u8
@@ -27136,19 +27140,21 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1015548.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1015547.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/flag_france.png" group-title="VIP | PREMIER LEAGUE",##### FRENCH #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1020753.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - NEWCASTLE UNITED VS CHELSEA 13:30 CET - 20 DEC
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - ASTON VILLA VS MANCHESTER UNITED 17:30 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100813.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - BRIGHTON & HOVE ALBION VS SUNDERLAND 16:00 CET - 20 DEC
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100812.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - MANCHESTER CITY VS WEST HAM UNITED 16:00 CET - 20 DEC
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1015546.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - WOLVERHAMPTON WANDERERS VS BRENTFORD 16:00 CET - 20 DEC
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1015545.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - AFC BOURNEMOUTH VS BURNLEY 16:00 CET - 20 DEC
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1015544.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - LEEDS UNITED VS CRYSTAL PALACE 21:00 CET - 20 DEC
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - NO MATCH
+http://teck-tv.com/live/2605201443100597/C655BF416768/1015543.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1015542.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - EVERTON VS ARSENAL 21:00 CET - 20 DEC
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1015541.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1015539.m3u8
@@ -27156,19 +27162,21 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1015539.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1015540.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="VIP | PREMIER LEAGUE",##### ARABIC #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1020752.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - NEWCASTLE UNITED VS CHELSEA 13:30 CET - 20 DEC
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - ASTON VILLA VS MANCHESTER UNITED 17:30 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100815.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - BRIGHTON & HOVE ALBION VS SUNDERLAND 16:00 CET - 20 DEC
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100814.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - MANCHESTER CITY VS WEST HAM UNITED 16:00 CET - 20 DEC
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1015562.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - WOLVERHAMPTON WANDERERS VS BRENTFORD 16:00 CET - 20 DEC
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1015561.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - AFC BOURNEMOUTH VS BURNLEY 16:00 CET - 20 DEC
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1015560.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - LEEDS UNITED VS CRYSTAL PALACE 21:00 CET - 20 DEC
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - NO MATCH
+http://teck-tv.com/live/2605201443100597/C655BF416768/1015559.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1015558.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - EVERTON VS ARSENAL 21:00 CET - 20 DEC
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1015557.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1015555.m3u8
@@ -27176,31 +27184,33 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1015555.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1015556.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/ALBANIA.png" group-title="VIP | PREMIER LEAGUE",##### ALBANIAN #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1024114.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - NEWCASTLE UNITED VS CHELSEA 13:30 CET - 20 DEC
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - ASTON VILLA VS MANCHESTER UNITED 17:30 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1225673.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - BRIGHTON & HOVE ALBION VS SUNDERLAND 16:00 CET - 20 DEC
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1182487.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - MANCHESTER CITY VS WEST HAM UNITED 16:00 CET - 20 DEC
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1039828.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - WOLVERHAMPTON WANDERERS VS BRENTFORD 16:00 CET - 20 DEC
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1039819.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - AFC BOURNEMOUTH VS BURNLEY 16:00 CET - 20 DEC
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1024335.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - LEEDS UNITED VS CRYSTAL PALACE 21:00 CET - 20 DEC
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - NO MATCH
+http://teck-tv.com/live/2605201443100597/C655BF416768/1024118.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1024115.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - EVERTON VS ARSENAL 21:00 CET - 20 DEC
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1024113.m3u8
 
 # --- VIP | SERIE A (27) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/ITALY.png" group-title="VIP | SERIE A",##### ITALY #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018093.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - LAZIO VS CREMONESE 18:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - CAGLIARI VS PISA 12:30 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100791.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - JUVENTUS VS ROMA 20:45 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - SASSUOLO VS TORINO 15:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100790.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - FIORENTINA VS UDINESE 18:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1033757.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - GENOA VS ATALANTA 20:45 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1033756.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018106.m3u8
@@ -27214,13 +27224,13 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1018102.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018103.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="VIP | SERIE A",##### ENGLISH #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1001778.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - LAZIO VS CREMONESE 18:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - CAGLIARI VS PISA 12:30 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100792.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - JUVENTUS VS ROMA 20:45 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - SASSUOLO VS TORINO 15:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1028898.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - FIORENTINA VS UDINESE 18:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1028731.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - GENOA VS ATALANTA 20:45 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1028730.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018098.m3u8
@@ -27234,13 +27244,13 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1018094.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018095.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="VIP | SERIE A",##### ARABIC #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1001752.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - LAZIO VS CREMONESE 18:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - CAGLIARI VS PISA 12:30 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018113.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - JUVENTUS VS ROMA 20:45 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - SASSUOLO VS TORINO 15:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018112.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - FIORENTINA VS UDINESE 18:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018111.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - GENOA VS ATALANTA 20:45 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018110.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018109.m3u8
@@ -27523,4 +27533,4 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/363875.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",ES - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/682940.m3u8
 
-# Total: 13609
+# Total: 13614

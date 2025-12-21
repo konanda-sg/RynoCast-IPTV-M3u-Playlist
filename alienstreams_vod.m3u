@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alienstreams.fi:8080
-# Generated: 2025-12-21 07:08:05
+# Generated: 2025-12-21 18:25:34
 # Expires: 2026-04-03
 # Family Safe Edition
 # ==============================================
@@ -43,7 +43,7 @@ http://alienstreams.fi:8080/movie/karekare/karekare/382977.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iPPTGh2OXuIv6d7cwuoPkw8govp.jpg" group-title="Movies | 4K [VOD]",A Minecraft Movie
 http://alienstreams.fi:8080/movie/karekare/karekare/398367.mkv
 
-# --- Movies | Action [VOD] (938) ---
+# --- Movies | Action [VOD] (937) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Nl6GQZCjr2Ln5gkYzFXRIvWEdH.jpg" group-title="Movies | Action [VOD]",Doom
 http://alienstreams.fi:8080/movie/karekare/karekare/328061.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hdBUjfbdr1ymS0kycAT7qguOmWA.jpg" group-title="Movies | Action [VOD]",One Fast Move
@@ -266,8 +266,6 @@ http://alienstreams.fi:8080/movie/karekare/karekare/335526.mkv
 http://alienstreams.fi:8080/movie/karekare/karekare/335576.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnopI5Xtky18MPhK40cZAGAOVeV.jpg" group-title="Movies | Action [VOD]",Shazam!
 http://alienstreams.fi:8080/movie/karekare/karekare/335538.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PCnxKZZIVRanWb710pNpYVkCSw.jpg" group-title="Movies | Action [VOD]",The Killer
-http://alienstreams.fi:8080/movie/karekare/karekare/335578.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmnQ9jKW72bHu8uKlMjPIb2VLMI.jpg" group-title="Movies | Action [VOD]",Baby Driver
 http://alienstreams.fi:8080/movie/karekare/karekare/335628.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6yx14lSACNJ2zRoYyXqecf3QNgr.jpg" group-title="Movies | Action [VOD]",Overhaul
@@ -4400,10 +4398,10 @@ http://alienstreams.fi:8080/movie/karekare/karekare/403119.mkv
 http://alienstreams.fi:8080/movie/karekare/karekare/443540.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/h8PafIg6XlvgR9NO6njX8i3PkqT.jpg" group-title="Movies | Comedy [VOD]",Demetri Martin: The Overthinker (2018)
 http://alienstreams.fi:8080/movie/karekare/karekare/443538.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/n8V61f1v7idya4WJzGEJNoIp9iL.jpg" group-title="Movies | Comedy [VOD]",Austin Powers in Goldmember (2002)
-http://alienstreams.fi:8080/movie/karekare/karekare/443523.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/hQKM2cefRD80N21NMFeztk3PnAk.jpg" group-title="Movies | Comedy [VOD]",The Sheriff and the Satellite Kid
 http://alienstreams.fi:8080/movie/karekare/karekare/443522.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/n8V61f1v7idya4WJzGEJNoIp9iL.jpg" group-title="Movies | Comedy [VOD]",Austin Powers in Goldmember (2002)
+http://alienstreams.fi:8080/movie/karekare/karekare/443523.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/14TmEac4bquNaEld9t0uIliYoKE.jpg" group-title="Movies | Comedy [VOD]",Half Baked (1998)
 http://alienstreams.fi:8080/movie/karekare/karekare/443517.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/pjKvQrVpekshVM6DUDOt3ImhAVH.jpg" group-title="Movies | Comedy [VOD]",Ali G Indahouse (2002)
@@ -4893,7 +4891,7 @@ http://alienstreams.fi:8080/movie/karekare/karekare/490890.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/h6DGrDHlDm6gVOiy3YeOb737jB4.jpg" group-title="Movies | Comedy [VOD]",Spinal Tap II: The End Continues (2025)
 http://alienstreams.fi:8080/movie/karekare/karekare/490892.mkv
 
-# --- Movies | Crime [VOD] (241) ---
+# --- Movies | Crime [VOD] (242) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6A4WdvbWHJoIN4Y9Q5HXG8R1VYV.jpg" group-title="Movies | Crime [VOD]",Crossing Over
 http://alienstreams.fi:8080/movie/karekare/karekare/328057.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pIz9csYn1yjrzQi0BuBZNJrTMi0.jpg" group-title="Movies | Crime [VOD]",The Instigators
@@ -5376,6 +5374,8 @@ http://alienstreams.fi:8080/movie/karekare/karekare/488920.mkv
 http://alienstreams.fi:8080/movie/karekare/karekare/489640.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/pUpFD3Oq1eN5mdF9MDwCwH874P8.jpg" group-title="Movies | Crime [VOD]",Roofman (2025)
 http://alienstreams.fi:8080/movie/karekare/karekare/490709.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/e7Jvsry47JJQruuezjU2X1Z6J77.jpg" group-title="Movies | Crime [VOD]",The Killer (2023)
+http://alienstreams.fi:8080/movie/karekare/karekare/490901.mkv
 
 # --- Movies | Danish [VOD] (14) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b87aRO3TJ47oBMdJs1BlWSrrK71.jpg" group-title="Movies | Danish [VOD]",Ung for evigt
@@ -14514,6 +14514,8 @@ http://alienstreams.fi:8080/series/karekare/karekare/403590
 http://alienstreams.fi:8080/series/karekare/karekare/403839
 
 # --- Series | Documentary [Series] (295) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Knife Edge: Chasing Michelin Stars
+http://alienstreams.fi:8080/series/karekare/karekare/484055
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Taylor Swift | The Eras Tour | The End of an Era
 http://alienstreams.fi:8080/series/karekare/karekare/490244
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Inside the Freemasons
@@ -14528,8 +14530,6 @@ http://alienstreams.fi:8080/series/karekare/karekare/488647
 http://alienstreams.fi:8080/series/karekare/karekare/488624
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Prehistoric Planet
 http://alienstreams.fi:8080/series/karekare/karekare/488542
-#EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Knife Edge: Chasing Michelin Stars
-http://alienstreams.fi:8080/series/karekare/karekare/484055
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Trafficked with Mariana van Zeller
 http://alienstreams.fi:8080/series/karekare/karekare/487593
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Amsterdam Narcos
@@ -17238,10 +17238,10 @@ http://alienstreams.fi:8080/series/karekare/karekare/404027
 http://alienstreams.fi:8080/series/karekare/karekare/404043
 
 # --- Series | Reality [Series] (155) ---
-#EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",Deadliest Catch
-http://alienstreams.fi:8080/series/karekare/karekare/471724
 #EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",Baylen Out Loud
 http://alienstreams.fi:8080/series/karekare/karekare/489006
+#EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",Deadliest Catch
+http://alienstreams.fi:8080/series/karekare/karekare/471724
 #EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",The Kardashians
 http://alienstreams.fi:8080/series/karekare/karekare/488052
 #EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",Simon Cowell: The Next Act
@@ -17832,12 +17832,12 @@ http://alienstreams.fi:8080/series/karekare/karekare/405122
 http://alienstreams.fi:8080/series/karekare/karekare/403526
 
 # --- Series | Svenska Serier [Series] (271) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Tidstjuven
+http://alienstreams.fi:8080/series/karekare/karekare/488952
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Sanningen
 http://alienstreams.fi:8080/series/karekare/karekare/490893
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Körslaget - Tillsammans mot cancer
 http://alienstreams.fi:8080/series/karekare/karekare/490711
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Tidstjuven
-http://alienstreams.fi:8080/series/karekare/karekare/488952
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",På spåret
 http://alienstreams.fi:8080/series/karekare/karekare/489148
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Carina Bergfeldt
