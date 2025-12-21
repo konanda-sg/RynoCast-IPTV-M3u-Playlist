@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nisay.xyz:8080
-# Generated: 2025-12-20 18:31:33
+# Generated: 2025-12-21 07:11:52
 # Expires: 2026-10-04
 # Family Safe Edition
 # ==============================================
@@ -12565,7 +12565,21 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/139884.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5y0hFRhfx34Be04B7GGqg5TMTM0.jpg" group-title="Movies | DE: FILME 2024",DE: City Hunter (2024)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/139885.mp4
 
-# --- Movies | DE: FILME 2025 (356) ---
+# --- Movies | DE: FILME 2025 (363) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iseyProRsPyu3rOCzsXDDnDGrl.jpg" group-title="Movies | DE: FILME 2025",DE: The Cut (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159376.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ZoDrAbrsSLDVjXsyvOlwjJakUK.jpg" group-title="Movies | DE: FILME 2025",DE: Die Stunde der Mutigen (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159377.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5THjBLt4vE9lAnLODqXFf5qEwxa.jpg" group-title="Movies | DE: FILME 2025",DE: Play Dead - Die Todgeweihte (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159378.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/htFISi1tgQNrYP9FWQDvbSK8DI1.jpg" group-title="Movies | DE: FILME 2025",DE: 10DANCE (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159379.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ghE2JeKGbTFUyyjOsYVYldTpRmu.jpg" group-title="Movies | DE: FILME 2025",DE: Die My Love (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159380.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eRV8SaKUP83s2cWqpPVd8DojNau.jpg" group-title="Movies | DE: FILME 2025",DE: The Great Flood (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159381.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8JbuKgQBc8KlXopF1eege54HNQ5.jpg" group-title="Movies | DE: FILME 2025",DE: Preparation for the Next Life (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159382.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nBGVglBvKw3UQqqeXIzxFqoKwe3.jpg" group-title="Movies | DE: FILME 2025",DE: Sisu: Road to Revenge (2025)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159319.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eezvn7uqxuPdY9XHX01TEo8wpQw.jpg" group-title="Movies | DE: FILME 2025",DE: Blindgänger (2025)
@@ -19735,4 +19749,4 @@ http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1503
 #EXTINF:-1 tvg-logo="" group-title="Series | TR ALTYAZI SERIES",Pluribus
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1803
 
-# Total: 9800
+# Total: 9807

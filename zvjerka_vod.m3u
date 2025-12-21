@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: zvjerka.com:2052
-# Generated: 2025-12-20 18:33:16
+# Generated: 2025-12-21 07:14:32
 # Expires: 2026-02-09
 # Family Safe Edition
 # ==============================================
@@ -3083,7 +3083,7 @@ http://zvjerka.com:2052/movie/dzevad25/46436585/32008.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/57ABmlBSeWYaKDGd5kdx8q6575a.jpg" group-title="Movies | Dokumentarni",My Husband, the Cyborg (2025)
 http://zvjerka.com:2052/movie/dzevad25/46436585/32019.mp4
 
-# --- Movies | Domace Serije (58) ---
+# --- Movies | Domace Serije (59) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Domace Serije",Jovanka Broz i tajne sluzbe
 http://zvjerka.com:2052/movie/dzevad25/46436585/2.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Domace Serije",U registraturi
@@ -3200,6 +3200,8 @@ http://zvjerka.com:2052/movie/dzevad25/46436585/298.mp4
 http://zvjerka.com:2052/movie/dzevad25/46436585/311.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Domace Serije",Tajkun
 http://zvjerka.com:2052/movie/dzevad25/46436585/312.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Domace Serije",Tvrdjava
+http://zvjerka.com:2052/movie/dzevad25/46436585/316.mp4
 
 # --- Movies | Domaci (191) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2uOHZiJohe24dfWGxsdQ6MUskZK.jpg" group-title="Movies | Domaci",Drazen (2024)
@@ -14085,4 +14087,4 @@ http://zvjerka.com:2052/movie/dzevad25/46436585/30407.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5fd70jRBVBj5EVlqP9jYB9KvSfK.jpg" group-title="Movies | Western",End of the Rope (2023)
 http://zvjerka.com:2052/movie/dzevad25/46436585/31092.mp4
 
-# Total: 7024
+# Total: 7025

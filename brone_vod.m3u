@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: brone.fyi
-# Generated: 2025-12-20 18:36:10
+# Generated: 2025-12-21 07:17:08
 # Expires: 2026-01-18
 # Family Safe Edition
 # ==============================================
@@ -20031,7 +20031,7 @@ http://brone.fyi/movie/felipe_irma/Teste44/168159.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7PQ0DoAnR5OB2ZzaZrCiQ6dNo8.jpg" group-title="Movies | RELIGIOSO",ÚLTIMOS DIAS NO DESERTO
 http://brone.fyi/movie/felipe_irma/Teste44/49372.mp4
 
-# --- Movies | ROMANCE/DRAMA (2528) ---
+# --- Movies | ROMANCE/DRAMA (2529) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ylwAm72InwqOcr32nwk9hlNz05.jpg" group-title="Movies | ROMANCE/DRAMA",OLA ADEUS E TUDO MAIS
 http://brone.fyi/movie/felipe_irma/Teste44/268978.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yS9WxbISOCzucj7484IohnrBr5b.jpg" group-title="Movies | ROMANCE/DRAMA",10 000 A C
@@ -25088,6 +25088,8 @@ http://brone.fyi/movie/felipe_irma/Teste44/331045.mp4
 http://brone.fyi/movie/felipe_irma/Teste44/331661.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oqtHVggU5n8tBpnBDZKzlfG6X6B.jpg" group-title="Movies | ROMANCE/DRAMA",O SEGREDO DO ABRIGO
 http://brone.fyi/movie/felipe_irma/Teste44/331663.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s4SyRs0ZNIGxxaBqtdqZ8wKkx0G.jpg" group-title="Movies | ROMANCE/DRAMA",TUDO POR DINHEIRO 2005
+http://brone.fyi/movie/felipe_irma/Teste44/331998.mp4
 
 # --- Movies | SHOW & DVD MUSICAL (150) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EWjks3jtaOyYBIEUPlk0qGTewI.jpg" group-title="Movies | SHOW & DVD MUSICAL",ACDC LIVE AT RIVER PLATE
@@ -35565,4 +35567,4 @@ http://brone.fyi/series/felipe_irma/Teste44/3096
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | VIKI ROKUTEN",MERITISSIMO
 http://brone.fyi/series/felipe_irma/Teste44/3777
 
-# Total: 17737
+# Total: 17738

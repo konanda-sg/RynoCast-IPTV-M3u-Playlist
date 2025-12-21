@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: sasyhbk.ddns.net:8000
-# Generated: 2025-12-20 18:23:49
+# Generated: 2025-12-21 07:08:17
 # Expires: 2026-03-11
 # Family Safe Edition
 # ==============================================
@@ -1389,7 +1389,7 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230165.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLZVrCSbItIhEUIZOmKE0GupDCL.jpg" group-title="Movies | Avventura",Il migliore dei mali (2025)
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230166.mp4
 
-# --- Movies | Azione (1408) ---
+# --- Movies | Azione (1410) ---
 #EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/6fc9e868362f31352522fd0ba3606ccd.jpg" group-title="Movies | Azione",12 Rounds (2009)
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/194044.mp4
 #EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/9a35959095028d90f777d41504ce54e9.jpg" group-title="Movies | Azione",American Sicario (2021)
@@ -4204,6 +4204,10 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230162.mp4
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230173.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9qXeC6CUcjwXdLOsloicKHHLD0.jpg" group-title="Movies | Azione",The Running Man (2025)
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230270.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/covyBUdRYoIoY4K5YzDEaxcZZmz.jpg" group-title="Movies | Azione",The Great Flood (2025)
+http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230353.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xjSHm0R9tII8JCWHS1VdbftFk1.jpg" group-title="Movies | Azione",The Twisters (2024)
+http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230354.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eszriCkXOJ2d9obT6PRbksOtFg4.jpg" group-title="Movies | Azione",Greystoke - La leggenda di Tarzan, il signore delle scimmie (1984)
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/83975.mkv
 
@@ -5325,7 +5329,7 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/89438.mkv
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/891631828725367cf18f144772a0cbef.jpg" group-title="Movies | Classici",Zucchero, miele e peperoncino (1980)
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/89359.mkv
 
-# --- Movies | Commedia (2257) ---
+# --- Movies | Commedia (2258) ---
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/loca-Sm.png" group-title="Movies | Commedia",----- COMMEDIA -----
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/54009.mp4
 #EXTINF:-1 tvg-logo="http://service.fullapple.me:80/images/7c2f5e0a3bcb4d6c3a840ef750e3327b.jpg" group-title="Movies | Commedia",(500) giorni insieme (2009)
@@ -9840,6 +9844,8 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230174.mp4
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230268.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mWGjLDqTneJmuSpaAp0JkuO6obe.jpg" group-title="Movies | Commedia",Dead Star
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230300.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jHK4TyBEJ8GOPOInnZCjaMWhKmr.jpg" group-title="Movies | Commedia",Eroi cercasi (2025)
+http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230351.mp4
 
 # --- Movies | Concerti (137) ---
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/410cf889fabc224e145b0c49ea8d1bc1.png" group-title="Movies | Concerti",----- CONCERTI -----
@@ -10443,7 +10449,7 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/226366.mp4
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/407bd74c542ced3d00347be2218b98a2.jpg" group-title="Movies | Disney+",Zootropolis (2016)
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/89586.mkv
 
-# --- Movies | Documentario (370) ---
+# --- Movies | Documentario (371) ---
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/410cf889fabc224e145b0c49ea8d1bc1.png" group-title="Movies | Documentario",------ DOCUMENTARIO ------
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/102284.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/edQkko2wbsbHx3wPmadHCmmmtl5.jpg" group-title="Movies | Documentario",14 vette: scalate ai limiti del possibile (2021)
@@ -11184,6 +11190,8 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230170.mp4
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230266.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmHMH4jGbfDba2Plqceqymrbofm.jpg" group-title="Movies | Documentario",Pietro - Un uomo nel vento (2025)
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230269.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hW93OYJnnHwGaGa4S2mNxlEhgsF.jpg" group-title="Movies | Documentario",Murder in Monaco - Il caso Edmond Safra (2025)
+http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230352.mp4
 
 # --- Movies | Drammatico (2472) ---
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/loca-Sm.png" group-title="Movies | Drammatico",----- DRAMMATICO -----
@@ -37201,4 +37209,4 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/86697.mkv
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/5537d21a012d0e46b9ebddd4a137ef26.jpg" group-title="Movies | Western",… E continuavano a fregarsi il milione di dollari (1971)
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/86638.mkv
 
-# Total: 18550
+# Total: 18554

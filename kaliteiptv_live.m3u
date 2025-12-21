@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: kaliteiptv.live:8080
-# Generated: 2025-12-20 18:28:09
+# Generated: 2025-12-21 07:17:12
 # Expires: 2026-04-09
 # Family Safe Edition
 # ==============================================
@@ -973,7 +973,7 @@ http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/975610.m3u8
 #EXTINF:-1 tvg-logo="https://sender.epglogos.de/256x256/561.png" group-title="DE | FORMEL 1 LIVE",SKY SPORT F1 ALBON
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/975609.m3u8
 
-# --- DE | GERMANY FHD & HD (91) ---
+# --- DE | GERMANY FHD & HD (92) ---
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLmRuaS52b2QuYmJfc2VfaWNvbl8wXzk0ZTVlMWU3/icon.png?w=312&fakeurl=1" group-title="DE | GERMANY FHD & HD",DE | BIG BROTHER 24/7
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1162667.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/0somine.png" group-title="DE | GERMANY FHD & HD",DE | KAMIN
@@ -1016,6 +1016,8 @@ http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/756493.m3u8
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1011570.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/rtlzwei.png" group-title="DE | GERMANY FHD & HD",RTL2 HD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/727004.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/RTL_Logo_ab_dem_1._September_2017.png" group-title="DE | GERMANY FHD & HD",RTL COMEDY HD
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1188643.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/superrtl.png" group-title="DE | GERMANY FHD & HD",SUPER RTL RAW
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1011782.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/superrtl.png" group-title="DE | GERMANY FHD & HD",SUPER RTL FHD
@@ -6069,4 +6071,4 @@ http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/855313.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WO | WORLDSPORT",US | NBA 10
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/855314.m3u8
 
-# Total: 2971
+# Total: 2972

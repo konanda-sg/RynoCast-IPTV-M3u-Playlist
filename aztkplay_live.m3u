@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: aztkplay.pro:8080
-# Generated: 2025-12-20 18:33:39
+# Generated: 2025-12-21 07:13:57
 # Expires: 2026-01-19
 # Family Safe Edition
 # ==============================================
@@ -2072,9 +2072,9 @@ http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/594215.m3u8
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/594216.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/992/38/png-clipart-boxing-logo-boxing-logo-martial-arts-combat-boxing-propaganda-sign-game-text-thumbnail.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",19:00 BOX | JOSE ROSA VS JUAN PABLO ILHARREGUI
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/594217.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EVENTOS DE HOY AND TODAY SPORTS",PENDIENTE 1
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS DE HOY AND TODAY SPORTS",09:00 BOX: Dylan Biggs vs Derek Pormeleau (DIC 20)
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/594218.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EVENTOS DE HOY AND TODAY SPORTS",PENDIENTE 2
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS DE HOY AND TODAY SPORTS",20:00 BOX: Argi Cortes vs Yahir Frank (DIC 20)
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/594219.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EVENTOS DE HOY AND TODAY SPORTS",PENDIENTE 3
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/594220.m3u8
@@ -2577,19 +2577,17 @@ http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/314930.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INTERNATIONAL MIX",Super Radyo DZBB
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/314931.m3u8
 
-# --- India TV (6) ---
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/21b51dfaef0b2ddf2a74e44b62289f40.png" group-title="India TV",Star Plus In
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/594199.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/d12a683a9883989c1528fa718dd63775.png" group-title="India TV",Sony Sab In
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/594200.m3u8
-#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/chimg/4314315925.png" group-title="India TV",Zee Tv In
+# --- India TV (5) ---
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/chimg/4314315925.png" group-title="India TV",Zee Tv Tamil
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/594201.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/57698714035590a5681e1ddf715be5f9.png" group-title="India TV",Colors Rishtey SD In
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/594202.m3u8
 #EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/c3ec0893ded453bcbb0e510b305760a5.png" group-title="India TV",Sun Tv Tamail In
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/594203.m3u8
-#EXTINF:-1 tvg-logo="" group-title="India TV",News18 In
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/594204.m3u8
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/6ad41622e72432413236194188dc81ae.png" group-title="India TV",Star Sports Tamil
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/594358.m3u8
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/87257318221.png" group-title="India TV",Star Sports Tamil 2
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/594359.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/caa7e4145e5997cc3fe36f9c5ba20b31.png" group-title="India TV",News 7 Tamil
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/594360.m3u8
 
 # --- Iran Tv (4) ---
 #EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/10034361231.png" group-title="Iran Tv",Iran International IR
@@ -4217,4 +4215,4 @@ http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/206304.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VIX Plus",Las Estrellas -1 VIX
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/206305.m3u8
 
-# Total: 2040
+# Total: 2039

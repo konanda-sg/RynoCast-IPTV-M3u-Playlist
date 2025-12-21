@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: italians-app.net:8080
-# Generated: 2025-12-20 18:26:00
+# Generated: 2025-12-21 07:18:06
 # Expires: 2026-01-21
 # Family Safe Edition
 # ==============================================
@@ -1847,9 +1847,17 @@ http://italians-app.net:8080/movie/hele/cart@/2034.mkv
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | NAPOLI",Tradimento
 http://italians-app.net:8080/movie/hele/cart@/2046.mkv
 
-# --- Movies | NETFLIX AMAZON AZIONE (1445) ---
+# --- Movies | NETFLIX AMAZON AZIONE (1449) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",==== NETFLIX AZIONE ====
 http://italians-app.net:8080/movie/hele/cart@/62556.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/f29c8dcee99b6b528b148c9ae65d58c1.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Sisu Il vendicatore (2025)
+http://italians-app.net:8080/movie/hele/cart@/86091.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/ed87d126dec972d80a3449ef532a28ed.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",The Great Flood (2025)
+http://italians-app.net:8080/movie/hele/cart@/86092.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/781ea9643185f48570dfc24c909254b3.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Dune (2021)
+http://italians-app.net:8080/movie/hele/cart@/86088.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/48f38069bfe63d6c20e8a19ab3488a58.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Dune - Parte due (2024)
+http://italians-app.net:8080/movie/hele/cart@/86089.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/9a02a6a437b97184b40947792722886b.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",London Calling (2025)
 http://italians-app.net:8080/movie/hele/cart@/86010.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/2624638709dfb2624cdb24718c200256.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Una battaglia dopo l altra (2025)
@@ -8037,9 +8045,11 @@ http://italians-app.net:8080/movie/hele/cart@/18135.mkv
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | NETFLIX AMAZON COMICO",Made in Sud  I Gomorroidi con Salvatore Conte   Made in Sud 12042017
 http://italians-app.net:8080/movie/hele/cart@/18158.mkv
 
-# --- Movies | NETFLIX AMAZON COMMEDIA (963) ---
+# --- Movies | NETFLIX AMAZON COMMEDIA (964) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",====NETFLIX  COMMEDIA====
 http://italians-app.net:8080/movie/hele/cart@/1659.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/34a980b0e5e3389f0c5fed83c6eb8f20.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Eroi cercasi (2025)
+http://italians-app.net:8080/movie/hele/cart@/86090.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/366347ed3615760bd49de0d7fc234147.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",School of Mafia (2021)
 http://italians-app.net:8080/movie/hele/cart@/86038.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/27f7b2df27a22780576a2f09a501bb12.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",A Very Jonas Christmas Movie (2025)
@@ -10065,9 +10075,11 @@ http://italians-app.net:8080/movie/hele/cart@/1613.mkv
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | NETFLIX AMAZON DOCUMENTARI",Zanetti Story
 http://italians-app.net:8080/movie/hele/cart@/1761.mkv
 
-# --- Movies | NETFLIX AMAZON DRAMMATICO (1535) ---
+# --- Movies | NETFLIX AMAZON DRAMMATICO (1536) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",====NETFLIX DRAMMATICO====
 http://italians-app.net:8080/movie/hele/cart@/1662.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/3a476f04b15a891025a217f94ee6755d.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",10DANCE (2025)
+http://italians-app.net:8080/movie/hele/cart@/86087.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/f9080c4b72db590b23f580fc37990cee.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Altri uomini (1997)
 http://italians-app.net:8080/movie/hele/cart@/86033.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/db8ec0e1d12998011197561fa81114ac.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Chi sono io (2025)
@@ -32759,4 +32771,4 @@ http://italians-app.net:8080/movie/hele/cart@/2669.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | SerieTV",Timeless.S01E01 german
 http://italians-app.net:8080/movie/hele/cart@/20654.mkv
 
-# Total: 16348
+# Total: 16354

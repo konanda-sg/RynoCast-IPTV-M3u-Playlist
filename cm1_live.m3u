@@ -1,13 +1,13 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: cm1.portaltv.info:777
-# Generated: 2025-12-20 18:26:38
+# Generated: 2025-12-21 07:11:51
 # Expires: 2026-01-14
 # Family Safe Edition
 # ==============================================
 
 
-# --- Albania (242) ---
+# --- Albania (244) ---
 #EXTINF:-1 tvg-logo="http://acs.infogis.net/logo/RTK1.jpg" group-title="Albania",AL: RTK 1
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/4935.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",AL: RTK 1 HD
@@ -72,6 +72,10 @@ http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/6135.m3u8
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/6136.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",AL: BB VIP Kosova 2 HD
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/6137.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania",AL: BB Vip Albania 1 HD
+http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/6138.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania",AL: BB Vip Albania 2 HD
+http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/6139.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",AL: BB  VIP Albania 1 FHD
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/6142.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",AL: BB VIP Albania 2 FHD
@@ -3429,4 +3433,4 @@ http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/504.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",UK:Discovery Science
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/505.m3u8
 
-# Total: 1686
+# Total: 1688

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 206.212.244.71:8080
-# Generated: 2025-12-20 18:29:22
+# Generated: 2025-12-21 07:16:54
 # Expires: 2025-12-21
 # Family Safe Edition
 # ==============================================
@@ -3385,37 +3385,315 @@ http://206.212.244.71:8080/live/randy1/randy1/17779.m3u8
 #EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US Starz West (S)
 http://206.212.244.71:8080/live/randy1/randy1/21091.m3u8
 
-# --- NBA (15) ---
+# --- NBA (26) ---
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",CA-NBA TV
 http://206.212.244.71:8080/live/randy1/randy1/22995.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",USA: NBA TV
 http://206.212.244.71:8080/live/randy1/randy1/20073.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 01: Miami Heat @ Boston Celtics | Home Stream | 12/19/2025 7:00 PM ET
-http://206.212.244.71:8080/live/randy1/randy1/257789.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 01: Miami Heat vs Boston Celtics @ 07:00 PM EST
-http://206.212.244.71:8080/live/randy1/randy1/257790.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 02: Miami Heat @ Boston Celtics | Away Stream | 12/19/2025 7:00 PM ET
-http://206.212.244.71:8080/live/randy1/randy1/257791.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 02: Philadelphia 76ers vs New York Knicks @ 07:00 PM EST
-http://206.212.244.71:8080/live/randy1/randy1/257792.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 03: Chicago Bulls @ Cleveland Cavaliers | Home Stream | 12/19/2025 7:30 PM ET
-http://206.212.244.71:8080/live/randy1/randy1/257793.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 03: San Antonio Spurs vs Atlanta Hawks @ 07:30 PM EST
-http://206.212.244.71:8080/live/randy1/randy1/257794.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 04: Chicago Bulls @ Cleveland Cavaliers | Away Stream | 12/19/2025 7:30 PM ET
-http://206.212.244.71:8080/live/randy1/randy1/257795.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 04: Chicago Bulls vs Cleveland Cavaliers @ 07:30 PM EST
-http://206.212.244.71:8080/live/randy1/randy1/257796.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 05: San Antonio Spurs @ Atlanta Hawks | Home Stream | 12/19/2025 7:30 PM ET
-http://206.212.244.71:8080/live/randy1/randy1/257797.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 05: Oklahoma City Thunder vs Minnesota Timberwolves @ 09:30 PM EST
-http://206.212.244.71:8080/live/randy1/randy1/257798.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 06: San Antonio Spurs @ Atlanta Hawks | Away Stream | 12/19/2025 7:30 PM ET
-http://206.212.244.71:8080/live/randy1/randy1/257799.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 07: Oklahoma City Thunder @ Minnesota Timberwolves | Home Stream | 12/19/2025 9:30 PM ET
-http://206.212.244.71:8080/live/randy1/randy1/257800.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 08: Oklahoma City Thunder @ Minnesota Timberwolves | Away Stream | 12/19/2025 9:30 PM ET
-http://206.212.244.71:8080/live/randy1/randy1/257801.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 01: Houston Rockets @ Denver Nuggets | Home Stream | 12/20/2025 5:00 PM ET
+http://206.212.244.71:8080/live/randy1/randy1/257954.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 01: HOU Rockets VS DEN Nuggets ( NBA TV Feed ) @ 5:00 PM
+http://206.212.244.71:8080/live/randy1/randy1/257955.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 02: Houston Rockets @ Denver Nuggets | Away Stream | 12/20/2025 5:00 PM ET
+http://206.212.244.71:8080/live/randy1/randy1/257956.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 02: CHA Hornets VS DET Pistons ( NBA TV Feed ) @ 7:30 PM
+http://206.212.244.71:8080/live/randy1/randy1/257957.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 03: Indiana Pacers @ New Orleans Pelicans | Home Stream | 12/20/2025 7:00 PM ET
+http://206.212.244.71:8080/live/randy1/randy1/257958.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 03: LAL Lakers VS LAC Clippers ( NBA TV Feed ) @ 10:30 PM
+http://206.212.244.71:8080/live/randy1/randy1/257959.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 04: Boston Celtics @ Toronto Raptors | Away Stream | 12/20/2025 7:00 PM ET
+http://206.212.244.71:8080/live/randy1/randy1/257960.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 04: Dallas Mavericks vs Philadelphia 76ers @ 07:00 PM EST
+http://206.212.244.71:8080/live/randy1/randy1/257961.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 05: Boston Celtics @ Toronto Raptors | Home Stream | 12/20/2025 7:00 PM ET
+http://206.212.244.71:8080/live/randy1/randy1/257962.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 05: Boston Celtics vs Toronto Raptors @ 07:00 PM EST
+http://206.212.244.71:8080/live/randy1/randy1/257963.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 06: Indiana Pacers @ New Orleans Pelicans | Away Stream | 12/20/2025 7:00 PM ET
+http://206.212.244.71:8080/live/randy1/randy1/257964.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 06: Indiana Pacers vs New Orleans Pelicans @ 07:00 PM EST
+http://206.212.244.71:8080/live/randy1/randy1/257965.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 07: Charlotte Hornets @ Detroit Pistons | Home Stream | 12/20/2025 7:30 PM ET
+http://206.212.244.71:8080/live/randy1/randy1/257966.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 07: Washington Wizards vs Memphis Grizzlies @ 08:00 PM EST
+http://206.212.244.71:8080/live/randy1/randy1/257967.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 08: Charlotte Hornets @ Detroit Pistons | Away Stream | 12/20/2025 7:30 PM ET
+http://206.212.244.71:8080/live/randy1/randy1/257968.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 08: Phoenix Suns vs Golden State Warriors @ 08:30 PM EST
+http://206.212.244.71:8080/live/randy1/randy1/257969.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 09: Washington Wizards @ Memphis Grizzlies | Home Stream | 12/20/2025 8:00 PM ET
+http://206.212.244.71:8080/live/randy1/randy1/257970.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 09: Orlando Magic vs Utah Jazz @ 09:30 PM EST
+http://206.212.244.71:8080/live/randy1/randy1/257971.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 10: Washington Wizards @ Memphis Grizzlies | Away Stream | 12/20/2025 8:00 PM ET
+http://206.212.244.71:8080/live/randy1/randy1/257972.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 10: Portland Trail Blazers vs Sacramento Kings @ 10:00 PM EST
+http://206.212.244.71:8080/live/randy1/randy1/257973.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 11: Phoenix Suns @ Golden State Warriors | Home Stream | 12/20/2025 8:30 PM ET
+http://206.212.244.71:8080/live/randy1/randy1/257974.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 12: Phoenix Suns @ Golden State Warriors | Away Stream | 12/20/2025 8:30 PM ET
+http://206.212.244.71:8080/live/randy1/randy1/257975.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 13: Orlando Magic @ Utah Jazz | Home Stream | 12/20/2025 9:30 PM ET
+http://206.212.244.71:8080/live/randy1/randy1/257976.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 14: Orlando Magic @ Utah Jazz | Away Stream | 12/20/2025 9:30 PM ET
+http://206.212.244.71:8080/live/randy1/randy1/257977.m3u8
+
+# --- NCAAB (127) ---
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 001 | 16 LOUISVILLE @ 17 TENNESSEE (W) | 12.20 11:00 AM | FOX
+http://206.212.244.71:8080/live/randy1/randy1/257826.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 002 | EASTERN MICHIGAN @ BALL STATE (W) | 12.20 11:00 AM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257827.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 003 | FLORIDA ATLANTIC @ FLORIDA INTERNATIONAL (W) | 12.20 11:00 AM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257828.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 004 | STONEHILL @ STETSON (W) | 12.20 11:00 AM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257829.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 005 | LAFAYETTE @ RUTGERS (W) | 12.20 12:00 PM | B1G+
+http://206.212.244.71:8080/live/randy1/randy1/257830.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 006 | LE MOYNE @ SAINT JOSEPHS (W) | 12.20 12:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257831.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 007 | LOURDES UNIVERSITY @ TOLEDO (M) | 12.20 12:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257832.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 008 | MAINE-FORT KENT @ BOSTON UNIVERSITY (W) | 12.20 12:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257833.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 009 | MISSISSIPPI STATE @ LA SALLE (W) | 12.20 12:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257834.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 010 | MONTANA @ 11 LOUISVILLE (M) | 12.20 12:00 PM | ACC EXTRA
+http://206.212.244.71:8080/live/randy1/randy1/257835.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 011 | OAKLAND @ 9 MICHIGAN STATE (M) | 12.20 12:00 PM | BTN
+http://206.212.244.71:8080/live/randy1/randy1/257836.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 012 | SOUTH DAKOTA @ KANSAS STATE (M) | 12.20 12:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257837.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 013 | WINTHROP @ VIRGINIA (W) | 12.20 12:00 PM | ACC EXTRA
+http://206.212.244.71:8080/live/randy1/randy1/257838.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 014 | YALE @ HIGH POINT (W) | 12.20 12:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257839.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 015 | 22 ST. JOHNS @ KENTUCKY (M) | 12.20 12:30 PM | CBS
+http://206.212.244.71:8080/live/randy1/randy1/257840.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 016 | LIBERTY @ DAYTON (M) | 12.20 12:30 PM | USA NET
+http://206.212.244.71:8080/live/randy1/randy1/257841.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 017 | 25 PRINCETON @ GEORGE MASON (W) | 12.20 1:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257842.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 018 | APP STATE @ GEORGIA SOUTHERN (W) | 12.20 1:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257843.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 019 | AUSTIN PEAY @ UIC (W) | 12.20 1:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257844.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 020 | BUFFALO @ WESTERN MICHIGAN (M) | 12.20 1:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257845.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 021 | CHICAGO STATE @ INDIANA (M) | 12.20 1:00 PM | B1G+
+http://206.212.244.71:8080/live/randy1/randy1/257846.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 022 | DARTMOUTH @ NEW HAMPSHIRE (W) | 12.20 1:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257847.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 023 | DELAWARE STATE @ TULANE (W) | 12.20 1:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257848.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 024 | GEORGIA STATE @ APP STATE (M) | 12.20 1:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257849.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 025 | GEORGIA STATE @ COASTAL CAROLINA (W) | 12.20 1:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257850.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 026 | GREEN BAY @ MIAMI (OH) (W) | 12.20 1:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257851.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 027 | HOUGHTON @ NIAGARA (M) | 12.20 1:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257852.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 028 | JAMES MADISON @ MARSHALL (W) | 12.20 1:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257853.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 029 | JUDSON UNIVERSITY @ SOUTHERN ILLINOIS (W) | 12.20 1:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257854.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 030 | LE MOYNE @ ST. BONAVENTURE (M) | 12.20 1:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257855.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 031 | NORTHERN ILLINOIS @ CENTRAL MICHIGAN (W) | 12.20 1:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257856.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 032 | NORTHWESTERN @ 17 ILLINOIS (M) | 1/26 3:00 PM | BTN
+http://206.212.244.71:8080/live/randy1/randy1/257857.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 033 | SAINT LOUIS @ OHIO (W) | 12.20 1:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257858.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 034 | VALPARAISO @ UIC (W) | 1/26 3:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257859.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 035 | WICHITA STATE @ TULSA (M) | 1/26 3:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257860.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 036 | WISCONSIN @ 23 MINNESOTA (W) | 1/26 3:00 PM | B1G+
+http://206.212.244.71:8080/live/randy1/randy1/257861.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 037 | TRUMAN STATE @ MARQUETTE (W) | 12.20 1:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257862.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 038 | UL MONROE @ TEXAS STATE (W) | 12.20 1:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257863.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 039 | UTSA @ COLUMBIA (W) | 12.20 1:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257864.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 040 | WISCONSIN-LUTHERAN @ MILWAUKEE (W) | 12.20 1:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257865.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 041 | 11 IOWA @ 1 UCONN (W) | 12.20 1:30 PM | FOX
+http://206.212.244.71:8080/live/randy1/randy1/257866.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 042 | MASSACHUSETTS @ YOUNGSTOWN STATE (W) | 12.20 1:30 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257867.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 043 | BRYANT @ BINGHAMTON (W) | 1/25 2:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257868.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 044 | AKRON @ DELAWARE (W) | 12.20 2:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257869.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 046 | BYU @ UCF (W) | 12.20 2:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257871.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 047 | COASTAL CAROLINA @ OLD DOMINION (M) | 12.20 2:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257872.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 048 | COLGATE @ BINGHAMTON (W) | 12.20 2:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257873.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 049 | COLORADO STATE @ UTAH STATE (M) | 12.20 2:00 PM | CBSSN
+http://206.212.244.71:8080/live/randy1/randy1/257874.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 050 | BRADLEY VS. MISSOURI STATE | 02/29-07:30PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257875.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 051 | ELON @ VIRGINIA TECH (M) | 12.20 2:00 PM | ACC EXTRA
+http://206.212.244.71:8080/live/randy1/randy1/257876.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 052 | GWYNEDD-MERCY @ BUCKNELL (W) | 12.20 2:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257877.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 053 | HARRIS-STOWE STATE @ LINDENWOOD (M) | 12.20 2:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257878.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 054 | HOLY CROSS @ HARVARD (M) | 12.20 2:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257879.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 055 | IDAHO STATE @ UTAH VALLEY (W) | 12.20 2:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257880.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 056 | IONA @ VERMONT (M) | 12.20 2:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257881.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 057 | KENT STATE @ BOWLING GREEN (W) | 12.20 2:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257882.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 057 | KENT STATE @ BOWLING GREEN (W) | 12.20 2:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257883.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 059 | LAFAYETTE @ GEORGIA TECH (M) | 12.20 2:00 PM | ACC EXTRA
+http://206.212.244.71:8080/live/randy1/randy1/257884.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 060 | LOUISIANA @ SOUTHERN MISS (W) | 12.20 2:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257885.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 061 | MARSHALL @ TROY (M) | 12.20 2:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257886.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 062 | MEMPHIS @ SE LOUISIANA (W) | 12.20 2:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257887.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 063 | MIAMI (OH) @ BALL STATE (M) | 12.20 2:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257888.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 064 | MOREHEAD STATE @ SOUTHERN INDIANA (W) | 12.20 2:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257889.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 065 | SOUTH CAROLINA STATE @ FLORIDA STATE (W) | 12.20 2:00 PM | ACC EXTRA
+http://206.212.244.71:8080/live/randy1/randy1/257890.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 066 | SOUTH CAROLINA UPSTATE @ QUEENS UNIVERSITY (W) | 12.20 2:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257891.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 067 | SOUTHEAST MISSOURI STATE @ TENNESSEE STATE (W) | 12.20 2:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257892.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 068 | SOUTHERN-NEW ORLEANS @ NORTHWESTERN STATE (M) | 12.20 2:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257893.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 069 | ST. BONAVENTURE @ HOWARD (W) | 12.20 2:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257894.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 070 | STEPHEN F. AUSTIN @ ARKANSAS (W) | 12.20 2:00 PM | SECN+
+http://206.212.244.71:8080/live/randy1/randy1/257895.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 071 | UT MARTIN @ TENNESSEE TECH (W) | 12.20 2:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257896.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 072 | CENTRAL BAPTIST COLLEGE @ LOUISIANA TECH (W) | 12.20 3:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257897.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 073 | CENTRAL MICHIGAN @ NORTHERN ILLINOIS (M) | 12.20 3:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257898.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 074 | COLLEGE OF BIBLICAL STUDIES @ UT RIO GRANDE VALLEY (M) | 12.20 3:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257899.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 075 | DENVER @ NORTHERN COLORADO (M) | 12.20 3:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257900.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 076 | DUKE @ BELMONT (W) | 12.20 3:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257901.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 077 | HOUSTON CHRISTIAN @ RICE (W) | 12.20 3:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257902.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 078 | LINDSEY WILSON @ MURRAY STATE (W) | 12.20 3:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257903.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 079 | LOUISIANA @ UL MONROE (M) | 12.20 3:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257904.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 080 | MIDDLE TENNESSEE @ WICHITA STATE (W) | 12.20 3:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257905.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 081 | MISSISSIPPI VALLEY STATE @ UAB (W) | 12.20 3:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257906.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 082 | OHIO STATE @ 12 NORTH CAROLINA (M) | 12.20 3:00 PM | CBS PARAMOUNT+
+http://206.212.244.71:8080/live/randy1/randy1/257907.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 083 | SOUTH ALABAMA @ ARKANSAS STATE (W) | 12.20 3:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257908.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 084 | SOUTH ALABAMA @ TEXAS STATE (M) | 12.20 3:30 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257909.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 085 | VCU @ PENN STATE (W) | 12.20 3:30 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257910.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 086 | BOWLING GREEN @ OHIO (M) | 12.20 4:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257911.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 087 | BUFFALO @ ABILENE CHRISTIAN (W) | 12.20 4:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257912.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 088 | CAL STATE NORTHRIDGE @ PEPPERDINE (W) | 12.20 4:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257913.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 089 | JACKSONVILLE STATE @ EAST TENNESSEE STATE (M) | 12.20 4:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257914.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 090 | MEMPHIS @ MISSISSIPPI STATE (M) | 12.20 4:00 PM | ESPN
+http://206.212.244.71:8080/live/randy1/randy1/257915.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 091 | NORTHEASTERN @ SYRACUSE (M) | 12.20 4:00 PM | ACC EXTRA
+http://206.212.244.71:8080/live/randy1/randy1/257916.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 092 | NORTHWESTERN @ BUTLER (M) | 12.20 4:00 PM | PEACOCK
+http://206.212.244.71:8080/live/randy1/randy1/257917.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 093 | UT MARTIN @ TENNESSEE TECH (M) | 12.20 4:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257918.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 094 | ARKANSAS STATE @ SOUTHERN MISS (M) | 12.20 4:30 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257919.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 095 | MOREHEAD STATE @ SOUTHERN INDIANA (M) | 12.20 4:30 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257920.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 096 | SOUTHEAST MISSOURI STATE @ TENNESSEE STATE (M) | 12.20 4:30 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257921.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 097 | BETHESDA UNIVERSITY @ UTAH VALLEY (M) | 12.20 5:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257922.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 098 | CAL STATE FULLERTON @ SAN DIEGO (W) | 12.20 5:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257923.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 099 | EASTERN WASHINGTON @ CAL STATE BAKERSFIELD (W) | 12.20 5:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257924.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 100 | FLORIDA GULF COAST @ UCF (M) | 12.20 5:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257925.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 101 | JAMES MADISON @ GEORGIA SOUTHERN (M) | 12.20 5:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257926.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 102 | KANSAS STATE @ 9 TCU (W) | 12.20 5:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257927.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 103 | LONG BEACH STATE @ 4 UCLA (W) | 12.20 5:00 PM | B1G+
+http://206.212.244.71:8080/live/randy1/randy1/257928.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 104 | LONG ISLAND UNIVERSITY @ FLORIDA INTERNATIONAL (M) | 12.20 5:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257929.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 105 | MERCER @ WASHINGTON STATE (M) | 12.20 5:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257930.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 106 | NEW MEXICO STATE @ SAINT MARYS (W) | 12.20 5:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257931.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 107 | NORTHERN ARIZONA @ UC SAN DIEGO (W) | 12.20 5:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257932.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 108 | NORTHERN COLORADO @ UC DAVIS (W) | 12.20 5:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257933.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 109 | WESTERN OREGON @ IDAHO (W) | 12.20 5:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257934.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 110 | 8 HOUSTON @ 14 ARKANSAS (M) | 12.20 5:30 PM | CBS
+http://206.212.244.71:8080/live/randy1/randy1/257935.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 111 | BUCKNELL @ IOWA (M) | 12.20 6:00 PM | BTN
+http://206.212.244.71:8080/live/randy1/randy1/257936.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 112 | MARYLAND @ 23 VIRGINIA (M) | 12.20 6:00 PM | ESPN
+http://206.212.244.71:8080/live/randy1/randy1/257937.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 113 | THE CITADEL @ RICHMOND (M) | 12.20 6:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257938.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 114 | 21 AUBURN @ 6 PURDUE (M) | 12.20 6:30 PM | PEACOCK
+http://206.212.244.71:8080/live/randy1/randy1/257939.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 115 | WEBER STATE @ LOYOLA MARYMOUNT (W) | 12.20 6:30 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257940.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 116 | EASTERN WASHINGTON @ UTAH (M) | 12.20 7:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257941.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 117 | OMAHA @ LAMAR (M) | 12.20 7:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257942.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 118 | PORTLAND STATE @ TULANE (M) | 12.20 7:30 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257943.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 119 | 3 DUKE @ 19 TEXAS TECH (M) | 12.20 8:00 PM | ESPN
+http://206.212.244.71:8080/live/randy1/randy1/257944.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 120 | PENNSYLVANIA @ RUTGERS (M) | 12.20 8:00 PM | BTN
+http://206.212.244.71:8080/live/randy1/randy1/257945.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 121 | SACRAMENTO STATE @ CALIFORNIA BAPTIST (M) | 12.20 8:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257946.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 122 | STANFORD @ COLORADO (M) | 12.20 8:00 PM | ESPNU
+http://206.212.244.71:8080/live/randy1/randy1/257947.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 123 | XAVIER @ GEORGETOWN (M) | 12.20 8:00 PM | FS1
+http://206.212.244.71:8080/live/randy1/randy1/257948.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 124 | MARQUETTE @ CREIGHTON (M) | 12.20 8:30 PM | PEACOCK
+http://206.212.244.71:8080/live/randy1/randy1/257949.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 125 | SOUTHWESTERN ADVENTIST @ TEXAS A&M-CORPUS CHRISTI (M) | 12.20 8:30 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257950.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 126 | RICE @ PEPPERDINE (M) | 12.20 9:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257951.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 127 | UTAH TECH @ WEBER STATE (M) | 12.20 9:00 PM | ESPN+
+http://206.212.244.71:8080/live/randy1/randy1/257952.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 128 | SAN DIEGO STATE @ 1 ARIZONA (M) | 12.20 10:30 PM | ESPN2
+http://206.212.244.71:8080/live/randy1/randy1/257953.m3u8
 
 # --- NFL (23) ---
 #EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/5438735-nfl-team-logos-transparent-png-history-logos-lists-brands-nfl-logo-png-300_300_preview.png" group-title="NFL",US NFL Network
@@ -3434,9 +3712,9 @@ http://206.212.244.71:8080/live/randy1/randy1/159120.m3u8
 http://206.212.244.71:8080/live/randy1/randy1/208830.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NFL",USA | NFL
 http://206.212.244.71:8080/live/randy1/randy1/208896.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 01: Los Angeles Rams vs Seattle Seahawks @ 08:15 PM
+#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 01:  Philadelphia Eagles vs Washington Commanders 5pm
 http://206.212.244.71:8080/live/randy1/randy1/252010.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 02:  Baltimore Ravens vs Cincinnati Bengals 1pm
+#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 02:  Green Bay Packers vs Chicago Bears 8:20pm
 http://206.212.244.71:8080/live/randy1/randy1/252011.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NFL",NFL 03: Arizona Cardinals vs Houston Texans @ 1:00 pm
 http://206.212.244.71:8080/live/randy1/randy1/252012.m3u8
@@ -3465,23 +3743,41 @@ http://206.212.244.71:8080/live/randy1/randy1/253677.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NFL",NFL 01: Baltimore Ravens at Miami Dolphins 8:15pm
 http://206.212.244.71:8080/live/randy1/randy1/253678.m3u8
 
-# --- NHL (8) ---
+# --- NHL (17) ---
 #EXTINF:-1 tvg-logo="" group-title="NHL",US NHL Network
 http://206.212.244.71:8080/live/randy1/randy1/253636.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 01: CAR VS FLA (TVAS Feed ) @ 7:00 pm
-http://206.212.244.71:8080/live/randy1/randy1/257812.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 02: VAN VS NYI (NHLN Feed ) @ 7:00 pm
-http://206.212.244.71:8080/live/randy1/randy1/257813.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 03: VAN VS NYI (SN Feed ) @ 7:00 pm
-http://206.212.244.71:8080/live/randy1/randy1/257814.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 04: WPG VS COL (TVAS Feed ) @ 9:00 pm
-http://206.212.244.71:8080/live/randy1/randy1/257815.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 05: WPG VS COL (ALT Feed ) @ 9:00 pm
-http://206.212.244.71:8080/live/randy1/randy1/257816.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 06: DAL VS ANA (SN Feed ) @ 10:00 pm
-http://206.212.244.71:8080/live/randy1/randy1/257817.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 07: 	 New Jersey Devils  vs  Utah Mammoth @ 09:00 PM
-http://206.212.244.71:8080/live/randy1/randy1/257818.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 01: PHI VS NYR (NBCSP Feed ) @ 12:30 pm
+http://206.212.244.71:8080/live/randy1/randy1/257997.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 02: PHI VS NYR (MSG Feed ) @ 12:30 pm
+http://206.212.244.71:8080/live/randy1/randy1/257998.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 03: DET VS WSH (SN Feed ) @ 12:30 pm
+http://206.212.244.71:8080/live/randy1/randy1/257999.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 04: DET VS WSH (NHLN Feed ) @ 12:30 pm
+http://206.212.244.71:8080/live/randy1/randy1/258000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 05: CHI VS OTT (TVAS Feed ) @ 3:00 pm
+http://206.212.244.71:8080/live/randy1/randy1/258001.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 06: EDM VS MIN (SN Feed ) @ 3:00 pm
+http://206.212.244.71:8080/live/randy1/randy1/258002.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 07: VAN VS BOS (NHLN Feed ) @ 7:00 pm
+http://206.212.244.71:8080/live/randy1/randy1/258003.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 08: VAN VS BOS (SN360 Feed ) @ 7:00 pm
+http://206.212.244.71:8080/live/randy1/randy1/258004.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 09: VAN VS BOS (NESN Feed ) @ 7:00 pm
+http://206.212.244.71:8080/live/randy1/randy1/258005.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 10: PIT VS MTL (SNE Feed ) @ 7:00 pm
+http://206.212.244.71:8080/live/randy1/randy1/258006.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 11: PIT VS MTL (TVAS Feed ) @ 7:00 pm
+http://206.212.244.71:8080/live/randy1/randy1/258007.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 12: TOR VS NSH (SN Feed ) @ 7:00 pm
+http://206.212.244.71:8080/live/randy1/randy1/258008.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 13: VGK VS CGY (SN Feed ) @ 10:00 pm
+http://206.212.244.71:8080/live/randy1/randy1/258009.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 14: SEA VS SJS (NBCSCA Feed ) @ 10:00 pm
+http://206.212.244.71:8080/live/randy1/randy1/258010.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 15: New York Islanders vs Buffalo Sabres @ 05:00 PM
+http://206.212.244.71:8080/live/randy1/randy1/258011.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 17: Carolina Hurricanes vs Tampa Bay Lightning @ 07:00 PM
+http://206.212.244.71:8080/live/randy1/randy1/258013.m3u8
 
 # --- PERU (7) ---
 #EXTINF:-1 tvg-logo="" group-title="PERU",PE: PANAMERICANA HD
@@ -3511,43 +3807,47 @@ http://206.212.244.71:8080/live/randy1/randy1/101825.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PHILIPPINES",PH GMA Pinoy TV (X)
 http://206.212.244.71:8080/live/randy1/randy1/101826.m3u8
 
-# --- PPV | UFC (18) ---
+# --- PPV | UFC (20) ---
 #EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 15 |   WWE Monday Night Raw (24/11 01:00am UK TUE| 08:00pm ET MON)
 http://206.212.244.71:8080/live/randy1/randy1/233922.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV01: House of Glory: Winter Warfare 2025 @ 08:00 PM EST
-http://206.212.244.71:8080/live/randy1/randy1/257802.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 02: One Friday Fights 137 (19/12 12:30 pm UK | 07:30am ET )
-http://206.212.244.71:8080/live/randy1/randy1/257803.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV02: CMLL: Dream Match Friday 2025 @ 09:30 PM EST
-http://206.212.244.71:8080/live/randy1/randy1/257804.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 03: Paul v Joshua (19/12 09:45 pm UK | 04:45pm ET)
-http://206.212.244.71:8080/live/randy1/randy1/257805.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV03: Boxing: JAKE VS JOSHUA (NETFLIX) @ 08:00 PM EST
-http://206.212.244.71:8080/live/randy1/randy1/257806.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 04: Teyisi vs Thongwana (19/12 05:00pm UK | 12:00pm ET)
-http://206.212.244.71:8080/live/randy1/randy1/257807.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 05: House Of Glory Wrestling (19/12 01:00am UK SAT | 08:00pm ET FRI)
-http://206.212.244.71:8080/live/randy1/randy1/257808.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 06: CMLL Wrestling: Dream Match Friday (19/12 02:30am UK SAT | 09:30pm ET FRI)
-http://206.212.244.71:8080/live/randy1/randy1/257809.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 07: Paul v Joshua (19/12 09:45 pm UK | 04:45pm ET) backup 1
-http://206.212.244.71:8080/live/randy1/randy1/257810.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 08: Paul v Joshua (19/12 09:45 pm UK | 04:45pm ET) backup 2
-http://206.212.244.71:8080/live/randy1/randy1/257811.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 09: Paul v Joshua (19/12 09:45 pm UK | 04:45pm ET) backup 3
-http://206.212.244.71:8080/live/randy1/randy1/257819.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 10: Paul v Joshua (19/12 09:45 pm UK | 04:45pm ET) backup 4
-http://206.212.244.71:8080/live/randy1/randy1/257820.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 11: Paul v Joshua (19/12 09:45 pm UK | 04:45pm ET) backup 5
-http://206.212.244.71:8080/live/randy1/randy1/257821.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 12: Paul v Joshua (19/12 09:45 pm UK | 04:45pm ET) backup 6
-http://206.212.244.71:8080/live/randy1/randy1/257822.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 13: Paul v Joshua (19/12 09:45 pm UK | 04:45pm ET) backup 7
-http://206.212.244.71:8080/live/randy1/randy1/257823.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 14: Paul v Joshua (19/12 09:45 pm UK | 04:45pm ET) backup 8
-http://206.212.244.71:8080/live/randy1/randy1/257824.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 15: Jake Paul vs. Anthony Joshua Prelims ( Youtube link )
-http://206.212.244.71:8080/live/randy1/randy1/257825.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV01: Boxing: Graves vs. Kerkmann (DAZN) @ 02:00 PM EST
+http://206.212.244.71:8080/live/randy1/randy1/257978.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 02: Simpson vs Williamson (20/12 07:30 pm UK | 02:30pm ET )
+http://206.212.244.71:8080/live/randy1/randy1/257979.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV02: Boxing: Richards vs. Azeez (DAZN) @ 02:00 PM EST
+http://206.212.244.71:8080/live/randy1/randy1/257980.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 03:Curry vs Scott 2 (19/12 02:00am UK SUN | 09:00pm ET SAT)
+http://206.212.244.71:8080/live/randy1/randy1/257981.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV03: Millbridge Speedway (dirtvision) @ 01:00 PM EST
+http://206.212.244.71:8080/live/randy1/randy1/257982.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV04: Callum Simpson vs Troy Williamson (fite tv) @ 01:00 PM EST
+http://206.212.244.71:8080/live/randy1/randy1/257983.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 04: PFL Africa 4: Finals (20/12 04:00pm UK | 11:00am ET)
+http://206.212.244.71:8080/live/randy1/randy1/257984.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV05: True Grit TV: The Road To The Rumble - Vusyk vs Adam Bolt (fite tv) @ 02:00 PM EST
+http://206.212.244.71:8080/live/randy1/randy1/257985.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 05: BKFC Fight Night: Mohegan Sun (20/12 11:00pm UK | 06:00pm ET)
+http://206.212.244.71:8080/live/randy1/randy1/257986.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV06: BKFC Fight Night Mohegan Sun 2025: Parker Porter vs Anthony Garrett (fite tv) @ 07:00 PM EST
+http://206.212.244.71:8080/live/randy1/randy1/257987.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 06: WBC Boxing Grand Prix: Finals (20/12 03:00pm UK | 10:00am ET)
+http://206.212.244.71:8080/live/randy1/randy1/257988.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 07: Graves vs Kerkmann (20/12 07:00 pm UK | 02:00pm ET)
+http://206.212.244.71:8080/live/randy1/randy1/257989.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV07: IWS: Seasons Beatings 2025 (fite tv) @ 08:00 PM EST
+http://206.212.244.71:8080/live/randy1/randy1/257990.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV08: MISFTTS MANIA ANDREW TATE vs CHASE DEMOOR  @ 01:00 PM
+http://206.212.244.71:8080/live/randy1/randy1/257991.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 08: Torino Boxing Show (20/12 07:00pm UK | 02:00pm ET)
+http://206.212.244.71:8080/live/randy1/randy1/257992.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV09: WBC Boxing Grand Prix: Finals @ 10:00 AM
+http://206.212.244.71:8080/live/randy1/randy1/257993.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 09: Fight clubbing San Marino 40 (19/12 07:30pm UK | 02:30pm ET)
+http://206.212.244.71:8080/live/randy1/randy1/257994.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 10: MMA: Cage Fury FC 149 (20/12 01:30am UK SUN | 08:30pm ET SAT)
+http://206.212.244.71:8080/live/randy1/randy1/257995.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 11: Andrew Tate vs Chase Demoor (20/12 06:00pm UK | 01:00pm ET)
+http://206.212.244.71:8080/live/randy1/randy1/257996.m3u8
 
 # --- Portugal (19) ---
 #EXTINF:-1 tvg-logo="" group-title="Portugal",PT: CMTV
@@ -13343,4 +13643,4 @@ http://206.212.244.71:8080/live/randy1/randy1/121046.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Vietnam",VN DA NANG 1 HD
 http://206.212.244.71:8080/live/randy1/randy1/121048.m3u8
 
-# Total: 6633
+# Total: 6782

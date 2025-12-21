@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 4smarts.xyz
-# Generated: 2025-12-20 18:25:02
+# Generated: 2025-12-21 07:10:36
 # Expires: 2026-01-01
 # Family Safe Edition
 # ==============================================
@@ -2355,7 +2355,19 @@ http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/10332.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS | GREECE",GR - ezel
 http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/9809.mp4
 
-# --- Movies | SRS | ITALY (2228) ---
+# --- Movies | SRS | ITALY (2234) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS | ITALY",IT - 7 Bears
+http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/48993.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS | ITALY",IT - Fantastic Four
+http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/48992.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS | ITALY",IT - Primos
+http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/48991.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS | ITALY",IT - Dream Productions
+http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/48990.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS | ITALY",IT - American Dragon: Jake Long
+http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/48989.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS | ITALY",IT - Le risposte degli
+http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/48988.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS | ITALY",IT - BAKI
 http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/48931.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS | ITALY",IT - Cybernella
@@ -39563,4 +39575,4 @@ http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/77935.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5l0fbsSD46Xm7bYXnQxczG5WGjn.jpg" group-title="Movies | VOD | SPORTS",FR - The Champions League - 2018
 http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/45591.mkv
 
-# Total: 19754
+# Total: 19760

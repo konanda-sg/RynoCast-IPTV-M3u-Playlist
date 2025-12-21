@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: gimenes.top:8080
-# Generated: 2025-12-20 18:35:19
+# Generated: 2025-12-21 07:17:54
 # Expires: 2026-11-07
 # Family Safe Edition
 # ==============================================
@@ -1305,7 +1305,7 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/9022688.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > DOCUMENTARIOS",MEU AYRTON, POR ADRIANE GALISTEU
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022689.mp4
 
-# --- Movies | > DORAMAS (220) ---
+# --- Movies | > DORAMAS (224) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | > DORAMAS",PRIMEIRA VEZ AMOR
 http://gimenes.top:8080/movie/denisfonseca/4915334/283.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > DORAMAS",UMA ODISSÉIA COREANA
@@ -1746,6 +1746,14 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/9022704.mp4
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022710.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > DORAMAS",AMBIÇÃO DO AMOR (LEG)
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022715.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | > DORAMAS",QUERIDOS X (LEG)
+http://gimenes.top:8080/movie/denisfonseca/4915334/9022718.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | > DORAMAS",DENIED LOVE (LEG)
+http://gimenes.top:8080/movie/denisfonseca/4915334/9022719.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | > DORAMAS",VERAO PASSADO (LEG)
+http://gimenes.top:8080/movie/denisfonseca/4915334/9022720.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | > DORAMAS",VOCE ESTAVA LA
+http://gimenes.top:8080/movie/denisfonseca/4915334/9022721.mp4
 
 # --- Movies | > DRAMAS SHORTS (36) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | > DRAMAS SHORTS",A VIDA DUPLA DO MEU MARIDO BILIONÁRIO
@@ -2569,7 +2577,7 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/9022687.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > HBO MAX",THE ABC MURDERS
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022713.mp4
 
-# --- Movies | > NETFLIX (692) ---
+# --- Movies | > NETFLIX (693) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | > NETFLIX",VIKINGS
 http://gimenes.top:8080/movie/denisfonseca/4915334/5.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > NETFLIX",SUPERGIRL
@@ -3954,6 +3962,8 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/9022692.mp4
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022711.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > NETFLIX",OS ABANDONADOS
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022716.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | > NETFLIX",HOMEM X BEBÊ
+http://gimenes.top:8080/movie/denisfonseca/4915334/9022723.mp4
 
 # --- Movies | > NOVELAS & MINISSÉRIE (198) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | > NOVELAS & MINISSÉRIE",JOSÉ DO EGITO
@@ -5261,7 +5271,7 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/9022714.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > PRIME VIDEO",SPARTACUS: HOUSE OF ASHUR
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022717.mp4
 
-# --- Movies | > REALITY's (82) ---
+# --- Movies | > REALITY's (83) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | > REALITY's",MASTERCHEF BRASIL
 http://gimenes.top:8080/movie/denisfonseca/4915334/258.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > REALITY's",CARANGAS X CARRÕES
@@ -5426,6 +5436,8 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/9022612.mp4
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022613.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > REALITY's",A BATALHA DOS 100: ÁSIA
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022666.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | > REALITY's",DATING NAKED UK
+http://gimenes.top:8080/movie/denisfonseca/4915334/9022722.mp4
 
 # --- Movies | > SERIADOS DE COMÉDIA (42) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | > SERIADOS DE COMÉDIA",CHAVES
@@ -30023,4 +30035,4 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/166843.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhTm83svrLTM4JdwzJ1FjL63SQN.jpg" group-title="Movies | SHOWS",BEBE REXHA - THE TOWN (2023)
 http://gimenes.top:8080/movie/denisfonseca/4915334/166842.mp4
 
-# Total: 14967
+# Total: 14973

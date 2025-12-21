@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: dk.2665.ninja:8080
-# Generated: 2025-12-20 18:32:28
+# Generated: 2025-12-21 07:13:27
 # Expires: 2026-02-28
 # Family Safe Edition
 # ==============================================
@@ -135,17 +135,19 @@ http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/288440.m3u8
 #EXTINF:-1 tvg-logo="http://content.osn.com/logo/channel/cropped/KDZ.png" group-title="AR OSN PREMIUM",AR: OSN KID ZONE
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/180631.m3u8
 
-# --- AR SPORT (9) ---
-#EXTINF:-1 tvg-logo="https://cablevision.com.lb/Content/uploads/Channel/1648113954.png" group-title="AR SPORT",AR: VIP BEIN AFC 3 FHD
-http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/508308.m3u8
-#EXTINF:-1 tvg-logo="https://cablevision.com.lb/Content/uploads/Channel/1648113954.png" group-title="AR SPORT",AR: VIP BEIN AFC 2 FHD
-http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/508307.m3u8
-#EXTINF:-1 tvg-logo="https://cablevision.com.lb/Content/uploads/Channel/1648113954.png" group-title="AR SPORT",AR: VIP BEIN AFC 1 FHD
-http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/508306.m3u8
+# --- AR SPORT (10) ---
+#EXTINF:-1 tvg-logo="" group-title="AR SPORT",AR: VIP BEIN SPORTS MAX 1
+http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/650933.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AR SPORT",AR: VIP BEIN SPORTS MAX 2
+http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/650934.m3u8
 #EXTINF:-1 tvg-logo="https://cablevision.com.lb/Content/uploads/Channel/1648113954.png" group-title="AR SPORT",AR: VIP BEIN AFC FHD
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/507974.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ARABE/beinSports3.png" group-title="AR SPORT",AR: VIP BEIN SPORT 03 SD
-http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/456182.m3u8
+#EXTINF:-1 tvg-logo="https://cablevision.com.lb/Content/uploads/Channel/1648113954.png" group-title="AR SPORT",AR: VIP BEIN AFC 1 FHD
+http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/508306.m3u8
+#EXTINF:-1 tvg-logo="https://cablevision.com.lb/Content/uploads/Channel/1648113954.png" group-title="AR SPORT",AR: VIP BEIN AFC 2 FHD
+http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/508307.m3u8
+#EXTINF:-1 tvg-logo="https://cablevision.com.lb/Content/uploads/Channel/1648113954.png" group-title="AR SPORT",AR: VIP BEIN AFC 3 FHD
+http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/508308.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/SAUDIARABIA/AbuDhabiSportsPremium1.png" group-title="AR SPORT",AR: VIP AD|ABU DHABI 1 PREMIUM HD
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/430401.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/SAUDIARABIA/AbuDhabiSportsPremium1.png" group-title="AR SPORT",AR: VIP AD|ABU DHABI 1 PREMIUM FHD
@@ -5415,4 +5417,4 @@ http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/531883.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/a_spor.png" group-title="TR VIP TURKIYE",TR: VIP A SPOR
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/531882.m3u8
 
-# Total: 2663
+# Total: 2664

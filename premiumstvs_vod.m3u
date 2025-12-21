@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: premiumstvs.net:8080
-# Generated: 2025-12-20 18:29:45
+# Generated: 2025-12-21 07:10:42
 # Expires: 2026-02-22
 # Family Safe Edition
 # ==============================================
@@ -7517,9 +7517,23 @@ http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/86834.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4bKlTeOUr5AKrLky8mwWvlQqyVd.jpg" group-title="Movies | Unknown",The Killer's Game (2024)
 http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/100934.mp4
 
-# --- Movies | VOD DE (613) ---
+# --- Movies | VOD DE (620) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgEoCEMWWt7E1esLeok7G99uXtq.jpg" group-title="Movies | VOD DE",Greedy People: Gelegenheit macht gierig (2024)
 http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/97812.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yOLnV1lM3NuMsgYwIhz454fQRgt.jpg" group-title="Movies | VOD DE",Furioza 2 (2025)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/114562.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ciO9KTqibcYDiGElZ5lmmm2sUxv.jpg" group-title="Movies | VOD DE",Freakier Friday (2025)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/114561.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8p3WYNFIP6v4WfIL1JM3cwQzeV2.jpg" group-title="Movies | VOD DE",Frankenstein (2025)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/114560.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udtlwWSJ45S0uQm29BvFvjPJGW0.jpg" group-title="Movies | VOD DE",Fixed (2025)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/114559.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/byFxrm3IS9wErulqpqDIsaLaTeG.jpg" group-title="Movies | VOD DE",Five Nights at Freddy's 2 (2025)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/114558.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQa9tOrVnmaNtuAIPtwU9SFsI6F.jpg" group-title="Movies | VOD DE",Final Destination Bloodlines (2025)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/114557.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8IUkPSxOh0KRbbVNYHSyBKQI5J0.jpg" group-title="Movies | VOD DE",F1 - Der Film (2025)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/114556.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3aEn0WTnbr8jTN6bOzKAQ6Z95.jpg" group-title="Movies | VOD DE",Drop - Tödliches Date (2025)
 http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/114551.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v3xvZksofSo74AWKa1YeTywLyPd.jpg" group-title="Movies | VOD DE",Drachenzähmen leicht gemacht (2025)
@@ -11925,4 +11939,4 @@ http://premiumstvs.net:8080/series/khFzEWQn/fP85XcC7E/248
 #EXTINF:-1 tvg-logo="" group-title="Series | Netflix Series",Squid Game: The Challenge
 http://premiumstvs.net:8080/series/khFzEWQn/fP85XcC7E/247
 
-# Total: 5929
+# Total: 5936

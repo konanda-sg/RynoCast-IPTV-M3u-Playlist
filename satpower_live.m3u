@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: satpower.shop:8080
-# Generated: 2025-12-20 18:25:38
+# Generated: 2025-12-21 07:19:56
 # Expires: 2026-03-06
 # Family Safe Edition
 # ==============================================
@@ -695,7 +695,11 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/502301.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/mneSport.png" group-title="AL SPORTS",CG: MNE SPORT 3
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/502300.m3u8
 
-# --- AR SPORT (61) ---
+# --- AR SPORT (63) ---
+#EXTINF:-1 tvg-logo="" group-title="AR SPORT",AR: VIP BEIN SPORTS MAX 1
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/650933.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AR SPORT",AR: VIP BEIN SPORTS MAX 2
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/650934.m3u8
 #EXTINF:-1 tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="AR SPORT",AR: VIP ALWAN SPORT 1 HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/643765.m3u8
 #EXTINF:-1 tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="AR SPORT",AR: VIP ALWAN SPORT 1 SD
@@ -10343,4 +10347,4 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/505896.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/USA/TVJ%20channel.png" group-title="US SPORTS",US: TVJ
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/282779.m3u8
 
-# Total: 5094
+# Total: 5096

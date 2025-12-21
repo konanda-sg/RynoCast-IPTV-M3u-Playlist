@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: pw-iptv.online:8080
-# Generated: 2025-12-20 18:27:28
+# Generated: 2025-12-21 07:15:00
 # Expires: 2026-01-16
 # Family Safe Edition
 # ==============================================
@@ -5051,7 +5051,7 @@ http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/4464.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13396.png?63531" group-title="AR| SUDAN 4K ▶ سودان",AR: Mouritana Qamer HD
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/499149.m3u8
 
-# --- AR| SYRIA 4K ▶ سوريا (32) ---
+# --- AR| SYRIA 4K ▶ سوريا (33) ---
 #EXTINF:-1 tvg-logo="https://aaru.edu.jo/PublishingImages/Flags/Syria-180-animated-flag-gifs[1].gif" group-title="AR| SYRIA 4K ▶ سوريا",###### SYRIA TV ######
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/251820.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/4738.png?59551" group-title="AR| SYRIA 4K ▶ سوريا",AR: AL EKHBARIYA SY ᴴᴰ
@@ -5106,6 +5106,8 @@ http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1168994.m3u8
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1750829.m3u8
 #EXTINF:-1 tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14725.png?72910" group-title="AR| SYRIA 4K ▶ سوريا",AR: SYRIA ALOULA ᴴᴰ
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1750827.m3u8
+#EXTINF:-1 tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14729.png?42695" group-title="AR| SYRIA 4K ▶ سوريا",AR: SHAM TV
+http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1754219.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1187.jpg" group-title="AR| SYRIA 4K ▶ سوريا",AR: ALYAUM TV ᴿᴬᵂ
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1285571.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/screenshots/93/9264.jpg" group-title="AR| SYRIA 4K ▶ سوريا",AR: IRAQIA SYRIAC ᴿᴬᵂ ⁽ᴮᴷ⁾
@@ -5130,7 +5132,7 @@ http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1036845.m3u8
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1036844.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",AR: TOD PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1036843.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",AR: TOD PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",AR: TOD PPV 6 - LEEDS UNITED VS CRYSTAL PALACE  - ENGLISH | Sat 20 Dec 20:25 | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1036842.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",AR: TOD PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1036841.m3u8
@@ -5138,9 +5140,9 @@ http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1036841.m3u8
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1036840.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",AR: TOD PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1036839.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",AR: TOD PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",AR: TOD PPV 10 - DENVER NUGGETS VS HOUSTON ROCKETS - ARABIC | Sat 20 Dec 22:35 | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1036838.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",AR: TOD PPV 11 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",AR: TOD PPV 11 - DENVER NUGGETS VS HOUSTON ROCKETS - ENGLISH | Sat 20 Dec 22:35 | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1036837.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",AR: TOD PPV 12 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1036836.m3u8
@@ -5992,15 +5994,15 @@ http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1174193.m3u8
 # --- DE| DAZN PPV (51) ---
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vCPR3CSF/DAZN-Logo-Gif.gif" group-title="DE| DAZN PPV",##### DAZN PPV #####
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/299317.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 1 - SAEED AL MAJED CUP RACE NIGHT | Sat 20 Dec 12:45 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 1 - BUCKNELL @ IOWA | Sat 20 Dec 23:50 | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/919838.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 2 - SHARJAH | SPRINT RACES | Sat 20 Dec 11:20 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 2 - PORTER VS. GARRETT | Sat 20 Dec 23:50 | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/919837.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 3 - TSG HOFFENHEIM - FC CARL ZEISS JENA | Sat 20 Dec 11:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 3 - AUBURN @ PURDUE | Sun 21 Dec 00:20 | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/919836.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 4 - COLLEGE FOOTBALL PLAYOFF FIRST ROUND: JAMES MADISON @ OREGON | Sun 21 Dec 01:20 | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/919835.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 5 - DIVISION I FCS FOOTBALL SEMI-FINAL: ILLINOIS STATE @ VILLANOVA | Sun 21 Dec 01:20 | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/919834.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/919833.m3u8
@@ -6132,23 +6134,23 @@ http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/412294.m3u8
 # --- DE| DISCOVERY+ PPV (101) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Animated-Flag-Germany.gif" group-title="DE| DISCOVERY+ PPV",###### DISCOVERY+ PPV  ######
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/924351.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="DE| DISCOVERY+ PPV",DE: DPLUS PPV 1 - LE GRAND-BORNAND | VERFOLGUNG | TRAINING | Sat 20 Dec 11:29 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="DE| DISCOVERY+ PPV",DE: D+ PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/924350.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="DE| DISCOVERY+ PPV",DE: DPLUS PPV 2 - GRÖDEN | ABFAHRT  | Sat 20 Dec 11:29 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="DE| DISCOVERY+ PPV",DE: D+ PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/924349.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="DE| DISCOVERY+ PPV",DE: DPLUS PPV 3 - GRÖDEN | ABFAHRT   | Sat 20 Dec 11:43 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="DE| DISCOVERY+ PPV",DE: D+ PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/924348.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="DE| DISCOVERY+ PPV",DE: DPLUS PPV 4 - VAL D'ISÈRE | ABFAHRT | Sat 20 Dec 10:15 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="DE| DISCOVERY+ PPV",DE: D+ PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/924347.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="DE| DISCOVERY+ PPV",DE: DPLUS PPV 5 - VAL D'ISÈRE | ABFAHRT  | Sat 20 Dec 10:17 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="DE| DISCOVERY+ PPV",DE: D+ PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/924346.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="DE| DISCOVERY+ PPV",DE: DPLUS PPV 6 - INNICHEN | SKICROSS  | Sat 20 Dec 11:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="DE| DISCOVERY+ PPV",DE: D+ PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/924345.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="DE| DISCOVERY+ PPV",DE: DPLUS PPV 7 - LE GRAND-BORNAND | 10KM VERFOLGUNG | Sat 20 Dec 12:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="DE| DISCOVERY+ PPV",DE: D+ PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/924344.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="DE| DISCOVERY+ PPV",DE: DPLUS PPV 8 - GROSSER PREIS DER VEREINIGTE NARABISCHEN EMIRATE | RENNEN | Sat 20 Dec 12:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="DE| DISCOVERY+ PPV",DE: D+ PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/924343.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="DE| DISCOVERY+ PPV",DE: DPLUS PPV 9 - ENGELBERG | EINZELSPRINGEN | Sat 20 Dec 12:49 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="DE| DISCOVERY+ PPV",DE: D+ PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/924342.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="DE| DISCOVERY+ PPV",DE: D+ PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/924341.m3u8
@@ -7971,22 +7973,20 @@ http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/816705.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13767.jpg?ver=36807" group-title="DE| MAGENTA SERIE 4K",DE: FRIENDS S10 4K
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/816704.m3u8
 
-# --- DE| NOW TV SPORTS PPV (51) ---
+# --- DE| NOW TV SPORTS PPV (50) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Animated-Flag-Germany.gif" group-title="DE| NOW TV SPORTS PPV",####### NOW TV PPV #######
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1055929.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13809.png?ver=88754" group-title="DE| NOW TV SPORTS PPV",DE: NOW TV PPV 1 - 2. BL: SAMSTAGS-KONFERENZ, 17. SPIELTAG | Sat 20 Dec 12:30 | 8K EXCLUSIVE
-http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1055928.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13809.png?ver=88754" group-title="DE| NOW TV SPORTS PPV",DE: NOW TV PPV 2 - AFRASIA BANK MAURITIUS OPEN | Sat 20 Dec 10:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13809.png?ver=88754" group-title="DE| NOW TV SPORTS PPV",DE: NOW TV PPV 2 - NO EVENT STREAMING -
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1055927.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13809.png?ver=88754" group-title="DE| NOW TV SPORTS PPV",DE: NOW TV PPV 3 - 2. BL: MULTIVIEW, 17. SPIELTAG | Sat 20 Dec 12:30 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13809.png?ver=88754" group-title="DE| NOW TV SPORTS PPV",DE: NOW TV PPV 3 - NBA: HOUSTON ROCKETS @ DENVER NUGGETS | Sat 20 Dec 22:45 | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1055926.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13809.png?ver=88754" group-title="DE| NOW TV SPORTS PPV",DE: NOW TV PPV 4 - 2. BL: 1. FC KAISERSLAUTERN - 1. FC MAGDEBURG, 17. SPIELTAG | Sat 20 Dec 12:30 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13809.png?ver=88754" group-title="DE| NOW TV SPORTS PPV",DE: NOW TV PPV 4 - NO EVENT STREAMING -
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1055925.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13809.png?ver=88754" group-title="DE| NOW TV SPORTS PPV",DE: NOW TV PPV 5 - 2. BL: VFL BOCHUM - KARLSRUHER SC, 17. SPIELTAG | Sat 20 Dec 12:30 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13809.png?ver=88754" group-title="DE| NOW TV SPORTS PPV",DE: NOW TV PPV 5 - NO EVENT STREAMING -
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1055924.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13809.png?ver=88754" group-title="DE| NOW TV SPORTS PPV",DE: NOW TV PPV 6 - 2. BL: FORTUNA DÜSSELDORF - SPVGG GREUTHER FÜRTH, 17. SPIELTAG | Sat 20 Dec 12:30 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13809.png?ver=88754" group-title="DE| NOW TV SPORTS PPV",DE: NOW TV PPV 6 - NO EVENT STREAMING -
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1055923.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13809.png?ver=88754" group-title="DE| NOW TV SPORTS PPV",DE: NOW TV PPV 7 - PL: NEWCASTLE UNITED - FC CHELSEA, 17. SPIELTAG | Sat 20 Dec 13:20 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13809.png?ver=88754" group-title="DE| NOW TV SPORTS PPV",DE: NOW TV PPV 7 - NO EVENT STREAMING -
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1055922.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13809.png?ver=88754" group-title="DE| NOW TV SPORTS PPV",DE: NOW TV PPV 8 - NO EVENT STREAMING -
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1055921.m3u8
@@ -9430,37 +9430,37 @@ http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1324769.m3u8
 # --- DE| SPORT EUROPE PPV (101) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Animated-Flag-Germany.gif" group-title="DE| SPORT EUROPE PPV",##### SPORT EUROPE PPV #####
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1035021.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 1 - YONEX GERMAN RUHR INTERNATIONAL U17 - COURT 1-2 - SEMI FINALS & FINALS | Sat 20 Dec 08:00
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 1 - NO EVENT STREAMING -
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1035020.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 2 - YONEX GERMAN RUHR INTERNATIONAL U19 - COURT 3-4 - SEMI FINALS & FINALS | Sat 20 Dec 08:00
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 2 - 2. HBF: ESV 1927 REGENSBURG VS. FÜCHSE BERLIN | Sat 20 Dec 17:15
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1035019.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 3 - LIVE | TCHOUKBALL NATIONS CUP 2025 IN GENEVA: SEMI-FINALS & FINALS | Sat 20 Dec 08:00
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 3 - 2. HBF: HSV SOLINGEN-GRÄFRATH 76 VS. TUS LINTFORT | Sat 20 Dec 17:15
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1035018.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 14 - SKVS POKAL 25/26 VIERTELFINALE | Sat 20 Dec 11:55
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 14 - NO EVENT STREAMING -
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1035017.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 5 - KAIFU RITTER XMAS CUP 2025 | Sat 20 Dec 09:00
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 5 - 1. BUNDESLIGA LIVE: SV GERMANIA WEINGARTEN - SV WACKER BURGHAUSEN | Sat 20 Dec 18:15
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1035016.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 6 - SG BAD SULZA/ NIEDERTREBRA GG. TSV ELSTERTAL BAD KÖSTRITZ | Sat 20 Dec 10:00
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 6 - NO EVENT STREAMING -
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1035015.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 7 - JUGENDSPIELTAG 20.12.2025 OZ U19 / U10 | Sat 20 Dec 09:55
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 7 - TUS DAMEN 1 VS. HSG STUTTGARTER KICKERS/TUS METZINGEN 2 | Sat 20 Dec 18:55
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1035014.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 8 - 5. INDOOR CANOE SPRINT CUP UND OFFENE SÄCHSISCHE MEISTERSCHAFT | Sat 20 Dec 11:00
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 8 - NO EVENT STREAMING -
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1035013.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 9 - 10.SPIELTAG 2.BULI NORD SV BERLINER BRAUEREIEN - 1. BC RECKLINGHAUSEN | Sat 20 Dec 11:45
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 9 - NO EVENT STREAMING -
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1035012.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 10 - EUROPEAN WOMEN`S HOCKEY LEAGUE: VSV LADY HAWKS VS. GRAZ 99ERS HUSKIES | Sat 20 Dec 11:45
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 10 - NO EVENT STREAMING -
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1035011.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 11 - 4 NATIONS ONE COURT U18 VOLLEYBALL | Sat 20 Dec 11:45
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 11 - NO EVENT STREAMING -
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1035010.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 12 - 1. BADMINTON BL: 1. BC WIPPERFELD - TV REFRATH - COURT 2 | Sat 20 Dec 11:50
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 12 - NO EVENT STREAMING -
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1035009.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 13 - 1. BADMINTON BL: 1. BC WIPPERFELD - TV REFRATH - COURT 1 | Sat 20 Dec 11:50
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 13 - NO EVENT STREAMING -
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1035008.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 14 - SKVS POKAL 25/26 VIERTELFINALE | Sat 20 Dec 11:55
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 14 - NO EVENT STREAMING -
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1035007.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 15 - 2. BADMINTON BL-NORD: SC UNION 08 LÜDINGHAUSEN (2) - VFB GW MÜLHEIM - COURT 1 | Sat 20 Dec 12:00
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 15 - NO EVENT STREAMING -
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1035006.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 16 - 2. BADMINTON BL-NORD: SC UNION 08 LÜDINGHAUSEN (2) - VFB GW MÜLHEIM - COURT 2 | Sat 20 Dec 12:00
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 16 - NO EVENT STREAMING -
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1035005.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 17 - NO EVENT STREAMING -
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1035004.m3u8
@@ -9502,45 +9502,45 @@ http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1034987.m3u8
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1034986.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 36 - NO EVENT STREAMING -
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1034985.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 37 - NO EVENT STREAMING -
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 37 - PROB SÜD: SV FELLBACH FLASHERS VS. ORANGEACADEMY | Sat 20 Dec 16:15
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1034984.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 38 - NO EVENT STREAMING -
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 38 - PROB NORD: SEAWOLVES ACADEMY VS. BASKETS JUNIORS TSG WESTERSTEDE | Sat 20 Dec 16:30
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1034983.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 39 - NO EVENT STREAMING -
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 39 - PROB SÜD: VR-BANK WÜRZBURG BASKETS AKADEMIE VS. BG HESSING LEITERSHOFEN | Sat 20 Dec 16:45
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1034982.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 40 - NO EVENT STREAMING -
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 40 - 2. HBF: HC LEIPZIG VS. TG NÜRTINGEN | Sat 20 Dec 16:45
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1034981.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 41 - NO EVENT STREAMING -
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 41 - 2. HBF: VFL WAIBLINGEN VS. 1. FSV MAINZ 05 | Sat 20 Dec 16:45
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1034980.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 42 - NO EVENT STREAMING -
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 42 - PROA: RHEINSTARS KÖLN VS. HAKRO MERLINS CRAILSHEIM | Sat 20 Dec 16:45
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1034979.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 43 - NO EVENT STREAMING -
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 43 - 2. BADMINTON-BUNDESLIGA: SG SCHORNDORF VS. SV FUN BALL DORTELWEIL 2  - COURT 2 | Sat 20 Dec 16:55
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1034978.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 44 - NO EVENT STREAMING -
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 44 - 2. BADMINTON-BUNDESLIGA: SG SCHORNDORF VS. SV FUN BALL DORTELWEIL 2  - COURT 1 | Sat 20 Dec 16:55
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1034977.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 45 - NO EVENT STREAMING -
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 45 - FOR FREE - 2. HBF: SV WERDER BREMEN VS. HSG FREIBURG | Sat 20 Dec 17:15
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1034976.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 46 - NO EVENT STREAMING -
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 46 - 2. HBF: HC RÖDERTAL VS. HL BUCHHOLZ 08-ROSENGARTEN | Sat 20 Dec 17:15
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1034975.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 47 - NO EVENT STREAMING -
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 47 - PROA: BG GÖTTINGEN VS. NÜRNBERG FALCONS BC | Sat 20 Dec 17:15
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1034974.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 48 - NO EVENT STREAMING -
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 48 - 2. HBF: ROSTOCKER HANDBALL CLUB VS. SG 09 KIRCHHOF | Sat 20 Dec 17:25
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1034973.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 49 - NO EVENT STREAMING -
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 49 - PROA: PHOENIX HAGEN VS. PADERBORN BASKETS | Sat 20 Dec 17:30
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1034972.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 50 - NO EVENT STREAMING -
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 50 - PROA:  BBC BAYREUTH VS. TIGERS TÜBINGEN | Sat 20 Dec 17:45
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1034971.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 51 - NO EVENT STREAMING -
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 51 - EUROPAMEISTERSCHAFT SHOW DANCE LATIN 2025 TEIL 2 | Sat 20 Dec 17:55
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1034970.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 52 - NO EVENT STREAMING -
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 52 - PROB NORD: ETB MINERS VS. HERTENER LÖWEN | Sat 20 Dec 18:15
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1034969.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 53 - NO EVENT STREAMING -
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 53 - PROB NORD: EN BASKETS SCHWELM VS. TKS 49ERS | Sat 20 Dec 18:15
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1034968.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 54 - NO EVENT STREAMING -
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 54 - PROB NORD: ISERLOHN KANGAROOS VS. LOK BERNAU | Sat 20 Dec 18:15
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1034967.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 55 - NO EVENT STREAMING -
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 55 - PROA: ARTLAND DRAGONS VS. GIESSEN 46ERS | Sat 20 Dec 18:15
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1034966.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 56 - NO EVENT STREAMING -
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 56 - PROA: EPG BASKETS KOBLENZ VS. PS KARLSRUHE LIONS | Sat 20 Dec 18:18
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1034965.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 57 - NO EVENT STREAMING -
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1034964.m3u8
