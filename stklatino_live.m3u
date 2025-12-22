@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: stklatino.dynns.com:2082
-# Generated: 2025-12-21 18:34:08
+# Generated: 2025-12-22 07:12:41
 # Expires: 2026-02-11
 # Family Safe Edition
 # ==============================================
@@ -1785,7 +1785,7 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/7025.m3u8
 #EXTINF:-1 tvg-logo="http://dshm.tmsimg.com/h3/NowShowing/73833/s73833_h3_aa.png" group-title="DEPORTES",ES*PN 3 Latino HD
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/3077.m3u8
 #EXTINF:-1 tvg-logo="https://espnpressroom.com/us/files/2011/04/RS1129_ESPN_Deportes_CLR_Pos-scr.jpg" group-title="DEPORTES",ES*PN Deportes
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/53387.m3u8
+http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/129823.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_espn-1_m.png" group-title="DEPORTES",Es*pn Extra
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/50010.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_espn-1_m.png" group-title="DEPORTES",Es*pn Extra HD
@@ -16510,7 +16510,7 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/66223.m3u8
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/77373.m3u8
 #EXTINF:-1 tvg-logo="https://radio.suyaitv.cl/wp-content/uploads/2024/04/Logo-Blanco-RADIO.png" group-title="RADIOS",Suyai TV Radio
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/80100.m3u8
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/sdgsdm2qwcu6.jpeg" group-title="RADIOS",La Kalle
+#EXTINF:-1 tvg-logo="" group-title="RADIOS",La Kalle
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/55183.m3u8
 #EXTINF:-1 tvg-logo="https://www.92punto3.cl/wp-content/uploads/2021/12/92punto3_logo_r.png" group-title="RADIOS",Radio 92.3 Puerto Montt (Chile)
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/81386.m3u8

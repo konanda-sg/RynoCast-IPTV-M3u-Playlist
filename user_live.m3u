@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: user.scalecdn.co:8080
-# Generated: 2025-12-21 18:29:35
+# Generated: 2025-12-22 07:11:03
 # Expires: 2026-11-29
 # Family Safe Edition
 # ==============================================
@@ -13633,7 +13633,7 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2227.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Quest_logo_2014.svg/1200px-Quest_logo_2014.svg.png" group-title="UK SPORTS",UK Quest
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2228.m3u8
 
-# --- USA ENTERTAINMENT (243) ---
+# --- USA ENTERTAINMENT (242) ---
 #EXTINF:-1 tvg-logo="https://scripps.com/wp-content/uploads/2019/09/laff_logo_0919.png" group-title="USA ENTERTAINMENT",NY | Albany | Laff TV WXXA
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/75343.m3u8
 #EXTINF:-1 tvg-logo="https://allvectorlogo.com/img/2016/07/ae-logo.png" group-title="USA ENTERTAINMENT",USA A&E (SHD)
@@ -14110,8 +14110,6 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/723847.m3u8
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/723848.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA ENTERTAINMENT",USA TV27 WRDQ
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/723849.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA ENTERTAINMENT",test stream
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/725131.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA ENTERTAINMENT",test
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/713851.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/BYUtv_logo.svg/250px-BYUtv_logo.svg.png" group-title="USA ENTERTAINMENT",USA BYU TV
@@ -14730,7 +14728,7 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/38317.m3u8
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/38264.m3u8
 #EXTINF:-1 tvg-logo="https://coastaltvgroup.com/wp-content/uploads/2024/10/KJUD_8_Juneau_Horizontal-1024x250.png" group-title="USA LOCAL - ABC",AK | Juneau | ABC 8 KJUD
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/629091.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/WABM_logo.svg/1200px-WABM_logo.svg.png" group-title="USA LOCAL - ABC",AL | Birmingham | ABC 68 WABM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/WABM_logo.svg/1200px-WABM_logo.svg.png" group-title="USA LOCAL - ABC",AL | Birmingham | ABC 33/40 WBAM
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/38263.m3u8
 #EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/81OnfYiV43L.png" group-title="USA LOCAL - ABC",AL | Huntsville | ABC 31 WAAY
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/38262.m3u8
@@ -18907,4 +18905,4 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/660965.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VIETNAM",VN Vietface TV
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/660966.m3u8
 
-# Total: 9328
+# Total: 9327

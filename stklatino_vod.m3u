@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: stklatino.dynns.com:2082
-# Generated: 2025-12-21 18:34:08
+# Generated: 2025-12-22 07:12:41
 # Expires: 2026-02-11
 # Family Safe Edition
 # ==============================================
@@ -10723,7 +10723,7 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/89336.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mdjD1JRmZvHrmG69C4NJSaVVkYq.jpg" group-title="Movies | CONCIERTOS & SHOWS",Ricardo Arjona Festival de Viña del Mar (2015)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/89337.mp4
 
-# --- Movies | CRIMEN & MISTERIO (154) ---
+# --- Movies | CRIMEN & MISTERIO (155) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | CRIMEN & MISTERIO",La primera muerte
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/857.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | CRIMEN & MISTERIO",61st Street
@@ -11032,6 +11032,8 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2498.mp4
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2500.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | CRIMEN & MISTERIO",Si no hubiera visto el sol
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2502.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | CRIMEN & MISTERIO",Walking on thin Ice
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2503.mp4
 
 # --- Movies | DISNEY (188) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzUvS1tW6WuJHYB4bbFOW89aNVc.jpg" group-title="Movies | DISNEY",101 dálmatas: ¡Ahora la magia es real! (1996)
@@ -21631,4 +21633,4 @@ http://stklatino.dynns.com:2082/series/maldonadoluis/frEbTPk9DN3L/2451
 #EXTINF:-1 tvg-logo="" group-title="Series | TELESERIES",Apuesta por un amor
 http://stklatino.dynns.com:2082/series/maldonadoluis/frEbTPk9DN3L/2452
 
-# Total: 10782
+# Total: 10783

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: dnssp.site:80
-# Generated: 2025-12-21 18:27:56
+# Generated: 2025-12-22 07:16:27
 # Expires: 2026-01-16
 # Family Safe Edition
 # ==============================================
@@ -1962,9 +1962,9 @@ http://dnssp.site:80/live/f98lugg8/pzczhs7r/2160.m3u8
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/2159.m3u8
 
 # --- HORA DO JOGO (13) ---
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",Hora do Jogo! 1
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",18:00 Vasco X Corinthians
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/981577.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",Hora do Jogo! 2
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",18:00 Vasco X Corinthians ALT
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/981578.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",Hora do Jogo! 3
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/981579.m3u8

@@ -1,87 +1,83 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: globe.midomed.com:80
-# Generated: 2025-12-21 18:26:09
+# Generated: 2025-12-22 07:09:00
 # Expires: 2026-04-07
 # Family Safe Edition
 # ==============================================
 
 
-# --- ALGERIE (37) ---
-#EXTINF:-1 tvg-logo="" group-title="ALGERIE",ALG_ALGERIE3
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/243.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALGERIE",ALG_ALGERIE4
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/250.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALGERIE",ALG_ALGERIE5
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/262.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALGERIE",ALG_ALHADEF
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/244.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALGERIE",ALG_ALMAGARIBIA
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/266.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALGERIE",ALG_ALMAGHRIBIA2
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/260.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALGERIE",ALG_BAHIATV
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/253.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALGERIE",ALG_BERBERE.MUSIC
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/265.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALGERIE",ALG_BEURTV
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/255.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALGERIE",ALG_CHAMSTV
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/246.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALGERIE",ALG_DJAZAIRIA
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/240.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALGERIE",ALG_DZAIERTV
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/241.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALGERIE",ALG_DZAIR.NEWSTV
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/258.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALGERIE",ALG_DZAIR25
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/248.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALGERIE",ALG_DZAIR3
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/251.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALGERIE",ALG_ECHOROUK.BENNA
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/245.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALGERIE",ALG_ECHOUROUK
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/242.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALGERIE",ALG_ECHOUROUK.NEWS
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/247.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALGERIE",ALG_ELBILAD
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/252.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALGERIE",ALG_ELFADJRTV.DZ
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/267.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALGERIE",ALG_ELHAYA.ALGERIE
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/259.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALGERIE",ALG_ENAHAR.LAKI
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/268.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALGERIE",ALG_ENNAHAR
+# --- ALGERIE (35) ---
+#EXTINF:-1 tvg-logo="" group-title="ALGERIE",-----??|_ALGERIE_|??-----*
 http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/239.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALGERIE",ALG_ENTV
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/257.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALGERIE",ALG_ENTV.TERRESTRE.DZ
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/254.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALGERIE",ALG_NUMIDIATV
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/264.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALGERIE",ALG_SAMIRATV
+#EXTINF:-1 tvg-logo="" group-title="ALGERIE",Algerian:_EL_Watania_TV_Algeria*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/240.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ALGERIE",Algerian:El_Djazairia_N1*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/241.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ALGERIE",Algerian:_Programme_nationale[_ENTV_1_]*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/242.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ALGERIE",Algerian:__ALGERIE_2*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/243.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ALGERIE",Algerian:_DZ:_TV_A3*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/245.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyWMbbCrOELe33Wb6apad2Kra-fZJWsmWRWhLDret9Z56MZAHXGA" group-title="ALGERIE",Algerian:_Algerie_3_TV_[_A3_]*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/246.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ALGERIE",Algerian:ALGERIE4*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/247.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ALGERIE",Algerian:Algerie_Tamazight_TV4*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/248.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ALGERIE",Algerian:Algeria_TV_Coran_[_Algerie_5_]*
 http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/249.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALGERIE",ALG_TV.BERBERE
+#EXTINF:-1 tvg-logo="" group-title="ALGERIE",Algerian:Tv_6_FHD*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/250.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ALGERIE",Algerian:_TV7_ELMAARIFA*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/251.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ALGERIE",Algerian:_Algerie_Edhakira_TV8*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/252.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ALGERIE",Algerian:ENTV*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/253.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ALGERIE",Algerian:SAMIRA_TV*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/254.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ALGERIE",Algerian:_SamiraTV*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/255.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ALGERIE",Algerian:_El-Heddaf.TV*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/256.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ALGERIE",Algerian:ALHADEF*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/257.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ALGERIE",Algerian:Echorouk_TV*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/258.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ALGERIE",Algerian:Echorouk_BENNA*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/259.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ALGERIE",Algerian:Echourouk_News*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/260.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ALGERIE",Algerian:ENNAHAR*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/261.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ALGERIE",Algerian:_Ennahar-Laki*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/262.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ALGERIE",Algerian:_Al_Fajer_1_HD*
 http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/263.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALGERIE",Algerian_ENNAHAR
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/4507.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALGERIE",Algerian_ECHOUROUKNewsTV
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/4514.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALGERIE",Ar_Libya-PanoramaTV
+#EXTINF:-1 tvg-logo="" group-title="ALGERIE",Algerian:ELHAYAT_TV*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/264.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ALGERIE",Algerian:_AL_24_News*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/265.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ALGERIE",Algerian:Berbere_TV*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/266.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ALGERIE",Algerian-AL-BILED*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/267.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ALGERIE",Algerian:_BAHIA*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/268.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ALGERIE",Algerian:ALANIS_TV*
 http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/4489.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALGERIE",AR_LIBYAALHADATH
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/4492.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALGERIE",AR_LIBYAALWATNYAH
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/4491.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALGERIE",AR_Libyan_LIBYA-218
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/4504.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALGERIE",Ar_Libya-ALWATNYAHHD*
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/4512.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALGERIE",Ar_Libyan_LIBYA-TV
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/4564.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALGERIE",Ar_MOURITANIA2HD*
+#EXTINF:-1 tvg-logo="" group-title="ALGERIE",Algerian:Sahra_TV_Algeria*
 http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/4490.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ALGERIE",Algerian:ALMAGHRIBIA2*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/4491.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ALGERIE",Algerian:_Algeria_BEUR_TV*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/4492.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ALGERIE",Algerian:_KBC_ALGERIA*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/4504.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ALGERIE",Algerian:BEUR_TV*
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/4507.m3u8
 
 # --- ARABE (135) ---
 #EXTINF:-1 tvg-logo="" group-title="ARABE",---------ROTANA---------
@@ -2011,4 +2007,4 @@ http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/1026.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK",|UK|TotalCountry
 http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/1027.m3u8
 
-# Total: 980
+# Total: 978

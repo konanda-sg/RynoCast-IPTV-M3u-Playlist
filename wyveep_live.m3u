@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: wyveep.com:8080
-# Generated: 2025-12-21 18:36:57
+# Generated: 2025-12-22 07:09:09
 # Expires: 2025-12-25
 # Family Safe Edition
 # ==============================================
@@ -10669,9 +10669,33 @@ http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/118414.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo/RADIO-LOGO/RADIO%20MAROC%20TETOUAN.png" group-title="♫ RADIO MAROC",MA| RADIO MAROC TETOUAN
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/118415.m3u8
 
-# --- ⚽️ BEIN SPORT ARABIC  | TV (92) ---
+# --- ⚽️ BEIN SPORT ARABIC  | TV (104) ---
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/flag/123/arabicsport.png" group-title="⚽️ BEIN SPORT ARABIC  | TV",•●★★--BEIN SPORTS| OTT--★★●•
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/35155.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsportsmax1.png" group-title="⚽️ BEIN SPORT ARABIC  | TV",|AR| BEIN SPORTS MAX 1 4K
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1403188.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsportsmax2.png" group-title="⚽️ BEIN SPORT ARABIC  | TV",|AR| BEIN SPORTS MAX 2 4K
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1403187.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsportsmax3.png" group-title="⚽️ BEIN SPORT ARABIC  | TV",|AR| BEIN SPORTS MAX 3 4K
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1403186.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsportsmax4.png" group-title="⚽️ BEIN SPORT ARABIC  | TV",|AR| BEIN SPORTS MAX 4 4K
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1403185.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsportsmax1.png" group-title="⚽️ BEIN SPORT ARABIC  | TV",|AR| BEIN SPORTS MAX 1 HD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1403184.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsportsmax2.png" group-title="⚽️ BEIN SPORT ARABIC  | TV",|AR| BEIN SPORTS MAX 2 HD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1403183.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsportsmax3.png" group-title="⚽️ BEIN SPORT ARABIC  | TV",|AR| BEIN SPORTS MAX 3 HD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1403182.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsportsmax4.png" group-title="⚽️ BEIN SPORT ARABIC  | TV",|AR| BEIN SPORTS MAX 4 HD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1403181.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsportsmax1.png" group-title="⚽️ BEIN SPORT ARABIC  | TV",|AR| BEIN SPORTS MAX 1 SD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1403180.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsportsmax2.png" group-title="⚽️ BEIN SPORT ARABIC  | TV",|AR| BEIN SPORTS MAX 2 SD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1403179.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsportsmax3.png" group-title="⚽️ BEIN SPORT ARABIC  | TV",|AR| BEIN SPORTS MAX 3 SD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1403178.m3u8
+#EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsportsmax4.png" group-title="⚽️ BEIN SPORT ARABIC  | TV",|AR| BEIN SPORTS MAX 4 SD
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1403177.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/beINSports1qa.png" group-title="⚽️ BEIN SPORT ARABIC  | TV",AR| BEIN SPORTS 1 FHD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/13816.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/logo/BEIN/BEIN.SPORTS.1.png" group-title="⚽️ BEIN SPORT ARABIC  | TV",AR| BEIN SPORTS 1 H.265
@@ -10855,4 +10879,4 @@ http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1402563.m3u8
 #EXTINF:-1 tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/BEINSPORT3.png" group-title="⚽️ BEIN SPORT ARABIC  | TV",AR| BEIN SPORTS 3 ENGLISH HD
 http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/237130.m3u8
 
-# Total: 5352
+# Total: 5364

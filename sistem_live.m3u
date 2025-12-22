@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: sistem.boss4k.com:2095
-# Generated: 2025-12-21 18:32:48
+# Generated: 2025-12-22 07:13:03
 # Expires: 2026-05-08
 # Family Safe Edition
 # ==============================================
@@ -193,7 +193,11 @@ http://sistem.boss4k.com:2095/live/Sevketcanxx/a3jzB3rrbdAQSb/60190.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALBANIA - AL",AL: FilmBox Stars
 http://sistem.boss4k.com:2095/live/Sevketcanxx/a3jzB3rrbdAQSb/60191.m3u8
 
-# --- ARABIA - AR (35) ---
+# --- ARABIA - AR (37) ---
+#EXTINF:-1 tvg-logo="" group-title="ARABIA - AR",AR: BeiN SP0RTS MAX 1 HD
+http://sistem.boss4k.com:2095/live/Sevketcanxx/a3jzB3rrbdAQSb/184780.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ARABIA - AR",AR: BeiN SP0RTS MAX 2 HD
+http://sistem.boss4k.com:2095/live/Sevketcanxx/a3jzB3rrbdAQSb/184774.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Dmuww-LUzWsxw45pdr6kLG8FMd7DfmrOEeFpM86YAtjLwXrOea1y67IJcpDc7H8LJ2E" group-title="ARABIA - AR",AR: CNBC Arabia
 http://sistem.boss4k.com:2095/live/Sevketcanxx/a3jzB3rrbdAQSb/51486.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ARABIA - AR",AR: ROTANA AFLAM HEVC
@@ -4349,4 +4353,4 @@ http://sistem.boss4k.com:2095/live/Sevketcanxx/a3jzB3rrbdAQSb/181400.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ÇOCUK - TR",TR : KIDSAX Tas Devri
 http://sistem.boss4k.com:2095/live/Sevketcanxx/a3jzB3rrbdAQSb/181402.m3u8
 
-# Total: 2117
+# Total: 2119

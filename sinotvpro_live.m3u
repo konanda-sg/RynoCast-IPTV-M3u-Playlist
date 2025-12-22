@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: sinotvpro.com
-# Generated: 2025-12-21 18:32:07
+# Generated: 2025-12-22 07:10:27
 # Expires: 2026-01-06
 # Family Safe Edition
 # ==============================================
@@ -2899,7 +2899,11 @@ http://sinotvpro.com/live/cgqkT21f0RRq/n45J7DeGWDgZ/68860.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabic - Bein Sports",AR: Bein Extreme Sport HD
 http://sinotvpro.com/live/cgqkT21f0RRq/n45J7DeGWDgZ/8198.m3u8
 
-# --- Arabic - Bein Sports Max (20) ---
+# --- Arabic - Bein Sports Max (30) ---
+#EXTINF:-1 tvg-logo="" group-title="Arabic - Bein Sports Max",AR: Bein Sport Max 1 FHD (L)
+http://sinotvpro.com/live/cgqkT21f0RRq/n45J7DeGWDgZ/247137.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Arabic - Bein Sports Max",AR: Bein Sport Max 1 (L)
+http://sinotvpro.com/live/cgqkT21f0RRq/n45J7DeGWDgZ/247138.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabic - Bein Sports Max",AR: Bein Sport Max 1 4K
 http://sinotvpro.com/live/cgqkT21f0RRq/n45J7DeGWDgZ/245664.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabic - Bein Sports Max",AR: Bein Sport Max 1 HEVC
@@ -2908,6 +2912,12 @@ http://sinotvpro.com/live/cgqkT21f0RRq/n45J7DeGWDgZ/245657.m3u8
 http://sinotvpro.com/live/cgqkT21f0RRq/n45J7DeGWDgZ/245672.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabic - Bein Sports Max",AR: Bein Sport Max 1 SD
 http://sinotvpro.com/live/cgqkT21f0RRq/n45J7DeGWDgZ/245665.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Arabic - Bein Sports Max",AR: Bein Sport Max 1 FHD (S)
+http://sinotvpro.com/live/cgqkT21f0RRq/n45J7DeGWDgZ/247141.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Arabic - Bein Sports Max",AR: Bein Sport Max 1 HD (S)
+http://sinotvpro.com/live/cgqkT21f0RRq/n45J7DeGWDgZ/247140.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Arabic - Bein Sports Max",AR: Bein Sport Max 1 (S)
+http://sinotvpro.com/live/cgqkT21f0RRq/n45J7DeGWDgZ/247139.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabic - Bein Sports Max",AR: Bein Sport Max 1
 http://sinotvpro.com/live/cgqkT21f0RRq/n45J7DeGWDgZ/245656.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabic - Bein Sports Max",AR: Bein Sport Max 2 4K
@@ -2916,6 +2926,12 @@ http://sinotvpro.com/live/cgqkT21f0RRq/n45J7DeGWDgZ/245666.m3u8
 http://sinotvpro.com/live/cgqkT21f0RRq/n45J7DeGWDgZ/245659.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabic - Bein Sports Max",AR: Bein Sport Max 2 FHD
 http://sinotvpro.com/live/cgqkT21f0RRq/n45J7DeGWDgZ/245673.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Arabic - Bein Sports Max",AR: Bein Sport Max 2 FHD (S)
+http://sinotvpro.com/live/cgqkT21f0RRq/n45J7DeGWDgZ/247144.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Arabic - Bein Sports Max",AR: Bein Sport Max 2 HD (S)
+http://sinotvpro.com/live/cgqkT21f0RRq/n45J7DeGWDgZ/247143.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Arabic - Bein Sports Max",AR: Bein Sport Max 2 (S)
+http://sinotvpro.com/live/cgqkT21f0RRq/n45J7DeGWDgZ/247142.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabic - Bein Sports Max",AR: Bein Sport Max 2 SD
 http://sinotvpro.com/live/cgqkT21f0RRq/n45J7DeGWDgZ/245667.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabic - Bein Sports Max",AR: Bein Sport Max 2
@@ -2928,6 +2944,10 @@ http://sinotvpro.com/live/cgqkT21f0RRq/n45J7DeGWDgZ/245674.m3u8
 http://sinotvpro.com/live/cgqkT21f0RRq/n45J7DeGWDgZ/245661.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabic - Bein Sports Max",AR: Bein Sport Max 3 SD
 http://sinotvpro.com/live/cgqkT21f0RRq/n45J7DeGWDgZ/245669.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Arabic - Bein Sports Max",AR: Bein Sport Max 3 FHD (S)
+http://sinotvpro.com/live/cgqkT21f0RRq/n45J7DeGWDgZ/247146.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Arabic - Bein Sports Max",AR: Bein Sport Max 3 HD (S)
+http://sinotvpro.com/live/cgqkT21f0RRq/n45J7DeGWDgZ/247145.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabic - Bein Sports Max",AR: Bein Sport Max 3
 http://sinotvpro.com/live/cgqkT21f0RRq/n45J7DeGWDgZ/245660.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabic - Bein Sports Max",AR: Bein Sport Max 4 4K
@@ -6069,7 +6089,9 @@ http://sinotvpro.com/live/cgqkT21f0RRq/n45J7DeGWDgZ/16350.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Filipino",PH: OSN CNN Philipine
 http://sinotvpro.com/live/cgqkT21f0RRq/n45J7DeGWDgZ/8034.m3u8
 
-# --- Kurdistan (204) ---
+# --- Kurdistan (205) ---
+#EXTINF:-1 tvg-logo="" group-title="Kurdistan",KRD: Channel 8
+http://sinotvpro.com/live/cgqkT21f0RRq/n45J7DeGWDgZ/247148.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kurdistan",KRD Ezidxan Music HD
 http://sinotvpro.com/live/cgqkT21f0RRq/n45J7DeGWDgZ/78965.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kurdistan",KRD: A TV HD
@@ -10159,4 +10181,4 @@ http://sinotvpro.com/live/cgqkT21f0RRq/n45J7DeGWDgZ/1207.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",==== Arabic Free ====
 http://sinotvpro.com/live/cgqkT21f0RRq/n45J7DeGWDgZ/5007.m3u8
 
-# Total: 4985
+# Total: 4996

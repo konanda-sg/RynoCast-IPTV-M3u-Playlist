@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: aztkplay.pro:8080
-# Generated: 2025-12-21 18:36:17
+# Generated: 2025-12-22 07:18:50
 # Expires: 2026-01-19
 # Family Safe Edition
 # ==============================================
@@ -611,7 +611,7 @@ http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/314595.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/zz/zona-latina-cl.png" group-title="CHILE",Zona Latina SD (CL)
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/314596.m3u8
 
-# --- CINEMA PREMIUM (69) ---
+# --- CINEMA PREMIUM (71) ---
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-fun-us.png" group-title="CINEMA PREMIUM",Star Fun Mexico UHD
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/5013.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/de-pelicula-clasico-mx.png" group-title="CINEMA PREMIUM",De Pelicula Classico
@@ -750,6 +750,10 @@ http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/289004.m3u8
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/341045.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CINEMA PREMIUM",PANICO FHD Mexico
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/375391.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Cine_Estelar_2020.png" group-title="CINEMA PREMIUM",Cine estelar
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/594483.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Cine_Nostalgia_2020.png" group-title="CINEMA PREMIUM",Cine Nostalgia
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/594484.m3u8
 
 # --- COLOMBIA (49) ---
 #EXTINF:-1 tvg-logo="" group-title="COLOMBIA",WIN SPORTS PREMIUM  COL
@@ -4123,4 +4127,4 @@ http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/206304.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VIX Plus",Las Estrellas -1 VIX
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/206305.m3u8
 
-# Total: 1993
+# Total: 1995

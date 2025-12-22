@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: ex.guteex.com:8000
-# Generated: 2025-12-21 18:24:15
+# Generated: 2025-12-22 07:14:07
 # Expires: 2026-04-01
 # Family Safe Edition
 # ==============================================
@@ -455,7 +455,7 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/17229.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BELGIUM",LA DEUX
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/29106.m3u8
 
-# --- DE | DAZN Sports (52) ---
+# --- DE | DAZN Sports (55) ---
 #EXTINF:-1 tvg-logo="http://eex24.com:8000/uye/alman.png" group-title="DE | DAZN Sports",-------| DAZN Sports |-------
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/44803.m3u8
 #EXTINF:-1 tvg-logo="http://exapk.us/logo/DE/dazn1.png" group-title="DE | DAZN Sports",DAZN 1 HD Event
@@ -466,7 +466,7 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/6585.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/15172.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE | DAZN Sports",DAZN 1
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/6904.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | DAZN Sports",DAZN 2 HD HEVC
+#EXTINF:-1 tvg-logo="" group-title="DE | DAZN Sports",DAZN 2 HD Event
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/18524.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE | DAZN Sports",DAZN 2 HD ®
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/6586.m3u8
@@ -496,6 +496,14 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/40270.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/40271.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE | DAZN Sports",DAZN UEFA Champions League 11
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/41052.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE | DAZN Sports",DAZN UEFA Champions League 12
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/41051.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE | DAZN Sports",DAZN UEFA Champions League 13
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65459.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE | DAZN Sports",DAZN UEFA Champions League 14
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65460.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE | DAZN Sports",DAZN UEFA Champions League 15
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65461.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE | DAZN Sports",DAZN Event INFO
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/18522.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE | DAZN Sports",DAZN Event 1
@@ -538,8 +546,6 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/41053.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/41054.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE | DAZN Sports",DAZN SerieA 3
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65055.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | DAZN Sports",DAZN Ligue 1
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/41051.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE | DAZN Sports",DAZN RISE HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/48180.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE | DAZN Sports",DAZN FAST + HD
@@ -1769,7 +1775,7 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/39015.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX-YU",BiH K3 Prnjavor
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/39016.m3u8
 
-# --- GREECE (70) ---
+# --- GREECE (92) ---
 #EXTINF:-1 tvg-logo="" group-title="GREECE",-------| GREECE |-------
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/524.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GREECE",EPT World HD
@@ -1792,6 +1798,8 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/35551.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/5025.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GREECE",ANT1 HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/2177.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GREECE",ANT1
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/6486.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GREECE",STAR HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/2182.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GREECE",STAR
@@ -1812,12 +1820,18 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/27958.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/539.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GREECE",Mακεδονία TV
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/6482.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GREECE",ONE Channel HD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65446.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GREECE",FOX TV FHD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/7522.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GREECE",FOX LIFE FHD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/7523.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GREECE",TCM HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/16837.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GREECE",VILLAGE CINEMA FHD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/7513.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GREECE",Action 24 HD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65444.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GREECE",MAX PREMIER HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/25584.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GREECE",MAX PREMIERE HD
@@ -1826,8 +1840,46 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/25500.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/25501.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GREECE",MAX PREMIERE 3 HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/25502.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GREECE",VILLAGE CINEMA FHD
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/7513.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GREECE",CCinema 1 HD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/58116.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GREECE",CCinema 2 HD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/58117.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GREECE",CCinema 3 HD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/58118.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GREECE",Cinema 1 HD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/58114.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GREECE",Cinema 2 HD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/58120.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GREECE",Cinema 3 HD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65443.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GREECE",Cinema 4 HD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/58119.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GREECE",Premiere Action FHD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65451.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GREECE",Premiere Starz FHD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65452.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GREECE",Premiere Comedy FHD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65453.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GREECE",Premiere Drama FHD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65456.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GREECE",Premiere Fantasy FHD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65457.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GREECE",Premiere Adventure FHD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65458.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GREECE",Premiere Horror FHD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65454.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GREECE",Premiere Western FHD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65455.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GREECE",Premiere Thriller FHD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65467.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GREECE",Premiere Passion FHD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65466.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GREECE",Premiere Hellenic HD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65463.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GREECE",Premiere History FHD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65464.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GREECE",Premiere Animation FHD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65465.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GREECE",NAT GEO WILD FHD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/7516.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GREECE",VIASAT HISTORY HD
@@ -1838,7 +1890,7 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/7517.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/6467.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GREECE",DISCOVERY CHANNEL HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/15536.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GREECE",DISCOVERY SCIENCE HD
+#EXTINF:-1 tvg-logo="" group-title="GREECE",TLC
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/15534.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GREECE",Discovery ID HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/35904.m3u8
@@ -1850,21 +1902,31 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/15524.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/15527.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GREECE",NAUTICAL CHANNEL FHD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/7519.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GREECE",Xplore Channel HD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65462.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GREECE",MAX Animation HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/7510.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GREECE",NICKELODEAN
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/6208.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GREECE",Smile HD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65445.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GREECE",World Greek Radio Pianica
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/7509.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GREECE",Mad Greekz
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/38810.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GREECE",ANT1
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/6486.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GREECE",Baraza Greek Music 1 HD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65449.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GREECE",Baraza TV HD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65450.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GREECE",NRG TV HD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65447.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GREECE",IDJ KIDS HD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65448.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GREECE",PLAY TV
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/5319.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GREECE",mOVIES HD
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/35561.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GREECE",Animasyon HD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/35561.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GREECE",Animasyon 1 HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/58108.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GREECE",Animasyon 2 HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/58109.m3u8
@@ -1874,22 +1936,12 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/58110.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/58111.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GREECE",Animasyon 5 HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/58112.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GREECE",Movies 6 HD
+#EXTINF:-1 tvg-logo="" group-title="GREECE",Animasyon 6 HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/58113.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GREECE",Movies Extra HD
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/58120.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GREECE",Movies Start HD
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/58114.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GREECE",Movies Prime HD
+#EXTINF:-1 tvg-logo="" group-title="GREECE",Animasyon 7 HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/58115.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GREECE",Cinema 1 HD
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/58116.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GREECE",Cinema 2 HD
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/58117.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GREECE",Cinema 3 HD
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/58118.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GREECE",Cinema 4 HD
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/58119.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GREECE",Animasyon 8 HD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/58130.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GREECE",Movies 1 HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/58127.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GREECE",Movies 2 HD
@@ -1908,10 +1960,8 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/58124.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/58125.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GREECE",Movies 9 HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/58126.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GREECE",Moies HD
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/58130.m3u8
 
-# --- ITALIA (87) ---
+# --- ITALIA (105) ---
 #EXTINF:-1 tvg-logo="" group-title="ITALIA",-------| SKY ITALIA |-------
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/4454.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ITALIA",RAI 1 HD
@@ -1958,7 +2008,7 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/17894.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/17897.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ITALIA",MEDIASET 20 HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/4443.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ITALIA",TOP CRIME HD
+#EXTINF:-1 tvg-logo="" group-title="ITALIA",TOP crime HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/28758.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ITALIA",Rsi La 1 HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/17868.m3u8
@@ -1996,7 +2046,17 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/17891.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/28761.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ITALIA",K2 HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/28762.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ITALIA",........................  Cultura HD ........................
+#EXTINF:-1 tvg-logo="" group-title="ITALIA",Nickelodeon it
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65426.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ITALIA",Nick JR it
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65425.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ITALIA",Dea Kids HD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65424.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ITALIA",Boomerang it
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65422.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ITALIA",Boing Plus HD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65421.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ITALIA",........................  Doku - Cultura HD ........................
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/17860.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ITALIA",DISCOVERY HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/4455.m3u8
@@ -2056,8 +2116,34 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/28770.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/17866.m3u8
 #EXTINF:-1 tvg-logo="https://media-upload.net/uploads/IsGAEdCawBF1.png" group-title="ITALIA",27 Twentyseven FHD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/29083.m3u8
-#EXTINF:-1 tvg-logo="https://media-upload.net/file/x6auRkyb_tEh" group-title="ITALIA",Sky Cinema Due HD
+#EXTINF:-1 tvg-logo="" group-title="ITALIA",Comedy Central it
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65423.m3u8
+#EXTINF:-1 tvg-logo="https://media-upload.net/file/x6auRkyb_tEh" group-title="ITALIA",Cinema 1 HD it
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/29084.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ITALIA",Cinema 2 HD it
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65427.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ITALIA",Cinema 3 HD it
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65428.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ITALIA",Cinema 4 HD it
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65429.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ITALIA",Cinema 5 HD it
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65430.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ITALIA",Cinema 6 HD it
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65431.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ITALIA",Cinema 7 HD it
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65432.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ITALIA",Cinema 8 HD it
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65433.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ITALIA",Cinema 9 HD it
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65434.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ITALIA",Cinema 10 HD it
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65435.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ITALIA",Cinema 11 HD it
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65436.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ITALIA",Cinema 12 HD it
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65437.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ITALIA",Cinema 13 HD it
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65438.m3u8
 #EXTINF:-1 tvg-logo="https://media-upload.net/uploads/DyTLrf5UszBa.png" group-title="ITALIA",Sky Primafila 1 UHD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/29088.m3u8
 #EXTINF:-1 tvg-logo="https://media-upload.net/uploads/DyTLrf5UszBa.png" group-title="ITALIA",Sky Primafila 2 UHD
@@ -4347,4 +4433,4 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/40596.m3u8
 #EXTINF:-1 tvg-logo="" group-title="| TR- RADIO",RADYO | Diyanet Kur'ân Radyo
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/40597.m3u8
 
-# Total: 2135
+# Total: 2178

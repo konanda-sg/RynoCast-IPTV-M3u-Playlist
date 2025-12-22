@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tvpremiund.ddns.me:2082
-# Generated: 2025-12-21 18:26:20
+# Generated: 2025-12-22 07:06:15
 # Expires: 2026-02-14
 # Family Safe Edition
 # ==============================================
@@ -1785,7 +1785,7 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/7025.m3u8
 #EXTINF:-1 tvg-logo="http://dshm.tmsimg.com/h3/NowShowing/73833/s73833_h3_aa.png" group-title="DEPORTES",ES*PN 3 Latino HD
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/3077.m3u8
 #EXTINF:-1 tvg-logo="https://espnpressroom.com/us/files/2011/04/RS1129_ESPN_Deportes_CLR_Pos-scr.jpg" group-title="DEPORTES",ES*PN Deportes
-http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/53387.m3u8
+http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/129823.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_espn-1_m.png" group-title="DEPORTES",Es*pn Extra
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/50010.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_espn-1_m.png" group-title="DEPORTES",Es*pn Extra HD
@@ -16510,7 +16510,7 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/66223.m3u8
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/77373.m3u8
 #EXTINF:-1 tvg-logo="https://radio.suyaitv.cl/wp-content/uploads/2024/04/Logo-Blanco-RADIO.png" group-title="RADIOS",Suyai TV Radio
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/80100.m3u8
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/sdgsdm2qwcu6.jpeg" group-title="RADIOS",La Kalle
+#EXTINF:-1 tvg-logo="" group-title="RADIOS",La Kalle
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/55183.m3u8
 #EXTINF:-1 tvg-logo="https://www.92punto3.cl/wp-content/uploads/2021/12/92punto3_logo_r.png" group-title="RADIOS",Radio 92.3 Puerto Montt (Chile)
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/81386.m3u8
